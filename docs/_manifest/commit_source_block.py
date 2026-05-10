@@ -32,6 +32,10 @@ SOURCES_HEADING = "## Sources"
 
 VALID_COMPONENTS = {"exp", "m1", "m2", "m3", "m4", "proc"}
 
+# Mirror the verifier's slug shape. Reject anything that could traverse paths
+# (`..`, `/`) or sneak whitespace / control chars into emitted YAML lines.
+SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
+
 
 def read_block(args) -> str:
     if args.stdin:
@@ -98,13 +102,17 @@ def render(header: str, preamble: str, blocks) -> str:
 
 
 def tick_checkbox(slug: str) -> bool:
+    # End-anchored line match. Substring replace would corrupt entries whose
+    # slug shares a prefix (ticking 'foo' would also rewrite 'foobar').
     text = WORKFLOW.read_text()
-    pending = f"- [ ] {slug}"
-    done = f"- [x] {slug}"
-    if pending in text:
-        WORKFLOW.write_text(text.replace(pending, done))
+    escaped = re.escape(slug)
+    pending = re.compile(rf"^- \[ \] {escaped}\s*$", re.MULTILINE)
+    done = re.compile(rf"^- \[x\] {escaped}\s*$", re.MULTILINE)
+    if pending.search(text):
+        new_text = pending.sub(f"- [x] {slug}", text)
+        WORKFLOW.write_text(new_text)
         return True
-    return done in text  # already ticked → idempotent success
+    return bool(done.search(text))  # already ticked → idempotent success
 
 
 def run_verifier():
@@ -135,9 +143,18 @@ def extract_toc_title(toc_text: str, slug: str) -> str:
             head = line[2:].strip()
             for sep in (" — ", " - ", ": "):
                 if sep in head:
-                    return head.split(sep, 1)[1].strip().rstrip(".")
-            return head
+                    title = head.split(sep, 1)[1].strip().rstrip(".")
+                    return _sanitize_title(title) or slug
+            return _sanitize_title(head) or slug
     return slug
+
+
+def _sanitize_title(t: str) -> str:
+    # The block is line-oriented; collapse any embedded whitespace (incl. tabs
+    # and accidental newlines from malformed toc.md) so the title stays on one
+    # line. The verifier's parser uses partition(':') so colons inside the
+    # value are fine; the real hazard is line breaks.
+    return re.sub(r"\s+", " ", t).strip()
 
 
 def build_whole_document_block(slug: str, components: list[str], rationale: str | None) -> str:
@@ -198,6 +215,14 @@ def main():
     p.add_argument("--dry-run", action="store_true")
     args = p.parse_args()
 
+    if not SLUG_RE.match(args.slug):
+        print(
+            f"ERROR: slug '{args.slug}' does not match {SLUG_RE.pattern}; "
+            "must be lowercase alphanumerics and hyphens only",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     if args.whole_document:
         if not args.components:
             print("ERROR: --whole-document requires --components", file=sys.stderr)
@@ -225,17 +250,23 @@ def main():
         sys.stdout.write(output)
         sys.exit(0)
 
+    # Backup the previous content so we can restore on verifier failure —
+    # otherwise a malformed block stays on disk and contaminates the next run.
+    backup = text
     PLAN.write_text(output)
-    print(f"committed: {args.slug}")
 
     rc, out = run_verifier()
     sys.stdout.write(out)
     if rc != 0:
+        PLAN.write_text(backup)
         print(
-            f"VERIFIER FAILED (exit {rc}); block was committed; check manually",
+            f"VERIFIER FAILED (exit {rc}); chunking-plan.md restored to prior "
+            f"state. Inspect your input block, fix, and re-run.",
             file=sys.stderr,
         )
         sys.exit(2)
+
+    print(f"committed: {args.slug}")
 
     if tick_checkbox(args.slug):
         print(f"checkbox ticked: {args.slug}")

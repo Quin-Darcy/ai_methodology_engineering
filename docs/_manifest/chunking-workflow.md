@@ -188,6 +188,14 @@ The script:
 5. Commit: `cat /tmp/verified.txt | python3 docs/_manifest/commit_source_block.py <slug> --stdin`. This inserts/replaces the block at the correct alphabetical position, runs the verifier, and ticks the checklist box.
 6. Pause for user inspection if any warnings or hard failures are emitted.
 
+**Pre-invocation integrity check.** The helper scripts have project-allowlist entries in `.claude/settings.json` that let Claude run them without permission prompts. To preserve auditability, **before each invocation** of any helper script, run:
+
+```bash
+sha1sum -c docs/_manifest/SCRIPT_HASHES
+```
+
+If any line reports `FAILED`, halt and surface to the user — a script has changed and the pinned hash is stale. After legitimate edits to a helper script, regenerate `SCRIPT_HASHES` with `sha1sum docs/_manifest/*.py > docs/_manifest/SCRIPT_HASHES` and commit both the script and the hash file in the same commit.
+
 **Helper scripts** (in `docs/_manifest/`):
 - `scan_pdf_quality.py` — pre-flight scan of all source PDFs. Reports image-only PDFs (need OCR) and reflowable ebooks (need `page_scheme: pdf`). Run once before iteration begins.
 - `subtask1_brief.py <slug>` — emits a self-contained Subtask 1 prompt with workflow context, manifest stanzas, **pre-computed page bounds from the toc table** (next-chapter-start − 1 arithmetic), and reflowable-PDF warnings. The agent reads zero additional files.
@@ -228,9 +236,9 @@ Mark `[x]` after Subtask 3 succeeds for that slug.
 - [x] dennett-2013-intuition-pumps
 - [x] eemeren-grootendorst-2004-systematic-theory
 - [x] eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep
-- [ ] gadamer-1960-truth-and-method
-- [ ] gendler-2010-intuition-imagination-philosophical-methodology
-- [ ] hadot-1995-philosophy-as-a-way-of-life
+- [x] gadamer-1960-truth-and-method
+- [x] gendler-2010-intuition-imagination-philosophical-methodology
+- [x] hadot-1995-philosophy-as-a-way-of-life
 - [ ] martinich-2015-philosophical-writing
 - [ ] murdoch-1970-sovereignty-of-good
 - [ ] palmer-1969-hermeneutics

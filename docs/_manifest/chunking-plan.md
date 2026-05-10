@@ -527,3 +527,175 @@ chunks:
     verified: true
     rationale: Fallacies as violations of rules 6–10 (starting point, scheme, validity, closure, usage).
 warnings: PDF is image-only (no embedded text); OCR required before Stage 3; Subtask 2 must verify pdf-page mapping visually.
+
+### gadamer-1960-truth-and-method
+pdf_total_pages: 639
+toc_path: docs/sources/gadamer-1960-truth-and-method/toc.md
+pdf_path: docs/sources/gadamer-1960-truth-and-method/full.pdf
+whole_document: false
+chunks:
+  - id: gadamer-1960-truth-and-method/ch4-s1-prejudices
+    title: Ch. 4 §1 — Historicity of understanding; prejudices as conditions
+    page_scheme: book
+    page_start: 267
+    page_end: 304
+    pdf_page_start: 305
+    pdf_page_end: 342
+    components: [m2, exp]
+    verified: true
+    rationale: Hermeneutic circle, prejudice/authority/tradition, Wirkungsgeschichte — core of both manifest targets.
+  - id: gadamer-1960-truth-and-method/ch4-s2-application
+    title: Ch. 4 §2 — Recovery of the fundamental hermeneutic problem (application)
+    page_scheme: book
+    page_start: 305
+    page_end: 334
+    pdf_page_start: 343
+    pdf_page_end: 372
+    components: [m2]
+    verified: true
+    rationale: Application problem, Aristotelian phronesis, legal hermeneutics as exemplar.
+  - id: gadamer-1960-truth-and-method/ch4-s3-effected-consciousness
+    title: Ch. 4 §3 — Historically effected consciousness; logic of question and answer
+    page_scheme: book
+    page_start: 335
+    page_end: 383
+    pdf_page_start: 373
+    pdf_page_end: 419
+    components: [m2, exp]
+    verified: true
+    rationale: Erfahrung, fusion of horizons, Platonic dialectic — primary dialogical-move source.
+  - id: gadamer-1960-truth-and-method/ch5-s1-language-medium
+    title: Ch. 5 §1 — Language as the medium of hermeneutic experience
+    page_scheme: book
+    page_start: 384
+    page_end: 404
+    pdf_page_start: 422
+    pdf_page_end: 442
+    components: [m2]
+    verified: true
+    rationale: Linguistic-ontological extension; secondary depth for hermeneutic critic.
+
+### gendler-2010-intuition-imagination-philosophical-methodology
+pdf_total_pages: 373
+toc_path: docs/sources/gendler-2010-intuition-imagination-philosophical-methodology/toc.md
+pdf_path: docs/sources/gendler-2010-intuition-imagination-philosophical-methodology/full.pdf
+whole_document: false
+chunks:
+  - id: gendler-2010-intuition-imagination-philosophical-methodology/ch1-galileo
+    title: Galileo and the Indispensability of Scientific Thought Experiment
+    page_scheme: book
+    page_start: 21
+    page_end: 41
+    pdf_page_start: 32
+    pdf_page_end: 52
+    components: [exp, m4]
+    verified: true
+    rationale: Worked Galileo case; thought experiments as cognitively contentful, not merely rhetorical.
+  - id: gendler-2010-intuition-imagination-philosophical-methodology/ch2-rethought-reperceived
+    title: Thought Experiments Rethought — and Reperceived
+    page_scheme: book
+    page_start: 42
+    page_end: 52
+    pdf_page_start: 53
+    pdf_page_end: 63
+    components: [exp, m4]
+    verified: true
+    rationale: Primary exp target; thought experiments as mental simulation, not pure rational insight.
+  - id: gendler-2010-intuition-imagination-philosophical-methodology/ch3-exceptional-persons
+    title: Exceptional Persons: On the Limits of Imaginary Cases
+    page_scheme: book
+    page_start: 53
+    page_end: 73
+    pdf_page_start: 64
+    pdf_page_end: 84
+    components: [exp, m4]
+    verified: true
+    rationale: Limits-of-thought-experiments analysis; direct support for Dennettian stress-testing.
+  - id: gendler-2010-intuition-imagination-philosophical-methodology/ch5-fake-barns
+    title: The Real Guide to Fake Barns: A Catalogue (with Hawthorne)
+    page_scheme: book
+    page_start: 98
+    page_end: 115
+    pdf_page_start: 109
+    pdf_page_end: 126
+    components: [exp, m4]
+    verified: true
+    rationale: Catalogues how thought experiments degrade when imaginative load is misjudged.
+  - id: gendler-2010-intuition-imagination-philosophical-methodology/ch6-cognitive-equilibrium
+    title: Philosophical Thought Experiments, Intuitions, and Cognitive Equilibrium
+    page_scheme: book
+    page_start: 116
+    page_end: 134
+    pdf_page_start: 127
+    pdf_page_end: 143
+    components: [exp, m4]
+    verified: false
+    rationale: Most general statement of the volume's position on what intuitions provide.
+warnings: ch6 book page_end 134 overshoots actual content end (book p. 132 = PDF 143); PDF 144 is Part II divider, 145 blank, Ch.7 opens at PDF 146; pdf_page_end set to 143 to exclude divider+blank.
+
+### hadot-1995-philosophy-as-a-way-of-life
+pdf_total_pages: 321
+toc_path: docs/sources/hadot-1995-philosophy-as-a-way-of-life/toc.md
+pdf_path: docs/sources/hadot-1995-philosophy-as-a-way-of-life/full.pdf
+whole_document: false
+chunks:
+  - id: hadot-1995-philosophy-as-a-way-of-life/ch1-forms-of-life
+    title: Forms of Life and Forms of Discourse in Ancient Philosophy
+    page_scheme: book
+    page_start: 49
+    page_end: 70
+    pdf_page_start: 60
+    pdf_page_end: 81
+    components: [exp]
+    verified: true
+    rationale: Methodological core; texts composed for forms of life, not as decontextualized doctrine.
+  - id: hadot-1995-philosophy-as-a-way-of-life/ch3-spiritual-exercises
+    title: Spiritual Exercises
+    page_scheme: book
+    page_start: 81
+    page_end: 125
+    pdf_page_start: 92
+    pdf_page_end: 136
+    components: [exp]
+    verified: true
+    rationale: Canonical catalog of practices; operational backbone for practice-level directives.
+  - id: hadot-1995-philosophy-as-a-way-of-life/ch5-figure-of-socrates
+    title: The Figure of Socrates
+    page_scheme: book
+    page_start: 147
+    page_end: 178
+    pdf_page_start: 158
+    pdf_page_end: 189
+    components: [exp]
+    verified: true
+    rationale: Elenchus as care of the self; grounds dialogical disposition.
+  - id: hadot-1995-philosophy-as-a-way-of-life/ch9-view-from-above
+    title: The View from Above
+    page_scheme: book
+    page_start: 238
+    page_end: 250
+    pdf_page_start: 249
+    pdf_page_end: 261
+    components: [exp]
+    verified: true
+    rationale: Cosmic-perspectival exercise; concise, supports stepping outside own framing.
+  - id: hadot-1995-philosophy-as-a-way-of-life/ch10-sage-and-world
+    title: The Sage and the World
+    page_scheme: book
+    page_start: 251
+    page_end: 263
+    pdf_page_start: 262
+    pdf_page_end: 274
+    components: [exp]
+    verified: true
+    rationale: Mature stance the practices aim at; formal endpoint.
+  - id: hadot-1995-philosophy-as-a-way-of-life/ch11-philosophy-as-way-of-life
+    title: Philosophy as a Way of Life
+    page_scheme: book
+    page_start: 264
+    page_end: 276
+    pdf_page_start: 275
+    pdf_page_end: 287
+    components: [exp]
+    verified: true
+    rationale: Title essay; most general statement of the position.
