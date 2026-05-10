@@ -239,18 +239,18 @@ Mark `[x]` after Subtask 3 succeeds for that slug.
 - [x] gadamer-1960-truth-and-method
 - [x] gendler-2010-intuition-imagination-philosophical-methodology
 - [x] hadot-1995-philosophy-as-a-way-of-life
-- [ ] martinich-2015-philosophical-writing
-- [ ] murdoch-1970-sovereignty-of-good
-- [ ] palmer-1969-hermeneutics
-- [ ] polonioli-2019-minimally-biased-naturalistic-philosophy
-- [ ] pryor-guidelines-writing
-- [ ] ricoeur-1981-hermeneutics-human-sciences
-- [ ] rorty-1984-four-genres
-- [ ] skinner-2002-visions-of-politics-vol1
-- [ ] sofaer-strech-2012-systematic-reviews-of-reasons
-- [ ] tricco-2018-prisma-scr
-- [ ] tully-1988-meaning-and-context
-- [ ] walton-reed-macagno-2008-argumentation-schemes
-- [ ] williamson-2018-doing-philosophy
-- [ ] wittgenstein-1953-philosophical-investigations
-- [ ] wittgenstein-1998-culture-and-value
+- [x] martinich-2015-philosophical-writing
+- [x] murdoch-1970-sovereignty-of-good
+- [x] palmer-1969-hermeneutics
+- [x] polonioli-2019-minimally-biased-naturalistic-philosophy
+- [x] pryor-guidelines-writing
+- [x] ricoeur-1981-hermeneutics-human-sciences
+- [x] rorty-1984-four-genres
+- [x] skinner-2002-visions-of-politics-vol1
+- [x] sofaer-strech-2012-systematic-reviews-of-reasons
+- [x] tricco-2018-prisma-scr
+- [x] tully-1988-meaning-and-context
+- [x] walton-reed-macagno-2008-argumentation-schemes
+- [x] williamson-2018-doing-philosophy
+- [x] wittgenstein-1953-philosophical-investigations
+- [x] wittgenstein-1998-culture-and-value

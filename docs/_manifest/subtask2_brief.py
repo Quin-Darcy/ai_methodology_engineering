@@ -143,6 +143,11 @@ def main():
         "",
         "Tools: `pdfinfo`, `pdftotext`. The Read tool can render PDF pages visually for image-only sources.",
         "",
+        "**Preferred for spot-checks**: `python3 docs/_manifest/peek_pdf_pages.py <pdf> <p> [<p> ...] [--head N | --tail N | --full] [--layout]`. "
+        "It prints `=== PDF page N ===` headers between pages, range-checks against the PDF total, and replaces hand-rolled "
+        "`for p in ...; do pdftotext -f $p -l $p ...; done` shell loops (which require per-invocation permission prompts). "
+        "Use plain `pdftotext` only when you need a flag the helper does not expose.",
+        "",
         "## Draft block (from Subtask 1)",
         "",
         "```",

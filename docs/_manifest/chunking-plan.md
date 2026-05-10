@@ -274,7 +274,7 @@ chunks:
 ### davidson-1984-inquiries
 pdf_total_pages: 315
 toc_path: docs/sources/davidson-1984-inquiries/toc.md
-pdf_path: docs/sources/davidson-1984-inquiries/full.pdf
+pdf_path: docs/sources/davidson-1984-inquiries/full.ocr.pdf
 whole_document: false
 warnings: PDF is image-only (no embedded text); verification done visually, not via pdftotext. OCR required before Stage 3 extraction.
 chunks:
@@ -463,7 +463,7 @@ chunks:
 ### eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep
 pdf_total_pages: 210
 toc_path: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/toc.md
-pdf_path: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.pdf
+pdf_path: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.ocr.pdf
 whole_document: false
 chunks:
   - id: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch1-differences-of-opinion
@@ -699,3 +699,611 @@ chunks:
     components: [exp]
     verified: true
     rationale: Title essay; most general statement of the position.
+
+### martinich-2015-philosophical-writing
+pdf_total_pages: 278
+toc_path: docs/sources/martinich-2015-philosophical-writing/toc.md
+pdf_path: docs/sources/martinich-2015-philosophical-writing/full.pdf
+whole_document: false
+chunks:
+  - id: martinich-2015-philosophical-writing/ch2-logic-and-argument
+    title: Logic and Argument for Writing
+    page_scheme: pdf
+    page_start: 31
+    page_end: 71
+    pdf_page_start: 31
+    pdf_page_end: 71
+    components: [proc]
+    verified: true
+    rationale: Formal apparatus for evaluating candidate arguments in the procedure document.
+  - id: martinich-2015-philosophical-writing/ch3-essay-structure
+    title: The Structure of a Philosophical Essay
+    page_scheme: pdf
+    page_start: 72
+    page_end: 91
+    pdf_page_start: 72
+    pdf_page_end: 91
+    components: [proc]
+    verified: true
+    rationale: Direct candidate for the procedure document's output-template stage.
+  - id: martinich-2015-philosophical-writing/ch5-analytic-tactics
+    title: Tactics for Analytic Writing
+    page_scheme: pdf
+    page_start: 130
+    page_end: 181
+    pdf_page_start: 130
+    pdf_page_end: 181
+    components: [proc]
+    verified: true
+    rationale: Definitions, distinctions, dilemmas, counterexamples, reductio — concrete operative moves.
+  - id: martinich-2015-philosophical-writing/ch6-content-constraints
+    title: Some Constraints on Content
+    page_scheme: pdf
+    page_start: 182
+    page_end: 188
+    pdf_page_start: 182
+    pdf_page_end: 188
+    components: [proc]
+    verified: true
+    rationale: Truth, authority, burden of proof; anchors anti-sycophancy and citation discipline.
+  - id: martinich-2015-philosophical-writing/ch7-form-goals
+    title: Some Goals of Form
+    page_scheme: pdf
+    page_start: 189
+    page_end: 207
+    pdf_page_start: 189
+    pdf_page_end: 207
+    components: [proc]
+    verified: true
+    rationale: Coherence, clarity, conciseness, rigor — formal output-quality criteria.
+  - id: martinich-2015-philosophical-writing/ch9-how-to-read
+    title: How to Read a Philosophical Work
+    page_scheme: pdf
+    page_start: 223
+    page_end: 232
+    pdf_page_start: 223
+    pdf_page_end: 232
+    components: [proc]
+    verified: true
+    rationale: Reading-side moves; pairs with Pryor for source-engagement directives.
+
+### murdoch-1970-sovereignty-of-good
+pdf_total_pages: 129
+toc_path: docs/sources/murdoch-1970-sovereignty-of-good/toc.md
+pdf_path: docs/sources/murdoch-1970-sovereignty-of-good/full.pdf
+whole_document: false
+chunks:
+  - id: murdoch-1970-sovereignty-of-good/ch1-idea-of-perfection
+    title: The Idea of Perfection
+    page_scheme: book
+    page_start: 1
+    page_end: 44
+    pdf_page_start: 20
+    pdf_page_end: 63
+    components: [exp]
+    verified: true
+    rationale: Manifest-primary; canonical attention thesis and the M-and-D worked example of revised perception.
+  - id: murdoch-1970-sovereignty-of-good/ch2-on-god-and-good
+    title: On 'God' and 'Good'
+    page_scheme: book
+    page_start: 45
+    page_end: 74
+    pdf_page_start: 64
+    pdf_page_end: 93
+    components: [exp]
+    verified: true
+    rationale: Platonic Good as regulative ideal; grounds anti-relativism without explicit metaethics.
+  - id: murdoch-1970-sovereignty-of-good/ch3-sovereignty-of-good
+    title: The Sovereignty of Good Over Other Concepts
+    page_scheme: book
+    page_start: 75
+    page_end: 101
+    pdf_page_start: 94
+    pdf_page_end: 120
+    components: [exp]
+    verified: true
+    rationale: Manifest-secondary; formal synthesis positioning Good against freedom and the will.
+
+### palmer-1969-hermeneutics
+pdf_total_pages: 300
+toc_path: docs/sources/palmer-1969-hermeneutics/toc.md
+pdf_path: docs/sources/palmer-1969-hermeneutics/full.pdf
+whole_document: false
+chunks:
+  - id: palmer-1969-hermeneutics/ch13-reopening-the-question
+    title: Toward Reopening the Question — What Is Interpretation?
+    page_scheme: book
+    page_start: 223
+    page_end: 241
+    pdf_page_start: 237
+    pdf_page_end: 255
+    components: [m2]
+    verified: true
+    rationale: Reframes "what is interpretation?" using Part II inheritance; setup for the theses.
+  - id: palmer-1969-hermeneutics/ch14-thirty-theses
+    title: Thirty Theses on Interpretation
+    page_scheme: book
+    page_start: 242
+    page_end: 253
+    pdf_page_start: 256
+    pdf_page_end: 267
+    components: [m2]
+    verified: true
+    rationale: Manifest-mandated; self-contained list of interpretive moves, directly extractable as directives.
+
+### polonioli-2019-minimally-biased-naturalistic-philosophy
+pdf_total_pages: 27
+toc_path: docs/sources/polonioli-2019-minimally-biased-naturalistic-philosophy/toc.md
+pdf_path: docs/sources/polonioli-2019-minimally-biased-naturalistic-philosophy/full.pdf
+whole_document: true
+chunks:
+  - id: polonioli-2019-minimally-biased-naturalistic-philosophy/whole
+    title: Polonioli, "A Plea for Minimally Biased Naturalistic Philosophy" (2019)
+    page_scheme: pdf
+    page_start: 1
+    page_end: 27
+    components: [proc]
+    verified: true
+    rationale: Article — whole-document chunk per manifest.
+
+### pryor-guidelines-writing
+pdf_total_pages: 14
+toc_path: docs/sources/pryor-guidelines-writing/toc.md
+pdf_path: docs/sources/pryor-guidelines-writing/full.pdf
+whole_document: true
+chunks:
+  - id: pryor-guidelines-writing/whole
+    title: Pryor, "Guidelines on Writing a Philosophy Paper"
+    page_scheme: pdf
+    page_start: 1
+    page_end: 14
+    components: [exp, proc]
+    verified: true
+    rationale: Article — whole-document chunk per manifest.
+
+### ricoeur-1981-hermeneutics-human-sciences
+pdf_total_pages: 318
+toc_path: docs/sources/ricoeur-1981-hermeneutics-human-sciences/toc.md
+pdf_path: docs/sources/ricoeur-1981-hermeneutics-human-sciences/full.pdf
+whole_document: false
+chunks:
+  - id: ricoeur-1981-hermeneutics-human-sciences/ch4-distanciation
+    title: The hermeneutical function of distanciation
+    page_scheme: book
+    page_start: 93
+    page_end: 106
+    pdf_page_start: 144
+    pdf_page_end: 157
+    components: [m2]
+    verified: true
+    rationale: Manifest-mandated; distanciation/appropriation pair as the mediating structure of interpretation.
+  - id: ricoeur-1981-hermeneutics-human-sciences/ch5-what-is-a-text
+    title: What is a text? Explanation and understanding
+    page_scheme: book
+    page_start: 107
+    page_end: 126
+    pdf_page_start: 158
+    pdf_page_end: 177
+    components: [m2]
+    verified: true
+    rationale: Manifest-mandated; explanation/understanding dialectic correcting Gadamer-only hermeneutics.
+  - id: ricoeur-1981-hermeneutics-human-sciences/ch7-appropriation
+    title: Appropriation
+    page_scheme: book
+    page_start: 144
+    page_end: 156
+    pdf_page_start: 195
+    pdf_page_end: 207
+    components: [m2]
+    verified: true
+    rationale: Receiving-side companion to Ch. 4 per toc operational map; completes the distanciation pair.
+  - id: ricoeur-1981-hermeneutics-human-sciences/ch8-model-of-the-text
+    title: The model of the text: meaningful action considered as a text
+    page_scheme: book
+    page_start: 159
+    page_end: 183
+    pdf_page_start: 210
+    pdf_page_end: 234
+    components: [m2]
+    verified: true
+    rationale: Manifest-mandated; text-analogy extends hermeneutic vocabulary to non-textual material.
+
+### rorty-1984-four-genres
+pdf_total_pages: 28
+toc_path: docs/sources/rorty-1984-four-genres/toc.md
+pdf_path: docs/sources/rorty-1984-four-genres/full.pdf
+whole_document: true
+chunks:
+  - id: rorty-1984-four-genres/whole
+    title: Rorty, "The Historiography of Philosophy: Four Genres" (1984)
+    page_scheme: pdf
+    page_start: 1
+    page_end: 28
+    components: [proc]
+    verified: true
+    rationale: Article — whole-document chunk per manifest.
+
+### skinner-2002-visions-of-politics-vol1
+pdf_total_pages: 236
+toc_path: docs/sources/skinner-2002-visions-of-politics-vol1/toc.md
+pdf_path: docs/sources/skinner-2002-visions-of-politics-vol1/full.pdf
+whole_document: false
+chunks:
+  - id: skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding
+    title: Meaning and understanding in the history of ideas
+    page_scheme: pdf
+    page_start: 75
+    page_end: 107
+    pdf_page_start: 75
+    pdf_page_end: 107
+    components: [m3, proc]
+    verified: true
+    rationale: Revised 1969 essay; core critique of textualism and contextualism; founding statement.
+  - id: skinner-2002-visions-of-politics-vol1/ch5-motives-intentions
+    title: Motives, intentions and interpretation
+    page_scheme: pdf
+    page_start: 108
+    page_end: 120
+    pdf_page_start: 108
+    pdf_page_end: 120
+    components: [m3, proc]
+    verified: true
+    rationale: Distinguishes motive from intention; intention-in-doing as recovery target.
+  - id: skinner-2002-visions-of-politics-vol1/ch6-speech-acts
+    title: Interpretation and the understanding of speech acts
+    page_scheme: pdf
+    page_start: 121
+    page_end: 145
+    pdf_page_start: 121
+    pdf_page_end: 145
+    components: [m3, proc]
+    verified: true
+    rationale: Austin/Searle illocutionary uptake applied to historical texts; the method's hinge.
+  - id: skinner-2002-visions-of-politics-vol1/ch7-social-meaning
+    title: 'Social meaning' and the explanation of social action
+    page_scheme: pdf
+    page_start: 146
+    page_end: 162
+    pdf_page_start: 146
+    pdf_page_end: 162
+    components: [m3, proc]
+    verified: true
+    rationale: Context of conventions; what counts as recoverable social meaning.
+  - id: skinner-2002-visions-of-politics-vol1/ch8-moral-principles
+    title: Moral principles and social change
+    page_scheme: pdf
+    page_start: 163
+    page_end: 175
+    pdf_page_start: 163
+    pdf_page_end: 175
+    components: [m3, proc]
+    verified: true
+    rationale: Rhetorical innovation and legitimating vocabularies; ideology constrains action.
+  - id: skinner-2002-visions-of-politics-vol1/ch10-retrospect
+    title: Retrospect — Studying rhetoric and conceptual change
+    page_scheme: pdf
+    page_start: 193
+    page_end: 205
+    pdf_page_start: 193
+    pdf_page_end: 205
+    components: [m3, proc]
+    verified: true
+    rationale: Author's retrospective consolidation; rhetorical redescription and conceptual-change synthesis.
+
+### sofaer-strech-2012-systematic-reviews-of-reasons
+pdf_total_pages: 14
+toc_path: docs/sources/sofaer-strech-2012-systematic-reviews-of-reasons/toc.md
+pdf_path: docs/sources/sofaer-strech-2012-systematic-reviews-of-reasons/full.pdf
+whole_document: true
+chunks:
+  - id: sofaer-strech-2012-systematic-reviews-of-reasons/whole
+    title: Sofaer & Strech, "The Need for Systematic Reviews of Reasons" (2012)
+    page_scheme: pdf
+    page_start: 1
+    page_end: 14
+    components: [proc]
+    verified: true
+    rationale: Article — whole-document chunk per manifest.
+
+### tricco-2018-prisma-scr
+pdf_total_pages: 19
+toc_path: docs/sources/tricco-2018-prisma-scr/toc.md
+pdf_path: docs/sources/tricco-2018-prisma-scr/full.pdf
+whole_document: true
+chunks:
+  - id: tricco-2018-prisma-scr/whole
+    title: Tricco et al., "PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation" (2018)
+    page_scheme: pdf
+    page_start: 1
+    page_end: 19
+    components: [proc]
+    verified: true
+    rationale: Article — whole-document chunk per manifest.
+
+### tully-1988-meaning-and-context
+pdf_total_pages: 372
+toc_path: docs/sources/tully-1988-meaning-and-context/toc.md
+pdf_path: docs/sources/tully-1988-meaning-and-context/full.pdf
+whole_document: false
+chunks:
+  - id: tully-1988-meaning-and-context/ch2-meaning-and-understanding
+    title: Meaning and understanding in the history of ideas
+    page_scheme: book
+    page_start: 29
+    page_end: 67
+    pdf_page_start: 43
+    pdf_page_end: 81
+    components: [m3]
+    verified: true
+    rationale: Skinner's 1969 method statement; four-mythologies taxonomy; foundational target of the critics.
+  - id: tully-1988-meaning-and-context/ch5-some-problems
+    title: Some problems in the analysis of political thought and action
+    page_scheme: book
+    page_start: 97
+    page_end: 118
+    pdf_page_start: 111
+    pdf_page_end: 132
+    components: [m3]
+    verified: true
+    rationale: Skinner 1974 elaboration of intention and illocutionary force in political texts.
+  - id: tully-1988-meaning-and-context/ch7-hollis-say-it-with-flowers
+    title: Say it with flowers
+    page_scheme: book
+    page_start: 135
+    page_end: 146
+    pdf_page_start: 149
+    pdf_page_end: 160
+    components: [m3]
+    verified: true
+    rationale: Hollis on limits of speech-act analysis applied to historical interpretation.
+  - id: tully-1988-meaning-and-context/ch9-femia-historicist-critique
+    title: An historicist critique of revisionist methods
+    page_scheme: book
+    page_start: 156
+    page_end: 175
+    pdf_page_start: 170
+    pdf_page_end: 189
+    components: [m3]
+    verified: true
+    rationale: Femia's historicist objection to Skinner's revisionist method for the history of ideas.
+  - id: tully-1988-meaning-and-context/ch13-taylor-hermeneutics-of-conflict
+    title: The hermeneutics of conflict
+    page_scheme: book
+    page_start: 218
+    page_end: 228
+    pdf_page_start: 232
+    pdf_page_end: 242
+    components: [m3]
+    verified: true
+    rationale: Taylor on irreducible conflict in interpretive contexts; principal hermeneutic counter to Skinner.
+  - id: tully-1988-meaning-and-context/ch14-skinner-reply
+    title: A reply to my critics
+    page_scheme: book
+    page_start: 231
+    page_end: 288
+    pdf_page_start: 245
+    pdf_page_end: 302
+    components: [m3]
+    verified: true
+    rationale: Skinner's 57-page reply defending method, belief-explanation, and speech-act framework.
+warnings: ch13 end-page corrected from draft 253 to 228 and ch14 start from 254 to 231 per toc OCR-conflict note; Part IV divider sits on book 229-230 (PDF 243-244).
+
+### walton-reed-macagno-2008-argumentation-schemes
+pdf_total_pages: 453
+toc_path: docs/sources/walton-reed-macagno-2008-argumentation-schemes/toc.md
+pdf_path: docs/sources/walton-reed-macagno-2008-argumentation-schemes/full.pdf
+whole_document: false
+chunks:
+  - id: walton-reed-macagno-2008-argumentation-schemes/ch1-basic-tools
+    title: Basic Tools in the State of the Art
+    page_scheme: book
+    page_start: 7
+    page_end: 42
+    pdf_page_start: 17
+    pdf_page_end: 52
+    components: [m1, exp]
+    verified: true
+    rationale: Conceptual framework — schemes and critical questions defined; required for any extraction.
+  - id: walton-reed-macagno-2008-argumentation-schemes/ch2-analogy-classification-precedent
+    title: Schemes for Argument from Analogy, Classification, and Precedent
+    page_scheme: book
+    page_start: 43
+    page_end: 86
+    pdf_page_start: 53
+    pdf_page_end: 96
+    components: [m1]
+    verified: true
+    rationale: Substantive treatment of analogy/classification/precedent cluster; supplies why behind catalog.
+  - id: walton-reed-macagno-2008-argumentation-schemes/ch3-knowledge-practical-other
+    title: Knowledge-Related, Practical, and Other Schemes
+    page_scheme: book
+    page_start: 87
+    page_end: 120
+    pdf_page_start: 97
+    pdf_page_end: 130
+    components: [m1]
+    verified: true
+    rationale: Manifest-mandated; expert-opinion, witness, practical-reasoning schemes treated substantively.
+  - id: walton-reed-macagno-2008-argumentation-schemes/ch4-opinion-commitment-character
+    title: Arguments from Generally Accepted Opinions, Commitment, and Character
+    page_scheme: book
+    page_start: 121
+    page_end: 162
+    pdf_page_start: 131
+    pdf_page_end: 172
+    components: [m1]
+    verified: true
+    rationale: Ad hominem, ethotic, commitment clusters; central to fallacy-as-violation analysis.
+  - id: walton-reed-macagno-2008-argumentation-schemes/ch7-attack-opposition-rebuttal-refutation
+    title: Attack, Opposition, Rebuttal, and Refutation
+    page_scheme: book
+    page_start: 220
+    page_end: 274
+    pdf_page_start: 230
+    pdf_page_end: 284
+    components: [m1]
+    verified: true
+    rationale: How schemes are deployed dialogically; attack, oppose, question, rebut, refute moves.
+  - id: walton-reed-macagno-2008-argumentation-schemes/ch9-users-compendium
+    title: A User's Compendium of Schemes
+    page_scheme: book
+    page_start: 308
+    page_end: 346
+    pdf_page_start: 318
+    pdf_page_end: 356
+    components: [m1, exp]
+    verified: true
+    rationale: Manifest-mandated; sixty schemes with paired critical questions; directly extractable.
+
+### williamson-2018-doing-philosophy
+pdf_total_pages: 165
+toc_path: docs/sources/williamson-2018-doing-philosophy/toc.md
+pdf_path: docs/sources/williamson-2018-doing-philosophy/full.pdf
+whole_document: false
+chunks:
+  - id: williamson-2018-doing-philosophy/ch3-disputing
+    title: Disputing
+    page_scheme: book
+    page_start: 19
+    page_end: 34
+    pdf_page_start: 30
+    pdf_page_end: 45
+    components: [proc]
+    verified: true
+    rationale: Dialectical procedure; dispute as engine of philosophical clarification.
+  - id: williamson-2018-doing-philosophy/ch4-clarifying-terms
+    title: Clarifying Terms
+    page_scheme: book
+    page_start: 35
+    page_end: 49
+    pdf_page_start: 46
+    pdf_page_end: 60
+    components: [proc]
+    verified: true
+    rationale: Conceptual analysis criteria; what counts as a useful definition.
+  - id: williamson-2018-doing-philosophy/ch5-thought-experiments
+    title: Doing Thought Experiments
+    page_scheme: book
+    page_start: 50
+    page_end: 65
+    pdf_page_start: 61
+    pdf_page_end: 76
+    components: [proc]
+    verified: true
+    rationale: Procedure for constructing and evaluating thought experiments.
+  - id: williamson-2018-doing-philosophy/ch6-comparing-theories
+    title: Comparing Theories
+    page_scheme: book
+    page_start: 66
+    page_end: 81
+    pdf_page_start: 77
+    pdf_page_end: 92
+    components: [proc]
+    verified: true
+    rationale: Theory-comparison criteria — simplicity, fruitfulness, scope.
+  - id: williamson-2018-doing-philosophy/ch8-history-of-philosophy
+    title: Using the History of Philosophy
+    page_scheme: book
+    page_start: 98
+    page_end: 110
+    pdf_page_start: 109
+    pdf_page_end: 121
+    components: [proc]
+    verified: true
+    rationale: Analytic-friendly use of historical material; pairs with Skinner/Rorty.
+  - id: williamson-2018-doing-philosophy/ch10-model-building
+    title: Model-Building
+    page_scheme: book
+    page_start: 127
+    page_end: 140
+    pdf_page_start: 138
+    pdf_page_end: 151
+    components: [proc]
+    verified: true
+    rationale: Williamson's signature move; modelling as generalizing methodological pattern.
+
+### wittgenstein-1953-philosophical-investigations
+pdf_total_pages: 257
+toc_path: docs/sources/wittgenstein-1953-philosophical-investigations/toc.md
+pdf_path: docs/sources/wittgenstein-1953-philosophical-investigations/full.ocr.pdf
+whole_document: false
+chunks:
+  - id: wittgenstein-1953-philosophical-investigations/pi-1-65-88-language-games
+    title: Part I §§65–88 — language-games and family resemblance
+    page_scheme: section_number
+    page_start: 65
+    page_end: 88
+    pdf_page_start: 38
+    pdf_page_end: 48
+    components: [exp]
+    verified: true
+    rationale: Conceptual ground for §§89–133; family resemblance and language-games per operational map.
+  - id: wittgenstein-1953-philosophical-investigations/pi-1-89-133-method
+    title: Part I §§89–133 — the methodological remarks
+    page_scheme: section_number
+    page_start: 89
+    page_end: 133
+    pdf_page_start: 48
+    pdf_page_end: 58
+    components: [exp]
+    verified: true
+    rationale: Primary manifest target; concentrated statement of philosophical method in PI.
+  - id: wittgenstein-1953-philosophical-investigations/pi-2-xi-aspect-seeing
+    title: Part II §xi — aspect-seeing and seeing-as
+    page_scheme: book
+    page_start: 193
+    page_end: 229
+    pdf_page_start: 200
+    pdf_page_end: 236
+    components: [exp]
+    verified: true
+    rationale: Secondary manifest target; duck-rabbit, seeing-versus-interpreting, aspect-blindness.
+warnings: PDF is image-only (no embedded text); pdf-page mapping verified visually via Read tool; chunks 1 and 2 share PDF page 48 (section boundary mid-page).
+
+### wittgenstein-1998-culture-and-value
+pdf_total_pages: 237
+toc_path: docs/sources/wittgenstein-1998-culture-and-value/toc.md
+pdf_path: docs/sources/wittgenstein-1998-culture-and-value/full.pdf
+whole_document: false
+chunks:
+  - id: wittgenstein-1998-culture-and-value/period-1929-1934
+    title: Remarks 1929–1934 — early Nachlass period
+    page_scheme: pdf
+    page_start: 16
+    page_end: 45
+    pdf_page_start: 16
+    pdf_page_end: 45
+    components: [exp]
+    verified: true
+    rationale: First sustained methodological remarks; style, philosophy as work on oneself, examples.
+  - id: wittgenstein-1998-culture-and-value/period-1937-1941
+    title: Remarks 1937–1941 — middle period
+    page_scheme: pdf
+    page_start: 45
+    page_end: 70
+    pdf_page_start: 45
+    pdf_page_end: 70
+    components: [exp]
+    verified: true
+    rationale: Remarks contemporaneous with Investigations drafting; method, simile, aspect, Shakespeare.
+  - id: wittgenstein-1998-culture-and-value/period-1945-1948
+    title: Remarks 1945–1948 — post-war period
+    page_scheme: pdf
+    page_start: 70
+    page_end: 108
+    pdf_page_start: 70
+    pdf_page_end: 108
+    components: [exp]
+    verified: true
+    rationale: Reflections during Investigations Part I revision; describing-versus-explaining, examples.
+  - id: wittgenstein-1998-culture-and-value/period-1949-1951
+    title: Remarks 1949–1951 — final period
+    page_scheme: pdf
+    page_start: 108
+    page_end: 119
+    pdf_page_start: 108
+    pdf_page_end: 119
+    components: [exp]
+    verified: true
+    rationale: Last remarks; condensed methodological self-observation alongside On Certainty material.
+warnings: reflowable bilingual ebook; transition pages (45, 70, 108) appear in adjacent chunks since period boundaries fall mid-page; one stray 1914 remark folds into Period 1.
