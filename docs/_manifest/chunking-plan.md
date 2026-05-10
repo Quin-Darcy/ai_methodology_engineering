@@ -459,3 +459,71 @@ chunks:
     components: [m1]
     verified: true
     rationale: Compressed imperative restatement; reads as candidate directives directly.
+
+### eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep
+pdf_total_pages: 210
+toc_path: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/toc.md
+pdf_path: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.pdf
+whole_document: false
+chunks:
+  - id: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch1-differences-of-opinion
+    title: Differences of Opinion
+    page_scheme: book
+    page_start: 3
+    page_end: 22
+    pdf_page_start: 18
+    pdf_page_end: 37
+    components: [m1]
+    verified: true
+    rationale: Recognizing what is in dispute; trigger condition for the pragma-dialectical procedure.
+  - id: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch2-argumentation-and-discussion
+    title: Argumentation and Discussion
+    page_scheme: book
+    page_start: 23
+    page_end: 36
+    pdf_page_start: 38
+    pdf_page_end: 51
+    components: [m1]
+    verified: true
+    rationale: Four-stage critical-discussion model (confrontation, opening, argumentation, concluding).
+  - id: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch4-unexpressed-standpoints-and-premises
+    title: Unexpressed Standpoints and Unexpressed Premises
+    page_scheme: book
+    page_start: 49
+    page_end: 62
+    pdf_page_start: 64
+    pdf_page_end: 77
+    components: [m1]
+    verified: true
+    rationale: Reconstruction moves surfacing implicit content; most directly extractable dialogical-move chapter.
+  - id: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch5-structure-of-argumentation
+    title: The Structure of Argumentation
+    page_scheme: book
+    page_start: 63
+    page_end: 90
+    pdf_page_start: 78
+    pdf_page_end: 105
+    components: [m1]
+    verified: true
+    rationale: Multiple/coordinative/subordinative analysis; schematic representation of complex argumentation.
+  - id: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch7-fallacies-1
+    title: Fallacies (1)
+    page_scheme: book
+    page_start: 109
+    page_end: 126
+    pdf_page_start: 124
+    pdf_page_end: 141
+    components: [m1]
+    verified: true
+    rationale: Fallacies as violations of rules 1–5 (freedom, burden, standpoint, relevance, unexpressed premise).
+  - id: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch8-fallacies-2
+    title: Fallacies (2)
+    page_scheme: book
+    page_start: 127
+    page_end: 156
+    pdf_page_start: 142
+    pdf_page_end: 171
+    components: [m1]
+    verified: true
+    rationale: Fallacies as violations of rules 6–10 (starting point, scheme, validity, closure, usage).
+warnings: PDF is image-only (no embedded text); OCR required before Stage 3; Subtask 2 must verify pdf-page mapping visually.

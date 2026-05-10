@@ -227,7 +227,7 @@ Mark `[x]` after Subtask 3 succeeds for that slug.
 - [x] dennett-1991-consciousness-explained
 - [x] dennett-2013-intuition-pumps
 - [x] eemeren-grootendorst-2004-systematic-theory
-- [ ] eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep
+- [x] eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep
 - [ ] gadamer-1960-truth-and-method
 - [ ] gendler-2010-intuition-imagination-philosophical-methodology
 - [ ] hadot-1995-philosophy-as-a-way-of-life
