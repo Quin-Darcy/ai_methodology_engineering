@@ -1,0 +1,2394 @@
+=== chunk: walton-reed-macagno-2008-argumentation-schemes/ch7-attack-opposition-rebuttal-refutation ===
+title: Attack, Opposition, Rebuttal, and Refutation
+source_pdf: docs/sources/walton-reed-macagno-2008-argumentation-schemes/full.pdf
+pdf_pages: 230-284
+page_scheme: book
+plan_page_start: 220
+plan_page_end: 274
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 220 ===
+
+     Attack, Oppositio n , Rebuttal , an d Refutation
+
+I n this chapter we develop a pragmatic theory of refutation in which a
+refutation is defined as a sequence of dialogue moves in which an argu­
+ment is used by one party to attack and defeat an opposed argument
+put forward previously by the other party. A fundamental distinction is
+drawn between refutation and rebuttal. A rebuttal is an argument that
+is opposed to another argument. It stands against the argument it is
+opposed to. But it does not neces.o;arily refute that argument. Refuta­
+tion is something more powerful. A refutation knocks down the original
+argument. It not only is opposed to the original argument, but also has
+enough strength itself as an argument that it overpowers the original
+argument and knocks it down (defeats it) . This distinction is not a very
+firm or precise one in everyday comtersational usage. 1 An attempted
+refutation is, after all, a refutation in conversational English , even if it is
+not strong enough to knock down the argument it is opposed to. But still,
+as we hope to show, there is someth ing to this distinction. Refutation is
+stronger than rebuttal. A refutation is something like a strong rebuttal,
+or a rebuttal that has active force in succes.o;fully attacking the argument
+it is aimed at.
+   A parallel distinction that has been very influen tial in recent work in
+artificial intelligence can be drawn between attacking and defeating an
+argumen t ( Dung, 1 99 5 ; Prakken , 1 99 7 ) . One argument attacks anot h er
+if the second is addressed to the first one, or meets i t, and if it is opposed
+to it in suc h a way that it goes ag-a inst it. One argument defeats another
+
+ ' The way Tn u l m i n ( 1 g:;H ) uses t he tt•rm ' rebullal " . it refers tn a way nf al tac kin g the
+  i n li.·n·ntial l i n k lx·twrt·n tlw p rt· m i st· s and nllld usi nn nf an argumrnt by arguing that a
+  rult· is su�jt· t·t to an exception. The way tht· tt· nn ' rt"futation ' is ust•d in Ar.tuca1ia, it is
+  a strungt· r notion akin to clas.� kal llt'ga t i n n i n l n gir . For dialogue analysis of Toul m i n 's
+  mudd t h il l spells out cit· tails of how " Tou l m i n n·hu t m l works, st·t· Bc.·m·h-< �1pon ( 1 !191i ) .
+
+                                                     1! :.1 0
+
+=== p. 221 ===
+
+                     Attack, Dppo!iition, Rebulta� and &futation                                 22 1
+
+if it not only meets it, but is also strong enough that it removes the sup­
+port that the first argument had or seemed to have originally ( Prakke n ,
+200 1 ) . The notions o f attack a n d defeat seem s o fundamental that it is
+hard to try to define them in other terms that don 't simply repeat or
+depend on the notions to be defined. Is the pair 'attack and defeat' the
+same as the pair ' rebuttal and refutation '? And what about the distinc­
+tion between undercutters and defeaters, also widely known and used
+in AI ( Bex et al . , 1 gg8 ) ? Is this distinction the same as the other two or
+not? The problem has led into a terminological swamp that makes one
+hesitate to use any of these terms wi thout getting bogged down . 2 The
+first step in clearing this forest of verbiage will be to define the notion of
+an argument and then to try to defi ne, or at least to clarity, notions like
+attack, defeat, refutation, and rebuttal in terms of this original notion.
+The framework is one i n which you have one argument to begin with ,
+and then a second argument directed ag-ainst the first one. But what does
+'against' mean in this con text? This question is one of how to define the
+notion of opposi tion. In this chapter we will see that there are different
+ways to define opposition, some deeper than others, and that there is
+much that can be found by going back to ancient and medieval sources,
+including a distinctive argumentation scheme for argument for op­
+position .
+
+   I .    ATTA C K I N G , QU ESTI O N I N G , R E B UTT I N G , A N D REI'UT I N G
+
+Opposition and refutation are fundamental logical notions basic to criti­
+cal argumentation. A c ri tical discussion arises from a con flict of opi nion
+between two parties. There can be stronger or weaker kinds of confl ict
+of opinion. In the stronger kind of conflict, one party hao; a thesis to be
+proved, and the o ther has a thesis that is the opposite of the first thesis.
+In the weaker kind of conflict, one party has a thesis to be proved, and
+the other doubts that thesis. but has no posi tive thesis of his own . In the
+stron ger kind of con flict, each p arty must refute the thesis of the other
+in order to wi n. In the weaker, a party can refute the other and win by
+showing that her thesis is doubtful. But maybe the term ' refutation ' is too
+strong here; perhaps a distinction should be dntwn betwet'n a refutation
+and a rebuttal. In addition to, and perhaps underlying, this dialectical
+
+ • Tht·  notions nf argu m l' n t rlctc·at and rt"buttal i n till' Tou l m i n mnrlt·l nf ar�unwnt art·
+  duel�· rdatt·d to a not inn nf warrd n t that ha5 prnn·rl notnrinush· rlillk u l t tn int t·rprt't
+  ( H i tdtw(' k , :.rnn;> ) .
+
+  '
+
+=== p. 222 ===
+
+222                             A rgumnztatirm Schnnt'-S
+
+\-iew of 'conflict of o p i n i o n ' , there is also a logica l view, long known
+and appealed to i n logi c In formal logic, we have V'd ri o u s concepts that
+represen t the notion of o ppo s i t i on. One is negation. In classical deduc­
+tive l ogi c the n e ga tio n of a propos i ti o n is its o p posite i n a st ron g sense
+              .
+
+of o ppos i tion . Such pai rs of propos i t i ons are said to be c o n t rad i c tori e s .
+"This pen is black" and "This pen is no t black" are con t rad i c t o r ies. Th e
+on e p ro posi t i o n is tme if and on ly if the other is talse. But there is also a
+weaker sense of o pp osi t i o n that of con traries. Two propositions are con­
+                                  ,
+
+traries if and o n ly i f it is not p oss i b le for both to be true. even t h ough it is
+poss i b l e for both to be false. "This pen is black" and "This pen is gre en            "
+
+ (all over) are contrclries. Questions are raised by these trclditional notions
+about the rel ations h i p between opposi tion and refutation , questions that
+have rclrely been e x p l ored in any depth .
+    These questions have become e s pe c ial l y acute wi th the rise of the
+notion of de feas ib i l i ty in recent work i n co mp u ti n g. A distinction is often
+drawn between two types of o ppo s i t io n or refutation called defeaters
+and u nde rc utters ( Po ll o c k 1 99!) ) . At a first pass, this distinction can be
+                                  ,
+
+roughly characterized a.'l fo ll ows . A d e te ater refutes an argument it is
+aimed at, whereas an undercutter merely removes the support given to
+ the conclusion by the p re m i se s . Recent work in the emerging field of
+c o mpu ta t i o na l dialectics has come to be b<L'Ied on t h e p ri m i t i ve notions
+of a t tac k and defeat. But what do 'attack' and 'defeat' really mean in the
+sphere of argumenlo;? Let 's be g i n with the notion of attack.
+    Ac c o rdin g to a hypothesis that is pl a usib le , there are o n ly three ways
+of atta c k i n g (and refuting) an argument. Th e first way is to argue that
+ the p re m ise s are no t true , or at any rate have not been shown to be
+ true. The second way is to argue that the conclusion does not follow
+from the prem ises. The thi rd way is to argue that the conclusion is false,
+or at any rate, that there are re aso ns to th i nk so. This triad of attacks,
+when said to be the only ways to attack an argument, could be called the
+ t hree wclys hypo t h e s i s . The third wcly can be carried out by presenting a
+      -
+
+coun terargumen t that is stronger than the origi nal argument, and that
+ ha.o; a conclusion o ppos i te to that of the o ri gina l argument. In th e case of
+a deductively val i d argument, however, all th ree o pt i ons are not o pe n in
+all cases. If the premises a re tme and t he conclusion follows fro m them.
+ the c onc l us io n has to be true, too. Thus i n th e case of such an argument,
+ finding a st ro nge r coun terargument with the oppos i t e nmclusinn is not
+ poss i ble The argument cannot bt• defeated. If its concl usion is true, th<�
+          .
+
+o pp osit e conclusion ( i l'i n e ga t i o n ) can not be true. A d e d u c ti vd y valid
+argumt•nt wi th prt·mises is calkd a sound argument i n logi c . A sound
+
+=== p. 223 ===
+
+                Attack, Opposition, Rebuttal, and Refutation
+
+argument is not only conclusive, but also incon trovertible, meaning that
+no argument can refute it. However, it may be that we can rarely find
+incontrovertible arguments, since an argument for a proposition is not
+useful or even appropriate unless there is some reason to doubt that the
+proposition is true. For one might well argue that the purpose of putting
+forward an argument is to respond to, and to try to remove, doubts that
+have been expressed.
+    Many common argument'i are defeasible ( fallible ) , mean ing that even
+if the premises give reasons to support the conclusion as true, new evi­
+dence may later come in that shows that the conclusion is false. Such
+arguments hold only tentatively, and may have to be retracted later if
+new evidence shows that the 01iginal argument is no longer tenable.
+Thus defeao;ible arguments are not incontrovertible. In the case of this
+kind of argument, all three options are open. Even though the premises
+are true (or are tenable as commitments now) , and the conclusion tot­
+lows from the premises by an argumentation scheme (a form of argument
+that is not necessarily deductively valid ) . the conclusion could possibly
+be refuted by questioning. It could even be cast in doubt or refuted by a
+stronger opposed argument.
+    Is the th ree-ways hypothesis true? There are two grounds fi>r doubting
+it. The first is the observation that an argument can be refu ted by showing
+that it commits the fallacy of begging the question. But this form of
+refutation is a rather special one that applies only to arguments that are
+circular. I t appears to have to do with a failure of the premises to prove
+the conclusion , even if the argument is valid and the premises are true.
+These grounds have to do wi th burden of proof. There is still another
+form of refutation that has to do with burden of proof that especially
+applies in the case of a defeasible argument, and that is even simpler. It
+may happen i n a trial, for example, that the prosecution comes forward
+with an argument that is supposed to show that the defendant is guilty
+of the c rime alleged. The defense might not challenge the argument on
+any of the four grounds of attack already cited. But still, they might attack
+the argument by claiming that it is too weak to fulfill burden of proof.
+The defense might admit that the argument has some probative weigh t,
+but claim that it does not have enough to prove what i t is supposed
+to prove. This response to an argument is a kind of attack on it. It
+does not claim that the argument is altogether worthies.'> as evidence. It
+claims only that it does present enough evidence, hy itself, to sucet·ssfully
+prove its conclusion . I n such a case. the dl·fcnse migh t not produce any
+<·oun terargument wi th the opposi te conclusion, or attack the inferen tial
+
+ '
+
+=== p. 224 ===
+
+2 24                                 Argwnmtation Scheml'.s
+
+link between the premises and the conclusion . But wh ilt� the defense
+might not attack any of the premises, they still may be attacking the
+argumen t.
+   Is the defense really attacking the argument, though , or are they
+conceding that it is a good argument, but one that is not good enough
+to meet some standard of goodness that is being claimed for it, or that
+it migh t be seen as meeting? This question is controversial. It depends
+on what you mean by 'attack'. Also, alleging begging the question, the
+fourth fom1 of attack noted earlier, is a rather special form of refutation
+that applies only when an argument is circular, a relatively rare form of
+argument failure. Moreover, it might he possible to analyze begging the
+question as a way of attacking a premise in an argument, arguing that the
+failure is one of finding the right sort of prt>mise. Of course, the failure
+lies not in the tmth of the premise, but in how the premise is supported
+by evidence independent of the conclusion. Some other fallacies, like
+the straw man fallacy, might also count as attacks, but again , only in
+special cases. One might still argue that there are only three main ways
+of attacking an argument, barring such special cases. Thus i t remains
+controversial whether the three-ways hypothesis is tme or not, depending
+on what is meant by 'attack', and on whether the hypothesis can admit
+of some exceptions in special cases, and on how these exceptional types
+of cases, corresponding to informal fallacies, might be defined and
+analyzed.
+   \\'hat is the distinction between attacking an argument and refuting it?
+Presumably, an argument that attacks another is one that is opposed to it,
+but that does not necessarily defeat it. An argument that defeats another
+is one that shows that the other argument has to be given up. But when
+does an argument have to be given up - when its conclusion is shown to
+be false, or when doubt can be raised about whether the evidence given
+for it is sufficient? These questions are harder to answer.:! They seem
+to depend on matters of burden of proof. In some cases, merely raising
+serious doubt about an argument is enough to warrant giving it up as in­
+sufficien t for proving its conclusion. In other cac;es, an argument has to
+be given up only if a stronger counterargument can be given. In law, for
+example, raising doubt is enough to refute a criminal allegation made
+
+ � I n the critical discussion modl'l of r.uional argumt"n tation ( van Eemeren and Grooten­
+  dorst, 1 9!!4, 1 9Hi, 1 99 2 ) , a participant ( h e ) m ust conn·de defeat if the otht•r party ( s h e )
+  c a n prove her thesis b y means of r.ll i onal argument, t h u s showing t h a t s h e w i n s a n d
+  t h a t his viewpoint has not been successfu l l y cldended. T h i s notion of h a\i n g to giw up
+  and conn·dt· defeat wht•n confron ted \>i th a superior argument at the closing stage of a
+  discus_�ion is fu ndamen tal to the notion of rational argumentation in a c ritical discussion.
+
+=== p. 225 ===
+
+                          A ttark, opposition, Rebullal, and RPjutation                                             225
+
+in a trial , while i n a civil case, a claim can be refuted only if the opposed
+side brings forward a stronger argument against the claim. It seems,
+then , that the distinction between attacking an argument and refuting
+it is not an easy one to draw clearly i n all cao;es by any simple criterion.
+I t seems to depend on the con text of use of the argument - that is, what
+the argument is supposed to prove - and on how strong i t hao; to be to
+succeed in carrying out its goal of proving what it is supposed to prove.
+    To try and find a basis for this distinction, maybe we can retreat to
+one that is more fundamental. This is the distinction between asserting
+a proposi tion and questioning it. The notion of denial also needs to be
+brough t in here. To deny a proposition is to claim that the proposition is
+not true. Thus denial of a proposition is assertion of its negation. When
+you ao;sert a proposition, you are making a positive claim that it is true.
+You are making a commitment to the proposition asserted, and thus you
+are also committed to backing it up by giving a reason why it should be
+takt�n ao; true if anyone questions it. Questioning, as opposed to asserting
+as well as to denying, is a different speech act. When you question a
+proposition , you are not necessarily making a claim that the proposition
+is false or true. Questioning does not necessarily imply commitment.
+·when you make an assertion , you are staking out a positive claim. When
+you assert someth i ng, you are sa}ing you are for i t, but you are free
+to question a proposition without being for or against it. You can be
+agnostic, but still have doubts and raise questions.
+    This basic distinction between asserting and question ing ha'l impli­
+cations concern ing attack and refutation. Let 's take a common sort of
+example in a com·t·rsa tinnal exchange between two parties, White and
+Black. Whi te asserts that U ranus is the seventh planet in orbit around the
+sun , because she hao; read that in the National Enquirl'r. Black then ques­
+tions Whi te's argumen t by asking the question , "Is the National f."nquirl'r
+a reliable source?" Black is not refuting White's argumen t, only ao;king
+a question about it that raises doubt about it. Suppose, by con trast, that
+Black puts forward an opposed argument like, "It says i n my astronomy
+textbook that Venus is the seventh planet i n orbit around the sun." The
+conclusion of this argument, "Ve n u s is the seventh planet in orbit around
+the sun," is opposed to the conclusion of White's argument, "U ranus is
+ the seven th planet in orbit around the sun ." To say that they arc opposed
+ means that both can not be true. If ot l l' proposi tion is true, the other is
+false:' Since an astronomy textbook is generally a more reliable source
+
+ ·I Tht: n·ason is the i m pl i c i t aJI.,umption t h a t t ht:rt: can lx· onlv ont• plant·t t h a t is tht· st'\'t• n t h
+
+  i n orbi t a m u n d tht: su n .
+
+  '
+
+=== p. 226 ===
+
+                           Argumentation Srhl'11U'.s
+
+than a newspaper, Black's argument is the stronger of the two. So we
+could say in this instance that it is a refutation of White 's argument.
+Drawing such a distinction in this sim ple example rests on the distinc­
+tion between merely questioning a claim and refu ting it by offering some
+opposing argument stronger than the one for it.
+    This discussion suggests that there is an important epistemological
+disti nction between refu ting an argument and merely raising questions
+about its tenability. In the literature on argumentation , it is common to
+draw a distinction between two types of conflicts of opinion (Walton ,
+ 1 998 ) . I n the stronger kind of conflict, which could be called a dispute,
+one party has a thesis (or ultimate probandum, as it is called in law) , a
+proposition she holds to be true, while the other party has a thesis that
+is opposed to the thesis of the fi rst party. There is a contrasting type of
+conflict that could be called a dissent, in which one party has a thesis
+to be proved, while the other doubts that this proposition is true, but
+does not contend that it is false. The problem here is to determine what
+is meant by 'opposed ' . Does one proposition have to be the negation
+of the other, or could they be said to be opposed if they exhibit some
+weaker relationship to each other? For example, if White claims that
+tipping is good, while Black claims that tipping is bad, does their con­
+flict represen t a dispute? The answer would be yes if it can be ass u med
+when you argue for the thesis "Tipping is bad," it means or i mplies that
+your thesis is opposed to the thesis that tipping is good. One proposi­
+tion is not the negation of the other, but presumably they are opposed
+in that, given suitable assumptions about the meanings of 'good' and
+' bad ' , the two propositions can be reduced to propositions that are nega­
+tions of each other. But how does such a reduction take place? It seems
+to depend on semantic categories, and on implicit assumptions about
+one category bei ng opposed to, or being the opposite of, another. In
+computing, an ontology, or mapping of key concepts in a domain of
+knowledge, would be the basis on which such semantic assumptions rest.
+But the importance of semantic assumptions about the meanings of key
+words in determining whether one proposition is the opposite of another
+has long been known by philosophers. As shown in the next section ,
+Aristotle based his theory of opposition on making such assumptions
+explicit.
+    What is the relationship between opposition and refutation? Can one
+notion be defined in terms of the other? Is one notion logical and the
+other dialectical , and if so, can one be reduced to, or defined in tcnns
+of, the other? Arc there stronger and weaker notions of refutation that
+
+=== p. 227 ===
+
+                     Attack, oppn.� ilion, Rebutta� and RPJutfltion
+
+can be d i s ti ngu i shed? What is the di ffe re n c e between a refutation and
+a rebuttal? These q ue s tio n s are importan t, bec au s e o pp os i t io n and refu­
+tation (or rebuttal) seem to be the fundamental notions on wh ich logic
+and argu m e n ta tio n arc based. These questions cry out for clari ficatio n ,
+a n d for some attempt at answeri ng the m.
+   To examine some examples of refutation , let's consider the following
+dialogues. Each is an example of a refutation , or at leao;t an attempted
+refutation .
+
+                                              Dittlogrte # 1
+White: Flax oil reduces cholesterol .
+
+White: Dr. Phil said so, and he is an expen.
+
+Black: Yes, but he's not an expert in nutrition . He's a psyt:hologist.
+
+In this dialogue, Black does not d e ny that Dr. Phil said that flax oil
+reduces cholestt·rol. And he does not deny that D r. Phil is an expert.
+Thus he does not deny either of White's premises. But he does d e n y
+that White 's conclusion follows from these premises. Because Dr. Phi l 's
+expertise is not in the appropriate field for the claim made, "White's
+argument from expert opinion fails to hold. By pointing out that Dr. Phil
+is not an expert in nutrition, Black has refuted White's argument from
+expert opinion .
+   Now consider another dialogue.
+
+                                              /)inlogup #2
+
+Black: Ex pens can be wrong.
+
+White: Yes, hut they tend to be righ t, because they have knowledge of a field.
+
+In this dialogue, Black attempts to refute White 's argument from expert
+opinion by sayi n g that experts can be wrong. This statement is true, for
+argument from expert opinion is d e feasi b l e . 5 But White 's reply to the
+refutation attempt backs up her original argument in the right way, giving
+
+ r. We nmlcl express these c   l a i m� lL� i n g the notion or <1 ge n e r.d i 7.a t i o n . a.� li1llows. Fi rst . a�
+  a gl·ner.di7.ation , all elM· being eq ual , we l· a n presume that experts wnd to be right. At
+  l l� as t . we can take their opinion� tn ha\'e a special status a� l"\idcncc bt'a1i n g un a dispml·d
+  is.�Ul" . un l e s.� we h a\'e reason to think the coutrary. in a case in poin t .
+
+ '
+
+=== p. 228 ===
+
+                              Argumentation Sche17U?s
+
+                                  (A) Flax oil reduces
+                                  cholesarol.
+                                                         I
+
+                                                (D) � CIII be
+                                                WRIIISI;
+
+            FIG li RE 7 . 1 . Araucaria diagram for Dr. Phil Dialogue # 2 .
+
+a reason to support it. Thus we could say that Wh ite has refuted Black's
+attempted refutation.
+  The argumentation in Dialogue #2 can be broken down i n to a set of
+propositions as shown on the following key list.
+
+                      Key l.ist for Dr. Phil Dialoguf #2
+   (B) Dr. Phil said so.
+  ( D ) Expert-; can he wrong.
+   (E) Experts tend to be right.
+   (F) Expert-; have knowledge in a field.
+
+Using this key list, the Araucaria diagram in Figure 7 . 1 can be constructed
+to represent the argumenta tion in Dialogue #2 .
+   In this diagram, D is shown as a refutation of C. But then E is shown
+as a refutation of D. Hence, as noted earlier, the case is one in which
+there is a refutation of a refutation. F is shown as one premise in a linked
+argument supporting E. Along with F, a missing premise expressing a
+defeasible generalization has been inserted .
+   In a third dialogue, Black refutes, or at least challenges, Wh i te 's argu­
+ment in a different Yray.
+
+                                     Dia lo�u> # 3
+White: Flax oil reduces cholest<�rol .
+
+=== p. 229 ===
+
+                       A ttack, opposition, &buttal, and /Ufutation        2 29
+
+Black: Wht·re did Dr. Phil say that?
+
+I n Dialogue #3 , Black questions the truth ofWhite's prem ise that Dr. Phil
+said that flax oil reduces cholesterol. Black is not attacking the argument
+as a whole, by trying to argue that the conclusion does not follow from the
+premises. He is questioning the truth of the premise that made a claim
+about what Dr. Phil said. But if the premise does not hold, and cannot be
+proved to be true, Whi te's whole argument falls down. Thus Black's reply
+in this sequence of dialogue can be classified as a refutation. Perhaps it
+could be classi fied as a weak rather than a strong refutation, as it merely
+asks a question. If Wh i te can answer the question by citing a passage
+in one of Dr. Phi l 's books where he made the statement in question ,
+Black's objection could be overcome. However, even a weak refutation
+by questioning can defeat an argument. For unless Whi te can cite the
+source of Dr. Phil's alleged sta tement, h is argument about cholesterol is
+no longer convincing.
+   Finally, let's consider a sequence of argumenta tion that is an extension
+of Dialogue # 1    •
+
+                                   Dialogul' #4
+
+Black: Yes, hut he's not an expert in nutrition. He's a psychologist.
+
+White: OK, but he is still a scif'n tist.
+Black: Dr. Wendy said that flax oil does not reduce cholesterol. and she is an
+expert in nutri tion . She is a medical doctor and has a Ph.D. in food science.
+
+In Dialogue # 1 , Black refuted White's argument, or at least weakened ito;
+force, by pointing out that Dr. Phil is not an expert in the appropriate field
+for the claim made. I n dialogue #4, White replies to this o�jection 'Aith
+some effect by arguing that Dr. Phil does have some scientific knowledge.
+But then Black comes back with an even stronger refutation . He cites an
+expert in the appropriate field for the daim, and this expert made.· a
+claim t hat is opposed to the one made by Dr. Phil. Black refutes Wh ite's
+argument by putting forward a rebutting coun terargument of the very
+same type as the one originally used. This argument represents the kind
+of attack in which the second party presents a counterargument that
+attacks tht• c.:ondusion argut'd for by the first party. The second party
+
+'
+
+=== p. 230 ===
+
+                               A rgumentalion SriU!1nt.�
+
+is not attacking a premise, or attacking the link between the premises
+and the conclusion of the target argument. Sht• is refuting the argument
+by putting f(n-ward a strongt•r argument prming the negation of the
+conclusion o f the target argument.
+   To get at least the begi n n ings of a theory of refutation , we will use these
+four dialogues as representing some common kinds of refutations famil­
+iar i n eve ryday conversational argumentation . We will not be concerned
+with other kinds of refutations or procedural o bj e c t i o n s , like the objec­
+tion that an argument is i rrelevant. T h e se kinds of attacks have been dealt
+with e x t ensive ly el se wh e re ( Wal t on , 2004 ) , and it would take us too far
+afield to try to deal with them here. As indicated by the se four paradigm
+dialogues, our primary focus will be on cases in which o ne argument is
+used to atta<·k, rebut, or refute another argument. We will not be cen­
+trally concerned wi th cases of refutation of a c l a i m or h ypot h e s is , or cases
+o f attacking a qu es tion . On the other hand. all these notions turn out to
+be involved. For example, one way to attack an argument is to attack a
+statement that i s one of it'> pre mise s . In order to be gin to understand the
+notion of refutation represen ted by these four dialogues, we will start by
+surveying the main theories that have bet·n i n fl uen tial in the pa'> t , and
+then examine some recent theories.
+
+                  2 . O l . D t: R T H t: O R H: S O F R J.o: F U TA T I O N
+
+It is well known t h a t Aristotle's disti nction between c ont nt. ri es and con­
+tradictories was an importa n t foundational notion for his formal logic.
+Nearly every logic textbook that treats of syllogisms in dudes a represen­
+tation of the square of opposition , sett ing th is distinction in terms of rela­
+tions between pairs of cat egori c al propositions. What is less well known
+is that Aristotlt• also had set out a much broader notion of opposi tion
+in his Rhetoric, based on his notion of the e n th yme m e . An e n t h ym em e is
+commonly taken in logic textbooks to be an argument with an implicit
+premise (or conclusion ) , but Burn y e a t ( 1 994 ) is a leading exponent
+of the view that Aristotle meant something else by 'enthymeme ' . Aris­
+totle characterized en thymemes as argumen ts based on p re mi se s that
+art• true "only f(Jr the mos t part," contrasting them with the uniwrsal
+genent.li7.ations commonly stressed in dt·ductive systems, like syllogistic
+Such defea'>ible, or e n t h ym c m a t ic generalizations are sul:!ject to dt•feat as
+t•xt·eptions to a rule may arise in the future. The warrant'> fi.>r thest� kinds
+of imperfect i n ferences have traditionally been callt·d " topics" or topoi
+( places) . An exa m pl e ( Rhl'torir 2 . 1 9. 2 4 , 1 :-m�ali-7 ) analyZt·d by Burnycat
+
+=== p. 231 ===
+
+                   Attark, OfJfm.�ition, RPbuttal, and RRJutation
+
+( 1 994 • p. 2 6 ) is the generalization "If the sky is clouded over, it is likely
+to rain . " An argument with this generalization as premise, along with
+another premise, "Today the sky is clouded over," could be used to argue
+for the conclusion "Today it is likely to rain . " This argument could be
+coun tered by an opposing one based on a different generalization : "For
+the most part, if the barometer is h igh, the day is not likely to tum
+out rai ny" ( Bumyeat, 1 994. p. 2 8 ) . The conclusions of two such opposed
+argument'! "contradict each other," and thus each is opposed to the other
+and could defeat or refute i t. Citing examples from Aristotle's wri tings,
+Bumyeat argues that what Aristotle referred to by the term 'enthymeme'
+was not an argumen t with a missing premise, but a defea'lible argument
+
+of a common type based on a generalization that is true only "for the
+most part" and is subject to exceptions.
+    Aristotle, in the Tapira. developed a theory of contraries ba'led on the
+use of the linguistic elements. The sense of a word, on this theory, is
+determined i n part by i t'l referential or predicative usc. For instance,
+'sharp' can be predicated of a note or of a material substance. I n the fi rst
+ca'le, its sense is close to ' h igh ' ; in the second one, it is close to ' poin ted ' .
+I t i s i mpossible to separate the contraries o f a term from its use: 'sharp'
+i n the first sense has as a contrary 'flat ' , i n the latter one 'dull ' .
+    I t i s i nteresting t o observe that the con trary is determ ined, o n this the­
+ory, by the sense of a word i n its con text, not by i ts li teral meaning. There
+may be , for this reason, as many contraries of a tem1 as there are possible
+different senses of i t. Some senses, however, may have no contraries. For
+example, 'loving' when used of the mental state has 'hating' as a con­
+trary, but when used to refer to the physical act, it has no contr.lries at
+all ( Topira, l, XV, 1 o() b, 1 -5 ) . Contradi c tory opposi tes depend on use a'!
+well. For i nstance, ' not to see ' when used i n the sense of 'not to possess
+sight' has as a con tradictory proposition ' to possess sight' , but if its sense
+is ' not to exercise the faculty of sight,' the opposite will be 'exerc ise the
+                                                                     ·
+
+faculty of sight' ( Topira. I, XV, 1 06 b, 1 !)-2n) .
+     The sense, and consequently the contrary, of a word de pends on the
+genus that i t comes under when it is used. The adjective 'sharp' can be
+classified under different genera. For i n stance, i n the examples just men­
+tioned, i t can come under the gt·nus of sound qual i ty or material shape.
+    On this theory, semantic categories of terms used i n natural lan­
+guage discourse affect argumen tative oppositions. Tht· fi rst topic Aris­
+totle described in his RhPtorir is the enthymeme from contraries. that
+is, argument from contrary qual itit•s in herent in contrary su�jccts. In
+argument from contraries, the const•qut·nccs of the oppost•d category
+
+'
+
+=== p. 232 ===
+
+                             A rgu TIU'7ltation SrhnTU's
+
+are evctluated ag-ct inst a given one. Consider the argument �Tt�mperance
+is good, because intemperance is injurious" ( RhPtorir, I I , X X I I I , 1 ) . The
+scheme in this argumem is based on a relation between the two gen­
+era grouping the two related con trctries. They are m ut ually dependem,
+because each opposition is determined by the other paradigm . The dhi­
+sion between temperance and intemperance is made on the basis of
+the consequences, and the diffe ri ng consequences arc determined by an
+evctluation. The opposition is meaningful only in relation to the other cat­
+egory. I n other words, if I oppose temperance to intempemnce, I regard
+the opposition under the quality of 'self-con trol of human beings ' , in its
+turn constilll ted by two exclusive element'!. Argumenl from contrctries
+is based on a quasi-logkal link between the two correlated paradigms:
+from the predication of one subject with one of the contrary qualities
+proceeds the predication of its contrary with the other quality. The oppo­
+sition that is the basis of argument from contraries is thus a seman tic
+classification .
+    Aristotle's theory o f en thymemes i s based o n the concept o f proba­
+bility, or eikos, that is, things that are likely or, in modern terms, plausi­
+ble. Oppositions to an argument are possible because �many things that
+appear likely are opposed to each other" ( RhPtoric, I I , XXV, 2 ) . The focus
+here is on the endoxic premises: the propositions consti lllting the funda­
+mental basis of the enthymemes are based only on general acceptability.
+They are subject to defeat when replied to by objections. There are four
+ways to object to such an argument and refute it: from the same su�ject,
+from similarity, from opposition , and from poinl'l already decided. In
+the fi rst case, the cont rary en thymemc proceeds from the same subject ­
+for instance, love. To the enthymematic premise �Love is a good feeling"
+there may be two kinds of objections: a general one, like "Every want
+is bad," and a particular one, like "The proverbial expression Caunian
+lovPs [incestuous relationship between sister and brother] would not have
+arisen had there not been some wicked loves" ( Rlu>torir, I I , XXV, 4 ) . I n
+the first ca'le, the refutation stems from a n o pposite endoxon, while i n
+the second case it i s a n exception that i s directed against the premise.
+    When the terms of the argument and its opposition are in a similar
+relation - as, for example, ' benefactor' stands to ' benefited' as 'injurer' ­
+stands to ' i njured' , the refutation is from similari ty. For instance, Aristotle
+opposes to the generalization "Those who have been treated ill always
+hate" the rebuttal "Those who have been treated well do not always love"
+ ( Rhetoric, I I , XXV, 6) .
+
+=== p. 233 ===
+
+                            A ttack, oppo.� iticm, Rebuttal, and RPJutaticm                      233
+
+    The scheme o f argument from con traries i s a useful way to fi n d and
+justify oppositions between arguments based on endoxic generalizations.
+For example, to �The good man benefits all his friends" it is possible to
+object that "The bad man does not hurt all his" ( Rhl'tarir, I I , XXV, 5 ) .
+Thus a refutation may be drawn from premises that are agreed upon
+and are not in dispute. The force of this counterargument proceeds
+from the fact that an accepted proposition is t•ndoxic, meaning that it is
+considered uncon troversial by the majority, the authori ties, or opinion
+leaders. On Aristotle's view of opposition , opposed arguments are always
+defeasible when directed against arguments based on endoxic premises.
+ Enthymemes are drawn from probability or, in modern terms, plausibility:
+ the conclusion follows from the premises not by a necessary inference,
+but only by a probable one. 'i Refu tation , in the broad mean ing of the
+ term indicated earlier, attacks the plausible basis of arguments, starting
+ from plausible sources in its turn . Objections, for this reason, tend to be
+ plausible arguments themselves, and for that reason are defeasible and
+subject to criticism . The refuter typically opposes one plausible argument
+ to another, and cannot defeat the plausibility of the first argument only by
+attacking its endoxic premises ( Rlll'toric, I I , XXV, 8, g) . I t is in teresting to
+ observe that Aristotle opposes the form of the reasoning to the premises,
+where with the label "form" he indicates the endoxic missing premises
+stemming from the topical consequence. For instance, if we consider
+ the en thymeme "John hates Bob, because Bob treated him badly," the
+ refutation against the form is focused on the missing premise "Those
+who have been treated badly always hate." The rebuttal is grounded on
+ the instantiation of argument from consequences and focuses on the
+ implicit endoxic generaliza tion .
+    We now turn to two quite different ancient approaches to refutation.
+ Both of them are based on legal argumentation and are therefore dif­
+ ferent in emphasis and approach from Aristotle's. Cicero 's approach
+w.as influenced by Stoic propositional logic and can thus be contrasted
+
+ with Aristotle's theory, which took syllogistic logic as it'l point of depar­
+ ture. But before exam i n i n g Cicero's theory, i t is worth briefly examining
+ Qui n tilian "s account of refutation . The Dr. Phil example we began with
+ in section 1 is a defeasible and plausibilistic argument that is not deduc­
+ tively valid, and that depends on tht> trustworthiness or credibility of a
+
+                   no I u se d hert· i n tlw moclt· rn slatisl ical sens... . bu1 i n an oldt·r st•nst·
+ ti • Prolmbi l i ty " is
+
+   referring ln whal set·ms In be true or is gt•twrally accep1rd <L� l nlt' .
+
+ '
+
+=== p. 234 ===
+
+2 34                       Argummtation Scheml's
+
+source. Such arguments are , of course, quite common in law, and are
+especially i n teresting in relation to the study of rebuttal and refutation.
+   Qui n tilian 's account of refutation is closely related to his conception
+of credibility. Enthymemes and epirheirnTII'S arc different from syllogisms
+with respect to the nature of the premises. While syllogistic premises are
+considered to be true or false, enthymematic premises derive from things
+that are perceived by the senses. These include thi ngs about which there
+is general agreement; things established by law, or passed into c urrent
+usage; and things admi tted by either party. or already proved, or not
+disputed by the adversary ( lnstitutio Oratoria, V, 1 0, 1 2- q ) . Enthymemes
+are, for this reason, defeasible. The credibility of premises can be always
+questioned or refuted by more credible arguments. Credibility is a con­
+cept involving persons or agents as sources of testimon ial evidence, a
+factor that needs to be considered in addition to the reason i ng in the
+argument.
+   The argument from opposition studied by Quintilian , based on trust,
+reputation, and the sincerity of the arguers, is now the basis of argumen­
+tation i n multi-agen t computi ng. I n formation on the worldwide web is
+collected by software devices called agents. An agent must not only carry
+out actions and collect information, but also evaluate the reliability of
+information before acting on i t. For example, an agent may need to judge
+whether another agent should be considered an expert source of infor­
+mation, on the basis of referrals. Referrals are based on information ,
+but also on trust. Technology for automated reputation management
+(Yu and Singh , 2 ooo, p. 1 ) needs to evaluate argumentation based on
+ass u mptions about the perceived reliability and reputation of an agent.
+According to Yu and Singh ( 2000, p. 4 ) , an age n t a assigns a reputation
+rating to an agent h ba'ied on a's direct observations of b, the ratings of
+h given by b's neighbors, and a's ratings of these neighbors. This rating
+is a measure of the trust a has in h as a source of reliable information .
+The trust rating c an then b e updated a'i a n exchange o f messages o n
+the i n ternet proceeds. I f a encoun ters a "bad partner," it can decrease its
+rating and in form its neighbors ( p . 6) . For example, suppose a appeals
+to expert source h in order to support h is argument used against r., but
+r shows that h has been untrustworthy in the past. The trust rating of
+
+h could then be downgraded, and the argument from expert opinion
+could be attacked or even refuted.
+   Whether such an argument is j udged strong or weak depends on the
+credibility of an agent. Refutation strategies, in Qui n tilian's view, are
+similarly focused on the person. In Quin tilian 's account of refutations in
+
+=== p. 235 ===
+
+                     A ttark, OppoJition , !Vhuttal, and RRfutation
+
+trials, attacks on the person have an im portant role in situations where
+they are used to make tlw accused appear not credible and his argument
+implausible .
+
+    . . . counsel for t h e dt•ft· nce may d e n y or justify the facts, rdise t h e question
+    of com pt·tenn·, make excuses, pl(•ad for me rcy, soft e n , extenuate or di\'t'rt
+    the c h a rgt•, express c o n t e m p t or derision . ( /nstitutio OmtlJria, V, t 3· 2 )
+
+However. the strategies of denying the facts and of raising the question
+of the competency of the testifier are not the only forms of rebuttal
+available in the courts. Rebuttal can he performed in two ways: either
+absolutely. or relative to the nature of the allegation. For example, to tht>
+proposition "The property is mine, for I am the only son of the deceased"
+may be opposed the rebuttal "You are not his son" ( lnJtitutio Oratmin, V,
+1 0, 1 2- 1 4 ) . On the other hand, an attack on witness testimony can be
+launched by discrediting the witness. Still another form of rebuttal of a
+comparable kind is the argument that the court is not competent to try
+the case. I n many such cases, the notions of rebuttal and refutation are
+agen t-based, and involve reputation managemen t.
+    Quintilian con nected the phenomenon of refutation to a kind of
+opposition based on the analysis of inconsistencies. For example: Clo­
+dia asserts, on the one hand, that she lent Caelius money, wh ich is an
+indication of great i n timacy, but, on the other hand, that he obtained
+poison to murder her, a sign of violen t hatred ( lnJtilutio Oraturin, V, 1 3 ,
+30) . Another kind of rea<�oning is a strong fonn of argument from conse­
+quences. called argument from incompatibles. For example, it is possible
+to argue: "Can money be a good thing when it is possible to put it to a
+bad use?" ( lnstitutio Oratoria, V. 1 4, 25 ) . In this example, we can notice,
+the absolute quality of a subject "to be good" is opposed to the quality of
+its possible use. Therefore, the opposition is based on a missing premise,
+such as "The nature of a thing cannot be distinguished from its uses,"
+allowing the two different predicates to be considered under the same
+category.
+    The Aristotelian account of argument from contraries is founded on
+i ts theory of predication and on a plausible kind of reao;oning associated
+with topics and enthymemes, as indicated earlier. Cicero, in his book
+ Tapica, described the same kind of argumentation from a different point
+of view, dete rmined by a Stoic, instead of Aristotelian , logical system.
+Argument from con trdl'ies is related to two main figures ( Topirn, X I I I ,
+54 ) .
+
+'
+
+=== p. 236 ===
+
+                           A rgu.mentatiou Schemes
+
+  When you deny that certain th ings are associated and assume the truth
+of one or more, so that the remaining statement must be excluded:
+
+  Either this or that is true; but this is true; therefore, that is not true.
+  Either this or that is true; but this is not true; therefore, that is true.
+
+The second form of argument appears to be an instance of the form
+called disjunctive syllogism in modern deductive logic: either p or q;
+not-p; therefore q. Cicero offered the following examples for this type of
+argument ( Topica, X I I I , 55 ) :
+
+  Fear this, and not dread the other!
+  You condemn the woman whom you accuse of nothing, and do you ao;se rt
+  that the one deserves punishmt•nt whom you believe to deserve reward?
+
+The Ciceronean argument from contraries has one pivotal difference
+from the Aristotelian one: the opposition is not between the elements
+belonging to two reciprocally defined categories, but between two con­
+trary properties attributed to the same su�ject. The logical form of the
+argument is different from that in Aristotle's account. H is version is not
+based simply on the impossibility of the same su�jcct being predicated
+of contrary quali ties, but, in addition , on the plausible rule that the
+same quality cannot be attributed to contrary su�jects. Moreover, Cicero
+describes the contradictory elements as a linguistic reality, not as a
+linguistic practice. These two element'> of his theOI)' aim to develop the
+form of a necessary, not j ust a plausible, inference from the premises to
+the conclusion. Cicero's focus is more on the form of the opposition than
+on its underlying rationale. He studied the forms from which a necessary
+conclusion is derived. In the case of con traries, the necessity of the
+deduction stems from the property of con tradiction: "whatever is contra­
+dictory has such a nature that can never be connected with it" ( Topica,
+X I I . 5 3 ) . Cicero distinguishes among different kinds of contraries. They
+may be opposites, when the things belong to the same genus but differ
+absolutely. For instance, slowness and speed are adverse and are located
+under the same genus, motion. Privath·es are terms that have the prefix
+' i n ' that removes from them a quality. as inhuman ity is the privation of
+humanity. In Cicero 's account, howeve r, privative terms such as ' blind ' ,
+without the prefix ' i n ' , are considered simply adverse contraries. For
+instance, ' blind' is considered a con trary of 'sight' . Oppositions can be
+originated by comparison with somt•thing - for example, double and
+
+=== p. 237 ===
+
+                  Attark, Opposition, &buttal, and &Jtttation                    2 37
+
+half, father and son . And there are neg-ative inferences based on contmry
+expressions, such as M l f lhis is so, that is not" or Mlfit is day, it is not night."
+   It is interesting to observe that Cicero's treatment of argument from
+con traries is based on the logical form of disjunctive syllogism , not
+described in Aristotle. The latter analyzed argument from con traries
+in relation to the predication in a proposition , and not in relation to the
+truth values of simple or disjunctive propositions. Moreover, the dil!iunc­
+tive syllogism stems from a particular meaning ofthe dil!itmction operator
+v. For Cicero, it indicates that the component propositions cannot both
+be false: in other words, it has the same truth-value structure as the con­
+nector vel, represen ting the inclusive 'or' . The disjunction "It is either
+black or white" can be true in Cicero's logic, even if both component
+propositions are false - for example, if the subject is green. The argument
+form of the di�junctive syllogism ( p v q ; -, p; therefore q) , consequen tly,
+is not v-a lid, because it is possible for the proposition q to be false and the
+disjunction to be tme (Stump, 1 g88, p. 2 3 5 ) . The distinction between
+contmdictory propositions and contr.:l.l"}' or opposite ones can be brough t
+out by the study of Boethius on the nature nf contraries. His description
+of the logical operator v as an aut . . . aut . . . connector is at the basis of
+a different theory.
+   The first important distinction Boethius dmws is that between exclu­
+sive contmriety and contmriet}" admitting an intermediate. I n the first
+case, conlrd.ries can not exist at the same time, that is, the existence of
+one of them excludes the existence of the other, and vice versa. On the
+contrary, if an intermediate is admi tted, this mutual exclusion is not valid
+anymore. If we analyze the derived propositions, the truth-value condi­
+tions are different: while in the first case the disjunct propositions cannot
+both be false, in the second case they can. Similar to the exclusive con­
+traries are the privative and relative opposites. Terms like 'blindness' and
+'sigh t' are mutually exclusive, as contraries, and therefore have the same
+values in case of disj unction. On the other hand, relatives like 'father'
+and 'son ' cannot be sepamted, and from this it follows that the affir­
+mation of one relative exc l udes the negation of the other. They must
+be distinguished from the con traries, because they are not defined in
+relation to a paradigm . that is, to a genus. The privative opposites are
+defined in relation to the quality they are deprived of, while the rela­
+tive ones are reciprocally detemtined. The last class of incompatibili ties
+Boethius examines is the con tradictories, that is, the relation between
+the affi r mation and negation of the same proposition . The relation is
+not between terms, but between sentences ( Stump, 1 g88, p. 1 1 9 ) .
+
+'
+
+=== p. 238 ===
+
+                                 Argumentation Scheme.�
+
+                TA B U:   7 . 1 . Peter of Spain 's Jour t)'pt!J of opposition
+
+Topic                                  Maxim                              Example
+Relative opposition       Given one correlative, the           There is a father, therefore
+                              other is given a., well;           there is a son . There is
+                              when one correlative is            no father; therefore,
+                              rejected, the other is             there is no son.
+                              rejected as well.
+Contraries                If one immediate con trary           This animal is not well;
+                              is excluded, we m ust              therefore, it is ill.
+                              posit the other if its
+                              subject persist,,
+Privative opposition      Given one of opposed                  He is sigh ted ; therefore,
+                              privations, the other is             he is n ot blind.
+                              removed from the same
+                              thing.
+Contradiction             I f one contradictory                That Socrates is sitting is
+                              opposite is tnae, then             tnae; therefon.·, that he
+                              the other is false, and            is not sitting is false.
+                              the converse.
+
+   Peter of Spain distinguished four kinds of oppositions: relative opposi­
+tion , contrariety, privative opposition, and con tradiction ( Peter of Spain ,
+1 ggo, p p . 62-64 ) .
+   One can see how Peter's way of classifying different kinds of opposition
+fits with the Aristotelian kind of framework that typified the medieval
+app roach .
+   In ligh t o f the recen t concern with defeasibility, rebuttal, and undercut­
+ting in AI , as well as with reputation management i n multi-agent comput­
+ing, it is remarkable that so little is widely known about older theories of
+contraries and opposition . This neglect is especially remarkable in ligh t
+o f t h e fact that Aristotle, Cicero, Boethius, a n d Peter o f Spain regarded
+these notions as fundamental to the study of rational argumentation of
+the most common kinds.
+
+                 3· N EW E R T H EO R I ES OF R E FUTAT I O N
+
+Modern approaches to opposition carry over the central Aristotelian
+basis of the notion , but also follow Cicero in that they see opposition as
+partially defined by the type of argument involved. Petrus Ramus's system
+of classification of the topics from opposition, for example, is different
+from the medieval one. He defines the opposition in tem1s of what he
+
+=== p. 239 ===
+
+                 Attark, Opposition, Rebuttal, and Rtfulalion
+
+calls "gaynesettes," organizing them in subcategories according to the
+nature of the opposition and its logical form . Gaynesettes are arguments
+that always disagree: it is impossible, in other words, to attribute them
+to the same part of the subject, in the same respect, at the same time.
+For instance, Socrates cannot be white and black on one part, or father
+and son of one man; however, he can be white on one part and black on
+another, or son of one man and father of another.
+    Ramus categorized the oppositions under two different criteria: the
+paradigm and the logical fonn ( Ramus, 1 969, pp. 2 1 -2 4 ) . On his the­
+ory, the opposition between black and whi te is different from the one bet­
+ween father and son . Moreover, pairs like beast-man do not have the same
+logical form as beast-not beast and, similarly, as sober-drunk. These argu­
+ments are called disparates. Con traries can be positive or negative. Posi­
+tive contraries are divided i n to relative and repugning. A relative contrary
+is defined by i ts mutual relation with the other - for example, the word
+' father' can exist only relative to 'son ' . Repugning arguments, on the
+other hand, are contraries that are opposed between contrasting pairs,
+like men and beasts, virtue and vice ( p. 2 3 ) . Negative contraries derive
+from the affinnation and negation at the same time of the same tenn, like
+beast-not beast, or from the neg-ation i n one tenn of a seman tic property
+present in the other, like rest and movement, blindness and sight.
+    The division of opposites is not considered in the logic of Port Royal.
+which instead adopts the medieval classification of them. The general
+categorization of the topoi is, however, different from the medieval tra­
+dition . Arguments from opposition , like topics from cause to effect and
+whole to part, are considered metaphysical topics that reflect the order
+of the world. For this reason , their account of the oppositions, even if
+following a traditional classification, is deeply different from the Aris­
+totelian one. Oppositions are not a property of the words, of the lin­
+guistic elements, but a characteristic of the reality itself. For this reason ,
+topics were reduced t o the function o f classif)ing consequences, instead
+of being their fundamentals.
+    Perelman 's theory of refutation is, like the ancient views, based on the
+concepts of incompatibility and con tradiction. Con tradictions or incom­
+pati bilities may be shown in the opponent's thesis itself, or between his
+argument and a rebuttal. 'While contradictions are proposi tions differ­
+ing only in their truth values, incompatibility holds in relation to cir­
+cumstances, or poin t of view. Perelman uses the expression "to create
+incompatibility" to indicate the process of pointing out "circumstances
+which make unavoidable a choiet· between the two proposi tions involved"
+
+'
+
+=== p. 240 ===
+
+                            Argummtation Schl'mes
+
+( Perelman and Olbrech t'I-Tyteca, 1 g6g, p. 20 1 ) . The reason for incom­
+patibility lies in the unity of the system the elements are shown to belong
+to. For example, two statements about the same person at different times
+may be presen ted as incompatible if all his statement'! are reg-arded as
+forming a single system. Incompatibilities dc>pend on the perspective
+from which the speaker looks at reality, on his choice of the categories
+used to classifY two elements. Thus this theory is wry close to the Aris­
+totelian logic of classes. The main strategies used to create incompat­
+ibilities are based on the notion of relevance: the o�jection must be
+relevant to the matter in orcler for the speaker to be able to classify the
+two propositions under a unique system.
+   I n The New Rlu>torir ( Perelman and Olbrech t'l-Tyteca, 1 g6g, p. 462 ) ,
+the authors examined strategies of refutation i n relation to the particular
+mocles of argumen tation . Argumentation may be based on connections
+between elements: independent elements are to be shown interdepen­
+dent th rough connecting links, that is, argumentation schemes. A refu­
+tation is ba.o; ecl on dissociating the associated elements. If the argument
+proceeds from example, a contrary example may be found. If the argu­
+ment proceeds from a rule, an exception to the rule may be opposed.
+If the conclusion is supported by an analogy, a refuta tion may consist in
+extending the analogy u n til a contradiction is shown, as in this example
+( Perelman ancl Olbrechts-Tyteca, 1 g6g, p. 387 ) :
+
+  Beniat Sain t Prix, arguing against a j u rist who, scoming any reference to
+  Roman law and early jurisprudence, claimed in a work on the Ci\il Codt�, to
+  describe " the veins, muscles, features and soul of the law" expressed regret
+  thai the wri ter did not "follow his metaphor 10 the end" for "he would
+  have soon pt>rceived that every t hing bei ng receives it� organization from
+  an earlier being from which it was begollen ."
+
+If the argument is from dissociation, the dissociated pair may be rejected
+on the basis of another pair. For example, a dissociation may be objected
+to as illusory, by relying on the couple verbal/ real ( Perelman and
+Olbrechts-Tyteca, 1 g6g, p. 4 2 7 ) . The theory of refutation in 7'M Nrw
+Rhetoric is an Aristotelian one, but consciously departs from any previ­
+ous rhetorical tradition based on the rather complex notion of disso­
+ciation .
+    In 7'M Nw Rlzl'torir, many argumentation schemes are identified. When
+we tum to recent work on refutation in epistemology, the approach is
+quite different. It is typically based on the notion of an agent as a repos­
+itory of beliefs, changing ito; beliefs when an argument is refu ted. Such
+
+=== p. 241 ===
+
+                 Attack. DppoJition, Rebuttal, and &Jutalion
+
+a change of beliefs is based on logical reasoning, including a few defea­
+sible forms of argument that have been acknowledged. Pollock ( 1 974 )
+distinguishes between two kinds of refutations: defeaters and undercut­
+ters. His theory is based on two underlyi ng concepts: prima facie reasons
+and justification. Prima facie reasons are logical reasons that are defea­
+sible, meaning that they may cease to be good reasons when associated
+with some additional belief ( Pollock, 1 974, p. 40 ) . Justification , on the
+other hand, is a non monotonic consequence, opposite to overruling and
+dcfeasibility. defi nable in terms of \ictory or loss in a dispute. With j us­
+tified arguments, a dispute can be won ; overruled ones lead to loss; and
+defeasible ones lt·ave the dispute undecided ( Prakken , 2003, p. 2 ) . Tht·
+notion of j ustification is related to the concept of belief: therefore, the
+reasons supporting a conclusion are simply reasons to believe a proposi­
+tion . The justification link is constituted by both con tingent ( I consider
+my informant reliable, etc. ) and inductive (e.g . . past reliability of the
+informan t ) reasons.
+    Defeaters are precisely the propositions that, added to prima facie rea­
+sons, defeat the j ustification . On the other hand, prima facie reasons arc
+logical reasons for which there exist defeaters ( Pollock, ' 974• p. 4 2 ) . In
+an example employed by Pollock (p. 4 2 ) , given the prima facie reason
+"x looks red to me; therefore, x is red," the proposition �Jones told me
+that x is not red, and Jones is generally reliable" is one of it'l possible
+defeaters. We can think of defeaters (or Defeaters I, in Pollock's ter­
+minology) as attacking the conclusion of the argument directly. I n the
+example j ust given, moreover, we can observe that a whole line of argu­
+ment is developed to support a conclusion contrary to the one proceed­
+ing from the prima facie reason. Another kind of attack can be moved
+against a process ofj ustification . I nstead of focusing on the conclusion , it
+is possible to undermine its connec tion with its premises. The inferential
+link is the target of the Type II defeater, or undercutter.
+    For example ( Pollock, 1 974. p. 43 ) , given the prima facie reason
+"x looks red to person S; therefore, x is red," a possible undercutter
+might be "There are red lights sh ining on x. ' Knowing that x looks red
+to me is not a conclusive basis for determining whether x is red, because
+red lights can make a white object look red. The undercuuer is a reason
+to believe that the premises do not j ustify the conclusion, but it does not
+follow that the conclusion is wrong. In other words, the undercutter is
+a reason not to believe the conclusion, it is not a reason to believe that
+the conclusion is not believable. It may be true, or belieV"able, despite the
+undercuttcr. It is the justification link between P and Q ( premise and
+
+'
+
+=== p. 242 ===
+
+                           A rgu mentation Srhnne.s
+
+conclusion ) that is defeated, not Q ( the conclusion ) . Mter the attack, i t
+i s not reasonable anymore t o believe in t h e truth o f Q o n the basis of
+P. In addition , a distinction is drawn between personal and impersonal
+defeaters. For example, while the undercu tter in the example j ust given
+is an impersonal one, the proposition "Person S is hypnotized" is a per­
+sonal defeater of the justification "x looks red to person S; therefore, x is
+red." It is a distinction between the kind of circumstances attacked , and
+they may be general or related to a subject S: that is, between " x look.s red
+to person S" and " x looks red to person S. "
+    Defeaters are parasitic on undercutters. I t is possible to defeat the con­
+clusion "x is red" only if the perceptual reason justifying it is assumed
+to be undermined. For this reason , the process of defeating the conclu­
+sion presupposes reasons to believe that i ts justification can be ignored.
+They derive from the inductive generalization proceeding from the
+undercutter. For example, in the argument "x looks red to me; there­
+fore, x is red," the defeater jones told me that x is not red, and jones is
+generally reliable" can defeat the conclusion only because of tht> fact that
+Jones's rel iability is superior to my own perception . This follows from pre­
+supposed undercutters. I can believe that .Jones is more reliable than my
+perception because I have reasons to believe that my perception cannot
+justify the conclusion. From perception and induction I can understand
+undermining rea'!ons (i.e., I am wearing red gla'lses) and ti·om that infer
+that the opposi te conclusion is j ustified.
+    The problem is posed of figuring out how the undercutters work. The
+undercutter is supposed to attack the l in k between the premises and the
+conclusion of a given argument. But how does such an attack work? In
+the red l ight example, the undercutter "there are red lights shin i ng on x"
+is information that, if known to be true i n a given case, is an exception to
+the generalization on which the i n ference is based. This generalization
+can be formulated as a conditional: "If x looks red to person S, then
+generally ( but subject to exceptions) x is red. " The conditional can be
+seen as a premise in a defeasible modus fJOnen.s argument.
+
+  I f x looks red to person S, then genenllly (but subject to exceptions) x
+      is red.
+  x looks red to person S in th is case.
+
+  Therefore, x is red i n this cao;e.
+
+Suppose that, in this cao;c, new infonnation comes in that there is a
+red light shi n i ng on x. Since this proposition servt�s as an exception to
+the defeasible generalization i n the first premise, the argument defaults.
+
+=== p. 243 ===
+
+                   A. tlark, Opposition, Rebuttal, and RPJu talion
+
+But is the undercuue r attacking the link between the premises and the
+conclusion, or is it merely defeating the first premise , as applic.· d to the
+given case? Presumably it is defeating the applicability of the premise to
+the case, by c i ting a fact i n the case that is an exception to the geneml
+rule stated i n the first prem ise.· .
+   Thus it i s seemi ngly hard t o grasp Pollock's notion that t h e undernllll'r
+attacks the i n feren tial link. According to the three-ways hypothesis s tated
+earlier, there are th ree ways to attack an argument. You can attack one.·
+or more of tlw pre m ises; you can at tack the conclusion , by posi ng a
+coun terargument; or you can attack the inferen tial link between the
+premises and tlw conclusion . But how is this th ird way carried out? Is
+it really any d ifferent from attacking a premise? To try to answer these.·
+questions, we.· return to considering the case of argument from expert
+opinion, a defeasible argumentation scheme.
+
+     4 · A RG U M E N TAT I O N S C H E M ES A N D C R I T I C A L QU E S T I O N S
+
+As w e have already shown , refutation c a n take three forms, or even four.
+I n many cases, one argument is rebutted by another argument paired to
+it. The second argument attacks the first one, but the attack it'iclf can be
+in the fom1 of a different kind of argument , and it can attack the fi rst
+argument in various ways. As Aristotle showed, such attacks are based on
+topics, or common types of arguments, nowadays called argumen tation
+schemes. The refu tation we bc.· gan wi th in Dialogue # 1 ·was based on an
+appeal to expert opi n io n , sometimes called an argument from expert
+opinion . We can reprc.·sen t the structure of such an argument i n the
+following way, showi ng it is based on a defca'iible general ization. I n the
+format of Toulmin ( 1 958 ) , this genemliz.ation repre:-sen ts the warmn t on
+which the i n ference is based.
+    The premise takes the form of a defeasible generaliz.ation , "If expert
+f.' asserts A, then :\ is plausibly true." A second premise takes the form
+of a p ronouncement of an ex pert, "Ex pert f.' asserts that :\ is known to
+be true." The conclusion says, "Plausibly A.." An Exam ple would be the
+argument, "Dr. Bob told me that the leg is broken; there:-fore, the leg is
+broken." The implicit assum ption is that E ( i n this instance, Dr. Bob ) is
+an expert .
+    How would an undercutter be usc.·d to attac.·k this argument? As shown
+in the last section , it could presen t data known in a special case that
+make the gc.· neralization premise default. But this is merely to attack a
+prem ise.·. How would the undernltter attack the argumentation scheme
+
+ '
+
+=== p. 244 ===
+
+244                        Argummtation SrhnMs
+
+for argument from expert opinion, that is, the inferen tial link between
+premises and conclusion?
+  To address this question we need to review the argumenta tion scheme
+for argument from expert opinion, which has the following inferen tial
+structure (Walton, 1 997, p. 2 1 o) .
+
+      Argumentation Scheme for Argument from Expert Opinion
+
+  E is an expert in domain D.
+  E asserLo; that A is known to be true.
+  A is within D.
+  Therefore, A may plausibly be taken to be true.
+
+How could an undercutter be used to attack an argument that fits
+this argumentation scheme by somehow attacking the inferen tial link
+between its prc>mises and conclusion? To answer this question , we return
+to the four example dialogues of attacks on argument from expert opin­
+ion.
+   First, let's return to Dialogue # 1 , and diagram it using Araucaria. We
+begin by listing the propositions (statements) that appear as premises or
+conclusions in the argumentation.
+
+  ( B) Dr. Phil said so.
+  ( D ) Dr. Phil is not an expert an nutrition .
+   ( E ) Dr. Phil is a psychologist.
+
+In Figure 7 . 2 , we see that both B and C are premises required to sup­
+port A, based on the argumentation scheme for argument from expert
+opinion. Statement D appears in a leftmost box, and is joined to A by a
+double arrow, indicating that D is a refuta tion of A. Since E is a premise
+su pporting D, the whole structure shown in the diagram represen ts the
+argument from E to D a.o; a refutation or rebuttal of the argument that
+appears on the right ( from B and C to A) . The so-called owners of each
+of the argument s are also represented on the diagram. White is the party
+arguing for A, while Black argues for D in order to refute A. Here we have
+a very clear case of a refutation that can be \isualized as argumentation
+displayed on an A m uraria diagram. We beg-a n with the set of statemenLo;
+shown in the key list. Then we used the diagram to show how one argu­
+ment is used to rebut, or to try to refute, the other.
+
+=== p. 245 ===
+
+                  A ttack, opposition, Rebutta� and RRfutation                      2 45
+
+                                                                (C) Dr. PhH Is 1n
+                                                                expert
+
+              .-J G l! R t:   7 . 2 . Key l ist and diagram for Dialogue # 1 .
+
+   But there is something not quite right with this way of diagramming the
+argument. D is supposedly an undercutter, meaning that D attacks the
+inferential link. But the way i t is pictured on the diagram, D is refuting
+A. meaning that D is supposed to be an opposite or negation of A. But
+D is not then an u ndercutter in Pollock's sense, but a defeater. Also, it is
+unclear how D is an attack on A at all. What D really attacks is the assump­
+tion i n the argument that E is an expert in the field into wh ich the argu­
+ment falls, namely, n utri tion. But does this mean that D attacks an implicit
+premise, or that D attacks by raising an appropriate critical question?
+   When we turn to the refutations in the next two dialogues, the straight­
+forward kind of analysis of undercutting one would attempt using A rau­
+caria is also problematic. In Dialogue # 2 , Black, when he replied MExperts
+can be wrong," appeared to be attacking the argumentation scheme itself,
+using an undercutter. I t doesn't appear that he was attacking any specific
+premise of the argument from expert opinion that had j ust been put
+forward by White. It appears that he was attacking the inferenti al link
+between these premises and the conclusion that White drew from them.
+But now look back to the A raucaria diagram for Dr. Phil Dialogue #2 .
+The generalization "Experts can b e wrong" is shown as a refutation of
+the premise "Dr. Phil is an expert." The generalization "Experts tend to
+be right" is shown as a refutation of the generalization "Experts can be
+wrong. These refutations are thus not shown as undercutters in Pollock's
+       M
+
+sense. As indicated, the case is one of a refutation of a premise of the
+argument from expert opinion.
+   I n Dialogue #3, Black asks where Dr. Phil said that flax oil reduces
+cholesterol. In this case, Black is only asking a question. He is not putting
+forward a counterargument that attacks the origi n al argument. Nor is he
+
+'
+
+=== p. 246 ===
+
+                                 Argu mPnlation Srhnnl'.�
+
+making any assertion at all. There is no statement that can be inserted into
+a key list for drawing up a d iag ram for the attacking argument. St ill, the
+asking of the qu es tio n acts as a kind of undercutter of the argument from
+expert opinion . If White does not reply to the question , her argument
+defaults, and is not very con vi n c i n g . I L'! plausibili ty i s reduced . Thus in
+this case, merely a'!king a q uestion is a kind of undercuttcr, or acl'! as one.
+   To deal wi t h cases like Dial o gue s #2 and #3, we n ee d to better under­
+stand how asking one of t h e set of cri tic a l questions matching the scheme
+for a given type of argument, like argument from expert o pi n io n , acts
+as an undercutter of the original argument of this type. To re\iew from
+Chapter 1 , the following critical questions m a t c h the argument from
+expert opin ion (Wal ton , 1 997 , p. 2 !) ) .
+
+    1 . Expmi.�f' Question: How c redible ( knowledgeable ) is E as an t-xpert source?
+   2. FU.ld Qru.�tion: Is f.' an expert in the Held that A is i n ?
+   3· Opin ion Quest ion: What d i d E as.o;ert t h a t i m plies A ?
+   4 · Tru.sh1Jorlllint's.s Q111's t io n: Is E personally reliable as a source - for example ,
+        is E biased?
+   5 · Consistmry Qu1'.stim1: Is A consiste n t with what other expert'! ao;sert?
+   (i. Bark11p Etlidmu Qul'slim1: Is E's assertion based on C\idence?
+
+Cri tical question one presupposes that E is a knowledgeable source, and
+thus can be seen as a presupposition of the premise "Expert E asserts that
+A is t rue." The predicate ' being an expert' means ha\ing knowledge in a
+particular field. On the other hand, the reliability and consistency factors
+are not presuppositions of any premise. Even if an expert is biased, or
+if what she says is not consistent wi th what the other experts say, it does
+not follow that she is not an expert or that she has not claimed A. Thus
+there appear to be differences in how the cri tical questions need to be
+treated. Some can be seen as attacking a premise of the argument from
+expert opinion , while others do not appear to have such a function.
+   There is a difference between developing an opposed line of argument
+and destroying the proponent's reasoning without re a ching any con trary
+conclusion. T h i s difference was the basis of Pollock's distinction between
+undercutters and defeaters. In Dr. Phi l Dialogue # 1 , the reply defeal'! the
+original argument, whereas in Dialogues #2 and #3 , the reply appears
+merely to undercut the original argumen t. I n Dialogue #3, Black tries
+to rebut Wh i te's original argument by undercutting the inference on
+which White's argument is based. But then Whi te restores the argument
+by rebutting Black's rebuttal. Here Whi te undercuts, or perhaps even
+defeats, Black's attack. So how useful is the distinction between defeaters
+
+=== p. 247 ===
+
+                 A ttack, Oppo.� ition, Rebuttal, and Refutation            247
+
+and undercutters in deal ing with such cases? I t seems to be helpful up to
+a point, bm its results are different from those of an approach based on
+argumentation schemes and c ri tical questions. In the latter approach ,
+the focus i s not j ust o n the plausibility o f the conclusion, but also o n the
+type of argumen tative move. This approach concerns dialogues, and not
+adj ustments of the belief v-a lues of a single rational agent.
+   Finally, we come to Dialogue #4. This case is an interesting one, because
+it involves a counterargument used to refute an original argument, and
+the counterargument is stronger than the original argument. Thus i t is
+a case of a successful refutation .
+   To represen t refuta tion in Figu re 7·3· an implicit premise, "Flax oil
+does not reduce cholesterol," has been inserted. It is the opposite of the
+conclusion of the original argument from expert opinion , and the double
+aJTow between it and A represen ts refutation . Thus Black's argument
+rebuts White 's because i t has the opposite conclusion. So far, so good.
+But how can we represen t the notion that when Black says that Dr. Phil
+is not an expen in nutri tion , he is refu ting White 's original argumen t
+from expert opinion? This can't be represen ted on the diagram because,
+like the case of Dialogue # 1 , the counterargument is an undercuuer that
+attacks the inference from the premises to the conclusion. This kind of
+attack can 't be represen ted on Araucaria. So what has been done here is
+to prese n t D as a refutation ofC, and then to represen t E as support for D.
+   An interesting aspect of Dialogue #4 is that it represen ts a refutation
+(a successful one, that is) as opposed to a rebuttal or counterattack,
+because the coun terargumen t is stronger than the original one it attacks.
+The argument based on Dr. Phil 's expertise, although not worthless,
+turned out to be weaker than the one based on Dr. Wendy's expertise. To
+represent this aspect of the dialogue, argument evaluations were added,
+as indicated in the diagram. This a'lpect will turn out to be important,
+because the distinction between a rebuttal and a refutation turns on an
+evaluation of the strength of the counterargument i n relation to the
+strength of the original argument.
+
+                 5· D I FFERENT K I N DS OF OPPOS I T I O N
+
+Problems for the pragmatic theory start to arise a'l soon as we encounter
+refuta tions of the kind commonly found in everyday examples of argu­
+mentation. Using an example from Cicero ( De lnvmtione, I , 63 ) , suppose
+that a man is accused by prosecutors of having committed a murder
+known to have taken place in Rome 011 a certain day. Let's say he puts
+
+ '
+
+=== p. 248 ===
+
+ 0.:
+...
+ oc
+
+       (G) Dr. Werdy uld         (H) Dr. Wendy Is M
+       !hilt flax oil does not   expert in nutrition .
+       reduce chollt.wol .
+
+                                                   f"I G U R•:   i·3· Aram·aria diagram for Dialogue #4.
+
+=== p. 249 ===
+
+                 A llark, oppos it ion , /Vbuttal, ancl /Vfutation         249
+
+fonvard an alibi : "I was in Athens on that day." If his claim to being in
+Athens on that day can be substan tiated, he has refuted the argument
+in the charge made ag-ctinst him by the prosecu tors. I t is a refutation
+because the man 's being in Athens on that day is opposed to his bei ng in
+Rome on that day, given the travel conditions in ancient times. But the
+meaning of opposition in such a case cannot be reduced to the kind of
+propositional neg-ations that we know in logic, either classical negation
+or neg-cttion as failure. At leao;t it cannot be so reduced without making
+some addi tional assumptions in the form of missing premises based on
+encloxa. It was perhaps for this reason that the older theories of refutation
+outlined earlier were based on a much broader and richer notion of
+opposition than those we are currently familiar \\ith.
+    Oppositions were defined \\ith respect to a parctdigm established by the
+use of a tem1 , and based on a specification of the sense of the tenn. For
+instance, the aqjective 'white' may be used to denote a color absorbi ng
+a determinate wavelength of ligh t, or a yellow-appearing wine, or grey­
+appeari ng meat, or pinkish skin. The meaning depends on the paradig­
+matic alternatives; it can be conceived ao; a semantic area defined by the
+other elements and by the reality it refers to. White is opposite to red
+in regard to meat, or to wine, but not to skin. Rome was incompatible
+with Athens under the aspect 'physical presence on the same day ' . but
+not under the poin t of view of ' beautiful city' , under the conditions of
+the ancient world. These kinds of oppositions are created by the uses
+of tenns. and they are not linguistic necessi ties. Moreover, they presup­
+pose supporting reasons of their incompa tibility. The argument "I was i n
+Athens t h e day the murder wao; committed; therefore, I wasn't in Rome"
+takes its support from the missing premise "It is impossible to be both
+in Athens and in Rome on the same day." The nature of the opposition
+between being in Athens and in Rome on the same day derives from the
+impossibility, in the first century A.D . , of reaching Athens from Rome
+in one day of travelling. The defeasibility of the opposition depends on
+the contextual assumption that what was impossible two millennia ago is
+ normal nowadays.
+    The first topic Aristotle described in his Rht'torir was the enthymeme
+from contrctries, that is, from contrary qualities inherent in contrary sub­
+jects. The example presen ted earlier was the argument "Temperance is
+good, because intemperance is injurious" ( Rilt'toric, I I , XXII I , 1 ) . This
+argument works somewhat like Tt'ductio ad absurdum, but is not a deduc­
+ tive type of argument. I t is based on the argumentation scheme for argu­
+ ment from consequences. It argues for the proposition "Temperctnce is
+
+ '
+
+=== p. 250 ===
+
+                               A rgu menlalion Srhnfll'.s
+
+a good policy" by refuting the opposed proposition " I n temperance is a
+good policy. " The refutation works because the negative consequences of
+i n temperance are cited as a reason why it is not a good policy. This exam­
+ple raises the question of whether argument from opposi tion is itself
+an argumentation scheme. In this scheme, an argument is supported by
+arguing that the opposed argument has reasons that go against it. Such
+a counterargument or attack can be a refutation when the counterargu­
+ment has stronger reasons behind it than the original argument. The
+kind of reductio ad absurdum we are familiar with in modem logic can be
+classified as a species of argument from opposition applicable to deduc­
+tive arguments. What this ancient example shows is that argument from
+opposition also applies to defeasi ble argument'! based on argumentation
+schemes that are not deductive in nature.
+    These considerations lead to some others on whether certain i nstances
+of arguments from opposition have already been recognized in cla'lsical
+deductive logic u nder the form of the disjunctive syllogism . This form of
+argument was known to the Stoics, as in the example, "The fox wen t over
+the hill or i n to the hole; he did not go over the hill; therefore, he went into
+the hole." Cicero's theory of refutation was ba'!ed on Stoic propositional
+logic. His argumentation scheme for argument from con traries follows
+the logical form of disjunctive syllogism : A v B, -,A; therefore, B. But in
+modem propositional calculus, this form of argument can be valid even
+if the two propositions A and B are not really opposed.
+  Either Socrates is running or Plato is green .
+  Socrates i s not running.
+  Plato is green .
+
+This argument i s a valid di�junctive syllogism. The terms 'either . . . o r . . . '
+are simply a translation in natural language of the logical operator v
+(in its value of aut . aul . . , the exclusive 'or' ) . There are differences
+                       .   .    .
+
+between disjunctive syllogism in modem proposition logic and the argu­
+mentation scheme based on opposition . In natural language examples of
+argumen tation from opposition , the argument depends on an incompat­
+ibility not just between truth values, but between seman tic properties. In
+a real argument from opposition, the di�junctive terms must be opposed
+to each other and must be seman tically related.
+   In the medieval tradition , it is interesting to notice that the conse­
+quences from oppositions were divided into two categories of loci: the
+topics from opposites ( relatively and privatively) . like arguments from
+contraries and contradictories, were listed under extrinsic topics, while
+
+=== p. 251 ===
+
+                   A ttark, Opposition, Rebuttal, and !Vfutation
+
+the locus from division was thought to be separate. The difference lies i n
+t h e nature o f t h e predication. In t h e first class, t h e referred fnlgmt• n t n f
+reality i s categorized by the property, and the mean ing of the referring
+term is not relevan t in determining the opposition . In the second case .
+the defi nition of the subject term is taken into considerntion . The catego­
+rization, in other words, is partially derived from the mean ing of t h t• term.
+    In choosing the predicate ' black' , we exclude that 'white ' , 'yellow ' ,
+' red ' . . . apply t o t h e su�ject i n question. Suppose Wh ite argues that
+Cleitomachus was white because he W d S a Greek philosopher who was
+a student of Carneades, and it is often said that the Greek philosophers
+were wh ite males. Suppose Black then argues that Cleitomachus was
+black bt·cause he came from Africa. Neither argument is conclusive, but
+Black's argument can rightly be classified as a refutation , or at least as
+an attempted refutation , of White's argument. Yet the two conclusions,
+"Cleitomachus was white" and "Cleitomachus was black," are not oppo­
+si tes in the sense that one is the classical negation or the contrddictory
+of the other. They are opposed in that both can 't be tme. They are con­
+trnries of each other. But what is contrdriety in this sense? It means that
+it is not logically possible for both statements to be true. But how can
+this be proved? I n order to prove it, a missing linguistic premise has to
+be added - a statement that if something is white ( all over) . then the
+same thing cannot be black (all over, at the same time ) . Moreover, some
+t•xplanation may ha\'e to be added to the eflect that 'white ' and 'black',
+in this sense, refer to skin color, according to conven tionally accepted
+wdys of making such disti n c tions in common speech. Lexical oppositions
+of this sort, therefore, must be distinguished from contrddictories like
+"Cleitomachus is whi te" and "Cleitomachus is not white."
+
+                    6 . U N D t: R C U TT I S < � A N D S C H E M ES
+
+In order to help us better understand the relationship between opposi­
+tion and refutation , it is useful to consider the Dr. Phil dialogues once
+again. I n Dialogue # 1 . the origi nal argument from expert opin ion was
+refuted by denying that the source is a specialist in the field in question .
+In Dialogue #2, there was a refutation of a refutation . I n D ialogue # 3 , it
+W<Lo; the opinion of the cxpt•rt that was questioned. In these tluct• e<L'Ies,
+
+tht� refutation was directt·d agai nst a premise of the argumell l. In Dia­
+logue # 1 , the target of the attack was the assumption that A is wi thin D. In
+Dialogue # 2 . the attack was ag-di nst a generalization that could be seen
+as an implicit premise on which the argument rested. In Dialogm· #:� . the
+
+=== p. 252 ===
+
+        •·1 G URE   7+ Araucaria-5tyle representation of an undercutter.
+
+attack was against the explicit premise that E asserts that A is known to be
+true. In these ca'ies, the attack can be seen as directed against a premise.
+All three cases of undercutters can be seen as attacks on a premise of
+the origi nal argument. The arguer can attack the undercutter by arguing
+that there is additional evidence that his premise is true, or at least plau­
+sible. If he cannot defend the premise i n this way, his argument collapses.
+By way of contrast, in Dialogue # 4 , the respondent refutes the origi nal
+argument by mounting another argument, saying " Dr. Wendy said that
+nax oil does not reduce cholesterol, and she is an expert in nutrition.
+She is a medical doctor and has a Ph.D. in food science." I n this case,
+Black has presen ted stronger evidence for a con tradictory conclusion.
+White's argument, however, is not defeated as no longer having argu­
+mentative force. He could go on to rein force it with additional evidence
+or with another argument, increasing its acceptability and overcoming
+the rebuttal. He could reply to the refutation by finding an even stronger
+argument for his conclusion .
+   What then is an undercutter, or attack directed against the inferen­
+tial link between premises and conclusion? The p roblem is to re p resen t
+o n a diagram the sort o f attack that i s directed against the inferential
+link, as might be found, for example, in Dr. Phil Dialogue #2 . To visu­
+alize it on an Araucaria diagram, something like Figure 7 ·4 needs to be
+drawn .
+   In this diagram, the assertion "Experts can be wrong" is not shown as
+a refutation of another proposition ( node) in the diagram. It is shown as
+
+an undercutter that attacks the inferential link between the two premises
+and the conclusion of the argument. The problem is that this type of
+
+=== p. 253 ===
+
+                    A ttark, opposition, &buttal, and &futation                       2 53
+
+diagram cannot be drawn in Araucaria. I t represen ts a kind of argument
+structure caJied enta nglemen t (Verhiej , 2oo3b) in which an arrow is
+drawn from a node represe n ting an attack on an argument to the arrow
+linking the inference between the premises and conclusion of the argu­
+ment. This notation represen ts PoJiock's notion of an u ndercuuer on an
+argument diagram.
+   But is the entanglement reaJiy needed on argument diagrams, or can
+undercutters be represen ted as attacks on premises, sometimes on defea­
+sible generalizations or on implicit premises? For example, what about
+the Araucaria-style representation of an undercutter i n the diagram
+above? The way to represent it may be to add an additional premise
+to the original argument from expert opinion. I t is both an implicit
+premise and a generalization.
+
+    Conditional Prrm is e: If source E is an expert in a subject domain S con tai ning
+      proposi tion A , and E a.'l.�erts that proposition 1 \ is true ( lalse ) , then A may
+      plausibly be taken to be true ( false ) .
+
+If this premise i s seen as a material condi tional o f the kind familiar
+in deductive logic, it would make the argument from expert opinion
+purport to be deductively valid. I t would have the deductive modu.� ponem
+form . However, Wh i te 's rebuttal suggests that the missing premise should
+be represen ted as a conditional premise that expresses a defeasible gen­
+eralization , making the argument as a whole defeasible. Thus seen, it has
+the form of defeasible modu.� ponnu. Using the device of enthymemes,
+there is perhaps a way of represen ting the kind of refutation exemplified
+by Dialogue #2 as an attack on a premise. The undercutter could be dia­
+grammed as a statement expressing special conditions that refute the con­
+ditional premise, when that generalization is ta ke n as an implicit pre m ise
+of the argument from expert opinion. By this means the notion o f a n
+undercutter could be represen ted in the foJiowing argument diagram .
+   In the pair of diagrams in Figure 7·5· in the.· diagram on the left,
+Black's attack on White 's argument is represen ted as an a t ta c k on the
+implici t conditional on wh ic h Whi te's argument re s to; . Wi th the c l a im
+that "Experts can be wrong," Black attacks \\'lt ite's plausible i m p l i c i t
+proposi tion.
+    I n t h e diagram on the righ t , Wh i t t• replies to Black's a t tack by using
+t h e prc.· mise "Expe rts t e n d to be righ t " to support the prem ise.· t h a t Black
+at tac.· ked . But can t his way of diagramming the unrlc.·rc u t ter be used to
+rc.·present PnJiack's view of defeasihility?
+
+'
+
+=== p. 254 ===
+
+
+
+=== p. 255 ===
+
+                A ttack, opposition, &buttal, and &fulalion              2 55
+
+   Let's go back to Pollock's example of an undercutter. We suggest that
+it can be said to rest on an argumen tation scheme from appearance. Part
+of this scheme could be put in the form of a conditional: if something
+appears to have a certain property, then i t really has that property. For
+example, if an object looks red, then it is red. But such a generalization
+is defeasible, for, as Pollock poin ts out, we can consider a special case in
+which the object is illuminated by a red ligh t. I n such circumstances i t
+will n o t appear red t o an observer. The argument has a defeasible modus
+ponms form as used in a given case.
+
+            Modus Ponens Form of the Red Ligh t Example
+
+  If something appears to have a certain property, then it really has that
+     property.
+  This object appears to have the property of being red.
+  Therefore, this object is red.
+
+Now suppose that this argument defaults in a given case, because we have
+the addi tonal premise that a red light is shining on the object. Citing these
+ci rcumstances is an undercutter. It shows that the generali1.ation stated
+in the conditional premise does not apply to this particular kind of case.
+I t defaults, as we say. Now consider a comparable kind of case in which
+the conditional defaults.
+    Prakken ( 2003 ) has shown that the argument in this example has a
+characteristic argumentation scheme. I t is called argument from appear­
+ance (Walton , 2oo6b) .
+
+      Argumen tation Scheme for Argument from App e a ra n c e
+
+  If something looks like an x, then it is an x.
+  Th is object looks like an x.
+  Therefore this object is an x.
+Prakken ( 2003 ) cites another example of argument from appearance. I t
+i s a legal argument, a n d provides the theme o f his paper.
+
+                         The Affidavi t Argument
+
+  This ol�ect looks like an affidavit.
+  Therefore, this object is an affidavi t.
+The affidavit argument is defeasible, and is similar to Pollock's red light
+argument in that both are arguments from appearance. But the affidavit
+
+ '
+
+=== p. 256 ===
+
+                             Argummtation Sc�.�
+
+argument suggests comincingly how common and important defeasi­
+ble arguments are in legal e\idence - and, by the way, how important
+argumentation schemes are as well.
+   As an argumentation scheme, argument from appcantnce needs to be
+e\·aluated in a dialogue format by asking cri tical questions. Each critical
+question is a potential defeatt•r of the argument. Th ree critical questions
+matching the argument from appcantnce are the following.
+
+  CQt : Is there some rt•ason why this ohjt·ct might look li ke an x hut not really
+    be one?
+  CQ:l : Can the hypothesis that the ol!jt�ct is an x bt• t('Sted by mlll'cting more
+    data?
+  CQ.1: Art• there counterbalancing reasons for accepting t he hypothesis that
+    tht• o�jt·ct is something dse , as oppo¥d to hd ng an x?
+
+The first critical question can be illustr-a ted by Pollock's example. I f an
+o�ject looks red to me, I might quite reasonably conclude that it is red,
+at least as a hypothesis. But then I might find out that the object was
+illuminated by a red light at the time, making it appear red. This finding
+defeat'! the argument, because a red light will make any o�ject look red
+to a normal human observer. Such a finding is a reason of the kind
+mentioned in CQt , because the object migh t look red, but not really
+be red.
+   Pollock's theory is that the additional premise indicated in the modus
+ponnu form of the red light example is an undercutter because it attacks
+the inferen tial link from the premises to the conclusion. But does it
+really? Or does it just attack and refute the fi rst premise by providing
+an exception to the general rule? If the latter interpretation of how the
+argument from appeantnce is attacked is right, an Araucaria diagr-a m
+can be used to represent undercutting argumentation. The technical
+problem is that we can 't represen t a statement refuting an inferen tial
+link (arrow) on an Araucaria diagntm, as indicated in the Antucaria­
+style represen tation of an undercutter diagntm shown earlier. But can we
+look on the statemen t of the special circumstances as refuting a missing
+premise in the fom1 of a conditional that does appear ao; a node in the
+diagr-a m? This solution seems tojustify Pollock's view that the undercutter
+refutes the inferential link between the premises and the conclusion of
+the argument from expert opinion. The reason is that it refutes the
+conditional premise on which the scheme depends. But is this view of
+the matter the proper way to view defeao;ibility? We suspect it is not,
+because what really happens is not that the conditional is refuted. I t still
+holds. What has happened is that it defaults, because the case is shown
+
+=== p. 257 ===
+
+                     A ttark, Opposition, Rebuttal, and RJ;futation             2 57
+
+to be one to wh ich it does not apply. Thus the conditional should not be
+said to have been refuted. What has been shown is that it doesn 't apply
+to this particular case.
+   In short, we have some reserva tions about Pollock's view that the under­
+cutter attacks the inferen tial link ( the argumentation scheme ) on which
+the argument is based in a given case. We propose that it is better to think
+of undercutters in a different way. They perform the role of c ritical ques­
+tions that do not, at least irretrievably, defeat an argument they attack.
+But they do temporarily defeat the argument unless the cri tical question
+can be answered satisfactorily by the proponent of the argument. In this
+light, let us review the list of c ri tical questions matching the argument
+from expert opinion (Walton, 1 997 , p. 2 1 1 -2 2 5 ) to see how they might
+be used to attack an argume n t and undercut or defeat it.
+
+    ExpmiM. Question: How credible is E as an e xpe rt source?
+    Field Question: Is E an expert in th e field that A is i n ?
+    Opin ion Q!U'stion: What did E asse rt that implies .1?
+    Trnslworthines.\ Question: Is £ personally reliable as a so u rn· ?
+    Con.sislenry Question: Is A consiste n t wi th what other experts assert?
+    Backup Et1itlnzce Question: Is t:s a'ISC rtion based on c\idence?
+
+The fi rst two questions impinge on the first premise, "Source E is an
+expert in subject domain S con taining proposition A." The expertise
+question is focused on the categorization of the source as an expert, that
+is, "an individual with specialized skills that can be tapped for informa­
+tion to which she has privileged access" (Wal ton , 1 997. pp. 1 1 2- 1 1 3 ) .
+Therefore, the attacks will question the evidence f()r this classification -
+that is, her job, her qualifications, the testi mony of peer experts on her
+competence, as well as her expe rience, skills, and publications. The field
+question is directed against the correspondence between the domain of
+expertise and the proposition: the domain itself may be examined from
+the point of view of type ( knowledge or technical skill ) , of its relation
+to other fields, or of its developmen t. The opinion and trustworth iness
+questions impinge on the second premise of the scheme: "E asserl'l that
+proposition A is true ( false ) ." The former questions the correspondence
+between the source words and the reported proposition and attacks the
+inferen tial and interpretative links between them. The trustworthiness
+question raises problems concerning bias, honesty, or conscien tiousness
+of the expert, matters that can undermine the tenability of her statement
+in favor of tht!' truth of the conclusion . The last two questions represen t
+other possible cri tical poi n l'l o f attack. The passage from expert opin ion
+to the plausibility of the conclusion could be weakened by the obsetvation
+
+'
+
+=== p. 258 ===
+
+                           A rgumenlalion SrhnTU's
+
+that "experts may be wrong." The consistency and backup evidence ques­
+tions examine two other possible points of attack. Her assertion may
+conflict with the generally accepted opinion shared by the majority of
+experts. Or her opinion may be not based on strong relevant e\idence
+that she can cite, and therefore, it could be rejected a'i a strong reason
+to conclude that the proposition at issue is highly plausible.
+   What we observe generally here is that c ritical questions matching a
+scheme are aimed at attacking the argument by undercutting its applica­
+bility to a given case that can be shown to have special features to which
+the scheme does not properly apply. In other words, the cri tical ques­
+tions undercut the argument, not by defeating the scheme i tsel f - that is,
+by attacking the link between the premises and the conclusion - but by
+showing that the scheme does not apply to the particulars of the given
+cao;e. Thus we recommend that the critical questions matching a scheme
+be seen as devices for attack that work by arguing that the requirement-;
+of the scheme are not met. I n our view, the defeater /undercutter disti nc­
+tion is best seen as a device for referring to different kinds of attacks.
+   We begin by reviewing the three-way hypothesis with our addi tion to
+it. There are three ways of attacking an argument. The fi rst way is to
+argue that the premises are not tnte, or have not been shown to be tnte.
+The second way is to argue that the conclusion does not follow from the
+premises. The third way is to argue that the conclusion is false, or at any
+rate, that there are reasons to think so. In addition, we have noted that
+there is a fourth way, in which the attacker argues that the argument
+given does not meet the burden of proof. To this four-ways hypothesis we
+have to add the distinction between rebuttal and refutation. A rebuttal
+should be defined as an attack on a prior argument i n which the second
+argument is opposed to the fi rst. A refutation is a successful rebuttal, that
+is, an attack that knocks down (successfully defeats) the prior argument.
+    It is the second way, representi ng the undercutter, that is the most
+controversial. How can you argue that the conclusion does not follow
+from the premises? For if a given argument in a particular case can
+be classified under a certai n scheme, then it does ( presumably) meet
+the requirement for that scheme. For example, if a given argumen t is
+identified as having the modus ponms fonn , then the conclusion does
+fol low from the premises. $<> how is undercutting possible at all? To
+examine th is question, let's look again at argument from expert opinion.
+If an argument really is of this type, and has this scheme, then there is
+an inferential link between the premises and the conclusion. How could
+that be attacked? One way is that the attacker could argue that the given
+
+=== p. 259 ===
+
+                 A llark, Opposition, Rebuttal, and Ivfu tation          2 59
+
+argument is not really an argument from expert opinion, even though
+it may look like one or the audience may be taking it to be one. For
+example, suppose the source cited in an ad is a Hollywood celebrity who
+claims that a diet is a healthy way to lose weigh t. This argument could
+be attacked by arguing that the celebri ty is not an expert on matters
+of healthy diet. But how should we classifY such an attack in light of
+the four-wc1ys hypothesis? Is it claiming that the argument is not really an
+argument from expert opinion? That is, is it claiming that the scheme for
+argument from expert opinion does not fit the argument in the ad? For
+example, is it claiming that the argument used in the ad is really only an
+appeal to popular opinion , or some other type of argument, as opposed
+to an appeal to expert opinion? This claim could be an undercutter,
+perhaps, but not of the kind that Pollock described in the example of
+the red light. Or is there another way to interpret the attack? Could it be
+an attack on the premise that the source is an expert? If so, it falls under
+the fi rst way and not the second way. I t is an attack on a premise. But this
+way of attack can be diagrc1mmed without resorting to en tanglement.
+   What about the claim that the argument is not really an argument from
+expert opinion? Could this form of attack be represen ted diagrammati­
+cally without using entanglement? Suppose it is a linked argument wi th
+two premises, for example, that looks like it might be an appeal to expert
+opinion but really is not. I t seems that this kind of failure can be repre­
+sen ted in an Araucaria diagram simply by not using the argumentation
+scheme for argument from expert opinion to mark the linked argument
+going from the premises to the conclusion .
+
+            i · A C A S E STU D Y O F COM B I N E D REB UTTA LS
+
+The structure of a refutation can be quite complex in some instances
+of realistic argumentation , because the refutation can be made up of
+many component arguments. Each of the component arguments may be
+relatively weak or inconclusive by itself, but when taken together they
+can form a mass of evidence, made up of complex argumentation , that is
+relatively strong. Even if such a mass of evidence is not a conclusive proof
+of the ultimate thesis being advocated, it may be relatively strong, and
+it may be strong enough to fulfill a burden of proof. On controversial
+issues, one may not be able to expect a conclusive proof of an ultimate
+thesis or a conclusive refu tation of it. Instead, many defeasible arguments
+can be used to build up a mass of evidence that is fairly persuasive. For
+example, take a public policy issue like euthanasia or the legalization of
+
+'
+
+=== p. 260 ===
+
+marijuana. You are never going to settle such an issue by finding conclu­
+sive arguments on one side or the other. What you do find is that there
+are many inconclusive arguments used by both sides. For example, if a
+policy of allowing euthanasia or of leg-alizing marij uana has been estab­
+lished in a country, you will find lots of argument from consequences.
+For example, someone opposed to the policy of legalization of mari­
+juana may argue that when this policy was carried out, it led to negative
+consequences. Such argumenL'I, in turn , will need to be supported by
+arguments from expert opinion; documented scien tific studies of such
+supposedly harmful efTecL'I, when carried out by scien tific experts, can
+be used as persuao;ive arguments. In such cases, then , one might expect
+a mass of complex argumenta tion made up of argumenLo; from expert
+opinion. No single argument refutes the claim it is used to attack, by
+prming that i t is false. Bm we do not expect that. We are nonetheless
+impressed if a number of such inconclusive argumenL<� can be formed
+i n to a complex network of argumentation in which many separate rebut­
+ tals fuse together to form a strong argument.
+    The following passage is from the article "Marij uana"a Loss of I n no­
+cence' (Gerlof Leistra and Simon Rozendaal , Readn 's Di�Jt, April 2004,
+pp. 97- 1 02 ) . The argument of the article is that a Dutch drug policy
+designed to tolerate the use of cannabis, started in 1 976, has been a
+failure. The following passage ( pp. gg- wo) is part of the article.
+
+  The Dutch dmg policy is based on a distinction between soft dmgs and hard
+  dmgs. I t is believed that hard drugs are dangerous, wh ilt• soft dmgs are rel­
+  atively harmless. Bll l this is a shaky hypothesis. Over the past two decades,
+  research published in scientific journals such as Nat ure, the BritiJh Mt'di·
+  cal Journal and The journal of the A ml'rica11 Medical Aunciatio11 indicates that
+  long-term cannabis use is more dangerous than previously assumed. There
+  appears to be a dear relationship with sch izophrenia. " I t can not be denied
+  that over the course of time, this link has become more pronounced," says
+  Harald Wychgel, a drug expert at U trech t's Trimbos I nstitute, which moni­
+  tors mental health and addiction in the Netherlands.
+     Experts such as Don Linszen, professor of psychiatry at the Academic
+  Medical Ce n tre i n Amsterdam, and J i m v-an Os, profes.�or of psychiatry
+  in Maastricht, bdieve that can nabis use can increase the risk of psychotic
+  disorders and can result in a poor prognosis for those with a tt'ndency to
+  psychosis.
+
+The article goes on to offer other arguments against the hypothesis that
+soft drugs are harmless. For example, it argues that cannabis is more
+carcinogenic than tobacco, and that long-term use of cannabis lowers
+the IQ (p. 1 00 ) .
+
+=== p. 261 ===
+
+                  A ttack, opposition, Rebuttal, and &futation
+
+   The main thesis of the article is that the Dutch policy is "wrongheaded"
+( p. 1 00 ) . But the part of the article j ust quoted is meant to be a rebuttal,
+part of a refutation of the hypothesis that soft drugs are relatively harm­
+less, compared to hard d rugs. What is i nteresting is that the article gives
+a number of arguments against the hypothesis that soft d rugs are rela­
+tively safe. These arguments are mean t to be rebuttals of the hypothesis,
+and when taken together they are meant to be a refutation of it. Both
+arguments just quoted, and many other argumen ts in the article as well,
+are arguments from expert opinion .
+   The argumentation in this quotation can be analyzed using Araucaria.
+We begin by identifYing the explicit statements in the article using a key
+list.
+
+                     Ke y List for the D u tc h Policy Case
+
+     (A) It is believed that hard drugs are dangerous, while soft drugs are
+             relatively harm less.
+     ( B ) Over the past two decades, research published in scientific jour­
+             nals such as Nalurt!, the British Medical journal, and The Journal of
+             the A merican Medical Association indicates that long-term cannabis
+             lL'Ie is more dangerous than previously assumed.
+     (C) There appears to be a clear relationship with schizophrenia.
+    ( D ) Harald Wychgel says that it cannot be denied that over the course
+             of time, this link has become more pronounced.
+     ( E ) Harald Wychgel is a d rug expert at U trecht's Trimbos Institute,
+             which moni tors mental health and addiction in the Netherlands.
+      (F) Don Linszen, a professor of psychiatry at the Academic Medical
+             Centre in Amsterdam, is an expert on the dangers of drug use.
+    ( G ) Don Linszen believes that cannabis use can increase the risk of
+             psychotic disorders and can result in a poor prognosis for those
+             with a tendency to psychosis.
+    ( H ) Jim van Os, a professor of psychiatry in Maastricht, is an expert on
+             the dangers of drug use.
+       ( I ) Jim van Os believes that can nabis use can increase the risk of
+             psychotic disorders and can result i n a poor prognosis for thost•
+             with a tendency to psychosis.
+To this list of explicit statements we add the unstated or missi ng pre m i se
+(.J ) that long-term cannabis use is more dangerous than previously
+assumed. Ao; Figure 7 . 6 shows, the three argumen t.-; from ex p ert opi nion
+support this statement, and it is nwan t to ht� a rebuttal of the hypoth<"sis
+
+'
+
+=== p. 262 ===
+
+
+
+=== p. 263 ===
+
+                   Attack, opposition, Rebuttal, and !Ujutation
+
+represen ted by statement A. Statement], supported by several arguments
+that appeal to expert opinions, is meant as a refuta tion of A. These differ­
+ent arguments from expert opin ion are presen ted in rebuttal of hypoth­
+esis A. One such argument is based on premises 8 and the unstated
+premise that the journals cited are expert sources.
+   What this case shows is how rebuttals can come in packages. A strong
+rebuttal can be made up of several rebuttals that, by themselves, are
+weaker, but that when taken together can make up an attempted refu­
+tation that combines them in an argumenta tion stmcture. We see that a
+single refutation by i tsel f - for example, based on argument from expert
+opinion - may not be very strong, but i t can sti l l have some strength as a
+rebuttal. When two or more such relatively weak rebuttals are combined
+in an argumenta tion stmcture , there can be an additive effect. The mass
+of evidence offered forms a refuta tion that can be stronger than any of
+its component rebuttals.
+
+                      8. A RG U M ENT FROM OPPOS ITES
+
+The subject of refutation has taken us i n to even deeper problems relating
+to the notions of negation, opposites, and contraries. These notions are
+fundamental to logic and argumentation theory, and were judged to
+be so in the ancient world, as shown in the brief h istory of the subject
+outlined earlier. We don 't really have solutions to these problems at
+present, because we do not have any new theory of negation or contrariety
+to offer at this point. Still, it is worth noting that argument from contraries
+was recognized as an argumentation topic by ancient writers.
+    Aristotle ( RhRtoric, Book I I , Chapter 2 3 , 1 397a) postulated a topic he
+called argument from opposites ( translation quoted from p. 297 of work
+ci ted in the Bibliography) .
+    One topic of demonstr.uive emhymemes is derived from opposites; for il is
+    ncces.�ary to consider whether one opposite is predicable of the other, as a
+    means of destroyin g an argument, ifit is not, as a means of constnacting one.
+
+He offered four examples of this type of argument ( 1 397a) .
+    Self-con trol is good, for lack of self:..C o ntrol is harmful.
+    If the war is responsible for the present evils, one must repair them
+       with the aid of peace .
+    For if it is unfair to be angry with those who have done wrong uninten­
+       tionally, it is not fi tting to feel beholden to one who is fon:ed to do
+       us good.
+
+'
+
+=== p. 264 ===
+
+                                  Argumentation SchnnP.�
+
+     If men are in the habit of g-.tining credit for false statemen L'i, you must
+        also admit tht> contrary. that men often disbelieve what is true.
+
+Aristotelian topics arc argumentation schemes that gcnemlly n·prt>st>nt
+argumenL'i that are reasonable, but that can also be used fallaciously in
+some cases. So it is not entirely to be taken for gran ted that Aristotle is
+endorsing argument from opposites ao; a reasonable form of argumenta­
+tion. Still, the examples just offered look fairly reasonable.i
+   Cicero, in A d HI'Tmnium, Book IV, Chapter 25, also recogn ized argu­
+ment from opposites. At least, he postulated an argumentation scheme
+he called reasoning from contmries that looks to be the same ao; the form
+of argument that Aristotle called argument from opposites.
+
+     Reason i ng by colllr.l r ies is the figure which, of two opposi te statt·mellls, uses
+     one so as neatly and d i rec tly to prove the other.
+                                                                            •
+
+He offered the following examples ( translation quoted from p. 293 of
+work cited in the Bibliogmphy) .
+
+     Now how should you expect one who ha'i ever been hos li l t" tn his own
+     i n terest to be friendly to anothe r's?
+        Now why should you th i n k that one who is, ao; you have learned, a fai th less
+     friend, can be a n hnnour.lble enemy? Or h ow should you expect a person
+     whose arrogance h as been i nsuffernble i n private l i fe , lCl be agreeable and
+     not forget h i mse l f when i n power, and one who i n ord i n a ry conve rsation
+     and among friends has neve r spoken the t ru t h , to refrai n from lies before
+     public a"Lo;emblies?
+        Do we fear to figh t them on the level plai n when we h ave h u rled them
+     down from the h i l ls? When they outn u m be red us, they we re n o match for
+     us; n ow that we o u t n um be r them, do we fear that they wi l l conquer us?
+
+Cicero thought this a highly plausible and useful form of argument, for
+seveml reasons. First, i t is "agreeable to the ear on account of its brief and
+complete rounding-off." Second, "by means of the contrclry statement it
+also forcibly proves what the speaker needs to prove." Third, "from a
+statemen t which is not open to question i t dr.tws a thought which is in
+question, in such a way that the inference cannot be refuted, or can be
+refu ted only with the greatest difficulty."
+   I t is not too clear, perhaps, whf"ther Cicero regarded reao;oning by
+contraries as a reasonable form of argument in general, or whether he
+
+ i   Still, each argument has its special features. We- have already commented that tht" first
+     one   appears tn involve nt>gati\·e argumt>nta tinn from conse q uences. for t>Xample.
+
+=== p. 265 ===
+
+                        A ttack, opposition, Rebuttal, and RPJutatinn
+
+was putting it forward only as a useful means of persuading an audience.
+Still, j udging from his examples, it looks like it could be a reao;onable
+form of argument in some instances, even if it is one that should be
+regarded as defeasible.
+   So far, so good. It looks as if argument from opposites was recognized
+as an argumentation scheme in the ancien t world, and it appears from
+the examples cited that it should be cited ao; an argumentation scheme
+representing a form of argument that is defeasible. I t looks like a fairly
+standard argumentation scheme of a presumptive sort, in other words.
+But there is another ancien t source that needs to be considt·red in this
+connection . Plato ( Phaedn, 6gc-7 2d) used what appears to be this very
+form of argument ao; a proof of the claim that thing men are produced
+from the dead (quoted from Plato, Phaedo, translated by C. Stanford
+[ New York, Hurst and Company, 1 H3 5 l . pp. 2 7 , 2 H ) .
+
+    "We a re sutlic it·ntly assu red of this, that all t h i n gs are so prod uced , con t ra ries
+    from contraries?"
+    "Sufficiently so."
+
+    "But further; is there some t h i n g of this nature i n them; for i nstance, two
+    stages of gen e ration be twee n each pair, as a l l con tra ries i m ply two cxtremt·s,
+    from the one to the other, and from the other bac k again to it? For bt.·twccn
+    the greate r and the less i n t e rve nl's the process of i n c rease and d i m i n u t i o n ;
+    and d o w e , therefort', c a l l the one the a c t o f increasing, and the other the
+    act of d i m i n is h i ng?"
+
+    "Yes," said Ceht•s.
+
+    "So, therefore, wi th the act of separa ti n g and of mixing, of growi ng cold
+    and growi ng war m , and all t h i ngs similarly, eve n though wt� should not h avt�
+    names to designate them by at times, sti l l must they not i n fact he at all times
+    so disposed as to be prod uced from t·ach other and that their ge ne ra t ion
+    should be rec i procal?"
+
+    " By all means," n·plit·cl Ct>ht�s.
+
+    "What then," said he, "has J ilt- any co n t rary as sleepi ng has i ts rontrdl")',
+    waki ng?"
+
+    "Ce rtain ly. "
+
+    ·what is i t ? "
+
+    "Are n o t these t hen produced from each other, since they are con t raries,
+    and the stagt's of gt' n e ratinn      ht'twet'n tht•m are two, since th ey a n� two
+    themselves?"
+
+'
+
+=== p. 266 ===
+
+                             Argumentation Schnnes
+
+  "How should it be otherwise?"
+  "I shall tell you then," said Socr.ues, Mone combination of contraries amongst
+  those which I mentiont"d just now, both itself and its stages of generation,
+  but do you tell me the other. I say then , that sleeping is one thing. and
+  waking another, and that waking is produced from sleeping and sleepi ng
+  from W'dking, and that the stages of their generation are, the one falling
+  asleep, and the other awakeni ng. Is this sufficiently clear or not?"
+  MQuite so i ndeed."
+  MDo you now tell me likewise in regard to life and death . Do you not say that
+  death is the contrary of life?"
+  "I say so. "
+  MAnd that tht•y are product'd from each othl'r?"
+  "Yes."
+  MWhat then is that which is produced from life?"
+  MDeath," said Cebes.
+  MAnd that which is produced from death?"
+  Ml must allow," said Cebes, "to be life."
+  MThen, C'.ebes, from the dead are living things. and living men product"d?"
+
+The conclusion of this argument, as statt'd in the lao;t sen tence, is not
+one that is generally accepted. And the form of argument it is based on
+does not seem to hold generally. It seems easy to find a counterexample,
+"Socrates is white; white is the contrary of black; therefore, Socrates will
+be black."
+  Argument from opposites is a defeasible argumen tation scheme that
+has the following form (see Chapter 3 ) .
+
+                 Positive Form of Argument from Opposites
+
+  The opposite of subject S has the property P.
+  Therefore, S has the property not-P ( the opposite of propt'rt}' P) .
+
+I n some instances, the argument will have the following negative form .
+
+                 Negative Form of Argument from O p posi tes
+
+  The opposite of subject S has the property not-P ( the opposite
+    of property P) .
+  Therefore, S has the property P.
+It is somewhat arbitrary which form is called positive and which negative,
+as both contain negated expressions.
+
+=== p. 267 ===
+
+                  Attark, DppoJition, RPbuttal, and RPfu tation
+
+  But should argument from opposites be more widely recognized as
+an important defeasible argumentation scheme? And if so, under what
+conditions is it used in a way that is faulty or fal lacious? In order to answer
+this question , the examples put forward by Plato, Aristotle, and Cicero
+have to be examined, and other cases studied in depth. We do not try to
+solve the problem here.
+
+              g . A P RA G M A T I C T H I':ORY OF REFUTAT I O N
+
+What has been considered s o far leads t o asking whether it i s possible to
+have a theory of refutation based on the concept of negation . In logic,
+two types of negation have been recognized. Classical negation refers to
+the opposite truth-value of a proposi tion. I n other words, a proposition
+is true ( false ) if and only if its negation is false ( true ) . Negation as failure
+means that if there is a failure to prove that a proposition is true, then,
+by default, that proposition is not true (Clark, 1 978 ) . I n other words, its
+negation is true. These two types of negation appear to correspond to the
+two types of refutation of a proposition . A proposition is strongly refuted
+if proven to be false. A proposition is weakly refu ted if not shown to be
+true. This model of refutation fits the kind of refutation called rPdurtio
+ad absurdum, or indirect proof, very well. This kind of argumentation
+shows that a proposition is true by showing that the assumption that it
+is false leads to a conu-ddiction. Since a contradiction has to be false, by
+mod·us tol/eru the assum ption in question has to be true. Here the notion
+of refutation of a proposition based on classical negation seems to work.
+However, we have been concerned not wi th refu tation of propositions,
+but with refutation of arguments. A refutation is taken as a species of
+argumen t used to attack another argument.
+   Some might say that these notions arc connected, because to refute an
+argument is basically to attack the conclusion of that argument by moun t­
+ing an argument for its opposite ( classical negation ) . Dialogue #4 fi ts this
+model. To diagrdm the Dr. Wendy argument, sho�ing it to be a refu tation
+of the Dr. Phil argument, we inserted an implicit conclusion that is the
+negation of the conclusion of the Dr. Phil argument. The Dr. Wendy argu­
+ment, because its conclusion is the negation of the prior Dr. Phil argu­
+ment, fits the model of a refutation. But this model doesn't fit the refuta­
+tions represen ted in Dialogues # 1 , # 2 , and #3 very well. These are weak
+rather than strong refu tations. The arguments are undercutters rather
+than defeaters, in Pollock's language. This kind of refutation , or per­
+haps rebuttal, doesn ' t seem to fit the model of proposi tional refu tation
+based on class i cal negation . Small wonder, because we are dealing with
+
+'
+
+=== p. 268 ===
+
+                            Argumentation ScJu!m,.s
+
+defeasible arguments here. A refutation is typically the use of one defea­
+sible argument to attack another. This can take place, as in Dialogue #4,
+by the use of a defeasible counterargume n t that is opposed to the con­
+clusion of the original defea'>ible argument. Or, as in the cases of the
+other three dialogues, it can proceed by the asking of critical questions
+that attack and weaken the inferential linkage between the premises and
+the conclusion , or by attacking one of the premises by expressing doubts
+about it.
+   To consider the argumentation displayed in all four Dr. Phil dialogues
+as refutations, or at lea'>t as attempted refutations, we have to move to
+a broader, more pragmatic approach . In such a pragmatic approach, a
+refutation is defined as something that has th ree parlo;. First, it is generally
+an argument, although i t can also be appropriate in some instances to
+speak of the refutation of a proposition. Second, it is an argument that
+is opposed to a prior argument. Third, it is a successful refutation if
+the opposed argument is stronger than the original one. What does this
+mean? To examine this condition , we have to turn to the case of Dia­
+logue #4 . I n this case, the Dr. Wendy argument turned out to be stronger
+than the Dr. Phil argument to which it was opposed. In pragmatic terms,
+this third condition means that a refutation is an argument that has a
+certain purpose or function a'> a speech act. A refutation is meant to fulfil
+a certain kind of function called the probative function, mean ing that it
+is being used to prove or disprove something. I n the case of a refutation,
+it is used to disprove a prior argument. Such a three-part definition of
+the notion of refutation is inheren tly pragmatic, meaning that it is based
+on how an argument is being used for some conversational purpose.
+I n logic, we are used to semantic defin i tions of 'argument' , whereby an
+argument is defined as a set of statements (propositions) , one of which
+is designated as the conclusion and the rest as the premises. Con trasted
+with this semantic approach , there is a pragmatic approach in which an
+argument is seen as more than j ust a designated set of statements.
+   The pragmatic approach follows the defi n i tion of Walton ( 1 996, p. 1 8 ) :
+an argument is a sequence of reasoning made up of a chaining together of
+inferences that is used to contribme to the settling of an unsettled issue
+in a dialogue. Some arguments arc merely hypothetical , meaning that
+the premises are merely assumptions, and no attempt is made to prove
+the conclusion using them as evidence. Other arguments are meant to
+prove the conclusion by using the premises a., evidence. I n such a case, we
+say that the argument is used to fulfil a probative function. The proiJll tivf
+function of an argument is defined (Walton , t gg6, p. :w) as the use of an
+
+=== p. 269 ===
+
+                 Attack, Opposition, Rebuttal, and &futation
+
+argument to alter the respondent's commitments so that, although he did
+not accept the conclusion beforehand, he is now led to accept the conclu­
+sion on the basis of the support given to it by the premises, statements he
+was committed to before the argument was presen ted. An account of the
+probative function , something e\idently known and discussed in Greek
+philosophy, WdS given by Sextus Empiricus in his Outlines of Pyrrhonism
+( Book I I , 1 4o- 1 4 1 ) . According to this account, probative ( apodeiktikoz)
+arguments are ones Kwhich deduce something non-e\ident by means
+of pre-e\ident premises.� Sextus offered the following famous example:
+"If sweat pours through the surface, there are insensible pores; but in
+fact sweat does pour through the surface; therefore there are i nsensible
+pores." In such an argument, the conclusion was not evidem before the
+argument was used, but once the argument is presen ted, the conclusion
+is made e\ident by it. This example illustrates very well how the probative
+function works. You can express this idea by saying that not every argu­
+ment is meant to be a proof. An argument that is meant to be a proof is
+one that is put forward to fulfil a probative function in a dialogue setting.
+    The probative function of an argument refers to the use of an argument
+by one participant i n a dialogue to remove the doubt or disagreement of
+a respondent, by using premises the respondent is already committed to.
+Thus the probative function of an argument is a pragmatic characteristic.
+I t relates not just to the truth or falsity of the premises and conclusion ,
+or to the validity of the argument, but to how that argument was used
+for some purpose by its proponent in a dialogue. The term 'argumen ta­
+tion ' is often used, as opposed to 'argumen t ' , to indicate this pragmatic
+approach.
+    In such a pragmatic approach , argumentation is defined as a chai n i ng
+together of statements in a sequence of rea'loning used for some purpose
+in a context of dialogue. Reason i ng can be used in explanations a'l well
+as in arguments. An explanation is something used by one party in a
+dialogue to help the other come to understand some issue he did not
+understand before , as indicated by his question. An argument has a
+different purpose. An argument is the use of reasoning to fulfil a goal
+of a dialogue, a goal of settling some issue that has two sides. Thus the
+notion of burden of proof is important. An argument can be attacked on
+the grounds that it fails to fulfil a burden of proof set for it in a dialogue.
+This \lew of argumentation is pragmatic, because every argument is seen
+as a ca'le of two parties rea'ion i ng together for some purpose in order
+
+to settle an issue. Each party has a viewpoint, meaning he or she is in
+favor of o r doubt'! some thesis at issue, and each tries to prow his or her
+
+'
+
+=== p. 270 ===
+
+                            ,-\rgu mentation Srhi'Tlll'.�
+
+thesis to the other party using the other party's commitments as premises.
+Commitment refers to the acceptance of a proposition by a participan t
+in a dialogue. Each party has a commitment set, and statements are
+inserted into it or deleted from it as the dialogue proceeds ( Hamblin,
+1 9 70) . Commitments do not have to be logically consistent with each
+other. But if one party's commitments are apparen tly inconsistent, the
+other can , and in some instance should, challenge the inconsistency by
+attacking the argument.
+   This notion of argument is a dialectical one. An argumen t is not just
+a set of statements, but a set of statements of a special kind. One of the
+statements is a claim made by one party in a dialogue; the other party
+doubts that claim, or has made an opposed claim. On this pragmatic
+view, an argument is designed to fulfil what is called a probative func­
+tion. Thus one party, when using an argument, tries to prove something,
+some particular statement, to the other. The other has expressed doubt
+or opposition to that statement. You could say that this pragmatic way of
+viewing an argument sees an argument in a social way. There are always
+two parties involved, the pro and the contra, and the argument is some­
+thing used by one side to try to change the viewpoint or commitments of
+the other. An argument, so conceived, is a kind of speech act.
+    A refutation can now be defined as a special kind of argument, one
+addressed to a prior argument with the aim of opposing it and removing
+the probative function carried out by that prior argument. I n other words,
+a refutation always involves a pai r of arguments, one of which appears
+after another in a dialogue sequence. One argument is aimed at the other
+with the purpose of refuting it by showi ng that the probative function that
+it seemed to fulfil is not really fulfilled after all. The three-ways hypothesis
+sets out the three p rimary ways an argument can be attacked or refuted.
+However, as already noted , there are other ways that apply to special cases.
+An argument can be refuted by showing that it begs the question , or even
+more simply by showing that it fails to meet the burden of proof that is
+appropriate for it. I t was Aristotle's view that the notion of refutation is
+fundamental to the notion of fallacy. Indeed, on his theory fallacies are
+defined as different forms of sophistical refutations. On Aristotle's view,
+as shown earl ier, the notion of a refutation is quite a broad and pragmatic
+one that depends on an underlying notion of opposition. Moreover, this
+notion of opposition cannot be defi ned exclusively in terms of classical
+negation of the kind used in modern propositional logic. It depends on
+semantic categories.
+
+=== p. 271 ===
+
+                    A tlark, Opposition, /Ubutlal, and /Ufutation
+
+   A refutation, i n the pragmatic sense outlined here, is an argument
+that attacks and rebuts an opposed argument, hut in a strong or deci­
+sive way that knocks the opposed argument down . There is also another
+commonly accepted meaning of ' refutation ' in which a statement, as
+opposed to a whole argument, is attacked. This is also called a refutation
+in ordinary usage, and it can represen t a kind of refuta tion. The usage
+here is comparable to that of the term ' fallacy'. In everyday usage, it
+refers to commonly accepted false beliefs, while in logic it refers to fal­
+lacious arguments or techniques of argument. Despite common usage.
+however, the paradigm kind of refu tation we are centrally concerned
+with in argumen tation theory is refutation of an argument by another
+argument. Thus we often take for gran ted that this sense of ' refutation '
+is what is meant, even though the other sense can be meant as well, and
+is sometimes important. There is also a third sense of ' refutation ' that
+involves the asking of cri tical questions. In many instances, asking a cri ti­
+cal question does not refute an argument, but merely casts doubt on it, or
+suspends it temporarily. However, if the critical question is not answered
+by the proponent of the argument, the effect is to suspend or bracket the
+argument temporarily. And this suspension can be a kind of refutation in
+some instances, as we have seen. Here too it may be appropriate to speak
+of refutation , even though the refutation is not a case of one argument
+against another.
+
+             1 0.    U N SOLVED PRO B LE M S OF REJo"UTA T I O N
+
+A refu tation is more than j ust an attack on or rebuttal of another argu­
+ment. It is a successful attack by an opposed argument thar is stronger
+than the origi nal one. A refutation is more than just an attempt at rebut­
+tal . I t is a rebuttal that has some effect in knocking down . or at least
+temporarily cancelling out, the argument it is aimed at. This is our hao;ic
+accoun t of what a refutation is, for purposes of argumen tation theory. But
+many problems have been raised by our attempt to defend this defi n i tion.
+One is the problem of what is meant by 'opposed ' . Is simple classical nega­
+tion, of the kind we are familiar with, enough? Or should some deeper
+kind of negation (like complement) that applies to predicates be uti­
+lized? Or should the distinction between contraries and contradictories
+be appealed to? We have not been able to provide definitive answers to
+these questions. They scarcely seem to have been asked in recent times.
+Still, we have made some progress toward analyzing refutation , and have
+
+'
+
+=== p. 272 ===
+
+                           Argummtation Srhnnt's
+
+shown that studies of rational argumenta tion in classical and medieval
+times have seen these questions as cen tral.
+   A refutation offers another argument, with premises and a conclusion,
+set up in opposition to the one that is the target of the refutation . As
+shown , this can be done in the following main ways. One way is to attack
+a premise of the original argument. This in turn can be done in two ways.
+First, it can be argued that the premise is false. St'cond, doubt can be cast
+on whether the premise has been proved by questioning it. Another way
+is to cast doubt on whether the inferen tial link between the premises and
+conclusion of the miginal argument holds, by arguing that the argument
+in question does not fit the scheme it was alleged to. Another way is
+to attack the conclusion , casting doubt on it by questioning it, or by
+posing a counterargument designed to prove the opposite conclusion.
+Still another way is to argue that the burden of proof is not fulfilled by
+examining the probative function. Still another way is to ask a critical
+question that shifts the burden of proof to the proponent by making
+the argumen t default temporarily unless an appropriate answer to the
+question is offered.
+   One problem concerns the difference betwet'n two kinds of critical
+questions. Some attacks posed by critical questions, as seen in the dia­
+logues already presen ted, can reverse the burden of proof. Whether
+such a reversal occurs depends, however, on the strength of the refuta­
+tion it�elf. For example, consider the accusation of expert bias. I n this
+kind of case, the opponent may question the expert's ol�jectivity, but an
+allegation of bias normally has to be backed by sufficient proof if it is to be
+effective in raising doubt about the worth of the argument from expert
+opinion. It must satisfy, in other words, the burden of proof itself, to
+be considered a coun termove that successfully shift� the initiative to the
+other side. U nless it docs so, the burden of proof remains on the critic.
+On the other hand, the field and expertise questions usually shift the
+burden of proof back to the proponent, once asked, even if not backed
+u p by additional e\idence right away. The difference between these two
+dialectical phenomena may be explained by connecting critical questions
+with premise refutation . The attack may be direct or indirect. That is, the
+truth of the premise may be directly questioned, or critical questions may
+be asked that cast doubt on the argument only indirectly. The expert's
+trustworthiness does not directly depend on lack of bias. An expert may
+be biased, but her opinion might still be true, or at any rate, well worth
+taking i nt o account. Thus in order to refute an argument based on
+her expert opinion , the cri tical question needs to be backed up wi th
+
+=== p. 273 ===
+
+                 Attack, OJlpo.s ition, &buttal, and RPjutation
+
+e\idence. By con trast, when the mere statemt•nt that the experl is not a
+real expert or is not a specialist in the fidd in question is made , refutation
+occurs, because the argument is held in abeyance until the proponent
+can offer some evidence to back up these claims.
+    The same kind of problem applies to inductive arguments of the kind
+commonly used in science. Suppose you do a statistical study, and a critic
+argut�s that your database was too small, or that you picked a biased sam­
+ple. At one time, befc1re statistical methods of data n1llection bt·camc
+standardized in their presen t form , it might have been up to the critk
+to prove the sample size wa-. too small , or that it wao; biased . Now it is
+up to the proponent to prove these things, or at least to pro\'e, if chal­
+lenged, that the sample size is adequate and free of bias - fo r t•xamplt� .
+by using a double-bl ind method o f testi ng, or whatevt·r method migh t be
+appropriate to the investigation.
+    Another problem concerns rebuttals of endoxic premises. Aristotle,
+in his accoun t of different strategies of refutation, described a type of
+rebuttal directed against endoxic premises. In order to understand the
+mechan ism of such an objection , it is necessary to distinguish between
+ two different kinds of mdoxa. Emloxa are propositions considered true by
+everybody, or by the m�jority, or by the wise. U nder this label, however,
+are groupt•d both "universal truths," like "The earth is round" and "Birds
+ fly," and proverbial expressions or social values and moral judgements
+considered truths, like "One can lt·arn from mistakes," "Richness is one
+of the most important targeL'i of life," and " Love is a good feeling."
+The first class of mrloxa has a nature different from that of the second.
+ Generalizations groupt•d under the former category represent situations
+we take to be standard or nonnal, and they default in special cases. They
+ organize objective reality based on the way we use words in everyday
+ discourse and as applied to kinds of situations we routinely deal with in
+ everyday life. On the other hand, proverbial and social mcloxa are forms of
+ organization that tie agenL'i to a given set of facL'i of the kind encoun tered
+ in deliberation. Proverbs are illuminative general rules of conduct and
+j udgmen t, considered to hold in standard circumstances, while social
+ mdoxa are focused on practical conduct in special circumstances. Both
+ types of endoxic premises can be classified as defeasible generalizations,
+ but not ao; those associated with any particular argumentation scheme.
+ Anderson and Twining have recognized the importance of these kinds
+ of generalizations in legal argumentation .
+     In many cases, refutations proceed by attacking an endoxic premise
+ of this sort that is either an explicit or an implicit premise in an
+
+'
+
+=== p. 274 ===
+
+argument. Much the same remarks as those al ready made about condi­
+tional warran ts and cri tical questions can be applied to these refutations.
+The generalization is typically attacked, and possibly defeated, by argu­
+ing that it does not fit the particulars of the given case. The language of
+undercutters could be used to apply to the argumentation in such ca'>es.
+But according to our approach , the rebuttal can simply be seen as a kind
+of attack on a premise.
+

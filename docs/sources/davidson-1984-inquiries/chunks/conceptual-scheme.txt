@@ -1,0 +1,669 @@
+=== chunk: davidson-1984-inquiries/conceptual-scheme ===
+title: On the Very Idea of a Conceptual Scheme (Essay 13)
+source_pdf: docs/sources/davidson-1984-inquiries/full.ocr.pdf
+pdf_pages: 206-221
+page_scheme: book
+plan_page_start: 183
+plan_page_end: 198
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 183 ===
+
+1 3 On the Very ldea of a
+           Conceptual Scheme
+
+Philosophers of many persuasions are prone to talk of conceptual
+schemes. Conceptual schemes, we are told, are ways of organizing
+experience; they are systems of categories that give form to the data
+of sensation; they are points of view from which individuals,
+cultures, or periods survey the passing scene. There may be no
+translating from one scheme to another, in which case the beliefs,
+desires, hopes, and bits of knowledge that characterize one person
+have no true counterparts for the subscriber to another scheme.
+Reality itself 1s relative to a scheme: what counts as real in one
+system may not in another.
+  Even those thinkers who are certain there is only one conceptual
+scheme are in the sway of the scheme concept; even monotheists
+have   religion.   And   when   someone   sets   out   to   describe   ‘our
+conceptual scheme’, his homey task assumes, if we take him literally,
+that there might be rival systems.
+  Conceptual relativism is a heady and exotic doctrine, or would be
+if we could make good sense of it. The trouble is, as so often in
+philosophy, it is hard to improve intelligibility while retaining the
+excitement. At any rate that is what I shall argue.
+  We are encouraged to imagine we understand massive conceptual
+change or profound contrasts by legitimate examples of a familiar
+sort. Sometimes an idea, like that of simultaneity as defined in
+relativity theory, is so important that with its addition a whole
+department of science takes on a new look. Sometimes revisions in
+the list of sentences held true in a discipline are so central that we
+may feel that the terms involved have changed their meanings.
+Languages that have evolved in distant times or places may differ
+extensively in their resources for dealing with one or another range
+
+=== p. 184 ===
+
+of phenomena. What comes easily in one language may come hard
+in another, and this difference may echo significant dissimilarities in
+style and value.
+  But examples like these, impressive as they occasionally are, are not
+so extreme but that the changes and the contrasts can be explained
+and described using the equipment of a single language. Whorf,
+wanting to demonstrate that Hopi incorporates a metaphysics so
+alien to ours that Hopi and English cannot, as he puts it, ‘be
+calibrated’, uses English to convey the contents of sample Hopi
+sentences.’ Kuhn is brilliant at saying what things were like before
+the revolution using—what else?—our post-revolutionary idiom.?
+Quine gives us a feel for the ‘pre-individuative phase in the evolution
+of our conceptual scheme’,® while Bergson tells us where we can go
+to get a view of a mountain undistorted by one or another provincial
+perspective,
+  The dominant metaphor of conceptual relativism, that of differing
+points of view, seems to betray an underlying paradox. Different
+points of view make sense, but only      if there 1s a common co-ordinate
+system on which to plot them; yet the existence of a common system
+belies the claim of dramatic incomparability. What we need, it seems
+to me, is some idea of the considerations that set the limits to
+conceptual contrast. There are extreme suppositions that founder on
+paradox or contradiction; there are modest examples we have no
+trouble understanding. What determines where we cross from the
+merely strange or novel to the absurd?
+  We may accept the doctrine that associates having a language
+with having a conceptual scheme. The relation may be supposed to
+be this: where conceptual schemes differ, so do languages. But
+speakers of different languages may share a conceptual scheme
+provided there is a way of translating one language into the other.
+Studying the criteria of translation is therefore a way of focusing on
+criteria of identity for conceptual schemes. If conceptual schemes
+aren’t associated with languages in this way, the original problem is
+needlessly doubled, for then we would have to imagine the mind,
+with its ordinary categories, operating with a language with its
+organizing structure. Under the circumstances we would certainly
+want to ask who is to be master.
+
+  ! B. L. Whorf, ‘The Punctual and Segmentative Aspects of Verbs in Hopi’.
+  2T. S. Kuhn, The Structure of Scientific Revolutions.
+  3 W. V. Quine, ‘Speaking of Objects’, 24.
+
+=== p. 185 ===
+
+  Alternatively, there is the idea that any language distorts reality,
+which implies that it is only wordlessly if at all that the mind comes
+to grips with things as they really are. This 1s to conceive language as
+an inert (though necessarily distorting) medium independent of the
+human agencies that employ it; a view of language that surely
+cannot   be   maintained.   Yet if the   mind    can   grapple   without
+distortion with the real, the mind itself must be without categories
+and concepts. This featureless self is familiar from theories in quite
+different parts of the philosophical landscape. There are, for
+example, theories that make freedom consist in decisions taken
+apart from all destres, habits, and dispositions of the agent; and
+theories of knowledge that suggest that the mind can observe the
+totality of its own perceptions and ideas. In each case, the mind is
+divorced from the traits that constitute it; an inescapable conclusion
+from certain lines of reasoning, as I said, but one that should always
+persuade us to reject the premisses.
+  We may identify conceptual schemes with languages, then, or
+better, allowing for the possibility that more than one language may
+express the same scheme, sets of intertranslatable languages.
+Languages we will not think of as separable from souls; speaking a
+language is not a trait a man can lose while retaining the power
+of thought. So there is no chance that someone can take up a
+vantage point for comparing conceptual schemes by temporarily
+shedding his own. Can we then say that two people have different
+conceptual schemes if they speak languages that fail of intertrans-latability?
+  In what follows I consider two kinds of case that might be
+expected to arise: complete, and partial, failures of translatability.
+There would be complete failure if no significant range of sentences
+in one language could be translated into the other; there would be
+partial failure if some range could be translated and some range
+could not (I shall neglect possible asymmetries.) My strategy will be
+to argue that we cannot make sense of total failure, and then to
+examine more briefly cases of partial failure.
+  First, then, the purported cases of complete failure. It is tempting
+to take a very short line indeed: nothing, it may be said, could count
+as evidence that some form of activity could not be interpreted in
+our language that was not at the same time evidence that that form
+of activity was not speech behaviour. If this were right, we probably
+ought to hold that a form of activity that cannot be interpreted as
+
+=== p. 186 ===
+
+language in our language is not speech behaviour. Putting matters
+this way is unsatisfactory, however, for it comes to little more than
+making translatability into a familiar tongue a criterion of language-hood. As fiat, the thesis lacks the appeal of self-evidence; if it is a
+truth, as I think it is, it should emerge as the conclusion of an
+argument.
+  The credibility of the position is improved by reflection on the
+close relations between language and the attribution of attitudes
+such as belief, desire, and intention. On the one hand, it is clear that
+speech requires a multitude of finely discriminated intentions and
+beliefs. A person who asserts that perseverance keeps honour bright
+must, for example, represent himself as believing that perseverance
+keeps honour bright, and he must intend to represent himself as
+believing it. On the other hand, it seems unlikely that we can
+intelligibly attribute attitudes as complex as these to a speaker unless
+we can translate his words into ours. There can be no doubt that the
+relation between being able to translate someone’s language and
+being able to describe his attitudes is very close. Still, until we can
+say more about what this relation is, the case against untranslatable
+languages remains obscure.
+     It is sometimes thought that translatability into a familiar
+language, say English, cannot be a criterion of languagehood on the
+grounds that the relation of translatability is not transitive. The idea
+is that some language, say Saturnian, may be translatable into
+English,   and   some further language,     like   Plutonian,   may   be
+translatable into Saturnian, while Plutonian is not translatable into
+English. Enough translatable differences may add up to an untranslatable one. By imagining a sequence of [anguages, each close
+enough to the one before to be acceptably translated into it, we can
+imagine a language so different from English as to resist totally
+translation into it. Corresponding to this distant language would be
+a system of concepts altogether alien to us.
+  This exercise does not, I think, introduce any new element into the
+discussion. For we should have to ask how we recognized that what
+the Saturnian was doing was franslating Plutonian (or anything
+else). The Saturnian speaker might tell us that that was what he was
+doing or rather we might for a moment assume that that was what
+he was telling us. But then it would occur to us to wonder whether
+our translations of Saturnian were correct.
+  According to Kuhn, scientists operating in different scientific
+
+=== p. 187 ===
+
+traditions (within different ‘paradigms’) ‘work in different worlds’.*
+Strawson’s The Bounds of Sense begins with the remark that ‘It is
+possible to imagine kinds of worlds very different from the world as
+we know it’.> Since there is at most one world, these pluralities are
+metaphorical or merely imagined. The metaphors are, however, not
+at all the same. Strawson 1nvites us to imagine possible non-actual
+worlds, worlds that might be described, using our present language,
+by redistributing truth values over sentences in various systematic
+ways. The clarity of the contrasts between worlds in this case
+depends on supposing our scheme of concepts, our descriptive
+resources, to remain fixed. Kuhn, on the other hand, wants us to
+think of different observers of the same world who come to it with
+incommensurable systems of concepts. Strawson’s many 1magined
+worlds are seen or heard or described from the same point of view,
+Kuhn’s one world is seen from different points of view. It is the
+second metaphor we want to work on.
+  The first metaphor requires a distinction within language of
+concept and content: using a fixed system of concepts (words with
+fixed meanings) we describe alternative universes. Some sentences
+will be true simply because of the concepts or meanings involved,
+others because of the way of the world. In describing possible
+worlds, we play with sentences of the second kind only.
+  The second metaphor suggests instead a dualism of quite a
+different sort,    a   dualism    of total    scheme      (or   language)   and
+uninterpreted content. Adherence to the second dualism, while not
+inconsistent with adherence to the first, may be encouraged by
+attacks on the first. Here is how it may work.
+  To give up the analytic-synthetic distinction as basic to the
+understanding of language 1s to give up the idea that we can clearly
+distinguish between theory and language. Meaning, as we might
+loosely use the word, is contaminated by theory, by what is held to
+be true. Feyerabend puts it this way:
+
+Our argument against meaning invariance is simple and clear. It proceeds
+from the fact that usually some of the principles involved in the determinations of the meanings of older theories or points of views are inconsistent
+with the new ... theories. It points out that it is natural to resolve this
+contradiction by eliminating the troublesome ... older principles, and to
+replace them by principles, or theorems, of a new ... theory. And it
+
+            *T. S. Kuhn, The Structure of Scientific Revolutions, 134.
+            * P. Strawson. The Bounds of Sense, 15.
+
+=== p. 188 ===
+
+concludes by showing that such a procedure will also lead to the elimination
+of the old meanings.®
+
+  We may now seem to have a formula for generating distinct
+conceptual schemes. We get a new out of an old scheme when the
+speakers of a language come to accept as true an important range of
+sentences they previously took to be false (and, of course, vice
+versa). We must not describe this change simply as a matter of their
+coming to view old falsehoods as truths, for a truth is a proposition,
+and what they come to accept, in accepting a sentence as true, is not
+the same thing that they rejected when formerly they held the
+sentence to be false. A change has come over the meaning of the
+sentence because it now belongs to a new language.
+  This picture of how new (perhaps better) schemes result from new
+and better science is very much the picture philosophers of science,
+like Putnam and Feyerabend, and historians of science, like Kuhn,
+have painted for us. A related idea emerges in the suggestion of some
+other philosophers, that we could improve our conceptual lot if we
+were to tune our language to an improved science. Thus both Quine
+and Smart, in somewhat different ways, regretfully admit that our
+present ways of talking make a serious science of behaviour
+impossible. (Wittgenstein and Ryle have said similar things without
+regret.) The cure, Quine and Smart think, is to change how we talk.
+Smart advocates (and predicts) the change in order to put us on the
+scientifically straight path of materialism: Quine is more concerned
+to clear the way for a purely extensional language. (Perhaps I should
+add that I think our actual scheme and language are best understood
+as extensional and materialist.)
+  If we were to follow this advice, I do not myself think science or
+understanding would be advanced, though possibly morals would.
+But the present question is only whether, if such changes were to
+take place, we should be justified in calling them alterations in the
+basic conceptual apparatus. The difficulty 1n so calling them is easy
+to appreciate. Suppose that in my office of Minister of Scientific
+Language I want the new man to stop using words that refer, say, to
+emotions, feelings, thoughts, and intentions, and to talk instead of
+the physiological states and happenings that are assumed to be more
+or less identical with the mental riff and raff. How do I tell whether
+my advice has been heeded if the new man speaks a new language?
+
+        ® P. Feyerabend, ‘Explanation, Reduction, and Empiricism’, 82.
+
+=== p. 189 ===
+
+For all I know, the shiny new phrases, though stolen from the old
+language in which they refer to physiological stirrings, may in his
+mouth play the role of the messy old mental concepts.
+  The key phrase is: for all | know. What is clear is that retention of
+some or all of the old vocabulary in itself provides no basis for
+judging the new scheme to be the same as, or different from, the old.
+So what sounded at first like a thrilling discovery—that truth is
+relative to a conceptual scheme—has not so far been shown to be
+anything more than the pedestrian and familiar fact that the truth of
+a sentence is relative to (among other things) the language to which
+it belongs. Instead of living in different worlds, Kuhn’s scientists
+may, like those who need Webster’s dictionary, be only words apart.
+  Giving up the analytic-synthetic distinction has not proven a help
+in making sense of conceptual relativism. The analytic-synthetic
+distinction is however explained in terms of something that may
+serve to buttress conceptual relativism, namely the idea of empirical
+content. The dualism of the synthetic and the analytic is a dualism of
+sentences some of which are true (or false) both because of what they
+mean and because of their empirical content, while others are true
+(or false) by virtue of meaning alone, having no empirical content. If
+we give up the dualism, we abandon the conception of meaning that
+goes with it, but we do not have to abandon the idea of empirical
+content: we can hold, if we want, that a// sentences have empirical
+content. Empirical content is in turn explained by reference to the
+facts, the world, experience, sensation, the totality of sensory
+stimuli, or something similar. Meanings gave us a way to talk about
+categories, the organizing structure of language, and so on; but 1t is
+possible, as we have seen, to give up meanings and analyticity while
+retaining the idea of language as embodying a conceptual scheme.
+Thus in place of the dualism of the analytic-synthetic we get the
+dualism of conceptual scheme and empirical content. The new
+dualism is the foundation of an empiricism shorn of the untenable
+dogmas of the analytic-synthetic distinction and reductionism—
+shorn, that is, of the unworkable idea thgt we can uniquely allocate
+empirical content sentence by sentence.
+  I want to urge that this second dualism of scheme and content, of
+organizing system and something waiting to be organized, cannot be
+made intelligible and defensible. It is itself a dogma of empiricism,
+the third dogma. The third, and perhaps the last, for if we give it up
+it is not clear that there is anything distinctive left to call empiricism.
+
+=== p. 190 ===
+
+  The scheme-content dualism has been formulated in many ways.
+Here are some examples. The first comes from Whorf, elaborating
+on a theme of Sapir’s. Whorf says that:
+... language produces an organization of experience. We are inclined to
+think of language simply as a technique of expression, and not to realize that
+language first of all is a classification and arrangement of the stream of
+sensory experience which results in a certain world-order . . . In other words,
+language does in a cruder but also in a broader and more versatile way the
+same thing that science does .. . We are thus introduced to a new principle
+of relativity, which holds that all observers are not led by the same physical
+evidence to the same picture of the universe, unless their linguistic
+backgrounds are similar, or can in some way be calibrated.’
+
+Here we have all the required elements: language as the organizing
+force,   not   to   be   distinguished clearly from       science;    what   is
+organized, referred to variously as ‘experience’, ‘the stream of
+sensory experience’, and ‘physical evidence’; and finally, the failure
+of intertranslatability (‘calibration’). The failure of intertranslat-ability is a necessary condition for difference of conceptual schemes;
+the common relation to experience or the evidence is what is
+supposed to help us make sense of the claim that it is languages or
+schemes that are under consideration when translation fails. It is
+essential to this idea that there be something neutral and common
+that lies outside all schemes. This common something cannot, of
+course, be the subject matter of contrasting languages, or translation would be possible. Thus Kuhn has recently written:
+
+Philosophers have now abandoned hope of finding a pure sense-datum
+language ... but many of them continue to assume that theories can be
+compared by recourse to a basic vocabulary consisting entirely of words
+which are attached to nature in ways that are unproblematic and, to the
+extent necessary, independent of theory . . . Feyerabend and I have argued
+at length that no such vocabulary is available. In the transition from one
+theory to the next words change their meanings or conditions of applicability in subtle ways. Though most of the same signs are used before and
+after a revolution—e.g. force, mass, element, compound, cell—the way in
+which some of them attach to nature has somehow changed. Successive
+theories are thus, we say, incommensurable.®
+
+‘Incommensurable’ is, of course, Kuhn and Feyerabend’s word for
+‘not intertranslatable’. The neutral content waiting to be organized
+is supplied by nature.
+
+  " B. L. Whorf, 'The Punctual and Segmentative Aspects of Verbs in Hopi', 55.
+  8 T. S. Kuhn, ‘Reflections on my Critics’, 266, 267.
+
+=== p. 191 ===
+
+  Feyerabend himself suggests that we may compare contrasting
+schemes by ‘choosing a point of view outside the system or the
+language’. He hopes we can do this because ‘there is still human
+experience as an actually existing process’® independent of all
+schemes.
+  The same, or similar, thoughts are expressed by Quine in many
+passages: “The totality of our so-called knowledge or beliefs . . . is
+a man-made fabric which impinges on experience only along the
+edges .. .’;'% .. total science is like a field of force whose boundary
+conditions are experience’;'! ‘As an empiricist I ... think of the
+conceptual scheme of science as a tool ... for predicting future
+experience in the light of past experience.”'? And again:
+
+We persist in breaking reality down somehow into a multiplicity of
+identifiable and discriminable objects . .. We talk so inveterately of objects
+that to say we do so seems almost to say nothing at all; for how else is there
+to talk? It is hard to say how else there is to talk, not because our
+objectifying pattern is an invariable trait of human nature, but because we
+are bound to adapt any alien pattern to our own in the very process of
+understanding or translating the alien sentences.'?
+
+The test of difference remains failure or difficulty of translation: *. . .
+to speak of that remote medium as radically different from ours is to
+say no more than that the translations do not come smoothly.’'* Yet
+the roughness may be so great that the alien has an ‘as yet
+unimagined pattern beyond individuation’.!?
+  The idea is then that something is a language, and associated with
+a conceptual scheme, whether we can translate it or not, if 1t stands
+in a certain relation (predicting, organizing, facing, or fitting)
+experience (nature, reality, sensory promptings). The problem is to
+say what the relation is, and to be clearer about the entities related.
+  The images and metaphors fall into two main groups: conceptual
+schemes (languages) either organize something, or they firit (asin ‘he
+warps his scientific heritage to fit his . . . sensory promptings’'!®). The
+first group contains also systematize, divide up (the stream of
+experience); further examples of the second group are predict,
+account for, face (the tribunal of experience). As for the entities that
+
+      ° P. Feyerabend, ‘Problems of Empiricism’, 214.
+      " W. V. Quine, ‘'Two Dogmas of Empiricism"’, 42.
+      LU Ibd.                                           12 1bid.. 44.
+      '* W._ V. Quine, ‘Speaking of Objects’, 1.        " 1bid., 25.
+      % Ibid., 24.        1 W V. Quine, ‘Two Dogmas of Empiricism’. 46.
+
+=== p. 192 ===
+
+get organized, or which the scheme must fit, I think again we may
+detect two main 1deas: either it 1s reality (the universe, the world,
+nature), or it is experience (the passing show, surface irritations,
+sensory promptings, sense-data, the given).
+  We cannot attach-a clear meaning to the notion of organizing a
+single object (the world, nature etc.) unless that object is understood
+to contain or consist in other objects. Someone who sets out to
+organize a closet arranges the things in it. If you are told not to
+organize the shoes and shirts, but the closet itself, you would be
+bewildered. How would you organize the Pacific Ocean? Straighten
+out its shores, perhaps, or relocate its islands, or destroy its fish.
+  A language may contain simple predicates whose extensions are
+matched by no simple predicates, or even by any predicates at all, in
+some other language. What enables us to make this point in
+particular cases is an ontology common to the two languages, with
+concepts that individuate the same objects. We can be clear about
+breakdowns in translation when they are local enough, for a
+background of generally successful translation provides what is
+needed to make the failures intelligible. But we were after larger
+game: we wanted to make sense of there being a language we could
+not translate at all. Or, to put the point differently, we were looking
+for a criterion of languagehood that did not depend on, or entall,
+translatability into a familiar idiom. I suggest that the image of
+organizing the closet of nature will not supply such a criterion.
+  How about the other kind of object, experience? Can we think of
+a language organizing it? Much the same difficulties recur. The
+notion of organization applies only to pluralities. But whatever
+plurality we take experience to consist in—events like losing a
+button or stubbing a toe, having a sensation of warmth or hearing
+an oboe—we will have to individuate according to familiar principles. A language that organizes such entities must be a language very
+like our own.
+  Experience (and its classmates like surface irritations, sensations,
+and sense-data) also makes another and more obvious trouble for
+the organizing idea. For how could something count as a language
+that organized only experiences, sensations, surface irritations, or
+sense-data? Surely knives and forks, railroads and mountains,
+cabbages and kingdoms also need organizing.
+  This last remark will no doubt sound inappropriate as a response
+to the claim that a conceptual scheme is a way of coping with
+
+=== p. 193 ===
+
+sensory experience; and I agree that it is. But what was under
+consideration was the idea of organizing experience, not the idea of
+coping with (or fitting or facing) experience. The reply was apropos
+of the former, not the latter, concept. So now let’s see whether we
+can do better with the second idea.
+  When we turn from talk of organization to talk of fitting we turn
+our   attention    from      the   referential   apparatus   of language—
+predicates, quantifiers, variables, and singular terms—to whole
+sentences. It is sentences that predict (or are used to predict),
+sentences that cope or deal with things, that fit our sensory
+promptings, that can be compared or confronted with the evidence.
+It is sentences also that face the tribunal of experience, though of
+course they must face it together.
+  The proposal is not that experiences, sense-data, surface irritations, or sensory promptings are the sole subject matter of
+language. There is, it is true, the theory that talk about brick houses
+on Elm Street 1s ultimately to be construed as being about sense data
+or perceptions, but such reductionistic views are only extreme, and
+implausible, versions of the general position we are considering. The
+general position is that sensory experience provides all the evidence
+for the acceptance of sentences (where sentences may include whole
+theories).   A    sentence    or theory fits     our sensory promptings,
+successfully faces the tribunal of experience, predicts future experience, or copes with the pattern of our surface irritations,
+provided it is borne out by the evidence.
+  In the common course of affairs, a theory may be borne out by the
+available evidence and yet be false. But what is in view here is not
+Just actually available evidence; it is the totality of possible sensory
+evidence past, present, and future. We do not need to pause to
+contemplate what this might mean. The point is that for a theory to
+fit or face up to the totality of possible sensory evidence 1s for that
+theory to be true. If a theory quantifies over physical objects,
+numbers, or sets, what it says about these entities is true provided
+the theory as a whole fits the sensory evidence. One can see how,
+from this point of view, such entities might be called posits. It is
+reasonable to call something a posit if it can be contrasted with
+something that is not. Here the something that i1s not is sensory
+experience—at least that is the idea.
+  The trouble is that the notion of fitting the totality of experience,
+like the notion of fitting the facts, or of being true to the facts, adds
+
+=== p. 194 ===
+
+nothing intelligible to the simple concept of being true. To speak of
+sensory experience rather than the evidence, or just the facts,
+expresses a view about the source or nature of evidence, but it does
+not add a new entity to the universe against which to test conceptual
+schemes. The totality of sensory evidence is what we want provided
+it is all the evidence there is; and all the evidence there is is just what
+it takes to make our sentences or theories true. Nothing, however,
+no thing, makes sentences and theories true: not experience, not
+surface irritations, not the world, can make a sentence true. That
+experience takes a certain course, that our skin is warmed or
+punctured, that the universe is finite, these facts, if we like to talk
+that way, make sentences and theories true. But this point is put
+better without mention of facts. The sentence ‘My           skin is warm’ is
+true if and only if my skin is warm. Here there is no reference to a
+fact, a world, an experience, or a piece of evidence.!’
+  Our attempt to characterize languages or conceptual schemes in
+terms of the notion of fitting some entity has come down, then, to
+the simple thought that something is an acceptable conceptual
+scheme or theory if it is true. Perhaps we better say largely true in
+order to allow sharers of a scheme to differ on details. And the
+criterion of a conceptual scheme different from our own now
+becomes: largely true but not translatable. The question whether
+this is a useful criterion is just the question how well we understand
+the notion of truth, as applied to language, independent of the
+notion of translation. The answer is, 1 think, that we do not
+understand it independently at all.
+  We recognize sentences like * “Snow is white’ is true if and only if
+snow is white’ to be trivially true. Yet the totality of such English
+sentences uniquely determines the extension of the concept of truth
+for English. Tarski generalized this observation and made it a test of
+theories of truth: according to Tarski’s Convention T, a satisfactory
+theory of truth for a language L must entail, for every sentence s of
+L, a theorem of the form ‘s is true if and only if p° where ‘s’ 1s
+replaced by a description ofs and "p’ by s itself
+                                               if L is English, and by
+a translation of s into English if L is not English.'® This isn’t, of
+course, a definition of truth, and it doesn’t hint that there is a single
+definition or theory that applies to languages generally. Nevertheless,
+Convention T suggests, though it cannot state, an important feature
+         17 See Essay 3.
+         '® A. Tarski, ‘The Concept of Truth in Formalized Languages'.
+
+=== p. 195 ===
+
+common to all the specialized concepts of truth. It succeeds in doing
+this by making essential use of the notion of translation into a
+language we know. Since Convention T embodies our best intuition
+as to how the concept of truth is used, there does not seem to be
+much hope for a test that a conceptual scheme is radically different
+from ours if that test depends on the assumption that we can dxvorce
+the notion of truth from that of translation.
+  Neither a fixed stock of meanings, nor a theory-neutral reality,
+can provide, then, a ground for comparison of conceptual schemes.
+It would be a mistake to look further for such a ground if by that we
+mean   something    conceived   as    common       to   incommensurable
+schemes. In abandoning this search, we abandon the attempt to
+make sense of the metaphor of a single space within which each
+scheme has a position and provides a point of view.
+  I turn now to the more modest approach: the idea of partial
+rather than total failure of translation. This introduces the possibility of making changes and contrasts in conceptual schemes
+intelligible by reference to the common part. What we need 1s a
+theory of translation or interpretation that makes no assumptions
+about shared meanings, concepts, or beliefs.
+  The interdependence of belief and meaning springs from the
+interdependence of two aspects of the interpretation of speech
+behaviour: the attribution of beliefs and the interpretation of
+sentences. We remarked before that we can afford to associate
+conceptual schemes with languages because of these dependencies.
+Now we can put the point in a somewhat sharper way. Allow that a
+man’s speech cannot be interpreted except by someone who knows a
+good deal about what the speaker believes (and intends and wants),
+and that fine distinctions between beliefs are impossible without
+understood   speech;   how   then    are we   to   interpret   speech    or
+intelligibly to attribute beliefs and other attitudes? Clearly we must
+have a theory that simultaneously accounts for attitudes and
+interprets speech, and which assumes neither.
+  I suggest, following Quine, that we may without circularity or
+unwarranted assumptions accept certain very general attitudes
+towards sentences as the basic evidence for a theory of radical
+interpretation. For the sake of the present discussion at least we may
+depend on the attitude of accepting as true, directed to sentences, as
+the crucial notion. (A more full-blooded theory would look to other
+attitudes towards sentences as well, such as wishing true, wondering
+
+=== p. 196 ===
+
+whether true, intending to make true, and so on.) Attitudes are
+indeed involved here, but the fact that the main issue is not begged
+can be seen from this: if we merely know that someone holds a
+certain sentence to be true, we know neither what he means by the
+sentence nor what belief his holding it true represents. His holding
+the sentence true is thus the vector of two forces: the problem of
+interpretation is to abstract from the evidence a workable theory of
+meaning and an acceptable theory of belief.
+  The way this problem is solved is best appreciated from undramatic examples.     If you   see a ketch sailing     by and    your
+companion says, ‘Look at that handsome yawl’, you may be faced
+with a problem of interpretation. One natural possibility is that your
+friend has mistaken a ketch for a yawl, and has formed a false belief.
+But if his vision is good and his line of sight favourable it is even
+more plausible that he does not use the word ‘yawl’ quite as you do,
+and has made no mistake at all about the position of the jigger on
+the passing yacht. We do this sort of off the cuff interpretation all
+the time, deciding in favour of reinterpretation of words in order to
+preserve a reasonable theory of belief. As philosophers we are
+peculiarly tolerant of systematic malapropism, and practised at
+interpreting the result. The process is that of constructing a viable
+theory of belief and meaning from sentences held true.
+  Such examples emphasize the interpretation of anomalous details
+against a background of common beliefs and a going method of
+translation. But the principles involved must be the same in less
+trivial cases. What matters is this: if all we know is what sentences a
+speaker holds true, and we cannot assume that his language is our
+own, then we cannot take even a first step towards interpretation
+without knowing or assuming a great deal about the speaker’s
+beliefs. Since knowledge of beliefs comes only with the ability to
+interpret words, the only possibility at the start is to assume general
+agreement on beliefs. We get a first approximation to a finished
+theory by assigning to sentences of a speaker conditions of truth that
+actually obtain (in our own opinion) just when the speaker holds
+those sentences true. The guiding policy is to do this as far as
+possible, subject to considerations of simplicity, hunches about the
+effects of social conditioning, and of course our common-sense, or
+scientific, knowledge of explicable error.
+  The method is not designed to eliminate disagreement, nor can it;
+its purpose is to make meaningful disagreement possible, and this
+
+=== p. 197 ===
+
+depends entirely on a foundation—some foundation—in agreement.
+The agreement may take the form of widespread sharing of
+sentences held true by speakers of ‘the same language’, or agreement
+in the large mediated by a theory of truth contrived by an interpreter
+for speakers of another language.
+  Since charity is not an option, but a condition of having a
+workable theory, it is meaningless to suggest that we might fall into
+massive error by endorsing it. Until we have successfully established
+a systematic correlation of sentences held true with sentences held
+true, there are no mistakes to make. Charity 1s forced on us; whether
+we like it or not, if we want to understand others, we must count
+them right in most matters. If we can produce a theory that reconciles
+charity and the formal conditions for a theory, we have done all that
+could be done to ensure communication. Nothing more is possible,
+and nothing more is needed.
+  We make maximum sense of the words and thoughts of others
+when we interpret in a way that optimizes agreement (this includes
+room, as we said, for explicable error, i.e. differences of opinion).
+Where does this leave the case for conceptual relativism? The answer
+is, I think, that we must say much the same thing about differences in
+conceptual scheme as we say about differences in belief: we improve
+the clarity and bite of declarations of difference, whether of scheme
+or opinion, by enlarging the basis of shared (translatable) language
+or of shared opinion. Indeed, no clear line between the cases can be
+made out. If we choose to translate some alien sentence rejected by
+its speakers by a sentence to which we are strongly attached on a
+community basis, we may be tempted to call this a difference in
+schemes; if we decide to accommodate the evidence in other ways, it
+may be more natural to speak of a difference of opinion. But when
+others think differently from us, no general principle, or appeal to
+evidence, can force us to decide that the difference lies in our beliefs
+rather than in our concepts.
+  We must conclude, I think, that the attempt to give a solid
+meaning to the idea of conceptual relativism, and hence to the idea
+of a conceptual scheme, fares no better when based on partial failure
+of translation than when based on total failure. Given the underlying methodology of interpretation, we could not be in a position to
+judge that others had concepts or beliefs radically different from our
+own,
+
+  It would be wrong to summarize by saying we have shown how
+
+=== p. 198 ===
+
+communication is possible between people who have different
+schemes, a way that works without need of what there cannot be,
+namely a neutral ground, or a common co-ordinate system. For we
+have found no intelligible basis on which it can be said that schemes
+are different. It would be equally wrong to announce the glorious
+news that all mankind—all speakers of language, at least—share a
+common scheme and ontology. For if we cannot intelligibly say that
+schemes are different, neither can we intelligibly say that they are
+one.
+
+  In giving up dependence on the concept of an uninterpreted
+reality, something outside all schemes and science, we do not
+relinquish the notion of objective truth—quite the contrary. Given
+the dogma of a dualism of scheme and reality, we get conceptual
+relativity, and truth relative to a scheme. Without the dogma, this
+kind of relativity goes by the board. Of course truth of sentences
+remains relative to language, but that is as objective as can be. In
+giving up the dualism of scheme and world, we do not give up the
+world, but re-establish unmediated touch with the familiar objects
+whose antics make our sentences and opinions true or false.
+

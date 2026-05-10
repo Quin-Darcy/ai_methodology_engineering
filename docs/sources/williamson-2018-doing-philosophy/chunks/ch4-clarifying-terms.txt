@@ -1,0 +1,431 @@
+=== chunk: williamson-2018-doing-philosophy/ch4-clarifying-terms ===
+title: Clarifying Terms
+source_pdf: docs/sources/williamson-2018-doing-philosophy/full.pdf
+pdf_pages: 46-60
+page_scheme: book
+plan_page_start: 35
+plan_page_end: 49
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 35 ===
+
+                                
+               Clarifying Terms
+
+              It Depends on What You Mean
+A mountain guide told me about a frustrating conversation
+he once had with a client who quoted a temperature in degrees.
+The guide asked, “Is that degrees Fahrenheit or degrees Celsius?” The
+man replied, “What do you mean? A degree is a degree”. However
+much the difference between the two scales was explained to him,
+the man always repeated, “A degree is a degree”. He felt on safe
+ground there. To him, any attempt to question that tautology
+sounded like a con trick. But sometimes, to make progress, we
+must clarify our terms.
+  If you ask a philosopher whether you have free will, you are
+unlikely to get a straight answer, “Yes” or “No”. Instead, you may
+be told: “It depends what you mean by ‘free will’. If you are asking
+whether your decisions cause your actions, surely they often do. If
+you are asking whether they are uncaused causes of your actions,
+surely not. Your decisions are caused by your beliefs and desires,
+and those beliefs and desires have causes of their own, and so on.”
+
+=== p. 36 ===
+
+ Clarifying Terms
+
+. C.E.M. Joad, philosopher as media celebrity, s style.
+
+If you feel you meant something else again by ‘free will’, the
+philosopher will discuss with you what that might be.
+   One of the best-known figures on British radio in the mid-twentieth century was a philosophy professor, C.E.M. Joad
+(–), a panellist on the popular programme The Brains
+
+=== p. 37 ===
+
+                                                 Clarifying Terms   
+
+Trust. He was famous for beginning his answers to listeners’ questions with the words, “It all depends on what you mean by . . . ”. The
+stereotype of the philosopher became someone who asks “What do
+you mean?”, instead of “How do you know?” That is the pop version
+of the trend in twentieth-century philosophy often called the
+linguistic turn (see p. ).
+   Many philosophers have hoped to make philosophy less disputatious by clarifying terms, and to escape from futile, deadlocked arguments. Perhaps the disputes are merely verbal. If one
+person says, “The temperature is  degrees” and another replies,
+“No, it’s  degrees”, they may think they are disagreeing, but if
+the first speaker means degrees Celsius and the second degrees
+Fahrenheit, there is underlying agreement about the temperature.
+Similarly, when philosopher A says, “We have free will” and
+philosopher B replies, “We have no free will”, the verbal appearance of a dispute may mask underlying agreement, if they mean
+different things by ‘free will’. If we notice an ambiguity, we can
+resolve it by introducing separate terms with the different meanings, perhaps ‘A-free’ for what A means and ‘B-free’ for what
+B means (if we can think of nothing better). Thus both A and
+B can happily say, “We have A-free will but no B-free will”, not
+even appearing to disagree. Each side gets what it wants.
+   If we have to decide what to mean by a word, one definition
+may be more useful than another, but not more true. For instance,
+in mathematics it is more convenient to define the word
+‘prime’ not to apply to the number , but making the opposite
+decision would not have led to false theorems, just to differently
+worded ones. According to Rudolf Carnap (–), when
+philosophers ask what sound like deep theoretical questions
+
+=== p. 38 ===
+
+ Clarifying Terms
+
+about the nature of reality, such as “Do numbers exist?”, what is
+really at stake is a practical question about which language
+it would be most fruitful to speak, for scientific purposes. If
+scientists use a theoretical language in which the word ‘number’
+is logically analogous to the word ‘planet’, will that help their
+work? Some languages can express more than others, but greater
+expressive power comes with costs as well as benefits: it may
+generate unmanageable complexity.
+   For Ludwig Wittgenstein (–), philosophical problems
+arise because our ordinary language exerts a deep pull on us
+towards confusions. For example, grammar suggests a misleading
+analogy between proper names—‘the River Danube’—and numerical terms—‘the number seven’—tempting us to think that
+numbers are just as much objects as rivers are, only more abstract.
+Then we wonder how we can think about things that are
+nowhere. But further investigation reveals ways in which the
+analogy between ‘seven’ and ‘Danube’ breaks down. “He interrupted seven times” makes sense; “He interrupted Danube times”
+does not.
+   Obviously, what interested Carnap and Wittgenstein was not
+the six-letter word ‘number’ itself. Most of the issues would
+survive translating it by another word in another language. That
+point is often put by saying that what matters is not the word
+‘number’ but the concept number. Different words can express the
+same concept, or have the same meaning. For them, philosophy
+asks conceptual questions, not merely verbal ones. It clarifies concepts, sorts out conceptual confusions. In the twentieth century,
+many philosophers held such views. Many still do. Naturally,
+those views influence how they do philosophy in practice.
+
+=== p. 39 ===
+
+                                               Clarifying Terms   
+
+   Clarifying concepts: if that is philosophy’s job description, it
+has something useful to do without attempting, hopelessly, to
+rival science. In that picture, philosophers put concepts into good
+working order, while others actually put them to work. The
+picture may also seem to legitimize the armchair way of doing
+philosophy, to explain why philosophers have no need to go out
+and look at the world or experiment on it. For they already
+possess the concepts under investigation, by their competence
+in a language that expresses them; either a natural language such
+as English or Mandarin, or an invented artificial notation defined
+by explicit rules. It’s not like studying a foreign language from
+the outside.
+   In practice, hopes that this linguistic or conceptual turn would
+make philosophy less disputatious have been dashed. Identifying
+the unspoken rules of one’s own language turns out to be very
+hard. If you have ever helped someone learn your native language,
+you have probably had the experience of knowing that something
+they said sounded wrong but without being able to explain to
+them why—what rule they had broken. First, second, and third
+guesses at the rules are typically wrong, even when made by
+trained linguists. Still, they can usually do better than people
+untrained in linguistics, sometimes by comparing your native
+language with other languages. Although significant progress in
+understanding the rules of one’s native language can be made
+from the armchair, it’s not a fully adequate method. If we switch
+from describing how words are currently used to saying how it
+might be helpful to use them in the future, things are just as
+controversial, because people disagree about what the effects
+would be, and whether they would be improvements.
+
+=== p. 40 ===
+
+ Clarifying Terms
+
+   An example is the recent bitter controversy about the word
+‘woman’. The standard definition was biological: a woman is an
+adult female human. But what about the social role of women—
+their moral and legal rights to get an education, to own property,
+or to vote, conventional expectations of their behaviour in sex,
+marriage, child-rearing, careers, and so on? Don’t those have
+something to do with the concept woman? Is what matters their
+actual social role, or the role they are stereotyped as playing? If the
+latter, what happens when people in one society, say Britain, speak
+about women in another society, say Pakistan—is what matters
+the British stereotype of women or the Pakistani stereotype of
+women? And what about the currently influential idea that to be a
+woman is just to be willing to apply the term ‘woman’ to oneself?
+There is no easy answer to the question what concept or concepts
+the word ‘woman’ now expresses. As for the future use of the
+word, any proposal is explosive. For consider a biological male
+who identifies as a woman: if the proposal implies that we should
+call that person a ‘woman’, it will enrage many people, and if it
+implies that we should not call that person a ‘woman’, it will enrage
+many other people. The very idea of someone in authority telling
+ordinary people how they ought to use ordinary words like
+‘woman’ is controversial too. Well-meaning professors tend to
+imagine linguistic reform being led by people like themselves,
+but in practice a trend towards redefining terms may favour
+more sinister causes—for instance, when ‘torture’ is redefined to
+exclude waterboarding. Politically, people habituated to going
+along with linguistic reforms are easier to manipulate.
+   Still, words sometimes need clarification. That applies to all
+forms of inquiry, not just to philosophy. For example, physicists
+
+=== p. 41 ===
+
+                                                  Clarifying Terms   
+
+distinguish two senses of the word ‘mass’: relativistic mass
+(defined in terms of total energy) and proper mass (defined in
+terms of non-kinetic energy). Confusing the two would lead to
+detectable errors. Similarly, historians who use the word ‘feudalism’ clarify how they understand it, because some societies in
+some periods count as ‘feudal’ by one definition but not by
+another. Neither physicists nor historians had to wait for philosophers to make the clarification for them. The need for it became
+plain to them as their subject developed. This raises the question:
+does conceptual clarification play a special role in philosophy, or
+does it just play more or less the same role there as it plays in all
+forms of serious inquiry?
+   Detecting ambiguity may play a larger and more systematic
+role in philosophy than in any other branch of inquiry, with the
+possible exception of literary criticism. Philosophers are trained to
+be alert to ambiguity. But so far that is a difference of degree, not
+kind. For physicists or historians, resolving unclarity in ‘mass’ or
+‘feudalism’ is a preliminary to their main investigation, like cleaning
+a surgical knife before using it on a patient. The surprising claim is
+that, for philosophers, such clarification is not a preliminary to
+their main investigation but the main investigation itself. Can that
+claim be true?
+   The need to clarify ‘mass’ came from theoretical developments
+in physics, in particular Einstein’s theory of special relativity. The
+need to clarify ‘feudalism’ came from developments in history—
+more detailed analyses of more societies in more periods. Where
+is the need for philosophers’ clarifications supposed to come
+from, if all they do is clarify? If they are just clarifying previous
+philosophy, wouldn’t it be cheaper and easier to abolish
+
+=== p. 42 ===
+
+ Clarifying Terms
+
+philosophy altogether? Then there would be no philosophy in
+need of clarification. Even if people strayed into philosophizing
+from time to time, they would not be paid for it, and taxpayers’
+hard-earned money would not be wasted.
+   We can never expect to make our words perfectly precise. For in
+order to make one word more precise, we must use other words
+that are themselves to some extent vague, and that vagueness will
+infect our clarifications. Vagueness can sometimes be reduced, but
+it can never be eliminated, from either language or thought.
+Efforts at clarification should be concentrated where there is a
+special need for it. The need may be either theoretical or practical.
+There were special theoretical needs to clarify ‘mass’ and ‘feudalism’. An example of a practical need for clarification is in law.
+A law simply against making a ‘big mess’ in a public place would
+be unworkable, because ‘big mess’ is so vague. The standard for
+counting as a ‘big mess’ would have to be made clearer (though
+not perfectly clear) for the term to be used in an effective law.
+Conceptual clarification cut off from such theoretical or practical
+needs is pointless.
+   Fans of philosophy as conceptual clarification sometimes suggest that it gives us understanding rather than knowledge. But that
+is a false dichotomy. If you don’t know why the sky is blue, you
+don’t understand why it is blue either. As you learn more—get
+more knowledge—about how Hannibal got his elephants over
+the Alps, you understand more about how he got them over. The
+idea of increasing understanding without increasing knowledge is
+an illusion, however tempting, in philosophy as everywhere else.
+   Often under the influence of Wittgenstein, some philosophers
+take themselves to be doing pure conceptual clarification,
+
+=== p. 43 ===
+
+                                               Clarifying Terms   
+
+untainted by theoretical activity such as advancing hypotheses to
+be confirmed or falsified by future evidence. They regard such
+hypothesis-testing as characteristic of natural science, by contrast
+with philosophy. Their attitude tends to result in a peculiarly
+dogmatic style of philosophizing, since their conception of philosophy forbids them from properly acknowledging the possibility of clear-headed challenges to their own philosophical
+arguments, and in particular of the premises from which they
+start. If one thinks that one is simply clearing up confusions, one
+will tend to regard whoever opposes one’s efforts as confused.
+   Here is an example. Some philosophers of mathematics hold
+that it studies mathematical objects, such as numbers or sets,
+which are not in space or time but are just as real as anything
+that is. That view is called platonism, because it resembles Plato’s
+theory of abstract forms (the word is spelt with a lower-case ‘p’
+because platonists don’t try to follow Plato in detail). The most
+distinguished modern platonist was Kurt Gödel (–), one of
+the greatest logicians of all time. Philosophers who take their job
+to be diagnosing confusion often accuse platonists of confusing
+the kind of meaning had by mathematical terms like ‘the number ’
+or ‘the empty set’ with the kind of meaning had by terms for
+ordinary objects in space and time, such as ‘the River Danube’ or
+‘the empty box’, as we saw. Their diagnosis is that platonists
+naively assume that since we use ‘the River Danube’ and ‘the
+empty box’ to refer to objects, we must use ‘the number ’ and
+‘the empty set’ to refer to objects too. Those who make that
+patronizing diagnosis typically know far less logic and mathematics than the platonists whose view they are dismissing. Anyway,
+the evidence does not support their diagnosis. Most platonists do
+
+=== p. 44 ===
+
+ Clarifying Terms
+
+not feel forced into their view by linguistic analogies. Instead, like
+Gödel, they accept platonism because they find it crucial for the
+best explanation of what mathematicians are doing. Whether
+platonism is true or false, it is not based on mere confusion.
+
+                 Concepts and Conceptions
+Is the concept of confusion itself confused? Does the concept of
+conceptual clarification need clarifying? The underlying problem
+is with the concept of a concept—or, to put it non-circularly, with
+the word ‘concept’. Some of the difficulties came up with the
+word ‘woman’. What does it take for two people to express the
+same concept with the word ‘woman’? When as a student I first
+read about the philosopher Hilary Putnam, I assumed that Hilary
+Putnam was a woman—every Hilary I had met was female. When
+later I discovered that Hilary Putnam was a man, did my concept
+of a woman change, if only slightly? Did I mean something
+different by ‘woman’? If every difference in the beliefs expressed
+using a word makes a difference to its meaning, it will be very
+hard for two people to mean the same by a word, or for one
+person to mean the same by it for more than a short time. I know
+whether there’s a biro in my pocket; you don’t know: does it
+follow that we don’t mean exactly the same by ‘biro’? If we pile all
+such information into concepts, we shall be unable to draw a
+useful distinction between conceptual and non-conceptual questions. That would undermine the idea that what is special about
+philosophy is that it asks conceptual questions.
+   A distinction is sometimes drawn between concepts and conceptions. A concept is more like a dictionary definition. For example, a
+
+=== p. 45 ===
+
+                                               Clarifying Terms   
+
+dictionary may define the word ‘vixen’ as ‘female fox’, so the
+concept vixen just is the concept female fox (my dictionary also
+gives another definition for ‘vixen’, as ‘quarrelsome woman’,
+which would be another concept). By contrast, your conception
+of a vixen includes all the beliefs you would express using that
+word (in a given sense). Unlike the concept vixen, my conception
+of a vixen includes my belief that a vixen lives under my garden
+shed. Dictionaries are for concepts, encyclopaedias for conceptions. If we distinguish concepts from conceptions like this, then
+conceptual questions are special, because they concern definitions. Clarifying one’s concepts is defining one’s terms.
+   One advantage of distinguishing concepts from conceptions is
+that it explains how knowledge can be communicated from one
+person to another and preserved over time. Conceptions are
+personal and fleeting, but definitions can be shared and stable.
+‘Vixen’ has been defined as ‘female fox’ for many centuries and
+many millions of speakers of English.
+   The view of concepts as definitions also underpins the idea of
+philosophy as conceptual analysis. If the concept vixen is the
+concept female fox, then we can analyse the concept vixen as a
+combination of the concept female with the concept fox. Of course,
+philosophers have not been particularly interested in the concept
+vixen, but they have hoped to find such analyses of more philosophically central concepts, like knowledge, meaning, and causation.
+   However, the dictionary definition model doesn’t take us very
+far. Even for colour words like ‘red’, ordinary understanding has
+much less to do with a dictionary definition than with our ability
+to recognize examples of red as red when we see them. Most
+words are like that: who understands ‘cat’ or ‘chair’ or ‘copper’ by
+
+=== p. 46 ===
+
+ Clarifying Terms
+
+knowing a definition? If you can’t recognize a cormorant by
+yourself, you can still use the word ‘cormorant’ because you
+are part of a community of English-speakers, some of whom are
+more expert than you. As competent speakers of English, we
+understand philosophically interesting words like ‘know’, ‘mean’,
+and ‘cause’, but not by knowing dictionary-style definitions of
+them. Philosophers’ attempts to provide such definitions have a
+long track record of failure. Nevertheless, we can still recognize
+the difference between knowing where your keys are and not
+knowing, or between meaning by ‘bank’ the edge of a river and
+meaning a financial institution, or between causing the window to
+break and not doing so.
+   Most concept-lovers have recognized the inadequacy of the
+dictionary definition model. However, they still distinguish conceptual truths from other truths that are not conceptual, even if they
+are necessary. For example, ‘Red things are coloured’ is supposed
+to express a conceptual truth, because the connection has been
+somehow built into our concepts red and coloured. By contrast,
+in an isolated community where people can recognize whales
+by sight but everyone assumes them to be merely enormous
+fish, ‘Whales are mammals’ does not express a conceptual truth,
+because the connection has not been built into their concepts,
+even though being a mammal is in fact a necessary part of the
+nature of a whale. If philosophy’s concern is with conceptual
+truths, that might help explain why philosophy can be done in
+an armchair.
+   How can we tell whether a truth is conceptual or not? One idea
+is that if a sentence expresses a conceptual truth, everyone who
+understands it will accept it. For example, everyone in our
+
+=== p. 47 ===
+
+                                                Clarifying Terms   
+
+community who understands ‘Red things are coloured’ agrees
+with it, whereas people in the imagined community disagree
+with ‘Whales are mammals’. But universal assent is too high a
+standard to help concept-lovers. For example, an intelligent native
+speaker of English might learn the words ‘red’ and ‘coloured’ in
+the usual way, but later decide that the word ‘coloured’ is so
+tainted by its racist associations that it correctly applies to nothing. She refuses to call anything ‘coloured’. She no longer assents
+to ‘Red things are coloured’; she instinctively rejects it, once she
+has grown accustomed to her new view. But she has not lost her
+understanding of the sentence; she has no difficulty in following
+other speakers when they use the word ‘coloured’ in the usual
+way. If there is one such dissident in the enormous community of
+English-speakers, ‘Red things are coloured’ fails the test of universal assent. Similar examples can be constructed for any candidate
+conceptual truth. It is unclear that any useful distinction between
+conceptual and non-conceptual truths can be drawn.
+
+                  Clarifying and Theorizing
+Fortunately, the value of clarification does not depend on any
+distinction between conceptual and non-conceptual matters.
+Think again of mathematics, the clearest and most precise branch
+of human inquiry. Mathematicians often use explicit definitions.
+But if you trace their chains of definitions back, you always reach
+undefined terms—their definitions don’t go round in circles or
+continue to infinity. In modern mathematics, those undefined
+terms typically belong to set theory, the standard framework.
+The main undefined term in mathematics is ∈, the symbol for
+
+=== p. 48 ===
+
+ Clarifying Terms
+
+set membership: the formula x∈y says that x (say, the number 7)
+belongs to the set y (say, the set of prime numbers). There are no
+standard mathematical definitions of ‘belongs’ or ‘set’. Introductory textbooks gesture vaguely towards everyday talk of collections and the like, while admitting that such analogies are
+inadequate: the stamps in a stamp collection have to be collected
+together in a sense irrelevant to mathematics. But this lack of
+definition is no problem for mathematics. The reason is that
+mathematicians have a powerful theory of sets, with axioms giving
+plentiful information about what sets there are. For instance, one
+axiom says that for every set there is a set whose members are the
+subsets of the first set. Another axiom says that there is a set with
+infinitely many members. Another says that sets with the same
+members are identical, and so on. For most mathematical purposes, the theory gives mathematicians just what they need to
+reason clearly and rigorously about sets. The axioms are plausible,
+but have no clear claim to count as conceptual truths. It is quite
+possible to understand what they say and still doubt them, though
+the success of modern mathematics is good evidence in their
+favour.
+   Some people try to turn the axioms of set theory into a
+definition of the term ‘set-theoretic structure’. The idea is that a
+structure is ‘set-theoretic’ if it obeys all the axioms of set theory.
+But the attempt is pointless, for in order to put such a definition to
+work mathematicians would need a theory of structures, which
+would look remarkably like the theory of sets in disguise. No
+progress would have been made.
+   As a model for philosophy, basic mathematics is far more
+helpful than the dictionary. What we need for clear reasoning
+
+=== p. 49 ===
+
+                                                 Clarifying Terms   
+
+are not trivial ‘truths by definition’ but a strong, explicitly articulated theory. Clarity does not aim at a mythical standard of
+indubitability. Rather, its point is to make mistakes in our reasoning clearly visible, as they are in mathematics. If you hear someone deny the value of clarity, ask yourself why they might not
+want mistakes in reasoning to stand out clearly.
+

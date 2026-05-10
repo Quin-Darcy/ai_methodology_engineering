@@ -1,0 +1,1276 @@
+=== chunk: martinich-2015-philosophical-writing/ch2-logic-and-argument ===
+title: Logic and Argument for Writing
+source_pdf: docs/sources/martinich-2015-philosophical-writing/full.pdf
+pdf_pages: 31-71
+page_scheme: pdf
+plan_page_start: 31
+plan_page_end: 71
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 31 ===
+
+Logic and Argument for Writing
+In his Poetics, Aristotle remarks that a well-constructed dramatic plot
+must reflect an action which is “whole and complete in itself and of
+some magnitude.” He goes on to define a whole as “that which has a
+beginning, middle, and end.” Though Greek tragedy and philosophical
+prose may seem like quite disparate fields of literary endeavor,
+Aristotle’s advice applies to writing a philosophical essay.
+Just as the core of a dramatic work is its plot, the core of a
+philosophical essay is its argument. And just as a good play will have a
+well-demarcated beginning, middle, and end, so too will a good essay.
+The beginning of a philosophical essay introduces the argument; the
+middle elaborates it; the end summarizes it. But what is an argument?
+Every competent speaker of English has some idea of what an
+argument is. And most, upon reflection, would realize that argument
+is in fact equivocal; that is, it has more than one sense. In one sense, it
+is roughly synonymous with quarrel and in another sense roughly
+synonymous with reasoning. In theory, philosophers engage only in
+the latter, although in practice they sometimes stumble into the
+former.
+The philosophically relevant sense of argument has been made more
+precise by logicians, who, in the course of 2,500 years, have discovered
+quite a bit about arguments. Although this is not a logic text, a little
+logic is crucial for understanding the structure of a philosophical
+essay.
+
+1 What is a Good Argument?
+At the simplest level, there are two kinds of arguments: good ones and
+bad ones. A good argument is one that does what it is supposed to do.
+A bad argument is one that does not. A good argument is one that
+shows a person a rational way to go from true premises to a true
+
+=== p. 32 ===
+
+conclusion, as well as the subject allows (some subjects more easily or
+certainly show the way than others, say, mathematics more than
+aesthetics). As explained here, a good argument is relative to a person.
+What might legitimately lead one person to a conclusion might not
+lead another person to the same conclusion because so much depends
+upon the person’s background beliefs. What a contemporary
+philosopher or physicist would recognize as a good argument is often
+not what an ancient Greek, even Plato, Aristotle, Ptolemy, or Euclid
+would recognize. Also, there may be good arguments that the ancient
+Greeks could recognize as good arguments that we could not. For
+obvious reasons I can’t think of an example.
+The notion of a “good argument” is an intuitive one. In this chapter I
+want to make this intuitive notion progressively more precise by
+considering the following definitions:
+Df(1) An argument is a sequence of two or more
+      propositions of which one is designated as the
+      conclusion and all the others of which are premises.
+Each of these definitions contains key technical terms and ideas that
+need to be explained, including proposition and valid. Let’s begin by
+looking at Df(1), the definition of argument. Notice that an argument
+is characterized as a sequence of propositions. Although proposition
+could be given a more technical formulation, for our purposes it is
+enough for us to understand this term as equivalent to “a sentence (or
+main clause) that has a truth-value;” that is, it is a sentence (or main
+clause) that is either true or false. Propositions are sometimes
+contrasted with questions and commands, which cannot be true or
+
+=== p. 33 ===
+
+false. Proposition is often used interchangeably with statement and
+assertion even though the meanings of these words can be different in
+important ways.1
+Returning to the definition of argument, we should notice that an
+argument is a sequence of propositions because the propositions are
+supposed to be related in some logically significant way. One of these
+propositions will be designated as the conclusion; that is, the
+proposition that is to be proven. Within the context of an essay as a
+whole, the conclusion is the thesis. Since subordinate propositions
+within the essay may have to be proved, these subordinate
+propositions may also be conclusions with their own sets of supporting
+premises. The premises are the propositions that lead to the
+conclusion. They provide the justification for the conclusion.
+The above definition is abstract. Let’s make it a bit less so by
+considering an extremely spare argument:
+
+The first two sentences are premises. The third is the conclusion, as
+indicated by the word therefore. The premises are supposed to provide
+the rational force for accepting the conclusion. While this is a good
+argument, it is rhetorically lame. No one would seriously argue for
+such an obvious conclusion. It rarely happens that three simple
+sentences constitute a rationally persuasive argument, which typically
+requires elaboration and embellishment. Yet, at the beginning of our
+study, it is wise to keep the matter as simple as possible.
+The definition of argument in Df(1) is neutral with respect to the issue
+of whether an argument is defective (bad) or not. Some arguments are
+defective and some are not. Our goal is to understand the nature of all
+arguments by concentrating on what constitutes a good one. We then
+understand what a defective argument is by identifying how it fails to
+measure up to the criteria for good arguments. As Parmenides said,
+“The ways of falsehood are infinite, while the way of truth is one.”
+To further refine the definition of a good argument, let’s now consider
+
+=== p. 34 ===
+
+the concept of a sound argument given in Df(2):
+As this definition makes clear, there are two aspects to a sound
+argument: validity and truth. An argument is unsound in either of two
+cases: if it is invalid or if one or more of its premises are false. Thus, to
+show that your argument is sound, you must show that the argument
+is valid and show that the premises are true. Since a sound argument
+is partially defined in terms of the technical notion of validity, we need
+a definition of it:
+To put this in a slightly more colloquial form, the conclusion of a valid
+argument must be true whenever all its premises are true. The truth of
+the premises guarantees the truth of the conclusion.
+In Df(3), validity is defined in terms of truth and necessity. Further, in
+Df(4) a cogent argument is partially defined in terms of a sound
+argument; and a sound argument is partially defined in Df(2) in terms
+of an argument; and an argument is partially defined in Df(1) as
+consisting of premises and a conclusion. This process of defining one
+thing in terms of other things cannot go on forever, no more than the
+stability of the earth can be explained by saying that it sits on the back
+of an elephant that rests on the back of another elephant, that rests on
+the back of another elephant, ad infinitum. At some point, the process
+of explanation must end. (Under all the elephants is a tortoise; and
+that is the end of it.)
+As regards validity (and hence soundness and cogency), the process of
+explanation ends with truth and necessity. These two concepts are
+being taken as basic and will not be defined. I am relying upon our
+common understanding of the notions of truth and necessity to carry
+us. This is not to say that these notions are not problematic; it is just
+that one must stop somewhere. Cogency, soundness, and validity
+
+=== p. 35 ===
+
+could have been defined using some other terms and then some terms
+other than truth and necessity would have been basic and undefined.
+There is nothing objectionable in leaving some terms undefined.
+Indeed, it is inescapable. In order to say anything, one must assume
+that the meanings of some words are understood. (This may form the
+foundation for a paradox involving how it is possible for people to
+learn a language if one must already know words before one can say
+anything; fortunately, such a possible paradox is not our problem
+here.) In every enterprise, one eventually gets to a point at which
+something must be accepted without definition or argument. If the
+arguer and arguee cannot agree on any such point, there is a sense in
+which an argument cannot get started. However, although neither
+truth nor necessity will be defined, a little more can and will be said
+about validity in section 2 of this chapter.
+A sound argument is a valid argument with true premises. Yet, many
+sound arguments are unhelpful because they are not recognizable as
+good arguments. To incorporate the aspect of recognizability into our
+intuitive notion of a good argument, we must introduce the idea of a
+cogent argument, as spelled out in Df(4):
+There are many reasons why a rational person might not recognize a
+good argument. If its logical form is too complex for any human being
+to recognize or the evidence needed to show that the premises are true
+is simply not available, a sound argument would necessarily fail to be
+cogent, because the condition of recognizability would be impossible
+to satisfy. However, many sound arguments are, as a matter of fact,
+not cogent because they are not properly formulated and/or adequate
+evidence is not adduced in support of key premises. Proper
+formulation of an argument involves its structure: the argument must
+be valid and the premises and conclusion must be set out in such a
+way that its validity is apparent. The matter of evidence, on the other
+hand, is related to an argument’s content and involves once again the
+notion of truth. Each individual premise must be true and the evidence
+
+=== p. 36 ===
+
+presented must make this clear.
+The intuitive notion of a good argument that we started with at the
+beginning of this chapter has now evolved into the notion of a cogent
+argument. We can now summarize by saying that a good (i.e. cogent)
+argument involves three things: formal validity (structure), true
+premises (content), and recognizability. This is what you should strive
+for in your writing. If any one of these elements is missing, your
+argument will not be cogent. All of these elements are individually
+necessary and jointly sufficient to produce a cogent argument. In
+section 3 of this chapter we will examine the notion of cogency in more
+detail. For now we need to return to a fuller treatment of the crucial
+notion of validity, the aspect of an argument related to its structure or
+form.
+
+2 Valid Arguments
+Recall the definition of a valid argument given in section 1:
+To repeat what was said earlier, in a valid argument true premises
+guarantee a true conclusion. A valid argument cannot have true
+premises and a false conclusion. Validity preserves truth. The situation
+is different when one or more of the premises is false. In such cases,
+the conclusion might be true or false. In other words, there are valid
+arguments that have
+a. true premises and true conclusion;
+b. false premises and false conclusion;
+c. false premises and true conclusion.
+Let’s look at an instance of each of these possibilities (for the sake of
+illustration, exercise whatever tolerance necessary to assume that the
+premises in the following examples are true or false as indicated).
+  Example of a valid argument with true premises and a true
+
+=== p. 37 ===
+
+  conclusion
+  Justice is fairness.
+  Fairness is distributing rewards according to merit and penalties
+  according to blame.
+
+  Justice is distributing rewards according to merit and penalties
+  according to blame.
+
+  Example of a valid argument with false premises and a false
+  conclusion
+  Justice is what the strong desire.
+  What the strong desire is what is good for the strong.
+
+  Justice is what is good for the strong.
+
+  Example of a valid argument with false premises and a true
+  conclusion
+  Justice is what the strong desire.
+  What the strong desire is distributing rewards according to merit
+  and penalties according to blame.
+
+  Justice is distributing rewards according to merit and penalties
+  according to blame.
+
+In each of these examples of a valid argument, the conclusion is
+related to the premises in a fairly straightforward way. This need not
+be the case.
+Although it is counterintuitive, there are valid arguments in which the
+premises and conclusion are not related in any plausible way. There
+are two types of valid arguments in which the conclusion is wholly
+unrelated to the premises. One type occurs when the conclusion is a
+
+=== p. 38 ===
+
+tautology, that is, a trivially true proposition, that is, a true
+proposition that is by its nature uninformative. Consider the
+statement, “Either Aristotle is a great philosopher or he is not.” Since
+this proposition is trivially true, there can be no argument with true
+premises and it as a false conclusion, no matter how irrelevant the
+premises are to that conclusion. For example, the argument
+
+is valid, even though the premise has no apparent topical or evidential
+relation to the conclusion. This argument is defective and hence not
+cogent. Yet, it is a valid argument.
+The other type of valid argument with topically unrelated premises
+and conclusion is one which contains contradictory premises.
+(Roughly, a proposition is contradictory when it asserts and denies the
+same thing, e.g. “Aristotle is a great philosopher and he is not a great
+philosopher.”) For example, consider this argument:
+
+This argument is valid because it satisfies the definition of validity
+even though the conclusion is unrelated to the premise. When an
+argument contains a contradictory premise, then that premise is
+necessarily false, and hence it is not possible for all the premises to be
+true and the conclusion false. More generally, even if there is no single
+contradictory premise, so long as the premises are jointly
+contradictory, the argument is valid.
+Many people consciously believe contradictory propositions, and
+sometimes think that there is some merit in doing so. In “Song of
+Myself,” Walt Whitman wrote, “Do I contradict myself? Very well then
+I contradict myself. (I am large, I contain multitudes.)” That makes for
+good poetry but bad philosophy. Ralph Waldo Emerson wrote, “A
+foolish consistency is the hobgoblin of little minds,” and this has led
+some people to think that there is a wise inconsistency. The
+philosopher Hegel thought that contradictions were an indispensable
+part of philosophy. So what is wrong with having contradictory
+
+=== p. 39 ===
+
+beliefs? The simple answer is that a person with contradictory beliefs
+is logically committed to every proposition that exists. This is bad
+because true (empirical) beliefs do not just mark off the part of
+conceptual space that is factual; they exclude the parts of conceptual
+space that are nonfactual. Contradictory beliefs make all beliefs
+equally good.
+Since beliefs are propositions, I will illustrate the problem with
+contradictions by taking advantage of the fact that contradictory
+premises entail any and all propositions. The valid argument below
+uses the contradictory premise that Horses fly and horses do not fly
+and proves that you are a serial killer; but it should be obvious that
+any other contradictory premise and any other offensive false
+conclusion can be substituted for them respectively.
+
+People sometimes find the above kind of proof “fishy” and
+unpersuasive, even though the form of the argument is valid:
+
+A person who believes contradictory propositions usually does not
+realize that she does; and she may draw what she believes are
+interesting consequences from her contradictory beliefs. But since
+anything can be proved from contradictory premises, the
+consequences she draws are actually not interesting.
+Let’s now say more about the fact that in a valid argument, the
+premises entail the conclusion. Upon what does entailment depend?
+
+=== p. 40 ===
+
+One answer is that entailment depends upon the meanings of the
+words making up the propositions of the argument. Two types of
+words might be distinguished: topic neutral and topic specific.
+Topic specific words include those that are typically first thought of as
+words, such as dog, cat, walks, yellow, happily, as well as more
+emotionally charged words such as disarmament, deficit, abortion,
+and fraternity. What all these words have in common is that they
+specify or restrict some topic. A sentence with the word dog in it, for
+example, in some very general sense, might be said to have a dog or
+dogs as one of its topics. The logic that is concerned with the
+entailment properties of topic specific words might be called material
+logic. Thus, material logic is concerned with the entailment that holds
+between
+  This object is yellow
+and
+  This object is colored.
+Topic specific words that are very general or central to our conceptual
+scheme, e.g. goodness, truth, justice, beauty, person, object, are the
+traditional topics of philosophy, and the study of their contribution to
+the entailments of propositions is largely what philosophy is about.
+Thus, a philosopher might worry about the nature of knowledge by
+asking whether
+  x knows that p
+entails
+  x believes that p.
+And he might worry about the nature of truth by asking whether
+  “S” is true
+entails
+  “S” corresponds to some fact.
+When philosophers formulate questions or pose problems in terms of
+
+=== p. 41 ===
+
+whether one thing entails another, they may be involved in a very
+traditional philosophical pursuit.
+Let’s now consider some topic neutral words. Not, and, or, if . . . then,
+if and only if, all, and some, are topic neutral in the sense that they do
+not restrict the topic or subject matter under discussion. Further, they
+are not restricted with regard to what topic specific words they can
+combine with to form sentences. The logic that is concerned with the
+entailment properties of topic neutral words is called formal logic. For
+example, each of these arguments is valid for the same reason:
+  If John is rich, then Mary is happy.
+
+  If smoking causes lung cancer, then people should not smoke.
+
+  If humans are aggressive by nature, then a strong government is
+  needed to protect humans from themselves.
+
+It does not matter that each of these arguments concerns a different
+topic. Given the meaning of if . . . then, any argument of this form is
+valid:
+
+where “p” and “q” represent propositions. Recall that propositions are
+sentences or main clauses that have a truth-value. This is important
+because a mistake in representing an argument can occur if certain
+words or phrases are translated as if they expressed a complete
+thought. The sentence:
+  Lee is standing and Sam is standing.
+
+=== p. 42 ===
+
+is a “conjunction” and expresses two propositions, “Lee is standing”
+and “Sam is standing.” It might be represented as “(L and S)” or “(p
+and q).” Colloquially, we would say, “Lee and Sam are standing.” This
+latter sentence expresses the same conjunction, and so could be
+represented in the same way, as, say, “(L and S).” “L” translates “Lee is
+standing;” it does not translate “Lee,” which is a proper name, not a
+sentence or main clause. Contrast these cases with
+   Adam and Beth stood together.
+This sentence does not express a conjunction even though it contains
+the word “and.” It is not colloquial for “Adam stood together” and
+“Beth stood together.” So it would be a mistake to translate it as, say,
+“(A and B).”
+The form of argument we have been looking at above is one of the
+most intuitive argument forms there is. It is called modus ponens,
+which loosely translated means the mode of affirming. Modus ponens
+is one of a number of inference forms that constitute the core of
+natural deduction systems of propositional logic. Roughly,
+propositional logic, sometimes called the propositional calculus, can
+be defined as the logic of some uses of not, and, or, if . . . then and if
+and only if. These words figure crucially in some of the most basic
+forms of argumentation that people use. Here, they are presented
+schematically:
+
+=== p. 43 ===
+
+Logic typically includes special symbols for the most important topic
+neutral words. There is no one set of symbols that is used by a majority
+of logicians. Different logicians use different symbols for the same
+topic neutral words. Here are some examples:
+      Propositional Connective Symbol Symbol Symbol
+      not                      ∼      ¬      –
+      and                      &      .      ∧
+      or                       V             ∨
+      if . . . then            ⊃             →
+      if and only if           ≡             ↔
+If the symbols in the first column are substituted for their English
+equivalents, then the argument forms just presented look like this:
+
+=== p. 44 ===
+
+Since these forms are of their very nature abstract, it may be helpful to
+give an example of each of them. Let’s begin with modus ponens:
+  If Hobbes is an empiricist, then Hobbes holds that sense knowledge
+  is the foundation for all knowledge.
+
+Let’s now consider an instance of modus tollens, which bears some
+similarity to modus ponens.
+  If Hobbes is an empiricist, then Hobbes holds that sense knowledge
+  is the foundation for all knowledge.
+
+Modus ponens and modus tollens are clearly related. Often a
+philosophical problem can be summarized as a dispute over whether
+the sound argument concerning a certain issue should be formulated
+as a modus ponens or a modus tollens argument. One could imagine a
+dispute involving the argument examples above. One person might be
+
+=== p. 45 ===
+
+using the modus ponens argument to prove that Hobbes emphasizes
+the importance of observation in science. His opponent might use the
+modus tollens argument to prove that Hobbes is not an empiricist.
+There is a saying in philosophy: One person’s modus ponens is
+another person’s modus tollens. Obviously much more would be
+involved in the debate than merely these two arguments. Although
+both arguments are fairly obviously valid, it is not obvious which, if
+either, is sound, and hence neither argument is cogent. As a matter of
+fact, the instance of modus tollens is the sound argument, and could
+form the core of a cogent argument if it were buttressed with evidence
+showing that Hobbes himself emphasized the deductive and a priori
+aspects of science.
+  Let’s now consider an example of disjunctive syllogism:
+  Either Hobbes is an empiricist or he is a rationalist.
+
+This argument is of course valid. Is it sound? A frequent defect of
+arguments that have the form of disjunctive syllogism is that not all
+the relevant alternatives are specified in the disjunctive proposition. If
+the disjunctive proposition does not exhaust all the possibilities, then
+it may well be false. For example, is every philosopher either an
+empiricist or a rationalist? Isn’t it possible for a philosopher to be
+neither? A large part of this issue will depend upon how the terms
+empiricist and rationalist are defined. So, if our example of a
+disjunctive syllogism has any hope of forming the core of a cogent
+argument, it is necessary to define those terms even though this alone
+would not suffice (see chapter 5, section 1, “Definitions”).
+Hypothetical syllogisms are often used to line up series of
+dependencies, for example,
+
+=== p. 46 ===
+
+Although the formal rule of a syllogism dictates that there be only two
+premises, as in the above example, several hypothetical syllogisms can,
+however, be strung together to yield a result like this:
+  If every event is causally determined, then every human action is
+  causally determined.
+  If no human action is free, then no human is responsible for any of
+  his actions.
+
+When propositions are linked in this sort of way and the conclusion is
+either counterintuitive or otherwise unacceptable, the challenge lies in
+determining where and how to break the chain.
+Let’s now consider the two rules of dilemma. Constructive dilemma
+might be thought of as two instances of modus ponens connected:
+
+Similarly, destructive dilemma might be thought of as two instances of
+modus tollens connected:
+
+Let’s now consider an example of each, beginning with constructive
+dilemma:
+
+=== p. 47 ===
+
+  If determinism is true, then actions are neutral with respect to
+  praise or blame; and if humans have free will, then science is
+  limited in what it can explain about reality.
+
+Just as one person’s modus ponens is another person’s modus tollens,
+one person’s constructive dilemma is another person’s destructive
+dilemma. The above example of constructive dilemma is easily
+transmuted into an example of destructive dilemma:
+  If determinism is true, then human actions are neutral with respect
+  to praise or blame; and if humans have free will, then science is
+  limited in what it can explain about reality.
+
+Genuine philosophical examples of dilemmas typically conclude with a
+disjunction of unpleasant alternatives. That is what makes the
+argument a dilemma in the ordinary sense of the term, in contrast
+with the logical sense we have been discussing. Dilemmas will be
+discussed again in chapter 5.
+Now that we have a better understanding of what constitutes a valid
+argument form, let’s return to the main issue of this chapter, namely,
+what makes up a cogent argument.
+
+3 Cogent Arguments
+Recall the definition of a cogent argument in section 1:
+(Df4) A cogent argument is a sound argument that is
+A cogent argument is one that compels the audience to accept its
+conclusion in virtue of his recognition that the argument is valid and
+
+=== p. 48 ===
+
+the premises true. Cogent arguments are person relative. This would
+come out more clearly if we reformulated our definition like this:
+
+An argument is cogent for an audience just in case that
+audience recognizes it to be sound.
+The same argument might be cogent to one person and not cogent to
+another. All cogent arguments are persuasive to the audience that
+recognizes them. Yet not all persuasive arguments are cogent. People
+are often persuaded by bad arguments and fallacious reasoning.
+An argument may be sound, and yet fail to be cogent because its
+soundness is not recognized. An argument might be this way
+necessarily, either through the complexity of form that outstrips
+human comprehension or through the impossibility of gathering
+evidence needed to show that its premises are true. We are not really
+interested in these non-cogent arguments, since there is nothing
+humans can do about them. If humans cannot recognize the validity,
+and the evidence is in no way available, then that is the end of it.
+These arguments, however, should not be confused with others.
+There are also some sound arguments that are in fact not recognized
+as such either because (1) although their logical structures are not
+recognized, they could be if they were explained, or because (2)
+although their premises are not recognized as true, they could be if the
+evidence which is available were provided. About these kinds of
+unrecognized sound arguments something can be done: the author
+can explain their logical structures and provide the evidence for their
+premises.
+All of this can be made clearer with an example. There is no doubt that
+it is easy to provide a sound argument for the proposition “God exists”
+(if He does exist). And there is no doubt that it is easy to provide a
+sound argument for the proposition, “God does not exist” (if He does
+not exist). Thus, one (but only one) of the following two arguments is
+sound.
+  First Argument
+  Either God exists or June 1 is Independence Day.
+
+=== p. 49 ===
+
+   Second Argument
+   Either God does not exist or June 1 is Independence Day.
+
+Now it should be obvious that neither of these arguments is cogent
+even though one of them is sound. The problem is that the sound
+argument, whichever one it is, is not making itself known! Each
+argument is clearly valid. Both are instances of disjunctive syllogism.
+And the second premise of each argument is true. The locus of the
+problem is the first premise. If God exists, then the first premise of the
+First Argument is true in virtue of that very fact; and then the First
+Argument is sound. If God does not exist, then the first premise of the
+Second Argument is true in virtue of that very fact, and then the
+Second Argument is sound. But which is it?
+Unfortunately, there is nothing in either argument that allows us to
+determine which is sound. There is nothing in either argument that
+rationally forces us to accept its first premise. Thus, neither argument
+is cogent. It is the author’s duty to forge sound arguments into cogent
+arguments. Typically, this requires elaboration: either explanation of
+the argument’s validity or evidence for the truth of the premises.
+How might an author try to strengthen one of the above arguments?
+Although I will usually try to give examples of how to do things
+correctly, in this case, I will explain how things might go wrong. One
+can also learn from one’s mistakes.
+Since the same sort of strategies would apply to either argument, let’s
+consider just the first one. What the First Argument needs is evidence
+that is sufficient to establish that the first premise is true. What kind of
+evidence would accomplish this goal? The premise is a disjunctive
+proposition. As such, it is true if either disjunct is true. We already
+know that the second disjunct is false. Thus, if the premise is true, it
+must be because its first disjunct is true. But that disjunct “God exists”
+is identical with the conclusion. Thus, any evidence for the truth of the
+
+=== p. 50 ===
+
+premise is eo ipso evidence for the truth of the conclusion. What this
+means is that evidence for the premise is superfluous. If one had
+evidence for the proposition “God exists,” then one could apply it
+immediately to the conclusion without relying on the premises at all.
+Suppose someone wanted to defend the cogency of this argument by
+claiming that the first premise is true because “God exists” is true and
+that “God exists” is true because it is self-evident. This defense does
+not work. It begs the question. That is, the purpose of the argument is
+to prove that God exists. But the defender wants to assume that very
+thing to be self-evident.
+“Begging the question” is the fallacy of using a proposition both as the
+conclusion and as either a premise or as expressing evidence for a
+premise. Here is a blatant example of begging the question:
+
+No one is going to be misled by this argument. Most instances of the
+fallacy of begging the question, like all fallacies, are more subtle.
+Sometimes the fallacy occurs when the same proposition is expressed
+in two verbally different ways. For example, to argue
+
+is to beg the question since the premise and the conclusion mean the
+same.
+A more complex and interesting example of begging the question is
+this:
+  Whatever the Bible says is true. For the Bible is the Word of God,
+  and the Word of God is true. Further, we know the Word of God is
+  true because the Bible tells us so.
+The basic argument is this:
+  The Bible is the Word of God.
+
+=== p. 51 ===
+
+The premise, “The Word of God is true,” needs to be supported by
+evidence. But to use “The Bible says so” (that is, “The Bible is true”) as
+expressing that evidence is to beg the question. For, in this context,
+“The Bible says so” is another way of saying “The Bible is true,” which
+is just what is supposed to be proved. Thus, it cannot be used either as
+a premise or as evidence for a premise.
+What then makes a cogent argument recognizable? I suggest that it
+involves relevance and informativeness. A cogent argument contains
+premises that are relevant to the conclusion. Thus, the arguments
+about the existence of God that were discussed above are not cogent
+because not all their premises were relevant to the conclusions. (It’s
+notoriously difficult to explain or define relevance.) A cogent
+argument must also contain premises that are informative. Sometimes
+premises are informative if they are novel in the sense that the
+audience was not aware of them until they were seen in the argument.
+Sometimes premises are informative in a derivative way; they can be
+informative if the evidence presented for them is novel. Thus, it may
+not be informative for someone solely to assert, “I exist.” Standing
+alone, it seems trivial. But, when a philosopher like Descartes points
+out that evidence for this proposition can be found even in the most
+radically deceptive thoughts that a person can have, then the
+proposition “I exist” becomes informative in a way it otherwise isn’t. It
+is also informative in its further use in argumentation against
+skepticism and for the existence of God. Finally, sometimes premises
+are informative, not because they are individually novel, but because
+they are organized in a novel way; and the recognition of a novel
+organization of already known facts can be instructive. In Plato’s
+Meno, Socrates gets a slave boy to deduce an astonishing variety of
+geometrical theorems by beginning with facts the boy already knows.
+Socrates attributes the boy’s surprising knowledge to a reminiscence of
+knowledge the boy had in an existence prior to his birth. An alternative
+explanation is that Socrates led the boy to reorganize the knowledge
+that the boy acquired during his existence on earth, and in
+reorganizing this knowledge he came to know many more things.
+
+=== p. 52 ===
+
+Notice that I have not supplied an example of a cogent argument in
+this section. A trivially cogent argument would not be instructive. And
+since my audience is diverse, it would be difficult to construct a
+nontrivial example in less than several pages. I leave the discovery of a
+cogent argument to each reader, as an exercise.
+The upshot of the chapter to this point is that the notion of a sound
+argument does not fully capture the intuitive notion of a good
+argument. We need an idea that takes into account that the argument’s
+soundness is recognized, and that is what the idea of a cogent
+argument does.
+
+4 Quantification and Modality
+People sometimes talk about things in general and sometimes about
+only some things, for example, “Every politician lies,” “Some [or: a
+few] politicians lie,” “No politicians lie,” and “Some [or: a few]
+politicians don’t lie.” Intuitively, people usually make the right
+inferences relative to such “quantified” sentences. But it is helpful to
+have a precise description of the logical connections between words
+like “all” and “some.” A complete description would be complicated
+and take a lot of space. But it is worthwhile to have a rudimentary idea
+of these connections. The first thing that we need to do is to specify
+what forms of sentences will be discussed. Following Aristotle, we will
+take as our examples, sentences that have these forms:
+  All Fs are Gs, Some Fs are Gs, No Fs are G, and Some Fs are not Gs,
+where ‘F’ and ‘G’ can be replaced by most nouns and noun phrases.
+None of the examples of “quantified” sentences given above have these
+forms. But it is easy to paraphrase them, so that they do: “All
+politicians are liars,” “Some politicians are liars,” and so on. (While
+people who tell only one or a few small lies are usually not considered
+liars, we are going to assume here that all it takes is one lie to be a
+liar.)
+The logical connections that apply to sentences of the form mentioned
+above are set out in what is known as the square of opposition:
+
+=== p. 53 ===
+
+                      The Square of Opposition
+
+Examples of A-sentences2 are “All lawyers are educated people,” “All
+good students are people who study hard,” “All liberals are
+communists.” (Some of the preceding statements are true and some
+false; and the same is true of the sample sentences that follow. Their
+actual truth-values are irrelevant to their logic.) While the sentences
+“All lawyers have a lot of knowledge,” “Every good student studies
+hard,” and “If someone is a liberal, she believes in communism” are
+not strictly A-sentences, they can be paraphrased as A-sentences.
+Examples of I-sentences are: “Some lawyers are officers of the court,”
+“Some good students are people who study,” and so on.
+Examples of E-sentences are: “No lawyers are educated people,” “No
+good students are people who study hard,” “No liberals are
+communists.” And while the sentences, “No lawyers have a lot of
+knowledge” and “None who are good students study hard” are not E-sentences, it is obvious that they can be paraphrased into the form of
+E-sentences.
+Examples of O-sentences are “Some lawyers are not educated people,”
+“Some good students are not people who study hard,” and “Some
+liberals are not communists.” And while “A few lawyers are not
+educated people” and “Not all good students study hard” and “Many
+liberals are not communists” are not strictly O-sentences, it is obvious
+that they can be paraphrased into O-sentences.
+A presupposition of the logic of these sentences is that there are actual
+instances of Fs and Gs. So given that unicorns do not exist, the square
+of opposition does not describe the logic of a sentence like “Some
+
+=== p. 54 ===
+
+unicorns have two horns.”
+We can now state the principal logical relations between these four
+types of sentences:
+a. A-sentences entail their corresponding I-sentences.
+b. E-sentences entail their corresponding O-sentences.
+c. Corresponding A- and O-sentences are contradictory.
+d. Corresponding E- and I-sentences are contradictory.
+e. Not both an A-sentence and its corresponding E-sentence can be
+f. Both an I-sentence and an O-sentence can be true together.
+
+  1. For (a) above, give an example of an A-sentence that is true and
+     then another example in which the A-sentence is false.
+  2. For (b) above, give an example of an E-sentence that is true and
+     then another example in which the E-sentence is false.
+  3. Do you know what the truth-value is of the corresponding I-and O-sentences of exercises (1) and (2) above. (Answer this for
+     all eight(!) I- and O-sentences.)
+  4. Give one example of (d), and one of (e), and one of (f).
+  5. Does the sentence, “Some dogs are mammals” entail “All dogs
+     are mammals”?
+  6. Does the sentence, “Some women are lawyers” entail “Some
+     women are not lawyers”?
+
+In addition to inventing the square of opposition, Aristotle noticed
+that similar logical connections are related to many sentences that
+include the words and phrases, “necessarily,” “possibly,” “necessarily
+not,” and “possibly not.” In the diagram below, the symbol “” stands
+for “necessarily,” “it is necessary that,” and “must,” and some other
+
+=== p. 55 ===
+
+locutions too. Your knowledge of English is a generally reliable guide
+about when necessity is being expressed. The symbol “ ” stands for
+“possibly,” “it is possible that,” “can,” and others. The symbol “∼”
+indicates something expressing negation.
+                  The Modal Square of Opposition
+
+An important difference between the square of opposition and the
+modal square of opposition is that the propositions do not have to be
+categorical propositions. This fact is represented by the use of “p.” It
+stands for complete sentences, just as it did when the logic of “not,”
+“and,” “or,” and other sentence connectives were discussed.
+Here are the principal logical relations between sentences in the modal
+square:
+a. ∗A-sentences entail their corresponding ∗I-sentences.
+b. ∗E-sentences entail their corresponding ∗O-sentences.
+c. Corresponding ∗A- and ∗O-sentences are contradictory.
+d. Corresponding ∗E- and ∗I-sentences are contradictory.
+e. Not both an *A-sentence and its corresponding ∗E-sentence can be
+f. An *I-sentence and an ∗O-sentence can both be true together.
+Here are some instances of (a) through (c):
+a. (a′ ) “Necessarily two plus two equals four” entails “It is possible
+   that two plus two equals four.”
+b. (b′ ) “Necessarily it is not the case that two plus two equals four”
+
+=== p. 56 ===
+
+   entails “Possibly it is not the case that two plus two equals four.”
+   [Of course the two sentences mentioned in this example are
+   actually false.]
+c. (c′ ) “Necessarily two plus two equals four” and “Possibly it is not
+   the case that two plus two equals four” are contradictory.
+
+ Give an instance of (d) through (f).
+
+One reason that necessity and possibility are so important to
+philosophy is that traditionally philosophy, in contrast with ordinary
+truths about the world or scientific truths, aimed to identify what is
+necessarily true, that is, what must be the case; and it also aimed to
+identify what was possibly the case because, by knowing what is
+possible, one identifies the outer boundaries of a concept.
+So far, necessity and possibility have been discussed as if they had one
+sense. In fact, it is important to distinguish two senses of them. The
+first is logical or metaphysical necessity. Examples (a′ )–(c′ ) illustrate
+this kind of necessity. It has nothing to do with human knowledge. The
+other sense of necessity and possibility, epistemic, is intimately
+connected with what people know. If someone says, “It is possible that
+the president is currently in her office,” and is using the epistemic
+sense of “possible,” he is saying in effect, “I have no knowledge that
+leads me to believe that she is not in her office.” If someone says, “She
+must be in her office,” in the epistemic sense of “must,” he is saying in
+effect, “I have conclusive proof that she is in her office.”
+While it is difficult to explain rigorously what logical necessity and
+possibility are without using technical notions, it is easy to explain
+what they mean in relation to each other. For example,
+    p = ∼ ∼p “Necessarily p” is logically equivalent to “It is not possible
+   that it is not the case that p.”
+    p = ∼ ∼p “Possibly p” is logically equivalent to “It is not the case
+   that necessarily it is not the case that p.”
+
+=== p. 57 ===
+
+In the three sections that follow, several other logical concepts will be
+explained: consistency and contradiction in section 5, contraries and
+contradictories in section 6, and the strength of a proposition in
+section 7.
+I have presented nothing more than the most basic information about
+logic. A detailed presentation of simple deductive and informal logic is
+contained in Lewis Vaugn’s The Power of Critical Thinking, 4th edn.
+(New York: Oxford University Press, 2013). Similarly, the examples of
+arguments that I have used have been like skeletons of the kind of
+argument you will find in philosophy in order to make it easier to
+understand the particular point that I wanted to convey. Genuine
+philosophical arguments are often difficult to identify in their original
+context. A superb book that makes the transition from considering
+bare bones arguments to the fully elaborated and often difficult
+arguments of professional philosophers is Just the Arguments: 100 of
+the Most Important Arguments in Western Philosophy, ed. Michael
+Bruce and Steven Barbone (Malden, MA: Wiley Blackwell, 2011). The
+authors of the individual arguments describe the argument
+discursively, but then explicitly identify the premises and the inference
+steps that lead to the conclusion.
+
+5 Consistency and Contradiction
+We have been talking about good and bad arguments. But people also
+care a great deal about the logical properties of clusters or sets of
+
+=== p. 58 ===
+
+propositions. For example, the propositions, “George Washington was
+the first president of the United States” and “Abraham Lincoln was the
+sixteenth president of the United States” are consistent with each
+other. Both of them can be true at the same time and in fact they are
+both true. Consistent propositions may be on the same or a related
+topic as the sentences about Washington and Lincoln are. But they
+may also be on completely unrelated topics, e.g. “George Washington
+was the first president of the United States” and “A friend of Turgenev
+gave him the idea for Fathers and Sons.” One sentence is about the
+history of the United States, the other about a Russian literary figure.
+They are consistent with each other even though they are topically
+unrelated.
+Propositions can be consistent with each other even if one, some, or all
+of them, are false. The sentence about Turgenev is false but
+nonetheless consistent with the sentence about Washington, which is
+Here is a set of sentences that are consistent and all of which are false:
+  Aristotle discovered America.
+  Descartes failed his college course in geometry.
+  Henry Ford signed the Declaration of Independence.
+  The Cleveland Indians won the 1995 World Series.
+As this example shows, consistency is not a guarantee of truth. It is
+possible for propositions to be consistent with each other, yet not true.
+Still, it is important for propositions to be consistent. For if
+propositions are not consistent with each other (that is, if they are
+inconsistent, that is, contradictory), then one of them has to be false.
+And philosophers, and non-philosophers, should avoid falsity like the
+plague.
+The easiest sets of inconsistent propositions to identify are those that
+contain a proposition and its negation:
+  Turgenev is a novelist.
+  Turgenev is not a novelist.
+
+=== p. 59 ===
+
+It is not necessary to know anything about Turgenev to know that at
+least one of these propositions is false. The fact that at least one
+proposition in an inconsistent set must be false is an interesting
+feature and one that philosophers often exploit. They often try to
+formulate sets of propositions, each of which seems true, but which
+are together inconsistent. Such sets of propositions are called
+paradoxes.
+   The Paradox of Freedom and Causality
+   1. All events are caused.
+   2. Human actions are events.
+   3. Some human actions are free, that is, not caused.
+   The Paradox of Reference and Existence
+   1. Everything referred to must exist.
+   2. The name “Hamlet” refers to Hamlet.
+   3. Hamlet does not exist.
+   The Paradox of Promising
+   1. If a person promises to do something, then he has an obligation
+      to do it.
+   2. If a person has an obligation to do something, then he can do it.
+   3. Some people sometimes make promises that they cannot keep.
+Formulating a philosophical problem as a paradox helps focus the
+issue. Anyone purporting to solve the problem must say which of the
+propositions she thinks is false, and why; or she must explain why she
+thinks that all the propositions are in fact consistent, that is, how it is
+possible for all of them to be true even though they may not look
+consistent.
+It is not always easy to tell whether propositions that appear to be
+inconsistent with each other actually are. This is especially true when
+the seemingly inconsistent propositions are vague, as
+   British empiricists believed that minds exist.
+
+=== p. 60 ===
+
+   British empiricists believed that minds do not exist.
+It is not clear whether these sentences are inconsistent or not. The
+reason is that it is not clear whether either sentence is talking about all
+British empiricists or just some of them. If each sentence is talking
+about all British empiricists, then the sentences are inconsistent. But if
+each is talking about some British empiricists, then the sentences
+express consistent propositions; and in fact would both be true. My
+own view is that when sentences are vague, it should be said that they
+do not express a proposition at all; that they express only part of a
+thought. Since they do not express a complete proposition, they do not
+have a truth-value and are neither true nor false. This means that they
+cannot be consistent or inconsistent with each other.
+So far I have given examples of consistent and inconsistent sets of
+propositions that have contained at least two propositions. But these
+notions also apply to individual propositions. The proposition
+   Aristotle was a poet
+is consistent because it is possible for it to be true, even though it is in
+fact false. And the proposition
+   Aristotle was a poet and Aristotle was not a poet
+is inconsistent because it is impossible for it to be true. Inconsistent
+propositions are also called contradictions.
+Consistency and inconsistency (contradiction) are obviously related
+ideas. Although it might not be obvious, they are also related to
+entailment. A proposition p entails a proposition q just in case p is
+inconsistent with not q.
+
+  1. Choose one of the paradoxes above and explain why the
+     propositions expressed in it are inconsistent.
+  2. Are the following two propositions consistent or inconsistent
+     with each other? Assume that there are some British
+     empiricists.
+
+=== p. 61 ===
+
+ All British empiricists believe that the mind is a substance.
+ Some British empiricists believe that the mind is a substance.
+
+6 Contraries and Contradictories
+In the last section, contradiction was defined in relation to
+consistency. A contradiction is a proposition that is inconsistent; and a
+contradictory set of propositions is a set of propositions that are
+together inconsistent. Contradiction can be defined in other ways,
+ways that do not mention inconsistency:
+A (self-)contradiction is a proposition that cannot be true.
+A set of propositions is contradictory just in case there is no
+way to make all of them true.
+For example, “Socrates is mortal and Socrates is not mortal” is
+contradictory; and the set of (two) propositions, “Socrates is mortal”
+and “Socrates is not mortal” is contradictory.
+For the purpose of contrasting contradictions with contraries, it is
+convenient to restrict the discussion to pairs of propositions (I am
+assuming that each of the propositions is not analytic and not
+contradictory):
+  Two propositions are contradictory just in case one must be true
+  and one must be false.
+  Two propositions are contrary just in case they cannot both be true
+  (and neither is analytic nor contradictory).
+These two propositions contradict each other:
+  The wall is blue.
+  The wall is not blue.
+These two propositions are contraries:
+  The wall is (completely) blue.
+  The wall is (completely) red.
+
+=== p. 62 ===
+
+Although two contrary propositions cannot both be true, it is possible
+for both of them to be false. If the wall is yellow, then both of the
+propositions displayed immediately above are false.
+It should be obvious that we can extend the idea of contradictions and
+contraries to predicates or properties (I am assuming that each
+predicate is neither analytic nor contradictory):
+  Two properties are contradictory just in case one must be true of an
+  object and one must be false of it.
+  Two properties are contrary just in case they cannot both be true of
+  an object (and they are not contradictory).
+Being blue/being non-blue are contradictory properties. Being
+blue/being red are contrary properties.
+The distinction between contraries and contradictories is important
+because they are often mistaken. Although it is unlikely that you will
+mistake being red and being blue for contradictory properties, you
+might mistake being rich and being poor as contradictory, or being
+generous and being stingy. Also it is easy to confuse being unjust (a
+contrary of being just) with being not just (its contradictory). A
+cabbage growing in a garden is not just but it is not unjust either.
+Some philosophers have used the observation that being just and
+being unjust are contraries and not contradictories to help solve the
+problem of evil. Here is an example of that in an essay fragment:
+
+         A SOLUTION TO THE PROBLEM OF EVIL
+ The problem of evil is insoluble until and unless one realizes that
+ justice and injustice are contrary terms and that neither one
+ applies to God. To be just is to be subject to laws and to follow all
+ of those laws that apply. To be unjust is to be subject to laws and
+ not to follow all of those that apply. But God is neither just nor
+ unjust because He is not subject to any law. In order to be subject
+ to law, one must not have control over it. But God has complete
+ control over law since He makes all of the laws and is subject to no
+ constraint with regard to the content of those laws. That is part of
+
+=== p. 63 ===
+
+ what is meant both by the omnipotence and the absolute
+ sovereignty of God. That is why God was not unjust when He told
+ Abraham to kill his son Isaac and not unjust when He allowed
+ Satan to torture Job. Since God can be neither just nor unjust but
+ makes the laws that determine who will be, it is appropriate to say
+ that He is above justice and injustice.
+ But what else should we say about God with respect to justice and
+ injustice? Since every property has a contradictory and at least one
+ property of each contradictory pair of properties is true of an
+ object, the properties contradictory to being just and being unjust
+ must be true of God. Consequently, God is not just and not unjust.
+
+Let’s consider one last pair of terms. Subjectivity and objectivity are
+often simply assumed to be contradictories. Whether they are
+contraries or contradictories depends upon how they are defined. One
+way to guarantee that they are contradictories is to define one of them
+as not being the other. For example,
+x is subjective if and only if x can be judged by only one
+person and on the basis of her immediate experience.
+x is objective if and only if x is not subjective.
+So defined, subjectivity and objectivity are contradictory. But
+sometimes both are defined independently of each other, such that
+they turn out to be contraries that are mistaken for contradictories.
+
+x is subjective if and only if x can be judged by only one
+person and on the basis of her immediate experience.
+x is objective if and only if x is publicly observable.
+For example, abstract entities like truth, justice, government, numbers
+(not to be confused with numerals), and some physical entities like
+subatomic particles (only the effects of which can be seen) are neither
+subjective nor objective by the above definitions (see, further, chapter
+5, section 1, “Definitions”).
+
+=== p. 64 ===
+
+1. Which pairs of the following propositions are contradictories,
+   which are contraries, and which are neither?
+   a. All women are lawyers.
+   b. No women are lawyers.
+   c. Some women are lawyers.
+   d. Some women are not lawyers.
+   e. Some women are philosophers.
+2. Is the following pair of propositions contradictory, contrary, or
+   neither? Why?
+   snow is white; coal is black or not black.
+3. Which pairs of the following propositions are contradictories,
+   which are contraries, and which are neither? (This exercise
+   appeals to your intuitions about the ideas of necessity and
+   possibility. Something is said about these ideas later in the
+   chapter.)
+   a. (Necessarily, all women are lawyers.
+   b. Necessarily, no women are lawyers.
+   c. Possibly, some women are lawyers.
+   d. Possibly, some women are not lawyers.
+   e. Probably, some women are lawyers.
+4. Categorize the following pairs as contraries, contradictories, or
+   neither:
+   a. tall/short
+   b. tall/non-tall
+   c. just/merciful
+   d. just/unjust
+
+=== p. 65 ===
+
+     e. red/tall
+      f. rubber/iron
+     g. merciful/unmerciful
+     h. all-powerful/powerful
+      i. happy/unhappy
+      j. responsible/irresponsible
+     k. lawful/unlawful
+      l. male/female
+    m. male/non-male
+     n. Democrat/Republican
+     o. poor/honest
+  5. Given the definitions below, are subjectivity/objectivity
+     contraries or contradictories?
+     x is subjective if and only if there is only one person
+     who can experience x.
+     x is objective if and only if the properties of x can be
+     determined by more than one person.
+
+7 The Strength of a Proposition
+Philosophers often talk about the strength of a proposition. Some
+propositions are stronger and some are weaker than others. These
+notions of strength and weakness are technical ones and need to be
+defined. Although the definitions are not difficult – they require only
+that you understand the notion of entailment – without these
+definitions you would be surprised at what philosophers think about
+the strength or weakness of a proposition.
+A proposition p is stronger than a proposition q if and only
+if p entails q and q does not entail p.
+For example, “Most British empiricists believe that the mind is a
+
+=== p. 66 ===
+
+substance” is stronger than “Some British empiricists believe that the
+mind is a substance.”
+A proposition p is weaker than a proposition q if and only if
+p does not entail q and q does entail p.
+Obviously, “Some British empiricists believe that the mind is a
+substance” is weaker than “Most British empiricists believe that the
+mind is a substance.” Two propositions are equally strong if each
+entails the other.
+There are many propositions that cannot be compared with regard to
+strength, for example, “Plato was a philosopher” and “David Hume
+was a philosopher.” Neither proposition entails the other. Thus, one is
+neither stronger nor weaker than the other. Further, although “Every
+Greek philosopher had an ethical theory” may sound stronger than “It
+is possible that some philosopher at some time believed some true
+proposition,” in fact it is not, since it does not entail the latter. This
+does not mean that these two propositions are equally easy or difficult
+to prove. Indeed, the former would be more difficult to prove, or
+would at least require much more evidence since it is making a claim
+about all Greek philosophers, while the latter is making a claim about
+some philosopher. Moreover, the evidence for each would be different.
+If one proposition is stronger than another, then it requires more or
+better evidence to prove it; but if they cannot be related to each other
+in terms of strength, then there is no general way of predicting which
+proposition will require more or better evidence.
+It is important for you to know how strong propositions are for several
+reasons. You need to know how strong each of your premises needs to
+be in order to prove your case. Premises should not be stronger than
+you need them to be, because the stronger they are the more evidence
+they require and typically the more difficult they are to prove. The
+weaker the proposition, the less evidence one is required to supply.
+But your premises should also not be too weak, because if they are,
+then they will not entail your conclusion. Your argument will be
+invalid. Further, if you try to prove something stronger than is
+necessary and fail, then either you or your audience may draw the false
+inference that your position is untenable, even though a weaker set of
+
+=== p. 67 ===
+
+premises might have been sufficient to entail your conclusion.
+Sometimes discovering that something can be proved using a weaker
+proposition can be a great philosophical discovery. Many philosophers
+have tried to prove the existence of God by using as a premise,
+“Something is in motion.” John Duns Scotus, in the late thirteenth
+century, made a brilliant move when he constructed a proof that uses
+the weaker proposition “It is possible that something is in motion.”
+This proposition is true so long as the idea of motion does not contain
+a contradiction. This proposition might be true even if what humans
+consider motion were an illusion and there were no actual motion in
+the world. Thus, this proposition has fewer presuppositions than the
+stronger proposition, “Something is in motion.”
+Suppose you want to write in favor of skepticism. For our purposes,
+let’s say that it is the view that no human knows anything. Then it is
+important to decide (know?!) which of the following propositions you
+need to prove or provide evidence for:
+1. Each belief humans have is dubious.
+2. Each belief humans have might be dubious.
+3. Each belief humans have is false.
+4. Each belief humans have might be false.
+Proposition 2 is weaker than 1; 4 is weaker than 3. (Is 3 weaker than
+2? Is 2 weaker than 4?) A philosopher is in a better initial position if he
+can get away with proving the weaker of two propositions.
+It is also important to know how strong your opponent’s proposition
+is. If your opponent asserts “All British empiricists believe that the
+mind is a substance,” then he is asserting something quite strong. This
+means that his position can be refuted by establishing a relatively
+weak proposition: “Some British empiricist does not believe that the
+mind is a substance.” Thus, it would be sufficient for you to show that
+there is at least one person, for example, David Hume, who is a British
+empiricist who did not believe that the mind is a substance. On the
+other hand, if your opponent asserts “Some British empiricists
+believed that the mind is a substance,” then he is asserting something
+relatively weak, and the truth of the proposition, “Some British
+
+=== p. 68 ===
+
+empiricist did not believe that the mind is a substance” is not sufficient
+to refute him. Rather, you would have to prove the very strong
+proposition, “No British empiricists believed that the mind is a
+substance.” I would advise against trying to prove this. In general, the
+stronger a thesis, the weaker a proposition needs to be to refute it; and
+the weaker a thesis, the stronger a proposition needs to be to refute it.
+Abstractly considered, strong propositions require a lot of evidence,
+weak propositions require little. In practice, how much evidence is
+required depends upon the needs of your audience. You must supply
+as much evidence as your audience needs to be informed and
+persuaded. Consider this argument for what is a rather strong
+proposition, namely, that no taxation is justified:
+  Nonvoluntary transfers of property are violations of rights. A thief
+  who steals property violates the owner’s rights. Taxation is a
+  nonvoluntary transfer of property from the individual to the
+  government. Therefore, the government through taxation is no
+  better than a thief.
+Although it is possible that this argument is sound, it would not be
+cogent for most audiences. For it does not take into consideration any
+of the relatively obvious arguments against the premise that “taxation
+is a nonvoluntary transfer of property” (in books on critical reasoning
+and informal logic, this neglect to mention all the considerations
+relevant to an issue is called the fallacy of suppressed evidence).
+Consider an essay fragment that is written as a reply to the above
+passage:
+
+ Taxation is not like thievery at all, but rather like a payment for
+ services rendered. People rely upon the government for various
+ services that are essential to the quality of their life, not just police
+ and fire protection, but roads, traffic laws, utilities, civil and
+ criminal courts, and so on. People in business rely on the
+ government even more, e.g. for patent laws and import and export
+ laws. Indeed, when a businessman uses currency as his mode of
+ exchange, he is using something made by the government, and he
+ thereby uses all the machinery of government, its full faith and
+
+=== p. 69 ===
+
+ credit, to guarantee that the paper has the value he supposes it has.
+ Further, taxes are legislated by elected representatives of the
+ citizens, at least in some countries. Since representatives have the
+ right to act for their clients, they can vote for taxes which fall on
+ the clients themselves. Representatives are authorized by their
+ clients to commit them to certain courses of action. In short,
+ taxation is a voluntary transfer of property from citizen to
+ government for services rendered.
+
+This essay fragment has a better claim to expressing a cogent
+argument than the first. This of course does not settle the issue of
+which view about taxation is correct. The opponent of taxation might
+have decisive replies to the objections raised by the proponent of
+taxation. The point to be made here is that a person’s essay will not be
+cogent unless she does raise and then answer exactly these sorts of
+objections. Moreover, the position of the tax opponent will actually be
+strengthened by this process, because it will force him to articulate
+further grounds for his view that cannot be shaken by the objections
+already raised.
+These same remarks apply to the proponent of taxation. He should
+explain why there is opposition to taxation, reply to that opposition,
+explain how an opponent of taxation might respond, and then again
+reply. Each set of objections and replies ought to be deeper, subtler,
+and more revealing than the last, if the process works correctly. That is
+how progress in philosophy often occurs. For more about this method
+of reasoning, see chapter 5, section 8, “Dialectical Reasoning.”
+
+ Consider the relative strengths of the propositions within each of
+ the following sets. Which, if any, proposition is the strongest true
+ proposition of the set? (Of course, there will be disagreement about
+ the answers.)
+  1.
+       a. All empirical statements are based upon observation and
+
+=== p. 70 ===
+
+          nothing else.
+       b. All empirical statements are based upon some actual
+          observation.
+       c. All empirical statements are based upon some possible
+          observation.
+  2.
+       a. Lying is always wrong.
+       b. Lying is usually wrong.
+       c. Lying is sometimes wrong.
+       d. Lying is never wrong.
+  3.
+       a. Killing is wrong.
+       b. Killing is wrong except to protect one’s own life.
+       c. Killing is wrong except to protect someone’s life from an
+          attacker.
+       d. Killing is wrong except to protect someone’s life from an
+          unfair attack.
+
+Notes
+1 Propositions, statements, and assertions can be true or false, but
+  facts cannot be true or false. Facts are factual; and a proposition
+  that states a fact is true; a proposition that does not state a fact, that
+  is, does not fit the facts, is false. Propositions that allegedly state
+  facts or state alleged facts, but are false are sometimes called “states
+  of affairs” by philosophers. There are two kinds of states of affairs,
+  those that are “realized” – these are the ones that are facts – and
+  those that are not realized – these are the things that make false
+  propositions to be false.
+2 The names of the four types of propositions come from the Latin
+
+=== p. 71 ===
+
+words “affirmo” (“I assert”) and “nego” (“I deny”). These words help
+students who know Latin remember the appropriate place for the
+sentence forms that go in the square.
+

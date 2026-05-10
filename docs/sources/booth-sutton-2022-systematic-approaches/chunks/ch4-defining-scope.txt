@@ -1,0 +1,1140 @@
+=== chunk: booth-sutton-2022-systematic-approaches/ch4-defining-scope ===
+title: Defining Your Scope (PICO, SPIDER, protocols)
+source_pdf: docs/sources/booth-sutton-2022-systematic-approaches/full.pdf
+pdf_pages: 128-158
+page_scheme: book
+plan_page_start: 93
+plan_page_end: 123
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 93 ===
+
+         DEFINING YOUR SCOPE
+
+                 in a nutshell
+
+How to define your review scope
+• A good review begins with an answerable research question. Consider using a framework
+  to structure and define the key concepts of your research.
+• When you set out the aims of your research at the outset, you improve your chances of
+  being successful.
+• When you are clear about what is (and what is not!) within your scope you will find it easier
+  to search the literature and to select appropriate studies.
+• Completing a review protocol when defining your scope makes it easier to plan your review.
+• If you use processes such as descriptive mapping, data mining, concept mapping and logic
+  models to characterise the available literature you are able to refine your review scope and
+  to choose an appropriate review method.
+• When defining your scope you can anticipate and avoid common pitfalls, which could otherwise slow down or derail your review.
+
+                  key terms explained
+
+   complex intervention: intervention with multiple components and/or mediators and
+   moderators of effect. Complex interventions may target multiple participants, groups or
+   organisational levels; require multifaceted adoption, uptake or integration strategies; or
+   work in a dynamic multi-dimensional environment.
+
+=== p. 94 ===
+
+        concept mapping: visual organisation and representation of knowledge that shows concepts and ideas and the relationships among them. You create a concept map by writing
+        keywords (sometimes within shapes, e.g. circles, boxes, triangles, etc.) and then drawing
+        arrows between related ideas.
+
+        logic model: diagram or flowchart that conveys relationships between contextual factors,
+        inputs, processes and outcomes. Logic models are considered valuable in illustrating influential relationships and components from inputs to outcomes.
+
+        PICO(S): mnemonic used to describe the four elements of well-formulated question for
+        a review of effectiveness: Population/Person/Patient/Problem–Intervention–Comparison–
+        Outcome-Study type(s). Compare SPICE for qualitative review questions.
+
+        review protocol: document that formally lays out in advance how you will approach each
+        step of your review process. The review protocol serves to protect against bias, set the
+        rules for the conduct of the review and stake your claim to the topic.
+
+INTRODUCTION
+So, you have an idea for a topic you would like to review. You have an intended audience and
+purpose in mind. But where do you start?
+     You need to make three decisions, all of which are related:
+
+1.     On what specific aspect of the topic will you focus your review?
+2.     What topics and/or types of evidence should you include and exclude?
+3.     What type of review are you going to conduct?
+
+Key factors when deciding your scope are how much resource (time, person power, financial
+resources, expertise) you have available (Pullin et al., 2018). Are you working alone or in a
+team? How much time do you have to complete the review? How much evidence can you
+reasonably manage?
+     This chapter helps you to make informed choices as you plan your review.
+
+Why is defining your scope important?
+Developing your review question is critical to the research process (Thomas et al., 2019) and is
+as important for you as author as it is for future readers of your review.
+     As for any research, when planning a review we benefit from setting objectives that are specific; measurable; achievable; realistic and time-limited (SMART) (as opposed to being vague and
+aspirational) (Alves, 2018). For your review to be useful, your audience must be confident that
+you have answered the question you set out to address and be clear on what you have covered
+as well as what you chose to omit (and why).
+     When you define your scope you set clear boundaries around your topic. You reduce the risk
+of making subjective decisions in deciding what is relevant. Defining your scope also helps you
+
+=== p. 95 ===
+
+to be consistent throughout your review and to ensure that you deliver what you have promised
+to your audience.
+    Typically, you define your scope after an initial estimate of the size and nature of the relevant literature, based on a scoping search (see Chapter 5). A scoping search is less exhaustive than a full, systematic search but helps to estimate how many papers you will have to manage within your review.
+    If you do not undertake a scoping search you may encounter problems later in the review,
+for example:
+
+•     You might over-promise by committing yourself to a review for which you do not have sufficient resources to manage all eligible studies.
+•     You might commit to reviewing a topic for which no evidence exists (or set yourself inclusion
+      criteria which are so restrictive that no studies remain eligible for review) – an ‘empty review’.
+•     You might commit to reviewing a topic in which a high-quality, comprehensive, recent
+      review already exists – making all your hard work redundant.
+
+By scoping your topic properly before writing your protocol, you should have an approximate
+idea of how much literature and what previous reviews exist on similar topics, so that you can
+target a unique ‘niche’ for your own review.
+    Can you realistically answer your research question within a single review? How will you
+know for sure that you have identified all the relevant evidence? Following the example in
+Exercise 4.1 below, try to develop a SMART question for your own review.
+
+    From starter questions to smarter questions
+
+     Starter question                   SMART question
+
+     Example:
+     How can schools reduce their       What initiatives have UK schools successfully used to tackle
+     carbon footprint?                  waste reduction?
+                                                                     Or
+                                        Do sustainability awareness initiatives targeted at
+                                        schoolchildren influence parental behaviours?
+                                                                     Or
+                                        Do ‘walk to school’ campaigns reduce obesity and traffic
+                                        congestion?
+
+     Enter your question:               Enter one or more SMART questions below:
+
+    If you are struggling to make your question SMART, consider Box 4.1 (below).
+
+=== p. 96 ===
+
+      The three elements of defining the scope
+
+         WHO = who is the research question about?
+
+         WHAT = what must I find out to answer the research question?
+
+         HOW = how will the study impact on the ‘who’? (what is the outcome?)
+
+         Adapted from Ibrahim (2008).
+
+In short, defining your scope takes you from:
+
+       ‘I’d quite like to do some research on under-age drinking …’
+
+to:
+
+       ‘I’m going to review the literature on
+
+       the economic and social implications [HOW]
+
+       of school age [WHO]
+
+       drinking [WHAT].’
+
+By clearly setting out the aims of your review from the outset, you plan a route for the journey
+that you will follow for the rest of the process. For example, a good review question can
+inform your literature search, as you will find it easier to identify the key concepts of the
+question and therefore your key search terms (we explore this fully in Chapter 5). A clear review
+question shapes your inclusion criteria (in helping you to select studies) as you will know
+precisely what type of study you are looking for (Stern et al., 2014) – explored within Chapter 6.
+  For now, we offer a brief worked example (Box 4.2).
+
+      Example of a review question informing inclusion criteria
+      Review question: What are the economic and social implications of school-age drinking?
+
+         Inclusion criteria
+
+         Study must include:
+
+         1. Subjects of school age (5–16 years) [WHO].
+         2. Drinking of any alcohol in any quantity [WHAT].
+         3. Economic and/or social implications [HOW].
+
+=== p. 97 ===
+
+When you know approximately how many records your searches are likely to retrieve (and perhaps,
+by screening a sample, can even estimate how many studies you are actually likely to include) you
+can realistically predict how many days your review will take. This helps you to decide whether
+you need to enlist the help of colleagues; to obtain items not available through your library or
+through electronic collections; and to take account of other factors with associated costs. It is
+much better to plan ahead and budget for such costs than to encounter them as a surprise.
+  You should also check for existing reviews on the topic. Do not just look at published
+reviews – check PROSPERO (https://www.crd.york.ac.uk/prospero/) or other study registers for
+protocols of ongoing reviews, to make sure that you are not duplicating effort. If your research
+team identifies another group who are planning a review in a closely related topic, you could
+contact them with a view to possible collaboration. If you are a student you may decide to move
+on to a unique, but related, topic.
+
+   Existing reviews
+   Consider a stepwise approach when including evidence in a rapid review. Start by assessing
+   how far you can get using existing systematic reviews, either using their results or using any
+   studies they have already found. Then move on to higher quality designs for primary studies.
+   Try searching specialist databases of reviews or use search filters and publication type limits
+   for reviews to identify the highest level evidence first.
+
+Defining your scope with your audience in mind
+You need to consider your review audience when defining the scope for your review. Is your
+review question the one that your audience most wants answering? To check, you could consult
+key people with an interest in, or affected by, your review to confirm that your review question
+is appropriate. If your review findings are likely to inform professional practice or to enable
+decision-makers to change policy, contact experts for their input.
+  Where you identify strong commercial, community or professional interest in your review
+findings, you will find it wise to involve key opinion leaders or stakeholders from the outset and
+jointly devise the review question (Harris et al., 2016; Greenhalgh et al., 2019). Numerous examples demonstrate how users can contribute to systematic reviews (Bayliss et al., 2016; Pollock
+et al., 2018). This does not mean that individuals dictate your review findings but does allow
+you to define a review question that is useful for your target audience.
+
+Frameworks for defining your scope
+In deciding your scope, you will find it helpful to identify the key concepts using a question
+framework. One of the most popular question frameworks is ‘PICOS’ (Population; Intervention;
+Comparator; Outcome; Study type).
+
+=== p. 98 ===
+
+The PICOS framework
+The PICOS framework (Table 4.1) was developed within evidence-based medicine to explore
+questions that explore the effectiveness of an intervention, whether related to health or not.
+
+Table 4.1      The elements of PICOS
+
+Population             Who is facing the problem or situation that needs to be addressed? In a
+                       human population, for example, which age, sex, socioeconomic or ethnic
+                       groups are involved? In which countries?
+
+Intervention           How might the problem or situation be tackled? What interventions might
+                       be used and how are those options best described using technical terms, lay
+(or
+                       terms, synonyms and related terms?
+Exposure)
+                       If your topic does not relate to an intervention (i.e. a planned response), you
+                       may find it helpful to replace Intervention with Exposure (an unintentional
+                       occurrence or happening); for example, exposure to air pollution.
+
+Comparison             What is the alternative? You may wish to compare two or more possible
+                       options or exposures to explore which is either most likely to have an
+                       intended effect or most likely to happen. This facet is optional when your
+                       question does not involve comparing options. Remember that comparing
+                       a new option to what is currently done (usual practice) or doing nothing is
+                       equally valid.
+                       So, you may seek information on the relative merits of:
+
+                       •   buses versus trams for urban congestion;
+                       •   natural versus chemical methods of agricultural pest control;
+                       • surgery versus drug treatments for an illness.
+
+Outcome(s)             Another optional facet – what are you trying to achieve or accomplish
+                       (outcomes) and how would you measure or demonstrate that they have
+                       been achieved (outcome measures)? You may find these challenging to
+                       identify. You should make sure that you do not introduce potential bias
+                       to your review by only searching for anticipated or welcome outcomes.
+                       Unexpected or negative outcomes can be equally useful in informing
+                       decision-making.
+
+Study type(s)          What types of study are likely to explore your question? Are some study
+                       types more useful than others because they are more rigorous (hierarchy
+                       of evidence) or more realistic (‘pragmatic’)? If certain study types are more
+                       useful have your scoping searches demonstrated that sufficient rigorously
+                       designed studies exist so that you will not need to include less reliable
+                       study types?
+
+  Table 4.2 offers two worked examples using the PICOS framework. While you will find it helpful to work through the five PICOS facets in relation to these topics, you are unlikely to include
+all five facets within your search strategy. Your search strategy aims to retrieve the essential facets
+(those which – were they absent – would lead you to reject a study) in order to reduce the literature to a manageable size. You can then examine the results you retrieve more closely at the
+screening stage, either skimming or searching within them for additional terms. We will focus
+more on study selection in Chapter 6.
+
+=== p. 99 ===
+
+Table 4.2     Worked examples of PICOS
+
+Example 1: How does integration within mainstream schools impact upon children with learning
+disabilities?
+Population              Intervention        Comparator          Outcome             Study type(s)
+Children with           Integrated          Special education   Educational         Qualitative or
+learning disabilities   education in                            success;            quantitative
+                        mainstream                              psychological       studies
+                        schools                                 well-being
+Example 2: Do free bus passes reduce social isolation in people aged 65 and over?
+People aged 65 and      Free public         None                Reduced social      Qualitative or
+over                    transport                               isolation           quantitative
+
+Other frameworks for defining your scope
+Many frameworks were developed to answer specific types of question. As noted above, PICOS (originally PICO: Population–Intervention–Comparison–Outcome(s)), was developed to answer medical
+queries (Richardson et al., 1995; Munn et al., 2018b). For qualitative questions, you may prefer
+to use SPIDER (Sample–Phenomenon of Interest–Design–Evaluation–Research type – Cooke et al.,
+2012) or SPICE (Setting–Perspective–Intervention/Interest–Comparison–Evaluation – Booth, 2004;
+Butler et al., 2017). An alternative version of PICO, known as Context–Intervention–Mechanisms–
+Outcomes (CIMO) (Box 4.3) may be useful for management or realist synthesis questions (Denyer &
+Tranfield, 2009). A comprehensive list of 38 such frameworks is included in a supplement on framing questions for complex interventions (Booth et al., 2019b). Further advice on framing questions
+is available in Chapters 8 and 9 on qualitative and mixed methods reviews, respectively.
+  However, when conceptual frameworks are translated into practical search strategies they
+may not lead to optimal retrieval. They may retrieve too many (sensitivity/recall) or too few
+(specificity) results (Frandsen et al., 2020). Not all frameworks are suitable for fully comprehensive reviews (Methley et al., 2014; Frandsen et al., 2020). Often, you may find it sufficient to
+search for 2–3 of the most important concepts or facets.
+
+   Context–intervention–mechanisms–outcomes (CIMO) framework
+
+       Context – Which individuals, relationships, institutional settings or wider systems am I
+       studying?
+
+       Intervention – For what event, action or activity am I studying the effects? (As with
+       PICOS, you may be exploring an ‘exposure’ resulting from a change in circumstances
+       rather than a deliberate intervention.)
+
+       Mechanisms – What responses explain how the event, action or activity leads to an
+       effect? Under what circumstances are these responses activated or not activated?
+
+       Outcomes – In what effects of the intervention (planned or unintentional) are you interested?
+       How are such effects measured?
+
+=== p. 100 ===
+
+Example of a focused question using CIMO:
+
+      ‘Under what conditions (C) does leadership style (I) influence how project teams perform (O),
+      and by what mechanisms does leadership style (I) impact on project team performance (O)?’
+      (Denyer & Tranfield, 2009)
+
+Now practise using a framework to focus your research question by completing Exercise 4.2.
+
+    Using a framework to focus your question
+    Choose a framework that best fits your research topic and formulate your own research question. So, if you are using the PICOS model, consider:
+
+       Population
+
+       Intervention or Exposure
+
+       Comparison
+
+       Outcome(s)
+
+       Study type(s)
+
+Complex interventions
+The examples given so far are straightforward and involve simple ‘does this work?’ type questions.
+Review questions are more difficult to define when they involve interventions which are complex
+(Petticrew et al., 2013b) – for example, involving multiple different components or populations.
+    When many variables and forces act upon a situation, it is impossible to be certain that an outcome is a direct result of a single intervention or exposure; you may need to adopt a systems-based
+approach to fully understand the context (Moore et al., 2019; Petticrew et al., 2019). Complex
+interventions can also be investigated using realist methods (involving looking not only at what
+works but also for whom, in what circumstances, and why) (Petticrew, 2015) (see Chapter 9).
+    Interventions are described as ‘complex’ (Guise et al., 2017) if they have:
+
+•     multiple components (intervention complexity)
+•     complicated/multiple causal pathways, feedback loops, synergies and/or mediators and
+      moderators of effect (pathway complexity).
+
+In addition, they may also:
+
+•     target multiple participants/groups/organisational levels (population complexity)
+•     require multifaceted adoption, uptake or integration strategies (implementation complexity)
+•     work in a dynamic multi-dimensional environment (contextual complexity). (Based on
+      Guise et al., 2017)
+
+=== p. 101 ===
+
+With so much written on how to design and how to evaluate complex interventions, this chapter can only go into brief detail and we recommend that you refer to ‘Suggestions for further
+information’ at the end of this chapter.
+  Consider the example intervention below (Box 4.4). We have listed just some of the ways in
+which it could be considered complex.
+
+   Example of a complex intervention
+   Education programmes to teach type 1 diabetic patients how to self-manage their condition
+   effectively:
+
+   • Number of interacting components: lecture-type sessions, small-group role play, diary
+     keeping, discussion of problems/successes amongst group.
+   • Delivery of the intervention: intense week-long course, weekly sessions, online packages.
+   • Change of behaviour in participants, enabling them to increase control of their own condition and integrate effective self-management into their daily lives.
+   • Change in behaviour in health professionals: less ‘do as I say’, more about patient
+     empowerment.
+   • Programme can be tailored to an individual: one-to-one sessions available to discuss specific goals and targets.
+   • Therapist effect: delivered by diabetic nurses or dietitians or peer volunteers trained in
+     delivery of the education programme, personality types.
+   • Outcomes: control of their diabetes, long-term health outcomes (such as heart disease),
+     patient-rated quality of life, time off work, admissions to hospital, health care resource use.
+
+This example illustrates the diverse review questions that you could ask around this topic.
+So how do you begin to define the scope of your review question for this type of complex
+intervention? The PerSPE(c)TiF (Perspective-Setting Phenomenon of interest–Environment–
+comparison–Timing–Findings) question structure has been suggested to elicit relevant elements
+of complex interventions (Booth et al., 2019c).
+  Three issues that relate to complexity might guide how you define your review question
+(Squires et al., 2013), as follows.
+
+What type of question am I asking?
+As with simpler interventions, you should allow your review question to be guided by what you
+or your target audience need to know. Discuss your question widely with colleagues or stakeholders to ensure that it addresses their needs (Squires et al., 2013).
+  Just because an intervention is complex, it does not mean your review question necessarily
+has to adopt a complex perspective or lens (Petticrew et al., 2013a; 2019) – you can choose to
+conduct a straightforward effectiveness review looking at one or more specific outcomes, while
+acknowledging the complexity of the intervention and its context.
+
+=== p. 102 ===
+
+   Focusing on important outcomes
+   If the findings of your rapid review are to influence practice and policy, then you need to
+   select outcomes that are relevant to professionals, policy-makers and the public. Although
+   you would usually try to explore a wide diversity of outcomes in a full systematic review you
+   will need to telescope this list given the time and resource limitations of a rapid review. You
+   should involve your stakeholders in prioritising outcomes.
+
+However, you may decide that you need to know more than whether an intervention is effective
+or not. Perhaps you want to consider why an intervention works (mechanisms of action); identify factors which impact upon its effectiveness; ask whether the intervention is implementable
+in ‘real life’ (see Chapter 9); or explore the theory underpinning the intervention (Petticrew
+et al., 2013a; Squires et al., 2013). Let us consider our exemplar complex intervention again and
+identify some review questions that we might ask (Box 4.5).
+
+   Questions that you could ask in a complex intervention review
+   • Does it work? What is the average effect?
+   • For whom does it work?
+       �   For the individual with type 1 diabetes?
+       �   For particular subgroups within a type 1 diabetic population?
+       �   For family members?
+       �   For wider society?
+
+   •   How does the intervention work?
+   •   Does any theory underpin the education interventions? What is it based on?
+   •   What are the barriers and facilitators of education programmes?
+   •   What are the mechanisms of action and how do they interact with each other?
+
+What issues are manageable within the scope of the review?
+Should I lump or split?
+As seen from our complex intervention example, you may not find it feasible to ask all the
+pertinent questions in a single review. So, you also need to consider what is manageable within
+the time and resources available. It is likely that much of the evidence will be heterogeneous,
+explored within many different study types. To determine how broad the scope of your review
+should be, you need to decide whether to ‘lump’ or ‘split’ (Squires et al., 2013) your review questions in order to present the evidence.
+
+=== p. 103 ===
+
+  ‘Lumpers’ maintain that, unless two interventions act in very different ways, they should be
+included within the same review. Review findings can thus be applied across the widest possible
+range of settings. ‘Splitters’, however, only combine studies that they consider very similar in
+terms of design, setting or intervention characteristics. Splitters either exclude a large number
+of studies or analyse them in multiple separate categories. No single study type or methodological approach can provide all the answers required to model a complex system (Higgins et al.,
+2019; Noyes et al., 2019; Petticrew et al., 2019). Therefore, a mixed methods approach combining quantitative and qualitative data may offer the optimal solution (Petticrew et al., 2019)
+(see Chapter 9).
+  Considering our example again (Box 4.6):
+
+   Lumping or splitting in our example complex intervention review?
+
+   • Could studies looking at an intense five-day education programme be lumped together
+     with studies of a programme which delivers five weekly one-day sessions?
+   • Could studies of programmes delivered by trained diabetes nurses and dietitians be compared with studies reporting a peer-delivered programme?
+   • Could studies reporting the effects of education programmes on patient quality of life be
+     compared with other studies investigating family quality of life?
+
+Thinking about your own review, consider which approach best matches your research topic,
+remembering to take into account the resource implications (Weir et al., 2012).
+
+How will I specify the complex intervention?
+When defining your review question it is important to describe the intervention of interest as precisely as possible so that you know which studies to include in your review. You
+will find it helpful to carry out specific scoping searches to investigate how the intervention is described in the literature (unfortunately, you will often find insufficient detail
+is included in the studies, especially for complex interventions). Often we use a 12-item
+tool named TIDieR (Template for Intervention Description and Replication) to describe
+the components of an intervention (Hoffmann et al., 2014) or our own abridged five-item
+version, labelled ‘TIDieR-Lite’ (by whom, what, where, to what intensity and how often)
+(Chambers et al., 2020).
+  One way to overcome a lack of information about the intervention is to focus your scoping
+searches on secondary study types such as process evaluations, which may provide more
+detail, or to contact authors directly for further information.
+
+=== p. 104 ===
+
+   Exemplar review of complex interventions
+   Crime, fear of crime, environment, and mental health and well-being: mapping review of theories and causal pathways (Lorenc et al., 2012a).
+       Scope of review: The primary aim of the review was to develop an holistic framework on
+   the theoretical links between crime, fear of crime, the environment and health and well-being.
+   Findings outline the broader context in which interventions take place and therefore identify
+   factors which may affect intervention success rate.
+
+Because reviews of complex interventions can involve extra background or investigative work
+when defining your scope, we suggest several tools to assist with the scoping process, the first
+being logic models.
+
+Logic models
+A logic model (also known as an impact model or theory of change model) is a type of concept
+map, originating from programme evaluation. Logic models are widely used in public health
+as summary diagrams of complex interventions, identifying the key components and relationships between inputs, outputs and outcomes (Anderson et al., 2011; Baxter et al., 2014; Rehfuess
+  You can use logic models like the one in Figure 4.1 to clarify and prioritise your review questions when defining your scope. They will help you to understand the complexity of the intervention and ensure that you will explore all contributing elements (Squires et al., 2013).
+
+FURTHER DEFINING YOUR SCOPE
+Once you have broken down your review question into concepts, you need to consider what
+type of review you will undertake; some review methodologies are a better fit than others for
+certain types of question.
+  It is not always realistic to conduct a full ‘Systematic Review’ but you may choose to systema-tise some stages of the process where resources allow and where it strengthens the credibility
+of your review to do so. (For example, when mapping the literature around your topic, you
+will want to show that you have conducted a wide-ranging and thorough literature search, but
+you may choose not to spend time on formal quality assessment of the studies you identify.)
+(See Chapter 6.)
+  An ever-expanding literature has labelled different types of review, categorising them by
+purpose or methodology (often against the benchmark of the conventional systematic review)
+(Munn et al., 2018b; Tricco et al., 2018b). A recent typology of review ‘families’ (traditional
+reviews, rapid reviews, qualitative evidence syntheses, etc.) (Sutton et al., 2019) offers a helpful
+primer. Meanwhile, Chapter 3 of this book offers guidance on choosing a review method appropriate to your topic.
+
+=== p. 105 ===
+
+Figure 4.1    Example of a logic model
+Source: Baxter et al. (2014)
+
+=== p. 106 ===
+
+    The methodology you choose is also influenced by how much literature exists on your topic.
+Typically, you refine and focus your research question through a scoping search. Scoping
+searches are useful ‘to attain a preliminary assessment of the size and scope of research literature
+and to help assess the feasibility of conducting research, including determining whether …
+questions have previously been evaluated, or are up-to-date, and for estimating time frames
+and budgetary considerations’ (Rathbone et al., 2017). You may start with a relatively clear idea
+of the topic that you want to research, and then find that someone else has already comprehensively reviewed it! Be sure to consider the advice we provide in Chapter 2 on the option of
+conducting a review update. Alternatively, you might have a fresh idea for a new topic for your
+review but find insufficient primary research available to answer your review question.
+    By carrying out initial searches of bibliographic databases you can identify where
+the research gaps lie and where a new review is needed. Chapter 5 details how to conduct a
+scoping search.
+    At this stage, once you have some results from a scoping search, you can use other mapping
+techniques to further define the scope of your review question. We have already discussed logic
+models, which although time consuming and resource intensive are nevertheless useful, particularly for complex reviews. Other mapping processes such as descriptive mapping, data
+mining or text mining and concept mapping help to make sense of the quantity and
+characteristics of the literature. In this section we outline these tools with examples and links to
+resources, where available, that you could use to scope or to map the literature.
+
+Descriptive mapping
+Descriptive mapping is used to define a body of literature on a given topic, by allocating keywords to the studies found. Classifying the literature in this way can help to determine what
+research has been previously carried out as well as to identify research gaps. Organisations such
+as the EPPI-Centre have devised purpose-specific sets of keywords (EPPI-Centre, 2003) but you
+may prefer to devise your own keywords tailored to the purposes of your own review.
+    Having assigned keywords describing the main intervention for each included study, you
+present your results as a descriptive map or table.
+    We will revisit the exemplar systematic mapping review below (Table 4.3) several times
+throughout this book. The review aimed to identify and map the effectiveness of interventions
+to promote physical activity with children in specialist schools (Emonson et al., 2019). The
+authors categorised interventions by:
+
+•     type (e.g. dance/drama, games/play, motor activities, running, stretching, swimming and
+      ‘other’)
+•     duration, where and by whom they are delivered, and
+•     outcomes measured (e.g. academic, behavioural, cognitive, physical, psychological, social
+      or ‘other’).
+
+Free text fields added detail where required (e.g. a brief description of the interventions). As
+this was a mapping review, the map becomes an output in its own right – but for whatever
+type of review you are planning, descriptive mapping can help you to finalise the criteria that
+locate certain studies within or outside your review scope.
+
+=== p. 107 ===
+
+Table 4.3     Extract from a descriptive map categorising physical activity interventions used in schools
+
+Author (Year)          Program Category   Program Description                  Program Duration        Delivered by    Location          Category(ies)
+Bothma, Dunn &         Motor activities   The Wired to Learn program           15–25 min session       Researchers     School room       Other; Physical;
+Kokot (2014)                              consists of 10 main activities.      once per day (5                         (school clinic)   Social;
+                                          Children learn and continue to       times per week) for                                       Cognitive
+                                          practise the first movement          14 weeks
+                                          activity until they can do it with
+                                          ease then proceed through the
+                                          movement activities in order.
+Bruce, Fasy, Gulick,   Stretching         Among many components,               Yoga components         The classroom   The classroom     No outcomes
+Jones and Pike                            stretching and yoga have been        lasted no longer        teacher                           evaluated
+(2006)                                    included in Morning Circle           than 10 min. Other
+                                          meetings. The stretching             stretching activities
+                                          component involved imitating         were less than 10
+                                          the teacher. The yoga                min.
+                                          component consisted of students
+                                          taking turns to select a yoga
+                                          position and everyone imitating
+                                          the position depicted.
+Carnahan, Musti-Rao    Dance/drama        A 30 min class group activity        Every school            The classroom   The classroom     Not applicable
+and Bailey (2009)                         which consists of peer greetings,    day for 8 weeks.        teacher
+                                          a calendar activity, a picture       The duration of
+                                          book activity and a movement/        the movement
+                                          dancing activity. The movement       component
+                                          or dancing time included             specifically is
+                                          activities such as the Hokey         unclear.
+                                          Pokey and YMCA.
+
+=== p. 108 ===
+
+Author (Year)             Program Category         Program Description                      Program Duration          Delivered by            Location             Category(ies)
+Davis, Zhang and          Motor activities         The Motivate, Adapt, and                 A 30 min session          Classroom               Not reported         Physical
+Hodson (2011)                                      Play program. Each 30min                 every school day for      teacher 3 times
+                          Games/play
+                                                   session consisted of a warm              8 weeks.                  a week. Graduate
+                                                   up, cardiovascular activities,                                     students twice a
+                                                   strength activities and a                                          week.
+                                                   flexibility/closure activity. Tasks
+                                                   were presented in a game-style
+                                                   format that is appropriate and
+                                                   motivating for students with
+                                                   intellectual disabilities.
+Dickinson and Place       Games/play               Mario & Sonic at the Olympic             A 15 min session, 3       Other (school           School room          Social Other
+(2016)                                             Games on the Nintendo (Kyoto,            times per week for 9      staff)                  (where PE would
+                                                   Japan) Wii™. Children were               months.                                           normally take
+                                                   able to choose to play athletics,                                                          place)
+                                                   aquatics, fencing or table tennis
+                                                   games electronically using the
+                                                   motion sensor of the Wii console
+                                                   remote.
+Source: Based on extract from a map from Emonson C, McGillivray J, Kothe EJ, Rinehart N & Papadopoulos N (2019). Citations in the table above are to primary studies cited in this
+mapping review.
+
+=== p. 109 ===
+
+Data mining and automation
+Data mining refers to analysing data to identify patterns and correlations. When the data
+being analysed is textual, it is referred to as text mining. Both terms are closely linked with
+the broader concept of artificial intelligence.
+    Data mining takes place behind many websites that we use each day; examples include per-sonalised Google results based on your search history, or algorithms defining which advertisements or posts you see on social media sites.
+    In the above examples, the data (on our behaviour) is collected by third parties and we have little control over how it is used; however, we can actively employ similar technology in the review
+process.
+    For example, when defining your scope you may find that your scoping search returns large
+numbers of citations. We look at study selection in more depth in Chapter 6 but several software
+tools rank results according to likely relevance (Waffenschmidt et al., 2018; O’Mara-Eves et al.,
+2015). Result sets may be generated by text mining (recognising patterns in the results) (Thomas
+et al., 2011; Shemilt et al., 2014) and/or machine learning (recognising patterns in decisions made by a user). Once the software has ‘learned’ from sufficient examples, it predicts how
+many more results are worth screening manually. Tools include Rayyan (Ouzzani et al., 2016),
+Abstrackr and EPPI-Reviewer Web (Tsou et al., 2020).
+    An excellent White Paper summarises the applications of text mining within systematic
+reviews (Glanville & Wood, 2018).
+
+Concept mapping
+Concept mapping (sometimes known as mind mapping or occasionally idea webbing)
+involves visualising your research topic and observing the connections between its different
+aspects. You may find it helpful when defining your scope, especially if you are visually minded.
+    Benefits from using concept maps when planning a literature review include (Rowley & Slack, 2004):
+
+•     identifying key concepts on a research topic;
+•     identifying additional search terms;
+•     clarifying thinking about the structure of the literature review;
+•     understanding theory, concepts and the relationships between them.
+
+Concept analysis
+If your preliminary sensitisation to the literature in your topic reveals a lack of clarity around
+one or more key concepts, you could undertake a concept analysis to gain a better understanding. Concept analysis has been used in several disciplines but is best established in the field of
+nursing. Our guidance is based on the model developed by Walker and Avant (2010). Concept
+analysis seeks to define and clarify a concept through examples of its usage in the available
+literature, and works well for wide-ranging questions and terminology which may be used in
+a variety of ways. Concept analysis involves naming a concept of interest (and the purpose for
+which analysis is being conducted), before going on to identify all the situations in which it
+may be used – its defining attributes and its ‘surrogate terms’. It establishes its antecedents and
+consequences (the context before and after it is used) and constructs a ‘model case’, before looking for
+
+=== p. 110 ===
+
+Figure 4.2    Example of a concept map
+Source: Booth et al. (2008)
+
+=== p. 111 ===
+
+ways in which it might be measured. Concept analysis may be more feasible for new or emerging topics than those which already have an extensive and diverse literature. Where too many
+publications exist for you to review them all, beware of selection bias.
+
+At a glance – concept analysis
+Definition
+A concept analysis can be defined as ‘the dissection of a concept into simpler elements to promote clarity’ (Foley & Davis, 2017). The aim is to ‘unpack’ an abstract idea into a tangible
+concept; a concept analysis may be a publishable output and an end in itself; or it might be a
+stage in preparing or scoping another type of review project.
+
+   At a glance
+
+      Reviewer expertise		                 
+
+      Information expertise 		             
+
+      Time 				
+
+      Resources			£
+
+Overview of process
+Typically, a concept analysis requires eight steps broadly corresponding to the SALSA framework
+(Walker & Avant, 2010) (Table 4.4).
+
+SALSA
+
+Table 4.4    Eight steps of a concept analysis
+
+                  1. Select a concept             Identify the concept that will be the focus of
+                                                  study
+
+                  2. Determine the purpose of     Answer the vital question ‘Why am I doing this
+                     the analysis                 analysis?’ (e.g. to clarify a concept, to identify
+                                                  boundaries or domains, to develop a definition)
+Search            3. Identify all uses of the     Search different disciplines and sources to see
+                     concept                      how the concept has been used
+Appraisal         4. Determine the defining       Identify those essential individual and collective
+                     attributes                   characteristics that uniquely define the concept
+                  5. Construct a model case       Demonstrate how an exemplar that possesses
+                                                  all the attributes would look in real life
+                  6. Construct a borderline and   Demonstrate what a real-life occurrence of a
+                     contrary case                case that only marginally fulfils the attributes
+                                                  and an ‘exception that proves the rule’ look like
+
+=== p. 112 ===
+
+Synthesis            7. Identify antecedents and     Antecedents are events that must occur
+                        consequences                 prior to the manifestation of a concept, and
+                                                     consequences are events that occur as a result
+                                                     of it
+Analysis             8. Define empirical referents   Identify elements of a phenomenon that by
+                                                     their existence or presence demonstrate
+                                                     where a concept occurs and make it
+                                                     measurable
+Source: Walker & Avant (2010)
+
+      Example of concept analysis
+      Using Walker and Avant’s strategy, Sharifi et al. (2019) conducted a concept analysis of
+      cultural competence in nursing. The authors reviewed 43 articles and identified six defining attributes of cultural competence: cultural awareness, cultural knowledge, cultural
+      sensitivity, cultural skill, cultural proficiency and dynamicity. They identified the antecedents as cultural diversity, cultural encounter and interaction, cultural desire, cultural
+      humility, general humanistic competencies, educational preparation and organisational
+      support. They also identified the consequences of cultural competence for those giving
+      and receiving nursing care. By exploring the scope of the concept and its broader context, the authors developed a theoretical definition and a conceptual model of cultural
+      competence which could be used for the purpose of planning services, education and
+      further research.
+
+TOOLBOX – DEFINING YOUR SCOPE
+Tools for data mining
+
+      PubReMiner provides an alternative, text-mining based interface to the PubMed database.
+      Rather than simply presenting a list of results, it highlights prominent authors and publications, as well as frequently occurring terms for inclusion in your search strategy.
+
+      VOSViewer is a visualisation tool which uses text mining to identify common phrases
+      occurring in a body of text (e.g. a set of search results). It can then display the frequency
+      and proximity of these terms to each other as ‘heat maps’ allowing you to observe recurring
+      themes within your results.
+
+=== p. 113 ===
+
+Figure 4.3 Example ‘heat map’ visualising themes in a collection of reviews of well-being.
+Produced using VOSViewer (vosviewer.com)
+
+We selected the above examples as illustrative of scoping. The Systematic Review (SR) Toolbox
+(http://www.systematicreviewtools.com/) provides a searchable online catalogue of tools for use
+throughout the review process.
+
+    The Systematic Review (SR) Toolbox
+    Access the Systematic Review (SR) Toolbox (http://systematicreviewtools.com/). The SR
+    Toolbox provides a searchable online catalogue of tools to support systematic reviews. Browse
+    through the menu of stages of the systematic review and select one stage. Browse through
+    the list of tools for your chosen stage. Which tools are free and which require a subscription or
+    one-off payment? What appears to be the added value of one of the tools requiring payment
+    over its open access alternatives?
+
+Tools for concept mapping
+You can use free mind-mapping software to construct a concept map, including:
+
+•    FreeMind/Freeplane
+•    Docear (formerly SciPlore) (note this software is compatible with reference management
+     software, such as Mendeley)
+•    XMind.
+
+=== p. 114 ===
+
+DEFINING YOUR SCOPE: CHALLENGES AND PITFALLS
+As with any stage of a literature review, certain challenges and pitfalls occur when defining your
+scope. These range from minor ‘nuisance’ complications, such as identifying duplicate and/or
+multiple citations, to substantive challenges such as deciding which types of studies to include
+or exclude and how to assess their quality (Kennedy, 2007). In this section, we identify common
+problems when defining the scope for your own projects.
+
+How wide do I go? (Sampling approaches)
+A common challenge when defining your scope relates to knowing ‘when to stop’. Debate cen-tres on whether you should aim for comprehensiveness (in quantitative terms), theoretical
+saturation (in qualitative terms) or a ‘representative’ approach. Alternatively, you might aim
+to cover key ‘pivotal’ works in your chosen topic (as for a meta-narrative review or a concept
+analysis). Whichever approach you choose, and your choice may be influenced by the time
+and resources available, you should be explicit in your methods so that the reader is fully aware
+of the scope of your review, and the criteria for selection and relevance (Bruce, 2001).
+  The type of review you choose will help you to define your scope, as reviews differ in the
+extent to which they use and report systematic methods. Table 4.5 outlines three review types
+(scoping, mapping, systematic) and their respective purposes. For each review type the table
+provides an illustrative example together with details of the scope covered.
+
+Table 4.5   Types of review: scope
+
+Type of review        Purpose                             Example
+Scoping review        To find out how much                Kelly et al. (2018)
+                      literature exists                   This scoping review aimed to identify and
+                      To find out the characteristics     present evidence on the benefits of walking,
+                      of the literature                   to establish what is known and what remains
+                                                          unknown about the relationship to eight
+                                                          specific mental health outcomes
+Mapping review        Aims to explore the                 Emonson et al. (2019)
+                      characteristics of a body of        This review aimed to identify and map
+                      literature within a topic area to   class-time physical activity programmes
+                      identify which questions have       as implemented in specialist schools
+                      already been addressed and          and classes. Included programmes were
+                      where research or synthesis         identified through searches of grey and
+                      gaps remain                         published literature and narratively
+                                                          synthesised by activity type. Identified a
+                                                          need for further research to extend the
+                                                          evidence base.
+Systematic review     Aims to be comprehensive            (Fuller et al., 2019)
+                      Scope should be well defined        Examined the impact of national parks and
+                      and clearly stated                  other conservation initiatives on leakages
+                                                          and spillovers into neighbouring areas. The
+                      Systematic reviews tend to
+                                                          authors followed discipline-specific guidance
+                      focus on the highest quality
+                                                          to produce their protocol
+                      evidence available
+
+=== p. 115 ===
+
+Table 4.6    SALSA stages of a mapping, scoping and systematic review
+
+                 Definition                          Preliminary              Search                Appraisal                  Synthesis           Analysis
+Mapping review   A broad exploration of the          (1) Define overall       (2) Systematically    (3) Assess scope of        (5) Construct the   Either performed by
+                 characteristics of a body of        question of interest,    search and screen     each item of evidence      evidence review     review team or simply
+                 literature within a topic area to   construct series of      for relevant          against questions          map(s)              presents descriptive data
+                 identify which questions have       more refined questions   evidence              defined in step 1;                             for interpretation by
+                 already been addressed and          for key aspects of the                                                                        review customer
+                                                                                                    (4) Optional: critically
+                 where research or synthesis         overall question, and                          appraise methods of
+                 gaps remain                         then design search                             each item of evidence
+                                                     strategy                                       review using a
+                                                                                                    standardised tool
+Scoping review   A preliminary written               (1) Identifying the      (2) Identifying       Not usually included       (4) Charting the    (5) Collating,
+                 assessment of the potential         research question        relevant studies/                                data                summarising and
+                 size and scope of available                                  sources                                                              reporting results
+                 research literature on a specific                            (3) Study selection                                                  (6) Consultation
+                 topic with a view to identifying
+                 where exactly a future research
+                 or synthesis study should be
+                 targeted
+Systematic       A type of research synthesis,       Produce a review         Conduct a thorough    Appraise the quality       Synthesise          Report what is known
+review           typically conducted by review       protocol                 search                of studies                 studies             and not known
+                 groups with specialised skills,
+                                                     Assemble a review        Select relevant       Extract information                            Inform research, policy
+                 who set out to identify and
+                                                     group                    studies               from individual                                and practice
+                 retrieve evidence relevant
+                 to a particular question or         Formulate the
+                 questions and to appraise           question(s)
+                 and synthesise the results of
+                 this search to inform practice,
+                 policy and in some cases,
+                 further research
+
+=== p. 116 ===
+
+     Many researchers find the terms ‘mapping’ and ‘scoping’ confusing as they are often used
+interchangeably. To avoid ambiguity, we consider that scoping aims to establish the size of
+the literature and the boundaries of a review topic (whether to produce a scoping review as an
+output in its own right or in preparing a substantive review). In contrast, mapping provides an
+overview of a topic, typically classifying identified evidence, to identify opportunities and gaps.
+Some commentators propose a three-stage process for all systematic reviews involving mapping
+(to identify opportunities for a systematic review), scoping (to set the boundaries and limits of
+the review) and then, finally, the systematic review itself ( Rebelo Da Silva et al., 2017; Chambers
+     For comparison, Table 4.6 presents key stages of each of these review types.
+
+How narrow can I stay? (Scope creep)
+A major problem in the literature review process is scope creep: uncontrolled changes over
+time to your review aims, direction, scale and/or timescale and, more specifically, the gradual
+unchecked expansion of the review objectives. Scope creep can occur at any point during the
+review process, particularly when you are searching the literature. You should constantly refer to
+your original scope to ensure that your project does not go off track. A common tension exists
+between what is interesting and what is useful – references may catch your attention, but may
+not be directly relevant to your research question. Of course, you may face having to amend your
+original scope. You can manage this using a changes clause (Matchar et al., 2006), which is particularly important when working on official contracts and/or as part of a wider research team.
+
+THE REVIEW PROTOCOL
+Once you have defined your review scope, you can start writing the review protocol. As with any
+research project, you need to plan your literature review carefully (see Chapter 2). Your protocol
+should lay out in advance how you will approach each step of your review process.
+     The review protocol has three main functions:
+
+1.     Protection against bias – by clearly describing your methods you are ensuring rigour and
+       minimising the risk of being subjective or otherwise inconsistent in your judgement.
+2.     Setting the rules for the conduct of the review – this is particularly useful when working
+       within a wider project team. Agreeing a protocol ensures that everyone follows the same procedure. If everyone sticks to what they said they would do, the protocol, with tense changed from
+       the future to past tense, becomes the first time-saving contribution to your final report!
+3.     Staking your claim to the topic – this is particularly important if you plan to publish your review.
+
+When review authors publish in advance a review protocol that they have written prior to examining in detail the available studies, this:
+
+      reduces the impact of review authors’ biases, promotes transparency of methods and processes, reduces the potential for duplication, allows peer review of the planned methods before
+      they have been completed, and offers an opportunity for the review team to plan resources
+      and logistics for undertaking the review itself. (Lasserson et al., 2021)
+
+=== p. 117 ===
+
+The main components of a protocol are shown in Box 4.10.
+
+   Components of a protocol
+   • Administrative information (review title, contacts, funding details)
+   • Introduction (rationale, objectives)
+   • Methods
+      �   for identifying evidence (including search strategy and inclusion criteria)
+      �   for selecting studies (e.g. two independent reviewers)
+      �   for data extraction (including any processes for checking accuracy)
+      �   for assessing risk of bias in individual studies
+   • Approach to data synthesis (including details of planned meta-analysis or subgroup
+     analyses)
+   • Approach to evaluation of the strength of the body of evidence
+   • Timeline for completing your review
+      based on Preferred reporting items for systematic review and meta-analysis protocols
+      (PRISMA-P) (Moher et al., 2015).
+
+Examples of review protocols
+Examine and compare the examples in Table 4.7 (or search for review protocols from your own
+discipline) to see how different review protocols are presented.
+
+Table 4.7 Review protocol examples
+
+Example A – a systematic       Jackson J et al. (2020) Early childhood education and care-based
+review protocol                healthy eating interventions for improving child diet: a systematic
+                               review protocol. Systematic Reviews, 9: 181. https://doi.org/10.1186/
+                               s13643-020-01440-4
+                               (also registered at PROSPERO https://www.crd.york.ac.uk/prospero)
+Example B – a scoping          Naidoo K & van Wyk J (2019) Protocol for a scoping review of age-review protocol                related health conditions among geriatric populations in sub-Saharan
+                               Africa. Systematic Reviews, 8: 133. https://doi.org/10.1186/s13643-0191055-z
+                               Protocol published in Systematic Reviews
+Example C – a mapping          Reisch L. et al. (2019) Mitigating climate change in food consumption
+review protocol                and food waste: a systematic map of behavioural interventions –a
+                               systematic map protocol.
+                               Protocol registered with the Center for Open Science:
+                               https://osf.io/3cje4/?view_only=7a3062f2b5c6400692112bbd139d0
+                               8a8
+
+=== p. 118 ===
+
+  Further advice on qualitative and mixed methods protocols is found in Chapters 8 and 9.
+
+      Examining a review protocol
+      Using the review protocols from Table 4.6, or an example that you have identified yourself,
+      consider:
+
+      1. What sources will be searched; would any of these sources be relevant to my topic?
+      2. What methodological papers do the authors cite that I might use in my own review?
+      3. What other decisions specified in the review protocol do I still need to make for my review?
+         (Some decisions relate to stages of the review covered later in this book.)
+
+      Now consider your own review and begin to fill in the review protocol template in Exercise 4.4.
+
+      The review protocol template
+      Start to fill in the blank version of the review protocol template (see Exercise 4.4 on
+      the companion website)) for your own review. Table 4.8 provides further information on
+      which sort of information to include within each section in the review protocol template.
+      You may find that you are only able to complete the first few sections at this stage. As
+      you work through the remaining chapters of this book, you can add to each section of the
+      template, ultimately to create a complete protocol. You will find it helpful to follow the
+      Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P)
+      (Moher et al., 2015).
+
+      Table 4.8     Instructions for completing the review protocol template
+
+      Background
+      Your background should set the context for your review, introducing the reader to your topic,
+      without needing specialist knowledge to understand the topic of research. You may include
+      relevant current statistics and previous research, highlighting the importance of your review
+      Objectives
+      Here you should outline the aims of your review and the research question(s) you are
+      attempting to answer
+      Criteria for inclusion and exclusion of studies
+      In this section, you should record how you will decide which studies to include and which
+      to exclude. You will find it helpful to define eligibility by key concepts such as study design,
+      population, intervention, etc., as below
+
+=== p. 119 ===
+
+Types of studies
+Which types of study design(s) are you going to include/exclude? For example, randomised
+controlled studies, cohort studies, qualitative studies? surveys?
+Types of populations
+Revisit your focused question and record the type(s) of population you are going to include/exclude
+Types of interventions or exposure
+Revisit your focused question and record the type(s) of intervention(s)/exposure(s) you are
+going to include/exclude
+Types of outcome measures
+Revisit your focused question and record the type(s) of outcome you are going to include/
+exclude. If you have a broad outcome such as whether an intervention is ‘effective’, you may
+want to define this further here. For example, in the question
+‘Is e-learning effective in teaching undergraduate students information literacy skills?’ you may
+define effectiveness in terms of assignment marks and you would exclude any studies that did
+not measure this outcome. (Note that it is possible to look at more than one outcome here)
+Setting/context (where applicable)
+If your research question applies to a particular setting or context, record which you will
+include/exclude here. For example, if you are only interested in studies taking place in a
+particular country, you can exclude studies from other countries. However, please be aware
+that this may limit your review too much, so you may also have to look at any comparable
+settings – for example, Europe rather than the UK
+Search strategy for identification of studies (see Chapter 5 for more details)
+Record your methodology for finding studies:
+•   Electronic databases to be used – which sources will you search?
+•   Other search methods – such as browsing electronic tables of contents and websites,
+    reference checking, citation searching, etc.
+•   Keywords and sample search strategy – here you should include initial ideas for search
+    terms. You may also find it useful to provide an example search strategy from any scoping
+    searches you have done
+Method of review (see Chapter 6)
+•   Remember to include who will select studies and how they will do so. For example, if you
+    are working within a project team you should state which project team members will select
+    the studies and how any disagreements will be resolved. If you are conducting all aspects
+    of the review single-handedly, record that you will be selecting the studies. You may find
+    it useful to record the process you will follow here – such as title sift, abstract sift, full-text
+    sift, etc. (see Chapter 6 for further details)
+Assessment of methodological quality (see Chapter 6)
+•   Here you record how you will assess the methodological quality of your included studies.
+    Remember to include details of any specific checklists that you will use
+Data extraction (see Chapters 7–9)
+•   What data will you extract (variables, themes, etc.)? If you plan to use/adapt an existing
+    data extraction form you should record the details here. If you plan to design your own,
+    state this intention here.
+
+=== p. 120 ===
+
+   Data synthesis (see Chapters 7–9)
+   •   What will your data look like – qualitative or quantitative or a combination?
+   •   How will you synthesise it – will you use narrative synthesis, thematic synthesis or some
+       other method? Tables, figures or as text?
+   Timeframe (see Chapter 2)
+   List the stages of the review and outline how long each stage will take. This will help you set
+   milestones by which you can assess your progress
+
+   Task                                               Timescale
+   Literature search
+   Data extraction
+   Data synthesis
+   Writing-up review
+   You may find it helpful to construct a Gantt chart if several stages will take place concurrently,
+   or depend on each other. Software such as Microsoft Project can help with this; other people
+   use Excel. Free open source tools are also available (e.g. GanttProject)
+
+   Documenting your protocol
+   You should precede all rapid reviews with a protocol submitted to, and agreed with, the commissioner of the review; this protocol should be published (e.g. PROSPERO or Open Science
+   Framework). The protocol document becomes correspondingly more, rather than less, important, given the limited time to surface expectations and conduct the review. The protocol
+   should accommodate and document all post hoc changes to the protocol (eligibility criteria
+   etc.) within an efficient and iterative process.
+
+SUMMARY
+By defining your review scope you provide a solid foundation for your subsequent review.
+You may find it useful to use a published framework for formulating your research question.
+Conducting a scoping search can help you to assess if your review is feasible, both in terms of
+uniqueness (are there existing reviews in your topic?) and in terms of the size and characteristics
+of the evidence base.
+  Consider mapping the literature identified in your scoping search. Various tools and
+approaches can assist with this, including logic models, data mining and concept mapping.
+
+=== p. 121 ===
+
+  Consider whether you aim to be comprehensive or selective – this will be informed by the
+literature and the type of review that you choose to undertake.
+  Beware of scope creep, where items of interest distract from the original aim of your review.
+You can avoid scope creep by drawing up a review protocol at the outset and following it during
+your decision-making, particularly when you implement inclusion and exclusion criteria. If you
+need to change the scope of your review you can manage this by including a changes clause
+in your protocol.
+
+                     key learning points
+
+   • Formulate your research question using a published framework (such as PICOS) where
+     possible.
+   • When defining the scope of your review think carefully about what your audience will
+     expect and need.
+   • Conduct a scoping search on key databases to identify the literature available.
+   • Consider mapping the literature using a tool such as a logic model or similar.
+   • Beware of the challenges and pitfalls, such as scope creep.
+   • Complete a review protocol with planned milestones before you start on your review.
+
+                     frequently asked questions (FAQs)
+
+   FAQ 4.1 None of the frameworks fit my question. How can I formulate my
+   research idea?
+   Not every question suits the frameworks covered here. Even if your question does fit a framework, you may choose to omit one or more facets. The important thing is to break down
+   your research question into discrete concepts which you can clearly define and translate into
+   meaningful search terms.
+
+   FAQ 4.2 With so much literature in my review topic, how can I review it
+   systematically?
+   If you find more literature than you can realistically review, you can either narrow your focus
+   (e.g. look at a more specific type of intervention, or population) or place restrictions on the
+   type of evidence you will include. For example, you may apply limits by date, by study type, geographical coverage, or similar. Make sure that you clearly record all your decisions and that you
+   are aware of potential biases. Consider the time taken for each stage of the process (not just
+   screening but also quality assessment and data extraction) to decide what is feasible. Consider
+   whether text mining or data mining might assist you with the study screening process.
+
+   FAQ 4.3 My research question is actually four or five questions, is this a
+   problem?
+   Given the variety of possible questions that you might like to ask when defining your review
+   scope you need to limit these to what is manageable and answerable. You will otherwise
+
+=== p. 122 ===
+
+   discover the hard way that it is not possible to answer all the questions. Consider using a
+   logic model to prioritise your research question. Time spent planning at the beginning of your
+   review is time well spent to avoid tackling an unanswerable question. You may also want to
+   explore Chapter 9 on using a mixed methods review to answer related quantitative and qualitative questions (e.g. the effectiveness, acceptability and implementation of intervention X
+   compared with intervention Y).
+
+   FAQ 4.4 I had identified a defined question but my scoping search identified
+   nothing on this topic, what shall I do?
+   You may need to modify your topic by expanding one or more of your concepts (do this one
+   step at a time, so you can assess the impact of expanding each concept), or consider relaxing your inclusion criteria. Defining your research question is iterative. It is not uncommon to
+   have to adjust your scope. It is better to adjust your scope early on than to get too far into the
+   review process before realising that your question is not answerable.
+
+   FAQ 4.5 Is it really necessary to formally complete the review protocol?
+   Yes, your review will benefit greatly from having a formal review protocol. It serves as a document to which you can constantly refer to keep your review on track. The review protocol is
+   particularly useful when working within a larger review team as it ensures that you all follow
+   the same review recipe. In addition, a well-written review protocol assists when writing the
+   methodology section of your review – if you have achieved what you said you would do, you
+   should simply be able to change the future tense into the past tense.
+
+   FAQ 4.6 When is it appropriate to change my review scope?
+   You may have multiple valid reasons for changing the scope during your review. Spending
+   time planning and scoping before you start reduces the risk of having to change, but sometimes change is inevitable due to resourcing, funding or scheduling issues. By conducting a
+   scoping search you should become familiar with the literature, reducing the likelihood that
+   you will need to change direction further down the line. You should also ensure that no recent
+   review exists on your topic (remember to check PROSPERO, and other systematic review
+   registers, for similar reviews which are already underway).
+
+Get more hands-on guidance!
+Visit https://study.sagepub.com/booth3e for downloadable versions of the exercises, as well as
+some suggested answers. You can also access a glossary, literature review templates, source trackers,
+and a collated list of online tools to help you put together a successful literature review.
+
+                      suggestions for further information
+
+   Johnson BT & Hennessy EA (2019) Systematic reviews and meta-analyses in the health sciences: best practice methods for research syntheses. Social Science & Medicine, 233:
+      237–51. Available from: http://dx.doi.org/10.1016/j.socscimed.2019.05.035
+
+=== p. 123 ===
+
+Expanding on the PRISMA standards, the authors recommend further methodological considerations to be taken into account at each stage of the review process summarised in the
+acronym TOPICS-M (Time–Outcomes–Population–Intervention–Context–Study design and
+Moderators).
+
+Petticrew M, Anderson L, Elder R, Grimshaw J, Hopkins D, Hahn R, Krause L, Kristjansson E,
+   Mercer S, Sipe T, Tugwell P, Ueffing E, Waters E & Welch V (2013) Complex interventions
+   and their implications for systematic reviews: a pragmatic approach. Journal of Clinical
+   Epidemiology, 66(11): 1209–14.
+A practical approach to undertaking systematic reviews of complex interventions, including
+clarifying the review question, implications for inclusion criteria, and approaches to synthesis
+of multiple outcomes.
+
+Petticrew M, Knai C, Thomas J, Rehfuess EA, Noyes J, Gerhardus A, Grimshaw JM, Rutter
+    H & McGill E (2019) Implications of a complexity perspective for systematic reviews and
+    guideline development in health decision making. British Medical Journal Global Health,
+    4 (Suppl. 1).
+Paper, commissioned by the World Health Organization (WHO), which considers the benefits
+of, and challenges associated with, complex systems-based approaches to systematic reviews.
+
+Rowley J & Slack F (2004) Conducting a literature review. Management Research News,
+   27(4): 31–9.
+Definitive section on developing conceptual frameworks and mind mapping.
+
+Stern C, Jordan Z & McArthur A (2014) Developing the review question and inclusion criteria.
+   AJN The American Journal of Nursing, 114(4): 53–6.
+Part of an introductory series from the Joanna Briggs Institute aimed at nurses, this article
+discusses how to develop a research question and define inclusion criteria for a systematic
+review.
+

@@ -1,0 +1,636 @@
+=== chunk: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch7-fallacies-1 ===
+title: Fallacies (1)
+source_pdf: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.ocr.pdf
+pdf_pages: 124-141
+page_scheme: book
+plan_page_start: 109
+plan_page_end: 126
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 109 ===
+
+                                    /
+                      Fallacies (1)
+
+                                   &
+
+ESSENTIALS
+
+               hen evaluating argumentative discourse, fallacies in the discourse must be detected. Fallacies are violations of the rules
+               for critical discussion that prevent or hinder the resolution
+ofa difference of opinion. They can occur during any of the discussion stages
+and can be committed by either party. In the presentation of standpoints and
+arguments, the following moves are among the fallacies that may threaten
+the resolution process: (1) putting the opponent under pressure or attacking
+him personally (violation of freedom rule), (2) evading or shifting the burden of proof (violation of burden-of-proof rule), (3) setting up a straw man
+(violation of standpoint rule), (4) using irrelevant argumentation or rhetorical tricks (violation of relevance rule), and (5) denying or magnifying an
+unexpressed premise (violation of unexpressed premise rule).
+
+7.1   VIOLATIONS OF THE FREEDOM RULE
+
+There are a variety of ways in which parties to a difference of opinion
+can make resolution difficult or even impossible. This can happen
+during any stage of the discussion. Parties do not always do this on
+
+=== p. 110 ===
+
+purpose. But each way of impeding the progress of the discussion
+constitutes a violation of the discussion rules that must be followed
+in order to successfully resolve a difference of opinion. Such violations of the discussion rules are known as fallacies.
+  Violations are often difficult to spot. That is what is so treacherous
+about fallacies. Strictly speaking, there can be a fallacy in discourse
+only if the discourse is argumentative in nature, that is, if it is an attempt to resolve a difference of opinion. But not every discussion is
+argumentative; a discussion may be purely informative or be intended to entertain. In case of doubt, it is advisable to treat a discourse as an argumentative discussion and assume that both parties
+are willing to work toward a resolution of their difference of opinion
+and will follow the rules for doing this.
+  There are 10 rules that apply specifically to argumentative discussions. The first 5 rules pertain to how parties should put forward
+their standpoints and arguments in order to work constructively toward a resolution of the difference of opinion. These rules are discussed in this chapter. The other 5 rules pertain to the argumentation
+and the conclusion of the discussion. These rules are discussed in
+chapter 8. Although observing these 10 rules does not guarantee that
+the difference of opinion will be satisfactorily resolved, violating
+them will surely prevent such a resolution. Fallacies can be identified
+by referring to these rules.
+
+Rule 1: Parties Must Not Prevent Each Other From Putting
+Forward Standpoints or Casting Doubt on Standpoints
+
+A difference of opinion can be satisfactorily resolved only if it is first
+brought to light. To avoid interfering with this process, parties to a
+discussion must give each other unlimited freedom to put forward
+and to criticize standpoints and arguments. This requirement is
+stated in Rule 1.
+  Violations of Rule 1 sometimes occur during the confrontation
+stage. The result is that the difference of opinion does not come to
+light, or not completely, and therefore has no chance of being resolved. Rule 1 can be violated in two ways: by placing limits on the
+standpoints or doubts that may be expressed, or by restricting a
+party’s freedom of action.
+  One way to limit the expression of standpoints and doubtsis to declare certain standpoints sacrosanct, or not open to question:
+
+=== p. 111 ===
+
+        I'm going to have the kitchen remodeled. We can discuss style
+        and layout or anything you want, but not whether it will be
+        done.
+
+Another way of imposing limitations is to declare certain standpoints taboo:
+
+        I don’t think you should say that Grandmother shouldn’t
+        have remarried. One should not speak ill of the dead.
+
+Restricting the other party’s freedom of action is an attempt to dismiss him as a serious party to the discussion. Two ways of doing this
+are (a) to put him under pressure not to put forward a certain standpoint or objection or (b) to discredit him in the eyes of the public by
+casting doubt on his expertise, integrity, or credibility.
+  There are many ways to prevent a standpoint or an objection from
+being presented. The most effective of these is, of course, to keep the
+opponent out of the discussion by using physical force. Simply the
+threat of violence or other sanctions may also be quite effective.
+  Any threat that aims to restrict the other party from freely putting
+forward his standpoint or criticism is called a fallacy of the stick (arqumentum ad baculum). Sometimes the threat is expressed very directly:
+“If you try to get the city council to approve that, I will send my thugs
+after you.” Usually it is done in a more subtle way. Indirect reference
+may be made to unpleasant consequences for the other party if the
+speaker does not get his way: “Of course you must make your own decision, but remember that we’re one of your top clients.” Or the
+speaker may emphatically deny any intention of putting on pressure:
+“I certainly wouldn’t want you to be influenced by the fact that I happen to be chair of the committee that will be evaluating your work.”
+  Another effective way of putting pressure on the other party is to
+play on his emotions: “How can you have given me a failing mark for
+my thesis? I've worked onitnightand day.” Such a fallacious moveis
+called an appeal to pity (arqgumentum ad misericordiam).
+  In addition to threats, emotional blackmail, and other ways of restricting the other party’s moves, there are also ways to discredit
+him. Presenting the other party to listeners as stupid, unreliable, biased, or otherwise unworthy of credibility is a way to make sure his
+arguments will fall on deaf ears. It in effect denies him the right to
+participate in the discussion by convincing the audience that there is
+no use listening to him. In principle, personal characteristics of the
+other party should not be brought into the discussion unless they
+
+=== p. 112 ===
+
+play a direct role in it, for example because the reliability of a witness
+is under question.
+  A personal attack is characterized by being directed not at the intrinsic merits of someone’s standpoint or doubt, but at the person itself. The traditional Latin name for this fallacy is arqumentum ad homi-nem. There are various kinds of personal attacks. One type is a direct
+personal attack on the other party, which, because of its insulting nature, is called the abusive variant:
+
+        It made me so drowsy to read his response in last week’s edition that I will not even take the trouble to reply to his musings. The man is weak in the head, and blessed are the
+        innocent of spirit.
+
+In a direct personal attack, what is being kicked is the person rather
+than the ball. The impression is given that someone stupid or evil
+could not possibly have a correct standpoint or a reasonable doubt.
+Attackers hope in this way to be relieved of the obligation to give reasons for their criticism of the other party’s position.
+  In the second type, suspicion is cast on the other party’s motives,
+forexample by suggesting that the party has a personal interestin the
+matter and is therefore biased. This is an indirect personal attack that is
+known as the circumstantial variant. The following passage from a letter to the editor contains such an indirect personal attack:
+
+        Marilyn French believes that men are the cause of the disadvantaged position of women and of environmental problems. I cannot avoid the impression that French must at some
+        time in the past have washed the dirty socks of a man she did
+        not love much, and therefore stopped thinking.
+
+Inanindirect personal attack, someone’s opinionis claimed to derive
+from suspect personal motives, and the arguments advanced are unmasked as rationalizations.
+  In the third type of an argumentum ad hominem, an attempt is made
+to undermine the other party’s credibility by pointing out a contradiction in that party’s words or deeds, for example a contradiction
+between their opinions in the past and the present, or between what
+they say and what they do. This type is called the you also variant (tu
+quoque): You also do or think differently from what could reasonably
+be expected. The following letter to the editor argues that there is a
+contradiction between Mrs. Gardner’s opinions on the AFP test and
+her own behavior:
+
+=== p. 113 ===
+
+         Mrs. A. Gardner discourages people from participating in the
+         so-called AFP test, which measures the chances of a pregnant
+         woman having a baby with spina bifida or Down’s syndrome.
+         Mrs. Gardner knows all about the consequences of the AFP
+         test. So why did she have such an AFP test done herself? Because in fact she preferred not to have a mongoloid baby?
+
+The reasoning behind the you also variant is that anyone who is not
+consistent cannot be right. Anyone who does not practice what he or
+she preaches is, of course, being inconsistent. But this does not automatically mean that their standpoint is wrong. To be able to establish
+the acceptability of the standpoint, the arguments must first be evaluated.
+  Note that pointing outinconsistencies is a fallacy only if it is based
+on inconsistency with a standpoint that the opponent has advanced
+outside the discussion. If someone puts forward contradictory
+standpoints or arguments in the course of the discussion, then it is
+not a fallacy to point this out. On the contrary, identifying inconsistencies in the discussion itself is a necessary part of the evaluation.
+
+7.2   VIOLATIONS OF THE BURDEN-OF-PROOF RULE
+
+Rule 2: A Party Who Puts Forward a Standpoint Is Obliged
+to Defend It if Asked to Do So
+
+To resolve a difference of opinion, a person who puts forward a
+standpoint must be prepared to defend this standpoint, and a person
+who calls a standpoint into question must be prepared to assume the
+role of antagonist. This latter requirement seldom poses a problem
+because someone who voluntarily criticizes a standpoint can hardly
+object to taking on the role of antagonist. However, not everyone
+who expresses a standpoint is eager to actually defend it.
+  Protagonists can be released from the obligation to defend their
+standpoint if they have previously defended it successfully against
+the same antagonist and if nothing has changed in either the starting
+points or the discussion rules. In this case, the defense would be a
+pointless repetition. Protagonists can also be released from the obligation to defend their standpoint if their opponents refuse to commit
+themselves to anything and are not prepared to follow the rules. In
+such a situation, it would be pointless to defend the standpoint because the necessary conditions for resolving the disagreement are
+not met.
+
+=== p. 114 ===
+
+  Rule 2 is violated when someone tries to get out of the obligation to
+defend a standpoint. If they getaway with it, the discussion will stagnate in the opening stage, in which it is determined who is protagonist and who is antagonist.
+  The most drastic way to escape the obligation to defend your
+standpoint is to shift the burden of proof onto the person criticizing
+the standpoint: “You first prove that it isn’t so.” This is committing
+the fallacy of shifting the burden of proof.
+  In anonmixed difference of opinion, only one party puts forward a
+standpoint, so there is only one party who has anything to defend. In
+this case, shifting the burden of proof is entirely unjustified because
+someone who criticizes a standpoint does not bear any burden of
+proof. The antagonist is then being saddled with the role of protagonist of the opposite standpoint, even though the antagonist has not
+advanced a standpoint at all. The following text gives a good example of the use of this trick in Holland, where viewers are obliged to
+pay TV tax:
+
+        The Minister of Cultural Affairs mentions “the successful
+        hunt for TV tax evaders.” That is a good example of a fallacy.
+        The hunt goes like this: on March 11 you receive a letter from
+        the TV tax office that announces “A different look at your favorite program.” You read that your name and address are
+        not in “our database” and since “these days nearly every
+        home has a television,” you are asked to pay your TV tax. Let
+        us assume that you are one of the few persons who have no
+        time to watch TV or no interest in what TV has to offer. You
+        haveno TV in your home. You would like to just throw away
+        the unpleasant letter, but you can’t just do that. There is a
+        form that you have to fill out stating that you have no TV.
+        What the Minister of Cultural Affairs calls a “successful
+        hunt” is a plain and simple shifting of the burden of proof.
+
+In a mixed difference of opinion, the situation is more complicated.
+Because both parties have advanced a standpoint, they each have an
+obligation to defend their own standpoint. The only decision to be
+made is in what order they should present their defenses.
+  This problem of deciding the order of defense is often incorrectly
+seen as a problem of choice. One party often attempts to lay the burden of proof at the door of the other party, usually the one who is attacking received wisdom, established opinion, traditional views, or
+the existing state of affairs. The burden of proof then rests with the
+
+=== p. 115 ===
+
+party who wants to change the status quo; he or she must prove that
+the proposed alternative is better. In the terminology of criminal law,
+one can say that the status quo has the status of presumption. In the
+following text this principle of presumption is appealed to:
+
+       Supporters of the change are demanding that opponents
+       show that reducing working hours would have undesirable
+       consequences, such as reduced demand for labor or stagnation of the economy. But in fact, it is customary that supporters of a far-reaching measure (and reducing working hoursis
+       indeed far-reaching) must show that such a measure will
+       have a beneficial effect, rather than that the other side must
+       show that it may have harmful consequences.
+
+Applying the principle of presumption, however, must not result in
+the burden of proof in a mixed dispute being assigned unilaterally to
+one of the parties.
+  Another criterion that can help decide the order in which standpoints are to be defended in mixed disputes is a principle known in
+civil law as the principle of fairness. According to this principle, the
+standpoint that is easiest to defend should be defended first. A legal
+expert, Mr. Maarten Henket, once gave a good example of apportioning the burden of proof according to the principle of fairness:
+
+       An example of an exception to the rule “He who makes a
+       claim must prove it” can be found in alimony cases. Let us
+       take the familiar situation of a woman who has a right to alimony from her ex-husband. The woman notices that her
+       ex-husband’s income has gone up and wants more alimony.
+       According to the rule just stated, she should have to prove
+       that his income has risen. That is very difficult, in view of
+       bank privacy and so on, and in practice the judge shifts the
+       burden of proof to the husband: he must put his papers on the
+       table and then it will be seen whether his income has gone up
+       or not. This conflicts with the rule “He who makes a claim
+       must prove it.”
+
+The principle of presumption and the principle of fairness may help
+in certain situations when deciding what order to follow, but a mixed
+difference of opinion can never be completely resolved in an argumentative discussion unless both of the parties meet the obligation to
+defend their standpoints. A subtle way to avoid the obligation to defend a standpoint is to present the standpoint as something that
+
+=== p. 116 ===
+
+needs no proof at all. The protagonist in this case is guilty of committing the fallacy of evading the burden of proof. A person commits this
+fallacy when presenting the standpoint as something that is self-evident: “Itis obvious that...,” “Nobody in their right mind would deny
+that ...,” “It goes without saying that ....” If this ploy works, antagonists may feel overwhelmed and fail to voice their doubts.
+  The protagonist can sometimes achieve a similar effect by giving a
+personal guarantee for the correctness of the standpoint: “I can as-sureyou that...,” “Thereis no doubtin my mind that ...,” “Iam absolutely convinced that ...,” “You can take it from me that ....”
+  Another ploy for evading the burden of proof is to formulate the
+standpoint in a way that amounts to making it immune to criticism be-causeit cannot be tested or evaluated. Examples of such hermetic formulations of standpoints are “Women are by nature possessive,” “Men are
+basically hunters,” “The Frenchman is essentially intolerant,” and “The
+youth of today are lazy.” These standpoints refer to “men,” “women,”
+“the youth,” “the Frenchman,” avoiding quantifiers such as “all,”
+“some,” “most,” or “the average.” Often, intangible (essentialistic) qualifications, such as “essentially,” “real,” “by nature,” are used as well. Because of the imprecise formulation, it is unclear how the standpoint in
+question can be satisfactorily defended or refuted. How many examples or counterexamples are needed? If an attempt is made to refute the
+standpoint “Women are by nature possessive” by citing one or more examples of women who are not possessive, the opponent will most likely
+claim that these counterexamples are irrelevant because the women
+cited in these examples are not “real” women or are not acting according to their “true nature.” All attempts at refutation thus bounce off an
+armor of immunity.
+
+7.3   VIOLATIONS OF THE STANDPOINT RULE
+
+Rule 3: A Party’s Attack on a Standpoint Must Relate to the
+Standpoint That Has Indeed Been Advanced by the Other Party
+
+Rule 3 is violated when the standpoint attacked is not the standpoint
+that was originally put forward by the protagonist. This causes a
+shiftin the proposition with respect to which one party adopts a positive and the other party a neutral standpoint, so that in effect, and often without it being noticed, the difference of opinion becomes
+multiple. If parties talk at cross purposes like this, it will be impossible for them to resolve the original disagreement. Even if the dis-
+
+=== p. 117 ===
+
+agreement seems to be resolved, it will be, at most, a spurious
+resolution. What the one party seems to have successfully defended
+is not the same as what the other party has attacked.
+  Such shifts in standpoint can occur during any stage of the discussion. It may happen at the very beginning of the discussion, in the confrontation stage, if the antagonist’s criticism turns out to be directed at
+a different standpoint than the one the protagonist has advanced. During the opening stage, the parties may be referring to a different proposition than the one that formed the starting point of the discussion in
+the confrontation stage. During the argumentation stage, it may be
+that the arguments of the protagonist and the antagonist relate to two
+different propositions. In addition, the conclusion of the discussion
+may be worded in such a way that it, in fact, relates to a proposition
+somewhat different from the one in the original dispute.
+  There are two different ways of attacking a standpoint that is not
+really the one presented by the opponent. The original standpoint
+can be misrepresented, or a fictitious standpoint can be attributed to
+the opponent. In either case, the strategy is more likely to succeed
+with an audience that does not know exactly what the opponent’s
+original standpoint was.
+  Parties who misrepresent the opponent’s standpoint or attribute a
+fictitious standpoint to him or her commit the fallacy of the straw
+man. Inboth cases, they plan their attack by taking the path of least resistance: They attribute to their opponent a standpoint that can be attacked more easily. By distorting their opponent’s standpoint, they
+set up a straw man that they can easily knock down. In the most extreme case, the standpoint attacked does not show any resemblance
+to the original standpoint, but sometimes the two standpoints differ
+only in details.
+  One of the techniques for attributing a fictitious standpoint to the
+other party is to emphatically put forward the opposite standpoint. If
+someone says firmly, “I personally believe the defense of our democracy is of great importance,” she thereby suggests that her opponent
+thinks otherwise. If the opponent does not hasten to declare that he
+toois a great champion of democracy, he immediately draws on himself the suspicion that he does not support democracy.
+  Another way of attributing a fictitious standpoint to the opponent
+is to refer to a group to which the opponent belongs and to link that
+group with the fictitious standpoint:
+
+        She says that she thinks this research is useful, but as a business person she naturally sees it as a waste of money.
+
+=== p. 118 ===
+
+Here the speaker implies that it is obvious what this group (business
+people) thinks about this matter and that what applies to the group
+applies to all individual members of the group.
+  In a third technique, not only the standpoint is fictitious, but the
+opponent too. By using expressions such as “Nearly everyone thinks
+that ...,” “Educators are of the opinion that ...,” and “Everyone has
+been saying lately that ...,” it is not stated who actually holds the
+standpoint being attacked. There is no reference made to surveys,
+opinion polls, or other evidence that there really are people who adhere to the standpoint.
+  When the opponent’s standpoint is misrepresented, it is presented
+in a way that makes it more difficult to defend, or even untenable or
+ridiculous. This is often achieved by taking a standpoint out of context, by oversimplifying it, or by exaggerating it, as in the following
+complaint:
+
+       The result is very discouraging because of the way he goes
+       about things: quoting some sentences completely out of context, suggesting meanings that aren’t there, and finally, with
+       several well-chosen exaggerations—which aren’t there either—making the prey ripe for his omniscient and omnivorous voracity. I find this a superficial way of discussing
+       academic work.
+
+Exaggerating a standpoint by generalizing it may be accomplished
+by leaving out quantifiers like “some” and “a few” and replacing
+them with “all.” The resulting standpoint is much easier to attack. If
+you are defending the standpoint that some men are oversensitive,
+your job is done as soon as you have given a couple of examples of
+oversensitive men. Defending the standpoint that “all” men are
+oversensitive is naturally much more difficult; your opponent has
+only to give one example of an insensitive man to show that your
+standpoint is untenable.
+  Techniques often used in simplifying standpoints are to leave out
+nuances and restrictions. A good example of the firstis accusing someone of having written that homeopaths are charlatans, whereas what
+the person had actually written was that homeopaths are a group “in
+which the line between legitimate and charlatan is very fuzzy.”
+  If the original formulation of the disputed standpoint can be consulted, it is possible to verify whether it has been represented accurately. This is difficult if the original formulation is not available.
+Sometimes, however, the representation is so improbable that it is
+
+=== p. 119 ===
+
+immediately suspect. An example of such a suspect representation of
+astandpoint occursin a Senator’s response to a Deputy Health Secretary’s argumentation for his plans to promote sports as leisure-time
+pursuits:
+
+        The first argument, whose unsoundness is obvious, has to do
+        with the costs of health care. The Deputy Secretary is afraid
+        that parts of the body that are little used will quickly become
+       brittle or fall off, after which the help of the medical establishment—charging for a single day what an average person
+        earns in a month—will be needed. Since sports trainers are
+        cheaper than surgeons, health care costs can be reduced if
+        more people participate in sports.
+
+In other cases, it helps to watch out for certain signals in the way the
+standpoint is represented. Some skepticism is called for when the
+speaker too emphatically proclaims the opponent’s standpoint:
+“Clearly the author is of the opinion that ...,” “The author obviously
+assumes that...” Although the formulations suggest otherwise, it often turns out that the standpoint proclaimed was not the author’s
+standpoint.
+
+7.4   VIOLATIONS OF THE RELEVANCE RULE
+
+Rule 4: A Party May Defend His or Her Standpoint Only
+by Advancing Argumentation Related to That Standpoint
+
+Rule 4 places two minimum requirements on the defense of standpoints: The defense must be conducted by means of arguments, and
+those arguments must be genuinely relevant to the standpoint being
+defended. If the antagonist fails to notice that these requirements
+have not been met, he or she may end up accepting the standpoint on
+the basis of an irrelevant argument. In this case, the difference of
+opinion has not really been resolved.
+  Violations of Rule 4 occur during the argumentation stage. There
+are two kinds of violations. The first is when the argumentation has
+no relation whatsoever to the standpoint that was advanced in the
+confrontation stage. This is a case of irrelevant argumentation. The second kind of violation is when a standpoint is defended with means
+other than argumentation, while at the same time the protagonist
+acts as though he or she were providing argumentation. Thisis called
+non-argumentation.
+
+=== p. 120 ===
+
+  Irrelevant argumentation, in fact, defends a standpoint thatisnot
+the standpoint that caused the difference of opinion. Just as in the
+case of the straw man, there is a shift in the proposition to which the
+standpoint relates. But in the case of irrelevant argumentation, it is
+the protagonist who distorts his or her own standpoint. Instead of
+making it easier to attack, the shift is intended to make the standpoint easier to defend. Then the fallacy is committed of putting forward argumentation relevant only to a standpoint that is not the one at
+issue, whichis better known as ignoratio elenchi. Here is an example:
+
+        Amateur sports are being ruined by all the alcohol that is sold
+        at sports canteens, because research shows that 85% of all
+        sports canteens sell alcohol.
+
+At first sight the argument and the standpoint seem to be related, but
+actually the argument (alcohol is sold in 85% of all sports canteens)
+does not support the standpoint that “amateur sports are being ruined by all the alcohol that is sold at sports canteens.” The argument
+would, however, support a different standpoint: “Itis easy to buy alcohol in sports canteens.”
+  When non-argumentation is used, it is not usually for the purpose
+of convincing the other party, but of winning over a third party. Instead of putting forward argumentation to support the standpoint at
+issue, the protagonist plays on the emotions, sentiments or biases of
+the intended audience. If we use the classical categories of means of
+persuasion—Iogos, ethos, and pathos—we could say that pathos takes
+the place of logos here. That is why playing on the emotions of the audience is called a pathetic fallacy.
+  Pathetic fallacies generally thrive in public discussions about
+which many people have strong feelings. In such situations, whoever
+most successfully manipulates the (positive or negative) feelings of
+the audience has the best chance of having a standpoint accepted. Examples of positive emotions that can be appealed to are feelings of security or loyalty. Examples of negative emotions that can be
+appealed to are fear, greed, and shame. The following letter to the editor accuses one of the participants in a discussion on anti-terrorism
+of playing on people’s sentiments:
+
+        When Mr. Carter talks about innocent women and children
+        who have been victims of terrorism, he is playing unfairly on
+        the sentiments of the members of the jury. Because in fact itis
+        just as terrible a thing when the victims are men, whether
+        they are ordinary men, police agents, or soldiers.
+
+=== p. 121 ===
+
+Appeals to prejudices and emotions are not normally presented as if they
+were arguments. It often suffices to emphasize in an emotional way the
+significance of certain interests or values. The audience itself will make
+the desired connection between these and the standpoint at issue.
+  In addition to the rhetorical means of persuasion pathos, a protagonist may also make use of ethos. Aristotle believed this means to be
+the most effective. Speakers use ethos when they attempt to decide
+the difference of opinion in their favor on the strength of their own
+expertise or good character. They attempt to increase the audience’s
+faith in their expertise, credibility, or integrity, so that the audience
+will simply take their word for the standpoint’s acceptability. If a
+protagonist has a particularly strong ethos, he or she may not need to
+present any defense at all for the standpoint.
+  In itself, there is nothing wrong with making use of ethos. In many
+cases, thereisno other choice than to accept something on the authority of experts. Certain topics require so much specialized knowledge
+thatlaypeople cannotindependently verify them. In other instances,
+the protagonist may be the only witness to a certain event or the only
+one who can verify the accuracy of a certain statement. Examples of
+this are statements about the speaker’s own mood or physical
+well-being. There is nothing wrong with depending on someone
+else’s judgment in such cases, but it is important to realize that a difference of opinion cannot really be resolved in this way because it is
+left to the expert to settle the dispute.
+  Something to watch out for, however, is when a person who claims
+to have expertise does not actually possess it or when the expertise is
+not relevant to the matter at hand. Then the ethical fallacy of abuse of authority is committed (which is on a par with the fallacy that is traditionally known as arqumentum ad verecundiam). An example of thisis when
+someone suggests, without providing actual argumentation, that he
+or she possesses the required amount of expertise on the basis of being
+a professor and proceeds to make statements about the dangers of nuclear energy, when in fact his field of expertise is Egyptology.
+
+7.5   VIOLATIONS OF THE UNEXPRESSED PREMISE RULE
+
+Rule 5: A Party May Not Falsely Present Something as a Premise
+That Has Been Left Unexpressed by the Other Party or Deny
+a Premise That He or She Has Left Implicit
+
+Violations of Rule 5 are related to the fact that in everyday language,
+all kinds of things are implied or are expressed only indirectly.
+
+=== p. 122 ===
+
+Parties to a discussion of course should not try to take improper advantage of implicit or indirect language. That is what happens when
+the antagonist attacks the protagonist by producing a reconstruction
+of the unexpressed premise that goes further than what the protagonist can actually be held to. Exaggerating the unexpressed premise
+makes the standpoint easier to attack, and the fallacy is called magnifying what has been left unexpressed. Protagonists can violate Rule 5 by
+refusing to accept commitment to an unexpressed premise implied
+by their own defense, thereby committing the fallacy of denying an
+unexpressed premise.
+   Violations of Rule 5 occur during the argumentation stage. The result is that the difference of opinion cannot be brought to resolution
+because parties deny their commitments or put words in each other’s
+mouth. Rule 5 essentially means that protagonists can be held to
+nothing they are not really committed to and to everything they really are committed to.
+   The fallacy of magnifying an unexpressed premise consists of adding an unexpressed premise that goes beyond whatis warranted and
+attributing a premise to the protagonist that goes beyond the commitments created by the protagonist’s defense. In the following example, Heather commits this fallacy:
+
+      Jerome:   Itcouldbethathedoesn’tlike dogsvery much, because
+                he has a cat.
+      Heather: So you think that everyone who has a cat by definition
+                hates dogs?
+      Jerome:   No, Ididn’t say that. I only mean that there are a lot of
+                cat owners who don’t much like dogs.
+
+Given the cautious way Jerome has formulated his standpoint (“It
+could be ...”), it is incorrect to attribute to him the unexpressed
+premise that everyone who has a cat by definition hates dogs. Furthermore, “not liking dogs much” is not the same as “hating dogs.” In
+thisrespectas well, Heather has exaggerated what Jerome left unexpressed.
+   Speakers commit the fallacy of denying an unexpressed premise if
+they refuse responsibility for elements that are indeed implied by
+their defense. If the opponent correctly makes explicit something
+thatisimplied by the protagonist’s argumentation, then the protagonist commits a fallacy by denying it. By hiding behind the claim “I
+never said that,” the protagonist stands in the way of true resolution
+of the disagreement.
+
+=== p. 123 ===
+
+  The inclination to deny unexpressed premises is strongest when
+they contain weak or controversial elements. The following is a good
+example:
+
+        I have nothing against homosexuals. I just think that the age
+        of consent for homosexual sex should not be lowered, because of the danger that young boys would be pushed into becoming homosexuals.
+
+The use of the word “danger” is clear evidence that the speaker does
+not really have the tolerant attitude claimed in the first sentence: The
+unexpressed premise in this argumentation is that homosexuality is
+something that should be prevented if at all possible.
+
+FURTHER READING
+
+An influential historical study of fallacies is C. L. Hamblin, Fallacies,
+London: Methuen, 1970, reprinted by Vale Press, Newport News, VA.
+A formally oriented approach to the fallacies is also taken in J. Woods
+and D. Walton, The Logic of the Fallacies, Toronto: McGraw-Hill:
+Ryerson, 1982. The pragma-dialectical approach to the fallacies is explained in F. H. van Eemeren and R. Grootendorst, Argumentation,
+Communication, and Fallacies: A Pragma-Dialectical Perspective,
+Hillsdale, NJ: Lawrence Erlbaum Associates, 1992, chapters 8-19. An
+overview of the state of the art in the study of the fallacies is provided
+by F. H. van Eemerenin F. H. van Eemeren (Ed.), Crucial Concepts in Argumentation Theory, Amsterdam: Amsterdam University Press, 2001,
+chapter 6.
+
+=== p. 124 ===
+
+EXERCISES
+
+  1.   Which of the following statements lend themselves, due to the
+       fact that they are not falsifiable, to evasion of the burden of
+       proof?
+            Americans are racists.
+       o    Americans are essentially racists.
+            People are bad.
+       a0   Cathy is bad.
+            Cathy cheats the social services.
+       -0   Doctors cheat the social services.
+  2.   Do the following passages contain a violation of a discussion
+       rule? If so, which fallacy has occurred?
+       a.   Martin Woolacott advocates the use of force against Iraq on
+            the pretext that “the alternative, if it is to let Saddam prevail, is worse.” In fact Saddam Hussein and his regime are
+            essential for the stability and unity of Iraq. Notwithstanding his demonization in the West, his military regime, to
+            many Iraqis, remains synonymous with a united Iraq. If
+            Saddam has done anything positive for his country, it has
+            been to foster a sense of national pride and unity, which
+            even the UN-led economic sanctions and U.S.-encouraged
+            Kurds’ rebellion in northern Iraq have failed to destroy.
+            Should the West decide to remove Saddam by destroying
+            his military and political structure, it should be ready to
+            face the consequences: namely the possible break-up of
+            Iraq. This would, in all probability, mean something like
+            Lebanon of the 1980s or Somalia of the 1990s.
+            I share Catherine Bennett’s concern about Jeffrey Archer
+            ending up as a serious candidate for Mayor of London, but
+            not because of his fictional past, his questionable financial
+            dealings, or even the quality of his writing—mnone of which
+            disqualified other Tory politicians in the past 18 years. It is
+            his politics that worry me.
+            The project engineer says that Thompson is more qualified
+            than I am to work on her project. But did you know that
+            Thompson is engaged to her daughter?
+            Capital punishment should be introduced in this country.
+            You do want your children to live in a safe neighborhood,
+            don’t you?
+
+=== p. 125 ===
+
+     e.   To the Editor:
+          I take issue with your July 23 editorial “Hamptons Serenade,” in which you describe the rich as shallow and undeserving.
+             I have a close friend who is a multimillionaire with a
+          house in the Hamptons. We began in graduate school together in 1960. He dropped out of the Ph.D. program and
+          went to work at an investment bank for $50 a week, while I
+          got my Ph.D.
+             Now I make $75,000 a year, and he makes millions.
+          WheneverIvisitmy friend, I feel nothing but pride in his accomplishment, and I feel good about knowing him.
+             I don’t feel that wealth is “disorienting” or “strangely
+          dislocating.” I feel thatIlive in a great and free country—so
+          free that a young guy like my friend who had no connections can end up a great success.
+3.   The following argument was given by a trade union against setting up a union for prostitutes in the Netherlands: “We are opposed to prostitution because it exploits women and we cannot,
+     therefore, regard it as a profession.” To which of the following interpretations of this argument can the union be held committed?
+     a.   The exploitation of women is wrong.
+     b.   Something in which exploitation is involved cannot be a
+          profession.
+     c.   Exploitation is wrong.
+4.   Which variants of the argumentum ad hominem occur in the passage given below from a column by the Dutch writer Gerrit
+     Komrij? If necessary, follow the strategy of maximally argumentative interpretation.
+          Why the outcry over apartheid is so vehement in the Nether-lands, of all places, is something that continues to amaze me.
+     After all, no other country is itself so held together by apartheid. With a high and mighty attitude, the Dutch condemn a
+     system which in their own country is an obsession. The passion
+     for parochialism rages through institutions; everyone tries frenetically to preserve, to consolidate and to give preference to
+     their own territory. However, as soon as the same thing happens in a far-away country, then it is regarded as the height of
+     contemptibility. The Dutch fume with rage about the
+     evil-smelling activities of others, while passing one foul wind
+     after the other in their own back yard.
+
+=== p. 126 ===
+
+  5.   Think of a response to the following statements in which the
+       burden of proof is evaded or shifted, a direct or indirect personal attackis launched, or thereis a tu quoque or an ad baculum.
+       a.   Wife to husband: “You don’t know how to manage money.”
+       b.   Aunt to nephew who is studying psychology: “I really do wonder whether it is true that everything is due to sex.”
+       C.   Child to parents: “1 am perfectly capable of looking after myself.”
+       d. Antique dealer to customer: “You deliberately dropped that
+            vase.”
+  6.   Are discussion rules violated in the following excerpts? If so,
+       which fallacy has been committed?
+       a.   Many people are hurt terribly by little things we call “social slights.” It is a well-known psychological fact that the
+            people who become offended the easiest have the lowest
+            self-esteem.
+            Alice: You shouldn’t take books from my bookshelf without asking, and then lend them to someone else.
+            Betty: Idid not take books out of your bookshelf, let alone
+            lend any of your books to anyone else.
+            Alice: Well, the books aren’t on the bookshelf. YOU tell ME
+            where they are.
+            It is a fact that ulcers are not the result of what we ate, but
+            what’s eating us.
+            Asked what steps Russia would take if Ukraine and the Bal-tic states of Estonia, Latvia and Lithuania were invited to
+            join NATO, Mr. Yeltsin said he hoped the West would be
+            “realistic” enough not to do it. “In NATO expansion, there
+            is a red line for Russia which should not be crossed. Otherwise European stability might not withstand the new tension,” he said.
+            May I make it clear that the quotations attributed to me in your
+            article about Pope John Paul’s document on the protection of
+            the Catholic faith were off-the-cuff remarks. I gave them to
+            your correspondent as general briefing. I explained thatIcould
+            not comment on the document itself until I had read it. The
+            quotations therefore do not represent either my own considered opinion on the matter or that of the paper I edit.
+

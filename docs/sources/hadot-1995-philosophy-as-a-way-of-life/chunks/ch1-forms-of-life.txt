@@ -1,0 +1,1005 @@
+=== chunk: hadot-1995-philosophy-as-a-way-of-life/ch1-forms-of-life ===
+title: Forms of Life and Forms of Discourse in Ancient Philosophy
+source_pdf: docs/sources/hadot-1995-philosophy-as-a-way-of-life/full.pdf
+pdf_pages: 60-81
+page_scheme: book
+plan_page_start: 49
+plan_page_end: 70
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 49 ===
+
+ Forms of Life and Forms of Discourse
+        in Ancient Philosophy
+
+Mr Administrator,
+Dear colleagues,
+Ladies and Gentlemen,
+   "Each one of you expects two things from me on the occasion of this
+inaugural lecture: first of all, that I express my thanks to those who made my
+presence here possible and second, that I present the method that I will use
+to carry out the task entrusted to me." 1 Petrus Ramus, who held the chair in
+rhetoric and philosophy at the College Royal, opened his inaugural lecture,
+delivered in Latin, with words to this effect on August 24, 1 55 1 , only twenty
+years after the founding of this institution. We sec that the practice of giving
+this lecture dates back more than four hundred years and that even at that
+time its major themes were already set. And I in turn will remain faithful to
+this venerable tradition today.
+   More than a year has gone by already, dear colleagues, since you decided
+to create a chair in the History of Hellenistic and Roman Thought. Shortly
+thereafter you honored me by entrusting it to me. How, without being
+awkward or superficial, can I express the extent of my gratitude and my joy
+at the confidence you have shown toward me?
+   I am able to see in your decision a reflection of that freedom and
+independence of mind that have traditionally characterized the great institu­
+tion into which you have welcomed me. For, despite my election, I possess
+few of the qualities that would usually attract notice, and the discipline I
+represent is not among those in fashion today. In a way I am what the Romans
+called a lwmo t1ouus, as I do not belong to that intellectual nobility one of
+whose principal titles is traditionally that of "former student of the Ecole
+Normalc Supcricure." Moreover, you certainly noticed during my visits to
+you that l hick that tmnquil authority con ferred by the use and mastery of
+
+=== p. 50 ===
+
+the idioms currently spoken in the Republic of Letters. My language, as you will
+again ascertain today, is not graced with those mannerisms that now seem to be
+required when one ventures to speak of the human sciences. However, several of
+you encouraged me to present my candidacy, and during the traditional visits,
+which so enriched me, I was extremely touched to find so much sympathy and
+interest, particularly among those of you who are specialists in the exact sciences,
+for the field of research I have come before you to defend. In other words, I
+believe I did not have to convince you - you were persuaded already - of the
+need for the College to ensure a way to maintain the close bonds between areas
+of teaching and research that are too often artificially separated: Latin and Greek,
+philology and philosophy, Hellenism and Christianity. I thus marveled to
+discover that at the end of the twentieth century, when many of you on a daily
+basis employ technical procedures, modes of reasoning, and representations of the
+universe of almost superhuman complexity that open a future to humanity w,e
+could not even conceive of earlier, the ideal of humanism, which inspired the
+foundation of the College de France, continues to retain for you, undoubtedly in
+a more conscious and critical but also more vast, intense, and profound form, all
+of its value and significance.
+
+I spoke of a close connection between Greek and Latin, philology and
+philosophy, Hellenism and Christianity. I believe that this formulation
+corresponds exactly to the inspiration found in the teaching of Pierre
+Courcelle, who was my colleague at the Fifth Section of the Ecole Pratique
+des Hautes Etudes and to whom I wish to render homage today, indeed,
+whom I succeed, if I may say so, in an indirect line, via the appointment of
+Rolf Stein. I believe that Pierre Courcelle, who was so brutally taken from us,
+is intensely present in the hearts of many of us tonight. For me he was a
+teacher who taught me much, but he was also a friend who showed great
+concern for me. I will speak now only of the scholar, to recall his immense
+output of truly great books, innumc:rable articles, and hundreds of reviews. I
+do not know if the scope of this gigantic labor has been sufficiently measured.
+The first lines of his great work Lettres grecques en Occident de Macrobe ti
+Ctissiodore give a clear idea of the revolutionary direction his work had for his
+time. "A substantial book on Hellenistic literature in the West from the death
+of Theodosius up to the time of the Justinian reconquest may seem
+surprising," wrote Courcelle. First of all, it was surprising for a Latinist to be
+interested in Greek literature. However, as Courcelle noted, this Greek
+literature made possible the flowering of Latin literature and produced
+Cicero, who represented the most complete development of Greco-Roman
+culture at its apex, and it was this literature that nearly became a substitute
+for Latin when during the second century AD Latin was ove rs ha dowe d by
+Greek as a literary language. However, it still must be stated and dl·plorcd
+that, despite Courcelle's initiative and exa m pl e and owin g to 11 prd11 1 l ii't• 1 h11 1
+
+=== p. 51 ===
+
+has not been totally overcome and that maintains the disastrous break made
+in French scholarship between Greek and Latin, what he had to say in 1 943 ,
+forty years ago, is unfortunately still true today: "I know of no synthetic work
+that examines the Greek influence on the thought and culture of the Roman
+Empire. " Once again it was surprising to see a Latinist devote such an
+important study to a later period and show that in the fifth and sixth
+centuries, a time of so-called decadence, Greek literature had undergone a
+remarkable renaissance, which, thanks to Augustine, Macrobius, Boethius,
+Martianus Capella, and Cassiodorus, was to make it possible for the European
+Middle Ages to maintain contact with Greek thought until the Arab
+translations made possible its rediscovery in richer sources. Again, it was
+surprising to see a philologist attack problems in the history of philosophy,
+showing the key influence exercised on Latin Christian thought by Greek and
+p11gan Neoplatonism, not only by Plotinus but - this was an important detail
+- by his disciple Porphyry as well. Even more surprising, this philologist
+based his conclusions on a rigorously philological method. I mean that he was
+not content merely to reveal vague analogies between Neoplatonic and
+Christian doctrines or to evaluate influences and originalities in a purely
+subjective way - in a word, to rely on rhetoric and inspiration to establish his
+conclusions. No, following the example of Paul Henry, the learned editor of
+Plotinus who has also been a model of scientific method for me, Courcelle
+compared the texts. He discovered what anyone could have seen but no one
+had seen before him, that a certain text of Ambrose had been literally
+translated from Plotinus, that one of Boethius had been literally translated
+from a Greek Neoplatonic commentator on Aristotle. This method made it
+possible to establish indisputable facts, to bring the history of thought out of
+the vagueness and artistic indistinctness into which certain historians, even
+contemporaries of Courcelle, tended to relegate it.
+      If Les Lettres grecques en Occident provoked surprise, the Recherches sur /es
+"Confessions " de saint Augustin, the first edition of which appeared in 1 950,
+almost caused a scandal, particularly because of the interpretation Courcelle
+proposed for Augustine's account of his own conversion. Augustine recounts
+that as he was weeping beneath a fig tree, overcome with pressing questions
+and heaping bitter reproaches upon himself for his indecision, he heard a
+child's voice repeating, "Take it ip and read . " He then opened Paul's Epistles
+at random, as if he were drawing a lot, and read the passage that converted
+him. Alerted by his profound knowledge of Augustine's literary procedures
+and the traditions of Christian allegory, Courcelle dared to write that the fig
+tree could well have a purely symbolic value, representing the "mortal shadow
+of sin," and that the child's voice could also have been introduced in a purely
+l i t e ra ry way to ind icate allegorically the divine response to Augustine's
+q uest ion i n g . Co u rce l l e did n o t suspect the uproar his interpretation would
+unkn11h. II l11i;1 ed nlmmil l w cn t y ye1m; , The greatest names in international
+
+=== p. 52 ===
+
+patristics entered the fray. Obviously I do not wish to rekindle the flames
+here. But I would like to stress how interesting his position was from a
+methodological point of view. Indeed it began with the very simple principle
+that a text should be interpreted in light of the literary genre to which it
+belongs. Most of Courcelle's opponents were victims of the modern, ana­
+chronistic prejudice that consists in believing that Augustine's Confessions is
+primarily an autobiographical account. Courcelle on the contrary had under­
+stood that the Confessions is essentially a theological work, in which each scene
+may take on a symbolic meaning. One is always surprised, for example, by
+the length of Augustine's account of his stealing pears while he was an
+adolescent. But this is explained by the fact that these fruits stolen from a
+garden become symbolically, for Augustine, the forbidden fruit stolen from
+the Garden of Eden, and the episode gives him the opportunity to develop a
+theological reflection on the nature of sin. In this literary genre, then, it is
+extremely difficult to distinguish between a symbolic enactment and an
+account of a historical event.
+   A very large part of Courcellc's work was devoted to tracing the fortunes
+of great themes such as "Know thyself" or great works such as Augustine's
+Confessions or Boethius' Ctm$o/ation of Phi/O$t>Pkl' in the history of Western
+thought. Not the least original of his contributions, appearing in several of
+the major works he wrote from this perspective, was his association of literary
+study and iconographical inquiry, pertaining, for example, to illustrations
+produced throughout the ages for the Confessions or the Consolation. These
+iconographical studies, which are fundamental in reconstructing the history
+of religious mentalities and imagination, were all undertaken in collaboration
+with Mrs Jeanne Courcelle, whose great knowledge of the techniques of art
+history and iconographic description greatly enriched her husband's work.
+   This all-too-brief recollection permits a glimpse, I hope, of the general
+development, the itinerary, of Courcelle's research. Starting from late anti­
+quity, he was led to go back in time, especially in his book on , the theme of
+"Know thyself," toward the philosoP.hY of the imperial and Hellenistic period,
+and, on the other hand, to follow, across the years, ancient works, themes,
+and images as they evolved in the Western tradition. Finally, it is my hope
+that this history of Hellenistic and Roman thought I am now going to present
+to you reflects the spirit and the profound orientation of Courcelle's teaching
+and work.
+
+According to the scheme given by Petrus Ramus, I have just spoken of what
+he himself called the ratio muneris officiique 11ostri: the object and method of
+the teaching entrusted to me. In the title of my chair, the word tliought can
+seem very vague; indeed it can be applied to an immense and undefined
+domain ranging from politics to art, from poetry to sci en ce and 11h i ln11011hy,
+or religion and magic. I n any event, t h e term invites one to 11111 kl1 hr1,11 1h 1 11king
+
+=== p. 53 ===
+
+excursions into the vast world of wondrous and fascinating works produced
+during the great period of the history o ( humanity that I propose to study.
+Perhaps we will accept this invitation from time to time, but our intention is
+to turn to the essential, to recognize the typical or the significant, to attempt
+to grasp the Urphiinomene, as Goethe would say. And specifically, philosophia,
+the way the term was understood then, is one of the typical and significant
+phenomena of the Greco-Roman world. It is this above all which engages our
+attention. Nevertheless, we h ave preferred to speak of "Heilenistic and Roman
+thought" to reserve the right to follow this philosophia in its most varied
+manifestations and above all to eliminate the preconceptions the word
+philosophy may evoke in the modem mind.
+   "Hellenistic and Roman": these words themselves open an immense period
+before us. Our history begins with the highly symbolic event represented by
+Alexander's fantastic expedition and with the emergence of the world called
+Hellenistic, that is, with the emergence of this new form of Greek civilization
+beginning from the moment when Alexander's conquests and, in their wake,
+the rise of kingdoms extended this civilization into the barbarian world from
+Egypt to the borders of India, and then brought it into contact with the most
+diverse nations and civilizations. The result is a kind o f d i stance, a historical
+distance, between Hellenistic thought and the Greek tradition preceding it.
+Our history then covers the rise of Rome, which will lead to the destruction
+of the Hellenistic kingdoms, brought to completion in 30 BC with Cleopatra's
+death. After that will come the expansion of the Roman empire, the rise and
+triumph of Christianity, the barbarian invasions, and the end of the Western
+empire.
+   We have j ust traversed a millennium. But from the standpoint of the
+history of thought, this long period must be treated as a whole. Indeed it is
+impossible to know Hellenistic thought without recourse to later documents,
+those of the imperial era and late antiquity, which reveal it to us; and it is
+equally impossible to understand Roman thought without taking its Greek
+background into account.
+   We need to recognize from the outset that almost all of Hellenistic
+literature, principally its philosophical productions, has disappeared. The
+Stoic philosopher Chrysippus, to cite only one example, among many, wrote
+seven hundred works, all of which are lost; only a few fragments have come
+down to us. We would undoubtedly have a very different idea of Hellenistic
+philosophy if this gigantic catastrophe had not occurred. How can we hope
+to compensate in some way for this irreparable loss? Obviously, there is the
+chance that discoveries might sometimes bring unknown texts to light. For
+example, in the mid-eighteenth century, an Epicurean library was found at
+Herculaneum. It con tained texts of remarkable interest, not only for the
+knowledge it provided of that school but also regarding Stoicism and
+Plntuni111n . l•:ven tod o y the Institu t e of Papyrology in Naples continues to
+
+=== p. 54 ===
+
+54                                        Me1hod
+
+mine, in an exemplary manner, these precious documents, endlessly improv­
+ing both the texts and the commentaries. Another example: during the
+excavations, led for fifteen years by our colleague Paul Bernard in A"i
+Khanoun, near the border between A fghanistan and the USSR, to find the
+remains of a Hellenistic town of the kingdom of Bactrian, a philosophical text,
+unfortunately terribly mutilated, was discovered. The presence of such a
+document in such a place suffices, furthermore , to make one recognize the
+extraordinary expansion of Hellenism brought on by the Alexandrian con­
+q uests . Most likely it dates from the third or second century BC and
+represents a fragment, unfortunately very difficult to read, of a d ialogue in
+which it is possible to recognize a passage i nspired by the Aristotelian
+tradition.2
+     Except for finds of this type, which are extremely rare, one is obliged to
+exploit existing texts to their fu llest, which often are of a much later date, in
+order to find information about the Hellenistic period . Obviously, it is
+necessary to begin with the Greek texts. Despite many excellent studies, much
+remains to be done in this area. For example, th e collections of philosophical
+fragments that have come down to us need to be completed or updated . Hans
+von Arnim's collection of fragments from the earliest Stoics is exactly eighty
+years old and requires serious revision . Moreover, there exists no collection
+of fragments for the Academicians from the period that runs from Arccsilas
+to Philo of Larissa . On the other hand, mines of information , such as the
+works of Philo of Alexandria, Galen, Athenaeus, and Lucian, or the comment­
+aries on Plato and Aristotle written at the end of antiquity, have never been
+systematically made use of. But the Latin writers are also ind ispensable to this
+line of inquiry. For although the Latinists do not always agree, one has to
+admit that Latin literature, except for the historians (and even there!), is
+comprised largely of either translations, paraphrases, or imitations of Greek
+texts. Sometimes this is completely evident, for one can compare line by line
+and word for word the Greek originals that were translated or paraphrased by
+the Latin writers; sometimes the Latin writers themselves also quote their
+Greek sources; sometimes, finally, one can legitimately speculate about these
+influences with the help of reliable evidence. Thanks to the Latin writers, a
+large part of Hellenistic thought was preserved . Without Cicero, Lu<..Tetius,
+Seneca, or Aulus Gellius, many aspects of the philosophy of the Epicureans,
+Stoics, and Academicians would be i rretrievably lost. The Latins of the
+Christian period are moreover j ust as precious: without Marius Victorious,
+Augustine, Ambrose of Milan, Macrobius, Boethius, or Martianus Capella, how
+many Greek sources would be completely unknown to us! Two projects are thus
+inseparable: on the one hand, to explain Latin thought in light of its Greek
+background, and, on the other hand, to rediscover Greek though t , which has
+been lost to us, in the works of Latin writers. If both these tnsk11 11rc 11 1 he <.'R rr i cd
+out, any separation of Gr<.'Ck and Latin scholarship is tot nllr impc 111 11 ihlr.
+
+=== p. 55 ===
+
+   Here w e are witness t o the great cultural event o f the West, the emergence
+of a Latin philosophical language translated from the Greek. Once again, it
+would be necessary to make a systematic study of the formation of this
+technical vocabulary that, thanks to Cicero, Seneca, Tertullian, Victorinus,
+Calcidius, Augustine, and Boethius, would leave its mark, by way of the
+Middle Ages, on the birth of modern thought. Can it be hoped that one day,
+with current technical means, it will be possible to compile a complete lexicon
+of the correspondences of philosophical terminology in Greek and Latin?
+Furthermore, lengthy commentaries would be needed, for the most interest­
+ing task would be to analyze the shifts in meaning that take place in the
+movement from one language to another. In the case of the ontological
+vocabulary the translation of ousia by subs1an1ia, for example, is justly famous
+and has again recently inspired some remarkable studies. This brings us once
+more to a phenomenon we discretely alluded to earlier with the word
+phi/osophia, and which we will encounter throughout the present discussion:
+the misunderstandings, shifts or losses in meaning, the reinterpretations,
+sometimes even to the point of misreadings, that arise once tradition,
+translation, and exegesis coexist. So our history of Hellenistic and Roman
+thought will consist above all in recognizing and analyzing the evolution of
+meanings and significance.
+    It is precisely the need to explain this evolution that justifies our intention
+to study this period as a whole. Translations from the Greek into Latin are
+indeed only a particular aspect of this vast process of unification, that is, of
+Hellenization, of the different cultures of the Mediterranean world, Europe,
+and Asia Minor that took place progressively from the fourth century BC up
+until the end of the ancient world. Hellenic thought had the strange capacity
+to absorb the most diverse mythical and conceptual themes. All the cultures
+of the Mediterranean world thus eventually expressed themselves in the
+categories of Hellenic thought, but at the price of important shifts in meaning
+that distorted the content of the myths, the values, and .the wisdom of
+each culture, as well as the content of the Hellenic tradition itself. First
+the Romans, who were able to retain their language, then the Jews, and
+then the Christians fell into this sort of trap. Such was the price for the
+creation of the remarkable linguistic and cultural community that charac­
+terizes the Greco-Roman world. This process of unification also ensured a
+surprising continuity at the heart of philosophical and religious literary
+traditions.
+    This evolutionary continuity and progressive unification can be seen most
+remarkably in the area of philosophy. At the beginning of the Hellenistic
+period an extraordinary proliferation of schools emerged in the wake of the
+Sophist movement and the Socratic experience. But beginning with the
+t h i rd ccntui·y BC a k i nd of sorting out occurred . In Athens the only schools
+ 10 Kurvivc were 1 h0Kc w h oKc fou nders h11d thought to establish them as
+
+=== p. 56 ===
+
+well-organized institutions: the school of Plato, the school of Aristotle and
+Theophrastus, the school of Epicurus, and that of Zeno and Chrysippus. In
+addition to these four schools there were two movements that are primarily
+spiritual traditions: Skepticism and Cynicism. After the institutional founda­
+tions of the schools in Athens collapsed at the end of the Hellenistic period,
+private schools and even officially subsidized teaching posts continued to be
+established throughout the empire, and here the spiritual traditions of their
+founders were their reference points. Thus, for six centuries, from the third
+century BC until the third century AD, we witness a surprising stability
+among the six traditions we have just mentioned. However, beginning with
+the third century AD, Platonism, in the culmination of a movement underway
+since the first century, yet again at the price of subtle shifts in meaning and
+numerous reinterpretations, came to absorb both Stoicism and Aristotelianism
+in an original synthesis, while all the other traditions were to become
+marginal. This unifying phenomenon is of major historical importance.
+Thanks to the writers of lesser antiquity but also to the Arab translations and
+the Byzantine tradition, this Neoplatonist synthesis was to dominate all the
+thought of the Middle Ages and Renaissance and was to provide, in some
+fashion, the common denominator among Jewish, Christian, and Moslem
+theologies and mysticisms.
+   We have just given a very brief outline of the main paths of the history of
+the philosophical schools of antiquity. But as a history of ancient phi/osophia,
+our history of Hellenistic and Roman thought is less focused on studying the
+doctrinal diversities and particularities of these different schools than it is on
+attempting to describe the very essence of the phenomenon of philosophia and
+finding the traits shared by the "philosopher" or by "philosophizing" in
+antiquity. We must try to recognize in some way the strangeness of this
+phenomenon, in order then to try to understand better the strangeness of its
+permanence throughout the whole history of Western thought. Why, you may
+ask, speak of strangeness when philosop/1ia is a very general and common
+thing? Doesn't a philosophical quality color all of Hellenistic and Roman
+thought? Weren't the generalization and popularization of philosophy charac­
+teristics of the time? Philosophy is found everywhere - in speeches, novels,
+poetry, science, art. However, we must not be deceived . These general ideas,
+these commonplaces that may adorn a literary work, and true "philosophiz­
+ing" are separated by an abyss. Indeed, to be a philosopher implies a rupture
+with what the skeptics called bios, that is, daily life, when they criticized other
+philosophers for not observing the common conduct of life, the usual manner
+of seeing and acting, which for the Skeptics consisted in respecting customs
+and laws, practicing a craft or plying a trade, satisfying bodily needs, and
+having the faith in appearances indispensable to action . I t iH true: that even
+while the Skeptics chose to conform to the: common cun d m· 1 of l i fe, they
+remained philosophers, since they pract iced an c lCcrciNC' dt•11111111l l n 11 1111mc1 h i 111<
+
+=== p. 57 ===
+
+rather strange, the suspension of judgment, and aiming at a goal, uninter­
+rupted tranquillity and serenity of the soul, that the commo1.1 conduct of life
+hardly knew.
+   This very rupture between the philosopher and the conduct of everyday life
+is strongly felt by non-philosophers. In the works of comic and satiric authors,
+philosophers were portrayed as bizarre, if not dangerous characters. It is true,
+moreover, that throughout all of antiquity the number of charlatans who
+passed themselves off as philosophers must have been considerable, and
+Lucian, for example, freely exercised his wit at their expense. Jurists too
+considered philosophers a race apart. According to Ulpian, in the litigation
+between professors and their debtors the authorities did not need to concern
+themselves with philosophers, for these people professed to despise money. A
+regulation made by the emperor Antoninus Pious on salaries and compensa­
+tions notes that if a philosopher haggles over his possessions, he shows he is
+no philosopher. Thus philosophers are strange, a race apart. Strange indeed
+are those Epicureans, who lead a frugal life, practicing a total equality between
+the men and women inside their philosophical circle - and even between
+married women and courtesans; strange, too, those Roman Stoics who
+disinterestedly administer the provinces of the empire entrusted to them and
+are the only ones to take seriously the laws promulgated against excess;
+strange as well this Roman Platonist, the Senator Rogatianus, a disciple of
+Plotinus, who on the very day he is to assume his functions as praetor gives
+up his responsibilities, abandons all his possessions, frees his slaves, and cats
+only every other day. Strange indeed all those philosophers whose behavior,
+without being inspired by religion, nonetheless completely breaks with the
+customs and habits of most mortals.
+   By the time of the Platonic dialogues Socrates was called atopos, that is,
+"unclassifiable." What makes him atopos is precisely the fact that he is a
+"philo-sopher" in the etymological sense of the word; that is, he is in love
+with wisdom. For wisdom, says Diotima in Plato's Symposium, is not a human
+state, it is a state of perfection of being and knowledge that can only be divine.
+It is the love of this wisdom, which is foreign to the world, that makes the
+philosopher a stranger in it.
+   So each school will elaborate its rational depiction of this state of perfection
+in the person of the sage, and each will make an effort to portray him. It is
+true that this transcendent ideal will be deemed almost inaccessible; according
+to some schools there never was a wise man, while others say that perhaps
+there were one or two of them, such as Epicurus, this god among men, and
+still others maintain that man can only attain this state during rare, fleeting
+moments. I n this transcendent norm established by reason, each school will
+cxprci;s i ts own vision of the world, its own style of life, and its idea of the
+perfect man . ThiN i s why in every school the description of this transcendent
+norm u l t im1uclv coindth.'11 wit h t h e ra t ional idea of God . Michelet remarked
+
+=== p. 58 ===
+
+very profoundly, "Greek religion culminated with its true god, the sage." We
+can interpret this remark, which Michelet does not develop, by noting that
+the moment philosophers achieve a rational conception of God based on the
+model of the sage, Greece surpasses its mythical representation of its gods. Of
+course, classical descriptions of the sage depict the circumstances of human
+life and take pleasure in describing how the sage would respond to this or that
+situation, but the beatitude the wise man resolutely maintains throughout his
+difficulties is that of God himself. Seneca asks what the sage's life would be
+in solitude, if he were in prison or exile, or cast upon the shores of a desert
+island. And he answers that it would be the life of Zeus (that is, for the Stoics,
+the life of universal Reason), when, at the end of each cosmic period, after
+the activity of nature has ceased, he devotes himself freely to his thoughts;
+like Zeus the sage would enjoy the happiness of being self-sufficient. Thus
+the thoughts and will of the Stoic wise man completely coincide with the
+thoughts, will, and development of Reason immanent to the evolution of the
+Cosmos. As for the Epicurean sage, he, like the gods, watches the infinity of
+worlds arising out of atoms in the infinite void; nature is sufficient for his
+needs, and nothing ever disturbs the peace of his soul. For their part, the
+Platonic and Aristotelian sages raise themselves in subtly different ways, by
+their life of the mind, to the realm of the divine Mind itself.
+   Now we have a better understanding of atopia, the strangeness of the
+philosopher in the human world. One does not know how to classify him, for
+he is neither a sage nor a man like other men. He knows that the normal,
+natural state of men should be wisdom, for wisdom is nothing more than the
+vision of things as they are, the vision of the cosmos as it is in the light of
+reason , and wisdom is also nothing more than the mode of being and living
+that should correspond to this vision. But the philosopher also knows that this
+wisdom is an ideal state, almost inaccessible. For such a man, daily life, as it
+is organized and lived by other men, must necessarily appear abnormal, like
+a state of madness, unconsciousness, and ignorance of reality. And nonethe­
+less he must live this life every day, in this world in which he feels himself a
+stranger and in which others perceive him to be one as well. And it is
+precisely in this daily life that he must seek to attain that way of life which is
+utterly foreign to the everyday world . The result is a perpetual conflict
+between the philosopher's effort to see things as they are from the standpoint
+of universal nature and the conventional vision of things underlying human
+society, a conflict between the life one should live and the customs and
+conventions of daily life. This conflict can never be totally resolved . The
+Cynics, in their refusal of the world of social convention, opt for a total break.
+On the contrary, others, such as the Skeptics, fully accept socinl convention,
+while keeping their inner peace. Others, the Epicure11ni;, for c 1 1 1ur1 plc, 11ttempt
+to recreate among themselves a daily life th11t con forn111 t o 1 lw it lt•11 I of wiKdom .
+Ot·hcrs st i l l such 1111 t he Pla t:o n i s t s nnd t he StoicN, Nl l'h•1• , 11 1 1 1 11' 1 w11 of t ill�
+                ,
+
+=== p. 59 ===
+
+greatest difficulties, to live their everyday and even their public lives in a
+"philosophical" manner. In any event, for all of them, the philosophical life
+will be an effort to live and think according to the norm of wisdom, it will
+be a movement, a progression, though a never-ending one, toward this
+transcendent state.
+   Each school, then, represents a form of life defined by an ideal of wisdom.
+The result is that each one has its corresponding fundamental inner attitude
+- for example, tension for the Stoics or relaxation for the Epicureans - and
+its own manner of speaking, such as the Stoic use of percussive dialectic or
+the abundant rhetoric of the Academicians. But above all every school
+practices exercises designed to ensure spiritual progress toward the ideal state
+of wisdom, exercises of reason that will be, for the soul, analagous to the
+athlete's training or to the application of a medical cure. Generally, they
+consist, above all, of self-control and meditation . Self-control is fundamentally
+being attentive to oneself: an unrelaxing vigilance for the Stoics, the renunci­
+ation of unnecessary desires for the Epicureans. It always involves an effort
+of will, thus faith in moral freedom and the possibility of self-improvement;
+an acute moral consciousness honed by spiritual direction and the practice of
+examining one's conscience; and lastly, the kind of practical exercises
+described with such remarkable precision particularly by Plutarch: controlling
+one's anger, curiosity, speech, or love of riches, beginning by working on what
+is easiest in order gradually to acquire a firm and stable character.
+   Of first importance is "meditation," which is the "exercise" of reason;
+moreover, the two words are synonymous from an etymological point of view.
+Unlike the Buddhist meditation practices of the Far East, Greco-Roman
+philosophical meditation is not linked to a corporeal attitude but is a purely
+rational, imaginative, or intuitive exercise that can take extremely varied
+forms. First of all it is the memorization and assimilation of the fundamental
+dogmas and rules of life of the school. Thanks to this exercise, the vision of
+the world of the person who strives for spiritual progress will be completely
+transformed. In particular, philosophical meditation on the essential dogmas
+of physics, for example the Epicurean contemplation of the genesis of worlds
+in the infinite void or the Stoic contemplation of the rational and necessary
+unfolding of cosmic events, can lead to an exercise of the imagination in
+which human things appear of little importance in the immensity of space and
+time. It is necessary to try to have these dogmas and rules for living "ready
+to hand" if one is to be able to conduct oneself like a philosopher under all
+of life's circumstances. Moreover, one has to be able to imagine these
+circu mstances in advance in order to be ready for the shock of events. In all
+t he schools, for various reasons, philosophy will be especially a meditation
+u 1mn death and an attentive concentra tion on the present moment in order to
+t•n joy i t or l i ve it in full consciousncs11. In a l l these exercises, all the means
+oh1 11 hu1hle hv d ialect ic 1111J rhet oric w i l l he u t i l i:1.cd to obtain the maximum
+
+=== p. 60 ===
+
+effect. In parti cu lar , this consciou sly w i l led a pplic ation of rhetoric explains th e
+imp ression of pessimism that some readers believe they d iscern in the
+Meditations of Marcus Au reli u s . All images are suitable for h im if they strike
+the imagination and make the reader conscious of the illusions and conven­
+tions of mankind.
+   The rel ation sh ip between theory and practice i n th e philosophy of this
+p e riod must be understood from the p ers pec ti ve of th ese exercises of
+meditation. Theory is never considered an end in itself; it is clearly and
+d ec i d e d l y put in the service of practice. Epicurus is explicit on this point: the
+goal of the science of nature is to obtain the soul's serenity. Or else, as among
+the Aristotelians, one is more attached to theoretical activ it y considered as a
+way of life t ha t brings an almost divine pl easure and happiness than to the
+theories themselves. Or, as in the Academicians' school or for the skep tics ,
+theoretical activity is a critical activity. Or, as among th e Pla toni s ts , abstract
+theory is not considered to be true knowledge: as Porphyry says, "Beatific
+con temp lation does not consist of the accumulation of arguments or a
+storehouse of learned knowledge, but in us theory must become nature and
+life itself." And, according to Plotinus, one cannot know the soul if one does
+not purify oneself of one's passions in order to exp er ien ce in oneself the
+transcendence of the soul with respect to the body, and one cannot know the
+principle of all things if one has no t had the ex p e r i ence of union with it.
+   To make possible these exercises in med ita tio n , beginners are exposed to
+maxims or summaries of the principal dogmas of the school. Epicurus' Letters,
+which Diogenes Laertius preserved for us, are intended to play this role. To
+ensure that these d ogma s have a great s pi r it u a l effectiveness, they must be
+p res ented in the form of short, striking formulae, as in Epicurus' Principal
+Doctrines, or in a rigo ro usl y s ystem a t i c form, such as th e Letter to Herodotus
+by the same author, which permitted the disciple to grasp in a kind of single
+intuition the essen ti a l s of the doctrine in order to have it more easily at hand.
+In this case the concern for systema ti c coherence was subordinated to spiritual
+effectiveness.
+   The dogmas and methodological principles of each school are not open to
+discussion. In this period, to philosophize is to choose a school, convert to i ts
+way of life, and accept its dogmas. This is why t he core of the fundamental
+d ogmas and rules of life for P lato n is m , A ristotel i anis m , S toi c i sm , and
+Epicureanism remained unchanged th ro u ghou t an tiq u ity . Even the sci en ti sts
+of antiquity always were affiliated with a philosophical school: the develop­
+ment of their mathematical and astronomical theorems changed nothing of the
+fundamental principles of the school to w hi ch they c laim e d a ll e gi ance .
+   This does not mean that theoretical re fle ct ion and elabora tion arc a bse n t
+from the philosophical life. H o w ev er, this acti v i t y ncVl'r l'ncndcd to the
+do gm a s themselves or the me tho d o l og ica l p r i n cip l cN but r111 hvr In t he wayH of
+demonstrating nnd 11yHtcm1nizing thcHc JugmnN iUUI 1 1 1 1111rnm l11 r v , duct rinnl
+
+=== p. 61 ===
+
+                     Forms of Life and Fom1s of Discourse                    61
+
+points issuing from them on which there was not unanimity i n the school.
+This type of investigation is always reserved for the more advanced students,
+for whom it is an exercise of reason that strengthens them in their philosoph­
+ical life. Chrysippus, for example, felt himself capable of finding the
+arguments justifying the Stoic dogmas established by Zeno and Cleanthes,
+which led him, moreover, to disagree with them not concerning these dogmas
+but on the way of establishing them. Epicurus, too, leaves the discussion and
+study of points of detail to the more advanced students, and much later the
+same attitude will be found in Origen, who assigns the "spiritual ones" the
+task of seeking, as he himself says, by way of exercise, the "hows" and "whys"
+and of discussing these obscure and secondary q uestions. This effort of
+theoretical reflection can result in the composition of enormous works.
+   Obviously, these systematic treaties and scholarly commentaries, such as
+Origen's treatise on Principles or Proclus' Elements of Theology, very legitim­
+ately attract the attention of the historian of philosophy. The study of the
+progress of thought in these great texts must be one of the principal tasks in
+a reflection on the phenomenon of philosophy. However, it must be recog­
+nized that generally speaking the philosophical works of Greco-Roman
+antiquity almost always perplex the contemporary reader. I do not refer only
+to the general public, but even to specialists in the field. One could compile
+a whole anthology of complaints made against ancient authors by modern
+commentators, who reproach them for their bad writing, contradictions, and
+lack of rigor and coherence. Indeed, it is my astonishment both at these critics
+and at the universality and persistence of the phenomenon they condemn that
+inspires the reflections I have just presented, as well as those I wish to turn
+to now.
+
+It seems to me, indeed, that in order to understand the works of the
+philosophers of antiquity we must take account of all the concrete conditions
+in which they wrote, all the constraints that weighed upon them : the
+framework of the school, the very nature of philosopl1ia, literary genres,
+rhetorical rules, dogmatic imperatives, and traditional modes of reasoning.
+One cannot read an ancient author the way one does a contemporary author
+(which does not mean that contemporary authors are easier to understand
+than those of antiquity). In fact, the works of antiquity are produced under
+entirely different conditions than those of their modern counterparts. I will
+not discuss the problem of material support: the volumen or codex, each of
+which has its own constraints. But I do want to stress the fact that written
+works in the period we study arc never completely free of the constraints
+imposed by oral transmission. In fact, it is an exaggeration to assert, as has
+still been done recent ly, that Greco-Roman civilization early on became a
+civililnt ion of writing a n d that one can thus treat, methodologically, the
+p h i lmmphknl workN of n n t i q u i t y l i k e nny othc:r w r i t t en work .
+
+=== p. 62 ===
+
+     For the written works of this period remain closely tied to oral conduct.
+Often they were dictated to a scribe. And they were intended to be read aloud,
+either by a slave reading to his master or by the reader himself, since in
+antiquity reading customarily meant reading aloud, emphasizing the rhythm
+of the phrase and the sounds of the words, which the author himself had
+already experienced when he dictated his work. The ancients were extremely
+sensitive to these effects of sound. Few philosophers of the period we study
+resisted this magic of the spoken word, not even the Stoics, not even Plotinus.
+So if oral literature before the practice of writing imposed rigorous constraints
+on expression and obliged one to use certain rhythmic, stereotypic, and
+traditional formulae conveying images and thoughts independent, if one may
+say so, of the author's will, this phenomenon is not foreign to written
+literature to the degree that it too must concern itself with rhythm .md sound .
+To take an extreme but very revealing example, the use of poetic meter in De
+rerum nalura dictates the recourse to certain somewhat stereotypical formulae
+and keeps Lucretius from freely using the technical vocabulary of Epicurean­
+ism that he should have employed .
+     This relationship between the written and the spoken word thus explains
+certain aspects of the works of antiquity. Quite often the work proceeds by
+the associations of ideas, without systematic rigor. The work retains the starts
+and stops, the hesitations, and the repetitions of spoken discourse. Or else,
+after re-reading what he has written, the author introduces a somewhat forced
+systematization by adding transitions, introductions, or conclusions to differ­
+ent parts of the work .
+  More than other literature, philosophical works arc linked to oral trans­
+mission because ancient philosophy itself is above all oral in character.
+Doubtless there are occasions when someone was converted by reading a
+book, but one would then hasten to the philosopher to hear him speak,
+question him, and carry on discussions with him and other disciples in a
+community that always serves as a place of discussion . In matters of
+philosophical teaching, writing is only an aid to memory, a last resort that will
+never replace the living word .
+     True education is a lways oral because only the spoken word makes dialogue
+possible, that is, it makes it possible for the disciple to discover the truth
+himself amid the interplay of questions and answers and also for the master
+to adapt his teaching to the needs of the disciple. A number of philosophers,
+and not the least among them, did not wish to write, thinking, as did
+Plato and without doubt correctly, that what is inscribed in the soul by the
+spoken word is more real and lasting than letters drawn on papyrus or
+parchment.
+  Thus for the most part the literary prod uctions of t h e p h i loNophc:rN arc 11
+preparation , extension , or echo of their sp o ke n lessons nnd a rl' n111 rked hy the
+l i m i ta tions and constraints imposed by such n si t un t io n .
+
+=== p. 63 ===
+
+  Some of these works, moreover, are directly related to the activity of
+teaching. They may be either a summary the teacher drafted. in preparing his
+course or notes taken by students during the course, or else they may be texts
+written with care but intended to be read during the course by the professor
+or a student. In all these cases, the general movement of thought, its
+unfolding, what could be called its own temporality, is regulated by the
+temporality of speech. It is a very heavy constraint, whose full rigor I am
+experiencing today.
+  Even texts that were written in and for themselves are closely linked to the
+activity of teaching, and their literary genre reflects the methods of the
+schools. One of the exercises esteemed in the schools consists of discussing,
+either dialectically, that is, in the form of questions and answers, or
+rhetorically, that is, in a continuous discourse, what were called "theses," that
+is, theoretical positions presented in the form of questions: Is death an
+evil? Is the wise man ever angry? This provides both training in the mastery
+of the spoken word and a properly philosophical exercise. The largest portion
+of the philosophical works of antiquity, for example those of Cicero, Plutarch,
+Seneca, Plotinus, and more generally those classified by the moderns as
+belonging to what they called the genre of diatribe, correspond to this
+exercise. They discuss a specific question, which is posed at the outset of the
+work and which normally requires a yes or no answer. In these works, the
+course of thought consists in going back to general principles that have been
+accepted in the school and arc capable of resolving the problem in question .
+This search to find principles to solve a given problem thus encloses thought
+within narrowly defined limits. Different works written by the same author
+and gu ided according to this "zetctic" method , "one that seeks," will not
+necessarily be coherent on all points because the details of the argument in
+each work will be a function of the question asked .
+  A nother school exercise is the reading and exegesis of the authoritative texts
+of each school. Many literary works, particularly the long commentaries from
+the end of antiquity, are the result of this exercise. More generally, a large
+number of the philosophical works from that time utilize a mode of exegetical
+thinking. Most of the time, discussing a "thesis" consists in discussing not
+the problem in itself but the meaning that one should give to Plato's or
+Aristotle's statements concerning this problem. Once this convention has been
+taken into account, one docs in fact discuss the question in some depth, but
+this is done by skillfully giving Platonic or Aristotelian statements the
+meanings that support the very solution one wishes to give to the problem
+under consideration . Any possible meaning is true p rovided it coheres with
+the t ruth one believes one has discovered in the text. In this way there slowly
+emcqccs, in the s pi rit ual trad ition of each school, but in Platonism above all,
+it 11chola!itici1m1 w h ich , rel y i n g on argument from authority, builds up gigantic
+doct rinal cdi fic·cK by m c a n K of an e x t raord inary rational reflection on the
+
+=== p. 64 ===
+
+64                                         Meth od
+
+fundamental dogmas. It is precisely the third ph i losophical literary genre, the
+systematic treatise, that proposes a rational ordering of the whole of doctrine,
+which sometimes is presented, as in the case of Proclus, as a more geometrico,
+that is, according to the model of Euclid's Elements. In this case one no longer
+returns to the principles necessary to resolve a specific question but sets down
+the principles directly and deduces their consequences. These works are, so
+to speak, "more written " than the others. They often comprise a long
+sequence of books and are marked by a vast, overarching design . But, like the
+Summae theologicae of the Middle-Ages that they prefigure, these works must
+themselves also be understood from the perspective of dialectical and
+exegetical scholarly exercises.
+     Unlike their modem counterparts, none of these philosophical productions,
+even the systematic works, is addressed to everyone, to a general audience,
+but they are intended first of all for the group formed by the members of the
+school; often they echo problems raised by the oral teaching. Only works of
+propaganda are addressed to a wider audience.
+     Moreover, while he writes the philosopher often extends his activity as
+spiritual director that he exercises in his school. In such cases the work may
+be addressed to a particular disciple who needs encouragement or who finds
+himself in a special difficulty . Or else the work may be adapted to the spiritual
+level of the addressees. Not all the details of the system can be explained to
+beginners; many details can be revealed only to those further along the path .
+Above all, the work, even if it is apparently theoretical and systematic, is
+written not so much to inform the reader of a doctrinal content but to form
+him, to make him traverse a certain itinerary in the course of which he will
+make spiritual progress. This procedure is clear in the works of Plotinus and
+Augustine, in which all the detours, starts and stops, and digressions of the
+work are formative elements. One must always a pproach a philosophical work
+of antiquity with this idea of spiritual progress in mind . For the Platonists,
+for example, even mathematics is used to train the soul to raise itself from the
+sensible to the intelligible. The overal l organization of a work and its mode
+of exposition may always answer to such preoccupations.
+  Such then are the many constraints that are exercised on the ancient author
+and that often perplex the modem reader with respect to both what is said
+and the way in which it is said. Understanding a work of antiquity requires
+placing it in the group from which it emanates, in the tradition of its dogmas,
+its literary genre, and requires understanding its goals. One must attempt to
+distinguish what the author was required to say, what he could or could not
+say, and, above all, what he meant to say. For the ancient author's art consists
+in his skillfully using, in order to arrive at his goals, a l l of the constraints that
+weigh upon him as well as the models furnished by the i-rnllition . MoHt of t h e
+time, furthermore, he uses not on l y ideas, images, n m l p111 1 � rn • of nrl(mncnt
+in 1 h i11 way hm also tcx 1·11 or a t lca111 inc-exist i n g form 11l111• l •'rnm 11l11icii1riNm
+
+=== p. 65 ===
+
+pure a n d simple to quotation o r paraphrase, this practice includes - a n d this
+is the most characteristic example - the literal use of foi;mulae or words
+employed by the earlier tradition to which the author often gives a new
+meaning adapted to what he wants to say. This is the way that Philo, a Jew,
+uses Platonic formulae to comment on the Bible, or Ambrose, a Christian,
+translates Philo's text to present Christian doctrines, the way that Plotinus
+uses words and whole sentences from Plato to convey his experience. What
+matters first of all is the prestige of the ancient and traditional formula, and
+not the exact meaning it originally had . The idea itself holds less interest than
+the prefabricated elements in which the writer believes he recognizes his own
+thought, elements that take on an unexpected meaning and purpose when
+they are integrated into a literary whole. This sometimes brilliant reuse of
+prefabricated elements gives an impression of "bricolage," to take u p a word
+currently in fashion , not only among anthropologists hut among biologists.
+Thought evolves by incorporating prefabricated and pre-existing elements,
+which are given new meaning as they become integrated into a rational
+system. It is difficult to say what is most extraordinary about this process of
+integration: contingency, chance, irrationality, the very absurdity resulting
+from the elements used, or, on the contrary, the stran ge power of reason to
+integrate and systematize these disparate elements and to give them a new
+meaning.
+  An extremely significant example of this con ferring of a new meaning can
+be seen in the final lines of Edmund Husserl 's Cartesian                       Meditations.
+Summing up his own theory, Husserl writes, "The Delphic oracle yv ro6t
+OEavi-o v [know thyself] has acquired a new meaning. . . . One must first lose
+the world by the      etrov] [for Husserl, the 'phenomenological bracketing' of
+the world], in order to regain it in a universal self-consciousness.Noli joras
+ire, says St Augustine, in te redi, in interiore homine habitat veritas." This
+sentence of Augustine's, "Do not lose your way from without, return to
+yourself, it is in the inner man that truth dwells," offers Husserl a convenient
+formula for expressing and summarizing his own conception of consciousness.
+It is true that Husserl gives this sentence a new meaning. Augustine's "inner
+man" becomes the "transcendental ego" for Husserl, a knowing subject who
+regains the world in "a universal self-consciousness . " Augustine never could
+have conceived of his "inner man" in these terms. And nonetheless one
+understands why Husserl was tempted to use this formula. For Augustine's
+sentence admirably summarizes the whole spirit of Greco-Roman philosophy
+that prepares the way for both Descartes ' Meditations and Husserl's Cartesian
+Meditations. And by the same procedure of taking up such a formula again,
+we ou rselves can apply to ancient philosophy what Husserl says of his own
+1>h i lmmphy: t.he Delphic oracle " Know thyself" has acquired a new meaning.
+For 11 11 the 11h i loso1>h y of which we have spoken also gives a new meaning to
+l hl' I >cl p h i c form11 l11 . Thi11 new mc11 n i n ir a l re ad y appeared among the Stoics,
+
+=== p. 66 ===
+
+for whom the philosopher recognizes the presence of divine reason in the
+human self and who opposes his moral consciousness, which depends on him
+alone, to the rest of the universe. This new meaning appeared even more
+clearly among the Neoplatonists, who identify what they call the true self with
+the founding intellect of the world and even with the transcendent unity that
+founds all thought and all reality . In Hellenistic and Roman thought this
+movement, of which Husserl speaks, is thus already outlined, according to
+which one loses the world in order to find it again in universal self-conscious­
+ness. Thus Husserl consciously and explicitly presents himself as the heir to
+the tradition of "Know thyself " that runs from Socrates to Augustine to
+Descartes. But that is not all. This example, borrowed from Husserl, better
+enables us to understand concretely how these conferrals of new meaning can
+be realized in antiquity as well. Indeed, the expression in interiore homine
+habitat veritas, as my friend and colleague Goulven Madec has pointed out to
+me, is an allusion to a group of words borrowed from chapter 3, verses 1 6
+and 1 7, o f Paul's letter to the Ephesians, from a n ancient Latin version , to be
+exact, in which the text appears as in interiore homi11e Christum ha b itare. But
+these words are merely a purely material conjunction that exists only in this
+Latin version and do not correspond to the contents of Paul's thought, for
+they belong to two different clauses of the sentence. On the one hand, Paul
+wishes for Christ to dn1el/ in the heart of his disciples through faith, and, on
+the other hand, in the preceding clause, he wishes for God to allow his
+disciples to be strengthened by the divine Spirit in the inner man, in interiorem
+hominem, as the Vulgate has it. So the earlier Latin version, by combining in
+interiure homine and Christum hab itare, was either a mistranslation or was
+miscopied . The Augustinian formula, in interiore homine habitat veritas, is thus
+created from a group of words that do not represent a unified meaning in St
+Paul's text; but taken in itself, this group of words has a meaning for
+Augustine, and he explains it in the context of De vera religione where he uses
+it: the inner man, that is, the human spirit, discovers that what permits him
+to think and reason is the truth, that is, d ivine reason - that is, for Augustine,
+Christ, who dwells in, who is present within, the human spirit. In this way
+the formula takes on a Platonic meaning. We see how, from St Paul to
+Husserl, by way of Augustine, a group of words whose unity was originally
+o nly purely material, or which was a misunderstanding of the Latin translator,
+was given a new meaning by A ugustine, and then by Husserl, thus taking its
+place in the vast tradition of the deepening of the idea of self-consciousness.
+  This example borrowed from Husserl allows us to touch on the importance
+of what in Western thought is called the topos. Literary theories use the term
+to refer to the formulae, images, and metaphors that               forcibly im pose
+themselves on the writer and the thinker in s u c h a w11y 1 h11t t he LINC of t hese
+prefabricated models se e m s indispensable tu them in        1mlc�1· tn he 11hlc to
+e x press their o wn thoughts.
+
+=== p. 67 ===
+
+  Our Western thought has been nourished in this way and still lives off a
+relatively limited number of formulae and metaphors borrowed from the
+various traditions of which it is the result. For example, there are maxims that
+encourage a certain inner attitude such as "Know thyself'; those which have
+long guided our view of nature: "Nature makes no leaps," "Nature delights
+in diversity . " There are metaphors such as "The force of truth," "The world
+as a book" ( which is perhaps extended in the conception of the genetic code
+as a text). There are biblical formulae such as "I am who I am," which have
+profoundly marked the idea of God . The point I strongly wish to emphasize
+here is the following: these prefabricated models, of which I have j ust given
+some examples, were known during the Renaissance and in the modern world
+in the very form that they had in the Hellenistic and Roman tradition, and
+they were originally understood during the Renaissance and in the modern
+world with the very meaning these models of thought had d uring the
+Greco-Roman period, especially at the end of antiquity. So these models
+continue to explain many aspects of our contemporary thought and even the
+very significance, sometimes unexpected, that we find in antiquity. For
+example, the classical prej ud ice, which has done so much damage to the study
+of late Greek and Latin literatures, is an invention of the Greco-Roman
+period, which created the model of a canon of classical authors as a reaction
+against mannerism and the baroque, which, at that time, were called
+"Asianism . " But if the classical prej udice already existed during the Hellen­
+istic and especially imperial eras, this is precisely because the distance we feel
+with respect to classical Greece also appeared at that time. It is precisely this
+Hellenistic spirit, this d istance, in some ways modern, through which, for
+example, the traditional myths become the objects of scholarship or of
+philosophical and moral interpretations . It is through Hellenistic and Roman
+thought, particularly that of late antiquity, that the Renaissance was to
+perceive Greek tradition . This fact was to be of decisive importance for the
+birth of modern European thought and art. In another respect contemporary
+hermeneutic theories that, proclaiming the autonomy of the written text, have
+constructed a veritable tower of Babel of interpretations where all meanings
+become possible, come straight out of the practices of ancient exegesis, about
+which I spoke earlier. Another example: for our late colleague Roland Barthes,
+"many features of our literature, of our teaching, of our institutions of
+language . . . would be elucidated and understood differently if we fu lly knew
+. . . the rhetorical code that gave its language to our culture." This is
+completely true, and we could add that this knowledge would perhaps enable
+us to be conscious of the fact that in their methods and modes of expression
+our human sciences often operate in a way comp letely analogous to the
+mmlcl11 of ancient rhetoric .
+  O ur h i 11 1 o ry of Hellenistic a n d Roman thought should therefore not only
+11 1111 l �·:t.c t he movcrm:nt of 1 houl(h l in ph ilosophical works, but it should also
+
+=== p. 68 ===
+
+be a historical topics that will study the evolution of the meaning of the topoi,
+the models of which we have spoken, and the role they have played in the
+formation of Western thought. This historical topics should work hard at
+discerning the original meanings of the formulae and models and the different
+significances that successive reinterpretations have given them.
+     At first, this historical topics will take for its object of study those works
+that were founding models and the literary genres that they created. Euclid's
+Elements, for example, served as a model for Proclus's Elements of Theology
+but also for Spinoza's Ethics. Plato's Timaeus, itself inspired by pre-Socratic
+cosmic poems, served as a model for Lucretius' De rerum natura, and the
+eighteenth century, in tum , was to dream of a new cosmic poem that would
+exhibit the latest discoveries of science. Augustine's             Confessions, as it was
+misinterpreted, moreover, inspired an enormous literature up to Rousseau
+and the romantics.
+     This topics could also be a topics of aphorisms: for example, of the maxims
+about nature that dominated the scientific imagination until the nineteenth
+century. This year [at the ColJege de France] , we will study in this way the
+aphorism of Heraclitus that is usually phrased as "Nature loves to hide
+herself," although this is certainly not the original meaning of the three Greek
+words so translated. We will examine the significance this formula takes on
+throughout antiquity and later on, as a function of the evolution of the idea
+of nature, the very interpretation proposed by Martin Heidegger.
+     Above all, this historical topics will be a topics about the themes of
+meditations of which we spoke a few minutes ago, which have dominated and
+still dominate our Western thought. Plato, for example, had defined philo­
+sophy as an exercise for death, understood as the separation of the soul from
+the body. For Epicurus this exercise for death takes on a new meaning; it
+becomes the consciousness of the finitude of existence that gives an infinite
+value to each instant: "Persuade yourself that every new day that dawns will
+be your last one. And then you will receive each unhoped for hour with
+gratitude." In the perspective of Stoicism, the exercise for death takes on a
+different charac.'ter; it invites immediate conversion and makes inner freedom
+possible: "Let death be before your eyes each day and you will not have any
+base thoughts or excessive desires." A mosaic at the Roman National Museum
+is inspired, perhaps ironically, by this meditation, as it depicts a skeleton with
+a scythe accompanied by the inscription Gnothi seauton, "Know thyself." Be
+that as it may, Christianity will make abundant use of this theme of meditation.
+There it can be treated in a manner close to Stoicism, as in this monk's
+reflection: "Since the beginning of our conversation, we have come closer to
+death. Let us be vigilant while we still have the time." But it changes radically
+when it is combined with the properly Christian               theme of p11rt ici 11ni-ion in
+Christ's death. Leaving aside all of the rich Western litemry t r1ulit iun1 No well
+illustrated by Mont11igne's chnpter "Thill t o phi lrn11 1 p h i1c i11 to ll•11 1·11 111 die,"
+
+=== p. 69 ===
+
+                          Fonns of Life and Forms of Discourse                             69
+
+we can go straight to Heidegger in order to rediscover this fundamental
+philosophical exercise in his definition of the authenticity of existence as a
+lucid anticipation of death.
+   Linked to the meditation upon death, the theme of the value of the present
+instant plays a fundamental role in all the philosophical schools. In short it is
+a consciousness of inner freedom. It can be summarized in a formula of this
+kind: you need only yourself in order immediately to find inner peace by
+ceasing to worry about the past and the future. You can be happy right now,
+or you will never be happy. Stoicism will insist on the effort needed to pay
+attention to oneself, the joyous acceptance of the present moment imposed on
+us by fate. The Epicurean will conceive of this liberation from cares about the
+past and the future as a relaxation, a pure joy of existing: "While we are
+speaking, jealous time has flown; seize today without placing your trust in
+tomorrow. " This is Horace's famous laetus in praesens, this "enjoyment of the
+pure present," to use Andre Chastel's fine expression about Marsilio Fidno,
+who had taken this very formula of Horace's for his motto. Here again the
+history of this theme in Western thought is fascinating. I cannot resist the
+pleasure of evoking the d ialogue between Faust and Helena, the climax of part
+two of Goethe's Faust: "Nun schaut der Geist nicht vorwarts, nicht zurilck, I
+Die Gegenwart allein ist unser Gluck" ["And so the spirit looks neither ahead
+nor behind. The present alone is our joy . . . Do not think about your destiny.
+Being here is a duty, even though it only be an instant"].
+   I have come to the end of this inaugural address, which means that I have
+j ust completed what in antiquity was called an epideixis, a set speech. It is in
+a direct line with those that professors in the time of Libanius, for example,
+had to give in order to recruit an audience while at the same time tryin g to
+demonstrate the incomparable worth of their speciality and to display their
+eloquence. It would be interesting to investigate the historic paths by which
+this ancient practice was transmitted to the first professors at the College de
+France. In any case, at this very moment, we are in the process of fully living
+a Greco-Roman tradition. Philo of Alexandria said of these sei: speeches that
+the lecturer "brought into broad daylight the fruit of long efforts pursued in
+private, as painters and sculptors seek, in realizing their works, the applause
+of the public." And he opposed this behavior to the true philosophical
+instruction i n which the teacher adapts his speech to the state of his listeners
+and brings them the cures they need in order to be healed .
+   The concern with individual destiny and spiritual progress, the intransi­
+gent assertion of moral requ irements, the call for meditation, the invitation to
+seek this inner peace that all the schools, even those of the skeptics, propose
+Rs the a i m of philosophy, the feeling for the seriousness and grandeur
+of existence         this seems to me to be what has never been surpassed in
+1mdcn1 philmmphy and whnt always remains alive. Perhaps some people will
+Kt�t·   i n lht�Kt' 11 1 1 i ludcs 11 11 csc11 pc or evm;ion th1tt is in com pa t ible with the
+
+=== p. 70 ===
+
+consciousness we should have of human suffering and misery, and they will
+think that the philosopher thereby shows himself to be irremediably foreign
+to the world. I would answer simply by quoting this beautiful text by Georges
+Friedmann, from 1 942, which offers a glimpse of the possibility of reconciling
+the concern for justice and spiritual effort; it could have been written by a
+Stoic of antiquity:
+
+     Take flight each day! At least for a moment, however brief, as long as
+     it is intense. Every day a "spiritual exercise," alone or in the company
+     of a man who also wishes to better himself. . . . Leave ordinary time
+     behind. Make an effort to rid yourself of your own passions . . . . Become
+     eternal by surpassing yourself. This inner effort is necessary, this
+     ambition, j ust. Many are those who are entirely absorbed in militant
+     politics, in the preparation for the social revolution. Rare, very rare, are
+     those who, in order to prepare for the revolution, wish to become
+     worthy of it.1
+
+                                        NOTES
+
+Delivered as the inaugural lecture to the chair of the History of Hellenistic and Roman
+Thought, College de France, 1 8 February 1 983. © 1 983 by The College de France,
+Trans. Arnold I. Davidson and Paula Wissing. First published in English in Critical
+Inquiry 1 6 (spring 1 990)
+  I Petrus Ramus, Regii Eloquentiae Philosophiaeque Proftssoris, Oratio lnitio Suae
+     Profassionis Habita, Paris 1 55 1 . Sec Walter J. Ong, Rum11s and Talon Inventory:
+    A Short- Title Inventory of the Published Works of Peter R11mus (IS/5-1572) and
+     of Omer Talon (ca. 1510-1562) in Their Original and in Their Variously Altered
+     Fonns, Cambridge MA 1 9 58, p. 1 58.
+  2 See Pierre Hadot and Claude Rapin, "Les Textes littcraires grecs de la Tresorerie
+     d 'AI Khanoun," pt. I , Etudes, Bulletin de Correspondance Hellenique 1 1 1 ( 1 987):
+     2253 Georges Friedmann, la Puissance de la sagme, Paris 1 970, p. 359.
+

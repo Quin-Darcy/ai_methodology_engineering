@@ -1,0 +1,990 @@
+=== chunk: skinner-2002-visions-of-politics-vol1/ch6-speech-acts ===
+title: Interpretation and the understanding of speech acts
+source_pdf: docs/sources/skinner-2002-visions-of-politics-vol1/full.pdf
+pdf_pages: 121-145
+page_scheme: pdf
+plan_page_start: 121
+plan_page_end: 145
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 121 ===
+
+       Interpretation and the understanding of speech acts
+
+                                                   I
+
+One of the most important of the many injunctions contained in
+Wittgenstein’s Philosophical Investigations 1is that we ought not to think
+in isolation about ‘the meanings of words’. We ought rather to focus
+on their use in specific language-games and, more generally, within
+particular forms of life." Less than a decade after Wittgenstein threw
+down this epoch-making challenge,J.L. Austin picked it up by asking,
+in How to Do Things with Words, what exactly might be meant by
+investigating the use of words as opposed to their meanings,” and what
+might consequently be meant by saying that words are also deeds.3 As
+I have already intimated in chapter 4, it has always seemed to me that,
+taken together, Wittgenstein’s and Austin’s insights offer a hermeneutic
+of exceptional value for intellectual historians and, more generally, for
+students of the cultural disciplines. I have already spoken in chapter 5
+of one particular way in which their approach seems to me of value
+in helping us to think about the project of understanding utterances
+and interpreting texts. I should now like to enlarge on these earlier
+discussions, to respond to criticisms of them, and thereby to present my
+argument in a more systematic and wide-ranging style.
+
+                                                  II
+
+Wittgenstein and Austin alike remind us that, if we wish to understand
+any serious utterance, we need to grasp something over and above the
+
+  This chapter has been adapted and developed from the final section of my ‘Reply to my Critics’ in
+  Meaning and Context: Quentin Skinner and his Critics, ed. James Tully (Cambridge, 1988), pp. 259-88.
+  Wittgenstein 1958, paras. 138-9, 197-9, 241, pp. 53-4, 80-1, 88.      * Austin 1980.
+3 As is also claimed in Wittgenstein 1958, para. 546, p. 146.
+4 For an account of the applicability of Wittgenstein’s insights to ethnography see Geertz 2000,
+  pp. XI-xil.
+
+=== p. 122 ===
+
+sense and reference of the terms used to express it. To cite Austin’s formula, we need in addition to find the means to recover what the agent
+may have been doing in saying what was said, and hence of understanding what the agent may have meant by issuing an utterance with just
+that sense and reference. Wittgenstein had already gestured at the two
+distinct dimensions of language that appear to be involved,” but the abiding value of Austin’s formulation stems from the fact that he furnished a
+means of separating them out. He conceded that we first need to turn to
+the dimension conventionally described by speaking about the meanings
+of words and sentences. But he placed his main emphasis on the fact that
+we need in addition to grasp the particular force with which any given
+utterance (with a given meaning) may have been issued on a particular
+occasion.’
+   Austin tried further to clarify this fundamental point by introducing
+a neologism to distinguish the precise sense of ‘the use of language’ in
+which he was principally interested. He stressed that, in speaking about
+the force of an utterance, he was mainly pointing to what an agent may
+have been doing im saying what was said. He sought to distinguish this
+dimension from another whole range of things we may be doing in using
+words. This further range incorporates the things we may succeed in
+bringing about (whether intentionally or otherwise) as a result of speaking
+with a certain force. To separate the question of what we may be doing
+in saying something from what we may happen to bring about by saying
+something, Austin proposed that we speak of the illocutionary as opposed
+to the perlocutionary force of utterances.®
+   To illustrate the refinements that Austin was thus able to introduce
+into Wittgenstein’s suggested analysis of ‘meaning’ in terms of ‘the use
+of words’, it may be helpful to keep in mind a single example. In the
+discussion that follows, as well as in my attempt to explore some further
+implications of it in chapter 7, |adapt an example originally put forward
+by P. EF Strawson in his analysis of the role of intentions and conventions
+in the understanding of speech acts.9 A policeman sees a skater on a pond
+and says “The ice over there is very thin.’ The policeman says something
+and the words mean something. ‘To understand the episode, we obviously need to know the meaning of the words. But we also need to know
+what the policeman was doing in saying what he said. For example, the
+
+5 Austin 1980, pp. 94, 98.
+® On the force of utterances as an abstractable dimension of language see Holdcroft   1978,
+  PP- 143-557 Austin 1980, p. 99.   8 Austin 1980, pp. 109-20.   9 Strawson 1971, p. 153.
+
+=== p. 123 ===
+
+policeman may have been warning the skater; the utterance may have
+been issued on the given occasion with the (illocutionary) force of warning. Finally, the policeman may at the same time have succeeded in
+bringing about some further (perlocutionary) consequences by saying
+what was said. For example, the policeman may have succeeded in persuading or frightening or perhaps merely irritating or amusing the skater.
+   Austin’s chief aim was to clarify the idea of ‘the use of language’ in
+communication. So he placed his main emphasis on the fact that speakers
+are able to exploit the dimension of illocutionary force in order — as
+the title of his book puts it — to do things with words. As a result, he
+had rather little to say about the nature of the relationship between the
+linguistic dimension of illocutionary force and the capacity of speakers
+to exploit that dimension in order to perform the range of speech acts —
+and especially illocutionary acts — in the classification of which he was
+principally interested.
+   I take it, however, that the right way to think about this relationship is
+to focus on the fact that, as Austin always stressed, to speak with a certain illocutionary force is normally to perform an act of a certain kind, to
+engage in a piece of deliberate and voluntary behaviour. As this suggests,
+what serves to connect the illocutionary dimension of language with the
+performance of illocutionary acts must be — as with all voluntary acts —
+the intentions of the agent concerned. By way of clarifying this point,
+consider again the speech act of warning someone. ‘To perform that particular act, we must not only issue a particular utterance with the form
+and force of a warning. We must at the same time mean or intend the
+utterance as a warning and mean it to be taken as a warning by way of its
+being recognised as an instance of just that intentional act. As Austin put
+it with his customary exactitude, to recover the intended illocutionary
+force of a given utterance, and thus the nature of the ilocutionary act
+performed by the agent in saying what was said, what we need to understand is the way in which the given utterance, on the given occasion,
+‘ought to have been taken’."®
+   It is true that Austin wavered at this point. When he first introduced
+the concept of an illocution, he suggested that the question of whether
+someone has performed the act, say, of warning 1s essentially a question about how they meant their utterance to be understood." But he
+assumed (in Wittgensteinian vein) that the ‘uptake’ of illocutionary acts
+requires the presence of such strong linguistic conventions that he later
+
+                    ' Austin 1980, p. 99.   ™ Austin 1980, p. 98.
+
+=== p. 124 ===
+
+ appeared to suggest that such conventions, rather than the intentions of
+ speakers, must be definitive of illocutionary acts." Nevertheless, I still
+ think it correct to expand Austin’s analysis in the direction subsequently
+ taken by P. F. Strawson's and John Searle," and later by Stephen Schiffer
+ and David Holdcroft.’ It seems to me that if we wish to furnish the definition of illocutionary acts which Austin failed to provide, we need to
+ take seriously their status as acts and think about the kinds of intentions
+ that need to go into their successful performance."®
+    Although my remarks so far have been expository, it is I think vital
+ to add that we run the risk of missing their significance if we think of
+ them as an exposition of something called ‘the theory of speech acts’. It
+ seems to me seriously misleading to describe Wittgenstein or Austin as
+ proposing a theory in the sense of putting forward an hypothesis about
+ language. Their achievement is better described as that of finding a way
+ of describing, and hence of calling to our attention, a dimension and
+ hence a resource of language that every speaker and writer exploits all
+ the time, and which we need to identify whenever we wish to understand
+ any serious utterance.
+    To express their claim in this style is not just to insist on a preferred
+facon de parler. It is rather to insist that we shall miss the relevance of speech
+ act analysis if we think of it as just another piece of philosophical jargon
+ that we can brush aside if we happen not to like the sound of it. The
+ terminology I have been describing points to a fact about language.'7
+ We may of course wish to deny that it performs that task adequately.
+ But we can hardly deny the fact itself — that anyone issuing a serious
+ utterance will always be doing something as well as saying something,
+ and doing it in virtue of saying what is said. We make use of numerous
+ verbs the precise function of which is to enable us to make explicit, in
+ order to avoid misunderstanding, what exactly we see ourselves as doing
+ in saying what we say. We subjoin comments like: I am warning you;
+ I am ordering you (or else: I am not issuing orders, I am only advising/suggesting/telling you something). ‘The problem of interpretation
+    Austin 1980, p. 128.
+ ‘3 Strawson’s expansion in Strawson 1971, pp. 14.9—69 takes the form of questioning the prominence
+    Austin assigns to conventions (as opposed to speakers’ intentions) in his analysis of ‘uptake’.
+ “4 For the place of reflexive intentions in Searle’s analysis of illocutionary acts see Searle 1969,
+ ® Schiffer 1972, pp. 88-117 deploys a version of Grice’s intentionalist theory of meaning to anal-yse the relationship between meaning and speech acts. Cf. also the centrality assigned to the
+     recognition of communicative intentions in Bach and Harnish 1979.
+ '®© As I originally argued in Skinner 1970.
+ 7 ‘This point is well brought out in Petrey 1999, p. 22.
+
+=== p. 125 ===
+
+arises in part because we do not generally trouble, even in such everyday
+cases, to make explicit exactly what we see ourselves as doing, still less
+in the case of such enormously complex acts of communication as those
+which normally attract the attention of literary critics and intellectual
+historians. It may indeed be impossible to recover anything more than a
+small fraction of the things that Plato, say, was doing in The Republic. My
+point is only that the extent to which we can hope to understand The
+Republic depends in part on the extent to which we can recover them.
+
+                                                Ill
+
+I should next like to draw on, and at the same time to elaborate, some of
+my“ own studies about meaning and speech acts with a view to examining
+the bearing of these topics on the interpretation of texts.’® Before I can
+do so, however, I need to meet one serious objection that a number of
+critics have levelled against my statement of the case. I cannot hope,
+they claim, to draw from the theory of linguistic action the implications
+for textual interpretation I claim to find in it, since my account of these
+implications embodies a misunderstanding of the theory itself.
+   My critics claim to find two contrasting mistakes in my exposition
+of the connections between the intentions of speakers and the force of
+utterances. One is that, as Keith Graham has put it, I fail to recognise
+that ilocutionary intentions may be present in the absence of any corresponding illocutionary acts. For example, even if I succeed in speaking
+or writing with the intended force ofa warning, I may still fail to perform
+the corresponding ulocutionary act of bringing it about that someone 1s
+warned.9
+   This criticism can be traced back to Austin’s one account of speech
+acts, and even more clearly to Strawson’s elaboration of it. Austin admittedly thought it essential to the successful performance of an act, say,
+of warning that the agent should secure ‘uptake’ of the act as an act of
+warning.”° Austin makes it clear, moreover, and Strawson makes it even
+clearer, that this notion of ‘uptake’ depends upon a particular analysis
+of the descriptive element in the concept of action, an analysis that
+Graham?’s criticism in turn assumes to be correct. ‘The analysis in question is Aristotelian in provenance. The basic idea is that any voluntary
+action must be capable of being represented by the formula “bringing
+'8 T shall be drawing in particular on Skinner 1970, Skinner 1971, Skinner 1975, Skinner 1978a and
+"9 Graham 1988, p. 151.      *° Austin 1980, p. 116.
+
+=== p. 126 ===
+
+108                        Visions ofPolitics: Regarding Method
+
+it about that p’, where the value assigned to ‘p’ must be such as to indicate the new state of affairs brought about as a result of the action.”
+To perform an action is thus to produce some discernibly new end-state,
+one that can be represented not merely as a consequence of, but as an
+indication of, the successful performance of the action. As Austin himself
+put it, ‘I cannot be said to have warned an audience unless it hears what
+I say and takes what I say in a certain sense.’** Something must be newly
+true of my audience for my act to have been performed. I must at least
+have succeeded in altering its state of understanding, even if Ido not
+succeed in affecting its will.
+   It is this familiar analysis, however, that seems to me defective.*? It
+is of course true that I cannot be said to warn you unless I bring it
+about that p (that you are warned). But this is only to put the description
+through a passive transformation; it remains to assign a value to ‘p’.
+And here it seems to me (pace Austin as well as Graham) that there are
+very many locutions describing actions in which the only value we can
+hope to assign to ‘p’ — the state of affairs brought about by the action —
+is that it zs the state of affairs brought about by the action. ‘To put the
+point more elegantly, as Donald Davidson has done, there are many
+cases in which ‘p’ merely designates an event, not a newly true state of
+affairs which can be represented as the consequence of the successful
+performance of the act.’4 This certainly seems to me to apply to the case
+of warning. To warn someone is to advert to the fact that they are in
+danger. To succeed in performing the illocutionary act of warning is thus
+to succeed in adverting to that fact.*° So too with such paradigm cases
+of illocutionary acts as complimenting, informing and so on. ‘To bring
+it about that someone is complimented is merely to address them in an
+appropriately admiring style; to bring it about that they are informed
+is merely to issue an instruction of an appropriate kind. It is necessary
+in none of these cases to the successful performance of the ilocutionary
+act that there should be some end state ‘newly true’ of the person to
+whom the words are addressed. All this being so, it makes no sense to
+suggest, as Austin and Graham both do, that someone might succeed
+in speaking with the intended illocutionary force of a warning and yet
+fail to perform the corresponding illocutionary act of bringing it about
+that someone is warned. For to bring it about that someone is warned is
+simply to succeed in adverting to the fact that they are in danger.
+*" For an elaboration of this proposal see Kenny 1963, pp. 171-86.       ** Austin 1980, p. 116.
+*3 As I tried to show in Skinner 1971, pp. 3-12.    *4 Davidson 1967, p. 86.
+*) On the semantics of ‘warn’ see also Vanderveken 1999, vol. 1, p. 174.
+
+=== p. 127 ===
+
+   I now turn to the contrasting mistake that Graham and others”° have
+claimed to detect in my analysis of the relations between intentions and
+illocutionary acts. They have argued that, just as there can be illocutionary intentions without corresponding acts, so ‘I may perform an
+illocutionary act in the absence of an appropriate intention.”? What I
+am said to overlook is thus the class of what Graham has described as
+‘unintentional illocutionary acts’.2®
+   It is not the case, however, that I overlook this class; it is rather that
+I disbelieve in its existence. To say this, however, is by no means to fall
+into the absurdity — as Graham assumes — of believing that it is impossible to warn someone unintentionally. It is only to insist that, if |warn
+someone unintentionally, this will not be because I have performed the
+illoéutionary act of warning, but unintentionally. To perform the illocutionary act of warning, as I have argued above, is always to speak with
+the form and intended force of a warning; the act is constituted as the
+act of warning by the complex intentions that go into its performance.
+The reason why it is nevertheless possible to warn someone unintentionally is that there may be circumstances in which the issuing of a certain
+utterance will inevitably be taken to be a case of adverting to danger. In
+such circumstances the agent will be understood to have spoken, and will
+in fact have spoken, with the illocutionary force of a warning. This will
+remain the case even if the agent spoke without any intention to warn,
+and in consequence failed to perform the corresponding illocutionary
+   My critics fail to grasp what I take to be the essence of Austin’s original distinction between illocutionary forces and illocutionary acts. The
+former term points to a resource of language; the latter to the capacity of
+agents to exploit it in communication. The illocutionary acts we perform
+are identified, like all voluntary acts, by our intentions; but the illocutionary forces carried by our utterances are mainly determined by their
+meaning and context. It is for these reasons that it can readily happen
+that, in performing an illocutionary act, my utterance may at the same
+time carry, without my intending it, a much wider range of illocutionary force.*9 (For example, although I may intend only to warn you, my
+utterance may at the same time have, as it happens, the illocutionary
+
+26 For a careful discussion see McCullagh 1998, pp. 150-5. For further criticisms see Bevir 1999,
+°7 Graham     1988, p. 152. For the same criticism see Shapiro 1982, p. 563 and Boucher 1985,
+   pp- 220, 230.
+28 Graham 1988, pp. 153, 163.      °9 Holdcroft 1978, pp. 149-50, 154.
+
+=== p. 128 ===
+
+force of informing you of something.) But this is only to say that, due
+to the richness of any natural language, many and perhaps most of our
+utterances will carry some element of unintended illocutionary force.%°
+It is not in the least to point to a class of unintentional illocutionary
+acts.
+   With these attempted clarifications, | am now in a position to return
+to the question I posed at the outset. What can the theory of speech acts
+hope to tell us about the interpretation of texts? Here I need to begin by
+making a negative point with as much emphasis as possible. ‘The theory
+does not tell us, nor do I believe, that the intentions of speakers and writers
+constitute the sole or even the best guide to understanding their texts or
+other utterances.
+   There has of course been a school of criticism which has aimed to
+ground interpretation on just such an account of authorial intentionality.
+E. D. Hirsch, Peter Juhl and others have maintained that, in Hirsch’s
+words, if we wish to understand ‘the meaning of a text’ we need to
+understand ‘what the text says’, which in turn requires us to recover ‘the
+saying of the author’.3' Hirsch’s thesis, like that of Juhl, is thus that the
+‘verbal meaning’ of a text ‘requires the determining will’ of an author,
+and that this is what the interpreter must concentrate on trying to recover
+if the aim is to understand aright the meaning of the text.”
+    According to many of my critics, this is the thesis I endorse.°3 But in
+fact I have scarcely engaged with this argument,** and insofar as I have
+ever done so I have largely endorsed the anti-intentionalist case. I agree
+that, where a text says something other than what its author intended
+to say, we are bound to concede that this is nevertheless what the text
+says, and thus that it bears a meaning other than the one intended by
+its author. This is not perhaps a very subtle point on which to insist
+with as much vehemence as has become fashionable. But if the question
+is seen, in a sufficiently myopic style, as one about the understanding of
+
+3° As Holdcroft notes, it is not clear that this is recognised in Schiffer’s account. See also the
+      ‘generative’ account of illocutionary forces given in Travis 1975, which operates without the
+      distinction between the illocutionary force of utterances and the intended illocutionary force
+      with which speakers may issue them, and accordingly concludes (p. 49) that, in general, ‘each
+      utterance will have exactly one illocutionary force’.
+3 Hirsch 1967, pp. 12, 13. Cf. Hirsch 1976 and Juhl 1976, pp. 133-56.
+3 I<) Hirsch 1967, p. 27. For Juhl’s comments on Hirsch, see Juhl 1980, pp. 16-44.
+‘)oo LaCapra 1980, p. 254; Baumgold 1981, p. 935; Gunnell 1982, p. 318; Seidman 1983, pp. 83, 88;
+
+      Femia 1988, p. 157; Keane 1988, p. 207; Harlan 1989. I have responded to Harlan’s criticisms in
+34 As is rightly pointed out in Jenssen 1985. Cf. also Vossenkuhl 1982; Viroli 1987.
+35 A point excellently made in Dunn 1980, p. 84.
+
+=== p. 129 ===
+
+               Interpretation and the understanding of speech acts                  III
+
+texts, then of course the claim must stand. It would certainly be amazing
+if all the meanings, implications, connotations and resonances that an
+ingenious interpreter might legitimately claim to find in a text could in
+turn be shown to reflect its author’s intentions at every point. And it
+would be a straightforward mistake to infer that, ifwecame upon some
+such obviously unintended element, we should have to exclude it from
+an account of the meaning of the éex7.
+    I have only wished, however, to say as much about this issue as will
+enable me to distinguish it from a second and different question that
+arises about authorial intentionality. This is the question of what an
+author may have meant or intended by an utterance (whatever may be
+the meaning of the utterance itself). ‘To put the point in the jargon I have
+beefi using,  my principal concern has not been with meaning but rather
+with the performance of illocutionary acts.
+    As I have already argued, the question of what a speaker or writer
+may have meant by saying something arises in the case of any serious
+utterance. But it poses the most acute problems for interpretation in two
+ main types of case. One is when we are confronted with hidden rhetorical
+ codes such as that of irony. As I have already intimated in chapter 4, it
+ seems indisputable in this case that our understanding must depend on
+ our capacity to recover what the author intended or meant by what was
+ said. But it seems worth underlining the way in which this is so. For it
+ seems to me that the argument has been misstated by those, like Peter
+Juhl, who have wished to uphold the thesis about authorial intentionality
+which I have just considered and set aside.
+    Juhl and others have argued that the phenomenon of irony provides
+ the clearest evidence in favour of the claim that we need to recover an
+author’s intentions if we wish to understand ‘the meaning of a work’, the
+meaning of what was said.3° But when someone speaks or writes ironically, it may well be that there is no difficulty at all about understanding
+the meaning of what was said. It may well be that everything was said in
+virtue of its ordinary meaning. Where there is a difficulty about understanding such utterances, it generally arises not because of any doubts
+about meaning, but rather because of some doubt as to whether the
+speaker really meant what was said.
+   The problem of detecting irony arises, in other words, as a problem
+not about meaning but about illocutionary acts. ‘he ironic speaker 1s-sues an utterance with a certain meaning. At the same time, the speaker
+
+                36 Tuhl go ,
+                        1980, pp: p . 62, 64.
+                                           4. See also Stern geo,
+                                                             1980, pp p . 122-4.4
+
+=== p. 130 ===
+
+appears to perform an illocutionary act of a kind that falls within the
+range conventionally performed by such utterances. ‘To develop an example mentioned in chapter 4, the form and apparent force of Daniel
+Defoe’s argument in The Shortest- Way with the Dissenters is that of suggesting,
+recommending or calling for a particular course of action. (That religious
+dissenters be suppressed and preferably executed.) Reading Defoe’s simple proposal, however, we begin to doubt whether the standard way in
+which the meaning of an utterance helps us to decode its intended illocutionary force applies in this particular case. We come to see that Defoe is
+making a comment about the very idea of issuing such an utterance with
+the intended force that a mere inspection of its meaning might tempt us
+to assign to it. The utterance has the undoubted form and apparent force
+of a recommendation, even of a demand. But Defoe is not performing
+the corresponding illocutionary act. On the contrary, his illocutionary
+intention is that of ridiculing the intolerance that would be embodied in
+performing it.
+   This, then, is one type of case in which it is, I think, indispensable
+to recover the intentions of authors if we wish to understand their utterances. But the reason is not, pace Juhl, that we shall otherwise fail to
+understand the meaning of what was said. The meaning of what Defoe
+said was at no point unclear. What he said was that religious dissent
+should be ranked among capital offences.37 What this means is that
+religious dissent should be ranked among capital offences. The reason
+we need to recover Defoe’s intentions is rather that we shall otherwise
+fail to understand what he was dozng in issuing this particular utterance.
+The intentions we need to recover are the illocutionary intentions that
+went into his act of ridiculing and thereby questioning contemporary
+religious intolerance. ‘They are the intentions we may be said to have
+recovered when we come to appreciate that this is how he meant his
+utterance (with its given meaning) to be understood.
+    I turn to the other and enormously broader range of cases in which
+the recovery of this form of intentionality raises special difficulties. This
+is where the speaker or writer issues a serious utterance but fails to make
+clear how exactly the utterance is to be taken or understood. ‘This may
+of course happen because (as in the case of irony) the speaker lacks
+the standard motive we normally possess for making fully explicit the
+intended force of our utterances. But the usual reason will rather be
+
+37 Defoe 1965, p. 96. Stern 1980 mentions the example (p. 124) but in my view draws the wrong
+   moral from it. But cf. the helpful discussion in Bevir 1999, pp. 81-2.
+
+=== p. 131 ===
+
+that the meaning of the utterance itself, together with the context of its
+occurrence, are such that the speaker feels no doubt about the capacity
+of his or her audience to secure ‘uptake’ of the intended illocutionary
+    Such confidence is generally well-founded in the case of everyday
+communications. So we usually regard it as over-emphatic to employ
+what Austin called explicit performative formulae for making manifest
+how exactly we intend our utterances to be taken.3° Even here, however,
+we may sometimes feel the need to reassure our intended audience. This
+is what prompts us to say things like ‘When I said that the ice over there is
+very thin, I wasn’t criticising you, I was only issuing a warning.’ As soon as
+we turn to more complex cases, especially historical utterances where we
+are fio longer the intended audience, such problems of ‘uptake’ readily
+become acute. In these instances it may be impossibly hard to recover
+what the writer was doing in saying what was said. But the point on which
+I have been insisting all along is that, unless we can somehow perform
+this act of recovery, we shall remain cut off from an entire dimension of
+understanding.
+    ‘To summarise: I have distinguished two questions about the meaning
+and understanding of texts. One is the question of what the text means,
+the other the question of what its author may have meant. I have argued
+that, if we are to understand a text, both questions must be answered.
+It is true, however, that while these questions are separable, they are
+not in the end separate. If I am to understand what someone meant
+or intended by what they said, I must first be sure that the meaning of
+what they said was itself intended. For otherwise there will be nothing
+that they meant by it. As I have tried to insist, however, this must at
+all costs be distinguished from the thesis that the meaning of a text
+can be identified with what its author intended. Any text will normally
+include an intended meaning, and the recovery of that meaning certainly
+constitutes a precondition of understanding what its author may have
+meant. But any text of any complexity will always contain far more in
+the way of meaning than even the most vigilant and imaginative author
+could possibly have intended to put into it. Paul Ricoeur has spoken in
+this connection of surplus meaning, and with this formulation I am in
+complete agreement.39 So I am far from supposing that the meanings
+
+38 Austin 1980, pp. 56ff; cf. also p. 116n.
+39 For the centrality of this theme in Paul Ricoeur’s hermeneutics see Leeuwen 1981. For a discussion
+   of my own approach by contrast with Ricoeur’s see Thompson 1993.
+
+=== p. 132 ===
+
+of texts can be identified with the intentions of their authors; what must
+be identified with such intentions is only what their authors meant by
+them.
+
+                                              IV
+
+I now turn to the methodological — and hence the practical — implications
+of what I have so far argued. I have been claiming (to revert to Austin’s
+way of formulating the point) that the understanding or ‘uptake’ of the
+intended illocutionary force of any utterance will always constitute a
+necessary condition of understanding the utterance itself. But how 1s this
+process of ‘uptake’ to be achieved in practice in the case of the vastly
+complex linguistic acts in which literary critics and intellectual historians
+are characteristically interested?*°
+   The philosophers of language are not much help at this stage, but it
+seems to me that, in outline, we can distinguish two main ingredients in
+the concept of ‘uptake’. The most obvious determinant of the intended
+force of any utterance must be the meaning of the utterance itself. Consider only the most obvious fact: that meaning is affected by grammatical
+mood. When the policeman issues the utterance “The ice over there is
+very thin’, the intended illocutionary force cannot, for example, be that
+of questioning the skater.’ This is not to say — with Jonathan Cohen,
+Stephen Schiffer and others — that the concept of illocutionary force
+simply describes an aspect of the meaning of utterances.” It has been
+my whole purpose to insist that it points to a separable dimension of
+language.*3 But there can be no doubt that the meaning of utterances
+helps to limit the range of illocutionary forces they can bear, and thereby
+serves to exclude the possibility that certain illocutionary acts are being
+performed.
+   The second determinant I have tried to emphasise is the context and
+occasion of utterances.44 The relevant notion of context here is one
+of great complexity, but we can readily single out the most crucial
+
+4° Graham 1980, pp. 147-8. Shapiro 1982, p. 548 repeats the criticism. See also Boucher 1985,
+   p. 212; Levine 1986, pp. 38, 44-5.
+4" On interrogatives and performatives see Holdcroft 1978, pp. 102-6.
+   I have tried to rebut Cohen’s scepticism in Skinner 1970, pp. 120-1, 128-9. Cf. also Graham
+   1977.
+43 For a discussion of this point see Bevir 1999, pp. 134-7.
+   For a critique of this conception of the context of utterances see Oakley 1999, pp. 8-24.
+* On the philosophical complexities see Holdcroft 1978, pp. 151-70. On the practical difficulties
+   attendant on reconstructing the historical contexts of texts see Hume 1999.
+
+=== p. 133 ===
+
+element in it. This is the fact, which I have already sought to emphasise
+in chapter 4, that all serious utterances are characteristically intended as
+acts of communication. So they characteristically occur, as Austin always
+insisted, either as acts of aconventionally recognisable character, or else
+more broadly in the form of recognisable interventions in what Austin
+called a total speech act situation.4° This second point can be extended,
+and brought into line with my present concerns, by emphasising that
+the types of utterance I am considering can never be viewed simply as
+strings of propositions; they must always be viewed at the same time
+as arguments. But to argue is always to argue for or against a certain
+assumption or point of view or course of action. It follows that, if we
+wish to understand such utterances, we shall have to find some means
+of identifying the precise nature of the intervention constituted by the
+act of uttering them. This I consider the most important step we need to
+take in any attempt to grasp what someone may have meant by saying
+something.*’ If we fail to take it we shall find ourselves, as David Wootton
+has remarked, in a position comparable to that of someone listening to
+the prosecution or the defence in a criminal trial without having heard
+the other side. We shall find it impossible to understand ‘why apparently
+promising lines of argument are never pursued, while at other times
+what seem to be trivial distinctions and secondary issues are subjected to
+lengthy examination’.!® To put the point in another way, there is a sense
+in which we need to understand why a certain proposition has been put
+forward if we wish to understand the proposition itself49 We need to
+see it not simply as a proposition but as a move in an argument. So we
+need to grasp why it seemed worth making that precise move by way of
+recapturing the presuppositions and purposes that went into the making
+of it.
+   Here I am generalising R. G. Collingwood’s dictum to the effect that
+the understanding of any proposition requires us to identify the question
+to which the proposition may be viewed as an answer.°° I am claiming,
+that is, that any act of communication will always constitute the taking
+up of some determinate position in relation to some pre-existing conversation or argument. It follows that, if we wish to understand what has
+been said, we shall have to identify what exact position has been taken
+up. So far I have expressed this contention in terms of Austin’s claim that
+
+     4° Austin 1980, pp. 116-20.      47 ‘Tully 1988, pp. 8-10.   48 Wootton 1986, p. 10.
+     49 For this formulation see Ayers 1978, p. 44 and Hylton 1984, p. 392.
+     5° Collingwood 1939, p. 39-
+
+=== p. 134 ===
+
+we need to be able to understand what the speaker or writer may have
+been doing in saying what was said. But it is, I think, a fascinating though
+unnoticed feature of Austin’s analysis that it can in turn be viewed as an
+exemplification of what Collingwood called the logic of question and
+answer."
+   One final observation about this notion of intervening in a context.
+There is no implication that the relevant context need be an immediate one.5? As J. G. A. Pocock has especially emphasised, the problems
+to which writers see themselves as responding may have been posed in
+a remote period, even in a wholly different culture.’ The appropriate
+context for understanding the point of such writers’ utterances will always be whatever context enables us to appreciate the nature of the
+intervention constituted by their utterances. To recover that context in
+any particular case, we may need to engage in extremely wide-ranging
+as well as detailed historical research.
+   I have already gestured at these commitments in chapters 4. and 5, but
+now is the moment to summarise my case. My contention, in essence, 1s
+that we should start by elucidating the meaning, and hence the subject
+matter, of the utterances in which we are interested and then turn to
+the argumentative context of their occurrence to determine how exactly
+they connect with, or relate to, other utterances concerned with the same
+subject matter. If we succeed in identifying this context with sufficient
+accuracy, we can eventually hope to read off what it was that the speaker
+or writer in whom we are interested was doing in saying what he or she
+said.
+   By way of illustration, consider the most straightforward type of case,
+that of a simple declarative statement. For example, consider again one
+of the statements I discussed in chapter 3: Machiavelli’s claim that mercenary armies always undermine liberty. There is little difficulty about
+understanding the meaning of the utterance itself. But we wish in addition to understand what Machiavelli meant by it. So we turn to the
+general context in which it occurred. Suppose we find that the sentiment expressed by the utterance was frequently expressed in the political literature of the time. Then we are already justified in saying that
+Machiavelli is repeating, upholding or agreeing with an accepted attitude or viewpoint. Looking more closely at the intervention constituted
+
+5" Collingwood 1939, pp. 29-43. On the pragmatics of explanation see also Garfinkel 1981, pp. 7-14.
+» Here I attempt to meet a criticism made in Turner 1983, pp. 283-6.
+93 See Pocock 1980, esp. pp. 147-8, and cf. also Pocock 1973.
+
+=== p. 135 ===
+
+by his utterance, we may feel able to go further. We may feel justified in
+adding that he is endorsing, confirming or concurring with an accepted
+truth; or alternatively, that he is only conceding, admitting or allowing it
+to be true. On the other hand, we may find that he is saying something
+no longer generally accepted, even though it may at one time have been
+widely agreed. ‘Then perhaps what he is doing is restating, reaffirming
+or recalling his audience to the truth of what he is saying; perhaps, more
+specifically, he is at the same time emphasising, underlining or insisting
+on its truth. Or again, we may find that what he says is not generally accepted at all. ‘Then perhaps what he is doing is denying and repudiating,
+or perhaps correcting and revising, a generally accepted belief. Or he
+may    be enlarging, developing           or adding      to an established argument b
+sae out isae: inan ee                       eel way. At the ee time, fe
+may be pressing or urging a recognition of this new viewpoint, or advising, recommending or even warning his audience of the need to adopt
+it. By paying as close attention as possible to the context of utterance,
+we can hope gradually to refine our sense of the precise nature of the
+intervention constituted by the utterance itself. We can hope, that is, to
+recapture with an increasing sense of nuance what exactly Machiavelli
+may have intended or meant.
+    The upshot of employing this approach, it is perhaps worth underlining, is to challenge any categorical distinction between texts and
+contexts.°# Critics such as John Keane have accused me of adopting a
+traditional ‘author-subject’ approach, the implication being that I have
+yet to hear about the death of the author announced a long time ago by
+Roland Barthes and Michel Foucault.®°° It is true that their announcement has always struck me as exaggerated. I accept of course that we
+are all limited by the concepts available to us if we wish to communicate.
+But it is no less true that language constitutes a resource as well as a
+constraint — a point I shall go on to explore in chapters 8 and g.5° This
+means that, if we wish to do justice to those moments when a convention
+is challenged or a commonplace effectively subverted, we cannot simply
+dispense with the category of the author. The point takes on an added
+significance when we reflect that, to the extent that our social world is
+
+54 Jenssen 1985, p. 129 valuably emphasises this point. On genres and the expectations they arouse
+   see also Jauss 1970, pp. 11-14.
+55 See Keane 1988, p. 205 and cf. also Kjellstrém 1995. On the death of the author see Barthes
+ _ 1979; Pp. 73-81.
+5° For a sympathetic appraisal of the view I am taking here about the relations of structure and
+  agency see Edling and Morkenstam 1995, pp. 120~4.
+
+=== p. 136 ===
+
+constituted by our concepts, any successful alteration in the use ofacon-cept will at the same time constitute a change in our social world. As
+James Tully has observed, the pen can be a mighty sword.°/
+   Nevertheless, it ought to be obvious that the approach I am sketching leaves the traditional figure of the author in extremely poor health.
+Reiterating, underpinning and defending commonplace insights as they
+generally do, individual authors can readily come to seem the mere
+precipitates of their contexts, as Barthes and Foucault originally em-phasised. It is certainly an implication of my approach that our main
+attention should fall not on individual authors but on the more general discourse of their times.5® The type of historian I am describing
+is someone who principally studies what J. G. A. Pocock calls ‘languages’ of debate, and only secondarily the relationship between individual contributions to such languages and the range ofdiscourse as a
+whole.°9
+   A number of my critics — most notably Martin Hollis and James
+Tully — have objected that the method I am sketching still falls short
+ofestablishing what individual writers may have intended or meant. We
+may be able to say of a contribution to a pre-existing discourse that it
+constitutes an attack on one position, a defence of another, a revision of
+a third, and so forth. We may be able, that is, to establish what its author
+was doing. But as Hollis has remarked, this is only to show that the cap
+fits, not that the author was wearing it.°° To express the objection in
+the idiom I have been using, we can hope by these means to identify
+illocutionary forces, but not necessarily any illocutionary acts.
+    There seem two possible retorts. The more radical would be to turn
+the objection back and ask whether we need concern ourselves with the
+states of mind of individual authors at all. We are speaking about texts,
+and the performativity in which I am interested can validly be treated as
+a property of texts in themselves. We can perfectly well rest content with
+observing that a text constitutes an attack on one position, a defence
+of another, a revision of a third, and so forth. We can limit ourselves
+to arguing about the defensibility of such claims, and to pursuing the
+kinds of historical research that will enable us to enrich and refine them.
+We can thereby limit our study entirely to texts, their characteristics and
+behaviour, and forget about authors altogether.
+
+57 ‘Tully 1988, p. 7.
+58 For some especially perceptive remarks on Foucault's conception of discourse see Hollinger 1985,
+   Dob WANS ple
+59 Pocock 1985, pp. 7-8, 23.      6 See Hollis 1988, pp. 139-40 and cf. Tully 1988, p. 10.
+
+=== p. 137 ===
+
+    There is much to be said in favour of this proposal that we should limit
+ourselves to studying what Foucault characterised as discursive regimes,
+and thus to a pure archaeology of utterances. But an alternative reply
+would be to acknowledge that texts do, after all, have authors, and that
+authors have intentions in writing them. Perhaps the right aspiration is to
+try to close the gap between claiming that a text is doing something and
+claiming that its author is doing it. To express the point as a reply to Hollis
+and ‘Tully, it sometimes seems a matter of no great difficulty to move from
+the claim, say, that an utterance constituted a retort to an established line
+of argument to the further claim that this is to be explained by the fact
+that its author intended the utterance to constitute just such a retort.
+    By way ofillustration, consider again the example I have been taking
+of Machiavelli’s views about mercenary armies. We already know a list
+of the things he was undoubtedly doing in saying what he said about
+them. But we also know that, if he was engaged in an intended act of
+communication, there must have been something that he was intentionally doing in saying what he said. Perhaps the best hypothesis to adopt is
+that, whatever he was doing, he was doing it intentionally, and thus that
+we have in fact identified the range of intended illocutionary forces with
+which his utterance was produced.
+    Once this stage is reached, we can hope to close the gap still further by
+testing our hypothesis in various ways. Since intentions depend on beliefs, we can perform one obvious test by making sure that Machiavelli
+possessed the beliefs appropriate to the formation of the kinds of intentions we are ascribing to him. We can perform a yet further test by
+taking advantage of the fact that the intentions with which we act are
+always closely connected with our motives. ‘This provides a vital means
+of corroborating any hypothesis to the effect that a speaker or writer
+may have intended a certain utterance to bear a particular illocutionary
+force. For the suspicion that someone may have performed a certain
+action will always be greatly strengthened (as every reader of detective
+stories knows) by the discovery that they had a motive for performing it.
+Finally, ascriptions of intentionality can be further corroborated by examining the coherence of a speaker’s or writer’s beliefs. Suppose that, in
+issuing the utterance we have been considering, Machiavelli upheld one
+position in argument, rejected another, denounced one course of action,
+recommended another, and so on. Assuming that he held minimally coherent beliefs, we can safely assume — in a sense we can predict — that
+he will also adopt a number of related attitudes. If he upholds position
+(a) we can expect him to reject the negation of (a); if he recommends
+
+=== p. 138 ===
+
+alternative (x) we can expect him to criticise the contrary of (x); and so
+on. If upon further investigation we find these expectations defeated, we
+shall begin to feel at a loss. But if we succeed in recovering just such
+a network of attitudes, we shall feel increasingly justified in our initial
+hypothesis: that, in issuing an utterance with the force of upholding and
+commending a certain position, he must have intended his utterance to
+bear exactly that force.
+   I need to end by underlining the Wittgensteinian character of
+these commitments. Nothing I am saying presupposes the discredited
+hermeneutic ambition of stepping empathetically into other people’s
+shoes and attempting (in R. G. Collingwood’s unfortunate phrase) to
+think their thoughts after them. The reason why no such conjuring trick
+is required is that, as Wittgenstein established long ago in criticising the
+concept of a private language, the intentions with which anyone performs a successful act of communication must, ex hypothest, be publicly
+legible. Consider again the imaginary example I offered in chapter 5
+of the man waving his arms by way of warning me that the bull is
+about to charge.®! To recognise that he is warning me is to understand the intentions with which he is acting. As I observed, however,
+to recover these intentions is not a matter of identifying the ideas inside
+his head at the moment when he first begins to wave his arms. It is a
+matter of grasping the fact that arm-waving can count as warning, and
+that this is evidently the convention being exploited in this particular
+case. Nothing in the way of ‘empathy’ is required, since the meaning
+of the episode is public and intersubjective.” As a result, as Ihave now
+sought to argue, the intentions with which the man is acting can be inferred from an understanding of the conventional significance of the act
+    I have been arguing that texts are acts, so that the process of understanding them requires us, as in the case of all voluntary acts, to recover
+the intentions embodied in their performance. But this is not the mysterious empathetic process that old-fashioned hermeneutics may have
+led us to believe. For acts are in turn texts: they embody intersubjective
+meanings that we can hope to read off.
+   It has been fashionable of late to object that this line of argument
+concedes in effect that intentionality is irrecoverable after all. This is
+®t But for a critique of my interpretation of this example see Rosebury 1997.
+® Cf. the discussion in Geertz 1980, pp. 134-6. On the fallacy of supposing that historians must be
+   able to ‘commune with the dead’ see also Strout 1992.
+®3 On social actions as texts see Ricoeur 1973 and Geertz 1983, pp. 30-3. For a discussion of
+   texts/actions see also Makkreel 1990.
+
+=== p. 139 ===
+
+the moral drawn by Jacques Derrida from his consideration of an example I have already mentioned in chapter 5: that of the fragment,
+found among Nietzsche’s manuscripts, which reads ‘I have forgotten my
+umbrella.’°! Derrida concedes that in this instance there is no difficulty
+about understanding the meaning of the sentence. ‘Everyone knows what
+“I have forgotten my umbrella” means.”°5 His objection is that this still
+leaves us without any ‘infallible way’ of recovering what Nietzsche may
+have intended or meant.®° ‘We shall never know for sure what Nietzsche
+wanted to do or say in noting these words.’*7 To phrase the objection in
+the jargon of speech act theory (to which Derrida appears to be alluding)
+we have no means of recognising what Nietzsche was doing, no means
+of recovering what speech act he intended to perform. Was he merely
+informing Someone that he had forgotten his umbrella? Or was he perhaps warning them, or reassuring them? Or was he instead explaining
+something, or apologising, or criticising himself, or simply lamenting a
+lapse of memory? Perhaps, as Derrida suggests, he meant nothing at all.
+Derrida’s point is that we shall never know.
+   It will be clear by now that I have no wish to dispute such obvious
+truths. Some utterances are completely lacking in the sorts of context
+from which we can hope to infer the intentions with which they were uttered. We may well be obliged to concede in such cases that we can never
+hope to arrive at even a plausible hypothesis about how the utterance
+in question should be understood. ‘The example of the umbrella seems,
+indeed, to be just such a case. As usual, Derrida’s example is excellently
+chosen to make his point.
+   To this we must add that, even when an utterance can be assigned to
+a highly determinate context, Derrida remains right to insist that we can
+never hope to know ‘for sure’ or by any ‘infallible means’ what may have
+been meant. The outcome of the hermeneutic enterprise, I fully agree,
+can never be anything resembling the attainment of a final, self-evident
+or indubitable set of truths about any text or other utterance whatsoever.
+Even our most confident ascriptions of intentionality are nothing more
+than inferences from the best evidence available to us, and as such are
+defeasible at any time.
+
+64 Derrida 1979, pp. 122, 123.
+5 Derrida 1979, p. 128: ‘Chacun comprend ce que veut dire “j'ai oublié mon parapluie”.’
+66 Derrida 1979, pp. 123, 125, 131. Nehamas     1985, pp. 17, 240 interestingly discusses the lack
+   of any defence by Derrida of ‘his assumption that infallibility and certainty are necessary if
+   interpretation is to be possible’.
+67 Derrida 1979, p. 122: ‘Nous ne serons jamais assurés de savoir ce que Nietzsche a voulu faire ou
+   dire en notant ces mots.’
+
+=== p. 140 ===
+
+   It scarcely follows, however, that we can never hope to construct and
+corroborate plausible hypotheses about the intentions with which an
+utterance may have been issued. We can frequently do so in just the
+manner I have been trying in this section to set out. We can of course
+stipulate, if we like, that the result will not be a valid interpretation,
+since it will fall far short of certitude. If we insist, as Derrida does, on
+such an equation between establishing that something is the case and
+being able to demonstrate it ‘for sure’, then admittedly it follows that we
+can never hope to establish the intentions with which a text may have
+been written, and thus what its author may have meant. But equally it
+follows that we can never hope to establish that life is not a dream. ‘The
+moral of this, however, is not that we have no reason to believe that life
+is not a dream. The moral is rather that the sceptic 1s insisting on too
+stringent an account of what it means to have reasons for our beliefs.
+Haunted as Derrida appears to be by the ghost of Descartes, he has
+concentrated on attacking a position that no theorist of intentionality
+need defend.
+
+                                           V
+
+My friendliest critics have raised no objections to the general line of
+argument I have now tried to lay out. They have merely wondered
+whether it is of much importance. They concede that we can certainly
+hope to recover the intended force of texts and other utterances. But they
+insist that, as Hough puts it, we can hardly expect that the outcome will
+be to supply us with anything more than ‘meagre platitudes’ about the
+works concerned.°
+   The best way of showing that this doubt is misplaced will be to consider
+some specific examples. Consider, for instance, the nature of the satire we
+encounter in Cervantes’s Don Quixote. One tradition of interpretation has
+always maintained that, since the Don’s aspirations include the righting
+of wrongs and the succouring of the oppressed, we are to think of the
+satire as directed only at his sadly outdated approach to life, not at his
+values in themselves. We are asked, that is, to think of the Don as having
+‘anoble halfand a comic half” to his character.°9 As a number of scholars
+have observed, however, such a reading becomes harder to sustain once
+we begin to examine Cervantes’s comedy in relation to the genre of
+chivalric romances so popular at the time, and thereby begin to acquire
+                °8 Hough 1976, p. 227. Cf. also Seidman 1983, p. gt.
+                °9 See Close 1972 for a discussion of the historiography.
+
+=== p. 141 ===
+
+a sense of what Cervantes was doing in so continually alluding to them.7°
+We begin to see, as Close in particular has argued, that Don Quixote’s
+values and aspirations, no less than his actual conduct, constitute ‘a madly
+literal mimicry of the stereotype behaviour of the heroes of chivalric
+romance’.’" We begin to see, in other words, that what Cervantes is doing
+is seeking to discredit not merely the possibility of living a chivalric life
+but the values associated with that life as well. But to see this much is to
+come away with far more than a meagre characterisation of Cervantes’s
+masterpiece. It is to come away with a new sense of how to appraise the
+character of the protagonist, with a new view of the reach and direction
+of the satire, and hence with a different understanding of the underlying
+morality of the work. These are hardly meagre results.
+   Nor is the approach I have been sketching limited to providing general
+characterisations of this kind. I have perhaps encouraged this misconception by the way in which I have often spoken, grammatically in the
+singular, about the recovery of intended illocutionary force.’? But it ought
+to be obvious that an immense range of illocutionary acts will normally
+be embedded within the types of texts I have been discussing, and that
+even the smallest individual fragments of such texts may carry a heavy
+freight of intended illocutionary force.
+       As an illustration of this further claim, consider the end of E. M.
+ Forster’s novel A Passage to India. The novel closes with the words:
+ ‘Weybridge, 1924’./ ‘The meaning is clear enough: Forster is stating
+ that he completed the book while living in a London suburb in the year
+ 1924. At the same time he is following a convention, more common at the
+ time than nowadays, of informing his readers about the circumstances
+ in which he wrote the book. It may seem that there is nothing more to
+ be said. Indeed, it may seem almost absurd to go on to ask the type of
+ question in which I am interested — but what is Forster domg in stating
+ such facts? Surely he is simply stating them.
+    But is this so clear? We may find ourselves reflecting that the
+ convention of signing-off novels in this way was sometimes used to
+ draw attention to the romantically nomadic life of the author. James
+Joyce’s Ulysses, for example, published only two years before, is signed
+7° Close 1972 offers a pioneering reading along these lines.
+7" See Close 1972, p. 37 and for a more general consideration of the issues involved see Kiremidjian
+     1969-70, esp. pp. 231-2.
+7 i) For example, Parekh and Berki 1973, p. 169 complain that I am only interested in ‘a definite
+     “intention” in performing a single action to bring about a definite result’,
+~ oo Forster 1924, p. 325. The signing-off has unfortunately been omitted, without explanation, from
+
+     the Abinger Edition of A Passage to India (1978).
+
+=== p. 142 ===
+
+‘Trieste-Ziirich-Paris’.’4 By locating himself firmly in Weybridge — the
+classic instance of a prosaic English suburb — Forster introduces an audible note of mockery as well as self-ridicule. At the same time, we may
+find ourselves reflecting that the convention of signing-off was sometimes
+used in addition to underline the fact that literary labour can be an impressively protracted affair. The dates at the end of Ulysses, for example,
+read ‘1914-1921’. By confining himself to a single year, Forster allows
+himself a touch of hauteur, even of scorn, at the expense of those who
+preferred to emphasise their creative agonies. Once we see this much, we
+may well begin to suspect that Forster is satirising the entire convention
+of signing-off fictional works by indicating the posturing to which the
+convention gave rise.
+   I end with this example as a way of underlining the fact that the proposal I have been putting forward about the dimension of illocutionary
+acts is neither so jejune nor so restricted in scope as many of my critics
+have maintained. It is certainly a mistake to suppose that the recovery
+of this dimension will be of no interest except in the case of certain
+restricted genres of texts. The dimension is present in the case of all
+serious utterances, whether in verse or in prose, whether in philosophy
+or in literature.’5 It is a further mistake to suppose that the recovery of
+this dimension will merely provide us with general characterisations of
+the works involved. Any text of any complexity will contain a myriad
+of illocutionary acts, and any individual phrase in any such text — as I
+have just indicated — may even contain more acts than words. ‘This is
+one of the most obvious reasons why we can never expect our debates
+about interpretation to have a stop. As I have tried to indicate, the reason is not that there is nothing determinate to be said. It is rather that,
+in the case of a work of any complexity, there will always be room for
+legitimate and fruitful but potentially endless debate about — to end with
+Austin’s phrase — how exactly the work may have been meant to be
+taken.
+
+                                               VI
+
+The chief aspiration underlying the method I have been describing is
+that of enabling us to recover the historical identity of individual texts in
+
+74 Joyce 1969, p. 704.
+15 This point is well brought out in Pratt 1977, in which the main target is the idea that literary
+    discourse represents a special type of language rather than a particular use of language.
+
+=== p. 143 ===
+
+the history of thought. The aim is to see such texts as contributions to
+particular discourses, and thereby to recognise the ways in which they
+followed or challenged or subverted the conventional terms ofthose discourses themselves. More generally, the aim is to return the specific texts
+we study to the precise cultural contexts in which they were originally
+formed.
+   Critics have repeatedly complained that this reduces the study of the
+history of thought to nothing more edifying than a conducted tour of
+a graveyard.’° But this objection seems to me to embody a depressingly philistine failure to appreciate what we can hope to learn about
+ourselves from a serious study of unfamiliar modes of thought. As I
+have already suggested at the end of chapter 4, the ‘relevance’ of such
+studies lies in their capacity to help us stand back from our own assumptions and systems of belief; and thereby to situate ourselves in
+relation to other and very different forms of life. To put the point in
+the way that Hans-Georg Gadamer and Richard Rorty have more recently done, such investigations enable us to question the appropriateness
+of any strong distinction between matters of ‘merely historical’ and of
+‘genuinely philosophical’ interest, since they enable us to recognise that
+our own descriptions and conceptualisations are in no way uniquely
+privileged.7/
+   But what is the value, it is often asked, of seeing ourselves in this way
+as one tribe among others? There are many cogent answers, although
+it is hard to avoid sounding sententious in mentioning them. We can
+hope to attain a certain kind of objectivity in appraising rival systems of
+thought. We can hope to attain a greater degree of understanding, and
+thereby a larger tolerance, for elements of cultural diversity. Above all,
+we can hope to acquire a perspective from which to view our own form
+of life in a more self-critical way, enlarging our present horizons instead
+of fortifying local prejudices.7®
+   It would be good to be able to refer at once to a long list of scholarly
+works from which it is possible to improve one’s education in just these
+ways. But one cannot in the nature of things hope for so much. For a fine
+attempt, however, to deliver on all these promises, it is certainly possible
+
+7© Leslie 1970, p. 433; Tarlton 1973, p. 314; Warrender 1979, p. 939; Gunnell 1982, p. 327; Femia
+   1988, pp. 158-9, 163; Mandell 2000, pp. 119-20. For a still more radical doubt see Rée 1991,
+   pp- 978-80.
+77 See Gadamer 1975, pp. 235-74 on ‘the historicality of understanding’ and cf. Rorty 1979,
+   pp. 362-5, 371 and references to Gadamer there.
+78 For these and other considerations about the value of diversity see Geertz 1983, pp. 3-16.
+
+=== p. 144 ===
+
+to turn, for example, to James Tully’s recent work, and especially to his
+critique of modern constitutionalism from the perspective of an earlier
+tradition swept aside by the onrush of the imperialist phase of modern
+European history.’9 The buried treasure he has excavated has the power
+to enrich our political arguments here and now.
+   I do not mean to confine myself, moreover, to the suggestion that
+our historical and ethnographic studies can help us only by such indirect
+means to become less parochial in our attachment to our inherited beliefs.
+We may also find, as a result of engaging in such excavations, that some of
+what we currently believe about, say, our moral or political arrangements
+turns out to be directly questionable. We are prone, for example, to
+think that the concept of individual responsibility is indispensable to
+any satisfactory moral code. But A. W. H. Adkins’s analysis of ancient
+Greek values casts considerable doubt on that article of faith.®° We are
+prone to think that there can be no concept of the state in the absence
+of centralised systems of power. But Clifford Geertz’s study of classical
+Bali shows us how the one can flourish in the absence of the other.*" We
+are prone to think that there can be no theory of individual liberty in
+the absence of a theory of rights. But as I try to indicate in volume 2 of
+the present work, one value of investigating the pre-modern history of
+political philosophy is to show that there need be no necessary connection
+between the two. The alien character of the beliefs we uncover constitutes
+their ‘relevance’. Reflecting on such alternative possibilities, we provide
+ourselves with one of the best means of preventing our current moral and
+political theories from degenerating too easily into uncritically accepted
+ideologies.®? At the same time, we equip ourselves with a new means of
+looking critically at our own beliefs in the light of the enlarged sense of
+possibility we acquire.
+   Ours is a reactionary age, filled with noisy pundits eager to assure us
+that the kind of argument I am here sketching is merely another way of
+proclaiming the relativity of all values, and thus of leaving us bereft of
+any values at all.°3 This seems to me as far as possible from the truth.
+The kind of enquiry I am describing offers us an additional means of
+reflecting on what we believe, and thus of strengthening our present
+
+      79 ‘Tully 1995, esp. pp. 99-182. For an appraisal see Owen 1999.
+      8° Adkins 1960, pp. 348-51.
+      8! Geertz 1980, pp. 121-36. For an excellent discussion see Inglis 2000, pp. 156-80.
+      82 Here I am much influenced by MacIntyre 1971, esp. pp. vili—ix.
+      83 See, for example, the arguments cited and criticised in Geertz 2000, pp. 42-67.
+
+=== p. 145 ===
+
+               Interpretation and the understanding of speech acts      [27
+
+beliefs by way of testing them against alternative possibilities, or else of
+improving them if we come to recognise that the alternatives are both
+possible and desirable. A willingness to engage in this kind of reflection
+seems to me a distinguishing feature of all rational agents. ‘To denounce
+such studies is not a defence of reason but an assault on the open society
+

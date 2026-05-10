@@ -1,0 +1,1848 @@
+=== chunk: gadamer-1960-truth-and-method/ch4-s3-effected-consciousness ===
+title: Ch. 4 §3 — Historically effected consciousness; logic of question and answer
+source_pdf: docs/sources/gadamer-1960-truth-and-method/full.pdf
+pdf_pages: 373-419
+page_scheme: book
+plan_page_start: 335
+plan_page_end: 383
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 335 ===
+
+  the whole of historical tradition, which he has to mediate with his own
+  present existence if he wants to understand it and which in this way he
+  keeps open for the future.
+      Thus we too acknowledge that there is an inner unity between philology and
+  literary criticism on the one hand and historical studies on the other, but we do
+  not see it in the universality of the historical method, nor in the
+  objectifying replacement of the interpreter by the original reader, nor in
+  historical critique of tradition as such but, on the contrary, in the fact that
+  both perform an act of application that is different only in degree. If the
+  philologist or critic understands the given text—i.e., understands himself
+  in the text in the way we have said—the historian too understands the
+  great text of world history he has himself discovered, in which every text
+  handed down to us is but a fragment of meaning, one letter, as it were, and
+  he understands himself in this great text. Both the critic and the historian
+  thus emerge from the self-forgetfulness to which they had been banished
+  by a thinking for which the only criterion was the methodology of modern
+  science. Both find their true ground in historically effected consciousness.
+      This shows that the model of legal hermeneutics was, in fact, a useful
+  one. When a judge regards himself as entitled to supplement the original
+  meaning of the text of a law, he is doing exactly what takes place in all
+  other understanding. The old unity of the hermeneutical disciplines comes into its
+  own again if we recognize that historically effected consciousness is at work in all
+  hermeneutical activity, that of philologist as well as of the historian.
+      The meaning of the application involved in all forms of understanding is
+  now clear. Application does not mean first understanding a given universal
+  in itself and then afterward applying it to a concrete case. It is the very
+  understanding of the universal—the text—itself. Understanding proves to
+  be a kind of effect and knows itself as such.
+
+           3 ANALYSIS OF HISTORICALLY EFFECTED CONSCIOUSNESS
+
+                    (A) THE LIMITATIONS OF REFLECTIVE PHILOSOPHY-"
+
+      We must now ask how knowledge and effect belong together. I have
+      already pointed out above96 that historically effected consciousness is
+      something other than inquiry into the history of a particular work's
+      effect—as it were, the trace a work leaves behind. It is, rather, a
+      consciousness of the work itself, and hence itself has an effect. The purpose
+
+=== p. 336 ===
+
+of the whole account of the formation and fusion of horizons was to show
+how historically effected consciousness operates. But what sort of consciousness is this? That is the decisive problem. However much we
+emphasize that historically effected consciousness itself belongs to the
+effect, what is essential to it as consciousness is that it can rise above that
+of which it is conscious. The structure of reflexivity is fundamentally given
+with all consciousness. Thus this must also be the case for historically
+effected consciousness.
+   We might also express it thus: when we speak of historically effected
+consciousness, are we not confined within the immanent laws of reflection, which destroy any immediate effect? Are we not forced to admit that
+Hegel was right and regard the basis of hermeneutics as the absolute
+mediation of history and truth?
+   We cannot underestimate this point if we think of the historical
+worldview and its development from Schleiermacher to Dilthey. It was the
+same everywhere. Everywhere the claim of hermeneutics seems capable of
+being met only in the infinity of knowledge, in the thoughtful fusion of the
+whole of tradition with the present. We see it based on the ideal of perfect
+enlightenment, on the complete limitlessness of our historical horizon, on
+the abolition of our finiteness in the infinity of knowledge, in short, on the
+omnipresence of the historically knowing spirit. It is clearly of no fundamental significance that nineteenth-century historicism never expressly
+acknowledged this consequence. Ultimately it finds its justification in
+Hegel, even if the historians, filled with enthusiasm for experience,
+preferred to quote Schleiermacher and Wilhelm von Humboldt. But
+neither Schleiermacher nor Humboldt really thought through their positions fully. However much they emphasize the individuality, the barrier of
+alienness, that our understanding has to overcome, understanding ultimately finds its fulfillment only in an infinite consciousness, just as the
+idea of individuality finds its ground there as well. The fact that all
+individuality is pantheistically embraced within the absolute is what makes
+possible the miracle of understanding. Thus here too being and knowledge
+interpenetrate each other in the absolute. Neither Schleiermacher's nor
+Humboldt's Kantianism, then, affirms an independent system distinct from
+the consummation of speculative idealism in the absolute dialectic of
+Hegel. The critique of reflective philosophy that applies to Hegel applies to
+them also.
+   We must ask whether our own attempt at a historical hermeneutics is
+not subject to the same critique. Have we succeeded in keeping ourselves
+
+=== p. 337 ===
+
+  free from the metaphysical claims of reflective philosophy? Have we
+  legitimated the hermeneutical experience by agreeing with the critique
+  that the young Hegelians leveled at Hegel, a critique that proved historically so important?
+     To do so we must acknowledge that absolute reflection is powerfully
+  compelling and admit that Hegel's critics never really succeeded in
+  breaking its magic spell. We can detach the problem of a historical
+  hermeneutics from the hybrid consequences of speculative idealism only if
+  we refuse to be satisfied with the irrationalistic reduction of it, but preserve
+  the truth of Hegel's thought. We are concerned with understanding
+  historically effected consciousness in such a way that the immediacy and
+  superiority of the work does not dissolve into a mere reflective reality in
+  the consciousness of the effect—i.e., we are concerned to conceive a reality
+  that limits and exceeds the omnipotence of reflection. This was precisely
+  the point against which the critique of Hegel was directed and where the
+  principle of reflective philosophy actually proved itself superior to all its
+  critics.
+     This can be exemplified by Hegel's polemic against Kant's "thingin-itself."97 Kant's critical delimitation of reason had limited the application
+  of the categories to the objects of possible experience and declared that the
+  thing-in-itself behind appearances was unknowable. Hegel's dialectical
+  argument objected that by making this distinction, and separating the
+  appearance from the thing-in-itself, reason was proving this distinction to
+  be its own. In doing so it by no means comes up against its own limits;
+  rather, reason has itself set this limit, and that means it has already gone
+  beyond that limit. What makes a limit a limit always also includes
+  knowledge of what is on both sides of it. It is the dialectic of the limit to
+  exist only by being superseded. Thus the quality of being-in-itself that
+  distinguishes the thing-in-itself from its appearance is in-itself only for us.
+  What appears in logical generality in the dialectic of the limit becomes
+  specified in consciousness by the experience that the being-in-itself
+  distinguished from consciousness is the other of itself, and is known in its
+  truth when it is known as self—i.e., when it knows itself in full and
+  absolute self-consciousness. We will consider the legitimacy and limitations of this argument below.
+     The varied critique of this philosophy of absolute reason by Hegel's
+   critics cannot withstand the logical consequences of total dialectical self-mediation that Hegel has described, especially in his Phenomenology, the
+   science of phenomenal knowledge. That the other must be experienced
+
+=== p. 338 ===
+
+not as the other of myself grasped by pure self-consciousness, but as a
+Thou—this prototype of all objections to the infiniteness of Hegel's
+dialectic—does not seriously challenge him. The dialectical process of the
+Phenomenology of Mind is perhaps determined by nothing so much as by the
+problem of the recognition of the Thou. To mention only a few stages of
+this history: our own self-consciousness, for Hegel, attains to the truth of
+its self-consciousness only by fighting to be recognized by the other person.
+The immediate relationship between man and woman is the natural
+knowledge of mutual recognition (p. 325).98 Beyond this, conscience
+represents the spiritual side of being recognized, and the mutual self-recognition in which the spirit is absolute can be attained only via
+confession and forgiveness. It cannot be denied that Feuerbach and
+Kierkegaard's objections are already anticipated when Hegel describes
+these forms of spirit.
+   Polemics against an absolute thinker has itself no starting point. The
+Archimedean point from which Hegel's philosophy could be toppled can
+never be found through reflection. The formal superiority of reflective
+philosophy is precisely that every possible position is drawn into the
+reflective movement of consciousness coming to itself. The appeal to
+immediacy—whether of bodily nature, or the Thou making claims on us,
+or the impenetrable factualness of historical accident, or the reality of the
+relations of production—has always been self-refuting, in that it is not
+itself an immediate relation, but a reflective activity. The left-Hegelian
+critique of merely intellectual reconciliation that fails to take account of
+the real transformation of the world, the whole doctrine of the transformation of philosophy into politics, is inevitably the self-abolition of philosophy."
+   Thus the question arises how far the dialectical superiority of reflective
+philosophy corresponds to a substantive truth and how far it merely
+creates a formal appearance. For the arguments of reflective philosophy
+cannot ultimately obscure the fact that there is some truth in the critique
+of speculative thought based on the standpoint of finite human consciousness. This emerges, in particular, in the epigones of idealism—e.g., the neo-Kantian critics of life philosophy and existentialism. Heinrich Rickert, who
+attempted in 1920 to destroy life philosophy through argument, was
+unable to come anywhere near the influence of Nietzsche and Dilthey,
+which was beginning to grow at that time. However clearly one demonstrates the inner contradictions of all relativist views, it is as Heidegger has
+said: all these victorious arguments have something of the attempt to bowl
+
+=== p. 339 ===
+
+  one over.100 However cogent they may seem, they still miss the main
+  point. In making use of them one is proved right, and yet they do not
+  express any superior insight of value. That the thesis of skepticism or
+  relativism refutes itself to the extent that it claims to be true is an
+  irrefutable argument. But what does it achieve? The reflective argument
+  that proves successful here rebounds against the arguer, for it renders the
+  truth value of reflection suspect. It is not the reality of skepticism or of
+  truth-dissolving relativism but the truth claim of all formal argument that
+  is affected.
+     Thus the formalism of such reflective argument is of specious philosophical legitimacy. In fact it tells us nothing. We are familiar with this kind of
+  thing from the Greek Sophists, whose inner hollowness Plato demonstrated. It was also he who saw clearly that there is no argumentatively
+  adequate criterion by which to distinguish between truly philosophical and
+  sophistic discourse. In particular, he shows in his Seventh Letter that the
+  formal refutability of a proposition does not necessarily exclude its being
+  true.101
+     The model of all empty argument is the sophistic question how one can
+  inquire into anything that one does not already know. This sophistical
+  objection, which Plato formulates in the Meno, is not, characteristically
+  enough, overcome there through superior argument, but by appealing to
+  the myth of the pre-existence of the soul.102 This is a very ironic appeal,
+  since the myth of pre-existence and anamnesis, which is supposed to solve
+  the mystery of questioning and seeking, does not present a religious
+  certainty but depends on the certainty of the knowledge-seeking soul,
+  which prevails against the emptiness of formal arguments. Nevertheless, it
+  is characteristic of the weakness that Plato recognizes in the logos that he
+  bases his critique of the Sophists' argument not on logic but myth. Just as
+  true opinion is a divine favor and gift, so the search for and recognition of
+  the true logos is not the free self-possession of the human mind. We will
+  see below that Plato's mythical justification of Socratic dialectic is of
+  fundamental importance. Were not the Sophists refuted—and this cannot
+  be done through argument—their argument would lead to resignation. It
+  is the argument of "lazy reason" and has a truly symbolic importance, since
+  all empty reflection, despite its appearance of victory, leads to the discrediting of all reflective thought.
+     But however convincing it seems, Plato's mythical refutation of dialectical sophism does not satisfy the modern mind. There is no mythical
+  foundation of philosophy in Hegel; for him myth is part of pedagogy.
+
+=== p. 340 ===
+
+Ultimately, reason is its own foundation. By working through the dialectic
+of reflection as the total self-mediation of reason, Hegel is fundamentally
+beyond the argumentative formalism that we, like Plato, call "sophistical."
+Hence his dialectic is no less polemical toward the empty arguments of
+logic, which he calls "external reflection," than are the arguments of Plato's
+Socrates. That is why it is of central importance that the hermeneutical
+problem come to grips with Hegel. For Hegel's whole philosophy of mind
+claims to achieve the total fusion of history with the present. It is
+concerned not with a reflective formalism but with the same thing as we
+are. Hegel has thought through the historical dimension in which the
+problem of hermeneutics is rooted.
+   For this reason we will have to define the structure of historically effected
+consciousness with an eye to Hegel, setting it against his own approach.
+Hegel's spiritualistic interpretation of Christianity, which he uses to define
+the nature of mind, is not affected by the objection that it leaves no room
+for the experience of the other and the alterity of history. The life of the
+mind consists precisely in recognizing oneself in other being. The mind
+directed toward self-knowledge regards itself as alienated from the "positive" and must learn to reconcile itself with it, seeing it as its own, as its
+home. By dissolving the hard edge of positivity, it becomes reconciled with
+itself. In that this kind of reconciliation is the historical work of the mind,
+the historical activity of the mind is neither self-reflection nor the merely
+formal dialectical supersession of the self-alienation that it has undergone,
+but an experience that experiences reality and is itself real.
+
+    (B) THE CONCEPT OF EXPERIENCE (ERFAHRUNG) AND THE ESSENCE OF THE
+                         HERMENEUTIC EXPERIENCE
+
+This is precisely what we have to keep in mind in analyzing historically
+effected consciousness: it has the structure of experience (Erfahrung).
+However paradoxical it may seem, the concept of experience seems to me
+one of the most obscure we have. Because it plays an important role in the
+natural sciences in the logic of induction, it has been subjected to an
+epistemological schematization that, for me, truncates its original meaning. We may remember that Dilthey accused British empiricism of a lack of
+historical culture. Considering his unresolved hesitation between life
+philosophy and philosophy of science, we can regard this as a very halfhearted criticism. In fact, the main deficiency in theory of experience
+hitherto—and this includes Dilthey himself—is that it is entirely oriented
+
+=== p. 341 ===
+
+  toward science and hence takes no account of the inner historicity of
+  experience. The aim of science is so to objectify experience that it no longer
+  contains any historical element. Scientific experiment does this by its
+  methodical procedure. The historico-critical method, moreover, does
+  something similar in the human sciences. Through the objectivity of their
+  approach, both methods are concerned to guarantee that these basic
+  experiences can be repeated by anyone. Just as in the natural sciences
+  experiments must be verifiable, so also must the whole process be capable
+  of being checked in the human sciences also. Hence there can be no place
+  for the historicity of experience in science.
+     In its methodology modern science thus simply proceeds further toward
+  a goal that experience has always striven after. Experience is valid only if
+  it is confirmed; hence its dignity depends on its being in principle
+  repeatable. But this means that by its very nature, experience abolishes its
+  history and thus itself. This is true even of everyday experience, and much
+  more so of any scientific version of it. Theory of experience is related
+  exclusively teleologically to the truth that is derived from it, and this is not
+  just an accidental one-sidedness in modern scientific theory but has a
+  foundation in fact.
+     In recent times Edmund Husserl, in particular, has directed his attention
+  to this problem. In a series of many investigations he attempted to throw
+  light on the one-sidedness of the scientific idealization of experience.103 To
+  this end he gives a genealogy of the experience which, as experience of the
+  living world, precedes its being idealized by science. To me, however, he
+  still seems dominated by the one-sidedness that he criticizes, for he
+  projects the idealized world of exact scientific experience into the original
+  experience of the world, in that he makes perception, as something
+  directed toward merely external physical appearances, the basis of all other
+  experience. To quote him: "Although, because of this sensible presence it
+  also attracts our practical or affective interest, presenting itself to us at once
+  as something useful, attractive, or repulsive, all this is based on the fact that
+  there is a substratum with qualities that can be apprehended simply by the
+   senses, to which there always leads a path of possible explication."104 [It is
+   easy to see how much the ontological fore-conception of "presence"
+   dominates him.] Husserl's attempt to go back genetically to the origin of
+   experience, and to overcome its idealization by science, obviously has to
+   struggle especially with the difficulty that the pure transcendental subjectivity of the ego is not really given as such but always given in the
+   idealization of language; moreover, language is already present in any
+
+=== p. 342 ===
+
+acquisition of experience, and in it the individual ego comes to belong to
+a particular linguistic community.
+   In fact, when we go back to the beginnings of modern scientific theory
+and logic, we find this same problem: the extent to which there can be
+such a thing as the pure use of our reason, proceeding according to
+methodological principles, superior to all prejudices and predispositions,
+especially "verbalistic" ones. The particular achievement of Bacon in this
+field is that he was not satisfied with the immanent logical task of
+elaborating the theory of experience as the theory of true induction;
+instead, he discussed the whole moral difficulty and anthropological
+questionableness of this kind of experiential product. His method of
+induction seeks to rise above the irregular and accidental way daily
+experience occurs and certainly above its dialectical use. In this connection
+he undermined the theory of induction based on enumeratio simplex, still
+held by humanist scholasticism, an achievement that foreshadowed the
+new age of scientific method. The concept of induction makes use of the
+idea that we generalize on the basis of chance observation and, if we
+encounter no contrary instance, we pronounce it valid. Against anticipatio,
+this overhasty generalization of everyday experience, Bacon opposes what
+he calls interpretatio naturae—i.e., the expert interpretation of the true
+being of nature. 105 Methodically conducted experiments permit us to
+progress step by step toward the true and tenable universals, the simple
+forms of nature. This true method is characterized by the fact that the mind
+is not left to its own devices;106 it cannot soar as it would like. Rather, it has
+to climb gradatim (step by step) from the particular to the universal in
+order to achieve an ordered experience that avoids all hasty conclusions.107
+   Bacon himself describes the method he calls for as experimental.108 But
+it must be remembered that by experiment Bacon does not always mean
+just the scientist's technical procedure of artificially inducing processes
+under conditions that isolate them and render them capable of being
+measured. An experiment is also, and primarily, the careful directing of
+our mind, preventing it from indulging in overhasty generalizations,
+consciously confronting it with the most remote and apparently most
+diverse instances, so that gradually and continuously it can learn to work,
+via the process of exclusion, toward the axioms.109
+   On the whole, we have to agree with the usual criticism of Bacon and
+admit that his methodological suggestions are disappointing. As we can see
+today, they are too vague and general and have produced little, especially
+
+=== p. 343 ===
+
+      when applied to the study of nature. It is true that this opponent of empty
+      dialectical casuistry himself remained profoundly involved in the metaphysical tradition and in the dialectical forms of argument that he attacked.
+      His goal of conquering nature through obedience—the new approach of
+      attacking and forcing nature's secrets from it which makes him the
+      predecessor of modern science—is only the programmatic side of his work,
+      and his contribution has hardly been enduring. His real achievement is,
+      rather, that he undertakes a comprehensive examination of the prejudices
+      that hold the human mind captive and lead it away from the true
+      knowledge of things. He thus carries out a methodical self-purification of
+      the mind that is more a discipline than a method. Bacon's famous doctrine
+      of the "prejudices" first and foremost makes the methodical use of reason
+      possible.110 This is precisely why he interests us, for he expresses, albeit
+      with a critical and exclusionary intention, elements in experience that are
+      not ideologically related to the goal of science. For example, among the
+      idola tribus, Bacon speaks of the tendency of the human mind always to
+      remember what is positive and forget all instantiae negativae. A case in
+      point is the belief in oracles, which is based on this remarkable forgetfulness, which remembers only the true prophecies and forgets the false ones.
+      Similarly, in Bacon's eyes the relation of the human mind to the conventions of language is a case of knowledge being distracted by empty
+      conventional forms. It is one of the idola fori.
+         These two examples are enough to indicate that the teleological aspect,
+      which dominates this question for Bacon, is not the only one possible.
+      Whether the positive should always have priority in the memory, or
+      whether the tendency of life to forget the negative is to be criticized in all
+      respects, is a question that needs asking. Ever since the Prometheus of
+      Aeschylus, hope has been such a clear mark of human experience that, in
+      view of its human importance, we must regard as one-sided the principle
+      that experience should be evaluated only Ideologically, by the degree to
+      which it ends in knowledge. We will probably come to a similar conclusion
+      with regard to language, which precedes experience, and although illusory
+      verbalistic problems can derive from the dominance of linguistic conventions, it is equally certain that language is at the same time a positive
+      condition of, and guide to, experience itself. Even Husserl, like Bacon,
+      noted more the negative than the positive side of language.
+         In analyzing the concept of experience we will not let ourselves be
+      guided by these models, since we cannot confine ourselves to the
+
+=== p. 344 ===
+
+ideological perspective, which until now has largely governed consideration of the problem. This is not to say that this perspective has not correctly
+grasped a true element in the structure of experience. The fact that
+experience is valid so long as it is not contradicted by new experience (ubi
+non reperitur instantia contradictoria) is clearly characteristic of the
+general nature of experience, whether we are dealing with scientific
+procedure in the modern sense or with the experience of daily life that
+men have always had.
+   Thus this characterization of experience is entirely in agreement with
+Aristotle's analysis of the concept of induction in the appendix to his
+Posterior Analytics."' There (as in Chapter 1 of his Metaphysics) he describes
+how various perceptions unite to form the unity of experience when many
+individual perceptions are retained. What sort of unity is this? Clearly it is
+the unity of a universal. But the universality of experience is not yet the
+universality of science. Rather, according to Aristotle, it occupies a remarkably indeterminate intermediate position between the many individual
+perceptions and the true universality of the concept. Science and technology start from the universality of the concept. But what is the universality
+of experience, and how does it evolve into the new universality of the
+logos? If experience shows us that a particular remedy has a particular
+effect, this means that something common has been noticed in a number
+of observations, and it is clear that the actual medical question, the
+scientific question—i.e., the question about the logos—is possible only on
+the basis of this kind of observation. Science knows why, for what reason,
+this remedy has a healing effect. Experience is not science itself, but it is a
+necessary condition of it. There must already be certainty—i.e., the
+individual observations must show the same regularity. Only when the
+universality found in experience has been attained can we look for the
+reason and hence begin a scientific inquiry. We ask again: what kind of
+universality is this? It is obviously concerned with the undifferentiated
+commonality of many single observations. It is because we retain these
+that we can make certain predictions.
+   However, the relation among experience, retention, and the resulting
+unity of experience remains conspicuously vague. Aristotle is obviously
+basing what he says here on an argument that by his time already had a
+certain classic stamp. We find it first in Anaxagoras who, according to
+Plutarch, distinguished man from the beasts through his powers of
+empeiria, mneme, sophia and techne." 2 We find a similar point in
+Aeschylus' emphasis on mneme in the Prometheus,113 and although we do
+
+=== p. 345 ===
+
+  not find the corresponding emphasis on mneme in Plato's myth in the
+  Protagoras, both Plato114 and Aristotle indicate that it was already an
+  established theory. The persistence of important perceptions (mone) is
+  clearly the linking motif through which the knowledge of the universal
+  can emerge from the experience of the individual. All animals that possess
+  mneme in this sense—i.e., a sense of the past, of time—approximate the
+  human in this respect. A separate investigation into this early theory of
+  experience, whose traces we have outlined, would be necessary to discover
+  how influential was the connection between memory (mneme) and
+  language. It is clear that universal concepts are acquired by learning names
+  and speech generally, and Themistius exemplified Aristotle's analysis of
+  induction simply by reference to learning to speak and form words. At any
+  rate, the universality of experience of which Aristotle speaks is not that of
+  the concept or of science. (The problematic which we approach with this
+  theory is undoubtedly that of the Sophists' educational thought, for we
+  find in all the available documents a connection between that distinctiveness of the human that concerns us here and the general arrangement of
+  nature. But this motif—the contrast of men and beasts—was the natural
+  basis for the Sophists' educational ideal.) Experience is always actually
+  present only in the individual observation. It is not known in a previous
+  universality. Here lies the fundamental openness of experience to new
+  experience, not only in the general sense that errors are corrected, but that
+  experience is essentially dependent on constant confirmation and necessarily becomes a different kind of experience where there is no confirmation (ubi reperitur instantia contradictoria).
+     Aristotle has a very fine image for the logic of this procedure. He
+  compares the many observations someone makes to a fleeing army. They
+  too hurry away—i.e., they do not stand fast. But if in this general flight an
+  observation is confirmed by its being experienced repeatedly, then it does
+  stand fast. At this point the general flight begins to stop. If others join it,
+  then finally the whole fleeing host stops and again obeys a single
+  command. The whole army under unified control is an image of science.
+  The image is intended to show how science—i.e., universal truth—is
+  possible, considering that it must not depend on the contingency of
+  observations, but be valid in a really universal way. How is that possible on
+  the basis of such contingent observations?
+     The image is important for us because it illustrates the crucial element in
+  the nature of experience. Like all images, it is not entirely perfect;
+  however, the imperfection of a symbol is not a shortcoming but the other
+
+=== p. 346 ===
+
+side of the work of abstraction that it performs. Aristotle's image of the
+fleeing army is imperfect because it starts from the wrong assumption,
+namely that before fleeing the army was standing fast. Of course this is not
+true of the tenor, namely the way knowledge is born. But this very lack
+shows clearly the only thing that the image is intended to illustrate: the
+birth of experience as an event over which no one has control and which
+is not even determined by the particular weight of this or that observation,
+but in which everything is co-ordinated in a way that is ultimately
+incomprehensible. The image captures the curious openness in which
+experience is acquired, suddenly, through this or that feature, unpredictably, and yet not without preparation, and it is valid from then on until
+there is a new experience—i.e., it holds not only for this or that instance
+but everything of the kind. According to Aristotle, it is through this
+universality of experience that the true universality of the concept and the
+possibility of science comes about. Thus the image illustrates the way the
+unprincipled universality of experience (its accretion) eventually leads to
+the unity of the arche (which means both "command" and "principle").
+   But if, like Aristotle, we think of the essence of experience only in regard
+to "science" [which in any case is not "modern" science but "knowledge"],
+then we are simplifying the process by which it comes about. His image
+describes this process, but it describes it under oversimplified conditions.
+As if one could automatically give a straightforward account of experience
+that contained no contradictions! Aristotle here presupposes that what
+persists in the flight of observations and emerges as a universal is, in fact,
+something common to them: for him the universality of the concept is
+ontologically prior. What concerns Aristotle about experience is merely
+how it contributes to the formation of concepts.
+   If we thus regard experience in terms of its result, we have ignored the
+fact that experience is a process. In fact, this process is essentially negative.
+It cannot be described simply as the unbroken generation of typical
+universals. Rather, this generation takes place as false generalizations are
+continually refuted by experience and what was regarded as typical is
+shown not to be so. 113 Language shows this when we use the word
+"experience" in two different senses: the experiences that conform to our
+expectation and confirm it and the new experiences that occur to us. This
+latter—"experience" in the genuine sense—is always negative. If a new
+experience of an object occurs to us, this means that hitherto we have not
+seen the thing correctly and now know it better. Thus the negativity of
+experience has a curiously productive meaning. It is not simply that we see
+
+=== p. 347 ===
+
+  through a deception and hence make a correction, but we acquire a
+  comprehensive knowledge. We cannot, therefore, have a new experience
+  of any object at random, but it must be of such a nature that we gain better
+  knowledge through it, not only of itself, but of what we thought we knew
+  before—i.e., of a universal. The negation by means of which it achieves
+  this is a determinate negation. We call this kind of experience dialectical.
+     It is not Aristotle but, most important, Hegel who testifies to the
+  dialectical element in experience. With him the element of historicity
+  comes into its own. He conceives experience as skepticism in action. We
+  saw that one's experience changes one's whole knowledge. Strictly speaking, we cannot have the same experience twice. It is true, of course, that
+  part of the nature of experience is to be continually confirmed; it is, as it
+  were, acquired only by being repeated. But it is no longer a new
+  experience when it is repeated and confirmed. When we have had an
+  experience, this means that we possess it. We can now predict what was
+  previously unexpected. The same thing cannot again become a new
+  experience for us; only something different and unexpected can provide
+  someone who has experience with a new one. Thus the experiencing
+  consciousness has reversed its direction—i.e., it has turned back on itself.
+  The experiencer has become aware of his experience; he is "experienced."
+  He has acquired a new horizon within which something can become an
+  experience for him.
+     This is the point at which Hegel becomes an important witness for us. In
+  his Phenomenology of Mind he shows how the consciousness that would be
+  certain of itself has new experiences. For consciousness its object is the
+  in-itself, but what is in-itself can be known only as it presents itself to the
+  experiencing consciousness. Thus the experiencing consciousness has
+  precisely this experience: that the in-itselfness of the object is in-itself "for
+  us." 116
+     Hegel here analyzes the concept of experience—an analysis that has
+  drawn the special attention of Heidegger, who was both attracted and
+  repulsed by it.117 Hegel says, "The dialectical movement that consciousness
+  carries out in regard to itself, both in regard to its knowledge and to its
+  object inasmuch as its new, true object emerges from this, is actually what is
+  called experience." Remembering what we have said above, let us ask what
+  Hegel means, since he is here clearly trying to say something about the
+  general nature of experience. Heidegger has pointed out, rightly in my
+   opinion, that here Hegel is not interpreting experience dialectically but
+
+=== p. 348 ===
+
+rather conceiving what is dialectical in terms of the nature of experience.118 According to Hegel, experience has the structure of a reversal of
+consciousness and hence it is a dialectical movement. Hegel behaves, of
+course, as if what is generally meant by experience were something else, in
+that in general we "experience the falsehood of this first concept through
+another object" (and not in such a way that the object itself changes). But
+it is only apparently different. Actually, the philosophical mind realizes
+what the experiencing mind is really doing when it proceeds from one to
+the other: it is reversing itself. Thus Hegel declares that the true nature of
+experience is to reverse itself in this way.
+   In fact, as we saw, experience is initially always experience of negation:
+something is not what we supposed it to be. In view of the experience that
+we have of another object, both things change—our knowledge and its
+object. We know better now, and that means that the object itself "does not
+pass the test." The new object contains the truth about the old one.
+   What Hegel thus describes as experience is the experience that consciousness has of itself. "The principle of experience contains the infinitely
+important element that in order to accept a content as true, the man
+himself must be present or, more precisely, he must find such content in
+unity and combined with the certainty of himself," writes Hegel in the
+Encyclopedia.^9 The concept of experience means precisely this, that this
+kind of unity with oneself is first established. This is the reversal that
+consciousness undergoes when it recognizes itself in what is alien and
+different. Whether experience moves by expanding into the manifoldness
+of the contents or as the continual emergence of new forms of mind, the
+necessity of which is understood by philosophical science, in any case it is
+a reversal of consciousness. Hegel's dialectical description of experience has
+some truth.
+   For Hegel, it is necessary, of course, that conscious experience should
+lead to a self-knowledge that no longer has anything other than or alien to
+itself. For him the consummation of experience is "science," the certainty
+of itself in knowledge. Hence his criterion of experience is self-knowledge.
+That is why the dialectic of experience must end in that overcoming of all
+experience which is attained in absolute knowledge—i.e., in the complete
+identity of consciousness and object. We can now understand why
+applying Hegel's dialectic to history, insofar as he regarded it as part of the
+absolute self-consciousness of philosophy, does not do justice to hermeneutical consciousness. The nature of experience is conceived in terms of
+something that surpasses it; for experience itself can never be science.
+
+=== p. 349 ===
+
+  Experience stands in an ineluctable opposition to knowledge and to the
+  kind of instruction that follows from general theoretical or technical
+  knowledge. The truth of experience always implies an orientation toward
+  new experience. That is why a person who is called experienced has
+  become so not only through experiences but is also open to new experiences. The consummation of his experience, the perfection that we call
+  "being experienced," does not consist in the fact that someone already
+  knows everything and knows better than anyone else. Rather, the experienced person proves to be, on the contrary, someone who is radically
+  undogmatic; who, because of the many experiences he has had and the
+  knowledge he has drawn from them, is particularly well equipped to have
+  new experiences and to learn from them. The dialectic of experience has its
+  proper fulfillment not in definitive knowledge but in the openness to
+  experience that is made possible by experience itself.
+    But then this gives the concept of experience that we are concerned with
+  here a qualitatively new element. It refers not only to experience in the
+  sense of information about this or that. It refers to experience in general.
+  This experience is always to be acquired, and from it no one can be
+  exempt. Experience in this sense belongs to the historical nature of man.
+  Although in bringing up children, for example, parents may try to spare
+  them certain experiences, experience as a whole is not something anyone
+  can be spared. Rather, experience in this sense inevitably involves many
+  disappointments of one's expectations and only thus is experience
+  acquired. That experience refers chiefly to painful and disagreeable experiences does not mean that we are being especially pessimistic, but can be
+  seen directly from its nature. Only through negative instances do we
+  acquire new experiences, as Bacon saw. Every experience worthy of the
+  name thwarts an expectation. Thus the historical nature of man essentially
+  implies a fundamental negativity that emerges in the relation between
+  experience and insight.
+    Insight is more than the knowledge of this or that situation. It always
+  involves an escape from something that had deceived us and held us
+  captive. Thus insight always involves an element of self-knowledge and
+  constitutes a necessary side of what we called experience in the proper
+  sense. Insight is something we come to. It too is ultimately part of the
+  vocation of man—i.e., to be discerning and insightful.
+    If we want to quote another witness for this third element in the nature
+  of experience, the best is Aeschylus. He found the formula—or, rather,
+
+=== p. 350 ===
+
+recognized its metaphysical significance as expressing the inner historically of experience—of "learning though suffering" (pathei mathos). This
+phrase does not mean only that we become wise through suffering and
+that our knowledge of things must first be corrected through deception
+and undeception. Understood in this way, the formula is probably as old as
+human experience itself. But Aeschylus means more than this. 120 He refers
+to the reason why this is so. What a man has to learn through suffering is
+not this or that particular thing, but insight into the limitations of
+humanity, into the absoluteness of the barrier that separates man from the
+divine. It is ultimately a religious insight—the kind of insight that gave
+birth to Greek tragedy.
+   Thus experience is experience of human finitude. The truly experienced
+person is one who has taken this to heart, who knows that he is master
+neither of time nor the future. The experienced man knows that all
+foresight is limited and all plans uncertain. In him is realized the truth
+value of experience. If it is characteristic of every phase of the process of
+experience that the experienced person acquires a new openness to new
+experiences, this is certainly true of the idea of being perfectly experienced.
+It does not mean that experience has ceased and a higher form of
+knowledge is reached (Hegel), but that for the first time experience fully
+and truly is. In it all dogmatism, which proceeds from the soaring desires
+of the human heart, reaches an absolute barrier. Experience teaches us to
+acknowledge the real. The genuine result of experience, then—as of all
+desire to know—is to know what is. But "what is," here, is not this or that
+thing, but "what cannot be destroyed" (Ranke).
+   Real experience is that whereby man becomes aware of his finiteness. In
+it are discovered the limits of the power and the self-knowledge of his
+planning reason. The idea that everything can be reversed, that there is
+always time for everything and that everything somehow returns, proves
+to be an illusion. Rather, the person who is situated and acts in history
+continually experiences the fact that nothing returns. To acknowledge
+what is does not just mean to recognize what is at this moment, but to
+have insight into the limited degree to which the future is still open to
+expectation and planning or, even more fundamentally, to have the insight
+that all the expectation and planning of finite beings is finite and limited.
+Genuine experience is experience of one's own historicity. Our discussion
+of the concept of experience thus arrives at a conclusion that is of
+considerable importance to our inquiry into the nature of historically
+effected consciousness. As a genuine form of experience it must reflect the
+
+=== p. 351 ===
+
+  general structure of experience. Thus we will have to seek out in
+  hermeneutical experience those elements that we have found in our analysis
+  of experience in general.
+     Hermeneutical experience is concerned with tradition. This is what is to
+  be experienced. But tradition is not simply a process that experience
+  teaches us to know and govern; it is language—i.e., it expresses itself like a
+  Thou. A Thou is not an object; it relates itself to us. It would be wrong to
+  think that this means that what is experienced in tradition is to be taken as
+  the opinion of another person, a Thou. Rather, I maintain that the
+  understanding of tradition does not take the traditionary text as an
+  expression of another person's life, but as meaning that is detached from
+  the person who means it, from an I or a Thou. Still, the relationship to the
+  Thou and the meaning of experience implicit in that relation must be
+  capable of teaching us something about hermeneutical experience. For
+  tradition is a genuine partner in dialogue, and we belong to it, as does the
+  I with a Thou.
+     It is clear that the experience of the Thou must be special because the Thou
+  is not an object but is in relationship with us. For this reason the elements
+  we have emphasized in the structure of experience will undergo a change.
+  Since here the object of experience is a person, this kind of experience is
+  a moral phenomenon—as is the knowledge acquired through experience,
+  the understanding of the other person. Let us therefore consider the
+  change that occurs in the structure of experience when it is experience of
+  the Thou and when it is hermeneutical experience.
+     There is a kind of experience of the Thou that tries to discover typical
+  behavior in one's fellowmen and can make predictions about others on the
+  basis of experience. We call this a knowledge of human nature. We
+  understand the other person in the same way that we understand any
+  other typical event in our experiential field—i.e., he is predictable. His
+  behavior is as much a means to our end as any other means. From the
+  moral point of view this orientation toward the Thou is purely self-regarding and contradicts the moral definition of man. As we know, in
+  interpreting the categorical imperative Kant said, inter alia, that the other
+  should never be used as a means but always as an end in himself.
+     If we relate this form of the I-Thou relation—the kind of understanding
+  of the Thou that constitutes knowledge of human nature—to the hermeneutical problem, the equivalent is naive faith in method and in the
+  objectivity that can be attained through it. Someone who understands
+  tradition in this way makes it an object—i.e., he confronts it in a free and
+
+=== p. 352 ===
+
+uninvolved way—and by methodically excluding everything subjective, he
+discovers what it contains. We saw that he thereby detaches himself from
+the continuing effect of the tradition in which he himself has his historical
+reality. It is the method of the social sciences, following the methodological
+ideas of the eighteenth century and their programatic formulation by
+Hume, ideas that are a cliched version of scientific method.121 But this
+covers only part of the actual procedure of the human sciences, and even
+that is schematically reduced, since it recognizes only what is typical and
+regular in behavior. It flattens out the nature of hermeneutical experience
+in precisely the same way as we have seen in the teleological interpretation
+of the concept of induction since Aristotle.
+   A second way in which the Thou is experienced and understood is that
+the Thou is acknowledged as a person, but despite this acknowledgment
+the understanding of the Thou is still a form of self-relatedness. Such self-regard derives from the dialectical appearance that the dialectic of the
+I-Thou relation brings with it. This relation is not immediate but reflective.
+To every claim there is a counterclaim. This is why it is possible for each of
+the partners in the relationship reflectively to outdo the other. One claims
+to know the other's claim from his point of view and even to understand
+the other better than the other understands himself. In this way the Thou
+loses the immediacy with which it makes its claim. It is understood, but
+this means it is co-opted and pre-empted reflectively from the standpoint
+of the other person. Because it is a mutual relationship, it helps to
+constitute the reality of the I-Thou relationship itself. The inner historicity
+of all the relations in the lives of men consists in the fact that there is a
+constant struggle for mutual recognition. This can have very varied degrees
+of tension, to the point of the complete domination of one person by the
+other. But even the most extreme forms of mastery and slavery are a
+genuine dialectical relationship of the kind that Hegel has elaborated.122
+   The experience of the Thou attained here is more adequate than what
+we have called the knowledge of human nature, which merely seeks to
+calculate how the other person will behave. It is an illusion to see another
+person as a tool that can be absolutely known and used. Even a slave still
+has a will to power that turns against his master, as Nietzsche rightly
+said. 123 But the dialectic of reciprocity that governs all I-Thou relationships
+is inevitably hidden from the consciousness of the individual. The servant
+who tyrannizes his master by serving him does not believe that he is
+serving his own aims by doing so. In fact, his own self-consciousness
+consists precisely in withdrawing from the dialectic of this reciprocity, in
+
+=== p. 353 ===
+
+      reflecting himself out of his relation to the other and so becoming
+      unreachable by him. By understanding the other, by claiming to know
+      him, one robs his claims of their legitimacy. In particular, the dialectic of
+      charitable or welfare work operates in this way, penetrating all relationships between men as a reflective form of the effort to dominate. The claim
+      to understand the other person in advance functions to keep the other
+      person's claim at a distance. We are familiar with this from the teacher-pupil relationship, an authoritative form of welfare work. In these reflective forms the dialectic of the I-Thou relation becomes more clearly
+      defined.
+         In the hermeneutical sphere the parallel to this experience of the Thou
+      is what we generally call historical consciousness. Historical consciousness
+      knows about the otherness of the other, about the past in its otherness, just
+      as the understanding of the Thou knows the Thou as a person. In the
+      otherness of the past it seeks not the instantiation of a general law but
+      something historically unique. By claiming to transcend its own con-ditionedness completely in knowing the other, it is involved in a false
+      dialectical appearance, since it is actually seeking to master the past, as it
+      were. This need not be accompanied by the speculative claim of a
+      philosophy of world history; as an ideal of perfect enlightenment, it sheds
+      light on the process of experience in the historical sciences, as we find, for
+      example, in Dilthey. In my analysis of hermeneutical consciousness I have
+      shown that the dialectical illusion which historical consciousness creates,
+      and which corresponds to the dialectical illusion of experience perfected
+      and replaced by knowledge, is the unattainable ideal of the Enlightenment.
+      A person who believes he is free of prejudices, relying on the objectivity of
+      his procedures and denying that he is himself conditioned by historical
+      circumstances, experiences the power of the prejudices that unconsciously
+      dominate him as a vis a tergo. A person who does not admit that he is
+      dominated by prejudices will fail to see what manifests itself by their light.
+      It is like the relation between I and Thou. A person who reflects himself
+      out of the mutuality of such a relation changes this relationship and
+      destroys its moral bond. A person who reflects himself out of a living relationship
+      to tradition destroys the true meaning of this tradition in exactly the same way. In
+      seeking to understand tradition historical consciousness must not rely on
+      the critical method with which it approaches its sources, as if this preserved
+      it from mixing in its own judgments and prejudices. It must, in fact, think
+      within its own historicity. To be situated within a tradition does not limit
+      the freedom of knowledge but makes it possible.
+
+=== p. 354 ===
+
+   Knowing and recognizing this constitutes the third, and highest, type of
+hermeneutical experience: the openness to tradition characteristic of
+historically effected consciousness. It too has a real analogue in the I's
+experience of the Thou. In human relations the important thing is, as we
+have seen, to experience the Thou truly as a Thou—i.e., not to overlook his
+claim but to let him really say something to us. Here is where openness
+belongs. But ultimately this openness does not exist only for the person
+who speaks; rather, anyone who listens is fundamentally open. Without
+such openness to one another there is no genuine human bond. Belonging
+together always also means being able to listen to one another. When two
+people understand each other, this does not mean that one person
+"understands" the other. Similarly, "to hear and obey someone" (auf
+jemanden horen) does not mean simply that we do blindly what the other
+desires. We call such a person slavish (horig). Openness to the other, then,
+involves recognizing that I myself must accept some things that are against
+me, even though no one else forces me to do so.
+   This is the parallel to the hermeneutical experience. I must allow
+tradition's claim to validity, not in the sense of simply acknowledging the
+past in its otherness, but in such a way that it has something to say to me.
+This too calls for a fundamental sort of openness. Someone who is open to
+tradition in this way sees that historical consciousness is not really open at
+all, but rather, when it reads its texts "historically," it has always thoroughly smoothed them out beforehand, so that the criteria of the
+historian's own knowledge can never be called into question by tradition.
+Recall the naive mode of comparison that the historical approach generally
+engages in. The 25th "Lyceum Fragment" by Friedrich Schlegel reads: "The
+two basic principles of so-called historical criticism are the postulate of the
+commonplace and the axiom of familiarity. The postulate of the commonplace is that everything that is really great, good, and beautiful is
+improbable, for it is extraordinary or at least suspicious. The axiom of
+familiarity is that things must always have been just as they are for us, for
+things are naturally like this." By contrast, historically effected consciousness rises above such naive comparisons and assimilations by letting itself
+experience tradition and by keeping itself open to the truth claim encountered in it. The hermeneutical consciousness culminates not in methodological sureness of itself, but in the same readiness for experience that
+distinguishes the experienced man from the man captivated by dogma. As
+we can now say more exactly in terms of the concept of experience, this
+readiness is what distinguishes historically effected consciousness.
+
+=== p. 355 ===
+
+                  (c) THE HERMENEUTIC PRIORITY OF THE QUESTION
+
+  (i) The Model of Platonic Dialectic
+
+  This indicates the direction our inquiry must take. We will now examine
+  the logical structure of openness that characterizes hermeneutical consciousness, recalling the importance of the concept of the question to our analysis
+  of the hermeneutical situation. It is clear that the structure of the question
+  is implicit in all experience. We cannot have experiences without asking
+  questions. Recognizing that an object is different, and not as we first
+  thought, obviously presupposes the question whether it was this or that.
+  From a logical point of view, the openness essential to experience is
+  precisely the openness of being either this or that. It has the structure of a
+  question. And just as the dialectical negativity of experience culminates in
+  the idea of being perfectly experienced—i.e., being aware of our finitude
+  and limitedness—so also the logical form of the question and the negativity
+  that is part of it culminate in a radical negativity: the knowledge of not
+  knowing. This is the famous Socratic docta ignorantia which, amid the
+  most extreme negativity of doubt, opens up the way to the true superiority
+  of questioning. We will have to consider the essence of the question in greater
+  depth if we are to clarify the particular nature of hermeneutical experience.
+     The essence of the question is to have sense. Now sense involves a sense
+  of direction. Hence the sense of the question is the only direction from
+  which the answer can be given if it is to make sense. A question places
+  what is questioned in a particular perspective. When a question arises, it
+  breaks open the being of the object, as it were. Hence the logos that
+  explicates this opened-up being is an answer. Its sense lies in the sense of
+  the question.
+     Among the greatest insights that Plato's account of Socrates affords us is
+  that, contrary to the general opinion, it is more difficult to ask questions
+  than to answer them. When the partners in the Socratic dialogue are
+  unable to answer Socrates' awkward questions and try to turn the tables by
+  assuming what they suppose is the preferable role of the questioner, they
+  come to grief. 124 Behind this comic motif in the Platonic dialogues there is
+  the critical distinction between authentic and inauthentic dialogue. To
+  someone who engages in dialogue only to prove himself right and not to
+  gain insight, asking questions will indeed seem easier than answering
+  them. There is no risk that he will be unable to answer a question. In fact,
+  however, the continual failure of the interlocutor shows that people who
+
+=== p. 356 ===
+
+think they know better cannot even ask the right questions. In order to be
+able to ask, one must want to know, and that means knowing that one
+does not know. In the comic confusion between question and answer,
+knowledge and ignorance that Plato describes, there is a profound recognition of the priority of the question in all knowledge and discourse that really
+reveals something of an object. Discourse that is intended to reveal
+something requires that that thing be broken open by the question.
+   For this reason, dialectic proceeds by way of question and answer or,
+rather, the path of all knowledge leads through the question. To ask a
+question means to bring into the open. The openness of what is in question
+consists in the fact that the answer is not settled. It must still be
+undetermined, awaiting a decisive answer. The significance of questioning
+consists in revealing the questionability of what is questioned. It has to be
+brought into this state of indeterminacy, so that there is an equilibrium
+between pro and contra. The sense of every question is realized in passing
+through this state of indeterminacy, in which it becomes an open question.
+Every true question requires this openness. Without it, it is basically no
+more than an apparent question. We are familiar with this from the
+example of the pedagogical question, whose paradoxical difficulty consists
+in the fact that it is a question without a questioner. Or from the rhetorical
+question, which not only has no questioner but no object.
+   The openness of a question is not boundless. It is limited by the horizon
+of the question. A question that lacks this horizon is, so to speak, floating.
+It becomes a question only when its fluid indeterminacy is concretized in
+a specific "this or that." In other words, the question has to be posed.
+Posing a question implies openness but also limitation. It implies the
+explicit establishing of presuppositions, in terms of which can be seen what
+still remains open. Hence a question can be asked rightly or wrongly,
+according as it reaches into the sphere of the truly open or fails to do so. We
+say that a question has been put wrongly when it does not reach the state
+of openness but precludes reaching it by retaining false presuppositions. It
+pretends to an openness and susceptibility to decision that it does not have.
+But if what is in question is not foregrounded, or not correctly foregrounded, from those presuppositions that are really held, then it is not
+brought into the open and nothing can be decided.
+   This is shown clearly in the case of the slanted question that we are so
+familiar with in everyday life. There can be no answer to a slanted question
+because it leads us only apparently, and not really, through the open state
+of indeterminacy in which a decision is made. We call it slanted rather than
+
+=== p. 357 ===
+
+  wrongly put because there is a question behind it—i.e., there is an
+  openness intended, but it does not lie in the direction in which the slanted
+  question is pointing. The word "slanted" refers to something that has
+  deviated from the right direction. The slant of a question consists in the fact
+  that it does not give any real direction, and hence no answer to it is
+  possible. Similarly, we say that statements which are not exactly wrong but
+  also not right are "slanted." This too is determined by their sense—i.e., by
+  their relation to the question. We cannot call them wrong, since we detect
+  something true about them, but neither can we properly call them right
+  because they do not correspond to any meaningful question and hence
+  have no correct meaning unless they are themselves corrected. Sense is
+  always sense of direction for a possible question. Correct sense must accord
+  with the direction in which a question points.
+     Insofar as a question remains open, it always includes both negative and
+  positive judgments. This is the basis of the essential relation between
+  question and knowledge. For it is the essence of knowledge not only to
+  judge something correctly but, at the same time and for the same reason,
+  to exclude what is wrong. Deciding the question is the path to knowledge.
+  What decides a question is the preponderance of reasons for the one and
+  against the other possibility. But this is still not full knowledge. The thing
+  itself is known only when the counterinstances are dissolved, only when
+  the counterarguments are seen to be incorrect.
+     We are familiar with this especially from medieval dialectic, which lists
+  not only the pro and contra and then its own decision, but finally sets out
+  all the arguments. This form of medieval dialectic is not simply the
+  consequence of an educational system emphasizing disputation, but on the
+  contrary, it depends on the inner connection between knowledge and
+  dialectic—i.e., between answer and question. There is a famous passage in
+  Aristotle's Metaphysics125 that has attracted a great deal of attention and can
+  be explained in terms of what we have been saying. Aristotle says that
+  dialectic is the power to investigate contraries independently of the object,
+  and to see whether one and the same science can be concerned with
+  contraries. Here it seems that a general account of dialectic (which
+  corresponds exactly to what we find, for example, in Plato's Parmenides) is
+  linked to a highly specialized "logical" problem which is familiar to us from
+  the Topics.126 It does indeed seem a very curious question whether the
+  same science can be concerned with contraries. Hence the attempt has
+  been made to dismiss this as a gloss.127 The connection between the two
+   questions becomes clear, however, as soon as we accept the priority of the
+
+=== p. 358 ===
+
+question over the answer, which is the basis of the concept of knowledge.
+Knowledge always means, precisely, considering opposites. Its superiority
+over preconceived opinion consists in the fact that it is able to conceive of
+possibilities as possibilities. Knowledge is dialectical from the ground up.
+Only a person who has questions can have knowledge, but questions
+include the antithesis of yes and no, of being like this and being like that.
+Only because knowledge is dialectical in this comprehensive sense can
+there be a "dialectic" that explicitly makes its object the antithesis of yes
+and no. Thus the apparently over-specialized question of whether or not it
+is possible to have one and the same science of contraries contains, in fact,
+the ground of the very possibility of dialectic.
+   Even Aristotle's views on proof and argument—which, in fact, make
+dialectic a subordinate element in knowledge—accord the same priority to
+the question, as has been demonstrated by Ernst Kapp's brilliant work on
+the origin of Aristotle's syllogistic.128 The priority of the question in
+knowledge shows how fundamentally the idea of method is limited for
+knowledge, which has been the starting point for our argument as a whole.
+There is no such thing as a method of learning to ask questions, of learning
+to see what is questionable. On the contrary, the example of Socrates
+teaches that the important thing is the knowledge that one does not know.
+Hence the Socratic dialectic—which leads, through its art of confusing the
+interlocutor, to this knowledge—creates the conditions for the question.
+All questioning and desire to know presuppose a knowledge that one does
+not know; so much so, indeed, that a particular lack of knowledge leads to
+a particular question.
+   Plato shows in an unforgettable way where the difficulty lies in knowing
+what one does not know. It is the power of opinion against which it is so
+hard to obtain an admission of ignorance. It is opinion that suppresses
+questions. Opinion has a curious tendency to propagate itself. It would
+always like to be the general opinion, just as the word that the Greeks have
+for opinion, doxa, also means the decision made by the majority in the
+council assembly. How, then, can ignorance be admitted and questions
+arise?
+   Let us say first of all that it can occur only in the way any idea occurs to
+us. It is true that we do speak of ideas occurring to us less in regard to
+questions than to answers—e.g., the solution of problems; and by this we
+mean to say that there is no methodical way to arrive at the solution. But
+we also know that such ideas do not occur to us entirely unexpectedly.
+They always presuppose an orientation toward an area of openness from
+
+=== p. 359 ===
+
+      which the idea can occur—i.e., they presuppose questions. The real nature
+      of the sudden idea is perhaps less that a solution occurs to us like an
+      answer to a riddle than that a question occurs to us that breaks through
+      into the open and thereby makes an answer possible. Every sudden idea
+      has the structure of a question. But the sudden occurrence of the question
+      is already a breach in the smooth front of popular opinion. Hence we say
+      that a question too "occurs" to us, that it "arises" or "presents itself" more
+      than that we raise it or present it.
+         We have already seen that, logically considered, the negativity of
+      experience implies a question. In fact we have experiences when we are
+      shocked by things that do not accord with our expectations. Thus
+      questioning too is more a passion than an action. A question presses itself
+      on us; we can no longer avoid it and persist in our accustomed opinion.
+         It seems to conflict with these conclusions, however, that the Socratic-Platonic dialectic raises the art of questioning to a conscious art; but there
+      is something peculiar about this art. We have seen that it is reserved to the
+      person who wants to know—i.e., who already has questions. The art of
+      questioning is not the art of resisting the pressure of opinion; it already
+      presupposes this freedom. It is not an art in the sense that the Greeks speak
+      of techne, not a craft that can be taught or by means of which we could
+      master the discovery of truth. The so-called epistemological digression of
+      the Seventh Letter is directed, rather, to distinguishing the unique art of
+      dialectic from everything that can be taught and learned. The art of
+      dialectic is not the art of being able to win every argument. On the
+      contrary, it is possible that someone practicing the art of dialectic—i.e., the
+      art of questioning and of seeking truth—comes off worse in the argument
+      in the eyes of those listening to it. As the art of asking questions, dialectic
+      proves its value because only the person who knows how to ask questions
+      is able to persist in his questioning, which involves being able to preserve
+      his orientation toward openness. The art of questioning is the art of
+      questioning ever further—i.e., the art of thinking. It is called dialectic
+      because it is the art of conducting a real dialogue.
+         To conduct a dialogue requires first of all that the partners do not talk at
+      cross purposes. Hence it necessarily has the structure of question and
+      answer. The first condition of the art of conversation is ensuring that the
+      other person is with us. We know this only too well from the reiterated
+      'yes' of the interlocutors in the Platonic dialogues. The positive side of this
+      monotony is the inner logic with which the subject matter is developed in
+      the conversation. To conduct a conversation means to allow oneself to be
+
+=== p. 360 ===
+
+conducted by the subject matter to which the partners in the dialogue are
+oriented. It requires that one does not try to argue the other person down
+but that one really considers the weight of the other's opinion. Hence it is
+an art of testing.129 But the art of testing is the art of questioning. For we
+have seen that to question means to lay open, to place in the open. As
+against the fixity of opinions, questioning makes the object and all its
+possibilities fluid. A person skilled in the "art" of questioning is a person
+who can prevent questions from being suppressed by the dominant
+opinion. A person who possesses this art will himself search for everything
+in favor of an opinion. Dialectic consists not in trying to discover the
+weakness of what is said, but in bringing out its real strength. It is not the
+art of arguing (which can make a strong case out of a weak one) but the
+art of thinking (which can strengthen objections by referring to the subject
+matter).
+   The unique and continuing relevance of the Platonic dialogues is due to
+this art of strengthening, for in this process what is said is continually
+transformed into the uttermost possibilities of its Tightness and truth, and
+overcomes all opposition that tries to limit its validity. Here again it is not
+simply a matter of leaving the subject undecided. Someone who wants to
+know something cannot just leave it a matter of mere opinion, which is to
+say that he cannot hold himself aloof from the opinions that are in
+question. 130 The speaker (der Redende) is put to the question (zur Rede
+gestellt) until the truth of what is under discussion (wovon der Rede ist)
+finally emerges. The maieutic productivity of the Socratic dialogue, the art
+of using words as a midwife, is certainly directed toward the people who
+are the partners in the dialogue, but it is concerned merely with the
+opinions they express, the immanent logic of the subject matter that is
+unfolded in the dialogue. What emerges in its truth is the logos, which is
+neither mine nor yours and hence so far transcends the interlocutors'
+subjective opinions that even the person leading the conversation knows
+that he does not know. As the art of conducting a conversation, dialectic is
+also the art of seeing things in the unity of an aspect (sunoran eis hen
+eidos)—i.e., it is the art of forming concepts through working out the
+common meaning. What characterizes a dialogue, in contrast with the
+rigid form of statements that demand to be set down in writing, is precisely
+this: that in dialogue spoken language—in the process of question and
+answer, giving and taking, talking at cross purposes and seeing each other's
+point—performs the communication of meaning that, with respect to the
+written tradition, is the task of hermeneutics. Hence it is more than a
+
+=== p. 361 ===
+
+      metaphor; it is a memory of what originally was the case, to describe the
+      task of hermeneutics as entering into dialogue with the text. That this
+      interpretation is performed by spoken language does not mean that it is
+      transposed into a foreign medium; rather, being transformed into spoken
+      language represents the restoration of the original communication of
+      meaning. When it is interpreted, written tradition is brought back out of
+      the alienation in which it finds itself and into the living present of
+      conversation, which is always fundamentally realized in question and
+      answer.
+         Thus we can appeal to Plato if we want to foreground the place of the
+      question in hermeneutics. We can do this all the more readily since Plato
+      himself manifests the hermeneutical phenomenon in a specific way. It
+      would be worth investigating his critique of the written word as evidence
+      that the poetic and philosophical tradition was becoming a literature in
+      Athens. In Plato's dialogues we see how the kind of textual "interpretation" cultivated by the sophists, especially the interpretation of poetry
+      for didactic ends, elicited Plato's opposition. We can see, further, how Plato
+      tries to overcome the weakness of the logoi, especially the written logoi,
+      through his own dialogues. The literary form of the dialogue places
+      language and concept back within the original movement of the conversation. This protects words from all dogmatic abuse.
+         The primacy of conversation can also be seen in derivative forms in
+      which the relation between question and answer is obscured. Letters, for
+      example, are an interesting intermediate phenomenon: a kind of written
+      conversation that, as it were, stretches out the movement of talking at
+      cross purposes and seeing each other's point. The art of writing letters
+      consists in not letting what one says become a treatise on the subject but
+      in making it acceptable to the correspondent. But on the other hand it also
+      consists in preserving and fulfilling the standard of finality that everything
+      stated in writing has. The time lapse between sending a letter and receiving
+      an answer is not just an external factor, but gives this form of communication its special nature as a particular form of writing. So we note that
+      speeding up the post has not improved this form of communication but, on
+      the contrary, has led to a decline in the art of letter writing.
+         The primacy of dialogue, the relation of question and answer, can be
+      seen in even so extreme a case as that of Hegel's dialectic as a philosophical
+      method. To elaborate the totality of the determinations of thought, which
+      was the aim of Hegel's logic, is as it were the attempt to comprehend
+      within the great monologue of modern "method" the continuum of
+
+=== p. 362 ===
+
+meaning that is realized in every particular instance of dialogue. When
+Hegel sets himself the task of making the abstract determinations of
+thought fluid and subtle, this means dissolving and remolding logic into
+concrete language, and transforming the concept into the meaningful
+power of the word that questions and answers—a magnificent reminder,
+even if unsuccessful, of what dialectic really was and is. Hegel's dialectic is
+a monologue of thinking that tries to carry out in advance what matures
+little by little in every genuine dialogue.
+
+(ii) The Logic of Question and Answer
+
+Thus we return to the conclusion that the hermeneutic phenomenon too
+implies the primacy of dialogue and the structure of question and answer.
+That a historical text is made the object of interpretation means that it puts
+a question to the interpreter. Thus interpretation always involves a relation
+to the question that is asked of the interpreter. To understand a text means
+to understand this question. But this takes place, as we showed, by our
+attaining the hermeneutical horizon. We now recognize this as the horizon
+of the question within which the sense of the text is determined.
+   Thus a person who wants to understand must question what lies behind
+what is said. He must understand it as an answer to a question. If we go
+back behind what is said, then we inevitably ask questions beyond what is
+said. We understand the sense of the text only by acquiring the horizon of
+the question—a horizon that, as such, necessarily includes other possible
+answers. Thus the meaning of a sentence is relative to the question to
+which it is a reply, but that implies that its meaning necessarily exceeds
+what is said in it. As these considerations show, then, the logic of the
+human sciences is a logic of the question.
+   Despite Plato we are not very ready for such a logic. Almost the only
+person I find a link with here is R. G. Collingwood. In a brilliant and telling
+critique of the Oxford "realist" school, he developed the idea of a logic of
+question and answer, but unfortunately never elaborated it systematically.131 He clearly saw what was missing in naive hermeneutics
+founded on the prevailing philosophical critique. In particular the practice
+that Collingwood found in English universities of discussing "statements,"
+though perhaps good practice for sharpening one's intelligence, obviously
+failed to take account of the historicity that is part of all understanding.
+Collingwood argues thus: We can understand a text only when we have
+understood the question to which it is an answer. But since this question
+
+=== p. 363 ===
+
+  can be derived solely from the text and accordingly the appropriateness of
+  the reply is the methodological presupposition for the reconstruction of the
+  question, any criticism of this reply from some other quarter is pure
+  shadow boxing. It is like understanding works of art. A work of art can be
+  understood only if we assume its adequacy as an expression of the artistic
+  idea. Here too we have to discover the question which it answers, if we are
+  to understand it as an answer. This is, in fact, an axiom of all hermeneutics:
+  we described it above as the "fore-conception of completeness."132
+     For Collingwood, this is the nerve of all historical knowledge. The
+  historical method requires that the logic of question and answer be applied
+  to historical tradition. We will understand historical events only if we
+  reconstruct the question to which the historical actions of the persons
+  involved were the answer. As an example Collingwood cites the Battle of
+  Trafalgar and Nelson's plan on which it was based. The example is intended
+  to show that the course of the battle helps us to understand Nelson's real
+  plan, because it was successfully carried out. Because his opponent's plan
+  failed, however, it cannot be reconstructed from the events. Thus, understanding the course of the battle and understanding the plan that Nelson
+  carried out in it are one and the same process.133
+     But yet one cannot conceal the fact that the logic of question and answer
+  has to reconstruct two different questions that have two different answers:
+  the question of the meaning of a great event and the question of whether
+  this event went according to plan. Clearly, the two questions coincide only
+  when the plan coincides with the course of events. But we cannot suppose
+  such coincidence as a methodological principle when we are concerned
+  with a historical tradition which deals with men, like ourselves, in history.
+  Tolstoy's celebrated description of the council of war before the battle—in
+  which all the strategic possibilities are calculated and all the plans
+  considered, thoroughly and perceptively, while the general sits there and
+   sleeps, but in the night before the battle goes round all the sentry posts—is
+  obviously a more accurate account of what we call history. Kutusov gets
+  nearer to the reality and the forces that determine it than the strategists of
+  the war council. The conclusion to be drawn from this example is that the
+  interpreter of history always runs the risk of hypostasizing the connectedness of events when he regards their significance as that intended by the
+   actual actors and planners.134
+     This is a legitimate undertaking only if Hegel's conditions hold
+   good—i.e., the philosophy of history is made party to the plans of the
+   world spirit and on the basis of this esoteric knowledge is able to mark out
+
+=== p. 364 ===
+
+certain individuals as having world-historical importance, since there is a
+real correlation between their particular ideas and the world-historical
+meaning of events. But it is impossible to derive a hermeneutical principle
+for the knowledge of history from such conjunctions of the subjective and
+objective in history. In regard to historical tradition Hegel's theory clearly
+has only a limited truth. The infinite web of motivations that constitutes
+history only occasionally and briefly acquires the clarity of what a single
+individual has planned. Thus what Hegel describes as an exception proves
+the rule that there is a disproportion between an individual's subjective
+thoughts and the meaning of the whole course of history. As a rule we
+experience the course of events as something that continually changes our
+plans and expectations. Someone who tries to stick to his plans discovers
+precisely how powerless his reason is. There are rare occasions when
+everything happens, as it were, of its own accord—i.e., events seem to be
+automatically in accord with our plans and wishes. On these occasions we
+can say that everything is going according to plan. But to apply this
+experience to the whole of history is to make a great extrapolation that
+completely contradicts our experience.
+   Collingwood's use of the logic of question and answer in hermeneutical
+theory is made ambiguous by this extrapolation. Our understanding of
+written tradition per se is not such that we can simply presuppose that the
+meaning we discover in it agrees with what its author intended. Just as the
+events of history do not in general manifest any agreement with the
+subjective ideas of the person who stands and acts within history, so the
+sense of a text in general reaches far beyond what its author originally
+intended. 155 The task of understanding is concerned above all with the
+meaning of the text itself.
+   This is clearly what Collingwood had in mind when he denied that there
+is any difference between the historical question and the philosophical
+question to which the text is supposed to be an answer. Nevertheless, we
+must remember that the question we are concerned to reconstruct has to
+do not with the mental experiences of the author but simply with the
+meaning of the text itself. Thus if we have understood the meaning of a
+sentence—i.e., have reconstructed the question to which it really is the
+answer—it must be possible to inquire also about the questioner and his
+intended question, to which the text is perhaps only an imagined answer.
+Collingwood is wrong when he finds it methodologically unsound to
+differentiate between the question which the text is intended to answer
+and the question to which it really is an answer. He is right only insofar as
+
+=== p. 365 ===
+
+  understanding a text does not generally involve such a distinction, if we
+  are concerned with the subject matter of which the text speaks. Reconstructing the author's ideas is quite a different task.
+     We will have to ask what conditions apply to this different task. For it is
+  undoubtedly true that, compared with the genuine hermeneutical experience that understands the meaning of the text, reconstructing what the
+  author really had in mind is a limited undertaking. Historicism tempts us
+  to regard such reduction as a scientific virtue and to regard understanding
+  as a kind of reconstruction which in effect repeats the process whereby the
+  text came into being. Hence it follows the cognitive ideal familiar to us
+  from the knowledge of nature, where we understand a process only when
+  we are able to reproduce it artificially.
+     I have shown above136 how questionable is Vice's statement that this
+  ideal finds its purest culmination in history because there man encounters
+  his own human-historical reality. I have asserted, on the contrary, that
+  every historian and philologist must reckon with the fundamental non-definitiveness of the horizon in which his understanding moves. Historical
+  tradition can be understood only as something always in the process of
+  being defined by the course of events. Similarly, the philologist dealing
+  with poetic or philosophical texts knows that they are inexhaustible. In
+  both cases it is the course of events that brings out new aspects of meaning
+  in historical material. By being re-actualized in understanding, texts are
+  drawn into a genuine course of events in exactly the same way as are
+  events themselves. This is what we described as the history of effect as an
+  element in hermeneutical experience. Every actualization in understanding can be regarded as a historical potential of what is understood. It is part
+  of the historical finitude of our being that we are aware that others after us
+  will understand in a different way. And yet it is equally indubitable that it
+  remains the same work whose fullness of meaning is realized in the
+  changing process of understanding, just as it is the same history whose
+  meaning is constantly in the process of being defined. The hermeneutical
+  reduction to the author's meaning is just as inappropriate as the reduction
+  of historical events to the intentions of their protagonists.
+     However, we cannot take the reconstruction of the question to which a
+  given text is an answer simply as an achievement of historical method. The
+  most important thing is the question that the text puts to us, our being
+  perplexed by the traditionary word, so that understanding it must already
+  include the task of the historical self-mediation between the present and
+  tradition. Thus the relation of question and answer is, in fact, reversed. The
+
+=== p. 366 ===
+
+voice that speaks to us from the past—whether text, work, trace—itself
+poses a question and places our meaning in openness. In order to answer
+the question put to us, we the interrogated must ourselves begin to ask
+questions. We must attempt to reconstruct the question to which the
+traditionary text is the answer. But we will be unable to do so without
+going beyond the historical horizon it presents us. Reconstructing the
+question to which the text is presumed to be the answer itself takes place
+within a process of questioning through which we try to answer the
+question that the text asks us. A reconstructed question can never stand
+within its original horizon: for the historical horizon that circumscribed the
+reconstruction is not a truly comprehensive one. It is, rather, included
+within the horizon that embraces us as the questioners who have been
+encountered by the traditionary word.
+   Hence it is a hermeneutical necessity always to go beyond mere
+reconstruction. We cannot avoid thinking about what the author accepted
+unquestioningly and hence did not consider, and bringing it into the
+openness of the question. This is not to open the door to arbitrariness in
+interpretation but to reveal what always takes place. Understanding the
+word of tradition always requires that the reconstructed question be set
+within the openness of its questionableness—i.e., that it merge with the
+question that tradition is for us. If the "historical" question emerges by
+itself, this means that it no longer arises as a question. It results from the
+cessation of understanding—a detour in which we get stuck.137 Part of real
+understanding, however, is that we regain the concepts of a historical past
+in such a way that they also include our own comprehension of them.
+Above I called this "the fusion of horizons."138 With Collingwood, we can
+say that we understand only when we understand the question to which
+something is the answer, but the intention of what is understood in this
+way does not remain foregrounded against our own intention. Rather,
+reconstructing the question to which the meaning of a text is understood
+as an answer merges with our own questioning. For the text must be
+understood as an answer to a real question.
+   The close relation between questioning and understanding is what gives
+the hermeneutic experience its true dimension. However much a person
+trying to understand may leave open the truth of what is said, however
+much he may dismiss the immediate meaning of the object and consider its
+deeper significance instead, and take the latter not as true but merely as
+meaningful, so that the possibility of its truth remains unsettled, this is the
+real and fundamental nature of a question: namely to make things
+
+=== p. 367 ===
+
+  indeterminate. Questions always bring out the undetermined possibilities
+  of a thing. That is why we cannot understand the questionableness of
+  something without asking real questions, though we can understand a
+  meaning without meaning it. To understand the questionableness of something
+  is already to be questioning. There can be no tentative or potential attitude to
+  questioning, for questioning is not the positing but the testing of possibilities. Here the nature of questioning indicates what is demonstrated by the
+  actual operation of the Platonic dialogue.139 A person who thinks must ask
+  himself questions. Even when a person says that such and such a question
+  might arise, this is already a real questioning that simply masks itself, out
+  of either caution or politeness.
+     This is the reason why understanding is always more than merely
+  re-creating someone else's meaning. Questioning opens up possibilities of
+  meaning, and thus what is meaningful passes into one's own thinking on
+  the subject. Only in an inauthentic sense can we talk about understanding
+  questions that one does not pose oneself—e.g., questions that are outdated
+  or empty. We understand how certain questions came to be asked in
+  particular historical circumstances. Understanding such questions means,
+  then, understanding the particular presuppositions whose demise makes
+  such questions "dead." An example is perpetual motion. The horizon of
+  meaning of such questions is only apparently still open. They are no longer
+  understood as questions. For what we understand, in such cases, is
+  precisely that there is no question.
+     To understand a question means to ask it. To understand meaning is to
+  understand it as the answer to a question.
+     The logic of question and answer that Collingwood elaborated puts an
+  end to talk about permanent problems, as in the way the "Oxford realists"
+  approach to the classics of philosophy, and hence also an end to the
+  concept of history of problems developed by neo-Kantianism. History of
+  problems would truly be history only if it acknowledged that the identity
+  of the problem is an empty abstraction and permitted itself to be transformed into questioning. There is no such thing, in fact, as a point outside
+  history from which the identity of a problem can be conceived within the
+  vicissitudes of the history of attempts to solve it. The fact is that understanding philosophical texts always requires re-cognizing what is cognized
+  in them. Without this we would understand nothing at all. But this in no
+  way means that we step outside the historical conditions in which we are
+   situated and in which we understand. The problem that we re-cognize is
+  not in fact simply the same if it is to be understood in a genuine act of
+
+=== p. 368 ===
+
+questioning. We can regard it as the same only because of our historical
+short-sightedness. The standpoint that is beyond any standpoint, a standpoint from which we could conceive its true identity, is a pure illusion.
+   We can understand the reason for this now. The concept of the problem
+is clearly an abstraction, namely the detachment of the content of the
+question from the question that in fact first reveals it. It refers to the
+abstract schema to which real and really motivated questions can be
+reduced and under which they can be subsumed. Such a "problem" has
+fallen out of the motivated context of questioning, from which it receives
+the clarity of its sense. Hence it is insoluble, like every question that has no
+clear, unambiguous sense, because it is not really motivated and asked.
+   This also confirms the origin of the concept of the problem. It does not
+belong in the sphere of those "honestly motivated refutations" 140 in which
+the truth of the subject matter is advanced, but in the sphere of dialectic as
+a weapon to amaze or make a fool of one's opponent. In Aristotle, the
+word "problema" refers to those questions that present themselves as open
+alternatives because there is evidence for both views and we think that
+they cannot be decided by reasons, since the questions involved are too
+great. 141 Problems are not real questions that arise of themselves and
+hence acquire the pattern of their answer from the genesis of their
+meaning, but are alternatives that can only be accepted as themselves and
+thus can be treated only in a dialectical way. This dialectical sense of the
+"problem" has its proper place in rhetoric, not in philosophy. Part of the
+concept of the problem is that there can be no clear decision on the basis
+of reasons. That is why Kant sees the rise of the concept of the problem as
+limited to the dialectic of pure reason. Problems are "tasks that emerge
+entirely from its own womb"—i.e., products of reason itself, the complete
+solution of which it cannot hope to achieve.142 It is interesting that in the
+nineteenth century, with the collapse of the unbroken tradition of philosophical questioning and the rise of historicism, the concept of the problem
+acquires a universal validity—a sign of the fact that an immediate relation
+to the questions of philosophy no longer exists. It is typical of the
+embarrassment of philosophical consciousness when faced with historicism that it took flight into an abstraction, the concept of the "problem,"
+and saw no problem about the manner in which problems actually "exist."
+Neo-Kantian history of problems is a bastard of historicism. Critiquing the
+concept of the problem by appealing to a logic of question and answer
+must destroy the illusion that problems exist like stars in the sky.143
+
+=== p. 369 ===
+
+  Reflection on the hermeneutical experience transforms problems back to
+  questions that arise and that derive their sense from their motivation.
+     The dialectic of question and answer disclosed in the structure of
+  hermeneutical experience now permits us to state more exactly what kind
+  of consciousness historically effected consciousness is. For the dialectic of
+  question and answer that we demonstrated makes understanding appear
+  to be a reciprocal relationship of the same kind as conversation. It is true
+  that a text does not speak to us in the same way as does a Thou. We who
+  are attempting to understand must ourselves make it speak. But we found
+  that this kind of understanding, "making the text speak," is not an arbitrary
+  procedure that we undertake on our own initiative but that, as a question,
+  it is related to the answer that is expected in the text. Anticipating an
+  answer itself presupposes that the questioner is part of the tradition and
+  regards himself as addressed by it. This is the truth of historically effected
+  consciousness. It is the historically experienced consciousness that, by
+  renouncing the chimera of perfect enlightenment, is open to the experience of history. We described its realization as the fusion of the horizons of
+  understanding, which is what mediates between the text and its interpreter.
+     The guiding idea of the following discussion is that the fusion of horizons
+  that takes place in understanding is actually the achievement of language.
+  Admittedly, what language is belongs among the most mysterious questions that man ponders. Language is so uncannily near our thinking, and
+  when it functions it is so little an object, that it seems to conceal its own
+  being from us. In our analysis of the thinking of the human sciences,
+  however, we came so close to this universal mystery of language that is
+  prior to everything else, that we can entrust ourselves to what we are
+  investigating to guide us safely in the quest. In other words we are
+  endeavoring to approach the mystery of language from the conversation
+  that we ourselves are.
+     When we try to examine the hermeneutical phenomenon through the
+  model of conversation between two persons, the chief thing that these
+  apparently so different situations—understanding a text and reaching an
+  understanding in a conversation—have in common is that both are
+  concerned with a subject matter that is placed before them. Just as each
+  interlocutor is trying to reach agreement on some subject with his partner,
+  so also the interpreter is trying to understand what the text is saying. This
+  understanding of the subject matter must take the form of language. It is
+  not that the understanding is subsequently put into words; rather, the way
+
+=== p. 370 ===
+
+understanding occurs—whether in the case of a text or a dialogue with
+another person who raises an issue with us—is the coming-into-language
+of the thing itself. Thus we will first consider the structure of dialogue
+proper, in order to specify the character of that other form of dialogue that
+is the understanding of texts. Whereas up to now we have framed the
+constitutive significance of the question for the hermeneutical phenomenon in terms of conversation, we must now demonstrate the linguisticality
+of dialogue, which is the basis of the question, as an element of hermeneutics.
+   Our first point is that the language in which something comes to speak
+is not a possession at the disposal of one or the other of the interlocutors.
+Every conversation presupposes a common language, or better, creates a
+common language. Something is placed in the center, as the Greeks say,
+which the partners in dialogue both share, and concerning which they can
+exchange ideas with one another. Hence reaching an understanding on the
+subject matter of a conversation necessarily means that a common
+language must first be worked out in the conversation. This is not an
+external matter of simply adjusting our tools; nor is it even right to say that
+the partners adapt themselves to one another but, rather, in a successful
+conversation they both come under the influence of the truth of the object
+and are thus bound to one another in a new community. To reach an
+understanding in a dialogue is not merely a matter of putting oneself
+forward and successfully asserting one's own point of view, but being
+transformed into a communion in which we do not remain what we
+were. 114
+
+=== p. 371 ===
+
+              Notes
+
+      1 Heidegger, Sein und Zeit, pp. 312ff.
+      2 Cf. Schleiermacher's Hermeneutik, ed. Heinz Kimmerle in Abhandlungen der
+        Heidelberger Akademie, (1959), 2nd Abhandlung, which is explicitly committed
+        to the old ideal of an art formulated in rules (p. 127, n.: "I . . . hate it when
+        theory does not go beyond nature and the bases of art, whose object it is").
+        [See above pp. 178f.]
+      3 Cf. Emil Staiger's description, which accords with that of Heidegger, in Die
+        Kunst der Interpretation, pp. 1 Iff. I do not, however, agree that the work of a
+        literary critic begins only "when we are in the situation of a contemporary
+        reader." This is something we never are, and yet we are capable of understanding, although we can never achieve a definite "personal or temporal
+        identity" with the author. Cf. also Appendix IV below. [See also my "Vom
+        Zirkel des Verstehens," Kleine Schriften, IV, 54-61 (GW, II, 57-65) and the
+        criticism of W. Stegmiiller, Der sogenannte Zirkel des Verstehens (Darmstadt,
+         1974). The objection raised from a logical point of view against talk of the
+        "hermeneutic circle" fails to recognize that this concept makes no claim to
+        scientific proof, but presents a logical metaphor, known to rhetoric ever since
+        Schleiermacher. Rightly opposed to this misunderstanding is Karl-Otto Apel,
+        Transformationen der Philosophie (2 vols.; Frankfurt, 1973), II, 83, 89, 216 and
+        passim.]
+      4 Sein und Zeit, pp. 312ff.
+      5 Cf. Leo Strauss, Die Religionskritik Spinozas, p. 163: "The word 'prejudice' is the
+        most suitable expression for the great aim of the Enlightenment, the desire for
+        free, untrammeled verification; the Vorurteil is the unambiguous polemical
+        correlate of the very ambiguous word 'freedom.'"
+      6 Praeiudidum auctoritatis et predpitantiae, which we find as early as Christian
+
+=== p. 372 ===
+
+   Thomasius' Lectiones de praeiuditiis (1689/90) and his Einleitung der Vernunft-lehre, ch. 13, §§39-40. Cf. the article in Walch, Philosophisches Lexikon (1726),
+   pp. 2794ff.
+ 7 At the beginning of his essay, "What Is Enlightenment?" (1784).
+ 8 The enlightenment of the classical world, the fruit of which was Greek
+   philosophy and its culmination in sophism, was quite different in nature and
+   hence permitted a thinker like Plato to use philosophical myths to convey the
+   religious tradition and the dialectical method of philosophizing. Cf. Erich
+   Frank, Philosophische Erkenntnis und religiose Wahrheit, pp. 3 Iff., and my review
+   of it in the Theologische Rundschau, (1950), pp. 260-66. And see especially
+   Gerhard Kriiger, Einsicht und Leidenschaft (2nd ed., 1951).
+ 9 A good example of this is the length of time it has taken for the authority of
+   the historical writing of antiquity to be destroyed in historical studies and how
+   slowly the study of archives and the research into sources have established
+   themselves (cf. R. G. Collingwood, Autobiography [Oxford, 1939], ch. 11,
+   where he more or less draws a parallel between turning to the study of sources
+   and the Baconian revolution in the study of nature).
+10 Cf. what we said about Spinoza's Theological-Political Treatise, pp. 180f. above.
+11 As we find, for example, in G. F. Meier's Beitrdge zu der Lehre von den Vorurteilen
+   des menschlichen Geschlechts (1766).
+12 I have analyzed an example of this process in a little study on Immermann's
+   "Chiliastische Sonette," Kleins Schriften, II, 136-47 (GW, IX).
+13 [See my "Mythos und Vernunft," Kleine Schriften, IV, 48-53 (GW, VIII) and
+   "Mythos und Wissenschaft," GW, VIII.]
+14 Horkheimer and Adorno seem to me right in their analysis of the "dialectic of
+   the Enlightenment" (although I must regard the application of sociological
+   concepts such as "bourgeois" to Odysseus as a failure of historical reflection, if
+   not, indeed, a confusion of Homer with Johann Heinrich Voss [author of the
+   standard German translation of Homer], who had already been criticized by
+   Goethe.
+15 H. Leo, Studien und Skizzen zu einer Naturlehre des Staates (1833).
+16 Cf. the reflections on this important question by G. von Lukacs in his History
+   and Class Consciousness, tr. Rodney Livingstone (1923; Cambridge, Mass.: MIT
+   Press, 1971).
+17 Rousseau, Discourse on the Origin of Inequality.
+18 Cf. my "Plato and the Poets," in Dialogue and Dialectic: Eight Hermeneutical
+   Studies on Plato, tr. P. Christopher Smith (New Haven: Yale University Press,
+    1980), pp. 54f.
+19 Walch, Philosophisches Lexicon (1726), p.1013.
+20 Walch, op. cit., pp. 1006ff. under the entry "Freiheit zu gedenken." See p.273
+21 Schleiermacher, Werke, I, part 7, 31.
+
+=== p. 373 ===
+
+      22 (It seems to me that the tendency to acknowledge authority, as for instance in
+         Karl Jaspers, Von der Wahrheit, pp. 766ff., and Gerhard Kriiger, Freiheit und
+         Weltverwaltung, pp. 23Iff., lacks an intelligible basis so long as this proposition
+         is not acknowledged.) The notorious statement, "The party (or the Leader) is
+         always right" is not wrong because it claims that a certain leadership is
+         superior, but because it serves to shield the leadership, by a dictatorial decree,
+         from any criticism that might be true. True authority does not have to be
+         authoritarian. [This issue has meanwhile been much debated, particularly in
+         my exchange with Jiirgen Habermas. See Hermeneutik und Ideologiekritik, ed.
+         Jurgen Habermas (Frankfurt, 1977) and my lecture at Solothurn, "Uber den
+         Zusammenhang von Autoritat und kritischer Freiheit," Schweizer Archiv fur
+         Neurologic, Neurochirurgie und Psychiatric, 133 (1983), 11-16. Arnold Gehlen
+         especially has worked out the role of institutions.]
+      23 Cf. Aristotle, Nichomachean Ethics, X, 10.
+      24 I don't agree with Scheler that the preconscious pressure of tradition decreases
+         as historical study proceeds (Stellung des Menschen im Kosmos, p.37). The
+         independence of historical study implied in this view seems to me a liberal
+         fiction of a sort that Scheler is generally able to see through. (Cf. similarly in
+         his Nachlass, I, 228ff., where he affirms his faith in enlightenment through
+         historical study or sociology of knowledge.)
+      25 [The question appears much more complicated since Thomas Kuhn's The
+         Structure of Scientific Revolutions (Chicago, 1963) and The Essential Tension:
+         Selected Studies in Scientific Tradition and Change (Chicago, 1977).]
+      26 [That K.-G. Faber in his thorough discussion in Theorie der Geschichtswis-senschaft (2nd ed., Munich, 1972), p.25, cannot quote this statement without
+         placing an ironic exclamation mark after "constituted" obliges me to ask how
+         else one defines a "historical fact"?]
+      27 [Now, in the light of the past three decades of work in the philosophy of
+         science, I willingly acknowledge that even this formulation is too undifferentiated.]
+      28 [See my "Zwischen Phanomenologie und Dialektik: Versuch einer Selbstkri-tik," GW, II.]
+      29 [On the concept of "style," see Part One, n. 67, and Appendix I below.]
+      30 The congress at Naumburg on the classical (1930), which was completely
+         dominated by Werner Jaeger, is as much an example of this as the founding of
+         the periodical Die Antike. Cf. Das Problem des Klassischen und die Antike
+      31 Cf. the legitimate criticism that A. Korte made of the Naumburg lecture by J.
+         Stroux, in the Berichte der Sdchsischen Akademie der Wissenschaften, 86 (1934),
+         and my note in Gnomon, 11 (1935), 612f. [repr. in GW, V, 350-53].
+      32 Thus Tacitus' Dialogue on the Orators rightly received special attention in the
+         Naumburg discussions on the classical. The reasons for the decline of rhetoric
+
+=== p. 374 ===
+
+   include the recognition of its former greatness, i.e., a normative awareness.
+   Bruno Snell is correct when he points out that the historical stylistic concepts
+   of "baroque," "archaic," etc. all presuppose a relation to the normative concept
+   of the classical and have only gradually lost their pejorative sense ("Wesen und
+   Wirklichkeit des Menschen," Festschrift fur H. Plessner, pp. 333ff.).
+33 Hegel, Asthetik, II, 3.
+34 Friedrich Schlegel, Fragmente, ed. Minor, no. 20, draws the hermeneutical
+   consequence: "A classical work of literature is one that can never be
+   completely understood. But it must also be one from which those who are
+   educated and educating themselves must always desire to learn more."
+35 [Here especially, see my "Zwischen Phanomenologie und Dialektik: Versuch
+   einer Selbstkritik," GW, II, 3ff.]
+36 Pp. 195, 232.
+37 [See G. Ripanti, Agostino teoretico del'interpretazione (Brescia, 1980).]
+38 [See M. Flacius, Clavis Scripturae sacrae sen de Sermone sacrarum literarum, book
+   II (1676).]
+39 In a lecture on aesthetic judgment at a conference in Venice in 1958 I tried to
+   show that it too, like historical judgment, is secondary in character and
+   confirms the "anticipation of completeness." ("On the Problematic Character
+   of Aesthetic Consciousness," tr. E. Kelly, Graduate Faculty Philosophy Journal
+    (New School for Social Research), 9 (1982), 31-40.)
+40 There is one exception to this anticipation of completeness, namely the case of
+   writing that is presenting something in disguise, e.g., a roman a clef. This
+   presents one of the most difficult hermeneutical problems (cf. the interesting
+   remarks by Leo Strauss in Persecution and the Art of Writing}. This exceptional
+   hermeneutical case is of special significance, in that it goes beyond interpretation of meaning in the same way as when historical source criticism goes
+   back behind the tradition. Although the task here is not a historical, but a
+   hermeneutical one, it can be performed only by using understanding of the
+   subject matter as a key to discover what is behind the disguise—just as in
+   conversation we understand irony to the extent to which we are in agreement
+   with the other person on the subject matter. Thus the apparent exception
+   confirms that understanding involves agreement. [I doubt that Strauss is right
+   in the way he carries out his theory, for instance in his discussion of Spinoza.
+   Dissembling meaning implies a high degree of consciousness. Accommodation, conforming, and so on do not have to occur consciously. In my view,
+   Strauss did not sufficiently see this. See op. cit., pp. 223ff. and my "Hermeneutics and Historicism," Supplement I below. These problems have meanwhile been much disputed, in my view, on too narrowly semantic a basis. See
+   Donald Davidson, Inquiries into Truth and Interpretation (Oxford, 1984).]
+41 Cf. p. 182 above.
+42 Cf. p. 182 above.
+
+=== p. 375 ===
+
+      43 Nicomachean Ethics, I, 7.
+      44 [I have here softened the original text ("It is only temporal distance that can
+         solve . . . "): it is distance, not only temporal distance, that makes this
+         hermeneutic problem solvable. See also GW, II, 64.]
+      45 Pp. 289 and 293 above.
+      46 [Here constantly arises the danger of "appropriating" the other person in one's
+         own understanding and thereby failing to recognize his or her otherness.]
+      47 The structure of the concept of situation has been illuminated chiefly by Karl
+         Jaspers, Die geistige Situation der Zeit, and Erich Rothacker. [See my "Was ist
+         Wahrheit," Kleine Schriften, I, 46-58, esp. pp. 55ff. (GW, II, 44ff.)]
+      48 [H. Kuhn already referred to this in "The Phenomenological Concept of
+         'Horizon,'" in Philosophical Essays in Memory of Husserl, ed. Martin Farber
+         (Cambridge, 1940), pp. 106-23. See my observations on "horizon" above, pp.
+         236ff.]
+      49 [I already discussed the moral aspect of this topic in my 1943 essay "Das
+         Problem der Geschichte in der neueren deutschen Philosophic," Kleine Schrif-ten, I, 1-10 (GW, II, 27-36). It will also be more emphatically stressed in what
+         follows.]
+      50 Nietzsche, Untimely Meditations, II, at the beginning.
+      51 Rambach's Institutiones hermeneuticae sacrae (1723) are known to me in the
+         compilation by Morus. There we read: Solemus autem intelligendi explicandique
+         subtilitatem (soliditatem vulgo).
+      52 [Unfortunately, this plain statement is often overlooked by both sides in
+         debates over hermeneutics.]
+      53 Cf. Emilio Betti's treatise, cited above, n. 172, p. 265 and his monumental
+         work, Teoria generale dell'interpretazione (2 vol., Milan, 1955). [See "Hermeneutics and Historicism," Supplement I below and my "Emilio Betti und das
+         idealistische Erbe," Quaderni Fiorentini, 7 (1978), 5-11 (GW, IV).]
+      54 Cf. the analysis of the ontology of the work of art in Part One, pp. 102ff.
+      55 Cf. the distinctions in Max Scheler, Wissen und Bildung (1927), p.26.
+      56 [In many respects, the discussion here is much too restricted to the special
+         situation of the historical human sciences and "being that is oriented to a text."
+         Only in Part Three have I succeeded in broadening the issue to language and
+         dialogue, though in fact I have had it constantly in view; and consequently,
+         only there have I grasped in a fundamental way the notions of distance and
+         otherness. See also pp. 296f.]
+      57 See my "Zwischen Phanomenologie und Dialektik: Versuch einer Selbstkritik,"
+         GW, II, and its reference on p. 12 to my "Praktisches Wissen," GW, V,
+      58 Cf. pp. 13ff. and 28 above.
+
+=== p. 376 ===
+
+59 Nicomachean Ethics, I, 4. [See my The Idea of the Good in Platonic-Aristotelian
+   Philosophy, tr. P. Christopher Smith (New Haven: Yale University Press,
+60 Cf. Nicomachean Ethics, I, 7 and II, 2.
+61 The final chapter of the Nicomachean Ethics gives the fullest expression to this
+   requirement and thus forms the transition to the Politics.
+62 Here we shall be following Nicomachean Ethics, VI, unless otherwise noted. [An
+   analysis of this book written in 1930 was first published under the title
+   "Praktisches Wissen" in GW, V, 230-48.]
+63 Plato, Apology, 22cd.
+64 Nicomachean Ethics, VI, 8, 1141 b 33, 1142 a 30; Eudemean Ethics, VIII, 2, 1246
+   b 36. [In my view, one misses the essential methodological unity of ethics and
+   politics in Aristotle if one does not include here politike phronesis (as Gauthier
+   fails to do in the new introduction to the 2nd ed. of his commentary on the
+   Nicomachean Ethics [Louvain, 1970]). See my review, reprinted in GW, VI,
+65 Werke (1832), XIV, 341.
+66 Nicomachean Ethics, VI, 8.
+67 Nicomachean Ethics, V, 14.
+68 Lex superior preferenda est inferiori, writes Melanchthon in his explanation of the
+   ratio of epieikeia (in the earliest version of Melanchthon's Ethics, ed. H. Heineck
+   [Berlin, 1893], p.29).
+69 Above, pp. 34ff.
+70 Idea adhibenda est ad omnes leges interpretatio quae flectat eas ad humaniorem ac
+   leniorem sententiam (Melanchthon, 29): "Therefore an interpretation should be
+   applied to every law that would bend it to more humane and lenient decisions."
+71 Cf. the excellent critique by H. Kuhn of Leo Strauss' Naturrecht und Geschichte
+   (1953), in the Zeitschrift fur Politik, 3, no. 4 (1956).
+72 Nicomachean Ethics, V, 10. The distinction itself originates, of course, with the
+   Sophists, but it loses its destructive meaning through Plato's restriction of the
+   logos, and its positive meaning in law becomes clear only in Plato's Statesman,
+   294ff., and in Aristotle.
+73 The train of thought in the parallel place in the Magna Moralia, I, 33, 1194 b
+   30-95 a 7, cannot be understood unless one does this: "Do not suppose that if
+   things change owing to our use, there is not therefore a natural justice;
+   because there is" (tr. Ross).
+74 Cf. Melanchthon, op. cit., p.28.
+75 Aristotle says in general that phronesis is concerned with the means (ta pros to
+   telos} and not with the telos itself. It is probably the contrast with the Platonic
+   doctrine of the idea of the good that makes him emphasize that. However,
+   phronesis is not simply the capacity to make the right choice of means, but is
+
+=== p. 377 ===
+
+         itself a moral hexis that also sees the telos toward which the person acting is
+         aiming with his moral being. This emerges clearly from its place within the
+         system of Aristotle's ethics. Cf. in particular Nicomachean Ethics, VI, 10, 1142 b
+         33, 1140 b 13, 1141 b 15. I was glad to see that H. Kuhn in his essay "Die
+         Gegenwart der Griechen," Festschrift for H.-G. Gadamer (1960), pp. 134ff.,
+         now does full justice to this situation, although he tries to demonstrate that
+         there is an ultimate "preferential choice" that makes Aristotle lag behind Plato.
+          [The Latin translation of phronesis as prudentia abetted the failure to see the real
+         state of affairs, a failure which still haunts contemporary "deontic" logic. In my
+         review of recent work in ethics, Philosophische Rundschau, 32 (1985), 1-26, the
+         noteworthy exception was T. Engberg-Pederson, Aristotle's Theory of Moral
+         Insight (Oxford, 1983).]
+      76 Nicomachean Ethics, VI, 9, 1142 a 25ff.
+      77 Cf. pp. 350ff. below.
+      78 sunesis ("fellow-feeling, forbearance, forgiveness"), Nicomachean Ethics, VI,
+          11.
+      79 [I have slightly revised the text here. The phrase allou legoutos (1145 a 15)
+         surely means only that it is not a case in which I must act. I can listen with
+         understanding when another relates something even if I am not going to offer
+         advice.]
+      80 gnome, syngnome.
+      81 Nicomachean Ethics, VI, 13, 1144 a 23ff.
+      82 He is a panourgos, i.e., he is capable of anything.
+      83 In addition to the works cited in nn. 172 and 53 above are many shorter
+         articles. [Cf. also Supplement I below, "Hermeneutics and Historicism," and
+         my essay "Emilio Betti und das idealistische Erbe," in Quaderni Fiorentini, 7
+          (1978), 5-11.]
+      84 Is it just an accident that Schleiermacher's lecture on hermeneutics first
+         appeared in a posthumous edition two years before Savigny's book? It would
+         be worth making a special study of hermeneutical theory in Savigny, an area
+         that Forsthoff left out in his study. On Savigny, see Franz Wieacker's note in
+          Grunder und Bewahrer, p.l 10.
+      85 "Recht und Sprache," Abhandlungen der Konigsberger Gelehrten Gesellschaft
+      86 Betti, op. cit., n. 62 a.
+      87 Above, p.251 and passim.
+      88 Walch, p. 158. [Enlightened despotism gives the appearance that the "ruler"
+          interprets his command in such a way that the law is not superseded, but
+          reinterpreted, so that it corresponds with his will without needing to observe
+          any rule of explanation.]
+
+=== p. 378 ===
+
+ 89 The importance of this concretizing of the law is so central to jurisprudence
+    that there is a vast literature on the subject. Cf. Karl Engisch, Die Idee der
+    Konkretisierung, Abhandlungen der Heidelberger Akademie (1953). [See also his
+    more recent works, Methoden der Rechtswissenschaft (Munich, 1972), pp.
+    39-80, and Recht und Sittlichkeit: Hauptthemen der Rechtsphilosophie (Munich,
+ 90 Cf. F. Wieacker, who has investigated the problem of an extralegal order of
+    law from the point of view of the art of giving legal judgment and of the
+    elements that determine it: Gesetz und Richterkunst (1957).
+ 91 Over and above the aspect discussed here, the overcoming of the hermeneutics of historicism, which is the general purpose of the present investigation, has positive consequences for theology, which seem to approach the
+    views of the theologians Ernst Fuchs and Gerhard Ebeling (Fuchs, Hermeneu-tik [2nd ed., I960]; Ebeling, "Hermeneutik," in Religion in Geschichte und
+    Gegenwart, 3rd ed.). [See also my "On the Problem of Self-Understanding," in
+    Philosophical Hermeneutics, tr. David E. Linge (Berkeley: University of Cal-ifornia Press, 1976), pp. 44-58.]
+ 92 Glauben und Verstehen, II, 231.
+ 93 Der junge Dilthey, p.94.
+ 94 Cf. the essay by H. Patzer, "Der Humanismus als Methodenproblem der
+    klassischen Philologie," Studium Generate, 1 (1947), 84-92.
+ 95 [The expression "reflective philosophy" was coined by Hegel against Jacobi,
+    Kant, and Fichte. It is used already in "Glauben und Wissen," but as a
+    "reflective philosophy of subjectivity." Hegel himself counterposes it to the
+    reflection of reason.]
+ 96 Cf. p.298 above.
+ 97 Cf. Encyclopedia, §60.
+ 98 [I have given a detailed interpretation of the dialectic of recognition
+    (Phenomenology of Mind, IV, A: "Independence and Dependence of Self-Consciousness: Lordship and Bondage") in Hegel's Dialectic: Five Hermeneutical
+    Studies, tr. P. Christopher Smith (New Haven: Yale University Press, 1976), ch.
+    3-]
+ 99 This is evident in Marxist literature even today. Cf. the energetic elaboration
+    of this point in Jiirgen Habermas' "Zur philosophischen Diskussion um Marx
+    und den Marxismus," Philosophische Rundschau, 5, nos. 3/4 (1957), 183ff.
+100 Heidegger, Sein und Zeit, p.229.
+101 This is the meaning of the difficult passage 343cd, for the authorship of which
+    those who deny the authenticity of the Seventh Letter have to assume a
+    second, nameless Plato. [See my detailed study, "Dialectic and Sophism in
+    Plato's Seventh Letter," in Dialogue and Dialectic: Eight Hermeneutical Studies on
+    Plato, tr. P. Christopher Smith (New Haven: Yale University Press, 1980), pp.
+
+=== p. 379 ===
+
+      102 Meno, 80d ff.
+      103 Cf. his account in Erfahrung und Urteil, p.42, and in his great work, Die Krisis
+          der europdischen Wissenschaften und die transzendentale Phanomenologie, pp. 48ff.,
+          130ff. [What is said here is based on a quite different concept of "founding."
+          Phenomenologically considered, "pure" perception seems to me a mere
+          construction, which corresponds to the derivative concept of "presenceat-hand"—and consequently appears as a position left over from the latter's
+          idealization in the theory of science.]
+      104 Husserliana, VI, loc. cit. See above pp. 237f.
+      105 Francis Bacon, Novum Organum, I, 26ff.
+      106 Op. cit., I, 20f., 104.
+      107 Op. cit., I, 19ff.
+      108 Op. cit.; cf. in particular the distributio operis.
+      109 Op. cit., I, 22, 28.
+      110 Op. cit. I, 38ff.
+      111 Posterior Analytics, II, 19, 99ff.
+      112 Plutarch, De fortuna, III, 98 F = Diels, Fragmente der Vorsokratiker, Anaxagoras
+          B 21 b.
+      113 Aeschylus, Prometheus, 461.
+      114 Phaedo, 96.
+      115 [This parallels Karl Popper's paired concepts of "trial and error"—with the
+          restriction that those concepts all too often proceed from the deliberate, and
+          all too rarely from the suffering side of human experience of life. Or at least
+          that is so, insofar as one looks only to the "logic of scientific discovery," but
+          not if one thinks of the logic actually effective in human experience of
+          life.]
+      116 Hegel, Phanomenologie, "Introduction," ed. Hoffmeister, p.73.
+      117 Heidegger, Hegel's Concept of Experience (New York: Harper and Row, 1970).
+      118 Holzwege (Frankfurt, 1950), p.169.
+      119 Hegel, Encyclopedia, §7.
+      120 In his informative study, "Leid und Erfahrung," Akademie der Wissenschaften
+          und der Literatur in Mainz, no. 5 (1956), H. Dorrie investigated the origin of
+          the rhyme pathos mathos in proverbial modes of expression. He considers that
+          the original meaning of the proverb was that only the foolish man has to
+          suffer in order to become wise, whereas the wise man is more prudent. The
+          religious element that Aeschylus gives to the phrase is a later development.
+          This is not very convincing in view of the fact that the myth that Aeschylus
+          takes up speaks of the shortsightedness of the human race, and not just of
+          individual fools. Moreover, the limits of human prediction are such an early
+          and human experience and so closely connected with the universal human
+          experience of suffering that we can hardly believe that this insight remained
+          hidden in a simple little proverb until Aeschylus discovered it. [On this
+
+=== p. 380 ===
+
+      Aschylean motif, see more recently Heinz Neiztel, Gymnasium, 87 (1980),
+      283ff. According to him, what is meant is punishment for hybris, as in: "Who
+      refuses to listen, must be made to feel."]
+121 Cf. our remarks on this in the "Introduction" above.
+122 Cf. the outstanding analysis of this reflective dialectic of I and Thou in Karl
+      Lowith, Das Individuutn in der Rolle des Mitmenschen (1928) arid my review of
+      it in Logos. 18 (1929), 436-40 [GW, IV].
+123 Thus Spake Zarathustra, II, "Of self-overcoming."
+124 Cl. the argument concerning the form of discourse in the Protagoras, 335ff.
+125 Metaphysics, XIII, 4, 1078 b 25ff.
+126 105 b 23.
+127 H. Maier, Sylloaistik des Aristoteles, II, 2, 168.
+128 Cf. chiefly his article "Syllogistik" in Pauly-Wissowa, Real-Encyclepadie fiir
+      Altertumswissenschaft.
+129 Aristotle, Metaphysics, 1004 b 25: esti de he dialektike peirastike. Here we can
+      already discern the idiom of being led, which is the real sense of dialectic, in
+      that the testing of an opinion gives it the chance to conquer and hence puts
+      one's own previous opinion at risk.
+130 See above pp. 291 f., 33if.
+131 Cf. Collingwood's Autobiography, which at my suggestion was published in
+      German translation as Denken, pp. 30ff., as well as Joachim Finkeldei, Grund
+      und Wesen des Fragens (unpub. diss., Heidelberg, 1954). A similar position is
+      adopted by Croce (who influenced Collingwood) in his Logic as Science of the
+      Pure Concept, tr. Ainsley (London, 1917), German tr., pp. 135ff., where he
+      understands every definition as an answer to a question and hence historical.
+132 Cf. pp. 292-931. above, and my critique of Guardini, Kleine Schriften, II,
+       178-87 (GW, IX), where I said: "All criticism of literature is always the self-criticism of interpretation."
+f 3 3 Collingwood, An Autobiography (Oxford: Galaxy ed., 1970), p.70.
+134 There are some good observations on this subject in Erich Seeberg's "Zum
+      Problem der pneumatischen Exegese," in Festschrift for Sellin, pp. 127ff. [repr.
+      in Die Hermeneutik und die Wissenschaften, ed. H.-G. Gadamer and G. Boehrn
+      (Frankfurt, 1978). pp. 272-82].
+135 See pp. 182, 294 above and passim.
+136 Pp. 2161. and 277f. above.
+137 See the account of this wrong turning of the historical in my analysis above,
+      pp. 180ft., of Spinoza's Theoloaico-Political Treatise.
+138 Cf. pp. 304ff. above.
+139 Pp. 355ff. above.
+140 Plato, Seventh Letter, 344b.
+141 Aristotle, Topics, I, 11.
+
+=== p. 381 ===
+
+  142 Critique of Pure Reason, A 321ff.
+  143 Nicolai Harlmarm, in his essay "Der philosophische Gedanke und seine
+      Geschichte," Abhandlungen der preussischen Akademie der Wissenschaften (1936),
+      no. 5 (repr. in Hartmann, Kleine Schriften, II, 1-47), rightly pointed out that
+      the important thing is to realize once more in our own minds what the great
+      thinkers realized. But when, in order to hold something fixed against the
+      inroads of historicism, he distinguished between the constancy of what the
+      "real problems are concerned with" and the changing nature of the way in
+      which they have to be both asked and answered, he failed to see that neither
+      "change," nor "constancy," the antithesis of "problem" and "system," nor the
+      criterion of "achievements" is consonant with the character of philosophy as
+      knowledge. When he wrote that "only when the individual avails himself of
+      the enormous intellectual experience of the centuries, and his own experience is based on what he has recognized and what has been well tried
+      can that knowledge be sure of its own further progress" (p. 18), he
+      interpreted the "systematic acquaintance with the problems" according to the
+      model of an experimental science and a progress of knowledge that falls far
+      short of the complicated interpenetration of tradition and history that we
+      have seen in hermeneutical consciousness.
+  144 Cf. my "Was ist Wahrheit?," Kleine Schriften, I, 46-58 (GW, II, 44-56).
+

@@ -1,0 +1,1594 @@
+=== chunk: walton-reed-macagno-2008-argumentation-schemes/ch3-knowledge-practical-other ===
+title: Knowledge-Related, Practical, and Other Schemes
+source_pdf: docs/sources/walton-reed-macagno-2008-argumentation-schemes/full.pdf
+pdf_pages: 97-130
+page_scheme: book
+plan_page_start: 87
+plan_page_end: 120
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 87 ===
+
+                Knowledge-Related, Practical,
+                       and O ther Schemes
+
+I n this chapter, we outline a number of schemes that do not fall into
+any single cla'lsification but are useful to know about before consideri ng
+the schemes discussed in the next chapters. We begin with a group of
+schemes based on assumptions about knowledge and go on to consider a
+group related to actions, goals, and means. These latter include schemes
+representing practical reasoning and arguing from the consequences
+of an action that is being considered. Finally, we consider some other
+schemes that are not easily classified, including arguments from compo­
+sition and dhision , fear appeal arguments, appeals to pity. and argument
+from alternatives and opposites. Some work has been done on some of
+these schemes, while others remai n largely unstudied.
+
+                 I . A RG U M ENTS FRO M KNOWLEDGE
+
+In arguments from expert opinion, position to know, and \\iU1ess testi­
+mony, the acceptability of the· conclusion is drawn from a knowledge base
+that the source is assumed to have access to. The relation between the
+latter and the plausibility of the conclusion is based on a kind of default
+rea'loning: it is assumed that the proposition in question is con tained in
+a Ct'rtain subject domain that is known by the source. For this reason , it
+is an assumption i n this kind of argumentation that many or most of the
+true propositions of the domain are known. The warrant of this kind of
+argumentation is therefore closely similar to that of the argument from
+ignorance. The falsity of a proposition is inferred from its absence from
+the domain of knowledge. The reasoning runs as follows: the proposition
+is not known to be true; therefore, it is assumed that it is false. This form
+is closely related to the source-based argument'!, because it is based on a
+
+=== p. 88 ===
+
+RS                          A rgu mn� tation Srlumll's
+
+negative scheme: the expert source does not know that the proposition
+is true; therefore, ( plausibly) it is false. The greater presence of true
+rather than false propositions i n the expert domain is a good reason to
+believe that, in case it is true, the alleged proposi tion wi ll be present in his
+database. Thus from i ts absence, i ts presumed falsity follows. Of cou rse ,
+the strength of such an argument ·will depend on the exhaustiveness of
+the database.
+   The problem of what is meant by falsity is, however, an extremely
+complex problem . The argummtum ad ignorantiam, so closely related to
+neg-ation as default - or intu itionistic negation, as it is known in logic -
+is only one of the negative schemes related to a domain of knowledge.
+Another is the following scheme: the proposition may be falsified because
+its opposite, con tradictory, or con trary is known to be true. Argument
+from ignorance, however, is relevant i n the discussion about source­
+based topics, because the conclusion is reached through the relation­
+ship between the proposition and the whole relevant database. Like the
+posi tive arguments from source, its level of completeness determ i nes the
+strength of the conclusion .
+   In addition to this characteristic, i n the evaluation of arguments from
+knowledge it is necessary to consider the l i n k between the expert and
+the proposition that is his assertion . The possibility of lying, m isinter­
+pretation, or m isquotation can affect the plausibility of the conclusion.
+For this reason, all these topics follow the same general format: the con­
+clusion follows from a premise regarding the domain of knowledge and
+another one concern ing the assertion made by the source . Tht> differ­
+ence between them lies in the connection between the databa'le and the
+supported proposition. The latter, in tact, defines the field i t belongs
+to: i t may be part of practical notions, related to experience, or part of
+technical and cultural knowledge, or it may be simply a fact, an event. For
+this reason , tht> arguments are differen tiated in position to know, expert
+opinion, and witness testi mony, respectively. The proposi tion , moreover,
+restricts the domain to a specific field that i n fl uences the choice of the
+source used to support it. I n relation to the specific area of in terest, the
+most complete available database is chose n .
+   I n order t o show t h e difference between t h e argument from position
+to know or witness testimony and the argument from expert opinion ,
+it is useful to disti ngu ish between access to facts, on the one hand, and
+experience or expertise, on the other. The defini tion of 'expert' lies
+i n the notion of specialized, extraordinary skills or mastery in a par­
+ticular field. Th is presuppost•s, fi rst of all , s tudy or practice and second,
+
+=== p. 89 ===
+
+                     Knowkdgt>-&lated, PrfUlical, and Other SrhnnR.s                   89
+
+    ac knowledgement by peer experrs (Walton , 1 997, p. 1 2 1 ) . Both an expert
+    and a person in a posi tion to know, or a witness, have a privileged access
+    to a particular kind of information , but the former also has access to the
+    whole domain of knowledge the proposition belongs to. For this reason ,
+    expertise or experience and testimony must be distinguished under the
+    a-.pect of the i n terpre tation of the known event. The latter can report
+    the facrs, but does not have the knowledge necessary to connect it wi th
+    the domain of related information . Such a source cannot be expec ted,
+    i n other words, to give an authori tative opinion .
+       The distinction between expertise and experience may be clearly
+    drawn by explaining the difference between cultural and practical knowl­
+    edge. Bei ng in a position to know means having a privileged access to
+    faclS or having a wide database of pre\ious similar evenrs, while the pri\i­
+    leged kind of information the expert has access to represen rs the possible
+    i nterpretations of these facrs or evenrs. The person i n a posi tion to know
+    can express a valid opinion about the requested info rmation, because he
+    is in a position to i n terpret facrs. Th us the expert opinion may be the
+    best among the possible available explanations of a given set of facrs. The
+    difference between experience and expertise may be clarified through
+    the analysis of the following example.
+
+      I f we wan t to know what i t feels like to be i n baule, we are rightly incli ned
+      to pay more aue n tion to the report of a soldier who has been in the front
+      lines than to the account of a man, however i maginative, who has never
+      been exposed to the shooting. For, in such a case, we feel that the personal
+      experience of the person gi'ing testimony is essen tial to the reliability of his
+      account. (Walton , 1 997. p. 83)
+
+    The soldier is in a position to know about the feelings of one personally
+    exposed to battle conditions and so can give a personal opinion about
+    being in a battle. However, if we want to have an analysis of the psycho­
+    logical impact of the battle on a person, we should address this question
+    to an expert i n that particular field.
+       The argument from position to know takes the followin g form (Walton,
+    2 00 2 , p. 4 6) :
+
+      Major Prnnist: Source a is in a position to know about thi ngs in a certai n sul�ect
+        domain S contain i ng proposition A.
+      Minor Pmnise: a asserts th a r .oi is tme ( false ) .
+      Conrlllsion: A is tme ( false) .
+
+    The fi rst c ri tical question is directed against the major premise: if the
+    source is not in a position to know, the whole argument collapses. The
+
+\
+
+=== p. 90 ===
+
+go                              Argumentation Schnnes
+
+remaining two critical questions focus on the problem of the a�sertion: it
+may be unreliable because the source is dishonest, or because his words
+have been distorted.
+  CQa : Is n in a position to know wht�thcr A is true ( falst• ) ?
+  CQ2 : Is n an honest ( trustworthy, reliable) source?
+  CQ.1: Did a auert thal A is lnae ( false ) ?
+
+The argument from ·witness testimony can be a strong argument when
+there is no possibility of direct access to the facts. The main problem
+regarding this argumentation scheme is the reliability of the source. For
+this reason , in a trial, the witness takes an oath before testifying. The truth­
+telling premise is an important difference from the pre,ious scheme. The
+two topics are distinct as well in virtue of another important feature. The
+argument from position to know may often be used in delibe r.ttion or in
+persuasion dialogue, whereas argument from witness testimony is mainly
+used in legal dialogue, in courts. Moreover, in such cases, the witness
+must strictly report the facts that he is directly acquain ted wi th.
+  A typical example is the following argument.
+
+  Witness A states that Peter shot George.
+  Therefore, Peter shot George. (Verheij , 2 000 )
+
+In this case, no interpretation is given, and although the argument is
+defeasible, especially in the absence of contrary evidence, it may be con­
+sidered evidence supporting the conclusion that Peter is guilty. The fol­
+lowing scheme represents the general form of the argumn�l from witni'Sj
+tl'.� timony ( Prakken, Reed, and Walton , 2003, p. 3 5 ) :
+  Position-to-Know Prrm ist: Witness W is i n position to know whelher A is true or
+       no!.
+     Truth-TtUing Prtmise: Witnes.� W is telling lhe truth (as W knows i t ) .
+  Statnnm l Pmnist: Witness Wstates !hal A is !rue (false ) .
+  Conclusion : A may be plausibly taken lo be true ( false ) .
+
+Witness testimony i s a strong argument when there i s n o direct access to
+the facts. For this reason , however, there are no direct empirical means
+to evaluate or verify a speaker's words except for comparison to other
+available evidence and evaluation of its consistency, both internal and
+external. The reliability of the source being the most important condi­
+tion of the scheme, the critical questions are directed against this major
+premise. Consistency of the statement wi th the rest of the testimony, with
+the known facts, and with other testimony, along with source bias, are
+
+=== p. 91 ===
+
+                  Krmw!Rdge-RRlaled, 17aclical, and Other Scheml!.f
+
+the most i m portant factors used to evaluate the trustworthiness of the
+witness and, consequently, the plausibility of his statement.
+
+    CQt : Is what the witness said i n ternally consisten t�
+    CQ:t : Is what the witnt>ss said consistent with the known facts of tht• case ( ba'it'd
+     on t•vidence apart from what the witness testified to ) ?
+    CQ1 : I s what the \\i tness said consisten t with what otht•r witnes.'ies have ( i nde­
+      penden tly) testified to?
+    CQ4: Is there some kind of bias that can be attributed to the account given by
+      the witness?
+    CQ5: How plausible is the statement A as.'ierted by the wimes.'i?
+
+The difference between arguments from witness testi mony and position­
+to-know arguments , on the one hand, and arguments from expert opin­
+ion, on the other hand, concern the nature of the available databa'le and
+the information give n . The following example clarifies this distinction:
+
+    A Ntw.\lt'"k article, reporting on the debate on corporal punishment ( pad­
+    dling) in the clas.'iroom cites split opinions in state legislatu res and among
+    various advocacy and professional groups who have taken a position on the
+    issue (james N. Baker, with Daniel Shapiro, Pat Wingent and Nadine joseph.
+    "Paddling: Still a Sore Point", NI'WSWHk.june 22, 1 967, p. 61 ). Don F. Wilson,
+    president of the Ohio Education Association , is quoted in support of the
+    claim made by paddling advocates that curporal punishment is necessary
+    for classroom discipline: "A lot of child-development experts m ight change
+    their minds if they were in a classroom." Immediately following this quo­
+    tation , U niversity of Kansas child-development Professor Donald M . Baer
+    is quoted as conntrring: "Corporal punishment can be eflective in chang­
+    ing behavior." Immediately following this citation, the article statt·s: "Most
+    experts, and many parenL'i, vehemen tly disagree." After citing a number of
+    other studies by psychologists and university research centers on problems
+    related to the issue, the article concludes with the statement that "experts
+                                                              "
+    say there may be no consensus to end the p racti c e of paddling as long as
+    adults feel that what wdS right for them may also be right for their childre n .
+    (Walton 1 997, pp. 1 38- 1 39)
+
+The expert'! a r e re q uested to provide opin ions on a probl e m , based on
+interpretations of the facts. This is the form of the argu T111'1l l from Pxpm
+opinion (Walton, 200 2 , p . 50 ) :
+
+    Mtljor Prnn i.st: Source E is an expt·rt in subjt't·t domain S con taining proposi­
+      tion A.
+    MiTior J>rpmi.st: E asse rts that proposition A is tntc: ( false ) .
+    Condzuion : A is true ( false ) .
+
+\
+
+=== p. 92 ===
+
+92                           Argumrotation Schemes
+
+The main c ri tical poin ts of the argument are the question of expertise
+and the question of the relevance of the source's expertise in relation
+to the expressed opin ion or assertion . The first question has as its scope
+ the assumed expertise of the source. For th is reason , its focus is on the
+evaluation of the effective skills of the source through the analysis of h is
+job, h is quali fications, the testimony of peer experts on his competence,
+as well a'i h is experience, skills, and publications. The field question is
+
+directed against the correspondence between the domain of expertise
+ and the proposi tion : the domain i tself may be examined from the poin t
+ohiew o f type ( knowledge or tech nical ski l l ) , its relation to other fields,
+and i ts development. The assertion is the topic of the third and fourth
+questions. The opin ion question regards the problem of quotation and
+in terpreta tion of the source 's words, while the tnastworth iness attack
+undermines the argument on the basis of source bias or dishonesty.
+ The last two questions are directed against the plausibility of the link
+between prem ises and conclusion . The consistency and backup-evidence
+questions express the possible objection that Mexperts may be wrong."
+Their opinion may not be accepted by other experts, or i t may not be
+ based on strong evidence. Both these attacks weaken the acceptability of
+ the conclusion, but they do not compromise the argument's validity.
+   Argument from expert opinion has already heen outlined in Chap­
+ ter 1 . The followi ng is a more extensive and deta iled accoun t of the
+c ritical questions and subquestions ( Wal ton , 1 99 7 , pp. 2 1 1 -2 2 5 ) :
+
+     1 . Expnt ise Que.�lion: How credible is E as an expert source?
+         1 . 1 . What is E's name, job or official capacity, location, and
+                 employer?
+         1 . 2 . What degrees, professional qualifications, or certification by
+                 licensing agencies does E hold?
+         1 . 3 . Can testimony of peer experts in the same field be given to
+                 support E's competence?
+         1 + What is E's record of experience or other indications of prac­
+                 ticed skill in S?
+         1 . 5 . What is E's record of peer-reviewed publications or con tribu­
+                 tions to knowledge in S?
+     2. Field Question: Is E an expert in the field that A is in?
+         2 . 1 . Is the field of expertise cited in the appeal a genuine area of
+                 knowledge or an area of technical skill that supports a claim
+                 to knowledge?
+
+=== p. 93 ===
+
+             Knawledge-&lated, Prartical, and Other Scheme.�               93
+
+    2 . 2 . If E is an expert in a field closely related to the field cited i n
+            the appeal, how close i s the relationship between t h e expertise
+             in the two fields?
+    2 .3 . Is the issue one where expert knowledge in any field is directly
+            relevant to deciding the issue?
+    2.4. Is the field of expertise cited an area where there are changes
+             in techniques or rapid developments in new knowledge? If so,
+            is the expert up to date in these developmen ts?
+3 · opinion Question: What did E assert that implies A?
+    3 · 1 . Was E quoted as asserting A? Was a reference to the source
+            of the quote given, and can it be verified that E actually said
+            A?
+    3 · 2.   If E did not say A exactly, then what did E assert, and how WdS
+            A infe rred?
+    3 ·3 · If the inference to A was based on more than one premise,
+            could one prem ise have come from E and the other from
+            a differen t expert? If so, is there evidence of disagreement
+            between what the two experts (separately) asserted?
+    3+ Is what E asserted clear? If not, was the process of i n terpreta­
+             tion of what A said by the respondent who used E's opinion
+            j ustified? Are other inte rpretations plausible? Could impor­
+             tan t qualifications have been left out?
+4· Trustworthiness Question: Is E personally reliable as a source?
+    4 · 1 . Is E biased?
+    4 . 2 . Is E honest?
+    4 ·3 · Is E conscientious?
+5 · Consistnuy Question: Is A consistent wi th what other experts as­
+    sert?
+    5. 1 . Does A h ave general acceptance in S?
+    5 . 2 . If not, can E explain why not, and give reao;ons why there is
+             good evidence for A?
+6. Backup Evidence Question: Is E's assertion based on evidence?
+    6. 1 . What is the in ternal evidence the expert herself used to arrive
+             at this opinion as her conclusion?
+    6. 2. If there is external evidence (e.g., physical evidence reported
+             i ndependen tly of the expert ) , can the expert deal with this
+             adequately?
+    6.3. Can it be shown that the opi n ion given is one that is scientifi­
+            cally veri fiable?
+
+=== p. 94 ===
+
+94                              A rgu mmlation Srhnnl's
+
+I n any given case, an argumen t from expert opi n ion needs to be eval uated
+in light of how fi nely it has been questioned and exami ned in the dialogue
+in the case .
+
+                           2 . PRACT I C A L R t:A S O N I N G
+
+I n reason i ng from alternatives and consequences, the agent's goal i s to
+evaluate an action through its consequences, in order to decide whether
+or not to carry i t out. On the other hand, he can reason back"-ard ,
+from the action t o its an tecedent necessary or sufficient conditions.
+He can assess, i n other words, the means taken to bri ng it about. For
+i nstance, in the followi ng example, the speaker's decision to invest money
+is conditioned by the availabi lity of i n formation about the economic
+market. The basis for making such a decision is the consul tation of an
+expert.
+
+   Suppose I am ddibt�r<tting wi th my spouse on what to do with our pension
+   i nvestment fu nd - wlwtlwr to huy stor ks, bonds, or somt• other type of
+   i rwesune n ts . We consul t wi th a fi nancial achise r, an expt·rt sou rce of i n for­
+   mation wh o Gill tell us w h a t is happc: n i n g in the s t oc k market. and so forth,
+   at the prt>scn t time. ( Wal ton , ' !l!l i · p. 1 1 3 )
+
+This kind of inference is deti ned ao; prac tical reasoni ng, and may take two
+forms. I n the necessary-condi tion schenw, the action cannot be carried
+out wi thout bringing abom at least one of the possible alternatives. For
+instance, if I want to have a car, I have to buy, steal . or build it, or
+ask somebody to give it to mt· as a present. I cannot obtain it without
+real izing at least one of these or comparable conditions. My action is
+almost always bound to other actions. On the other hand, as i n the case
+just prese nted, tht• condition may be sufficient but not necessary. It may
+be possible, in other words, to carry out the action without satisf)ing the
+condi tion.
+     This kind of argumentation scheme appt·ars to h e closely related to
+causal arg um e n ta tio n schemes. Aristotlt- <·allt-d t h is fJh mnt>sis. or prac tical
+wisdom. Nowadays i t is w i d e l y recogn ized as central to AI. It is based on
+the notion of a rational age n t , an e n tity that has goals and the capabi l i ty
+of car�·i ng out anions based on its goals and its kn owl e d ge of given
+drnu n s ta n r e s (Wooldridge , !Woo ) . Prac tical re as o n i ng , according to the
+analyses of Clarke ( t 9H:J ) . Braunau ( 1 9H j ) . Audi ( 1 9H9 ) , and Walton
+ ( 1 !190 ) . is a c h a i n i n g togt,tlwr (Walton , 1 990 ) by an agent of what are
+called prac t ical i n ferenn·s. A practical i n feren ce h as two c haracteristic
+
+=== p. 95 ===
+
+                    Knowkdgp-RPlall'ri, Pmrtiml, and Otlwr Srhem.P.�                  95
+
+types of premises. One states that the rational agent has a particular goal.
+The other states some kind of action th rough which the agem could
+carry out the goal . I n the argumentation scheme for practical reasoning
+presen ted here, the rational agent is refe rred to hy a fi rst-person pronoun
+like ' I ' or ' my ' , indicating that it is this agent who is putting forwa rd the
+argument. The set .\ , . S, , . . . s . represen t'> a seq uence of states of aflairs
+that can he ordered temporally from earlier to latt·r. I n ado p ting this
+notation , a shift is made from the earlier practice of using capi tal letters
+to stand for eve n t'!, to follow the kind of nota tion used in the scheme for
+argument from consequences presented earlier. A s ta te of affairs is meam
+to be like a sta tement, but one describing some eve n t or m:currence that
+can be brought about hy an agent. It may be a human action, or it may
+he a natural event.
+
+     (;rm/ PT'l'm iw• : Sli ngi ng about S,. is my goal.
+     Mean.� Prnn ise: I n order to bli ng about s• . I llt'<'cl to bring about S, .
+     CAJnclusion: Therefore, I need to bling about S, .
+
+The ' need to' in the conclusion expresses what is called a "practical
+ough t," conveyi ng the idea that if the r.ttional agen t is prudem, it ought
+to bri ng about S; if it is committed to both premises of the argumen­
+tation scheme for practical reason i ng. This argum e n tation scheme has
+been rewgnized as ha,ing two varian ts (Walton , 1 99 7 , p. 1 ti4 ) . There
+is a necessary-condition version and a sufficient-condition inference that
+has the same stmcture except that the means premise expresses a sut�
+ficient condi tion rather than a necessary t·ondition. I n realistic cases of
+p ractical reasoni ng, the necessary and sufficien t schemata are combined
+into longer sequences that include some necessary-condi tion links and
+some sufficient-condition links. The sequence chains forward from an
+i n i tial state to a fi nal goa l statt•.
+
+                             Necessary-Condition Schema
+     ( NI ) My goal is to bring about A (Goal Premise).
+     ( N2 ) I reasonably consider on the given information that bringi ng
+            about at least one of [ B,,, B, , . . . . B. ] is necessary to bring about
+            A (Alternatives Premise).
+     ( NJ) I have selected one member 8; as an acceptable , or as the most
+            acceptable necessary condition for A (Sekrtion Premise).
+     ( N4) Nothing unchangeable prevents me from bri nging about B, as
+            far as I know (Prarticality Premise).
+
+'\
+
+=== p. 96 ===
+
+g6                                A rgumentation Schemes
+
+     ( N5 ) Bri nging about A is more acceptable to me than not bringing
+            about B; (Sirk-E.]Jects Premise).
+            Therefore, it is required that I bring about B; (Conclusion).
+
+                            Sufficient-Condition Schema
+     (Sr ) My goal is to bring about A (Goal PrPmi.w�).
+     ( S2) I reasonably consider on the given information that each one
+            of [ B., . B, . . . B,. ] is sufficient to bring about A (Altmwtives
+                        .     .
+
+            PremisP).
+     ( SJ) I have selected one member B, as an acceptable, or as the most
+            acceptable sufficien t condi tion for A (Se!Rction PrPmise).
+     ( S4 ) Noth ing unchangeablt• prevenL'> me from bringing about B, as
+            far as I know (Prartiralit_v Prnnise).
+     (S5) Bringing about A is more acceptable to me than not bri ngi ng
+            about B, (SitlR-Efferts PrPmise).
+
+Practical reasoning is plll forward by a rational agent, typically in a delih­
+e ration dialogue with another rational agent or group of agents. The
+respondent age n t can then pose c ri tical questions i n the dialogue. Fol­
+lowing the analysis of Wal ton ( 1 990) once again , five cri tical que!itions
+arc give n .
+     Other-Mean.1 Que.1tion: Are there alternative possible actions L O bring about S,
+         that could also lead to tht• goal?
+     81'.11-Mra IIJ Question: Is S , the bt•st (or most favorable) of the alternatives?
+     Other-(;oals Question: Do I han· goals otlwr than S, whost� arhit·vement is pn·ft•r­
+        able and that should have priori ty?
+     Pos.1ihilil_� Que.1tion: Is i t possible to bring ahout S, in the give n circumstances?
+     Side Efferls Question: Would bringing about S, have known bad consequences
+         that ought to be taken i mo account?
+
+As practical reasoning is used in a given case, the putti ng forward of
+an argument havi ng the form of practical reasoning shifts a weight of
+plausibility from the premises to the conclusion , indicati ng that the agen t
+should provisionally g o ahead �i th com mitting t o S; . However, practical
+reasoning is commonly defeasible, subject to further dialogue. A'>king
+any one of these five cri tical questions can defeat the argumenta tion ,
+at least tem porarily. Once the proponent gives an adequate answer to
+the question, however, the burden shifts back to the respondent. He
+must then commit to the conclusion unless he asks another appropriate
+critical question . This process can conti n ue unti l the dialogue reaches
+the closi ng stage . Except under closure conditions, practical reasoning
+
+=== p. 97 ===
+
+                  Knawle�Related, Practiral, and Other SciU!171es                               97
+
+is a defeasible form of argumentation. It can default, or be defeated, at
+any poin t during the argumentation stage of a dialogue, as long as that
+stage contin ues.
+   The practical form of the argument from expert opinion is two-person
+practical reasoning. The age n t, in this kind of argument, has a precise
+goal to ach ieve, and he asks the expert questions about the conditions
+and means to carry i t out. An example of this topic is the Lorenzo 's Oil
+case (Walton , 1 997, pp. 1 3 4- 1 3 6 ) . Augusto and Michaela Odone's son ,
+Lorenzo, w as diagnosed in 1 984 as having a rare and incurable disease,
+ALD, caused by the body's i nabi l i ty to eliminate VLCFA, very long chains
+of fatty acids. Doctors put the child on a special diet wi thout VLCFA, in
+order to diminish this dangerous element. The Odones, fmstrated by
+the treatmen t failure brought about by decreasing the level of VLCFA,
+tried to find a cure for the disease themselves. In a conversation between
+the two parties, the Odones and the doctors, two opposite points of
+\iew arose. The doctors used the clinic and the treatments to collect
+clinical evidence for the treatment of ALD, while the patient's pare n t�
+had the task of saving their son 's life. They requested the physicians to give
+them the means to achieve their goal , and the doctors replied from the
+perspective of their own interests and objec tives. Th is com mun ication
+failure is an i n teresting exam ple of two-pn-son pra rl iw l reason ing, wh ich
+takes the fol lowing form (Wal ton, 1 99 7 , p. 1 6 3 ) :
+
+  X ( the agent) i n tends to realize A, and tells }' ( the expert) this.
+  A� }' sees the situation, B is a necessary (sufficient) condi tion for
+    carryi ng out A, and r tells X th is.
+  Therefore . X should carry out B. unless he hao; bt·tter reaso ns n o t t o .
+
+  CQt : Does X have o t h e r goals ( of higllt'r priori ty) that m igh t con f l i c t wi th t h t•
+     goal of re ali z i n g A?
+  CQ2 : Arc there alternatiw m e a n s ava i l a h l t• to X ( otht• r than 8) for (·arl'}i ng
+     out r1?
+  CQ:-l: Wou l d c ar 11i n g out IJ have known side cflC.·cts that m ight n m l l k t wi th
+    X ' s other goals?
+  CQ4: Is i t po ss i b l e for X to b ri n g about B ?
+  CQ5: Are other actions. i n addi tion to B, req uin·d for X to hri ng ahout A?
+
+The Lorenzo 's Oil case shows how this kind of dialogue can bl· Vel}·
+frustrating for those who have to deal with experts. The Odones had
+evidence that a special oil was worki ng in the case of their son , but the
+
+=== p. 98 ===
+
+98                             Argumentation Schnnes
+
+p hysicians called such evidence "merely anecdotal ," and they routinely
+dismissed it. From their point of view, drugs or other treatments must
+be clinically tested before any decision to use them can be made. Th us
+the dialogue between the user of the knowledge and it'! suppliers, the
+experts, can adm i t of many difficulties.
+
+                   3 · LAC K- O F- K N O W L E D G E A RG U M t:NTS
+
+As mentioned earlier, arguments from source are con nected to the
+ad ignarantiam sc heme. The negativl' Jonn of argu ment from knowll'dge, in
+fact, may be considered a subs p ecies of the m-gumentum ad ignara11tiam
+(Walton , 1 997, p. 95 ) :
+
+  All the proposi tions i n E's knowledge base K on subject S arc tnte
+     ( Troth Conditio11) .
+  All the proposi tions on subject S not in E 's knowledge base K arc false
+     ( Completroe.u Co11dition) .
+  E is asked whether A is true.
+  E repl ies that A is not true ( as far a'! E knows) .
+  Therefore , A is false.
+
+The main disti nctive feature of this scheme is the com pleteness condi­
+tion . I n order for the argument to be maximally strong, the knowledge
+ba'le m ust be considered complete ( epistemic closure ) . That is, the expert
+is a'isumed to have an exhaustive knowledge of the field, one that allows
+the i n ference from the absence of evidence to the falsity of the conclu­
+sion . This device is frequen tly used in courts to shift the burden of proof.
+For instance, a common argument migh t be:
+
+  As far a'! any evidence that has been brough t out at the p resen t time,
+    there is no danger (Walton, 1 99 7 , p. 97 ) .
+
+This topic is a n i nstance of the general form of ad ignomntiam: the absence
+of positive p roof for the truth of the proposi tion is considered a reason
+to believe in its falsity. This argument is the ba'lis for the presumption
+of in nocence in criminal law. In the absence of evidence, the accused is
+assumed to be leg-.tlly i n nocent. The form of argument is the following
+(Walton , 1 995, p. 1 50) :
+
+  Major Premise: If A were true. then A would be known to be true.
+  Minor Premi.fe: It is not the case that A is known to be true.
+     Conclusion: Therefore, A is not true.
+
+=== p. 99 ===
+
+                    KnowlRdge-Relntnl, Pmrtiral, and Othf'T Srhnnf.\                  99
+
+Tlw fol lcmi ng example is a clear instance of this form of argument:
+
+      I do not know that there is a sku nk in the cabi n .
+      Therefore, it is f�tlse that there is a skunk in t h e cabi n . (Walton, t g g !) .
+         p. 1 !)0 )
+
+This may h e applied t o two particular cases: reasoning from normal
+expectations and negative practical reason ing. In the first case, the knowl­
+edge base is given by the set of the facts that in a normal situation would
+he tme, or are expected to he true. The absence of posi tive evidence for
+a proposition of this sort is a reason to conclude that the proposi tion is
+
+false. For instance:
+
+      A: Is Leona Hel msley still in jail? She's probably out by now.
+      8: Maybe she's still there, because we 'd probably hear about it if she
+        got out. (Wal ton , t g g6, p. H 5 )
+
+If an important person had been released, t h e nmmal expectation would
+be wide media coverage ofthe event. Given this kind of knowledge base, it
+is possible to infer from the failure of the expectations that the eve n t has
+not occurred. The reasoning is from expectations, and tpi.strmir mgwnmt
+from ignam nrf' (Wal ton , 1 99 2 , p. 3H6 ) :
+
+      I t has not been established that all the true propositions i n D arc
+          contai ned i n K.
+      A is a spe cial type of proposi tion such that if A were tme, A would
+          normally or usually be expected to be in K.
+      A is i n D.
+      A is not i n K.
+      For all A in D, A is ei ther true or false.
+      Therefore, i t is plausible to presume that A is false (subject to fu rther
+          investigations in D) .
+
+The other subspecies of the ad ignora ntimn scheme is a f(mn of practical
+argument. It is a del i berative i n ference, used when there is n o knowl­
+    edge abou t a particular fact or proposition the action is based on. I n
+    this scheme, t h e possible consequences fol lowi ng from the truth of the
+    proposition are compared to the consequences followi ng from i ts fal­
+    si ty. The practical decision is taken on the presumpt ion that the worst
+    possibility is the case. For i nstance:
+
+      I t is a rule of safety in handling fi rearms that if you do not know
+          for sure that a weapon is unloaded to act in accordance \\i th the
+
+\
+
+=== p. 100 ===
+
+1 00                        A rgu men tation Schemes
+
+       presumption that the weapon is (or may be ) loaded (Walton , 1 gg6,
+       p. 86)
+
+   The comparison of the possible consequences is the rationale under­
+lying how the presumption is placed . The lack of conclusive evidence i n
+this case i s a reason t o believe that the proposition is true. This negative
+practical reasoning follows the following scheme ( Wal ton . 1 gg6. p. 86 ) :
+
+  I do not know whether A is true or not.
+  I have to act on the presumption that A is true or not true.
+  If I act on the presumption that A is true, and A is not true. conse­
+     quences B will follow.
+  If I act on the presumption that A is not true, and A is true, consequences C will follow.
+  Consequences B ( C) are more serious than consequences C ( B) .
+  Therefore, I act on the presum ption that A is not true ( true ) .
+
+   The argument from ignorance, both i n its subspecies and i n particular
+cases, depends on the knowledge base. The reasoning stems from what
+is expected to happen or the possible known consequences.
+
+                4 · A R G U M E N TS Jo"ROM C O N S EQ U E N CES
+
+Argument from consequences may be considered as a generic category of
+causal inference, a topic treated in Chapter 5 · Causal reasoning is one of
+the possible aspects, or mean ings, of the consequen tial relation between
+two elements. The relation may be temporal or possibilistic, for i nstance.
+I n some cases the correlation may be clearly identifiable a'> a causal,
+temporal, or possibilistic link, but the meaning of the consequence itself
+is not defined i n the reason ing. The topic, i n other words, does not
+presuppose an explanation of the inferen tial passage, but only that the
+two facts are successive and somehow related. The temporal succession
+may be, in other words, causally motivated, but the motivation i tself may
+or may not be expressed or mentioned.
+   Two main categories of topics stem from this argumentation scheme:
+pr.actical reasoning and the danger and pity appeals. The distinction is
+made on the basis of the direction of the argument. The fi rst topic is
+deliber.ative, that is, it is aimed at decision maki ng relative to certain
+goals. Emotional appeals, by contrast, are directed to the hearer. They
+may be described as means to persuade the in terlocutor to act i n a certain
+way. Both are cla'lses of prac tical arguments. They have the performance
+
+=== p. 101 ===
+
+                Knowl.edgP-RPlall'd, Practical, and Other Schnn.es           101
+
+of actions as the ulti mate goal, and are related to inference from conse­
+quences. P ractical reasoning is often a backward process from the out­
+come of a conseq uence to i ts premises, while danger and pity arguments
+proceed from the possible negative consequences that carrying out or
+not carrying out an action may have, respectively, on the hearer h imself
+or on a third party.
+   Practical reasoning and argument from consequences represen t two
+directions of the same kind of reasoning. The posi tive or negative evalua­
+tion of an event is a reason to bri ng i t about or not to bring it about. The
+outcome of fi rst type of i n ference, however, is the eval uation of the given
+possible course of action; in the second case, the course of action is discov­
+ered as the best possible means to realize the goal. Wh ile appeal to danger
+is a kind of negative argument from consequences, the pathetic prem ises
+of the appeal to pity are means directed to i n i tiating a practical i n ference.
+The possible fact refe rred to as u ndesired and avoidable is relevant for
+the conversation on ly if it constitutes an effective speaker's conce rn . The
+emotional claim aims at making the problem releva n t, in order to subse­
+quen tly suggest a possible way to solve it through a practical inference. By
+examining the structure of consequential and prac tical topics, it is pos­
+sible to understand the mechanism u nderlying these pathetic appeals.
+   Argument from consequences has a positive and a negative form
+(Wal ton , 1 995. p. 1 55 ; Walton , 2 000, p. 1 4 1 ) :
+
+                 Argument from Positive Consequences
+    If A is brough t about, then good consequences will occur.
+    Therefore, A should be brough t about.
+
+                 Argument from Negative Co n se qu e n c e s
+    If I (an agent) bri ng about (don 't bring about) A, then B will occur.
+    R is a bad outcome ( from the point of view of my goals) .
+    Therefore, I should not (practically speaki ng) bring about A.
+
+    Argument from Negative Consequences ( Pruden tial I n fe re n ce )
+    You were consideri ng not doing A
+    But, if you do not do A, some consequence R, which will be very bad
+      for you . will occur or is likely to occur.
+    Therefore, you ough t to reconsider, and (other thi ngs being equals)
+      you ough t ( pruden tially) to do A .
+
+\
+
+=== p. 102 ===
+
+1 02                           Argumrotatio11 Schnne.�
+
+  CQ1 : How strong is the likelihood that the citt•d consequt>nces will ( may. must )
+    occur?
+  CQ2 : What cvidcnn· supports the claim that the ci ted const>quenccs will ( may,
+    must) occur, and is it sufficie n t to support the strength of the claim ade­
+    quately?
+  CQ:-i: Are there other opposite consequences ( bad as opposed to good . for
+    example ) that should be taken i n to accoun t ?
+
+The fol lowi ng example is i n tere s t ing to compare to lear or threat appeals.
+The advice given by the adviser is based on a negative evaluation of the
+c o nse q u e nc es of the ac t i o n be ing considered. But the adviser makes no
+threat, and h is argument is not really an appeal to fear.
+
+Candidate: I plan to tell tht> people in my next spt•cch that I am not going to
+raist• taxes.
+Adviser: If you are going to say that. you had bener be (· ommin e d to it, bt•cause
+one of the const•quences of your saying it is that pt�oplt' are going to holcl you to
+it. If yo u later raise taxe�. peopk• are going to criticize ancl eve n riclicult• you for
+it. My ad\ict> would be not 10 say it in the first place. (Wal ton , 1 995, p. 1 8 2 )
+
+The adviser i s only givi ng a \\�arning here, but it i s a warning that concerns
+the n egati ve consequences of an action that the candidate in c o n si dering .
+The consequences could perhaps be somewhat fear-i nducing or thn�at­
+ening to the candidate. But still , the advisor is not saying that he.· will
+see to it that the consequc.•nct's come about, nor are the consequences
+speci fically mean t to target the emotion of fear. Thus lwre we hm·e a case
+of argument from negative consequences, but it would be an e rror to
+da'lsily it as a fear or threat appeal .
+
+                       5 · FI': A R A N D D A N G E R A P P E A LS
+
+Arguments from tear appeal , as mentioned earlier, have a structure.· simi­
+lar to that of arguments from negative conseq uem·c.· s, but the difl'erenn·
+lies in the nature of the appeal as a spt•c.•ch act. Betwec.·n these two types
+of arguments we can classify the argumc.· nt from danger appt'al. Danger
+is an aspect of reality independent of the agen t (Walton . :woo, p. 1 63 ) .
+It is o�jecti\'t', while.· fc.·ars an· emotional reactions of an agent to a situ­
+ation. For this reason , the cl a n gc.· r appt•al argum<.· nt may be c.· onsiderc.·d
+as a special kind of argument from m·gativt• nmsequenc.·e hasecl on a
+daim about the.· responden t 's sullt- ring sc.·rinus harm or loss of life.·. We.·
+
+=== p. 103 ===
+
+                   Knowlnlge-&lalt'd, Prartiral, rmd Otlll'T Srlwme.s
+
+    can supplement the examples gi\'en earlier \\i th one involvi ng a danger
+    appeal.
+       There is a mmie t hat is i n tended to convince people not to smoke
+    cigarettes. It features i n teniews with people dyi ng of lung cancer, mainly
+    cowboys, in an i ro n ic coun terpoint to those Marlboro ads that pictured
+    handsome n>wboys smoking. So, for instance, you see one poor fellow
+    riding the range wi th oxygen bottles strapped inside h is saddlebags and
+    the tube up his nose. (Walton 2 000, p. H 2 )
+       The circumstances are objectivt• , and thus the appeal is not just to the
+    emotions. It is also based on tlw serious possible dangers of smoki ng. The
+    ad appeals to irony by sati rizing the famous Marlborough ad, making its
+    macho image appt•ar ridiculous, and th us deflating i ts emotional appeal
+    to the smoker. In real ity, smoking is an extremely dangerous habit that
+    can lead tn congestive lung disease. The ad is poi nting out this danger
+    i n a graphic wc1y. I t is arguing to the \iewer that, because of this very real
+    danger, he or she should reconsider smoking.
+        Here is the scheme for danger appeal (Walton , 2000, p. 1 7 3 ) :
+
+      I f you ( the respondent) bri ng about A , then B will occur.
+      B is a danger to you .
+      Therefore, (on balance ) you should not bring about A.
+
+    We can compare the examples from negati\'e consequences and danger
+    appeal to the fear appeal argument. These arguments are based on an
+    appeal to the subjective emotions of an agent. They represen t an t•xploi ta­
+    tion of an emotional and personal response to a given situation , whereas
+    danger is an objective property of the situation extt·rnal to the agent
+    (Walton , 2 000, p. 1 6 2 ) . As men tioned earlier, the role of feeling and
+    emotion is critical i n classifyi ng these kinds of argument. For i nstance,
+    we can analyze the following exam p le:
+
+      An insur.mce salesman drops in to "inform" you o f the ad\-dn tagt·s of buyi ng
+                                ,
+      a policy and , i nciden tally of the possible disadvan tages of not huyi ng one.
+      He describes t h e plight of Benny Morelli on th e other side of town whose
+      house burned down . Benny kept all his money in a heavy oak chest, which,
+      naturally, was completely destroyed. Benny's v.ife had always worked to make
+      ends meet, but now his oldest son had to drop out of school to help carry
+                                     '
+      the financial burden . Benny s new car (which also lacked insurance ) was
+      demolished when the burning house fell on it. (Walton , 2000, pp. 53-54)
+
+    I n this case, the argument fi ts the scheme of argument from negative
+    consequences, and also that of danger appeal , but the si tuation i tself is
+    not really dangerous, and neither are the consequences that are said to
+
+'
+
+=== p. 104 ===
+
+                             A rgu mm tation Schemes
+
+proceed from the premises very likely to occur. Ben ny's problems were
+not caused solely by his failure to have an i nsurance policy. and drawi ng
+the conclusion that insurance is necessary from an exceptional case is
+not very reasonable. The appeal is to danger, but because the picture
+is pai n ted i n such graphic terms calculated to appeal to emotion , the
+argument is an appeal to fear. The extreme seriousness of the events
+narrated awakens feeli ngs of fear that seem to make the conclusion
+plausible. The poi n t is proved, however, not by analyzi ng the objective
+facts, but by raising fears about dangers. The salesman makes it seem to
+the respondent that the only WclY he can prevent the horrible disaster
+that happened to Ben ny is to take out an insurance policy.
+   The example fits the scheme for fear appeal ( Wal ton , : woo, p. 2 2 ) :
+
+  I f you d o not bring about A , then D wi ll occur.
+  D is very bad for you .
+  Therefore, you ough t t o stop [) if possible.
+  But the only W'clY f(>r you to stop D is to bri ng about A.
+  Therefore, you ough t to bring about A.
+
+The argument from negative consequences, as al ready shown , has as a
+subtype the pruden tial scheme. The advice given in such an argument,
+however, may be used to convey a th reat. The agen t commit-; h imself, i n
+other words, t o bringi n g about a dange rous si tuation f(>r the hearer. This
+example may clari fy the distinction:
+
+  A known gangster says to the owner of a small busi ness: MYou should pay us
+  protection money. because this is a ve ry dangerous neighborhood. The last
+  guy who didn't pa y had his store loott·d and dt•stroyed. righ t aftt'r he failed
+  to pay." ( Wal ton , :woo , p. 1 2 3 )
+
+The scheme for the reason i ng i n this case i s apparen tly very si milar to
+that of the danger appeal, but we can observe that the gangster is making
+an indirect th reat. Only if we i n terpret the speech act as an indirect
+threat does the passage make sense. The scheme of argument from
+consequences, specifically negative consequences, and threat appeal
+are involved (Walton, 2 000, p. 1 2 3 ) . Fi rst consider the argument from
+negative consequences con tained in the followi ng warn ing.
+
+  You were considering not doing A.
+  But, if you don 't do A, some consequence B, which will be very bad for
+    you , will occur or is likely to occu r.
+  Therefore, you ough t to reconsider, and ( other thi ngs being equal )
+    you ough t ( pruden tially) to do A.
+
+=== p. 105 ===
+
+                 Knowlt!dge-Relaled, Praclical, and Other Schemes
+
+A warning of this kind is different from a threat. The making of a th reat is
+a particular speech act that involves the speaker's commitment to bring­
+ing about the event i n case the hearer does not carry out the designated
+action. There are th ree conditions that characterize the speech act of
+making a threat ( Walton, 2 000 , pp. 1 1 3 , 1 1 4 ) :
+
+  Preparatory rcmdition: the hearer has reasons to believe that the speaker can
+  bring about the event i n question; without the interven tion of the speaker,
+  it is presumed by both the speaker and the hearer that the event will not
+  occur.
+  Sinrmly rondition: both the speaker and the hearer presume that the occur­
+  rence of the even t will not be in the hearer's interests, and that the hearer
+  would want to a\·oid i ts occurrence if possible, and that the hearer would
+  take steps to do so if necessal)'.
+  Essen tial rondition: the speaker is maki ng a com m i tment to see to it that
+  the event will occur unless the hearer carries out the particular action
+  designated by the speaker.
+
+These conditions u nderlie the structure of the argumen t from fear appeal
+( Walton, 1 995 , p. 1 5 7 ) :
+
+  I f you bring about A , some cited bad consequences, B, wil l follow.
+  I am in a position to bring about B.
+  I hereby assert that in fact I will see to it that B occurs if you bri ng
+      about A.
+  Therefore , you had better not bring about A.
+
+For i nstance, in the follo\\ing example the Nazis' speech act can be
+defined as a th reat because they are i n a position to bring about tlw
+unfortunate consequences for the reader, and their modus operandi o f
+using violence to obtain their ends is well known .
+
+  If I cancel my s u bsui p t i o n to the G e rman papt•r, t h e n the Nazis say. I wi l l
+                                                                   ,
+
+  be subject to Munlortunatt• conSt�q ucnccs " , which would probably i n cl u d t· at
+  l t•as t se\·ere bodily il�jlll)'· ( Walton, 2ooo. p . H :, )
+
+Here ag-ain, a s in the insurance example, we have a case o f a n indirect
+threat. The argument can be put in di�junctive fo rm as an instance of
+prdctical reasoning ( Walton, :woo, p. 1 4 2 ) :
+
+  You ( the responde n t ) must bri ng abom A or B will occur.
+  B is bad or u ndesirable, from your poi n t of \iew.
+  Therefore, you should ( o ugh t to, prdctically speaking) bri ng abo u t A .
+
+=== p. 106 ===
+
+w6                            A rxu mmlalion Srhnne.�
+
+But as applied to the Nazi case, this also involves a thrc.·at. Thus we can
+see how the scheme for argument from negative consequences suppl ies
+the underlying basis of argumento; used as scare tactics based on appeals
+to danger or fear.
+  As shown earlier, appeal to threat may also assume the fom1 of argu­
+ment from alternatives. An addi tional prt·m ise presento; the clause that
+the agent is committed to bri ngi ng about the undesir.tble action. In
+another example, the speaker com milo; h i mself to bringing about the
+consequences of the action posited as contrary to the advised one.
+
+  You ough t to study hard; otherwise. I" II d iscomin ue your allow.mct". ( Wah on.
+  :woo, p. 58)
+
+The argument of the disj uncth·e ad lm r u l u m threat is, therefore, a sub­
+species of the argumentation scheme j ust presen ted (Walton , :woo,
+P· 1 4 o ) ;
+
+  You ( the responden t ) m ust bri ng about A or I ( the proponen t ) wi ll
+     u ndertake to see to i t that B wil l occ ur.
+  B is bad or undesirable, from your poin t of view.
+  Therefore, you should ( ought to, practically speaking) bri ng about A .
+
+The di�juncti\'e way of putting the argument contrnsts the bad conse­
+quences with an alternative, thereby appeari ng to make the alternative
+attractive, or even the only possible course of action.
+
+      6 . A R G U M E N TS FROM A LTERNATI V ES A N D O P POSITES
+
+Appeals to fear and danger do not alwdys follow the genernl scheme of
+the argument from nega tive consequences that may be considered as
+the plausible coun terpart of the logical modtLS tolltms. They may i n some
+i nstances have the form of the disjunctive syllogism; from the di�junction
+of two proposi tions and the negation of one of them, the truth of the
+other follows. It may he represen ted as below;
+
+  pvq
+  -, q
+  Therefore, p.
+
+In argumen tative discourse, this scheme may be used for a pragmatic
+argumen t, to persuade the hearer to act i n a certain way by showing the
+alternative. The action is directly opposed, however, not to i lo; contra­
+dictory or opposite, but to the consequences of the con trddictory. For
+
+=== p. 107 ===
+
+                KnowiRdgp-l?elatPd, Prartiral, and Other Srhmu>J                H>7
+
+instance, in tht• fol lowi ng case, obedience is opposed to the consequences
+of disobedience. We can observe. therefi.>re , that this kind of reao;on i ng
+involves a use of argument from consequences.
+
+  You ough t to ohey the Tt·n Commandmt•nts: othenvise, you will sufft·r eter­
+  nal dam nation. ( Walton, :woo, p. 59)
+
+Th is example follows the sc heme of argument from alternatiws, the prac­
+tical counterpart of the disj unctive syllogism. The opposition is neither
+necessa11· nor linguistic, but belongs to the domain of decision making.
+It is an i ncompatibi lity between actions and consequences of ac tions,
+aiming at evaluati ng the best decision.
+   The analogical argument may regard the properties of two opposites ­
+for instance, war and peace, or hatred and lo\'e . Opposi tes and contraries
+are the polarities of a respecti\'ely con ti n uous and close paradigm . Tlwy
+are. i n other words, element'i shari ng common characteristics, rt>pre­
+sented by the dao;s shown ao; con f l icting. The similari ty is extendt•d to the
+predication : from the opposi tion under a dt>tenninate poi n t of view, an
+opposi tion i n consequences or characteristics is inferrt>d. The struc tural
+analogy in categorization is reflected in a structural analogy in predica­
+tion. For instance, in the following cao;e, from the opposi tion between
+war ancl peace, the opposi tion in their efl't·cto; is inferred .
+
+  If the war is responsible for the presen t evils, nne must repair tht•m with tlw
+  aid of peact". ( Rht'/orir, Book I I , Chapter 2 3 , 1 39ia)
+
+The argument fits the following schemes:
+
+               Positive Form of Argument from Opposites
+  The opposite of subject S has the property P.
+  Therefore, S has the property not-P ( the opposi te of property P) .
+
+In o;ome i nstances, the argument wi l l h ave the fol lowing n e ga t i ve fi.mn :
+
+              Negative Form of Argument from Opposi tes
+  The opposite of subject S has the proper ty not-P.
+  Therefore, S has the property P ( the opposi te of property not-P) .
+
+Argument from opposites is a very common scheme of wide generality.
+treated more ful ly i n Chapter i .
+
+=== p. 108 ===
+
+1 08                         Argummlalion Schemes
+
+                   7 . PLEAS FOR H ELP A N D EXC U S ES
+
+Prclctical reasoning is the argumen tation scheme that underlies the
+pathetic arguments from need for help, distress, and plea from excuse.
+These forms of argument are constituted by an emotional appeal, i nvolv­
+ing the hearer in a problem and a sequence of prclctical reason i ng aiming
+at proposing a means to solve it. As i n cases of fear appeals, appeals to
+pity lead to i n ferences th rough emotions. The problem described in the
+prem ises does not i nvolve the speaker directly: it may involve other peo­
+ple, or other beings, but not the i n terlocutor's life or interests. For this
+reason , it does not always constitute a rational reason to act. The task of
+the emotional appeal is to make the problem relevant for the audience,
+to transfo rm i t into a personal concern for the other party. A special ki nd
+of empathy is therefore created between the two persons, defined by ten
+poin ts ( Walton , 1 997b, pp. 73· 7 4 ) :
+
+    1 . There are two parties, x and y, who exist i n a relationsh ip to each
+        other; x is the pi tier, or subject, and )' is the pitied party, or object
+         of pity.
+    2 . x can identifY wi th y - t hat is, x and )' are enough alike, or have
+        enough in common , so that x can relate to )' as another person.
+    3 · y is i n a situation or set of circumstances C, as far as x knows (or at
+         lea,t x thinks this to be the case ) .
+    4 · x does i n fact put h i mself mentally i n to the si tuation C o f .v. so that
+         he can appreciate how y feels about it.
+    5 · C is a bad or catastrophic si tuation for )' (an event or set of
+        circumstances that would be generally j udged as particularly
+         unfortunate ) .
+    6. y th inks that C is bad , his attitude toward it is one of pain or
+        suffe ring, at least to some extent, and generally i t would be j udged
+        as a si tuation where feeling pai n and suffering would be normal
+        and appropriate.
+    7 . v does not deserve to be i n th is set of circumstam�es.
+       .
+
+    8. x does not have this same or comparable bad situation (C) in his
+         personal circumstances.
+    g. x is liable to suffer from this same typ(• of bad si tuation (C) , mean­
+         ing that it is possible, and a risk for x.
+  1 0. x knows that proposition nine is tme, or thinks it is tme with
+        j ustification.
+
+=== p. 109 ===
+
+                Knuwkdgr-Reltlled, Practical, and Other Schem�s                  1 09
+
+The speaker, i n h is appeal, poi n ts out the reasons why the hearer should
+be involved i n the bad situation described. He prO\ides the premises for
+development of the feeling of pity.
+   The second step of the argument is constituted by a seq uence of prac­
+tical reason i ng aiming at finding a possible and not-too-costly means for
+the resolution of the problem. The argument may not be refe rred to an
+external i n terlocutor. I n this case, the topic is simply a sequence of rea­
+son i ng about a situation leading first to empathy and then to an action
+as a response, as in the following example:
+
+  BoyScout Bob sees a frail, elderly lady trying to cross the street. She is dearly
+  in need of help getti ng across the busy intersection . Bob takes her arm and
+  helps her to cross the street. (Walton , 1 997b, p. 1 04 )
+
+The argument i n this case follows the scheme o f the argument from need
+for help ( Walton , 1 99 7 , p. 1 04 ) :
+
+  For all x and .v. _v ough t to help x, i f x is i n a situation where x needs
+                                    '
+     help, and y can help, and y s giving help would not be too costly
+     for y.
+  x is in a situation where some action A by y would help x.
+  y can carry out A.
+  y's carrying out A would not he too costly for .v that is, the neg-.nive
+                                                           -
+
+     side effects would not be too great, as .v sees it.
+  Therefore, )' ough t to carry out A .
+
+The followi ng cri tical questions (Walto n , 1 997b, p. 1 55 ) are focused on
+the practical reasoning i n the argumen t: the action proposed as a possible
+way to resolve the problem should not be i mpossible or too costly for the
+speaker, and it m ust really help the other party. I f these c rit kal poi n to;
+are not respected, the argument itself may lose i to; plausibility.
+
+  CQ t : Would the proposed action A really help     x?
+  CQ:� : I s it possible for x to carry out A?
+  CQ.�: Would tht·re be nt•gative side effects of carrying o u t A that would be too
+    g re a t ?
+
+The urgency and the seriousness of the problem are extremely important
+factors for the defeasibility of the argument. I n a cri tical situation, such
+a use of prctc tical reasoning is very hard to refuse, or to bntsh aside. For
+
+=== p. 110 ===
+
+I I0                           A rgu mentation Srhmu>J
+
+instanct•, in the followi ng case , tht• distress of the person consti tutes a
+persuasive reason to take action to help her:
+
+  "I was taken downstairs blindfolded, whitt• being bt•;uen and kicked ." Those
+  are the words of Saadet Akkaya. who wets 1 fi years old when Turkish officials
+  arrested ht•r 2 years ago. During her i nt e rrogation and tort ure, Saadet's
+  ordt•al indudt·d bei n g strippt·d and tied to a cross Y.i th ropt•s. "Wht·n tht•y
+  took away tht• chair, I wets hangi ng my arms. Tht�n they gave mt• dectric
+  shock.� to sensitive parts of my body. At the same ti me, a pol iceman threw
+  water over me." Sadeet Wds also subjec ted to other forms of tort ure, abuse
+  and ill-treatment. After undergoing 1 5 days of tol'ture, sht• confi.•ssed to
+  acti\i tit�s alxmt whirh slw knew nothi ng. Saadet is Mill i mprisoned in Saq­
+  malcilar. U nder this story. it said •This barbarism t·an be stopped . Plrase
+  help." In the accompanyi ng leuer. it said, "Our Jlt'ed for your support is so
+  tt· rri bly urgent bt·causc, t•ven as I wli tt• this lent•r to you , some place i n the
+  world - i n Com m u n ist cnu n t rit•s, i n Wcstt•rn sodetit•s. i n the Third World ­
+  i n n ocent victims of government abuse are i mplisoned, suflt-ring unspt·ak­
+  abk· physkal and nwntal agonies." In this letter it also gives details l i ke, Mthe
+  guards taun ted tht• prismlt'r as they applied clectrkal shocks to her body."
+  and "ht·r clies wt•re cchm·d hy tht� scrt•ams of otlll'r \il"tims." (Walton 1 997,
+  p. anfi)
+
+If the hearer is t•motionally involved i n the si tuation , it is very hard for
+him to argue against the necessi ty for an urgent action. This form of
+reasoning is a subscht�me of the need for help, called argument from
+distress ( Wal ton , 1 997h, p. 1 95 ) :
+
+  Individual x is i n distress ( is suffe ring) .
+  If y bri n gs about A, it will relieve or help to relieve this distress.
+  Therefore, y ough t to bring about A.
+
+These are the c ri tical questions, si mi lar to the general scheme ( Walton ,
+1 997b, p. 1 5 5 ) :
+  CQ1 : Is x really i n distress?
+  CQ2 : Will _v ll bringi ng about A really help or relieve this distress?
+  CQ:-J: Is it possible for .v to bring about 1\?
+  CQ4: Would negative s i d e effects or y's bri nging about A be too great?
+
+Another argumentation scheme is related to the appeal to pity: the plea
+for excuse . In th is topic, the speaker admits to a trc1nsgression of a mle
+or law, but bases his defense or j ustification on an emotional appeal .
+He does not poi n t out possible objective exceptions to the application
+of the rule, but i nstead appeals to excuses, reasons to believe that the
+case should be dealt wi th in a special manner. The appeal to empathy
+plays an importa n t role in the characterization of the defense ao; an
+
+=== p. 111 ===
+
+                  Knowlnlgp-&lated, Practical, and Otht'T SrllnTU's                            III
+
+excust•. The hearer is i mited to consider the speaker's si tuation and his
+reasons to act illegally. The fact that the hearer mentally puL'i hi mself
+in the other party's si tuation gives rise to empathy that may lead to an
+understanding and j ustification of the transgression. For i nstance, i n the
+university cases, a student's d ramatic personal situation is not by itself
+considered an exception in the case of deadlines. It can , however, be a
+Yalid excuse, even if defea'lible, especially when the appeal to emotions
+is extrt•mely strong, a'i i n the following example:
+
+  I mi sse d your test last week becaust· I n· c e n tl y discovered my parents are
+  divorci ng. This WdS w h e n I h ad to go home to sec my brother who was j ust i n
+  a c a r crash. Otherwise I wo u ld have bet>n p re pa re d for your tt·st a n d would
+  have taken it. I know you have a Mno make-up" p o l i cy. But I reall y couldn ' t
+  h e l p w h a t happened to m y pa re n t� a n d b ro the r. I t i s on l y fai r to permit m e
+  t o ma ke up a m i sse d q u i z . O n e o u gh t t o d o what is fai r. S o you ought to
+  all ow me to take the test. ( Walto n , 1 997. p. 2 2 )
+
+Professors art� very familiar wi th such excuses, a n d have t o make rulings
+on them all the time. Each case needs to be decided on i ts own merits,
+and studen t pleaders may of course cite cases that they take to represent
+similar exceptions to the rule. This is the scheme of the argument from
+plea for excuse, wi th i ts relative c ritical questions (Wal ton , 1 997, pp. 1 54 ,
+1 56) :
+
+  Normally, rule R requires or forbids a type of action or inaction T,
+     which carries wi th it a sanction ( penalty) S.
+  I ( the pleader) have commi tted T.
+  But I can cite special circumstances that constit ute an excuse, f.:
+  Therefore, in this i nstance, I ough t to be exempted from S.
+
+Some excuses are clearly strong, while others, although weak, may be
+presen ted in a highly dramatic manner and exploit strong emotions.
+Al though there is no magic formula for deciding all such cao;es, such
+arguments are defeasible, and it may hel p to ask c ritical questions.
+
+  CQt : Does E fall under o n e of the re c ogn i ze d catt>gmies of excuses for this
+    type of case, and, if so, can this inclusion be j u sti fi e d in this ca�e?
+  CQ2 : If E d oes not fal l un d e r a re c og n i zed category, then what about this case
+    is special that justifies the claim t o e x e m p tio n ?
+  CQ3: If E does n o t fal l under a re cogn i ze d category, wo u l d it s e t a p rece d ent .
+    and if so, would this pose a p robl e m i n fm u re c a'ies ?
+
+=== p. 112 ===
+
+1 12                          Argumentation Schemes
+
+The need for m les in poli tical and legal insti tutions brings with it a need
+to examine arguments used to justifY rule infractions. Such arguments
+are extremely common , and a c reative pleader can use great ingenuity to
+try to get special treatment. Still, the key weakness of an argument of this
+sort can often be located merely by asking c ritical questions. Students
+will often persist with such emotional appeals, even after being warned
+that they can be fallacious, possibly because they have worked so well for
+them in the past.
+
+            8 . C O M POS I T I O N A N D D I V I S I O N A RG U M ENTS
+
+The standard treatment of the fallacy of composition and division is based
+on the d isti nction between collective and distributive terms, as well as on
+the diftere n tiation between wholes and parts. Collective tenns refer to a
+whole, or a collection , while distributive terms apply only to individuals
+or parts ( Engel. 1 gHo, p. 1 05; Copi and .Jackso n , 1 9 9 2 , p. 1 1 6 ) . The same
+terms may be taken to have differe n t properties according to the mean­
+ings they assume in specific con texts. Adjectives may be either absolute,
+like ' red' or 'square ' , or relative, like 'large ' or ' heavy' . The mean ing of
+a relative term is determined by the class of reference. For example, the
+adjective ' heavy' , when attributed to tlw components of a car, is differe n t
+in mean ing when it is predicated of t h e c a r itself. Because t h e classes
+of comparison are differt· n t, the predicates themselves are different i n
+meani ng. As a consequence, t h e relation between pred icates may need
+to be examined. The fac t that the components of the car arc heavy, as
+components of a car, may not imply that they are heavy when considered
+in relation to the weigh t of the car as a whole. In the case of, say, books,
+the problem is different. The pages of a volume might be heavy as pages,
+but the book, as a book, might be light, because it might be short . I n
+th is case, there are other variables influencing the detem1 i nation o f t h e
+predicate. The two meani ngs of the same a�jec tive are not related by
+com positional pro perties.
+   The classical notion of the distribu tivi ty of the adject in·s may be in te­
+grated into a wider theory, related to the concepts of part and whole and
+to the con nections between them. In Wal ton ( 1 9H9. p. 10 6 ) , the treat­
+ment of the topks of com position and di\ision is related to the notion
+of aggregate.
+   Aggregates arc physical e n tities in space-time, susceptible to change
+and at·tion. The parL'i of an aggregate, in add i tion, do not necessar­
+ily make it up. For instann· (Wal ton, 1 9H9, p. 10H) , if the links arc
+
+=== p. 113 ===
+
+                Knowledge-Relllted, Practical, and Other Schemes                     1 13
+
+components that make up a chai n , their atoms are not relevan t under
+this aspect. For this reason , there are two mai n rules for the aggregates:
+
+  For any aggregate there is some property that does not compose i t.
+  For any aggregate there is some property that does not divide it.
+
+A car, for instance, made of i to; parts, is built by appropri ately con necting
+i ts components: for th is reason, the properties relevant for the relation
+belong, for i nstance, to the category of substance, or quality, but not
+to dimensions or shape. On the other hand, if we consider a book and
+its pages, the kind of relation is "to be consti tuted by ordered superim­
+position of a v-ariable n umber of elemen ts." In this cao;e, the shape and
+dimensions are relev-ant categories of comparison , but not the weight.
+    The treatment of the scheme using the categories of distributive and
+collective tenns may be deepened by an analysis of the reasoning behind
+the distribution i tself. The focus is shifted to the com posi tional ity and
+the relation between the elemen ts and the aggregate. Distributivi ty of a
+property might be replaced by the notion of compositional heredita ri­
+ness. The general scheme of the argummt from composition is the followi ng
+ (Walton, 1 9 8 9 , p. 1 3 0 ) :
+
+  All the parts of X have property Y.
+  Therefore, X has property Y.
+
+The c ri tical aspect of these topics is the nature of the analogy between the
+aggregate and its element'! and the relevant properties for this relation:
+  CQ1 : Is property t " com posi tionally hercdi taJ"} w i t h regard to aggregatt• X ?
+   That i s , when every part t h a t composes X ha.� prnpt• rty Y, dm•s X ( t he wholt· )
+   have propt·rty n
+
+The argummt from division presents an analogous fonn , but the direction
+of the analogy. instead of being from the elemen ts to the aggregate , is
+from the aggregate to the parto;. For i nstance, in the following exam ple,
+the predicate ' heavy' is shifted from the aggregate to i to; part'!. The prop­
+e rty, however, is not divisionally hereditary: there is not, in th is case , a
+relation between the two meani ngs of heavy.
+
+  Th is machine is heavy.
+  Therefore, all the parts of this machine are heavy. (Walton. 1 g Hg,
+    P· 1 3o )
+
+In this case , the followi ng scheme i s applied (Walton, 1 gHg, p. 1 30 ) , but
+the c ritical question fails, detemtining the argunwn t's deft�at.
+
+=== p. 114 ===
+
+1 14                            A rgu mmlalion Srhnnes
+
+  X has pro perty Y.
+  Therefore, all the parto; of X have property }'.
+
+                                  Cri tical Questio n
+
+  CQ1 : Is property )" dhisionally lwredi ta11· wi t h regard to a gg re g-.t t t· X ? Th;u is,
+   when X ( t he whol l' ) has property > : do e s l'Vl''1' part that com poses X have
+       propl'rty l'?
+
+                       9· S I.I PPERY S LO P E A R G U M ENTS
+
+All slippt'l]' slope arguments are based on an underlying form of rea­
+son ing called argument from gradualism , in which a respondent is per­
+suaded of the conclusion through a series of small steps. The conclusion
+is presen ted as being related to the sequence of i ntt·rmedial]· steps pro­
+ceeding from the accepted premises. For this reason , the commitment
+to the conclusion is a resul t of a sequence of previous commitments, a.o;
+in the followi ng exam ple:
+   A govern ment knows that i t needs to get an 1 8 percent value-added
+tax (VAT) , sometimes called a goods and services tax ( GST) . in order to
+deal wi th i ts budget deficit. However, the public would never vote for or
+approve such a large tax, in one single step. Therefore, the government
+adopts the strategy of i n troducing a 3 percen t VAT and then increasing
+it every few years, when poli tically appropriate, u n ti l the 1 R percent level
+is reached. (Walton , 1 9 95 . p. 95 )
+
+                       Srhnnefor Argument from Gradualism
+
+  Proposition A is true ( acceptable to the respondent ) .
+  There is a n i n tervening sequence of proposi tions, 8 1 • B2 ,         B,._ 1 ,•   •   •
+
+                                                                     A
+    B,. , C, such that the followi ng conditionals are true: If , then B 1 ; if
+    B1 , then B.l , . . . ; if 8,._ 1 , then 8 ,. ; i f B, , then C.
+  The conditional " I f A the n C" is not, by i tself. acceptable to the respon­
+    dent, nor are shoner se q uences ( than the one specified in the sec­
+    ond premise ) from A to C acceptable to the respondent.
+  Therefore, the proposition C is true ( acceptable to the respondent) .
+    (Walton, t ggg, p. 93 )
+
+This scheme i s represen ted by the ancient example o f the heap. The
+sequence of similarities may lead to the acceptance of absurd con­
+clusions.
+
+=== p. 115 ===
+
+                   Knowkdgp-lvullt'd, Pmcliral, a n d Otlm· Schnnrs                    I I !)•
+
+  If you take one grain away from a heap. i t makes no sign i ficant diflercncc,
+  you still h<Wt' a heap. Each timt· you repeat this stt·p. it makes no diflere nt:e,
+  because one grdin is too small to makt· a diflercnct· hctwt•cn something
+  bei n g a heap or not. But repeated long enough , tht� conclusion of this
+  reaso n i n g wi l l become absur d , f(u· i t will ht•come obvious that what is left
+  <:an no longer be dt•scribed as a heap. (Wal ton , 1 996a, p. 2 :\ i )
+
+The example of the heap, and comparable examples like the bald man
+argument , are i nstances of a pattern of reaso n i n g that works by setting
+up a series of steps of inference that are chained together in a certai n
+way. T h e re is always a grey area th a t is based on a vague te rm , l i ke ' heap ' .
+As t h e c h a i n o f reao;on i ng moves fo rward , once i t goes i n to t h i s grey area,
+which cannot be demarcated precisely, it cannot be reversed.
+  Th is fail u re of reversal due to a vague term is charac teristic of t h e
+scheme for the .�oritf.� sli ppery slope (Wal ton , 1 9 92a, p. 56) .
+
+                Scheme for the Sorites Slippery Slope Argument
+   In itial Bast' Prt'misf': I t i s clc•arly hc·yond comention t h a i a • has J>.
+   Gt"ll t'Tal lndurlit•f' Pmni1t': If tl• has P. then tl• - , has J>.
+   &af1fJliralion St'qumu: A st•quenn� of 1111Hius fJOTit'ns subarg umcnts l i n king prc­
+         m ist·s and condusions from the clear area through the grey area.
+   (.(mr/u..�ion: a, may han· /', f(>r all Wt' know (or t:an pron· ) .
+
+Argument-; of th is k i n d a re common i n medical eth ics, wht•re i t i s h a rd
+or even impossible to define te rms l i ke ' pe rson ' , as opposed to ' fetus' ,
+in a precise man ner. Ttwy are also V<.'ry common in l aw, w h <.' re tt•nns l i ke.'
+' free spet•c h ' cannot bt• d e fi n e d wi thout leavi ng a grt•y a rea ( Sc h a u e r,
+ 1 99 5 > ·
+    The series of analogical steps may be con nt•cted wi t h the sc heme from
+verbal classi fication i n a verbal classi fication slippery slope argu m e n t . The
+term classi fied in the fi rst prem ise is connected by a series of com parisons
+to similar cases. In tht• form presen ted h e re a , is post� d as similar to
+                                                                 ,
+
+a, . . fl,. . The reasoning from analo gy is reiterated in each com pariso n ,
+     .
+
+classifying each similar term as /·: An important implicit premist� is r a 1 1 t·d
+the.· h)'jJlllhfliral s_l'llogi.\m rule: if al1 these analogica l infcrem·es are t"OJTec t ,
+tll<'n i f a 1 has pro pt• rty I·: then a , has property /·: The l a s t i n ft· re JKt'
+is hasC"d on the last prem ise.· and has a modu.� tolln1.� fi>rm : a, dm·s not
+have p ro p t· rty F; t l w rt•li n·t· , a , dot•s not h aw p ropt· r t y /·: Tht• sc h t·nw
+might ht• n n n pa red to t h t• strategy of rnlurtio ad ahmrd u m. T h e dtain
+of reaso n i n g lt'ads t o a conrlusion that is absurd , t h a t i s , u n arn· p tahk
+
+=== p. 116 ===
+
+1 16                            Argumentation SchnnLs
+
+to the proponent of the clai m . From the rejection of the conclusion , by
+modus tollniS, the i mplausibility of the premise is proved. The stmcture
+of the scheme is represen ted here, follo\\ing Wal ton ( 1 995 , p. 1 60) :
+
+  Individual a1 has property f:
+  I f a 1 has f: then a, has f:
+  Property F is vague, and so generally, if a; has f: then you can't deny
+      that the next closely neighbori ng individual a,. has f:
+  But quite clearly it is false that a, has f:
+  Therefore, you can 't tmly say that a 1 has f:
+
+Here is an example:
+
+Ted: Surely the baby in the womb must be defined as a person, with rights, during
+these latter stages, because a surgeon can do intrauterine surgery to correct the
+baby's heart defect, in some case of this sort. The baby is the doctor's patient,
+therefore it must be a person. Moreover, in many such cases, the baby, if delivered
+by Caesarian section, could be supported by i n tensive care, without the mother's
+support.
+Marcia: Well, yes, but I think the baby is a person j ust before it is born, but not
+before that.
+Ted: But where do you draw the line? If the baby is a person in these latter
+stages near birth , then it is also a person in the earlier stages, where it cannot
+survive on its own , but where it has all the same features like a heart, lungs, limbs,
+and so forth . I don't see any poin t where you can draw the line, other than by
+having to admit that it could be a person from the moment of conception (an
+absurd proposition to admit, for anyone advocati ng your \iewpoint) . I mean if
+it is a person on one day, then the day before it couldn't have been that much
+different, so that it couldn 't be a person that day. (Walton , 1 995, p. 106)
+
+As already noted, such arguments are very common in law and medical
+ethics, and have been the basis of many philosophical disputes i n these
+fields.
+   Now we return to argument from precedent, the scheme displayed
+in the p revious section, and show how a s pecial type of sli pp ery slo p e
+argument is based on it. Here the general form of the argument from
+precedent slippery slope is quoted from Wal ton ( 1 gg6, p. g8 ) .
+
+               Scheme for Argumnzt from Precedent Slippery Slopt>
+
+   Claim to Exr�tional Statu.s Pmnist: Case (�, is claimed to be an exception to the
+     rule R (an excusable or exceptional case ) .
+   /Ulated C.nsts Premise: Case (�, i s similar to case C, , that is, i f � . i s held to he
+     an exn·ption, 1hen C, must be held to be an exception too ( i n order to be
+
+=== p. 117 ===
+
+                  Knmo!Rdgp-Related, Practical, and Other Srhnnes                       1 17
+
+     consistent in treatin� equal cases alike ) . A sequence of similar pairs of cases
+     { C., C1 } binds us by case-to-case consistl"ncy to the series (�, . C, , . . C.,.
+                                                                               .
+
+  ITito/emb/e Outcome Premist': Treating case (�, as an exception to the rule R would
+     be intoler.thle ( for the \".t rio us kinds of reasons that could he relevant) .
+  C.oTirlusion : Case {., cannot he judged to he an exception to the rule (an
+     excusable or exceptional case ) .
+
+I n the following example, the proh ibition upon professing kinds o f reli­
+gi on different from the legi ti mate one is defended by showing the unac­
+ceptable consequence of allowing a precedent.
+
+  One participant argued that wi th all the different minori ty groups, once you
+  accept one kind of religion as legitimate, you are going to have to accept
+  many other kinds of religious groups as having a legitimate right to have
+  prayers or religious services in the classroom. This participalll said: W h 's a
+  Pandora's box. You know that Satan ism is a religion too ! " (Walton , 1 995.
+  p. wo)
+
+In this case, the i mplausibility of the reasoning may be analyzed through
+the device of usi ng c ri tical questions to pinpoint weak poi n ts in the argu­
+ment. The doubtful ness of inferring the conclusion from the prem ise is
+shown by the second question. I t rebuts the argument by showing that
+one of its necessary conditions fails to apply. Argument from classification
+is the key. The classification of Satan ism as a rel igion is questioned.
+
+  Critical Questions for Ar gu m e n t from Precedent Slippery Slope
+  CQ1 : Would {., st·t a precedent?
+  CQ2 : What is the evidenct· sh owi ng why each of t h e cited interwning prece­
+   dent.� would occur?
+  CQ1: Is C.. as intolerable a� it is portr.tyed?
+
+Argument from precedent slippery slope is a cou n terargument to argu­
+ment from precede n t. Both are related to argument from verbal classi fi­
+cation. It is a complex subspecies of argument from precedent. As slope
+arguments, they all share a general patte rn . The rPdurtio ad abm rdum pal­
+tern moves through a related sequence of predications in this schematic
+pattern.
+
+     1 0.   ATTA C K I N G V t: R B A L C LA S S I FI CA T I O N A N D S LI P P E R Y
+                                S LO P E A R G U M ENTS
+
+I n Chapter H it will be shown how attac ks, rebuttals, and refutations are
+defined and analyzed. But to close Chapter � · it is interesting to sec h ow
+
+=== p. 118 ===
+
+                               Argummtatio11 Srhnru•s
+
+such cmm terdrguments work in practice. The sli ppery slope argument is
+itsd f a fonn of attack on some previous argument or proposed pol icy for
+taking action. But it can be attacked by other coun terargumenLo; de rived
+from argum<·nt from analogy. argument from classi fkation , and other
+schemes we have studied. One of these is the argument from verbal
+dassi licat ion , fi tting the sc heme called defeasible argument from a
+verbal classification i n Chapter 2 , section 6 . Such arguments from verbal
+dassi fication are often attacked by coun terargumenL'I claiming that the
+verbal classification is too vague, or is arbi trary. Here is a typical type of
+exam ple.
+
+  Marcia and Ted are debating o n the is.�ue of abortion. Ted, who is pro­
+  life, argm�s: MThere can be no abortion when tlw fetus becomes a person."
+  Marcia replies: "That's hopelessly vague ! There is n o way to exactly define
+  when the fetus h;L� bennne a ' perso n ' . You don 't han· a lt·g to stand on
+  t here ! (Wal ton, 1 99 5 c , p . 102 )
+
+I n this argument, Ted 's standpoint is defended by usi ng the term
+"person." This term is not defined, and the mean ing that one party would
+likely accept would not be accepted by the other party. By inference, the
+mere use of the term triggers an accusation of homicide. Thus the use
+of the term cannot be supported by a verbal cla'lsification that is com­
+monly shared. A certain usage is presumed by the speaker as common
+knowledge, but is clearly not acceptable to the respondent. This commu­
+nicative mo,·c fails as an argument, because the assumption is not shared.
+The move has not made sense and, if not defended, collapses.
+    This refutation tac tic is a meta-dialogical move, because the cri ti­
+cism is addressed to the assumptions and to the use of language i n
+t h e speaker's sequence of reasoning. T h e opening dialogue, that is, the
+possible defense of the argument, is si tuated on another level. The dis­
+cussion moves to a level where agreemen ts about the common mean ing
+of tenns in the argument need to be d iscussed and evaluated .
+  This is t h e form of the argume n t from vaguen ess of a verbal class i fica­
+tion (Wal ton , t gg6, pp. 1 02 , 1 0 3 ) :
+
+          A rgum en t from Vagueness o f a Verbal Classification
+
+  I f an argument A occurs i n a context of dialogue that requires a certai n
+      level of precision , b u t some property F that occurs i n A i s defined
+      i n a way that is too vague to meet the requirements of that level of
+      precision , then A ough t to be rejec ted as deficient.
+
+=== p. 119 ===
+
+                Knowh>dgp-&lntt'd, Pmrliwl, and Otllt'r Srhnnl'.�                   I 19
+
+  A occurs in a context o f dialogue that requires a certain level o f prt'ci­
+    sion that is appropriat<· to that context.
+  Some propt'rty F that o<·curs in A is defined i n a way that is too vague to
+    meet the req uirement'> of the level of precision appropriate to the
+    con text.
+  Therefore, ;\ ough t b<• reject<�d as deficient.
+
+            Critical Questions for Argument from Vag u e n ess
+                        of a Verbal Classi fication
+  CQt : Dot'S the nmtext of dialogue i n which :\ orcurs demand sonw particular
+    level of precision i n the key tem1s used?
+  CQ2 : Is some property F that occu rs in A too vague to mt•et the proper level
+   of standard of prt·cision ?
+  CQ..'� : \\1ty is this degree uf\-agut·ness a problem in relation to tht· dialogut· i n
+   which 1\ was advann•d?
+
+The problem of defi ning the class of which the subject is predicatt•cl may
+present another problem. If, as seen earlier, if it is considered vague, and
+is not accepted for this reason, the defini tion may also be considered
+arbitrary. In the scheme j ust presented, the crite ria are not established,
+and the meaning of the word is taken for gran ted . Such reasoning should
+be rejected on the basis that it leads to a conclusion that is not dialogically
+relev-ant, because it stems from comm i tments that are not com monly
+shared.
+   I n the following example, the speaker's argument holds in virtue of
+the fact that the proposed defi n i tion of "person " is adequate to the
+standards required by the context. H e re this means that it is precise,
+uncon troversial, and supported by sufficien t evidence. The attack is based
+on the meta-refusal of this ass u mption.
+
+Ted: The fetus should be considered a person through t h e third tri mester.
+
+Marcia: You mean to say that the day before the third tri mester, tht• ft•tus is not
+a p erson. And then the first day of the third ttimt'ster, it is a perso n . That is an
+
+arbitrary way of drawi ng the line. (Walton, 1 995c, p. 1 04 )
+
+I n the following scheme for argument from arbitrari ness o f verbal classi­
+fication (Walton , 1 gg6, p. t 04 ) , the role of con text of d ialogue is critical.
+The classi fication is judged uncontroversial if i t respects the conditions
+the dialectical situation imposes on the common commitment sets. The
+level of precision and the agreemen t on determinate standards is a con­
+sequence of the topic and kind of discussion.
+
+=== p. 120 ===
+
+1 20                        A rgu mm ta tio n Schemes
+
+       Scheme for Argument from Arbitrariness of a Verbal Classification
+
+  If an argument A occurs in a context of dialogue that requires a certain
+     level of nonarbitrary defin i tion for a key property F that occurs in A,
+     and F is defined in an arbi trary way in A , then A ought to be rejected
+     as deficient.
+
+  A occurs in a context of dialogue that requires a nonarbitrary definition
+     for a key property Fthat occurs in A .
+  Some property F that occurs in A is defined i n a way that is arbitrary.
+  Therefore, A ought to be rejected as deficient.
+The most interesting of the following critical questions regard the prob­
+lem of the context of dialogue: the relevance of the moves following the
+analyzed topic stems from the requirement'> of the dialectical situation .
+
+            Cri tical Questions for Scheme from Arbitrariness
+                         of a Verbal Classification
+  CQ t : Docs the context of dialogue in whkh A occurs require a nonarhitrary
+   definition of F?
+  CQ2 : Is some property F that occurs in :1 defined in an arbi trary way?
+  CQ�: Why is arbitrariness of definition a problem in the context of dialogue
+   in which A was advanced?
+
+These refutation schemes are dialectical . Arguments directed against
+the ,�agueness or arbitrariness of a classification shift the dialogut� onto
+a different level that concerns the legitimacy of the sequence of moves
+in a first-level dialogue. They are therefore classified as meta-dialectical
+argumentation schemes. It will he shown in Chapter 7 how the study of
+argument refutation needs to he ba'ied on meta-dialogical factors like
+burden of proof.
+

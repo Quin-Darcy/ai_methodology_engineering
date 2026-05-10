@@ -1,0 +1,713 @@
+=== chunk: aristotle-metaphysics/book-beta ===
+title: Book Beta (III) — the fourteen aporiai
+source_pdf: docs/sources/aristotle-metaphysics/full.pdf
+pdf_pages: 106-124
+page_scheme: bekker
+plan_page_start: '995a24'
+plan_page_end: '1003a17'
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 106 ===
+
+                       {31} BOOK BETA (III)
+
+                                     B1
+
+It is necessary, with a view to the science we are inquiring into, first to go
+over topics about which we should first raise puzzles.250 These include
+|995a25| both topics about which people have supposed divergent things, as
+well as any separate from these that may have been overlooked. Now for
+those who wish to be puzzle-free it is useful to go through the puzzles well.
+For the subsequent puzzle-free condition is reached by untying the knots
+produced by the puzzles raised in advance, and it is not possible to untie a
+knot you are unaware of. But a puzzle in thought |995a30| makes clear the
+existence of a knot in the subject matter.251 For insofar as thought is
+puzzled it is like people who are tied up, since in both cases it is impossible
+to move forward.
+   That is why we must get a theoretical grasp on all the difficulties
+beforehand, both for these reasons and because those who inquire without
+first going through the puzzles are like people |995a35| who do not know
+where they have to go. And, in addition, a person [who has not already
+grasped the puzzles] does not even know whether he has found what he is
+inquiring into.252 For to someone like that the end is not |995b1| clear,
+whereas to a person who has already grasped the puzzles it is clear. Further,
+a person is necessarily in a better position to make a judgment when—as if
+they were opposing parties in a court case—he has heard all the contending
+arguments.
+   [P1] The first puzzle is concerned with the topic we went through the
+puzzles about in our prefatory remarks, namely, whether |995b5| it belongs
+to one science or to more than one to get a theoretical grasp on causes.253
+   [P2] And whether it is only the primary starting-points of substance that
+science has to look at, or whether it is also concerned with the starting-points on which everyone depends when proving things—for example,
+
+=== p. 107 ===
+
+whether or not it is possible to affirm and deny one and the same thing at
+the same time, and other such starting-points.254
+   [P3] And if it is |995b10| concerned with substance, whether there is one
+science concerned with all of them or more than one, and if more than one,
+whether they are all of the same kind (genos) or some of them should be
+called sorts of wisdom and others something else.255
+   {32} [P4] And this itself is also one of the things that it is necessary to
+inquire into—whether we should say that only perceptible substances exist
+or also others beyond these, and [if so] whether |995b15| there is one kind
+or several kinds (genos) of these substances, as is supposed by those who
+introduce both Forms and objects of mathematics that are intermediate
+between them and the perceptibles.256
+   [P5] These, then, as we say, we must investigate, and also whether the
+theoretical knowledge [we are investigating] is concerned only with
+substances or also with the intrinsic coincidents of substances.257 In
+addition, |995b20| concerning same and other, like and unlike, and
+contrariety, and concerning prior and posterior, and all the other such
+things that dialecticians try to investigate, making their investigation on the
+basis of reputable beliefs only—whose task is it to get a theoretical grasp on
+all these?258 Further, [we must investigate] the |995b25| intrinsic
+coincidents of these very things, and not only what each of them is, but also
+whether one thing is the contrary of one thing.259
+   [P6] Also, whether the starting-points and elements are the genera or the
+components present in each thing, into which it is divided.260
+   [P7] And if they are the genera, whether they are the first ones or the
+ultimate ones that are said of indivisible things—for example, whether
+animal or human |995b30| is a starting-point and is to a higher degree
+beyond what is particular.261
+   [P8] Above all, we must inquire into, and work on, whether or not there
+is something, beyond the matter, that is an intrinsic cause, whether or not
+this is separable, whether it is one or more than one in number, and
+whether there is something beyond the compound (I mean by “the
+compound” whenever something is predicated of matter), |995b35| or
+nothing, or whether for some there is, whereas for others there is not, and
+what sorts of beings these are.262
+
+=== p. 108 ===
+
+   [P9] Further, whether the starting-points are definite in number or kind
+(eidos), both those in |996a1| the accounts and those in the underlying
+subject.263
+   [P10] Also, whether the starting-points of what passes away and of what
+does not pass away are the same or distinct, and whether none of them
+passes away or those of things that pass away do pass away.264
+   [P11] Further, the most difficult one of all and the one involving the
+most puzzles—whether |996a5| the one and being are not, as the
+Pythagoreans and Plato used to say, another thing, but rather the substance
+of the beings, or whether this is not so but the underlying subject is another
+thing, which Empedocles says is love, someone else, fire, someone else,
+water or air.265
+   [P12] Also, |996a10| whether the starting-points are universal or like
+particular things.266
+   {33} [P13] Further, whether they are [causes] potentially or actively, and
+further whether they are [causes] in any other way than as regards
+movement.267 For these topics too cause much puzzlement.
+   [P14] In addition, whether or not numbers, lines, figures, and points are
+substances of some sort or not, and if they are substances, are they separate
+from the perceptible ones or components present in them?268
+   For concerning |996a15| all these not only is it difficult to be in puzzle-free possession of the truth but it is not easy even to go through the puzzles
+well in the account.
+
+                                    B2
+
+[P1] The first, then, concerns the things we mentioned first, namely,
+whether it belongs to one science or to more than one to get a theoretical
+grasp on all the kinds (genos) of causes. For how could it belong to one
+science |996a20| to know the starting-points if these are not contraries?269
+   Further, to many beings not all the starting-points pertain. For in what
+way can there be a starting-point of movement for immovable things?270
+Or in what way can the nature of the good be such a starting-point, if
+indeed everything that is good intrinsically and because of its own nature is
+
+=== p. 109 ===
+
+an end and a cause in this way, namely, that for its sake the other things
+both come to be and are, |996a25| and if the end—that is, the for-the-sakeof-which—is an end of some action, and all actions involve movement?271
+So in the case of immovable things this starting-point could not exist, nor
+could there be any good-itself. That is why in mathematics too nothing is
+shown through this cause, nor is there any demonstration where the cause is
+this: “because it is better |996a30| or worse.” Indeed no one mentions any
+such thing at all. And so this is why some of the Sophists—for example,
+Aristippus—used to shower abuse on mathematics, since in the other crafts,
+even manual ones like carpentry and shoemaking, the cause is always stated
+in terms of better or worse, whereas the mathematical sciences |996a35|
+take no account of good and bad things.272
+   But then |996b1| if there are several sciences of the causes, and a distinct
+one for each starting-point, which of them should we say is the one we are
+inquiring into? Or which of those who possess these sciences should we say
+has the highest degree of scientific knowledge of the object of our inquiry?
+For it is possible for all the ways of being |996b5| causes to pertain to the
+same thing—for example, in the case of a house the source of the
+movement is the craft or the builder, the for-the-sake-of-which is the {34}
+function, the matter is earth and stones, and the form is the account.273
+Based on our earlier determinations about which of the sciences should be
+called wisdom, there is reason to apply the term to each.274 For insofar as
+wisdom is most ruling and most leading, |996b10| and insofar as, like with
+handmaidens, for the other sciences ever to contradict it is not just, it is the
+science of the end and of the good that is of the same sort as wisdom (for
+other things are for the sake of the end and the good).275 And insofar as
+wisdom was determined to be about the primary causes and about what is
+most scientifically knowable, it is the science of substance that must be of
+the same sort as it.276 For since people may scientifically know the same
+thing in many ways, we say that the person who |996b15| knows what the
+object is by its being knows it better than the person who knows it by its
+not being, and of those who know it better some know it better than
+others, and the person who knows it best is the person who knows what it
+is, not the person who knows [merely] its quality or quantity or what it can
+naturally do or have happen to it. Further, in other cases, too, even those of
+
+=== p. 110 ===
+
+which there are demonstrations, we think that there is knowledge of each
+thing when we know what it is—for example, what |996b20| squaring a
+rectangle is, namely, that is the finding of a mean, and similarly in other
+cases.277 And about comings to be and actions, and about every sort of
+change, we think there is knowledge when we know the starting-point of
+the movement; but this is distinct from and opposed to the end, so that it
+might seem that for each of these causes it belongs to a distinct science to
+get a theoretical grasp on it. |996b25|
+   [P2] But then about the starting-points of demonstration too, and
+whether there is one science of them or more than one, there is dispute (by
+the starting-points of demonstration I mean the common beliefs on the
+basis of which we all prove things, such as that in every case it is necessary
+either to affirm or deny, and that it is impossible for something at the same
+time to both be and not be, and any other |996b30| propositions like that),
+namely, about whether there is one science of these and of substance or
+distinct ones, and, if it is not one science, which of the two should be
+identified with what we are now inquiring into?278
+   Well, for there to be one science of them is not reasonable. For how is it
+more special to geometry than to any science whatever to comprehend
+them? So if indeed it belongs to every science alike to comprehend them,
+but cannot belong to all [as their special subject], |996b35| then, just as it is
+not special to the others, neither is it special to the one who knows |997a1|
+substances to know about them. At the same time, indeed, in what way can
+there be a science of them? For what each of them in fact is we know even
+now—at any rate, even the various crafts make use of {35} them as things
+that are known. But if there is a demonstrative science concerned with
+|997a5| them, there will have to be some hypothesized genus, as well as
+attributes, on the one hand, and axioms pertaining to them, on the other,
+since it is impossible for there to be demonstrations of everything.279 For
+demonstration is necessarily on the basis of some things, about a certain
+subject, and of some things. And so it follows that all provable things
+belong to some one genus, since all demonstrative sciences make use of
+|997a10| the axioms.
+   But then if the science of substance and the science concerned with the
+axioms are distinct, which of them naturally has more control and is prior?
+280 For it is the axioms that are most universal and the starting-points of all
+
+=== p. 111 ===
+
+things, and if not to the philosopher, then to whom does it belong to get a
+theoretical grasp on what is true and what is false about them?281
+   [P3] And in general, where substances are concerned, is there |997a15|
+one science of all of them or more than one? Well, if there is not just one,
+to what sorts of substance should we take our science to pertain? On the
+other hand, it is not reasonable that there should be one of all of them,
+since then there would be one demonstrative science of all [intrinsic]
+coincidents—if indeed every demonstrative science gets a theoretical grasp
+on the intrinsic coincidents of some underlying subject on the basis of the
+|997a20| common beliefs.282 In fact, to get a theoretical grasp on the
+intrinsic coincidents of the same genus on the basis of the same beliefs does
+belong to the same science.283 For of the what about there is one science
+and of the on the basis of which there is one science too (whether the same
+one or a distinct one), and so the coincidents are also theoretically grasped
+either by these sciences or by one composed of them.284
+   [P5] Further, is the theoretical knowledge concerned with substances
+alone or |997a25| also with their [intrinsic] coincidents?285 I mean, for
+example, if the solid is a sort of substance and so are lines and planes, does
+it belong to the same science to know these and the [intrinsic] coincidents
+of each genus, of which the mathematical sciences provide proofs, or to
+another science?286 If to the same one, |997a30| the science of substance
+would also be a demonstrative science, but there does not seem to be a
+demonstration of the what-something-is.287 On the other hand, if it
+belongs to another science, which of them is going to get a theoretical grasp
+on the [intrinsic] coincidents of substance? This is a very difficult
+question.288
+   [P4] Further, are we to say that only the perceptible substances exist, or
+that there are others beyond these? And is there one kind (genos) or
+|997a35| are there in fact several kinds of these substances—as those say
+who assert the existence both of the |997b1| Forms and of the
+intermediates, with {36} which they say the mathematical sciences are
+concerned? Now the way in which we say that the Forms are both causes
+and intrinsically substances has already been stated in our first accounts of
+them.289 But while Forms involve difficulties in many places, none is
+stranger than |997b5| to say that there are certain natures beyond those in
+
+=== p. 112 ===
+
+the heaven as a whole, and that these are the same as perceptibles, except
+that they are eternal whereas the latter pass away.290 For they say that there
+is man-itself and horse-itself and health-itself, and nothing else—like those
+who introduce gods, but say that they are human in form.291 |997b10| For
+those people were making the gods nothing but eternal human beings, and
+these are making the Forms nothing but eternal perceptibles.
+   Further, if beyond the Forms and the perceptibles someone is going to
+posit the intermediates, he will face many puzzles. For it is clear that there
+will be lines beyond the lines-themselves and the perceptible lines, and
+similarly with each of the other kinds (genos). So |997b15| if indeed
+astronomy is one of the mathematical sciences, there will also be a heaven
+beyond the perceptible heaven, as well as a sun and a moon, and similarly
+with the other bodies throughout the heaven.292 And yet how are we
+supposed to believe these things?293 For a thing of that sort to be
+immovable is not reasonable, but for it to be moving is altogether
+impossible. Similarly too for the things that optics |997b20| busies itself
+with and those in harmonics, since it is impossible—due to the same causes
+—for them to be beyond the perceptibles.294 For if there are intermediate
+perceptibles and perceptions, it is clear that there will also be animals that
+are intermediate between the animals themselves and the ones that pass
+away.295
+   But someone might also raise this puzzle: with reference to which sorts of
+beings are we supposed to look for |997b25| these sciences [of
+intermediates]? For if geometry is to differ from measurement only in this
+respect, that measurement is of things we perceive, whereas geometry is not,
+it is clear that there will also be a science beyond medicine (and beyond
+each of the others), intermediate between medicine-itself and the medicine
+for the things that exist here.296 And yet how is this possible? For |997b30|
+there would also have to be healthy things beyond the perceptible ones and
+the healthy-itself. At the same time, though, not even this is true, namely,
+that measurement is of perceptible magnitudes that pass away, since it
+would then pass away when they did.297
+   But then [geometry] would not be concerned with perceptibles, nor
+would astronomy be concerned with the heaven that is here. For perceptible
+|997b35| lines are not the way a geometer says lines |998a1| are—for no
+perceptible thing is straight or round in the way he says they are, {37} since
+
+=== p. 113 ===
+
+a circular hoop makes contact with a ruler not at a point but as Protagoras
+used to say it did when refuting the geometers—nor are the movements
+and spirals of the heaven like those about which astronomy produces its
+|998a5| accounts, nor do points have the same nature as stars.298
+   There are some, however, who say that these so-called intermediates
+between the Forms and the perceptibles exist, although not separate from
+perceptibles but rather in them.299 To go through all the impossible
+consequences of these views would require too long an account. It is
+enough to get a theoretical grasp even on the following ones: |998a10| It is
+not reasonable, after all, that this should hold only of the intermediates,
+rather, it is clear that the Forms too might exist in the perceptibles, since
+the same argument applies to both of them. Further, it follows that two
+solid things are necessarily in the same place, and that [the intermediates]
+are not immovable, since they at any rate are in things that are moving—
+namely, perceptibles. And in general, |998a15| for the sake of what would
+someone posit that they exist but that they exist in perceptibles? For the
+same strange consequences will follow that we have already mentioned,
+namely, there will be a heaven beyond the heaven, only not separate from it
+but rather in the same place—which is just what is even more impossible.
+
+                                    B3
+
+[P6] Where these issues are concerned, then, there is much puzzlement
+both about the way we should put things |998a20| in order to hit on the
+truth, and about the starting-points, namely, whether it is the genera that
+we should take to be elements and starting-points or, rather, the primary
+components present in each thing.300 For example, the elements and
+starting-points of voiced sound seem to be those primary things from which
+voiced sounds are composed, not the common [genus]—voiced sound.301
+And |998a25| we speak of the elements of diagrams as those things whose
+demonstrations are present in the demonstrations of the other things, either
+of all of them or of most.302 Further, both those who say that there are
+several elements of bodies and those who say that there is one speak of the
+things from which a body is composed as starting-points. For example,
+
+=== p. 114 ===
+
+Empedocles says that fire, water, and the ones that come after these
+|998a30| are elements present in beings from which these beings are
+composed, but does not speak of these as genera of beings. In addition to
+this, if we also want to examine the nature of other things (for example, a
+bed), when |998b1| we know the parts from which it is composed and the
+way they are put together, then we know its {38} nature. On the basis of
+these arguments, then, the genera would not be the starting-points of
+   On the other hand, insofar as we know each thing through definitions,
+and the genera are the starting-points of definitions, |998b5| then the
+genera must also be the starting-points of the definable things.303 And if to
+get scientific knowledge of beings is to get it of the species (eidos) in accord
+with which beings are said [to be what they are], the genera are starting-points at any rate of the species.304 And some even of those who speak of
+the one or being or the great and small as elements of beings apparently treat
+them as genera. |998b10|
+   But then neither is it possible to speak of the starting-points in both ways.
+For the account of the substance is one, whereas the definition by means of
+genera will be distinct from the definition that states the components
+present in a thing.305
+   [P7] In addition to this, even if it is the genera that are to the highest
+degree starting-points, is it the primary genera that we should acknowledge
+as starting-points or the |998b15| ultimate ones, which are predicated of the
+indivisibles?306 For this too admits of dispute. For if the universal ones are
+always to a higher degree starting-points, it is evident that the highest of the
+genera [will be to the highest degree starting-points], since they are said of
+all things. There will then be as many starting-points of beings as there are
+primary genera, and so being and the one will be starting-points and
+|998b20| substances, since these are to the highest degree said of all
+beings.307 But it is not possible that either the one or being should be a
+single genus of beings. For the differentiae of each genus must each both be
+and be one, but it is impossible either for the species of the genus to be
+predicated of their own proper differentiae or for the genus to be predicated
+without its |998b25| species.308 So if indeed the one is a genus or if being is,
+no differentia will either have being or be one. But then if they are not
+
+=== p. 115 ===
+
+genera, neither will they be starting-points, if indeed the genera are the
+starting-points.
+   Further, the intermediate ones, taken together with the differentiae, will
+also be genera, down to the indivisible ones, but as things stand some seem
+to be genera and others do not.309 In addition to this, |998b30| the
+differentiae will be starting-points to a still higher degree than the
+genera.310 But if these too are starting-points, then the starting-points
+become (one might almost say) unlimited in number, especially if we take
+the primary genus as a starting-point. But then, if the one is, at any rate, to
+a higher degree |999a1| the kind (eidos) of thing to be a starting-point, and
+what is indivisible is one thing, and everything that is indivisible is so either
+in quantity or in species, and what is so in species is prior, and {39} the
+genera are divided into species, then the ultimate genus predicated of a
+thing would be to a higher degree one (for the human is not the genus
+|999a5| of particular humans).311
+   Further, in the case of things among which there is priority and
+posteriority, what is over them cannot be something beyond them.312 For
+example, if two is the first of the numbers, no number will exist beyond the
+species of numbers.313 Nor, similarly, will there be a [geometrical] figure
+beyond the species of figures. But if not of these things, there will hardly be
+|999a10| genera beyond the species of other ones, since of these above all
+there seem to be genera.314 (But among the indivisibles, one is not prior
+and another posterior.315) Further, where one thing is better and another
+worse, the better is always prior, so that of these also there would not be a
+genus.316
+   On the basis of these considerations, then, the ones predicated of
+indivisibles appear to be starting-points rather than |999a15| the [primary]
+genera. But again, in what way we should take these to be starting-points is
+not easy to say.317 For the starting-point, or the cause, must exist beyond
+the things of which it is a starting-point and must be capable of existing as
+separated from them.318 But why should we take any such thing to exist
+beyond the particular things, besides the fact that it is predicated universally
+|999a20| and of all of them? But again if is because of that, then we should
+posit that the more universal ones are starting-points to a higher degree,
+and so the primary genera would be starting-points.
+
+=== p. 116 ===
+
+                                     B4
+
+[P8] Connected with these there is a puzzle, most difficult of all and most
+necessary to get a theoretical grasp on, to which our account |999a25| now
+turns.319 For if nothing exists beyond the particular things, and the
+particular things are unlimited in number, how is it possible to get scientific
+knowledge of unlimited many things? For it is insofar as they are one and
+the same thing, and insofar as something universal belongs to them, that we
+know all things.
+   But then, if this is necessary, and there must exist something beyond the
+particulars, it will be necessary that the genera |999a30| exist beyond the
+particulars—either the ultimate genera or the primary ones. But we just
+went through a puzzle concerning the impossibility of this.320 Further, if
+something exists most of all beyond the compound (I mean by
+“compound” whenever something is predicated of the matter)—if it exists,
+is it beyond all of them [that is, all the compound things] that it must exist,
+or beyond some but not others, or beyond none?
+   {40} Now if nothing exists |999b1| beyond the particular things, there
+will be nothing intelligible, but all will be perceptible, and there will be no
+scientific knowledge of anything, unless someone says that perception is
+scientific knowledge.321 Further, nothing will be either eternal or
+immovable, since all perceptibles pass away and are in movement. But then,
+if nothing is eternal, |999b5| neither is it possible for anything to be coming
+to be. For there must be something that comes to be and something from
+which it comes to be, and of these the last one cannot have come to be, if
+indeed there is a stopping point and if coming to be from not being is
+impossible. Further, if coming to be and movement exist, there must also be
+a limit. For no movement is unlimited, but every one has an end, |999b10|
+and what cannot come to be cannot be coming to be, and what has come to
+be must be at the first moment it has come to be. Further, if indeed the
+matter exists because it cannot have come to be, it is yet much more
+reasonable that the substance—the thing that matter is coming to be—
+should exist. For if neither the substance nor the matter is to exist, nothing
+at all will exist.322 And if that is impossible, |999b15| something must exist
+beyond the compound, namely, the shape—that is, the form.
+
+=== p. 117 ===
+
+   Again, though, if we are to posit this, there is a puzzle, namely, in which
+cases are we to do so and in which not? For that we cannot do so in all cases
+is evident, since we could not posit a house that is beyond the particular
+houses. In addition to this, will the substance of all things be |999b20| one
+—for example, of all men? But that would be strange, since all those things
+are one of which the substance is one.323 But are they many and different?
+But this too is unreasonable.324 At the same time, in what way does the
+matter come to be each of these things, and in what way is the compound
+both these things?325
+   [P9] Further, where the starting-points are concerned, we might also raise
+this puzzle. If they are one in form [only], nothing |999b25| will be one in
+number, not even the one-itself and being.326 And how will there be
+scientific knowing, if there does not exist something that is a one over all?
+   But then, if they are one in number, that is, if each of the starting-points
+is one, and not, as in the case of perceptibles, different for different
+perceptibles (for example, the starting-points of this syllable, which is the
+same in form [as that], are also the same in form and [not in number],
+|999b30| since they belong to syllables that are distinct in number)—if they
+are not one in the latter way, but instead the starting-points of beings are
+one in number, nothing else will exist beyond the elements (for whether we
+say “one in number” or “particular” makes no difference, since by
+“particular” we mean “one in number,” and by “universal” we mean “what is
+over particulars”). So it is just like this: if the |1000a1| elements of voiced
+sound were definite in number, it would be {41} necessary for all of
+literature to amount to the number of these elements, since there could not
+be two or more of the same ones.328
+   [P10] No less a puzzle than any has been passed over both by people
+|1000a5| now and by previous ones, namely, whether the starting-points of
+things that can pass away and things that cannot pass away are the same or
+distinct. For if they are the same, how is it that some things can pass away,
+whereas others cannot pass away, and due to what cause?329
+   Now the followers of Hesiod and all the theologians thought only of
+what was persuasive to themselves, but had contempt for people like us.
+|1000a10| For they made the starting-points to be gods and what is born
+from gods, and say that those who did not taste nectar or ambrosia became
+
+=== p. 118 ===
+
+mortal, clearly using terms familiar to themselves. Although about the very
+ingestion of these causes they have spoken over our heads. For if |1000a15| it
+is for the sake of pleasure that the gods touch these, then nectar and
+ambrosia are in no way the causes of their being; but if these are the causes
+of their being, how could the gods be eternal, since they need nourishment?
+   Where mythical subtleties are concerned, to be sure, a serious
+investigation is not worthwhile, but we should cross-question those who
+use the language of demonstration to learn from them why in the world
+|1000a20| from the same things come, on the one hand, beings that are
+eternal in nature and, on the other, beings that pass away. But since they
+neither mention a cause nor is it reasonable that things should be this way,
+it is clear that the starting-points and causes of these things cannot be the
+same. For even the very person we might think to speak most consistently,
+namely, Empedocles—even |1000a25| he suffers from the same deficiency.
+For he posits a starting-point, strife, as a cause of passing away, but this
+would seem to be no less a cause of coming to be [for everything] apart
+from the one, since from strife come all the other things except the god. At
+any rate, he says:
+
+  From which all things—those that were, those that are, those that will be
+    hereafter—
+  Trees, and men and women, took their growth, |1000a30|
+  and beasts and birds and water-nourished fish,
+  and long-aged gods.331
+
+But quite apart from these lines it is clear. |1000b1| For if strife had not
+been present in things, all things would have been one, as he says. For
+whenever these come together, “strife was taking a stand at the lastmost
+place.”332 That is also why it follows for him that the happiest god is less
+wise {42} than the others, since he does not know all things. For he does
+not have strife [in him], and knowledge |1000b5| is of like by like. “For by
+earth,” he says,
+
+  we see earth, by water, water,
+  By ether, divine ether,
+
+=== p. 119 ===
+
+  By love (storgê) love, and strife by baneful strife.333
+
+  But—and this is the place from which our account began—this at least is
+evident, that it follows for him that strife is no more the cause of passing
+away than of being, nor love (philotês) likewise the cause of |1000b10|
+being, since by bringing the other things together into the one it causes
+them to pass away. And at the same time he says nothing about the cause of
+the changeover itself, except that it is naturally that way:
+
+  But when great strife was nourished in the limbs [of the sphere],
+  He leaped up to claim his office as the time was fulfilled, |1000b15|
+  Which had been fixed for their exchange by a broad strong oath,334
+    |1000b15a|
+
+as if it were necessary for there to be a changeover. But he makes no cause
+of the necessity clear. Nonetheless, thus far at least he alone does speak
+consistently. For he does not make some beings capable of passing away and
+others incapable of passing away, but makes all of them capable of passing
+away, except the elements. But the puzzle we are now talking about
+|1000b20| is why one lot is one way and the other the other, if indeed they
+come from the same starting-points.
+   So as regards the fact that the starting-points [of the two] cannot be the
+same, let that much be said. But if there are distinct starting-points, one
+puzzle is whether these too will be incapable of passing away or capable of
+passing away. For if they can pass away, it is clearly necessary for these also
+to come from certain things, since all things that pass away |1000b25| do so
+into the things they come from. And so it follows that other starting-points
+are prior to the starting-points. But this is impossible, both if the series
+comes to a stop and if it goes on without limit. Further, what way will
+things that can pass away be, if their starting-points are to be done away
+with? On the other hand, if the starting-points cannot pass away, due to
+what will things that can pass away come from these things that cannot pass
+away, whereas from the |1000b30| other ones it is things that cannot pass
+away? For this is not reasonable—on the contrary, either it is impossible or
+it would require much argument. Further, no one has even tried to posit
+other starting-points [for the two sorts of things], instead, they say that the
+
+=== p. 120 ===
+
+starting-points {43} of all things are the same. But |1001a1| they sidestep
+the first puzzle as if they took it to be something trivial.
+   [P11] Of all of the puzzles, however, the one that is most difficult even to
+get a theoretical grasp on, and the one most necessary for knowledge of the
+truth, is whether being and |1001a5| the one are really substances of beings,
+and whether each of them is—not by being another thing—one and being
+respectively, or whether we must inquire into what being really is and what
+the one really is on the supposition that some other nature underlies them
+as subject.335 For some people think their nature is of the former sort,
+others of the latter sort. For Plato and the Pythagoreans think that neither
+being nor |1001a10| the one is another thing, but that this is what the
+nature of each of them is, on the supposition that the substance of it is to
+be one or to be being.336 Those concerned with nature, however, [take the
+latter view]. For example, Empedocles—supposing that he was leading it
+back to something more familiar—says what the one is. For he would seem
+to say that love (philia) is something of this sort. At any rate, this is for all
+things the cause of their being one. But other people say that fire, |1001a15|
+and others that air, is the one and the being in question, from which beings
+are and have come to be. Those who posit a plurality of elements also hold
+the same view, since they too must say that the one and being are precisely
+as many as the starting-points that they say exist.
+   However, if we do not posit the one and being to be some sort of
+substance, |1001a20| it follows that none of the other universals exists
+either, since these are the most universal of all. And if there is not some
+one-itself and being-itself, there would scarcely be any others that are
+beyond the so-called particulars. Further, if the one is not substance, it is
+clear that number would not exist either as a nature |1001a25| separated
+from the beings. For number is composed of units, and the unit is just what
+a certain sort of one is. But if there exists some one-itself and being-itself,
+then one and being must be their substance, since it is not another thing
+that is predicated of them, but these themselves.
+   But then if there is to be some being-itself and one-itself, there is much
+puzzlement as to how anything |1001a30| else will exist beyond these—I
+mean, as to how beings will be more than one. For what is other than being
+is not, and so, according to Parmenides’ argument, it necessarily follows that
+all beings are one, and this one is being. Either way, it is difficult. For
+
+=== p. 121 ===
+
+whether |1001b1| the one is not substance or whether there is some one-itself, number cannot be substance. We said earlier why this holds if the one
+is not substance, but if it is substance, the puzzle is the same as that
+concerning being.337 For from what, beyond the one-itself, will {44} there
+be another one? Indeed, it must be not-one. |1001b5| But all beings are
+either one or a many of which each is one.
+   Further, if the one-itself is indivisible, according to Zeno’s axiom it would
+be nothing.338 For what neither makes larger when added nor smaller when
+subtracted, he says, has no being—on the supposition, clearly, that a being
+is a magnitude, and that if it is a magnitude, |1001b10| it is corporeal. For
+body has being in every [dimension], whereas other things—for example, a
+plane and a line—will make something larger when added in one way, but
+when added in another way will not do so, but a point and a unit in no way
+make something larger. But since he gets a theoretical grasp on the matter
+in a crude way, and it is possible for something indivisible to exist, against
+him too there is some defense, |1001b15| since something indivisible will
+not make a larger magnitude by being added, but will make a larger
+number—still, how from a one of the relevant sort, or from several such
+ones, will a magnitude come? For it is like saying that a line comes from
+points.
+   But then, even if we suppose the case to be such that, as some people say,
+number comes from the one-itself and |1001b20| from something else that
+is not one, nonetheless we must inquire into why and how what comes to
+be is sometimes a number and sometimes a magnitude, if indeed the not-one in question was the unequal and was the same nature [in both
+instances]. For it is clear that there is no way in which magnitudes could
+come to be from one and this nature, or from some number and this
+nature. |1001b25|
+
+                                     B5
+
+[P14] Following these issues is a puzzle as to whether numbers, bodies,
+planes, and points are substances or not.339 For if they are not, then it
+escapes us what being is and what the substances of beings are. For
+
+=== p. 122 ===
+
+attributes, movements, relatives, dispositions, and ratios do not seem
+|1001b30| to signify the substance of anything, since all are said of some
+underlying subject and none is a this something.340 And as for the things
+that would seem most of all to signify substance, water and earth and fire
+and air, from which composite bodies are composed, heat and |1002a1|
+cold and the like are attributes of these, not substances, and only the body
+possessed of these attributes persists as a sort of being, that is, a sort of
+substance. But then body is certainly substance to a lesser degree than
+surface, surface than line, and line than unit and |1002a5| point. For it is by
+these that body is defined, and it seems possible for them to exist without
+body but impossible for body to exist without them.341 That is why, {45}
+while most thinkers and the earlier ones thought that substance and being
+were body and that other things were attributes of this, so that the starting-points of bodies |1002a10| were also the starting-points of beings, later and
+seemingly wiser thinkers thought that these were numbers.342 As we said
+then, if these are not substances, there is no substance or being at all—for
+the coincidents of these, at any rate, certainly do not deserve to be called
+   But then, if it is agreed that lines and points are substance to a higher
+degree than |1002a15| bodies, but we do not see to what sort of bodies they
+might belong (for it is impossible for them to be in perceptible ones), then
+no substance would exist at all.343 Further, it is evident that all these things
+are divisions of bodies—one in breadth, one in depth, one in length.
+   In addition to these, |1002a20| any shape whatever is present in the solid
+in the same way, or else none at all is. Thus if Hermes is not present in the
+stone, neither is the half of the cube present in the cube as something
+definite; therefore neither is the surface, since if any surface whatever were
+present, so too would be the surface that determines the half. And the same
+argument also applies to line, point, and unit. |1002a25| Thus if body is in
+the highest degree substance, and these divisions are so more than body is,
+but these do not exist nor are they certain substances, then it escapes us
+what being is, and what the substance of beings is.344
+   In addition to what has been said, the consequences that follow where
+coming to be and passing away are concerned are unreasonable. For it
+seems that substance, whether it did not exist earlier but does exist now or
+
+=== p. 123 ===
+
+|1002a30| existed earlier but does not exist later, undergoes these through
+coming to be and passing away. But points, lines, and surfaces neither
+admit of a process of coming to be nor of passing away, though at one time
+they exist and at another do not. For when bodies make contact or are
+divided, at one time (when they make contact) there immediately comes to
+be one surface, whereas at another time |1002b1| (when they are divided)
+there immediately come to be two, so that when they are put together their
+surfaces do not exist, but have passed away, whereas when they are divided,
+surfaces exist that did not exist earlier (for it certainly is not that an
+indivisible point has been divided into two). And if they come to be and
+pass away, from what do they come to be? The case is also quite similar
+|1002b5| to that of “the now” in time, since it does not admit of coming to
+be or passing away either, yet it seems to be always something distinct
+nevertheless, because it is not a sort of substance.345 It is clear that it is
+similar where points, lines, and planes are concerned. The argument is the
+same, since they are in a similar way either limits or divisions. |1002b10|
+
+                                     B6
+
+{46} [P14a] And we might in general raise the puzzle as to why it is even
+necessary to look for other things beyond perceptibles and intermediates,
+such as the Forms that we posit.346 For suppose it is because of this, namely,
+that the objects of mathematics, while they differ from the things we find
+around here in some other respect, in there being many of the |1002b15|
+same form they do not differ at all, so that their starting-points will not be
+definite in number (just as the starting-points of the writings that exist here
+are not definite in number either, although they are so in form—provided
+we do not take the starting-points of this syllable here or of this voiced
+sound here, since of these the starting-points will be definite in number as
+|1002b20| well—and similarly too in the case of the intermediates, since
+things of the same form are unlimited in number there as well).347 Thus if
+there are not, beyond perceptibles and the objects of mathematics, other
+things such as some people say the Forms are, there will not be substance
+that is one in number, but in form, nor will the starting-points of beings be
+
+=== p. 124 ===
+
+so-and-so many in number, but in form.348 Accordingly, if this is |1002b25|
+necessary, it is also necessary because of it to posit that the Forms exist. For
+even if those who say this do not articulate it well, still this is what they
+mean at least, and it is necessary for them to say these things, because each
+of the Forms is a sort of substance and none exists coincidentally. |1002b30|
+   But then, if we are to posit both that the Forms exist and that the
+starting-points are one in number, not in form, we have said what
+impossibilities necessarily follow.349
+   [P13] Closely connected with these topics is going through the puzzles
+about whether the elements are [causes] potentially or in some other
+way.350 For if it is in some other way, something else will be prior to the
+starting-points (for the capacity is prior to that other cause, |1003a1| and
+not all of what is capable of being in a certain way is in that way).351 But if
+the elements are [causes] potentially, it is possible that none of the other
+beings should exist.352 For even what is not yet has the potentiality to be,
+since what is not [yet] does come to be, whereas none of the things that
+lack the potentiality to be comes to be. |1003a5|
+   [P12] So we must go through both these puzzles about the starting-points and ask whether they are universal or exist in the way we say
+particulars do. For if they are universal, they will not be substances. For no
+common thing signifies a this something but a such-and-such sort of thing,
+whereas substance is a this something.353 And if we are to posit that what is
+predicated in common is a this something and can be set out, then Socrates
+will be many |1003a10| animals: himself and the human {47} and the
+animal—if indeed each of these signifies a this something and one thing.354
+   If then the starting-points are universals, these things follow. But if they
+are not universals, but [exist] as particulars, they will not be scientifically
+knowable. For scientific knowledge of all things is universal. Thus there will
+be other starting-points prior to |1003a15| the starting-points, namely, those
+that are predicated universally, if indeed there is going to be scientific
+knowledge of these.
+

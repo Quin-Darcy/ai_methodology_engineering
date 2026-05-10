@@ -1,0 +1,980 @@
+=== chunk: murdoch-1970-sovereignty-of-good/ch2-on-god-and-good ===
+title: On 'God' and 'Good'
+source_pdf: docs/sources/murdoch-1970-sovereignty-of-good/full.pdf
+pdf_pages: 64-93
+page_scheme: book
+plan_page_start: 45
+plan_page_end: 74
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 45 ===
+
+        ON ‘GOD’ AND ‘GOOD’
+
+To do philosophy is to explore one’s own temperament, and yet
+at the same time to attempt to discover the truth. It seems to me
+that there is a void in present-day moral philosophy. Areas peripheral to philosophy expand (psychology, political and social
+theory) or collapse (religion) without philosophy being able in
+the one case to encounter, and in the other case to rescue, the
+values involved. A working philosophical psychology is needed
+which can at least attempt to connect modern psychological
+terminology with a terminology concerned with virtue. We
+need a moral philosophy which can speak significantly of Freud
+and Marx, and out of which aesthetic and political views can be
+generated. We need a moral philosophy in which the concept of
+love, so rarely mentioned now by philosophers, can once again
+be made central.
+   It will be said, we have got a working philosophy, and one
+which is the proper heir to the past of European philosophy:
+existentialism. This philosophy does so far pervade the scene
+that philosophers, many linguistic analysts for instance, who
+
+=== p. 46 ===
+
+     would not claim the name, do in fact work with existentialist
+     concepts. I shall argue that existentialism is not, and cannot by
+     tinkering be made, the philosophy we need. Although it is
+     indeed the heir of the past, it is (it seems to me) an unrealistic
+     and over-optimistic doctrine and the purveyor of certain false
+     values. This is more obviously true of flimsier creeds, such as
+     ‘humanism’, with which people might now attempt to fill the
+     philosophical void.
+        The great merit of existentialism is that it at least professes and
+     tries to be a philosophy one could live by. Kierkegaard described
+     the Hegelian system as a grand palace set up by someone who
+     then lived in a hovel or at best in the porter’s lodge. A moral
+     philosophy should be inhabited. Existentialism has shown itself
+     capable of becoming a popular philosophy and of getting into
+     the minds of those (e.g. Oxford philosophers) who have not
+     sought it and may even be unconscious of its presence. However,
+     although it can certainly inspire action, it seems to me to do so
+     by a sort of romantic provocation rather than by its truth; and its
+     pointers are often pointing in the wrong direction. Wittgenstein
+     claimed that he brought the Cartesian era in philosophy to an
+     end. Moral philosophy of an existentialist type is still Cartesian
+     and egocentric. Briefly put, our picture of ourselves has become
+     too grand, we have isolated, and identified ourselves with, an
+     unrealistic conception of will, we have lost the vision of a reality
+     separate from ourselves, and we have no adequate conception of
+     original sin. Kierkegaard rightly observed that ‘an ethic which
+     ignores sin is an altogether useless science’, although he also
+     added, ‘but if it recognizes sin it is eo ipso beyond its sphere’.
+        Kant believed in Reason and Hegel believed in History, and
+     for both this was a form of a belief in an external reality. Modern
+     thinkers who believe in neither, but who remain within the
+     tradition, are left with a denuded self whose only virtues are
+     freedom, or at best sincerity, or, in the case of the British philosophers, an everyday reasonableness. Philosophy, on its other
+
+=== p. 47 ===
+
+fronts, has been busy dismantling the old substantial picture of
+the ‘self’, and ethics has not proved able to rethink this concept
+for moral purposes. The moral agent then is pictured as an isolated principle of will, or burrowing pinpoint of consciousness,
+inside, or beside, a lump of being which has been handed over
+to other disciplines, such as psychology or sociology. On the
+one hand a Luciferian philosophy of adventures of the will, and
+on the other natural science. Moral philosophy, and indeed
+morals, are thus undefended against an irresponsible and
+undirected self-assertion which goes easily hand in hand with
+some brand of pseudo-scientific determinism. An unexamined
+sense of the strength of the machine is combined with an illusion of leaping out of it. The younger Sartre, and many British
+moral philosophers, represent this last dry distilment of Kant’s
+views of the world. The study of motivation is surrendered to
+empirical science: will takes the place of the complex of motives
+and also of the complex of virtues.
+   The history of British philosophy since Moore represents
+intensively in miniature the special dilemmas of modern ethics.
+Empiricism, especially in the form given to it by Russell, and
+later by Wittgenstein, thrust ethic almost out of philosophy.
+Moral judgments were not factual, or truthful, and had no place
+in the world of the Tractatus. Moore, although he himself held a
+curious metaphysic of ‘moral facts’, set the tone when he told us
+that we must carefully distinguish the question ‘What things are
+good?’ from the question ‘What does “good” mean?’ The
+answer to the latter question concerned the will. Good was
+indefinable (naturalism was a fallacy) because any offered good
+could be scrutinized by any individual by a ‘stepping back’
+movement. This form of Kantianism still retains its appeal. Witt-genstein had attacked the idea of the Cartesian ego or substantial
+self and Ryle and others had developed the attack. A study of
+‘ordinary language’ claimed (often rightly) to solve piecemeal
+problems in epistemology which had formerly been discussed
+
+=== p. 48 ===
+
+     in terms of the activities or faculties of a ‘self’. (See John Austin’s
+     book on certain problems of perception, Sense and Sensibilia.)
+        Ethics took its place in this scene. After puerile attempts to
+     classify moral statements as exclamations or expressions of emotion, a more sophisticated neo-Kantianism with a utilitarian
+     atmosphere has been developed. The idea of the agent as a
+     privileged centre of will (for ever capable of ‘stepping back’)
+     is retained, but, since the old-fashioned ‘self ’ no longer clothes
+     him he appears as an isolated will operating with the concepts of
+     ‘ordinary language’, so far as the field of morals is concerned. (It
+     is interesting that although Wittgenstein’s work has suggested
+     this picture to others, he himself never used it.) Thus the will,
+     and the psyche as an object of science, are isolated from each
+     other and from the rest of philosophy. The cult of ordinary
+     language goes with the claim to be neutral. Previous moral
+     philosophers told us what we ought to do, that is they tried to
+     answer both of Moore’s questions. Linguistic analysis claims
+     simply to give a philosophical description of the human phenomenon of morality, without making any moral judgments. In
+     fact the resulting picture of human conduct has a clear moral
+     bias. The merits of linguistic analytical man are freedom (in the
+     sense of detachment, rationality), responsibility, self-awareness,
+     sincerity, and a lot of utilitarian common sense. There is of
+     course no mention of sin, and no mention of love. Marxism is
+     ignored, and there is on the whole no attempt at a rapprochement
+     with psychology, although Professor Hampshire does try to
+     develop the idea of self-awareness towards an ideal end-point by
+     conceiving of ‘the perfect psychoanalysis’ which would make us
+     perfectly self-aware and so perfectly detached and free.
+        Linguistic analysis of course poses for ethics the question of
+     its relation with metaphysics. Can ethics be a form of empiricism? Many philosophers in the Oxford and Cambridge tradition
+     would say yes. It is certainly a great merit of this tradition, and
+     one which I would not wish to lose sight of, that it attacks every
+
+=== p. 49 ===
+
+form of spurious unity. It is the traditional inspiration of the
+philosopher, but also his traditional vice, to believe that all is one.
+Wittgenstein says ‘Let’s see.’ Sometimes problems turn out to be
+quite unconnected with each other, and demand types of solution which are not themselves closely related in any system.
+Perhaps it is a matter of temperament whether or not one is
+convinced that all is one. (My own temperament inclines to
+monism.) But let us postpone the question of whether, if we
+reject the relaxed empirical ethics of the British tradition (a
+cheerful amalgam of Hume, Kant and Mill), and if we reject, too,
+the more formal existentialist systems, we wish to replace these
+with something which would have to be called a metaphysical
+theory. Let me now simply suggest ways in which I take the
+prevalent and popular picture to be unrealistic. In doing this my
+debt to Simone Weil will become evident.
+   Much of contemporary moral philosophy appears both
+unambitious and optimistic. Unambitious optimism is of course
+part of the Anglo-Saxon tradition; and it is also not surprising
+that a philosophy which analyses moral concepts on the basis of
+ordinary language should present a relaxed picture of a mediocre achievement. I think the charge is also true, though contrary to some appearances, of existentialism. An authentic mode
+of existence is presented as attainable by intelligence and force of
+will. The atmosphere is invigorating and tends to produce self-satisfaction in the reader, who feels himself to be a member of
+the élite, addressed by another one. Contempt for the ordinary
+human condition, together with a conviction of personal salvation, saves the writer from real pessimism. His gloom is superficial and conceals elation. (I think this to be true in different
+ways of both Sartre and Heidegger, though I am never too sure
+of having understood the latter.) Such attitudes contrast with the
+vanishing images of Christian theology which represented
+goodness as almost impossibly difficult, and sin as almost
+insuperable and certainly as a universal condition.
+
+=== p. 50 ===
+
+        Yet modern psychology has provided us with what might be
+     called a doctrine of original sin, a doctrine which most philosophers either deny (Sartre), ignore (Oxford and Cambridge),
+     or attempt to render innocuous (Hampshire). When I speak in
+     this context of modern psychology I mean primarily the work of
+     Freud. I am not a ‘Freudian’ and the truth of this or that particular view of Freud does not here concern me, but it seems clear
+     that Freud made an important discovery about the human mind
+     and that he remains still the greatest scientist in the field which
+     he opened. One may say that what he presents us with is a
+     realistic and detailed picture of the fallen man. If we take the
+     general outline of this picture seriously, and at the same time
+     wish to do moral philosophy, we shall have to revise the current
+     conceptions of will and motive very considerably. What seems
+     to me, for these purposes, true and important in Freudian theory
+     is as follows. Freud takes a thoroughly pessimistic view of
+     human nature. He sees the psyche as an egocentric system of
+     quasi-mechanical energy, largely determined by its own
+     individual history, whose natural attachments are sexual,
+     ambiguous, and hard for the subject to understand or control.
+     Introspection reveals only the deep tissue of ambivalent motive,
+     and fantasy is a stronger force than reason. Objectivity and
+     unselfishness are not natural to human beings.
+        Of course Freud is saying these things in the context of a
+     scientific therapy which aims not at making people good but at
+     making them workable. If a moral philosopher says such things
+     he must justify them not with scientific arguments but with
+     arguments appropriate to philosophy; and in fact if he does say
+     such things he will not be saying anything very new, since partially similar views have been expressed before in philosophy, as
+     far back as Plato. It is important to look at Freud and his successors because they can give us more information about a mechanism the general nature of which we may discern without the
+     help of science; and also because the ignoring of psychology
+
+=== p. 51 ===
+
+may be a source of confusion. Some philosophers (e.g. Sartre)
+regard traditional psycho-analytical theory as a form of determinism and are prepared to deny it at all levels, and philosophers
+who ignore it often do so as part of an easy surrender to science
+of aspects of the mind which ought to interest them. But determinism as a total philosophical theory is not the enemy. Determinism as a philosophical theory is quite unproven, and it can
+be argued that it is not possible in principle to translate propositions about men making decisions and formulating viewpoints
+into the neutral languages of natural science. (See Hampshire’s
+brief discussion of this point in the last chapter of his book The
+Freedom of the Individual.) The problem is to accommodate inside
+moral philosophy, and suggest methods of dealing with the fact
+that so much of human conduct is moved by mechanical energy
+of an egocentric kind. In the moral life the enemy is the fat
+relentless ego. Moral philosophy is properly, and in the past has
+sometimes been, the discussion of this ego and of the techniques
+(if any) for its defeat. In this respect moral philosophy has shared
+some aims with religion. To say this is of course also to deny that
+moral philosophy should aim at being neutral.
+   What is a good man like? How can we make ourselves morally
+better? Can we make ourselves morally better? These are questions the philosopher should try to answer. We realize on reflection that we know little about good men. There are men in
+history who are traditionally thought of as having been good
+(Christ, Socrates, certain saints), but if we try to contemplate
+these men we find that the information about them is scanty and
+vague, and that, their great moments apart, it is the simplicity
+and directness of their diction which chiefly colours our conception of them as good. And if we consider contemporary candidates for goodness, if we know of any, we are likely to find them
+obscure or else on closer inspection full of frailty. Goodness
+appears to be both rare and hard to picture. It is perhaps most
+convincingly met with in simple people—inarticulate, unselfish
+
+=== p. 52 ===
+
+     mothers of large families—but these cases are also the least
+     illuminating.
+        It is significant that the idea of goodness (and of virtue) has
+     been largely superseded in Western moral philosophy by the
+     idea of rightness, supported perhaps by some conception of
+     sincerity. This is to some extent a natural outcome of the disappearance of a permanent background to human activity: a permanent background, whether provided by God, by Reason, by
+     History, or by the self. The agent, thin as a needle, appears in the
+     quick flash of the choosing will. Yet existentialism itself, certainly in its French and Anglo-Saxon varieties, has, with a certain
+     honesty, made evident the paradoxes of its own assumptions.
+     Sartre tells us that when we deliberate the die is already cast, and
+     Oxford philosophy has developed no serious theory of motivation. The agent’s freedom, indeed his moral quality, resides in
+     his choices, and yet we are not told what prepares him for the
+     choices. Sartre can admit, with bravado, that we choose out of
+     some sort of pre-existent condition, which he also confusingly
+     calls a choice, and Richard Hare holds that the identification of
+     mental data, such as ‘intentions’, is philosophically difficult and
+     we had better say that a man is morally the set of his actual
+     choices. That visible motives do not necessitate acts is taken by
+     Sartre as a cue for asserting an irresponsible freedom as an
+     obscure postulate; that motives do not readily yield to ‘introspection’ is taken by many British philosophers as an excuse for
+     forgetting them and talking about ‘reasons’ instead. These views
+     seem both unhelpful to the moral pilgrim and also profoundly
+     unrealistic. Moral choice is often a mysterious matter. Kant
+     thought so, and he pictured the mystery in terms of an
+     indiscernible balance between a pure rational agent and an
+     impersonal mechanism, neither of which represented what we
+     normally think of as personality; much existentialist philosophy
+     is in this respect, though often covertly, Kantian. But should not
+     the mystery of choice be conceived of in some other way?
+
+=== p. 53 ===
+
+   We have learned from Freud to picture ‘the mechanism’ as
+something highly individual and personal, which is at the same
+time very powerful and not easily understood by its owner. The
+self of psychoanalysis is certainly substantial enough. The existentialist picture of choice, whether it be surrealist or rational,
+seems unrealistic, over-optimistic, romantic, because it ignores
+what appears at least to be a sort of continuous background with
+a life of its own; and it is surely in the tissue of that life that the
+secrets of good and evil are to be found. Here neither the inspiring ideas of freedom, sincerity and fiats of will, nor the plain
+wholesome concept of a rational discernment of duty, seem
+complex enough to do justice to what we really are. What we
+really are seems much more like an obscure system of energy
+out of which choices and visible acts of will emerge at intervals
+in ways which are often unclear and often dependent on the
+condition of the system in between the moments of choice.
+   If this is so, one of the main problems of moral philosophy
+might be formulated thus: are there any techniques for the purification and reorientation of an energy which is naturally selfish,
+in such a way that when moments of choice arrive we shall be
+sure of acting rightly? We shall also have to ask whether, if there
+are such techniques, they should be simply described, in quasi-psychological terms, perhaps in psychological terms, or whether
+they can be spoken of in a more systematic philosophical way. I
+have already suggested that a pessimistic view which claims that
+goodness is the almost impossible countering of a powerful
+egocentric mechanism already exists in traditional philosophy
+and in theology. The technique which Plato thought appropriate
+to this situation I shall discuss later. Much closer and more familiar to us are the techniques of religion, of which the most widely
+practised is prayer. What becomes of such a technique in a world
+without God, and can it be transformed to supply at least part of
+the answer to our central question?
+   Prayer is properly not petition, but simply an attention to God
+
+=== p. 54 ===
+
+     which is a form of love. With it goes the idea of grace, of a
+     supernatural assistance to human endeavour which overcomes
+     empirical limitations of personality. What is this attention like,
+     and can those who are not religious believers still conceive of
+     profiting by such an activity? Let us pursue the matter by considering what the traditional object of this attention was like and
+     by what means it affected its worshippers. I shall suggest that
+     God was (or is) a single perfect transcendent non-representable and necessarily
+     real object of attention; and I shall go on to suggest that moral philosophy should attempt to retain a central concept which has all
+     these characteristics. I shall consider them one by one, although
+     to a large extent they interpenetrate and overlap.
+        Let us take first the notion of an object of attention. The
+     religious believer, especially if his God is conceived of as a person, is in the fortunate position of being able to focus his
+     thought upon something which is a source of energy. Such
+     focusing, with such results, is natural to human beings. Consider
+     being in love. Consider too the attempt to check being in love,
+     and the need in such a case of another object to attend to. Where
+     strong emotions of sexual love, or of hatred, resentment, or
+     jealousy are concerned, ‘pure will’ can usually achieve little. It is
+     small use telling oneself ‘Stop being in love, stop feeling resentment, be just.’ What is needed is a reorientation which will
+     provide an energy of a different kind, from a different source.
+     Notice the metaphors of orientation and of looking. The neo-Kantian existentialist ‘will’ is a principle of pure movement. But
+     how ill this describes what it is like for us to alter. Deliberately
+     falling out of love is not a jump of the will, it is the acquiring of
+     new objects of attention and thus of new energies as a result of
+     refocusing. The metaphor of orientation may indeed also cover
+     moments when recognizable ‘efforts of will’ are made, but
+     explicit efforts of will are only a part of the whole situation. That
+     God, attended to, is a powerful source of (often good) energy is
+     a psychological fact. It is also a psychological fact, and one of
+
+=== p. 55 ===
+
+importance in moral philosophy, that we can all receive moral
+help by focusing our attention upon things which are valuable:
+virtuous people, great art, perhaps (I will discuss this later) the
+idea of goodness itself. Human beings are naturally ‘attached’
+and when an attachment seems painful or bad it is most readily
+displaced by another attachment, which an attempt at attention
+can encourage. There is nothing odd or mystical about this, nor
+about the fact that our ability to act well ‘when the time comes’
+depends partly, perhaps largely, upon the quality of our habitual
+objects of attention. ‘Whatsoever things are true, whatsoever
+things are honest, whatsoever things are just, whatsoever things
+are pure, whatsoever things are lovely, whatsoever things of
+good report; if there be any virtue, and if there be any praise,
+think on these things.’
+   The notion that value should be in some sense unitary, or even
+that there should be a single supreme value concept, may seem,
+if one surrenders the idea of God, far from obvious. Why should
+there not be many different kinds of independent moral values?
+Why should all be one here? The madhouses of the world are
+filled with people who are convinced that all is one. It might be
+said that ‘all is one’ is a dangerous falsehood at any level except
+the highest; and can that be discerned at all? That a belief in the
+unity, and also in the hierarchical order, of the moral world has a
+psychological importance is fairly evident. The notion that ‘it all
+somehow must make sense’, or ‘there is a best decision here’,
+preserves from despair: the difficulty is how to entertain this
+consoling notion in a way which is not false. As soon as any idea
+is a consolation the tendency to falsify it becomes strong: hence
+the traditional problem of preventing the idea of God from
+degenerating in the believer’s mind. It is true that the intellect
+naturally seeks unity; and in the sciences, for instance, the
+assumption of unity consistently rewards the seeker. But how can
+this dangerous idea be used in morals? It is useless to ask ‘ordinary language’ for a judgment, since we are dealing with concepts
+
+=== p. 56 ===
+
+     which are not on display in ordinary language or unambiguously tied up to ordinary words. Ordinary language is not a
+     philosopher.
+        We might, however, set out from an ordinary language situation by reflecting upon the virtues. The concepts of the virtues,
+     and the familiar words which name them, are important since
+     they help to make certain potentially nebulous areas of experience more open to inspection. If we reflect upon the nature of
+     the virtues we are constantly led to consider their relation to
+     each other. The idea of an ‘order’ of virtues suggests itself,
+     although it might of course be difficult to state this in any systematic form. For instance, if we reflect upon courage and ask
+     why we think it to be a virtue, what kind of courage is the
+     highest, what distinguishes courage from rashness, ferocity, self-assertion, and so on, we are bound, in our explanation, to use
+     the names of other virtues. The best kind of courage (that which
+     would make a man act unselfishly in a concentration camp) is
+     steadfast, calm, temperate, intelligent, loving. . . . This may not
+     in fact be exactly the right description, but it is the right sort of
+     description. Whether there is a single supreme principle in the
+     united world of the virtues, and whether the name of that principle is love, is something which I shall discuss below. All I
+     suggest here is that reflection rightly tends to unify the moral
+     world, and that increasing moral sophistication reveals increasing unity. What is it like to be just? We come to understand this
+     as we come to understand the relationship between justice and
+     the other virtues. Such a reflection requires and generates a rich
+     and diversified vocabulary for naming aspects of goodness. It is a
+     shortcoming of much contemporary moral philosophy that it
+     eschews discussion of the separate virtues, preferring to proceed
+     directly to some sovereign concept such as sincerity, or authenticity, or freedom, thereby imposing, it seems to me, an
+     unexamined and empty idea of unity, and impoverishing our
+     moral language in an important area.
+
+=== p. 57 ===
+
+   We have spoken of an ‘object of attention’ and of an unavoidable sense of ‘unity’. Let us now go on to consider, thirdly, the
+much more difficult idea of ‘transcendence’. All that has been
+said so far could be said without benefit of metaphysics. But now
+it may be asked: are you speaking of a transcendent authority or
+of a psychological device? It seems to me that the idea of the
+transcendent, in some form or other, belongs to morality: but it
+is not easy to interpret. As with so many of these large elusive
+ideas, it readily takes on forms which are false ones. There is a
+false transcendence, as there is a false unity, which is generated
+by modern empiricism: a transcendence which is in effect
+simply an exclusion, a relegation of the moral to a shadowy
+existence in terms of emotive language, imperatives, behaviour
+patterns, attitudes. ‘Value’ does not belong inside the world of
+truth functions, the world of science and factual propositions. So
+it must live somewhere else. It is then attached somehow to the
+human will, a shadow clinging to a shadow. The result is the sort
+of dreary moral solipsism which so many so-called books on
+ethics purvey. An instrument for criticizing the false transcendence, in many of its forms, has been given to us by Marx in the
+concept of alienation. Is there, however, any true transcendence,
+or is this idea always a consoling dream projected by human
+need on to an empty sky?
+   It is difficult to be exact here. One might start from the assertion that morality, goodness, is a form of realism. The idea of a
+really good man living in a private dream world seems unacceptable. Of course a good man may be infinitely eccentric, but he
+must know certain things about his surroundings, most obviously the existence of other people and their claims. The chief
+enemy of excellence in morality (and also in art) is personal
+fantasy: the tissue of self-aggrandizing and consoling wishes and
+dreams which prevents one from seeing what is there outside
+one. Rilke said of Cézanne that he did not paint ‘I like it’, he
+painted ‘There it is.’ This is not easy, and requires, in art or
+
+=== p. 58 ===
+
+     morals, a discipline. One might say here that art is an excellent
+     analogy of morals, or indeed that it is in this respect a case of
+     morals. We cease to be in order to attend to the existence of
+     something else, a natural object, a person in need. We can see in
+     mediocre art, where perhaps it is even more clearly seen than in
+     mediocre conduct, the intrusion of fantasy, the assertion of self,
+     the dimming of any reflection of the real world.
+        It may be agreed that the direction of attention should properly be outward, away from self, but it will be said that it is a
+     long step from the idea of realism to the idea of transcendence. I
+     think, however, that these two ideas are related, and one can see
+     their relation particularly in the case of our apprehension of
+     beauty. The link here is the concept of indestructibility or incorruptibility. What is truly beautiful is ‘inaccessible’ and cannot be
+     possessed or destroyed. The statue is broken, the flower fades,
+     the experience ceases, but something has not suffered from
+     decay and mortality. Almost anything that consoles us is a fake,
+     and it is not easy to prevent this idea from degenerating into a
+     vague Shelleyan mysticism. In the case of the idea of a transcendent personal God the degeneration of the idea seems scarcely
+     avoidable: theologians are busy at their desks at this very
+     moment trying to undo the results of this degeneration. In the
+     case of beauty, whether in art or in nature, the sense of separateness from the temporal process is connected perhaps with concepts of perfection of form and ‘authority’ which are not easy to
+     transfer into the field of morals. Here I am not sure if this is an
+     analogy or an instance. It is as if we can see beauty itself in a way
+     in which we cannot see goodness itself. (Plato says this at Phaedrus
+     250e.) I can experience the transcendence of the beautiful, but (I
+     think) not the transcendence of the good. Beautiful things contain beauty in a way in which good acts do not exactly contain
+     good, because beauty is partly a matter of the senses. So if we
+     speak of good as transcendent we are speaking of something
+     rather more complicated and which cannot be experienced,
+
+=== p. 59 ===
+
+even when we see the unselfish man in the concentration camp.
+One might be tempted to use the word ‘faith’ here if it could be
+purged of its religious associations. ‘What is truly good is incorruptible and indestructible.’ ‘Goodness is not in this world.’
+These sound like highly metaphysical statements. Can we give
+them any clear meaning or are they just things one ‘feels
+inclined to say’?
+   I think the idea of transcendence here connects with two
+separate ideas, both of which I will be further concerned with
+below perfection and certainty. Are we not certain that there is a ‘true
+direction’ towards better conduct, that goodness ‘really matters’,
+and does not that certainty about a standard suggest an idea of
+permanence which cannot be reduced to psychological or any
+other set of empirical terms? It is true, and this connects with
+considerations already put forward under the heading of ‘attention’, that there is a psychological power which derives from the
+mere idea of a transcendent object, and one might say further
+from a transcendent object which is to some extent mysterious.
+But a reductive analysis in, for instance, Freudian terms, or Marx-ist terms, seems properly to apply here only to a degenerate form
+of a conception about which one remains certain that a higher
+and invulnerable form must exist. The idea admittedly remains
+very difficult. How is one to connect the realism which must
+involve a clear-eyed contemplation of the misery and evil of the
+world with a sense of an uncorrupted good without the latter
+idea becoming the merest consolatory dream? (I think this puts
+a central problem in moral philosophy.) Also, what is it for
+someone, who is not a religious believer and not some sort of
+mystic, to apprehend some separate ‘form’ of goodness behind
+the multifarious cases of good behaviour? Should not this idea
+be reduced to the much more intelligible notion of the interrelation of the virtues, plus a purely subjective sense of the certainty
+of judgments?
+   At this point the hope of answering these questions might
+
+=== p. 60 ===
+
+     lead us on to consider the next, and closely related ‘attributes’:
+     perfection (absolute good) and necessary existence. These attributes are
+     indeed so closely connected that from some points of view they
+     are the same. (Ontological proof.) It may seem curious to wonder whether the idea of perfection (as opposed to the idea of
+     merit or improvement) is really an important one, and what sort
+     of role it can play. Well, is it important to measure and compare
+     things and know just how good they are? In any field which
+     interests or concerns us I think we would say yes. A deep understanding of any field of human activity (painting, for instance)
+     involves an increasing revelation of degrees of excellence and
+     often a revelation of there being in fact little that is very good
+     and nothing that is perfect. Increasing understanding of human
+     conduct operates in a similar way. We come to perceive scales,
+     distances, standards, and may incline to see as less than excellent
+     what previously we were prepared to ‘let by’. (This need not of
+     course hinder the operation of the virtue of tolerance: tolerance
+     can be, indeed ought to be, clear-sighted.) The idea of perfection
+     works thus within a field of study, producing an increasing sense
+     of direction. To say this is not perhaps to say anything very
+     startling; and a reductionist might argue that an increasingly
+     refined ability to compare need not imply anything beyond
+     itself. The idea of perfection might be, as it were, empty.
+        Let us consider the case of conduct. What of the command ‘Be
+     ye therefore perfect?’ Would it not be more sensible to say ‘Be ye
+     therefore slightly improved?’ Some psychologists warn us that if
+     our standards are too high we shall become neurotic. It seems to
+     me that the idea of love arises necessarily in this context. The
+     idea of perfection moves, and possibly changes, us (as artist,
+     worker, agent) because it inspires love in the part of us that is
+     most worthy. One cannot feel unmixed love for a mediocre
+     moral standard any more than one can for the work of a mediocre artist. The idea of perfection is also a natural producer of
+     order. In its light we come to see that A, which superficially
+
+=== p. 61 ===
+
+resembles B, is really better than B. And this can occur, indeed
+must occur, without our having the sovereign idea in any sense
+‘taped’. In fact it is in its nature that we cannot get it taped. This
+is the true sense of the ‘indefinability’ of the good; which was
+given a vulgar sense by Moore and his followers. It lies always
+beyond, and it is from this beyond that it exercises its authority.
+Here again the word seems naturally in place, and it is in the
+work of artists that we see the operation most clearly. The true
+artist is obedient to a conception of perfection to which his work
+is constantly related and re-related in what seems an external
+manner. One may of course try to ‘incarnate’ the idea of perfection by saying to oneself ‘I want to write like Shakespeare’ or ‘I
+want to paint like Piero’. But of course one knows that Shake-speare and Piero, though almost gods, are not gods, and that one
+has got to do the thing oneself alone and differently, and that
+beyond the details of craft and criticism there is only the magnetic non-representable idea of the good which remains not
+‘empty’ so much as mysterious. And thus too in the sphere of
+human conduct.
+   It will be said perhaps: are these not simply empirical generalizations about the psychology of effort or improvement, or what
+status do you wish them to have? Is it just a matter of ‘this works’
+or ‘it is as if this were so’? Let us consider what, if our subject of
+discussion were not Good but God, the reply might be. God
+exists necessarily. Everything else which exists exists contingently.
+What can this mean? I am assuming that there is no plausible
+‘proof ’ of the existence of God except some form of the ontological proof, a ‘proof ’ incidentally which must now take on an
+increased importance in theology as a result of the recent ‘demythologizing’. If considered carefully, however, the ontological
+proof is seen to be not exactly a proof but rather a clear assertion
+of faith (it is often admitted to be appropriate only for those
+already convinced), which could only confidently be made on
+the basis of a certain amount of experience. This assertion could
+
+=== p. 62 ===
+
+     be put in various ways. The desire for God is certain to receive a
+     response. My conception of God contains the certainty of its
+     own reality. God is an object of love which uniquely excludes
+     doubt and relativism. Such obscure statements would of course
+     receive little sympathy from analytical philosophers, who would
+     divide their content between psychological fact and metaphysical nonsense, and who might remark that one might just as
+     well take ‘I know that my Redeemer liveth’, as asserted by Handel,
+     as a philosophical argument. Whether they are right about ‘God’
+     I leave aside: but what about the fate of ‘Good’? The difficulties
+     seem similar. What status can we give to the idea of certainty
+     which does seem to attach itself to the idea of good? Or to the
+     notion that we must receive a return when good is sincerely
+     desired? (The concept of grace can be readily secularized.) What
+     is formulated here seems unlike an ‘as if ’ or a ‘it works’. Of
+     course one must avoid here, as in the case of God, any heavy
+     material connotation of the misleading word ‘exist’. Equally,
+     however, a purely subjective conviction of certainty, which
+     could receive a ready psychological explanation, seems less than
+     enough. Could the problem really be subdivided without residue by a careful linguistic analyst into parts which he would
+     deem innocuous?
+        A little light may be thrown on the matter if we return now,
+     after the intervening discussion, to the idea of ‘realism’ which was
+     used earlier in a normative sense: that is, it was assumed that it
+     was better to know what was real than to be in a state of fantasy
+     or illusion. It is true that human beings cannot bear much reality; and a consideration of what the effort to face reality is like,
+     and what are its techniques, may serve both to illuminate the
+     necessity or certainty which seems to attach to ‘the Good’; and
+     also to lead on to a reinterpretation of ‘will’ and ‘freedom’ in
+     relation to the concept of love. Here again it seems to me that art
+     is the clue. Art presents the most comprehensible examples of
+     the almost irresistible human tendency to seek consolation in
+
+=== p. 63 ===
+
+fantasy and also of the effort to resist this and the vision of reality
+which comes with success. Success in fact is rare. Almost all art is
+a form of fantasy-consolation and few artists achieve the vision
+of the real. The talent of the artist can be readily, and is naturally,
+employed to produce a picture whose purpose is the consolation
+and aggrandizement of its author and the projection of his personal obsessions and wishes. To silence and expel self, to contemplate and delineate nature with a clear eye, is not easy and
+demands a moral discipline. A great artist is, in respect of his
+work, a good man, and, in the true sense, a free man. The consumer of art has an analogous task to its producer: to be disciplined enough to see as much reality in the work as the artist has
+succeeded in putting into it, and not to ‘use it as magic’. The
+appreciation of beauty in art or nature is not only (for all its
+difficulties) the easiest available spiritual exercise; it is also a
+completely adequate entry into (and not just analogy of ) the
+good life, since it is the checking of selfishness in the interest of
+seeing the real. Of course great artists are ‘personalities’ and have
+special styles; even Shakespeare occasionally, though very
+occasionally, reveals a personal obsession. But the greatest art is
+‘impersonal’ because it shows us the world, our world and not
+another one, with a clarity which startles and delights us simply
+because we are not used to looking at the real world at all. Of
+course, too, artists are pattern-makers. The claims of form and
+the question of ‘how much form’ to elicit constitutes one of the
+chief problems of art. But it is when form is used to isolate, to
+explore, to display something which is true that we are most
+highly moved and enlightened. Plato says (Republic, VII, 532) that
+the technai have the power to lead the best part of the soul to the
+view of what is most excellent in reality. This well describes the
+role of great art as an educator and revealer. Consider what we
+learn from contemplating the characters of Shakespeare or
+Tolstoy or the paintings of Velasquez or Titian. What is learnt
+here is something about the real quality of human nature, when
+
+=== p. 64 ===
+
+     it is envisaged, in the artist’s just and compassionate vision, with
+     a clarity which does not belong to the self-centred rush of
+     ordinary life.
+         It is important too that great art teaches us how real things can
+     be looked at and loved without being seized and used, without
+     being appropriated into the greedy organism of the self. This
+     exercise of detachment is difficult and valuable whether the thing
+     contemplated is a human being or the root of a tree or the
+     vibration of a colour or a sound. Unsentimental contemplation
+     of nature exhibits the same quality of detachment: selfish concerns vanish, nothing exists except the things which are seen.
+     Beauty is that which attracts this particular sort of unselfish
+     attention. It is obvious here what is the role, for the artist or
+     spectator, of exactness and good vision: unsentimental,
+     detached, unselfish, objective attention. It is also clear that in
+     moral situations a similar exactness is called for. I would suggest
+     that the authority of the Good seems to us something necessary
+     because the realism (ability to perceive reality) required for
+     goodness is a kind of intellectual ability to perceive what is true,
+     which is automatically at the same time a suppression of self. The
+     necessity of the good is then an aspect of the kind of necessity involved in any
+     technique for exhibiting fact. In thus treating realism, whether of artist
+     or of agent, as a moral achievement, there is of course a further
+     assumption to be made in the fields of morals: that true vision
+     occasions right conduct. This could be uttered simply as an
+     enlightening tautology: but I think it can in fact be supported by
+     appeals to experience. The more the separateness and differentness of other people is realized, and the fact seen that another
+     man has needs and wishes as demanding as one’s own, the
+     harder it becomes to treat a person as a thing. That it is realism
+     which makes great art great remains too as a kind of proof.
+         If, still led by the clue of art, we ask further questions about
+     the faculty which is supposed to relate us to what is real and thus
+     bring us to what is good, the idea of compassion or love will be
+
+=== p. 65 ===
+
+naturally suggested. It is not simply that suppression of self is
+required before accurate vision can be obtained. The great artist
+sees his objects (and this is true whether they are sad, absurd,
+repulsive or even evil) in a light of justice and mercy. The direction of attention is, contrary to nature, outward, away from self
+which reduces all to a false unity, towards the great surprising
+variety of the world, and the ability so to direct attention is love.
+   One might at this point pause and consider the picture of
+human personality, or the soul, which has been emerging. It is in
+the capacity to love, that is to see, that the liberation of the soul
+from fantasy consists. The freedom which is a proper human
+goal is the freedom from fantasy, that is the realism of compassion. What I have called fantasy, the proliferation of blinding
+self-centred aims and images, is itself a powerful system of
+energy, and most of what is often called ‘will’ or ‘willing’
+belongs to this system. What counteracts the system is attention
+to reality inspired by, consisting of, love. In the case of art and
+nature such attention is immediately rewarded by the enjoyment
+of beauty. In the case of morality, although there are sometimes
+rewards, the idea of a reward is out of place. Freedom is not
+strictly the exercise of the will, but rather the experience of
+accurate vision which, when this becomes appropriate, occasions action. It is what lies behind and in between actions and
+prompts them that is important, and it is this area which should
+be purified. By the time the moment of choice has arrived the
+quality of attention has probably determined the nature of the
+act. This fact produces that curious separation between consciously rehearsed motives and action which is sometimes
+wrongly taken as an experience of freedom. (Angst.) Of course
+this is not to say that good ‘efforts of will’ are always useless or
+always fakes. Explicit and immediate ‘willing’ can play some
+part, especially as an inhibiting factor. (The daemon of Socrates
+only told him what not to do.)
+   In such a picture sincerity and self-knowledge, those popular
+
+=== p. 66 ===
+
+     merits, seem less important. It is an attachment to what lies
+     outside the fantasy mechanism, and not a scrutiny of the mechanism itself, that liberates. Close scrutiny of the mechanism often
+     merely strengthens its power. ‘Self-knowledge’, in the sense of a
+     minute understanding of one’s own machinery, seems to me,
+     except at a fairly simple level, usually a delusion. A sense of such
+     self-knowledge may of course be induced in analysis for therapeutic reasons, but ‘the cure’ does not prove the alleged knowledge genuine. Self is as hard to see justly as other things, and
+     when clear vision has been achieved, self is a correspondingly
+     smaller and less interesting object. A chief enemy to such clarity
+     of vision, whether in art or morals, is the system to which the
+     technical name of sado-masochism has been given. It is the
+     peculiar subtlety of this system that, while constantly leading
+     attention and energy back into the self, it can produce, almost all
+     the way as it were to the summit, plausible imitations of what is
+     good. Refined sado-masochism can ruin art which is too good
+     to be ruined by the cruder vulgarities of self-indulgence. One’s
+     self is interesting, so one’s motives are interesting, and the
+     unworthiness of one’s motives is interesting. Fascinating too is
+     the alleged relation of master to slave, of the good self to the bad
+     self which, oddly enough, ends in such curious compromises.
+     (Kafka’s struggle with the devil which ends up in bed.) The bad
+     self is prepared to suffer but not to obey until the two selves are
+     friends and obedience has become reasonably easy or at least
+     amusing. In reality the good self is very small indeed, and most
+     of what appears good is not. The truly good is not a friendly
+     tyrant to the bad, it is its deadly foe. Even suffering itself can play
+     a demonic role here, and the ideas of guilt and punishment can
+     be the most subtle tool of the ingenious self. The idea of suffering confuses the mind and in certain contexts (the context of
+     ‘sincere self-examination’ for instance) can masquerade as a
+     purification. It is rarely this, for unless it is very intense indeed it
+     is far too interesting. Plato does not say that philosophy is the
+
+=== p. 67 ===
+
+study of suffering, he says it is the study of death (Phaedo 64a),
+and these ideas are totally dissimilar. That moral improvement
+involves suffering is usually true; but the suffering is the byproduct of a new orientation and not in any sense an end in
+itself.
+   I have spoken of the real which is the proper object of love,
+and of knowledge which is freedom. The word ‘good’ which
+has been moving about in the discussion should now be more
+explicitly considered. Can good itself be in any sense ‘an object
+of attention’? And how does this problem relate to ‘love of the
+real’? Is there, as it were, a substitute for prayer, that most profound and effective of religious techniques? If the energy and
+violence of will, exerted on occasions of choice, seems less
+important than the quality of attention which determines our
+real attachments, how do we alter and purify that attention and
+make it more realistic? Is the via negativa of the will, its occasional
+ability to stop a bad move, the only or most considerable conscious power that we can exert? I think there is something
+analogous to prayer, though it is something difficult to describe,
+and which the higher subtleties of the self can often falsify; I am
+not here thinking of any quasi-religious meditative technique,
+but of something which belongs to the moral life of the ordinary person. The idea of contemplation is hard to understand and
+maintain in a world increasingly without sacraments and ritual
+and in which philosophy has (in many respects rightly) destroyed the old substantial conception of the self. A sacrament
+provides an external visible place for an internal invisible act of
+the spirit. Perhaps one needs too an analogy of the concept of the
+sacrament, though this must be treated with great caution.
+Behaviouristic ethics denies the importance, because it questions
+the identity, of anything prior to or apart from action which
+decisively occurs, ‘in the mind’. The apprehension of beauty, in
+art or in nature, often in fact seems to us like a temporally
+located spiritual experience which is a source of good energy. It
+
+=== p. 68 ===
+
+     is not easy, however, to extend the idea of such an influential
+     experience to occasions of thinking about people or action, since
+     clarity of thought and purity of attention become harder and
+     more ambiguous when the object of attention is something
+     moral.
+        It is here that it seems to me to be important to retain the idea
+     of Good as a central point of reflection, and here too we may see
+     the significance of its indefinable and non-representable character. Good, not will is transcendent. Will is the natural energy of the
+     psyche which is sometimes employable for a worthy purpose.
+     Good is the focus of attention when an intent to be virtuous coexists (as perhaps it almost always does) with some unclarity of
+     vision. Here, as I have said earlier, beauty appears as the visible
+     and accessible aspect of the Good. The Good itself is not visible.
+     Plato pictured the good man as eventually able to look at the sun.
+     I have never been sure what to make of this part of the myth.
+     While it seems proper to represent the Good as a centre or focus
+     of attention, yet it cannot quite be thought of as a ‘visible’ one in
+     that it cannot be experienced or represented or defined. We can
+     certainly know more or less where the sun is; it is not so easy to
+     imagine what it would be like to look at it. Perhaps indeed only
+     the good man knows what this is like; or perhaps to look at the
+     sun is to be gloriously dazzled and to see nothing. What does
+     seem to make perfect sense in the Platonic myth is the idea of the
+     Good as the source of light which reveals to us all things as they
+     really are. All just vision, even in the strictest problems of the
+     intellect, and a fortiori when suffering or wickedness have to be
+     perceived, is a moral matter. The same virtues, in the end the
+     same virtue (love), are required throughout, and fantasy (self )
+     can prevent us from seeing a blade of grass just as it can prevent
+     us from seeing another person. An increasing awareness of
+     ‘goods’ and the attempt (usually only partially successful) to
+     attend to them purely, without self, brings with it an increasing
+     awareness of the unity and interdependence of the moral
+
+=== p. 69 ===
+
+world. One-seeking intelligence is the image of ‘faith’. Consider
+what it is like to increase one’s understanding of a great work
+of art.
+   I think it is more than a verbal point to say that what should be
+aimed at is goodness, and not freedom or right action, although
+right action, and freedom in the sense of humility, are the natural products of attention to the Good. Of course right action is
+important in itself, with an importance which is not difficult to
+understand. But it should provide the starting-point of reflection
+and not its conclusion. Right action, together with the steady
+extension of the area of strict obligation, is a proper criterion of
+virtue. Action also tends to confirm, for better or worse, the
+background of attachment from which it issues. Action is an
+occasion for grace, or for its opposite. However, the aim of morality cannot be simply action. Without some more positive conception of the soul as a substantial and continually developing
+mechanism of attachments, the purification and reorientation of
+which must be the task of morals, ‘freedom’ is readily corrupted
+into self-assertion and ‘right action’ into some sort of ad hoc
+utilitarianism. If a scientifically minded empiricism is not to
+swallow up the study of ethics completely, philosophers must
+try to invent a terminology which shows how our natural
+psychology can be altered by conceptions which lie beyond its
+range. It seems to me that the Platonic metaphor of the idea of
+the Good provides a suitable picture here. With this picture must
+of course be joined a realistic conception of natural psychology
+(about which almost all philosophers seem to me to have been
+too optimistic) and also an acceptance of the utter lack of finality
+in human life. The Good has nothing to do with purpose, indeed
+it excludes the idea of purpose. ‘All is vanity’ is the beginning
+and the end of ethics. The only genuine way to be good is to be
+good ‘for nothing’ in the midst of a scene where every ‘natural’
+thing, including one’s own mind, is subject to chance, that is, to
+necessity. That ‘for nothing’ is indeed the experienced correlate
+
+=== p. 70 ===
+
+     of the invisibility or non-representable blankness of the idea of
+     Good itself.
+        I have suggested that moral philosophy needs a new and, to
+     my mind, more realistic, less romantic, terminology if it is to
+     rescue thought about human destiny from a scientifically
+     minded empiricism which is not equipped to deal with the real
+     problems. Linguistic philosophy has already begun to join hands
+     with such an empiricism, and most existentialist thinking seems
+     to me either optimistic romancing or else something positively
+     Luciferian. (Possibly Heidegger is Lucifer in person.) However,
+     at this point someone might say, all this is very well, the only
+     difficulty is that none of it is true. Perhaps indeed all is vanity, all
+     is vanity, and there is no respectable intellectual way of protecting people from despair. The world just is hopelessly evil and
+     should you, who speak of realism, not go all the way towards
+     being realistic about this? To speak of Good in this portentous
+     manner is simply to speak of the old concept of God in a thin
+     disguise. But at least ‘God’ could play a real consoling and
+     encouraging role. It makes sense to speak of loving God, a person, but very little sense to speak of loving Good, a concept.
+     ‘Good’ even as a fiction is not likely to inspire, or even be comprehensible to, more than a small number of mystically minded
+     people who, being reluctant to surrender ‘God’, fake up ‘Good’
+     in his image, so as to preserve some kind of hope. The picture is
+     not only purely imaginary, it is not even likely to be effective. It
+     is very much better to rely on simple popular utilitarian and
+     existentialist ideas, together with a little empirical psychology,
+     and perhaps some doctored Marxism, to keep the human race
+     going. Day-to-day empirical common sense must have the last
+     word. All specialized ethical vocabularies are false. The old
+     serious metaphysical quest had better now be let go, together
+     with the out-dated concept of God the Father.
+        I am often more than half persuaded to think in these terms
+     myself. It is frequently difficult in philosophy to tell whether one
+
+=== p. 71 ===
+
+is saying something reasonably public and objective, or whether
+one is merely erecting a barrier, special to one’s own temperament, against one’s own personal fears. (It is always a significant
+question to ask about any philosopher: what is he afraid of?) Of
+course one is afraid that the attempt to be good may turn out to
+be meaningless, or at best something vague and not very
+important, or turn out to be as Nietzsche described it, or that the
+greatness of great art may be an ephemeral illusion. Of the ‘status’ of my arguments I will speak briefly below. That a glance at
+the scene prompts despair is certainly the case. The difficulty
+indeed is to look at all. If one does not believe in a personal God
+there is no ‘problem’ of evil, but there is the almost insuperable
+difficulty of looking properly at evil and human suffering. It is
+very difficult to concentrate attention upon suffering and sin, in
+others or in oneself, without falsifying the picture in some way
+while making it bearable. (For instance, by the sado-masochistic
+devices I mentioned earlier.) Only the very greatest art can manage it, and that is the only public evidence that it can be done at
+all. Kant’s notion of the sublime, though extremely interesting,
+possibly even more interesting than Kant realized, is a kind of
+romanticism. The spectacle of huge and appalling things can
+indeed exhilarate, but usually in a way that is less than excellent.
+Much existentialist thought relies upon such a ‘thinking reed’
+reaction which is nothing more than a form of romantic self-assertion. It is not this which will lead a man on to unselfish
+behaviour in the concentration camp. There is, however, something in the serious attempt to look compassionately at human
+things which automatically suggests that ‘there is more than
+this’. The ‘there is more than this’, if it is not to be corrupted by
+some sort of quasi-theological finality, must remain a very tiny
+spark of insight, something with, as it were, a metaphysical position but no metaphysical form. But it seems to me that the spark
+is real, and that great art is evidence of its reality. Art indeed, so
+far from being a playful diversion of the human race, is the place
+
+=== p. 72 ===
+
+     of its most fundamental insight, and the centre to which the
+     more uncertain steps of metaphysics must constantly return.
+        As for the élite of mystics, I would say no to the term ‘élite’.
+     Of course philosophy has its own terminology, but what it
+     attempts to describe need not be, and I think is not in this case,
+     removed from ordinary life. Morality has always been connected
+     with religion and religion with mysticism. The disappearance of
+     the middle term leaves morality in a situation which is certainly
+     more difficult but essentially the same. The background to
+     morals is properly some sort of mysticism, if by this is meant a
+     non-dogmatic essentially un-formulated faith in the reality of
+     the Good, occasionally connected with experience. The virtuous
+     peasant knows, and I believe he will go on knowing, in spite of
+     the removal or modification of the theological apparatus,
+     although what he knows he might be at a loss to say. This view is
+     of course not amenable even to a persuasive philosophical proof
+     and can easily be challenged on all sorts of empirical grounds.
+     However, I do not think that the virtuous peasant will be without
+     resources. Traditional Christian superstition has been compatible
+     with every sort of conduct from bad to good. There will doubtless be new superstitions; and it will remain the case that some
+     people will manage effectively to love their neighbours. I think
+     the ‘machinery of salvation’ (if it exists) is essentially the same
+     for all. There is no complicated secret doctrine. We are all capable
+     of criticizing, modifying and extending the area of strict obligation which we have inherited. Good is non-representable and
+     indefinable. We are all mortal and equally at the mercy of necessity and chance. These are the true aspects in which all men are
+     brothers.
+        On the status of the argument there is perhaps little, or else
+     too much, to say. In so far as there is an argument it has already,
+     in a compressed way, occurred. Philosophical argument is
+     almost always inconclusive, and this one is not of the most rigorous kind. This is not a sort of pragmatism or a philosophy of
+
+=== p. 73 ===
+
+‘as if ’. If someone says, ‘Do you then believe that the Idea of the
+Good exists?’ I reply, ‘No, not as people used to think that God
+existed.’ All one can do is to appeal to certain areas of experience
+pointing out certain features, and using suitable metaphors and
+inventing suitable concepts where necessary to make these features visible. No more, and no less, than this is done by the most
+empirically minded of linguistic philosophers. As there is no
+philosophical or scientific proof of total determinism the notion
+is at least allowable that there is a part of the soul which is free
+from the mechanism of empirical psychology. I would wish to
+combine the assertion of such a freedom with a strict and largely
+empirical view of the mechanism itself. Of the very small area of
+‘freedom’, that in us which attends to the real and is attracted by
+the good, I would wish to give an equally rigorous and perhaps
+pessimistic account.
+   I have not spoken of the role of love in its everyday manifestations. If one is going to speak of great art as ‘evidence’, is not
+ordinary human love an even more striking evidence of a transcendent principle of good? Plato was prepared to take it as a
+starting-point. (There are several starting-points.) One cannot
+but agree that in some sense this is the most important thing of
+all; and yet human love is normally too profoundly possessive
+and also too ‘mechanical’ to be a place of vision. There is a
+paradox here about the nature of love itself. That the highest love
+is in some sense impersonal is something which we can
+indeed see in art, but which I think we cannot see clearly,
+except in a very piecemeal manner, in the relationships of
+human beings. Once again the place of art is unique. The
+image of the Good as a transcendent magnetic centre seems to
+me the least corruptible and most realistic picture for us to use
+in our reflections upon the moral life. Here the philosophical
+‘proof ’, if there is one, is the same as the moral ‘proof ’. I
+would rely especially upon arguments from experience concerned with the realism which we perceive to be connected
+
+=== p. 74 ===
+
+     with goodness, and with the love and detachment which is
+     exhibited in great art.
+        I have throughout this paper assumed that ‘there is no God’
+     and that the influence of religion is waning rapidly. Both these
+     assumptions may be challenged. What seems beyond doubt is
+     that moral philosophy is daunted and confused, and in many
+     quarters discredited and regarded as unnecessary. The vanishing
+     of the philosophical self, together with the confident filling in of
+     the scientific self, has led in ethics to an inflated and yet empty
+     conception of the will, and it is this that I have been chiefly
+     attacking. I am not sure how far my positive suggestions make
+     sense. The search for unity is deeply natural, but like so many
+     things which are deeply natural may be capable of producing
+     nothing but a variety of illusions. What I feel sure of is the
+     inadequacy, indeed the inaccuracy, of utilitarianism, linguistic
+     behaviourism, and current existentialism in any of the forms
+     with which I am familiar. I also feel sure that moral philosophy
+     ought to be defended and kept in existence as a pure activity, or
+     fertile area, analogous in importance to unapplied mathematics
+     or pure ‘useless’ historical research. Ethical theory has affected
+     society, and has reached as far as to the ordinary man, in the
+     past, and there is no good reason to think that it cannot do so in
+     the future. For both the collective and the individual salvation of
+     the human race, art is doubtless more important than philosophy, and literature most important of all. But there can be no
+     substitute for pure, disciplined, professional speculation: and it
+     is from these two areas, art and ethics, that we must hope to
+     generate concepts worthy, and also able, to guide and check the
+     increasing power of science.
+

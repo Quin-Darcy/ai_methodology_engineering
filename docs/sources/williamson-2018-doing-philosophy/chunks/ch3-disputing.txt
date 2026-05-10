@@ -1,0 +1,469 @@
+=== chunk: williamson-2018-doing-philosophy/ch3-disputing ===
+title: Disputing
+source_pdf: docs/sources/williamson-2018-doing-philosophy/full.pdf
+pdf_pages: 30-45
+page_scheme: book
+plan_page_start: 19
+plan_page_end: 34
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 19 ===
+
+                                
+                       Disputing
+
+                Two Sides of an Argument
+Conferences on philosophy have much in common with academic conferences on anything else. But in one way they differ.
+Amongst philosophers, a lecture often matters less than what
+follows—‘Q&A’, the question-and-answer period. That is when
+the speaker’s arguments and conclusions are put to the test.
+Questioners propose counterexamples, allege fallacies, discern
+ambiguities. In response, the speaker fights for the life of their
+cherished ideas. Exchanges continue, back and forth, over several
+turns. The rest of the audience watches and listens keenly, as if
+following a chess match, trying to work out who’s winning.
+Sometimes a draw is offered with the words “It’s a stand-off”
+and tacitly accepted; sometimes the chair intervenes to cut short
+a stalemate. There is a code of signals to the chair: a raised hand
+means a new question, a raised finger a follow-up on the current
+point. A serious conference may schedule an hour for Q&A after
+each talk.
+
+=== p. 20 ===
+
+ Disputing
+
+   When it comes to the outcome, the chess analogy is misleading, since it suggests that, once the exchange is over, it’s always
+clear who won. But the rules of argument are much less clear than
+the rules of chess, and can themselves be disputed, so two sides
+may disagree on the legitimacy or effect of a move. The chair is no
+umpire or referee, and doesn’t rule on such matters. There may be
+no consensus on who had the better of the exchange. Perceptions
+can depend on prior theoretical commitments. Indeed, the
+exchange may itself have been partly or wholly on the legitimacy
+of moves in the lecture.
+   Some philosophers are unhappy with this model of philosophical discussion as gladiatorial combat. Those who lack the confidence to step into the arena are consigned to the passive role of
+mere spectators, yet self-confidence is not highly correlated with
+insight. What has single combat to do with the search for truth?
+There is something to such worries. When the philosophical
+climate goes bad, aggressive bluster or suave sophistry can silence
+careful reasoning. But to discourage sharp-edged questions only
+exacerbates matters, by making it easier for high-prestige speakers
+to bluff, and get away with bad arguments.
+   If the emperor has no clothes, everyone should feel entitled to
+say so. I once heard a lecture by a well-known scholar of the
+philosopher Friedrich Nietzsche (–), urging that
+Nietzsche’s philosophy is not mere academic theorizing; if taken
+seriously, it transforms one’s life into something radically different
+and unconventional. In Q&A, an undergraduate asked him how
+come in that case he was a professor of philosophy delivering an
+academic lecture in the conventional way to a student philosophy
+society. The Nietzsche scholar was huffily dismissive: “I don’t see
+
+=== p. 21 ===
+
+                                                         Disputing 
+
+the relevance of that question”. Everyone else in the room did. The
+emperor may not enjoy being told he has no clothes, but he can
+still benefit; he may even take the radical step of getting some. As
+for the Nietzsche scholar, twenty years on he remains a professor
+of philosophy in the same respectable department, regularly publishing academic volumes on his usual themes.
+    Admittedly, I gave a very partial view of philosophical discussion. I presented it as a zero-sum game, where one party’s gain
+always equals the other party’s loss. Many exchanges in Q&A are
+straightforwardly cooperative. Audience members may suggest
+additional evidence for the speaker’s idea, or new applications of
+it, or ways to generalize it, or modifications of it in the spirit of the
+speaker’s aims, or ways to simplify a supporting argument. The
+threat of an objection does not always lurk behind a request for
+clarification.
+    Nevertheless, the phenomenon of two sides arguing against
+each other is too central to philosophical practice to be dismissed
+as misbehaviour. Moreover, it is connected with the starting point
+of philosophy. For how is one to discover the limitations of one’s
+common sense, and get beyond them? A natural answer is: by
+meeting someone whose common sense is in conflict with one’s
+own. By arguing with each other, both sides have the opportunity
+to test the strengths and weaknesses of their starting points.
+    In politics, it is sometimes wise to brush disagreements under
+the carpet, since the alternative may be disunity or even violence.
+Intellectual inquiry does not flourish under those conditions. It
+requires relevant disagreements to be got out into the open, not
+muffled up. I have occasionally experienced philosophical cultures in which hard criticism was frowned on. They were deeply
+
+=== p. 22 ===
+
+ Disputing
+
+hierarchical: those lower down the hierarchy were not supposed
+to question those higher up. It is an ideal habitat for error.
+   A feel-good slogan is that discussion should be constructive,
+not destructive. It sounds like a platitude, but imagine telling city
+planners that they should always build houses and never knock
+them down. What happens when space is in short supply and
+filling up with bad housing? In philosophy, good and bad ideas
+compete for attention, which is also in limited supply. Of course,
+the slogan that discussion should be destructive, not constructive,
+would be far worse, but we need to get beyond such simplistic
+slogans if we are to understand better what kinds of discussion
+will help us most to answer philosophical questions correctly.
+
+                   Adversarial Philosophy
+A useful comparison is with the adversarial system for settling
+legal disputes. Each side has an advocate, to argue its case as
+strongly and effectively as possible. In a criminal trial, there is
+the prosecution and the defence. This is one widespread format
+for getting at the truth in cases of disagreement. The idea is to
+ensure that each side gets a fair hearing. For that to work properly,
+each side must be competently represented, by someone willing
+and able to find and present the favourable evidence and arguments. The system has obvious disadvantages, for instance when
+one side is more competently represented than the other. But it
+also has advantages over the system of the single investigating
+magistrate. For even the fairest of magistrates is still human, and
+may reach premature conclusions, become demotivated from
+
+=== p. 23 ===
+
+                                                     Disputing 
+
+pursuing alternative lines of inquiry, and so miss the truth. The
+adversarial system is well designed to provide adequate motivation
+for each side of the argument. Similar considerations apply to
+philosophical disputes. Although lawyers argue on the side that
+pays them, while philosophers usually argue on the side of their
+intellectual sympathies, both have strong incentives to argue well.
+   Like defence and prosecution lawyers, philosophers often
+argue for what others see as a lost cause. The reason is different,
+though: typically, they become over-attached to their own ideas.
+This is not a peculiarity of philosophers: it is a natural human
+trait. With pardonable exaggeration, the great physicist Max
+Planck said that truth triumphs in science not because its opponents are won over, but because they die. Such obstinacy is not all
+bad; it ensures that ideas are given every chance to overcome
+criticisms, rather than being abandoned prematurely. When two
+senior philosophers argue some issue out with each other in
+public, with prestige at stake, it is often clear that neither of
+them will ever persuade the other; even so, it is not a waste of
+time if there are uncommitted students in the audience, making
+up their own minds as to which of the two is having the better of
+the argument.
+   Sometimes, even more like lawyers, philosophers argue on
+behalf of an idea they do not really believe in, just because they
+think it deserves to be taken seriously.
+   The legal comparison reminds us that court cases, under both
+adversarial and non-adversarial systems, often result in unjust
+verdicts. The challenge is to find specific changes in procedure
+that would make such verdicts less likely—just saying that courts
+
+=== p. 24 ===
+
+ Disputing
+
+must proceed constructively would not help. Similarly, error
+often triumphs over truth in philosophical debate. The challenge
+is to find specific changes in procedure that would make such
+results less likely. I wish I knew how to meet that challenge.
+    The adversarial system requires a judge and perhaps jury to
+adjudicate between the two sides, to reach a decision. In philosophy, there is less urgency about reaching a decision than in the
+courts, but insofar as anything plays the role of judge and jury, it
+is the wider community of philosophers. The first requirement for
+it to play that role is a disposition to listen carefully to what all
+parties say. The second requirement is an appreciation of the rules
+of argument. I know many philosophical communities that do
+well—though very far from perfectly—on both scores. Because
+such virtues are prized, each generation tends to learn them from
+its predecessors. Of course, they are by no means exclusive to
+philosophy. Education by its nature favours and inculcates the
+ability to attend carefully to what is said. Likewise, education and
+experience in any academic discipline foster appreciation of the
+rules of the types of argument characteristic of that discipline—
+for instance, in the case of mathematics, the rules of mathematical
+proof. In philosophy, interpersonal disputation plays such a large
+role that philosophers unsurprisingly tend to have an unusually
+sensitive appreciation of its underlying rules.
+    When careful listening and appreciation of the rules of argument are widespread in a community, bullying, bluff, and sophistry are typically counterproductive, because they make the
+perpetrator look stupid. There is a corresponding incentive for
+those with good points to make them, because they can expect to
+be listened to.
+
+=== p. 25 ===
+
+                                                        Disputing 
+
+    Naturally, there is also the fear that, if you make what feels to
+you like a good point, it may be found out by others to be a bad
+point after all. Some level of such a fear is no bad thing, since it
+comes with a capacity for self-criticism and a respect for the
+intelligence of others. But too much fear is paralysing. What can
+help is that philosophers experienced in listening carefully and
+applying the rules of argument learn how hard philosophy is, how
+easy it is for even the best philosophers to go wrong, and so are
+less inclined to judge someone on the basis of one misfire.
+    To say that a philosophical culture of interpersonal argumentation encourages competition instead of cooperation is like
+saying that a chess club encourages competition instead of
+cooperation. There’s some truth in it, but it’s a facile contrast.
+Chess is a competitive game, with one player winning if and only
+if the other loses, but the club itself is a cooperative venture of its
+members, and even a single game of chess involves cooperation
+between the players, because both want to play, for pleasure or
+reputation or to improve at chess. Similarly, although there are
+winners and losers in some philosophical disputes, the institution
+of philosophy is a cooperative venture of philosophers, and even
+a single philosophical dispute involves cooperation between the
+disputants because both want to argue the point. Indeed, although
+chess does not primarily aim at knowledge in the way philosophy
+may primarily aim at knowledge, games of chess do in fact add to
+knowledge, for instance of which positions are wins for black.
+Similarly, philosophical disputes add to knowledge, at the very
+least of which philosophical positions are defensible. Both philosophers in a dispute may improve their theories as a result, even if
+they still disagree.
+
+=== p. 26 ===
+
+   Disputing
+
+                          Logic Games
+There is nothing new about the role of interpersonal dispute as a
+medium for philosophy. In medieval scholastic philosophy, oral
+disputations were formalized as a sort of game, obligationes, played
+in Latin, with rules almost as formal as those of chess. One side
+had to argue for a statement, the other side against it, in accordance with the strict rules of medieval logic, most of which are still
+recognized as valid. Each side had to be explicit about which of
+the other side’s premises (assumptions) they accepted, and which
+they rejected. They could distinguish several senses of a premise,
+accepting it in some, rejecting it in others. Someone senior would
+act as umpire, to ensure that the rules were properly applied. The
+spirit of the game is still recognizable to modern philosophers,
+even though the details of the rules now look too restrictive,
+because modern logic has identified many valid forms of reasoning irreducible to the forms studied in medieval logic.
+   There are also logic games with rules more closely related
+to modern logic. They typically involve two players—a defender
+and an attacker—and a statement in dispute (see Box  if you want
+more details). If the statement is true, the defender has a winning
+strategy. If the statement is false, the attacker has a winning
+strategy. Thus if both players make the best moves available to
+them, the defender will win if the statement is true, and the
+attacker will win if the statement is false: the outcome of the
+game corresponds to the truth-value of the statement. Such
+games show the naivety of a general contrast between games
+and the search for truth, since their rules are designed precisely
+to serve the search for truth.
+
+=== p. 27 ===
+
+. University masters in a disputation over the definition of happiness, with
+an audience of students, from a thirteenth-century Parisian copy of a
+commentary on Aristotle’s Nicomachean Ethics.
+
+=== p. 28 ===
+
+ Disputing
+
+  B  Rules in a logic game
+ ......................................................................................
+  If the statement in dispute is ‘Everything is so-and-so’, the attacker
+  chooses an object, gives it a name ‘N’, and the game continues with
+  ‘N is so-and-so’ as the new statement in dispute (‘so-and-so’ could be
+  anything, for instance ‘green’). The attacker gets to choose because it
+  only takes one counterexample to falsify (show false) an ‘every’
+  statement, and the attacker is the one who needs to find it.
+     If the statement in dispute is ‘Something is so-and-so’, the
+  defender chooses an object, gives it a name ‘N’, and the game
+  continues with ‘N is so-and-so’ as the new statement in dispute.
+  The defender gets to choose because it only takes one example to
+  verify (show true) a ‘some’ statement, and the defender is the one
+  who needs to find it.
+     If the statement in dispute is ‘A and B’, the attacker either chooses
+  ‘A’ or chooses ‘B’, and the game continues with the chosen one as
+  the new statement in dispute (‘A’ and ‘B’ could be any statements,
+  for instance ‘It’s raining’ and ‘It’s cold’). The attacker gets to choose
+  because it only takes one false component to falsify an ‘and’ statement, and the attacker is the one who needs to find it.
+     If the statement in dispute is ‘A or B’, the defender either chooses
+  ‘A’ or chooses ‘B’, and the game continues with the chosen one as
+  the new statement in dispute. The defender gets to choose because it
+  only takes one true component to verify an ‘or’ statement, and the
+  defender is the one who needs to find it.
+     If the statement in dispute is ‘Not A’, the defender and the attacker
+  swop roles and the game continues with ‘A’ as the new statement in
+  dispute (for instance, if ‘A’ is ‘It’s raining’, ‘Not A’ is ‘It’s not raining’).
+  The reason for the role-swopping is that the truth of ‘Not A’ is
+  equivalent to the falsity of ‘A’, and the falsity of ‘Not A’ is equivalent
+  to the truth of ‘A’, so the defender of ‘Not A’ should attack ‘A’ and
+  the attacker of ‘Not A’ should defend ‘A’.
+
+=== p. 29 ===
+
+                                                         Disputing   
+
+    Each move reduces the logical complexity of the statement in
+  dispute. Sooner or later, the game reaches a point where what is in
+  dispute is a logically simple statement. It is assumed that such
+  statements can be verified or falsified by observation. If it is true,
+  the defender wins. If it is false, the attacker wins.
+
+   Of course, most philosophical discussion is much less formally
+structured than a logic game. Nevertheless, such games provide a
+good model of how, under suitable conditions, an adversarial
+framework can serve the pursuit of truth.
+
+                             Dialogues
+In less formal terms, the natural written form to represent philosophical disputes and question–answer exchanges is the dialogue.
+It’s also one of the oldest forms of philosophical writing. Plato’s
+dialogues are still the most famous and evocative examples of the
+genre. Despite that, Plato expressed disapproval of written philosophy, because one can’t engage in question-and-answer with a
+book. Perhaps a written dialogue is the next best thing.
+    The Greeks also tended to pose philosophical paradoxes in
+question-and-answer form, where contemporary philosophers
+would present the deduction of an absurdity from plausible
+premises. An example is the sorites paradox, which shows the
+acute difficulty of applying vague terms soundly. The Greeks
+posed it as a long series of questions and answers:
+
+  Q: Do , grains make a heap?
+
+=== p. 30 ===
+
+     Disputing
+
+     Q: Do , grains make a heap?
+     Q: Do , grains make a heap?
+
+And so on, in principle, all the way down to:
+
+     Q: Do  grains make a heap?
+
+One gets that sinking feeling. To answer any question in the series
+differently from the next seems like treating the vague word ‘heap’
+as more precise than it really is. Yet it is absurd to give all
+questions in the series the same answer, since the answer ‘Yes’ is
+obviously right for the first question and obviously wrong for the
+last one. However one answers, one looks and feels silly. By
+contrast, modern philosophers formulate the paradox as a
+deductive argument with two plausible-sounding premises:
+
+     Major premise For every number n, if n+ grains make a heap
+                   then n grains make a heap.
+     Minor premise , grains make a heap.
+
+They then show how to reason step by step all the way down to
+the absurd:
+
+     Conclusion      grains make a heap.
+
+The difference may not seem large, but it brings out how much
+the Greeks regarded doing philosophy as an interpersonal activity, not a solitary one.
+   Plato didn’t put himself as a character into his own dialogues.
+His teacher Socrates appears, originally modelled on the historical
+Socrates. In the later dialogues, Plato used Socrates or another
+character as more of a mouthpiece for himself, but always with
+
+=== p. 31 ===
+
+                                                      Disputing 
+
+some distancing effect, so he could try out ideas without fully
+committing himself to them. Other philosophers have chosen the
+dialogue form to express views too dangerous for them to publicly endorse, by not officially identifying with the character
+closest to their own thinking. Even in what would now be classified as natural science, Galileo wrote his Dialogue Concerning the
+Two Chief World Systems () that way to distance himself from
+the heretical new sun-centred astronomy of Copernicus while still
+demonstrating its advantages over the traditional earth-centred
+astronomy of Aristotle and Ptolemy. The subterfuge failed: he
+made it too clear which side won the arguments, so the Roman
+Catholic Church banned the book and imprisoned him. David
+Hume did a slightly better job of concealing his subversive sympathies in Dialogues Concerning Natural Religion (), in his case
+scepticism about the existence of a god. Because he was suspected
+of atheism, he had been turned down for a professorship in
+philosophy at Edinburgh University in favour of a far less
+distinguished candidate. Gottfried Wilhelm Leibniz and George
+Berkeley (–) also wrote major works in dialogue form.
+With views closer to religious orthodoxy, they could make it clear
+which character they identified with, though the result was a loss
+of dramatic tension.
+   In general, the philosophical dialogue is a less pluralistic form
+than it looks: it has various characters but only one author. At
+worst, it is a dialogue between the ventriloquist and his puppet. In
+contemporary philosophy, it plays only a minor role. Logic formulas and footnotes are ill at ease in a dialogue. Nevertheless, the
+form retains significant strengths. For expository purposes, it
+embodies the interaction of different points of view in a vivid,
+memorable, and perspicuously structured way. A reader’s emotions
+
+=== p. 32 ===
+
+ Disputing
+
+are more easily engaged by a dispute between imagined people
+than a logical inconsistency between abstract theories.
+   But doesn’t philosophy require a coolly rational, objective,
+unemotional attitude? That’s psychologically unrealistic. Even in
+science, humans perform best when strongly motivated. Burning
+curiosity is an emotion. When you don’t care which of the
+answers to a question is right, you won’t be alert to the subtle
+logical differences between them. If you like one character and
+dislike another, you scrutinize each move in their dialogue as a
+potential threat or opportunity. The emotions you feel may reveal
+to you the underlying philosophical instincts you had all along.
+Even the less savoury emotions associated with competitiveness,
+rivalry, and ambition can be harnessed to play a constructive role
+in natural science and philosophy when the disciplinary culture
+rewards good work over bad, valid arguments over invalid ones.
+We saw how that’s possible in philosophical disputes.
+   The dialogue still has uses as a medium for philosophical research. Sometimes each side regards the other’s theory as
+nonsense, rather than false. Thus one can’t expound the theories
+from a neutral standpoint, for expounding a theory presupposes
+that it makes sense. In such cases, it’s best to let each side
+speak for itself, which is in effect the dialogue form. An example
+is a current dispute in philosophical logic between ‘generality
+absolutists’, who say, “It makes sense to generalize about
+absolutely everything whatsoever, without restrictions”, and
+‘generality relativists’, who say, “However many things you
+generalize about, it always makes sense to generalize about even
+more”. Each side regards the other’s words as somehow self-undermining, failing to make the kind of sense they want to make.
+
+=== p. 33 ===
+
+                                                       Disputing   
+
+   Short of a proper dialogue, it is very common, having presented one’s view, to give some potential objections to it with
+one’s replies. It is a kind of hypothetical dialogue with the reader:
+“If you are tempted to make this objection, here is my reply”. This
+often helps to clarify just what the view implies, and what it does
+not.
+   Discussions of scepticism often focus on imaginary dialogues
+with a sceptic. Contemporary epistemologists are much concerned with the vulnerability of common-sense ways of thinking
+and talking to sceptical objections. They dramatize it in mini-dialogues like this:
+
+: You don’t know much about the animals in this zoo.
+: That’s not fair! I know the animal in this cage is a zebra.
+: For all you know, it’s just a mule cleverly painted to look like
+  a zebra. The zoo may be having financial difficulties.
+: I suppose you’re right. I was wrong. I don’t know it’s a
+  zebra, after all.
+
+Mary’s next step could be to suggest that John doesn’t even
+know that he’s awake, because for all he knows he’s asleep in
+bed, dreaming he’s at the zoo.
+   The difficulty of John’s position also shows something about
+the dangers of dialogue. For what should he say, in order not to
+concede Mary’s point? If he says, “Come off it! You know as well
+as I do that it’s a zebra”, he will sound dogmatic and obtuse. Once
+your interlocutor has introduced a possibility, there’s conversational pressure on you to take it seriously, not just dismiss it. The
+sceptic ruthlessly takes advantage of such etiquette to cut
+the ground away from under the non-sceptic’s feet. The culture
+
+=== p. 34 ===
+
+ Disputing
+
+of philosophy supports those sceptical moves by its unusually
+tolerant attitude to bizarre possibilities.
+   John could reply to Mary, “Good point! But for present practical purposes, if you don’t mind, I’ll just assume I do know it’s a
+zebra”. That sounds more polite and accommodating. But in
+practice it will probably turn out just to be a more diplomatic
+way of not taking Mary’s point seriously, as will emerge if Mary
+answers, “Actually, I do mind”. If you are really unwilling to make
+assumptions your conversation partners won’t grant, you hand
+them terrifying power over your own thought. Sceptics will be
+only too pleased to exploit that power to drag you into
+the sceptical pit with them. You had best be careful whom you
+talk to.
+

@@ -1,0 +1,875 @@
+=== chunk: cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy ===
+title: Kelly, "Disagreement in Philosophy: Its Epistemic Significance"
+source_pdf: docs/sources/cappelen-gendler-hawthorne-2016-oxford-handbook/full.pdf
+pdf_pages: 391-411
+page_scheme: book
+plan_page_start: 374
+plan_page_end: 394
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 374 ===
+
+                                      Chapter 20
+
+                    Disagr eem en t i n
+                      Phil osoph y
+                            Its Epistemic Significance
+
+                                    Thomas Kelly
+
+                                  1. Introduction
+
+Despite occasional declarations that philosophy is now in a position to move beyond the
+contentiousness of its past, pervasive and intractable disagreement seems to be among its
+characteristic features. In any case, such disagreement is a notable feature of philosophy’s
+present as well as its history, and shows no signs of abating. The fact that philosophers disagree as often as they do, and in the ways that they do, is itself a phenomenon that gives rise
+to philosophical questions. Some of these questions are epistemological. For example, how
+(if at all) should one revise one’s philosophical views about controversial issues, given one’s
+awareness that those views are not shared (and indeed, are explicitly rejected) by apparently competent philosophers? Should we refrain from holding confident philosophical
+beliefs when informed philosophical opinion is divided about their truth? Does the lack of
+consensus in philosophy mean that philosophical knowledge is off the table, at least in areas
+where it is unrealistic to think that consensus is in the offing?
+    This chapter explores the epistemological significance of disagreement in philosophy in
+the light of some currently prominent theories of disagreement. I will be particularly concerned with whether the kind of controversy that we find in philosophy warrants a certain
+kind of skepticism about the subject. Call someone a philosophical agnostic just in case he
+or she refrains from holding confident opinions about philosophical questions: either he
+or she suspends judgment about philosophical questions, or at best, holds relatively weak,
+diffident opinions about their correct answers.1 A natural thought that has occurred to a
+
+    1 Care is needed here to ensure that the stance of the philosophical agnostic ends up being coherent.
+
+For example, it would not do to identify suspending judgment about whether p with investing credence
+.5 in p: given that some philosophical theses are logically stronger than others, giving .5 credence to
+every philosophical thesis would quickly result in incoherence. I will assume for the sake of argument
+there is some way of representing the stance of the philosophical agnostic so that it is coherent.
+
+=== p. 375 ===
+
+number of philosophers is this: given the kind of disagreement that we find in philosophy, we really ought to be philosophical agnostics—​at least when it comes to the many
+philosophical issues that are controversial among well-​informed, competent members of
+the professional community.2 To the extent that one does hold confident opinions about
+contested philosophical matters, those opinions are less than fully reasonable. (At least,
+assuming that one is aware of their contested status.) Is this natural thought correct?
+   Ideally, the best way to answer this question would be the following: take the correct
+general account of how we should respond to disagreement and apply it to the philosophical case by plugging in various empirical facts about the disagreements that we
+find in philosophy. Unfortunately, there is no generally agreed upon account of how we
+should revise our beliefs in the light of disagreement: the epistemology of disagreement
+is itself an area about which informed philosophical opinion is deeply divided.3 This
+might seem to leave us in the following situation: whether one sees the lack of agreement
+within philosophy as a compelling reason for philosophical agnosticism will depend
+upon which general view about the epistemology of disagreement one accepts. If, for
+example, one accepts a view on which it can be reasonable to steadfastly maintain one’s
+opinions even when they are contested by those whose judgment one has no independent reason to discount, then one will not see the lack of agreement within philosophy
+as warranting agnosticism. On the other hand, if one adopts a more conciliatory view
+about the epistemology of disagreement, one will see the profound lack of agreement as a
+compelling reason to adopt the stance of the agnostic. If this were right, then whether
+philosophical agnosticism is ultimately compelling would depend (naturally enough)
+on which of the various rival views about the epistemology of disagreement ultimately
+turns out to be correct.
+   Although natural, I think that the line of thought sketched in the last paragraph is mistaken. My contrary thesis is this: there is no plausible view about the epistemology of disagreement on which philosophical agnosticism is compelling.
+   In order to explore this issue, I will survey some prominent alternative views about the
+epistemology of disagreement and examine what happens when they are applied to the special case of philosophy. I will begin with views about disagreement on which the case for
+philosophical agnosticism seems weakest, and then proceed to consider, in increasingly
+greater detail, views on which the case seems strongest, at least prima facie. (As this suggests, the amount of space and attention devoted to a given view will not reflect my own
+estimate of the chance that it is correct, but rather the plausibility with which it might be
+thought to deliver the agnostic’s conclusion.) I will suggest that even when the latter views
+are assumed to be true, there is no clear path from the kind of disagreement we find in philosophy to the skeptical attitude about the subject that is characteristic of the philosophical
+agnostic.
+
+   2 Previously published work that engages with this thought to at least some degree, and with
+
+varying levels of sympathy, includes Armstrong (2006), Frances (2010, 2013), Fumerton (2010),
+Goldberg (2009, 2013), Kornblith (2010), and van Inwagen (1996). I regret that the strict word limits of
+the present volume prevent me from engaging with this literature in the kind of detail that it deserves,
+although much that I say here bears on claims made by these authors.
+   3 For a sampling of this, see the essays collected in Feldman and Warfield (2010) and Christensen
+
+and Lackey (2013).
+
+=== p. 376 ===
+
+   Before beginning the survey, I should emphasize that my concern is not with philosophical agnosticism in general, or with the variety of grounds that might be offered in favor of
+such a stance, but rather with the claim that we should be philosophical agnostics because
+of something having to do with disagreement, or with the distribution of opinion that we
+find among philosophers. Perhaps we should be philosophical agnostics for reasons unrelated to the phenomenon of disagreement. For example, one might think that even the best
+philosophical arguments are simply not very strong compared to the kinds of arguments
+we find in other domains4 and conclude on that basis that we should not hold confident
+philosophical opinions. Nothing that is said in what follows will address such possibilities.
+Indeed, because our exclusive concern here is with the potential skeptical import of philosophical disagreement, it will be helpful to proceed as follows: we assume, optimistically,
+that we are or would be in a position to attain philosophical knowledge, or at least justified
+philosophical beliefs, before facts about philosophical disagreement or the distribution of
+opinion among philosophers are taken into account.5 As we will see, there are prominent
+views about the epistemology of disagreement according to which the right kind of disagreement can undermine the rationality of continuing to hold a given belief, even if one
+arrived at that belief in a rationally impeccable manner, and even if one’s belief would have
+amounted to knowledge in the absence of the disagreement. Applied to the case of philosophy, the relevant thought would be the following: given the kinds of disagreements we
+find among philosophers, one is not in a position to know or justifiably believe controversial philosophical theses, even if one would have been in a position to know and justifiably
+believe those theses in the absence of controversy.
+
+                                  2. Steadfast Views
+
+Contributors to the epistemology of disagreement literature sometimes draw a rough
+but serviceable distinction between steadfast and conciliatory views. For example, David
+Christensen opens his (2011) paper with the following:
+
+      Subtleties aside, a look at the topography of the disagreement debate reveals a major divide
+      separating positions that are generally hospitable to maintaining one’s confidence in the
+      face of disagreement, and positions that would mandate extensive revision to our opinions
+
+      Consider, for example, the pessimistic assessment of van Inwagen (2006: 52):
+      There are certainly successful arguments, both in everyday life and in the sciences. But are there any
+      successful philosophical arguments? I know of none. (That is, I know of none for any substantive philosophical thesis.)
+  (Van Inwagen does not draw the further skeptical conclusion, that the putative lack of successful
+philosophical arguments warrants agnosticism.) For a critique of the pessimism, see McGrath and
+Kelly, “Are There Any Successful Philosophical Arguments?”.
+  5 Compare the way in which, in discussions of Humean skepticism about induction, we proceed on
+
+the assumption that we have a great deal of ordinary perceptual knowledge about the world, i.e. that
+more radical kinds of skepticism than the one under consideration are false.
+
+=== p. 377 ===
+
+   on many controversial matters. Let us call positions of the first sort “Steadfast” and positions of the second sort “Conciliatory”. (p. 1)
+
+In this section, I will examine the case for philosophical agnosticism in the light of steadfast
+views of disagreement; beginning with the next section, I will turn to conciliatory views.
+   One kind of steadfast view involves commitment to a permissive conception of rationality, according to which there is frequently a significant amount of slack between a body
+of evidence and what can be reasonably believed given that evidence. In particular, some
+hold that rationality is sufficiently permissive to allow for the following kind of case: given
+the available evidence, some individuals reasonably believe p while other individuals reasonably believe not-​p, with each group aware that there is informed disagreement about
+whether p. The kind of view that I have in mind is endorsed by Gideon Rosen in the following passage:
+
+   It should be obvious that reasonable people can disagree, even when confronted with a single body of evidence. When a jury or a court is divided in a difficult case, the mere fact of
+   disagreement does not mean that someone is being unreasonable. Paleontologists disagree
+   about what killed the dinosaurs. And while it is possible that most of the parties to this dispute are irrational, this need not be the case. To the contrary, it would appear to be a fact
+   of epistemic life that a careful review of the evidence does not guarantee consensus, even
+   among thoughtful and otherwise rational investigators.
+                                                                                     (2001: 71–​2)
+
+Here, Rosen suggests that paleontologists who accept rival theories about the demise of the
+dinosaurs on the basis of shared evidence might be fully reasonable in steadfastly maintaining their views, despite being aware that their views are not shared (and indeed, are
+explicitly rejected) by a significant number of their professional colleagues. But, one might
+think, what holds for paleontologists holds for philosophers as well. Thus, an epistemic per-missivist might reject the claim that disagreement requires philosophical agnosticism on
+the grounds that many, most, or even all of the questions that are controversial among philosophers constitute permissive cases.6
+   Some steadfast views do not presuppose the truth of a permissive conception of rationality. For example, according to what is sometimes called The Right Reasons View (Kelly
+2005, Titelbaum 2015, Weatherson 2013), one is justified in steadfastly maintaining one’s
+belief that p in the face of disagreement, provided one’s belief is a correct response to the
+available evidence and arguments that bear on whether p. For purposes of illustration,
+suppose that, given the current state of play in the philosophical literature, the case for
+incompatibilism really is stronger than the case for compatibilism, and that at least some
+incompatibilists hold their view because they have recognized that this is so. According
+to the Right Reasons View, incompatibilists in this position are fully justified in maintaining their belief, notwithstanding the fact that they are fully aware that there are significant numbers of philosophically sophisticated compatibilists who vigorously disagree
+with them, and who are unpersuaded by the very considerations that they find compelling.
+More generally, a proponent of the Right Reasons View holds that, once one has taken into
+account all of the considerations that proponents of a rival view have offered in favor of
+
+           For a recent exchange on epistemic permissivism, see White (2013) and Kelly (2013b).
+
+=== p. 378 ===
+
+their view and against one’s own, one need not give any additional weight to the fact they
+disagree. So long as one correctly responds to the first-​order evidence and arguments, one
+is fully justified in maintaining one’s belief, and the rationality of believing as one does is
+not susceptible to being undermined or defeated by higher-​order considerations having to
+do with how others have responded to the evidence and arguments.
+    Clearly, if we assume that the Right Reasons View is true, then the mere fact that there is
+a great deal of disagreement within philosophy does not show that we should be philosophical agnostics, or that it would be unreasonable to hold strong opinions about contested
+philosophical issues. For in any case in which someone holds a philosophical view on the
+basis of what are in fact good reasons, they are fully justified in sticking to their guns, even
+if that view is vigorously contested by others.
+    A related but somewhat less radical proposal is the Total Evidence View (Kelly 2010,
+Setiya 2012: 20–3, Scanlon 2014: 80), which shares features with both the Right Reasons
+View and the more conciliatory views that we will consider in section 3. On the Total
+Evidence View, when one learns that a person whose judgment one has good reason to
+respect has arrived at an opinion that conflicts with one’s own, one acquires an additional
+piece of evidence against one’s view (even if one was already aware of all of the considerations on which the other person bases her opinion). Typically, then, it will be rational to
+temper one’s confidence to at least some extent. However, it does not follow that one should
+give up one’s original opinion. Whether it is reasonable to retain that opinion (albeit with
+somewhat diminished confidence) depends on what is now one’s total evidence, a body of
+evidence which includes both the fact that the other person judged as they did as well as the
+original evidence on which one based one’s own opinion. And crucially, the proponent of
+the Total Evidence View insists, there is no guarantee that this enlarged body of evidence
+will mandate an attitude of agnosticism or suspension of judgment towards the original
+target proposition.
+    To make things more concrete, suppose as before that as things stand the case for incom-patiblism is stronger than the case for compatibilism. Recognizing this, you take up the
+position as your own. You then learn that I (someone whose philosophical judgment you
+generally hold in high regard) have arrived at the opposite view on the basis of my own
+assessment of the arguments. (To temporarily avoid complications which we will take up
+in later sections, let’s assume, unrealistically, that at this point you know of no one else’s
+opinion about the issue.) Suppose next that upon learning that I am a convinced compati-bilist, you reduce the credence that you give to incompatibilism to some degree. However,
+even after you take my opinion into account, you still regard it as significantly more likely
+that incompatibilism is true, to the point that you can correctly be described as retaining
+your belief in incompatibilism. It’s not that you take yourself to have some independent
+reason for discounting my opinion relative to yours, as would be the case if, for example,
+I had confided in you that I had reviewed the arguments in a cursory fashion, or was suffering from a debilitating headache at the time. Rather, the only reasons that you have for
+thinking that I am more likely to be wrong than you about this particular issue are the very
+reasons on which you base your belief that incompatibilism is true in the first place.
+    Is it reasonable for you to retain your belief in these circumstances? Yes, says the Right
+Reasons theorist: given that the available arguments were sufficient to justify your belief in
+incompatibilism before you learned what I think, the mere fact that I turn out to disagree
+
+=== p. 379 ===
+
+with you is insufficient to undermine the rationality of your belief. No, say many proponents of conciliatory views: given that you have no independent reason to think that you
+were the one who did a better job in responding to the arguments, you should treat our
+original opinions even-​handedly and thus suspend judgment. In contrast, a proponent of
+the Total Evidence View will insist that we have not yet been provided with enough information about the fiction in order to know whether it’s reasonable for you to retain your
+belief. What it is reasonable for you to believe about the issue depends on what is now your
+total evidence, and that body of evidence includes both the philosophical arguments themselves, as well as the fact that I judge that compatibilism is correct. On the Total Evidence
+View, the fact that I believe as I do is a piece of evidence against your view; your total evidence is thus less supportive of belief in incompatibilism than it was before you learned
+of my opinion, or than it would be if I had independently arrived at the same conclusion
+as you. Whether it is nevertheless still adequate to justify your continuing to believe that
+incompatibilism is true will depend on such features of the case as the substantiality and
+strength of the original arguments for incompatibilism, as well as the weight of your reasons for thinking that I’m likely to be a good judge about the question—​features that have
+not been stipulated.
+   How does the disagreement-​based case for philosophical agnosticism fare if we assume
+the truth of the Total Evidence View? The answer to this question is not immediately obvious.7 On the one hand, the Total Evidence View shares with the Right Reasons View a commitment to the idea that, when one arrives at a position in virtue of a correct assessment
+of the available arguments, one’s belief has a certain resistance to being rationally undermined by the fact that others arrived at different conclusions, even when those others are
+generally competent philosophers possessed of good judgment. On the other hand, the
+Total Evidence View shares with conciliatory views a commitment to the idea that when
+such a person does arrive at a different conclusion, this counts as a piece of evidence that
+one has made a mistake, and moreover, that the more competent philosophers there are
+who disagree with one, the stronger the evidence is that one has made a mistake.8 Indeed,
+on what I regard as the best version of the Total Evidence View, there will be cases in which
+even if the first-​order evidence and arguments strongly support a given belief, it would be
+unreasonable to continue to hold that belief when one learns that sufficient numbers of
+those who are in the best position to judge think otherwise. (That is, even relatively strong
+first-​order evidence can be swamped when enough higher-​order evidence pointing in the
+opposite direction is amassed.) And one might contend that such cases are something like
+the norm in philosophy, where there is typically no shortage of formidable dissenters from
+one’s preferred views.
+
+     The Total Evidence View is sometimes criticized on the grounds that it fails to offer determinate
+advice in certain (incompletely specified) cases for which rival views do offer determinate advice.
+However, the most charitable way to understand this is as an expression of skepticism, on the part of
+proponents of the view, about whether there are any true disagreement norms at the level of generality
+that some have sought. For skepticism about the existence of such norms, see Feldman (2009), Kelly
+(2013a), and especially, Lasonen-​Aarnio (2013).
+  8 At least, provided there is some measure of independence in the way that these philosophers
+
+arrived at their views.
+
+=== p. 380 ===
+
+   At this point, one thing seems clear: to the extent that a plausible case for philosophical agnosticism might be made on the assumption that The Total Evidence View is true,
+this is because of features that it shares with more conciliatory views. In general, the Total
+Evidence View is more hospitable to sticking to one’s guns in the face of controversy than
+conciliatory views are. Because of this, if there is a sound disagreement-​based case for
+philosophical agnosticism on the assumption that the Total Evidence View is true, then
+there will also be a sound disagreement-​based case for philosophical agnosticism on the
+assumption that some conciliatory view is true. On the other hand, if, as I will suggest,
+there is no sound disagreement-​based case for philosophical agnosticism on the assumption that some conciliatory view is true, then there will be no such case on the assumption that the Total Evidence View is true, either. Let us turn then, to an examination of
+conciliatory views.
+
+                            3. Conciliatory views
+
+Proponents of conciliatory views9 tend to see the phenomenon of disagreement as mandating relatively extensive revisions to our opinions about many controversial matters. The
+case for such revision is often taken to be especially compelling when those who disagree
+are known to share certain intellectual virtues and to have reviewed the same evidence and
+arguments in arriving at their opinions. Here, for example, is Richard Feldman:
+
+      [C]‌onsider those cases in which the reasonable thing to think is that another person, every
+      bit as sensible, serious, and careful as oneself, has reviewed the same information as oneself
+      and has come to a contrary conclusion to one’s own . . . An honest description of the situation acknowledges its symmetry. . . . In those cases, I think, the skeptical conclusion is the
+      reasonable one: it is not the case that both points of view are reasonable, and it is not the
+      case that one’s own point of view is somehow privileged. Rather, suspension of judgment is
+      called for.
+                                                                                         (2006: 235)
+
+   One motivation for conciliatory views is that they deliver what strike many as the
+intuitively compelling verdicts about certain concrete examples. Consider, for example,
+Christensen’s “Mental Math Case” (2007). In the Mental Math Case, you and I independently calculate our shares of the dinner tab. (We’ve agreed to divide the check evenly
+among everyone who was at dinner.) We know, on the basis of substantial track record evidence, that we are more or less equally competent when it comes to performing this general
+kind of calculation (in our long history of dining together, we almost always come up with
+the same answer, but on those occasions when we’ve come up with different answers, each
+of us has turned out to be correct approximately half the time). On this occasion, you arrive
+at the number $43 while I arrive at the number $45. A widely shared intuition is that, upon
+discovering this, both of us (including the person who in fact reasoned correctly, assuming
+that one of us did) should become much less confident of his or her original answer, and
+
+   For representative statements, see Christensen (2007, 2011), Elga (2007), Feldman (2006),
+Kornblith (2010), and Matheson (2009).
+
+=== p. 381 ===
+
+that indeed, each of us should divide our credences more or less evenly between the two
+rival answers.
+    Consider also the way in which one might try to motivate conciliatory views by appealing to analogies involving inanimate measuring devices.10 For example, suppose that I form
+my beliefs about the ambient temperature in some room by consulting my thermometer.
+(To avoid complications, we can suppose that I have no other access to the temperature of
+the room. Perhaps I’m in an adjacent room, looking at my thermometer through a window,
+and I know that the temperature of the room that I’m in is not reliably correlated with the
+temperature of the room in which the thermometer is located.) I have no reason to think
+that anything is amiss with my thermometer, so the beliefs that I form in this way are perfectly reasonable. However, I then discover that the reading returned by my thermometer is
+inconsistent with the reading returned by your thermometer, which is also clearly visible in
+the adjacent room. Unless I have some special reason to trust my thermometer over yours,
+it seems as though I should be agnostic about whose thermometer is correct. Certainly, it
+wouldn’t be defensible to favor the reading of my thermometer simply because that’s what
+my thermometer says, or because that’s what I justifiably believed before I learned about
+your thermometer. Moreover, the same seems to be true even if your thermometer really is
+the one that’s malfunctioning on this occasion, and mine is functioning perfectly. So long
+as I have no independent evidence that that is what is taking place, the mere fact that my
+thermometer is the one that’s functioning properly on this occasion doesn’t justify favoring
+what it reports over what yours reports. But, one might think, what holds for thermometers holds for believers as well: when I find myself in a disagreement with someone else,
+then, in the absence of some independent reason for thinking that I’m the one who is correct, I should suspend judgment, even if my original opinion was fully reasonable before
+I became aware of the disagreement.
+    For our purposes, a notable feature of these examples is the way in which they suggest
+that even beliefs with seemingly impeccable rational credentials can be undermined when
+a certain kind of conflict emerges. Suppose that in the Mental Math Case, you were the one
+who arrived at the correct answer via an impeccable calculation. In that case, it is extremely
+natural to credit you with knowing the correct answer (and with being in a position to
+rationally invest a high degree of confidence in it) prior to learning that I arrived at a different answer. Similarly, if I arrived at my original belief about the temperature by relying
+on a thermometer that was in fact functioning perfectly, then it is natural to credit me with
+knowing the temperature prior to the discovery that your thermometer says something
+else. Indeed, given the relatively precarious nature of philosophical reasoning, it is natural
+to think that the epistemic standing of beliefs arrived at via flawless arithmetical reasoning
+or via reliance on accurate thermometers generally compares favorably with the epistemic
+standing of beliefs to the effect that a given philosophical position is correct, even in cases
+in which the latter beliefs are arrived at via a correct assessment of the philosophical state
+of play. But if knowledge that has been arrived at via flawless arithmetical reasoning or
+via reliance on accurate thermometers can nevertheless be undermined by the emergence
+of disagreement, surely the epistemic credentials of one’s philosophical opinions can be
+
+                            For a discussion of the strategy, see Kelly (2014).
+
+=== p. 382 ===
+
+undermined by one’s awareness that apparently competent philosophers have arrived at
+incompatible views.
+   It might seem then, that adopting a conciliatory view about disagreement will generate strong and perhaps irresistible pressures towards philosophical agnosticism. However,
+I think that the path from conciliatory views to philosophical agnosticism is much more
+precarious than is often assumed. Indeed, closer inspection casts doubt on whether there is
+any plausible conciliatory view on which philosophical agnosticism is compelling.
+   As a first step towards seeing this, let’s note that at least some prominent conciliatory
+views defended in the literature seem to allow for the holding of strong opinions about contested philosophical matters. Consider, for example, Adam Elga’s “Equal Weight View”
+(2007). For Elga, a particularly threatening kind of disagreement occurs when one finds
+that one disagrees with someone whom one regards as an epistemic peer. In Elga’s lingo,
+you count someone as an epistemic peer with respect to a given issue just in case: “… you
+think, conditional on a disagreement arising, the two of you are equally likely to be mistaken” (487). Christensen’s Mental Math Case exemplifies a case of peer disagreement in
+this sense, or at least, is naturally read as such: given that you and I acknowledge that we are
+equally good at arithmetic, it is natural to think that, if we were asked prior to performing
+the calculation who was more likely to be wrong in the event of a disagreement, we would
+admit that we were equally likely to be wrong; in this respect, we regard each other as peers
+with respect to the question of our share of the bill. Elga argues that, in such cases, suspension of judgment is called for, and it is in virtue of this feature that his view is standardly
+classified as a conciliatory view.
+   However, Elga emphasizes that his view does not entail that we should suspend judgment
+about all or even most controversial questions.11 This is because
+
+       in messy real-​world cases . . . one’s reasoning about the disputed issue is tangled up with
+       one’s reasoning about many other matters. As a result, in the real-​world cases one tends
+       not to count one’s dissenting associates—​however smart and well informed—​as epistemic
+       peers. (492)
+
+That is, when one finds oneself in a disagreement about whether (e.g.) some proposed tax
+cut would stimulate the economy, that disagreement is typically not an isolated one. It is
+not as though one disagrees about that issue and nothing else; rather, one typically finds
+that one disagrees with the other person about any number of other, related issues as well
+(e.g. certain claims about human motivation and the ways in which people respond to
+financial incentives, or the effects of similar tax cuts that have been enacted in the past).
+And precisely because one takes one’s interlocutor to be wrong about these surrounding,
+related issues, one will not regard him or her as equally likely to be right about the issue
+
+      Indeed, in Elga’s estimation, one of the most pressing challenges that any conciliatory view must
+overcome is what he calls the problem of spineleness: “the problem that an egalitarian view on how
+to respond to disagreement will recommend suspension of judgment on virtually all controversial
+issues” (492). Elga suggests that if a view about disagreement did recommend that one suspend
+judgment on virtually all controversial issues, then that would amount to a reductio ad absurdum of
+that view. So he is particularly adamant that the Equal Weight View has no such consequence. For
+criticism of Elga on this front, see McGrath (2007) and Kornblith (2010).
+
+=== p. 383 ===
+
+under dispute. That is, one will not count one’s interlocutor as a peer with respect to the
+question of whether the proposed tax cut will stimulate the economy. Thus
+
+   with respect to many controversial issues, the associates who one counts as peers tend to have
+   views that are similar to one’s own. That is why—​contrary to initial impressions—​t he equal
+   weight view does not require one to suspend judgment on everything controversial. (494)
+
+But of course, philosophy is surely a paradigm of a domain in which the disputed issues are
+“messy” in Elga’s sense: it is not as though typical philosophical disputes are isolated ones
+that take place against a background of generally agreed-​upon common ground. (Consider
+just how messy things can get—​and how quickly the messiness ensues—​when disputes
+break out between Kantians and consequentialists, or between physicalists and dualists,
+or between epistemicists and supervaluationists.) In this respect, disagreements between
+philosophers are much more like disagreements about the probable effects of enacting
+some tax cut than the kind of disagreement that we find in the Mental Math Case. As far as
+Elga’s conciliatory view is concerned then, such philosophical controversies are unlikely to
+require the dissenting parties to suspend judgment.
+   Consider next a move made by David Christensen in his (2011) defense of conciliation-ism. There, Christensen distinguishes between two different views that a conciliationist
+might endorse (15–​16). On the first view, the mere absence of good reason to think that one is
+better informed or more likely to have reasoned correctly than the other person is enough
+to warrant belief revision in the event of a disagreement. On the second view, the mere
+absence of good reason to think oneself superior is insufficient to warrant belief revision;
+rather, belief revision is warranted when one has positive reasons to believe that the other
+person is (at least) equally well informed and equally likely to have reasoned correctly.
+Christensen argues that the conciliationist has compelling reasons to adopt the second
+type of view over the first. He also emphasizes that the second view is more limited in its
+scope, and hence, at least somewhat more limited in its potential to generate skeptical consequences. On the preferred picture
+
+   when disagreement undermines one’s rational confidence in some claim, the undermining
+   must be based on one’s beliefs about the other person. When those beliefs including extensive dispute-​independent evidence of intellectual and evidential parity (as in the Mental
+   Math Case), the undermining power of disagreement is high. But in some cases, one has little dispute-​independent reason to be highly confident, one way or the other, about whether
+   the other person is even one’s approximate peer. In those cases, the undermining power of
+   disagreement should intuitively be less. (16)
+
+   Now, although Christensen himself does not suggest anything like this, one might think
+that there is a crucial difference here between the Mental Math Case and typical disagreements between philosophers. In particular, the Mental Math Case is set up so that you and
+I have strong evidence that we are peers: specifically, there is the long history that supplies
+us with track-​record evidence, track-​record evidence to the effect that when disagreements
+of this kind have arisen in the past, each of us has turned out to be correct a more or less
+equal number of times. In contrast, there is typically nothing like this in cases of philosophical disagreement: if you and I find ourselves in a disagreement about some philosophical issue, we simply will not have the same kind of objective, non-​question-​begging
+
+=== p. 384 ===
+
+track-​record evidence that would put us in a strong position to make a judgment about our
+comparative reliability.12 (And this will be true even if we are very familiar with the other
+person’s philosophical views, across a wide range of issues.) At best, it seems that what we
+really have to go on, at least in the first instance, are certain putative marks or indications
+of reliability—​perhaps, for example, the ingenuity and resourcefulness that the other person manifests in parrying objections and devising new arguments for their view. But one
+might reasonably wonder just how strong the correlation is between the possession of such
+intellectual skills and reliable philosophical judgment, especially in view of the fact that the
+history of philosophy shows that such skills have been amply manifested by thinkers who
+agree with one another about very little (and so their possession is evidently compatible
+with a great deal of error). More generally, strong evidence that another person is your peer
+with respect to some philosophical question, or some cluster of philosophical questions,
+might be relatively hard to come by (see King 2012). And in the absence of such evidence,
+sticking to your guns might seem more defensible, as Christensen suggests about the general case. Of course, if hard evidence of comparative reliability is difficult to come by in the
+philosophical case, then it might be that you often end up lacking evidence that you are
+more likely to be correct than I am about some philosophical question. But as we have seen,
+on Christensen’s version of conciliationism, merely lacking evidence that you are my superior is not yet enough to give you a reason to revise your opinion when we disagree; rather,
+what is relevant is whether you have good evidence that I am your approximate equal (or
+superior).
+   Thus, in somewhat different yet related ways, the work of Elga and Christensen suggests
+how one can endorse a view about disagreement that is recognizably conciliationary while
+denying that philosophical agnosticism follows as a normative upshot. Specifically, one
+might endorse the conciliationist idea that one is required to suspend judgment whenever
+one disagrees with someone whom one takes to be a peer (Elga), or with someone whom
+one has good reason to think is a peer (Christensen), while simultaneously emphasizing that
+such cases might turn out to be much less common than initial appearances suggest.
+
+  4. Egalitarian Versions of Conciliationism
+
+Conciliatory views of peer disagreement call for a kind of epistemic democracy among
+peers, in some honorific sense of “peer” given by the theory. In determining what it is reasonable for one to believe about some question, one’s own judgment is not privileged over
+the judgment of any other recognized peer. Given this, it is clear enough how a theorist
+who accepts a conciliatory view of peer disagreement might nevertheless end up denying
+that widespread philosophical disagreement warrants philosophical agnosticism: namely,
+by employing a notion of peerhood that makes it relatively difficult for philosophers who
+disagree with one another to count as peers, or to recognize each other as such. (Compare
+political systems that employ egalitarian, democratic decision-​making procedures among
+
+      On the significance of the (un)availability of non-​question begging track record evidence in
+different domains, see especially McGrath (2009, 2011).
+
+=== p. 385 ===
+
+the class of citizens, but which are relatively stingy or sparing when it comes to granting
+citizenship status in the first place.)
+   Of course, this kind of maneuver immediately suggests possible conciliatory views that
+do seem to have skeptical upshot: namely, versions of the view that are relatively inclusive or
+liberal when it comes to counting disputing philosophers as “peers”. Now, it is clearly possible to go too far in a liberalizing direction, even if one limits oneself to the class of active
+professional philosophers. For example, I have various half-​baked opinions about how
+sentences containing problematic anaphora should be analyzed, but I would hardly expect
+philosophers of language working in the area to be moved by my opinions, and indeed,
+I would regard it as a kind of epistemological mistake on their part if they were. Such philosophers of language should not regard me as a peer, in any sense of “peer” that could possibly matter to the epistemology of disagreement.
+   In response, one might adopt some less inclusive construal of the notion, but one that
+is still inclusive enough to allow even philosophers who agree about relatively little of
+substance to count as “peers”. For example, one might try something along the following
+lines: with respect to a given philosophical issue, count well-​informed, apparently competent professional philosophers specializing in the area as peers, regardless of whether they
+agree or disagree with one another about the issue in question, and regardless of how much
+they agree or disagree about surrounding issues. Surely, one might think, if we adopted
+this or some similarly liberal construal of peerhood, and then combined it with a conciliatory view about the correct response to peer disagreement, this would require agnosticism
+when it comes to philosophically controversial issues.
+   But I think that even this thought cannot ultimately be sustained.
+   As a first step towards seeing why this is so, let’s note the following point: in general,
+the fact that a given position can correctly be described as controversial among a population greatly underdetermines how widely accepted it is within that population. One way
+in which a view can be controversial within a population is for that population to be evenly
+divided about its truth, with an equal number of people on each side of the issue. But that
+is an unusual special case, and one that is seldom realized when dealing with populations
+of any significant size. In fact, a position can be controversial even if it is accepted by a significant majority of the relevant population. For example, over the past forty years, support
+for capital punishment among the American public has never dropped below 60%, and has
+often been significantly higher than that.13 Nevertheless, during that same period, the legitimacy of capital punishment has often been cited—​correctly, I believe—​as a paradigmatic
+example of an issue that is controversial among the American public.14
+
+      See <http://​w ww.gallup.com/​poll/​1606/​death-​penalty.aspx> (accessed September 21, 2015).
+      How popular can an opinion be and still be a controversial opinion? It is at least clear that when
+an opinion is held by everyone in a given population, it is uncontroversial within that population. But
+perfect unanimity is not required: the view that Adolf Hitler was a bad person is not controversial
+among the American public, even though there are some Americans who deny it. The general question
+of how substantial dissent must be in order for a majority opinion to count as controversial is likely
+both vague and context-​sensitive. For our purposes, we need not pursue this question further; the
+important point is that a position can be controversial even if its supporters significantly outnumber
+its opponents, both in absolute terms and as a percentage of the relevant population.
+
+=== p. 386 ===
+
+   Philosophy abounds with similar examples. Consider the following issues, each of which
+is central to a major subfield of the discipline:
+
+   (1) Epistemology: whether some of our knowledge is a priori
+   (2) Metaphysics: whether the best account of laws of nature is Humean or non-​Humean
+   (3) Philosophy of science: whether scientific realism is true
+   (4) Philosophy of Mind: externalism versus internalism about mental content
+   (5) Philosophy of mathematics: Platonism versus nominalism about abstract objects
+   (6) Ethics: Cognitivism versus non-​cognitivism about moral judgment
+   (7) Decision theory: whether one should take one box or two boxes in Newcomb’s
+       problem
+
+   Each of these issues is controversial within contemporary philosophy. Nevertheless, the
+best information that we have about the current state of informed philosophical opinion
+suggests that, in each case, such opinion comes down heavily on one side of the issue.15
+Thus, among epistemologists, 77% favor the view that there is a priori knowledge. Among
+metaphysicians, 72% favor non-​Humean over Humean accounts of the laws of nature while
+fewer than 20% favor Humean accounts.16 Among philosophers of science, 70% favor scientific realism while fewer than 10% favor anti-​realism. Among philosophers of mind, 56%
+favor externalism about mental content while fewer than 20% are internalists. Similarly,
+60% of philosophers of math favor Platonism about abstract objects while only 20% favor
+nominalism. Almost 75% of metaethicists favor cognitivism about moral judgment with
+approximately 12% favoring non-​cognitivism. Among decision theorists, those who favor
+Two-​Boxing outnumber those who favor One-​Boxing by a forty-​point margin (61.3%–​
+21.3%). Many other examples could be provided, including the popularity of compatiblism
+about free will among metaphysicians, of the analytic–​synthetic distinction among philosophers of language, of moral realism among metaethicists, of physicalism about the
+mind among philosophers of mind, of classical logic among logicians and philosophers
+of logic, of switching in the Trolley Problem among normative ethicists, and of common-​
+sense realism about the external world among both all philosophers and epistemologists.
+While there are some controversial issues where informed philosophical opinion seems to
+be more or less evenly divided, such cases are much more the exception than the norm.
+   This empirical fact is worth bearing in mind whenever one looks to apply putative lessons from the epistemology of disagreement literature to the case of philosophy, for that
+literature typically focuses on cases of disagreement where opinion is evenly divided.
+Indeed, for heuristic reasons, the epistemology of disagreement literature often focuses on
+relatively idealized, two-​person cases of disagreement. In these cases, one person arrives at
+
+      See the results of the 2009 PhilPapers survey conducted by David Chalmers and David Bourquet
+at <http://​philpapers.org/​surveys/​results.pl> (accessed September 21, 2015), which is the source for
+all of the numbers reported in this paragraph. The numbers reported here reflect the opinions of the
+survey’s ‘target faculty’ (professors of philosophy at 99 leading departments) possessing the listed area
+of specialization.
+   16 Here and throughout, the percentages fail to sum to 100 because the remainder of the
+
+respondents selected a third option, “Other”, which covers such sub-​options as “agnostic/​undecided”,
+“insufficiently familiar with the issue”, and “the question is too unclear to be answered”.
+
+=== p. 387 ===
+
+the view that p, while a peer arrives at the view that not-​p, or at some view that is incompatible with p. Of course, any example that instantiates this basic structure is not only a case
+in which p is controversial in the relevant population, but is also a case in which opinion
+about whether p is perfectly divided within that population. Because the latter is a very special case of the former, we as theorists should be wary of generalizing plausible conclusions
+about such examples to cases of disagreement where opinion is not evenly divided.
+   Consider once again Christensen’s Mental Math Case. Suppose that one shares the
+orthodox intuition about the example: that at the moment we learn that I arrived at the
+number 45 and you arrived at the number 43, we should suspend judgment about which
+answer is correct. Given this verdict about that particular case, consider two different lessons one might be tempted to draw by generalizing in different ways:
+
+       a) Once I learn that I have a peer who holds a view that is incompatible with p, then it is
+          no longer possible for me to reasonably believe p: I should suspend judgment about
+          whether p.
+       b) Once I learn that the distribution of opinion among the peers is evenly divided as to
+          whether p, then it is no longer possible for me to reasonably believe p: I should suspend judgment about whether p.
+
+Whatever arguments might be offered on behalf of b), it is clear enough that a) is false.
+According to a), learning that I have at least one peer who thinks that not-​p is sufficient to
+undermine the rationality of my continuing to believe p. It thus entails that, in a case in which
+I simultaneously learn the opinion of multiple peers, the fact that one of the peers thinks not-​
+p suffices to undermine the rationality of my believing p, even if all of the other peers independently arrived at the conclusion that p. But that is clearly incorrect, and is not something
+that any clear-​headed conciliationist will accept. In the Mental Math Case, even if the rationality of your belief that each of us owes $43 is undermined when you learn that I arrived at $45
+and nothing else, it is clearly not undermined by your learning that I arrived at $45 and the
+other four people at the table also arrived at $43. Indeed, in the latter circumstances the effect
+of learning the distribution of opinion within the group should have the effect of making you
+even more confident of your answer than you were originally, notwithstanding the fact that
+you now know that someone who is your peer arrived at an incompatible answer, something
+that you did not know before. The general moral, which no clear-​headed conciliationist will
+deny, is that the numbers count: even if you know that your view is contradicted by some who
+are in as good or better position to pass judgment, this does not show that you should suspend
+judgment, for those who disagree might be outnumbered within the relevant group.
+   In fact, when one is dealing with groups whose members are at least slightly better than
+chance at answering a given kind of question, it is striking how quickly the probability that
+the majority opinion is correct increases with either the margin or the size of the group.
+Although the point is familiar from discussions of the Condorcet Jury Theorem, it’s worth
+briefly illustrating with some numbers. Imagine a group of fifty people, each of whom is
+only slightly better than chance—​say, 55% accurate—​at answering a certain kind of ‘yes’
+or ‘no’ question correctly.17 In order to keep things parallel with the Mental Math Case and
+
+      Of course, many canonical philosophical questions can be naturally cast in this form, e.g. “Is free
+will compatible with determinism?” or “Is any of our knowledge a priori?”
+
+=== p. 388 ===
+
+the other examples standardly used to motivate conciliatory views, we assume that each
+person arrives at his or her opinion independently. Of course, when the group splits perfectly down the middle, with twenty-​five members of the opinion that p and twenty-​five of
+the opinion that not-​p, then the chance that either group is correct given just those facts is
+50%. However, when the group splits 55/​45, the chance that those in the majority are correct is approximately 73%. Suppose that we increase the size of the community from 50 to
+70 while holding their reliability constant at 55%. In that case, when the group splits 55–​45,
+the chance that the majority is correct is over 80%; if instead the group breaks 60–​40, the
+chance that the majority is correct rises to over 94%.
+   The effect is even more dramatic when, instead of increasing the size of the original
+group, we increase their reliability even slightly. Suppose, for example, that rather than
+assuming that the members of the group are a slightly better than chance 55% reliable,
+we more optimistically assume that they are 60% reliable. On that assumption, when the
+group splits 55–​45, the chance that the majority is correct is over 88%. When the group splits
+60–​40, the chance that the majority is correct rises to over 98%, with the chance that the
+minority view is correct less than 2%. In these circumstances, if we proportioned our subjective confidence to these chances, we would be virtually certain that the majority opinion
+is correct.
+   As noted above, there are many controversial philosophical issues with respect to which
+informed philosophical opinion divides quite unevenly, exceeding the 55–​45 or 60–​40 splits
+stipulated to hold in our toy models. Of course, even if we assume that an egalitarian theory
+of how to take the opinions of others into account is true, the high levels of confidence that
+would be licensed by lopsided majorities in the toy models would not be reliable guides to
+the levels of confidence licensed by similarly lopsided majorities within the philosophical
+community, for the toy models involve assumptions that clearly do not hold of the actual
+philosophical community. Notably, for example, each of the individuals in the toy model is
+stipulated to arrive at his or her views independently (as in the Mental Math Case), and it
+is manifestly not true that professional philosophers arrive at their philosophical views
+independently of one another. The toy models are thus meant to be suggestive rather than
+probative. Accordingly, the point that I wish to make is a relatively modest one: given the
+kinds of lopsided majorities that often obtain in philosophy, there is no reason to think
+that an adequate egalitarian theory (one which was sensitive to the various kinds of influence and dependencies in the way in which philosophers arrive at their views) would
+end up recommending agnosticism as the correct general response to philosophical
+controversy, as opposed to a relatively confident belief that a certain position is true in
+many cases.
+   Of course, we can imagine possible histories of how the actual distribution of philosophical opinion came about that would warrant agnosticism, given a conciliatory view of peer
+disagreement. For example, suppose that the following were true: not only do professional
+philosophers not arrive at their opinions in complete independence from one another, but
+in fact, any philosopher automatically inherits any view that is adamantly held by his or
+her dissertation adviser. The reason why over 75% of epistemologists think that there is
+at least some a priori knowledge is that they studied with the leading guru at The School
+of Rationalism, while the fewer than 15% who deny this studied with the leading guru at
+The School of Empiricism. Here the numbers should drop out entirely: assuming that the
+rationalist guru and the empiricist guru are counted as peers, the case effectively reduces
+
+=== p. 389 ===
+
+to the kind of two-​person case of peer disagreement that is often the focus of attention in
+the literature, in response to which conciliatory views typically counsel agnosticism. But of
+course, we know that nothing like this fictitious history is actual.
+   We should also note that there are at least some possible conciliatory views that would
+warrant philosophical agnosticism as things actually stand. For example, consider a view
+according to which you cannot reasonably believe p so long as some formidable philosopher earnestly denies p. Given that with respect to almost any philosophically controversial issue, one can typically find at least one formidable philosopher on either side of the
+question, this conciliatory view would consistently recommend agnosticism in cases of
+philosophical controversy. But this conciliatory view is not a plausible one, as it in effect
+attributes too much undermining power to the views of formidable outliers.18 (Even if some
+mathematically competent person in our group comes up with a different answer than the
+rest of us, it does not follow, on any remotely plausible view of disagreement, that suspension of judgment is required.)
+   Another worry about the line of argument sketched in this section runs as follows. In the
+toy models we have considered, it was assumed not only that the peers arrive at their views
+independently, but also that that they are at least slightly better than chance in answering
+the relevant questions correctly.19 Is even this seemingly modest assumption too optimistic
+in the case of philosophy? Perhaps philosophers are so unreliable that they would be better
+off flipping coins than attending to arguments in trying to answer questions like “Is some
+of our knowledge a priori?” or “Is free will compatible with determinism?” In general, if it
+is assumed that the members of a group are sufficiently unreliable, then it is not the case
+that a lopsided majority is more likely to be correct than the badly outnumbered minority. Indeed, as is well known, in cases where the members of a group are anti-​reliable, the
+Condorcet reasoning works in reverse, and the chance that the outnumbered minority is
+correct approaches one as the lopsidedness of the split increases. So if one has reason to
+believe that philosophers are sufficiently unreliable, then the mere fact that a substantial
+majority of the community has arrived at a particular view does not give one a reason to be
+confident that that view is true.
+   While this last point is correct, it is important to recognize that its truth poses no threat
+to the main thesis of this chapter. Again, that thesis is that there is no plausible view about
+the epistemology of disagreement that would require us to be philosophical agnostics. The
+possibility under consideration in this section is the following: if an egalitarian version of
+conciliationism turns out to be correct (that is, a version of conciliationism that is very liberal in counting people as “peers”), then we are required to be philosophical agnostics. But
+the crucial point is this: there is no plausible view about the epistemology of disagreement
+on which you are rationally required to conciliate your opinions with the members of a
+
+       Compare: it is generally thought that the distribution of opinion among climatologists about
+whether man-​made global warming is occurring increases, rather than decreases, the justification
+that most people have for believing that it is occurring, despite the fact that at least some of those best
+positioned to judge believe otherwise. (And despite the fact that the climatologists who believe that it
+is occurring did not arrive at that opinion in complete independence of one another.)
+    19 According to an important extension of the Condorcet Jury Theorem due to Grofman et al. (1983),
+
+it is not necessary that every member of the group be at least slightly better than chance, only that the
+average of their individual probabilities be at least slightly better than chance.
+
+=== p. 390 ===
+
+group that is completely unreliable. For it can be shown mathematically that conciliating
+in such circumstances is a suboptimal way to manage your opinions: even if you are as
+unreliable as every other member of the group, you would be better off adopting a policy
+of simply sticking with your original opinion (Grofman et al. 1983).20 The charitable way
+to understand conciliationist views, I believe, is to understand them as tacitly restricted to
+domains where the peers are (reasonably believed to be) at least marginally more reliable
+than chance with respect to the relevant subject matter. Call this the Minimal Reliability
+Proviso.
+   Suppose that some version of egalitarian conciliationism is in fact the correct account
+when the Minimal Reliability Proviso is satisfied, and that the Proviso is satisfied with
+respect to some philosophical questions. In these cases, the correct account of how we
+should take the opinions of others into account might very well recommend not agnosticism but rather a relatively confident opinion in the majority view. Of course, even if
+egalitarian conciliationism does not proscribe your holding a confident view about some
+philosophical issue, it might very well proscribe your holding your own preferred view
+about the issue (that is, the view that you would hold if you made up your mind on the basis
+of your own assessment of the issue).21 One might try to downplay the significance of this
+by emphasizing the following point: in cases where a significant majority has emerged, it
+is only the members of the minority who would have to switch positions, so most of those
+with a view about the issue could go on believing what they already believed. However,
+even for members of the majority, the truth of egalitarian conciliationism would be of significance: for the fact that it is reasonable for them to continue holding the same view is not
+because this is the view that they judged most reasonable in the light of the considerations
+that bear on it, but rather because of its status as the view favored by the majority. For this
+reason, the truth of an egalitarian version of conciliationism would be a matter of great
+methodological significance for philosophy, even if such a view would not (as argued here)
+support widespread philosophical agnosticism.
+
+   20 Informally, the point is well illustrated by an example suggested by Hud Hudson (personal
+
+correspondence). Imagine a confidence game taking place on a city street corner, in which a crowd of
+spectators are playing guess-​which-​cup-​t he-​ball-​is-​under-​t his–​time. There are five cups, one ball, a
+dexterous handler, and a lot of people losing money. The dexterous handler isn’t cheating—​he’s simply
+very good at getting people to think that they know where the ball is when they don’t. Suppose that
+five of us have been watching for some time now, and we each have the same dismal track record of
+25%. After closely observing the latest shuffle, four of us report that it seems to us that the ball is under
+the far right cup, while it seems to you that the ball is under the far left cup. In these circumstances,
+you should not treat the fact that your peers have independently converged on a particular answer as
+evidence in favor of that answer and against your own; indeed, you should treat the fact that your peers
+have converged on a particular answer as evidence against that answer.
+   21 As a referee pointed out to me: although in Elga’s terminology “the spinelessness objection”
+
+refers to the concern that conciliationism will require one to suspend judgment on all controversial
+questions (cf. footnote 11), the term “spinelessness” perhaps more naturally suggests a different
+objection, namely, that conciliationism does not permit one to stand by one’s own position, even in
+cases in which it does permit one to stand by some position.
+
+=== p. 391 ===
+
+                                 5. Conclusion
+
+While it is perhaps unsurprising that steadfast views make room for the possibility of
+rationally holding confident opinions about philosophically controversial issues, it is more
+surprising that plausible conciliatory views do so as well. Indeed, having argued for the
+chapter’s main thesis, we can conclude by offering the following speculative conjecture,
+one that stands at variance with much thinking on this topic: when it comes to philosophically controversial issues, those who faithfully adhere to plausible conciliationist views will
+often end up more confident than those who faithfully adhere to relatively pure forms of
+steadfast views.
+   A natural assumption is that, when it comes to fiercely contested issues in philosophy,
+conciliatory views of disagreement will license at best relatively diffident, weak opinions (if
+not suspension of judgment), while steadfast views will be more hospitable to the holding of
+relatively strong, confident opinions. The underlying picture is that conciliatory views will
+lead to greater moderation in how one distributes one’s credence among alternative positions in virtue of the weight that one is required to give to the views of others. In contrast,
+on a view such as the Right Reasons View, one can in effect ignore the opinions of others so
+long as one takes into account the arguments and considerations on which their opinions
+are based; freed from such potentially moderating influences and left to one’s own devices,
+one ends up with very confident opinions. However, that picture is potentially misleading,
+both in what it suggests about conciliatory views as well as in what it suggests about steadfast views. First, a plausible conciliatory view will treat the distribution of peer opinion as
+mandating a middling credence only if opinion among the relevant group of people is more
+or less evenly split; on the other hand, to the extent that one position emerges as favored
+within the group, the conciliatory view will recommend increasingly greater levels of confidence in its correctness. Moreover, a view like the Right Reasons View will recommend a
+high degree of confidence in a given philosophical position only if the original, first-​order
+evidence and arguments available to the believer really do decisively support that view, as
+opposed to a case in which the first-​order evidence is mixed, with genuinely powerful arguments on both sides, in a way that recommends either suspension of judgment or some
+middling credence in the best-​supported position.
+   Thus, the idea that conciliatory views will require relatively diffident opinions about
+controversial philosophical issues, while steadfast views will legitimate relatively strong
+opinions, depends on two background assumptions about what tends to be true in such
+cases: (i) that the first-​order evidence, when taken by itself, is strong enough to warrant a
+confident opinion about the topic, and (ii) that creditable philosophical opinion is not only
+divided, but is divided more or less evenly. But on reflection, we seem to have relatively little
+reason to think these assumptions are generally true, or even that they hold in most cases.
+   With respect to (i): it is independently plausible that, in many cases of the relevant kind,
+the evidence that is available to the philosophical community (in the form of arguments,
+and so on) is relatively inconclusive, compared to the kind of evidence that one has for
+many of one’s non-​philosophical opinions, and is not of a kind that would license a particularly high level of confidence. After all, when it comes to controversial questions in philosophy, we frequently find formidable arguments and considerations pulling in opposite
+
+=== p. 392 ===
+
+directions, and even those arguments that seem compelling often lack the kind of probative force that is had by mathematical proofs, or even the kinds of considerations that can
+be brought forward in support of either our best-​confirmed scientific theories or the more
+certain of our ordinary beliefs. In such cases, steadfast views that presuppose a permissive conception of rationality will see the “permissibility band” as encompassing a range
+of relatively middling credences, with levels of confidence approaching certainty squarely
+outside the band. Similarly, the Right Reasons View will not license a high level of confidence either, for the simple reason that such a level of confidence is not warranted by the
+original, first-​order evidence.
+   With respect to (ii): based on the best information we have about the state of informed
+philosophical opinion, it seems that even when such opinion is divided, it is often not
+evenly divided: rather, in many cases, such opinion comes down more heavily on one side
+than the other. In cases in which informed philosophical opinion divides in a lopsided
+manner, plausible conciliatory views will often license the holding of relatively confident
+philosophical opinions (at least if there is a significant amount of independence in the way
+that those in the majority arrived at their view). This is because we can expect plausible
+conciliationist views to accommodate the following epistemic phenomenon: even when no
+one is in a particularly strong position to judge whether p, sufficient convergence on p can
+make it rational to invest a relatively high degree of confidence in p. For example, if each of
+us attempts to read a sign at a distance in poor viewing conditions, the fuzzy visual appearance that is presented to each of us might justify only a weak, tentative belief that the first
+word on the sign is “our” as opposed to “out”. However, if it turns out that a substantial
+majority of our group weakly judges that the sign reads “our”, then this might justify our
+investing a relatively high level of confidence that the sign says “our”, despite the relatively
+impoverished character of what each of us had to go on in arriving at that view.
+   The sense in which conciliatory views counsel moderation should thus not be misunderstood. Conciliatory views will counsel one to moderate one’s views in response to learning that others who are in a good position to judge think differently, but this is not to be
+confused with ending up with moderate opinions in cases in which competent opinion is
+unevenly divided. Indeed, it is possible that, when applied to the special case of philosophy,
+those who faithfully adhere to conciliatory views of disagreement will often end up more
+confident of their controversial philosophical opinions than those who faithfully adhere to
+more steadfast views.22
+
+References
+Armstrong, David (2006). “The Scope and Limits of Human Knowledge”. Australasian
+Christensen, David (2007). “Epistemology of Disagreement: The Good News”. Philosophical
+  Review 116(2):187–​217.
+
+   22 Many of the ideas in this paper were presented at a meeting of my Spring 2013 graduate seminar
+
+at Princeton University, which was co-​taught with John Hawthorne. I’d like to thank John and the
+students, as well as an anonymous referee for Oxford University Press, for very helpful feedback.
+
+=== p. 393 ===
+
+Christensen, David (2011). “Disagreement, Question-​Begging, and Epistemic Self-​Criticism”.
+  Philosophers’ Imprint 11(6): 1–​22.
+Christensen, David and Lackey, Jennifer (2013). The Epistemology of Disagreement: New
+  Essays. Oxford: Oxford University Press.
+Elga, Adam (2007). “Reflection and Disagreement”. Noûs 41(3): 478–​502.
+Feldman, Richard (2006). “Epistemological Puzzles about Disagreement”. In Hetherington
+  (ed.) Epistemology Futures. Oxford: Oxford University Press, 216–​36.
+Feldman, Richard (2009). “Evidentialism, Higher-​Order Evidence, and Disagreement”.
+  Episteme 6(3): 294–​312.
+Feldman, Richard and Warfield, Ted (eds.) (2010). Disagreement. Oxford: Oxford
+  University Press.
+Frances, Bryan (2010). “The Reflective Epistemic Renegade”. Philosophy and
+  Phenomenological Research 81(2): 419–​63.
+Frances, Bryan (2013). “Philosophical Renegades”. In Christensen and Lackey, 121–​66.
+Fumerton, Richard (2010). “You Can’t Trust a Philosopher”. In Feldman and Warfield, 91–​110.
+Goldberg, Sanford (2009). “Reliabilism in Philosophy”. Philosophical Studies 124: 105–​17.
+Goldberg, Sanford (2013). “Disagreement, Defeat, and Assertion”. In Christensen and Lackey,
+  167–​89.
+Grofman, Bernard, Owen, Guillermo, and Feld, Scott L. (1983). “Thirteen Theorems in Search
+  of the Truth”. Theory and Decision 15(3): 261–​78.
+Kelly, Thomas (2005). “The Epistemic Significance of Disagreement”. In John Hawthorne
+  and Tamar Gendler (eds.), Oxford Studies in Epistemology, Volume 1. Oxford: Oxford
+  University Press, 167–​96.
+Kelly, Thomas (2010). “Peer Disagreement and Higher Order Evidence”. In Feldman and
+  Warfield, 111–​74.
+Kelly, Thomas (2013a). “Disagreement and the Burdens of Judgment”. In Christensen and
+  Lackey, 31–​53.
+Kelly, Thomas (2013b). “Evidence Can Be Permissive.” In Steup et al., 298–​313.
+Kelly, Thomas (2014). “Believers as Thermometers”. In Jonathan Matheson and Rico Vitz
+  (ed.). The Ethics of Belief Oxford: Oxford University Press, 301–​14.
+King, Nathan (2012). “Disagreement: What’s the Problem? or A Good Peer is Hard to Find”.
+  Philosophy and Phenomenological Research Vol. LXXXV(2): 249–​72.
+Kornblith, Hilary (2010). “Belief in the Face of Controversy”. In Feldman and Warfield, 29–​52.
+Lasonen-​ Aarnio, Maria (2013). “Disagreement and Evidential Attenuation”. Noûs
+  47(4): 767–​94.
+Matheson, Jonathan (2009). “Conciliatory Views of Disagreement and Higher-​             Order
+  Evidence”. Episteme: A Journal of Social Epistemology 6(3): 269–​79.
+McGrath, Sarah (2007). “Moral Disagreement and Moral Expertise”. In Shafer-​Landau (ed.),
+  Oxford Studies in Metaethics Vol. 4. Oxford: Oxford University Press, 87–​107.
+McGrath, Sarah (2009). “The Puzzle of Pure Moral Deference”. Philosophical Perspectives
+  23(1): 321–​44.
+McGrath, Sarah (2011). “Skepticism about Moral Expertise as a Puzzle for Moral Realism”.
+McGrath, Sarah and Kelly, Thomas (forthcoming). “Are There Any Successful Philosophical
+  Arguments?” To appear in an Oxford University Press festschrift for Peter van Inwagen
+  edited by John Keller.
+Rosen, Gideon (2001). “Nominalism, Naturalism, Epistemic Relativism”. Noûs 35: 69–​91.
+
+=== p. 394 ===
+
+Scanlon, Thomas (2014). Being Realistic About Reasons. Oxford: Oxford University Press.
+Setiya, Kieran (2012). Knowing Right from Wrong. Oxford: Oxford University Press.
+Steup, Mathias, Turri, John, and Sosa, Ernest (eds.) (2014) Contemporary Debates in
+   Epistemology. 2nd edition. Oxford: Blackwell Publishers.
+Titelbaum, Michael (2015). “Rationality’s Fixed Point (Or: In Defense of Right Reason)”. In
+   John Hawthorne and Tamar Gendler (eds.), Oxford Studies in Epistemology, Volume 5.
+   Oxford: Oxford University Press: 253–​94.
+van Inwagen, Peter (1996). “‘It is Wrong Everywhere, Always, and for Anyone to Believe
+   Anything on Insufficient Evidence’”. In Jordan & Howard-​Snyder (eds.), Faith, Freedom
+   and Rationality. Savage, Maryland: Rowman and Littlefield, 137–​54.
+van Inwagen, Peter (2006). The Problem of Evil. New York: Oxford University Press.
+Weatherson, Brian (2013). “Disagreements, Philosophical, and Otherwise”. In Christensen
+   and Lackey, 54–​76.
+White, Roger (2013). “Evidence Cannot Be Permisssive”. In Steup et al., 312–​23.
+

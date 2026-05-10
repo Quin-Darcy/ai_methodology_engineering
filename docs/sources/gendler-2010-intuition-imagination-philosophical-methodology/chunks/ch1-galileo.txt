@@ -1,0 +1,895 @@
+=== chunk: gendler-2010-intuition-imagination-philosophical-methodology/ch1-galileo ===
+title: Galileo and the Indispensability of Scientific Thought Experiment
+source_pdf: docs/sources/gendler-2010-intuition-imagination-philosophical-methodology/full.pdf
+pdf_pages: 32-52
+page_scheme: book
+plan_page_start: 21
+plan_page_end: 41
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 21 ===
+
+       Galileo and the Indispensability of
+       Scientific Thought Experiment
+
+In this chapter, I attempt to show that thought experiments play a distinctive role in
+scientific inquiry. I contend that reasoning about particular entities within the context of
+an imaginary scenario can lead to rationally justified conclusions that—given the same
+initial information—would not be rationally justifiable on the basis of a straightforward
+   Though the bulk of the essay involves a careful reconstruction of one of the most famous
+thought experiments in the history of science—that by which Galileo is said to have refuted
+the Aristotelian theory that heavy bodies fall faster than lighter ones—the conclusion it
+offers is supposed to be a general one.
+   I show that the standard argumentative reconstruction of Galileo’s thought experiment
+fails to capture its justificatory power, and I suggest reasons to think that any other
+argumentative reconstruction would fail in similar ways. I then argue that even if one
+were to provide an argumentative reconstruction that did almost perfectly capture the
+thought experiment’s demonstrative force, this would not show that the reason the
+thought experiment is successful is because, deep down, it is nothing more than an
+argument in disguise. I suggest that, to the contrary, the success of the thought experiment is a result of the way in which it invites the reader’s constructive participation,
+describes particulars in ways that make manifest practical knowledge, and presents an
+imaginary scenario wherein relevant features can be separated from those that are inessential to the question at issue.
+  This essay and its successor—“Thought Experiments Rethought—and Reperceived”
+(Ch. 2)—form a natural pair. For those who prefer to read only one of them, this essay,
+which is more substantive and detailed, can be read as a self-standing piece.
+
+                                               ***
+This essay was first published in the British Journal for the Philosophy of Science, 49/3 (1998),
+397–424 and is reprinted with the kind permission of Oxford University Press. The version
+below omits one section of the original article (}3.4, pp. 415–20), which contains a detailed
+reconstruction of and response to arguments offered by John Norton and James Robert
+Brown. (Interested readers can, of course, find that discussion in the original published
+version.) The remainder of the text is unaltered except for the correction of minor typographical errors and stylistic infelicities, and the addition of some bibliographical and
+
+=== p. 22 ===
+
+supplementary material to certain footnotes (noted as such). As a result of reformatting,
+several footnote numbers have changed. The original number of each footnote is noted in
+[square brackets].
+
+1. Argumentative Reconstruction
+
+Philosophers who are opposed to all things spooky tend to think that thought
+experiments in science are (at least in principle) eliminable, and that whatever
+demonstrative force they have is the result of their being sound arguments dressed
+up in heuristically appealing clothing. On such a view, a scientific thought experiment’s justificatory force comes from the fact that it can be reconstructed as an
+argument with explicit premises that make no reference to imaginary particulars.
+  My goal in this paper is to challenge this view by carefully examining one of
+the most famous thought experiments in the history of science: that by which
+Galileo is said to have refuted the Aristotelian theory that heavier bodies fall
+faster than lighter ones. I will try to show that the thought-experimental format
+of Galileo’s presentation plays an indispensable role in the persuasiveness of his
+case against the Aristotelian, and that a similar degree of persuasiveness could
+not be obtained on the grounds of explicit argument alone.
+
+1.1. The Elimination Thesis
+The view that thought experiments lead to justified conclusions because
+they are arguments finds clear articulation and powerful defense in a pair of
+papers by John Norton.1 In those papers, Norton puts forth a hypothesis about
+thought experiments that he calls the Elimination Thesis. Paraphrasing slightly,
+his thesis is this:
+  The Elimination Thesis: Any conclusion reached by a (successful) scientific
+  thought experiment will also be demonstrable by a non-thought-experimental argument.2
+
+As initially formulated, the thesis is ambiguous; it is compatible with both a
+weaker reading, which I will call the Dispensability Thesis, and a stronger
+reading, which I will call the Derivativity Thesis (cf. Norton 1996: 354–8). In
+order to formulate these versions, however, I need first to clarify what a number
+
+  1
+     [1] Norton 1991, 1996. [Note added in 2009: Norton continues to defend this view; cf.
+Norton 2004a, 2004b.]
+  2
+     [2] Cf. Norton 1991: 131 and Norton 1996: 336. Note that although I am using Norton’s
+articulation and defense of this thesis as a convenient jumping-off point, the specifics of his
+position are not my target.
+
+=== p. 23 ===
+
+of terms in the thesis mean, and to describe briefly the sorts of arguments which
+might be offered in its favor.
+
+1.2. Clarification of Terminology
+A number of terms in the thesis require further elaboration. Let me begin with
+“thought experiment” and “non-thought-experimental argument.” To draw a
+conclusion on the basis of a thought experiment is to make a judgment about
+what would happen if the particular state of affairs described in some imaginary
+scenario were actually to obtain.3 One might then use that judgment in
+developing a more general theory, just as one might use the result of an
+actual experiment. By contrast, to draw a conclusion on the basis of a nonthought-experimental argument is to be led by a process of inductive or deductive
+reasoning from a set of explicit premises which make no reference to particular
+hypothetical or counterfactual states of affairs to a correspondingly general
+conclusion. Again, one might use that conclusion as the basis for endorsing
+one or another general theory about the phenomena in question. So thought
+experiments differ from non-thought-experimental arguments in two crucial
+respects: first, they are not presented as arguments, but rather as invitations to
+contemplate a way that the world might (have) be(en); and second, they make
+essential reference to particular hypothetical or counterfactual states of affairs
+(cf. Norton 1991: 229; Norton 1996: 336).
+   What the Elimination Thesis says is that any good scientific thought experiment can be transformed into a non-thought-experimental argument without
+loss of demonstrative force. Given the characterization just offered, what an
+elimination will involve is first a process of argumentative reconstruction in
+which the narrative presentation is replaced by a series of explicit premises
+sufficient to establish the desired result, and then a process in which those
+premises that make reference to hypotheticals, counterfactuals, and particulars
+are replaced by premises in which no such reference is made. If the Elimination
+Thesis is correct, such a process will preserve completely the thought experiment’s demonstrative force.
+   What is meant by “demonstrative force”? I will suggest two problematic
+readings and then one that I will endorse. If the claim that “any conclusion
+
+  3
+    [4] For other recent characterizations of (scientific) thought experiments see, for instance:
+Bealer 1998; Brown 1986, Brown 1991a, 1991b, 1993a, 1993b, 1995; Carrier 1993; Gooding
+1990, 1992, 1993, 1994; Hacking 1993; Humphreys 1993; Irvine 1991; Janis 1991; Kujundzic
+1993; Laymon 1991; Lipton 1993; Massey 1991; Nersessian 1984, 1992, 1993; Norton 1991,
+1993, 1996; Prudovsky 1989; Shepard 1994; Sorensen 1992a, 1992b; Wilkes 1988; as well as
+other articles in Horowitz and Massey 1991. The locus classicus is, of course, Mach 1883/1960,
+1897/1976; for other early discussions cf. also Hesse 1966; Koyré 1960/1968; Kuhn 1964;
+Popper 1959/1992. [Added in 2009: For additional recent discussions, see Atkinson 2003;
+Brendel 2004; Brown 2004a, 2004b; Davies 2007; DeMey 2006; Norton 2004a, 2004b;
+Palmieri 2003, 2008; Peijnenburg and Atkinson 2003.]
+
+=== p. 24 ===
+
+reached by a good thought experiment will also be demonstrable by a nonthought-experimental argument” means no more than that in the reconstruction of a mature science, the conclusions that were (as a matter of fact) reached
+by thought experiments can be derived from more fundamental principles by
+means of inference schemes licensed within the science, then the thesis is
+trivially true. Even if the development of Newtonian mechanics relied on a
+series of crucial thought experiments, its textbook presentation might well
+establish particular conclusions on the basis of more conventional forms of
+   On the other hand, there is a reading of “demonstrative force” according to
+which the thesis is trivially false. If the claim is taken to mean that—as a matter
+of psychological fact—any conclusion that was reached by a good thought experiment might also have been demonstrated to the person who reached the conclusion by means of a non-thought-experimental argument, then the Elimination
+Thesis is certainly untrue. None would doubt the important heuristic and illustrative role played by thought experiments in scientific exploration, and the crucial
+tasks they play in instruction and informal demonstration.
+   The proper reading of “demonstrative force” makes the Elimination Thesis
+epistemologically interesting. On this reading, demonstrative force concerns
+the role that thought experiments play in living bodies of knowledge: after the
+moment of discovery and before the end of inquiry. It concerns whether a
+particular conclusion based on a particular process of reasoning (thought experiment) is thereby justified—whether if such a process leads to true beliefs,
+those beliefs should count as knowledge. So the issue raised by the Elimination
+Thesis is this: can reasoning about (reasonably) specific entities within the
+context of an imaginary scenario lead to rationally justified conclusions
+that—given the same initial information—would not be rationally justifiable
+on the basis of a straightforward argument? In the next section, I consider two
+reasons that one might think such eliminations are possible.
+
+1.3. The Negative Argument and the Positive Argument
+The Elimination Thesis (that is, the thesis that thought experiments are dispensable) can be defended with two arguments, one negative, one positive.
+So, for instance, John Norton argues (negatively) as follows: thought experiments must be arguments because there is nothing else for them to be:
+“Thought experiments in physics provide or purport to provide us information
+about the physical world. Since they are thought experiments rather than physical experiments, this information does not come from the reporting of new
+physical data. Thus there is only one non-controversial source from which the
+information can come: it is elicited from information we already have by an
+identifiable argument” (Norton 1991: 129). Norton considers this position
+almost trivial: “the alternative,” he writes, “is to suppose that thought
+
+=== p. 25 ===
+
+experiments provide some new and even mysterious route to knowledge of the
+physical world” (Norton 1991: 129).4 So the negative argument contends that if
+we have obtained new information about the empirical world without having
+obtained new empirical information about the empirical world, the only way we
+could have done so is by means of an argument.
+   The positive reason that one might think that thought experiments are
+just arguments in disguise is that “the analysis and appraisal of a thought experiment will involve reconstructing it explicitly as an argument,” so that “a good
+thought experiment is a good argument, a bad thought experiment is a bad
+argument” (Norton 1991: 131; Norton 1996: 335). So the positive argument
+amounts to saying that if a thought experiment can be reconstructed as
+an argument, then what it was all along was an argument.5 Even if the reason
+I come to know something by contemplating a thought-experimental scenario
+doesn’t seem to be because there is an argument into which the thought experiment can be reconstructed, it is. The reason my belief is justified is because, in the
+end, the thought experiment was a disguised argument all along.
+
+1.4. The Dispensability Thesis and the Derivativity Thesis
+We are now in a position to recognize that the Elimination Thesis as originally
+formulated and defended actually involves two distinct claims. These might be
+stated as follows:
+  The Dispensability Thesis: Any good scientific thought experiment can be
+  replaced, without loss of demonstrative force, by a non-thought-experimental argument.
+  The Derivativity Thesis: The justificatory force of any good scientific thought
+  experiment can only be explained by the fact that it can be replaced, without
+  loss of demonstrative force, by a non-thought-experimental argument.
+
+  Loosely put, the Dispensability Thesis says that we can always get from here
+to there without appeal to a thought experiment. If a thought experiment
+legitimately transports us from one state of belief to another, a non-thoughtexperimental argument could too. Thought experiments may be convenient
+and efficient ways of reaching conclusions about the physical world, but they
+have only the advantage that a car has over walking; they get us where we want
+to go much more quickly, but they don’t get us anywhere we couldn’t reach by
+more pedestrian means.
+
+  4
+    [6] For an endorsement of this alternative, cf. Brown 1991a, 1991b, 1993a, 1993b, 1995.
+[Added in 2009: Brown continues to defend this view; see Brown 2004a, 2004b.]
+  5
+    [7] “The workings and achievements of any thought experiment can be revealed and
+captured fully in an explicit argument which employs the same resources” (Norton 1996:
+339). Cf. also Norton 1996: 357–8.
+
+=== p. 26 ===
+
+   The Derivativity Thesis says that not only can any good scientific thought
+experiment be replaced, without loss of demonstrative force, by a non-thoughtexperimental argument, but that to the extent that a good scientific
+thought experiment has demonstrative force, it is because, deep down, the
+thought experiment is an argument. We may be misled by the surface features
+of the case to think that something non-argumentational is doing justificatory
+work, but we are wrong. The reason the Dispensability Thesis is true is that all
+that was ever justificatorially at play was something argumentative. What
+looked like a car turned out to be propelled by foot power all along (like a
+child’s go-car, or one of the vehicles on The Flintstones). So the Dispensability
+Thesis says we can get by without what we commonly call thought experiments; the Derivativity Thesis tells us that we already do.
+   In the next section, I challenge the Dispensability Thesis by showing that it
+does not hold true of a widely acclaimed thought experiment of Galileo’s.
+I choose this case for two reasons. First, since this particular example is generally
+treated as the paradigm of an effective thought experiment, diagnosing
+the source of its success is itself a worthwhile endeavor.6 Second, challenging
+the Dispensability Thesis in this way allows me to shed light on the Derivativity
+Thesis as well. Obviously, if the Dispensability Thesis is false, the Derivativity
+Thesis is too; the more interesting question is whether some alternative
+explanation can be offered of the thought experiment’s success. I try to say
+something positive about this question in }}3 and 4.
+
+2. Galileo’s Thought Experiment and its Reconstruction
+
+2.1. Galileo’s Thought Experiment
+Perhaps the most famous thought experiment in the history of Western science
+is the thought experiment with which Galileo is credited with having refuted
+the Aristotelian view that the speed with which a body falls is directly
+
+  6
+     [8] For some of the many discussions of this and related thought experiments of Galileo, cf.
+Brown 1986, 1991a, 1991b, 1993a, 1993b, 1995; Cargile 1987; Clement 1983; Koyré 1939/
+1979, 1960/1968; Kuhn 1964; Norton 1996; Prudovsky 1989; Sorensen 1992a. [Added in 2009:
+See also the detailed discussions in Palmieri 2005a, 2005b, 2008. Thanks to David M. Miller for
+alerting me to this work.] In my discussion below, I follow the somewhat unfortunate practice
+of considering this thought experiment outside of both its historical and textual contexts. As a
+partial remedy to this misleading presentation, I refer the reader to some of the many general
+discussions of Galileo’s work and its context; one might fruitfully begin with: Butts and Pitt
+1978; Claggett 1959; Clavelin 1974; Cooper 1935; Damerow et al. 1992; E. J. Dijksterhuis 1961;
+Drake 1978, 1989, 1990. See also sources listed in the next three footnotes. [Added in 2009: For
+recent meticulous discussion and extensive references, see Palmieri 2008.]
+
+=== p. 27 ===
+
+proportional to its weight.7 The thought experiment appears in his last and
+most mature work, the Discourse Concerning Two New Sciences, in the context of
+a more general discussion of the possibility and nature of motion in a void.8
+Galileo’s goal in the section as a whole is to establish that “if one were to remove
+entirely the resistance of the medium, all materials would descend with equal
+speed” (Galilei 1638/1989: 116);9 the thought experiment in question leads to
+the weaker conclusion that “both great and small bodies, of the same [material ],
+are moved with like speeds” (Galilei 1638/1989: 109, italics added, bracketed
+word replaced).
+   The view that Galileo is challenging is that “moveables differing in heaviness
+are moved in the same medium with unequal speeds, which maintain to one
+another the same ratio as their weights [gravità]” (Galilei 1638/1989: 106). That
+is, he is challenging the view that heavier bodies fall faster than lighter ones,
+and that they do so in direct proportion to their heaviness. On the version
+Galileo takes himself to be opposing, the proportionality is linear: “a moveable
+ten times as heavy as another, is moved ten times as fast” as the other (Galilei
+1638/1989: 106).10
+   The famous thought experiment, rephrased slightly, is the following. Imagine that a heavy and a light body are strapped together and dropped from a
+significant height.11 What would the Aristotelian expect to be the natural speed
+of their combination? On the one hand, the lighter body should slow down the
+heavier one while the heavier body speeds up the lighter one, so their combination should fall with a speed that lies between the natural speeds of its
+components. (That is, if the heavy body falls at a rate of 8, and the light body
+
+     7
+       [9] Challenges to the Aristotelian thesis—both empirical and conceptual—had appeared
+in a number of mid- and late 16th-c. works. (For relevant passages, see: [for Cardan] L. Cooper
+1935: 7–77; Damerow et al. 1992: 365; [for Tartaglia] Drake and Drabkin 1969: 63–143, esp. 120
+ff.; Damerow et al. 1992: 378; [for Benedetti] Drake and Drabkin 1969: 147–237, esp. 206, and
+31–41; E. J. Dijksterhuis 1961: 269–71; Drake 1989: 27–30; [for Stevin] L. Cooper 1935: 77–80;
+E. J. Dijksterhuis 1961: 324–9.)
+     8
+       [10] Galileo himself had produced a less conclusive version of the famous thought
+experiment as early as 1590 in an unfinished and unpublished dialogue on motion; cf. L.
+Cooper 1935: 80–90; Drake and Drabkin 1969: 331–77; Galilei 1590/1960: 26–38, esp. 29
+(National Edition, p. 265). For an interesting discussion of whether Galileo ever actually
+performed such an experiment, cf. L. Cooper 1935; Drake 1978, 1989, 1990; Drake and
+Drabkin 1969; Koyré 1960/1968; Segre 1989. Since my primary purpose in this essay is not
+historical, I will focus only on Galileo’s 1638 presentation of the refutation, bracketing the
+interesting question (a question not without philosophical interest) of why it was that such a
+simple and obvious mistake apparently remained part of the West’s scientific world view for
+nearly 2,000 years.
+     9
+       [11] Here and elsewhere, I have made use of Drake’s 1974/1989 translation of the Discorsi.
+For easy cross-referencing with the more widely available (though less reliable) Crew and De
+Salvio translation, page references are to the National Edition (except where noted).
+   10
+       [12] Cf. Aristotle Physics 215a24–216a21; On the Heavens 301b.
+   11
+       [13] Note that in the remarks that follow, all references to bodies should be understood as
+referring to bodies of the same material. For the purposes of my discussion, this constraint is
+irrelevant.
+
+=== p. 28 ===
+
+at a rate of 4, then their combination should fall at a rate between the two
+(cf. Galilei 1638/1989: 107).) On the other hand, since the weight of the two
+bodies combined is greater than the weight of the heavy body alone, their
+combination should fall with a natural speed greater than that of the heavy
+body. (That is, if the heavy body falls at a rate of 8 and the light body at a rate
+of 4, their combination should fall at a rate greater than 8.) But then the
+combined body is predicted to fall both more quickly, and more slowly,
+than the heavy body alone (cf. Galilei 1638/1989: 107–8). The way out of this
+paradox is to assume that the natural speed with which a body falls is independent of its weight: “both great and small bodies . . . are moved with like speeds”
+(Galilei 1638/1989: 109).
+
+2.2. Reconstruction of the Galileo Case
+Transformed into an argument that conforms to the strictures of the Elimination Thesis, Galileo’s reasoning can be reconstructed as follows.12 The first
+claim of the Aristotelian is that:
+
+(1)   Natural speed is mediative.
+That is, natural speed is a property such that if a body A has natural speed s1,
+and a body B has natural speed s2, the natural speed of the combined body A-B
+will fall between s1 and s2.
+  The second premise of the reconstruction is that:
+
+(2)   Weight is additive.
+That is, weight is a property such that if body A has weight w1, and body B has
+weight w2, the weight of the combined body A-B will be equal to the sum of w1
+and w2.
+  From these two premises (plus the assumption that not all weights and
+natural speeds are either zero or infinite), it follows that:
+
+(3)   Natural speed is not directly proportional to weight.
+
+For the first is a mediative property, whereas the second is an additive property,
+and a mediative property cannot be directly proportional to one that is additive.
+Furthermore, the only way to maintain (1), (2), and (3) simultaneously is to
+assume that all natural speeds are the same. Then weight might be additive and
+natural speed (in a vacuous sense) mediative, with no contradiction thereby
+implied. Thus natural speed is shown to be independent of weight.
+
+          12
+               [14] For Norton’s reconstruction of this case, cf. Norton 1996: 340–5.
+
+=== p. 29 ===
+
+2.3. Four Ways Out for the Aristotelian
+If the Dispensability Thesis is true, then Galileo’s thought experiment should be
+replaceable by some non-thought-experimental argument without loss of demonstrative force. My goal in the next two sections (2.3 and 2.4) is to show that
+the reconstruction presented in }2.2 is not such an argument.13
+   I begin my case by pointing out that there are a number of “ways out” for the
+defender of the view that natural speed is directly correlated with weight—a
+view which, for the sake of convenience, I will call the Aristotelian view. These
+ways out involve denying premises (1) and (2) by proposing a series of alternative hypotheses about the physical properties of strapped-bodies, that is, bodies
+of the sort described by the thought experiment. The point of talking about
+these ways out is to show that there are ways to maintain the negation of
+(3) by adopting alternatives to (1) and (2), and adopting these may well
+be less disruptive to the Aristotelian picture than giving up (3). What I will
+suggest below is that these ways out, though logically available, run counter
+to certain tacit knowledge about the physical world. It is for this reason
+that, when the case is presented as a thought experiment, they do not even
+occur to us. To block them as moves in a straight argument, however, requires
+metaphysical commitments that seem not to be at play in the thought experiment itself. What these commitments are, and what role I think they actually
+play in Galileo’s reasoning is a point I will turn to after presenting the four
+ways out.
+   The first way out would be for the Aristotelian to deny that the properties in
+question are determinate for strapped-together bodies in one of the following
+two ways.
+
+(4) Natural speed is not physically determinate for strapped-bodies.14
+(5) Weight is not physically determinate for strapped-bodies.
+That is, she might reject (1) or (2) on the grounds that they presuppose that
+natural speed and weight are properties that apply universally, even to bodies
+that are in some way monstrous.15 Since strapped-bodies are odd entities, she
+might say, they need not be governed by the sorts of laws that govern ordinary
+objects. In particular, they need not have determinate natural speeds or
+weights.
+
+  13
+     [15] Below I suggest reasons for thinking that this will be true for any argumentative
+reconstruction that conforms to the strictures of the elimination thesis.
+  14
+     [16] For a version of this “way out,” cf. Koyré 1960/1968: 51.
+  15
+     [17] Galileo preemptively deals with this by getting a concession from Simplicio straight
+away that “for every heavy falling body there is a speed determined by nature such that this
+cannot be increased or diminished except by using force or opposing some impediment to it”
+(Galilei 1638/1989: 107); cf. also Drake’s n. 40 in Galilei 1638/1989 at (modern pagination)
+p. 66.
+
+=== p. 30 ===
+
+  The third way out for the Aristotelian would be to avoid the conflict between
+(1) and (2) by saying that there is a fact of the matter about whether a strapped-body is one body or two, and that its physical properties in falling will depend
+on the answer to this question. She might say:
+
+(6)   Natural speed and weight are mediative for strapped-bodies that are united.
+      Natural speed and weight are additive for strapped-bodies that are unified.
+That is, sometimes when two bodies are strapped together, they are merely
+united and remain, as a matter of fact, two objects; sometimes, when they are
+strapped together, they are unified and form, as a matter of fact, a single object.
+In the first case, both weight and speed will be mediative; the combined body
+will have a weight intermediate between those of the two original bodies, and
+fall with a natural speed that lies between the two original speeds. In the second
+case, both properties will be additive; the weight of the unified body will be
+equal to the sum of the weights of its component parts, and its natural speed
+correspondingly equal to the natural speeds of the two combined. Since the
+mediativity of the properties holds only with respect to united pairs of objects,
+and the additivity only with respect to unified single objects, there is no way
+that the Aristotelian can be forced to a contradiction. What she is forced to
+accept, however, are radical discontinuities in nature. A body, united, might be
+falling steadily at a rate of, say, 6, and suddenly, should its parts happen to
+become unified, begin falling at a rate of, say, 12.
+   But the Aristotelian can avoid the problem of discontinuity. A fourth way
+would be for her to say that, given two bodies that fall together, there is a fact of
+the matter about their degree of connectedness, and that this determines their
+physical properties when falling. The claim would be:
+
+(7)   Natural speed and weight for strapped-bodies are determined by a degree of
+      connectedness (C) such that the speed/weight of B1-strapped-to-B2 where B1
+      has w1 and B2 has w2 will be: (C)(w1þw2) þ (1-C)(w1þw2)/2.16
+
+We let C measure the degree of connectedness between the two bodies; that is, we
+let it be a number between zero and one that corresponds to the degree to which
+two bodies that fall together are unified: if the bodies are completely unified, C
+will take a value of 1; if the bodies are completely disunified (that is, united), C will
+take a value of 0. For intermediate cases, the value will be between these two, and
+the speed and weight of the combined body will lie between the mean and the
+sum of the two initial values. So if the two bodies are completely unified, the
+
+  16
+     [18] To keep the equation minimally complicated, I have made a number of trivial
+simplifying assumptions. I have assumed that the units for measuring weight and natural
+speed correspond so that the number representing an object’s weight is the same as the
+number representing its natural speed; and I have assumed that the natural speed of two
+merely unified bodies is the mean of their individual natural speeds.
+
+=== p. 31 ===
+
+additive law will apply completely; if the bodies are merely unified, the mediative
+law will apply throughout; and for intermediate cases, some proportional average will be found between them. Thus the assumption that natural speed is a
+function of weight can be maintained, and it can be maintained without violation of continuity. How can this be done? It can be done under the assumption
+that degree of connectedness is a relevant physical property.
+   That this way out too seems not to be a live option brings us to the point
+where I will suggest my alternative explanation of what is going on.
+
+2.4. What the Reconstruction Misses
+Let’s begin by thinking about ways in which the four ways out might be
+blocked. And let’s start with the most obvious: we might make appeal to two
+broad, defeasible, tacit assumptions, each of which captures an important
+feature of our representation of experienced reality. One is that, for any body
+that one might encounter, there is a determinate fact concerning its weight and
+natural speed. That is:
+
+(8) Natural speed and weight are physically determined.
+The other is that there is no determinate fact whether strapped-bodies are one
+object or two. That is:
+
+(9) Entification is not physically determined.
+What (8) says is that a particular question about natural properties has a
+determinate answer. Any body, no matter how oddly shaped, will have a
+particular weight and a particular natural speed that are fixed by the world.
+What (9) says is that a particular question of entification has an indeterminate
+answer. Whether we consider a strapped-together body to be a single object, or
+two objects held together by a strap, or indefinitely many objects held together
+by internal forces, is merely a question of the aspect under which we choose
+to view that object. The answer to the question “how many objects?” does not
+follow from any physical property we might discover; it is a question about our
+words, not a question about the world.
+   These two premises are sufficient to eliminate the “ways out” enumerated
+above. If (8) holds, then (4) and (5) are not available as lines of escape; if (9)
+holds, then neither (6) nor (7) can be appealed to as a means of avoiding the
+Galilean conclusion. And the way in which they eliminate (4)–(7) is very
+different from the way that a simple reassertion of (1) and (2) would. They
+show not only that there is something wrong with (4)–(7) as descriptions of the
+way the world is, but why there is something wrong with them. They show what
+it is about our tacit understanding of physical reality, and about our instincts
+concerning plausible candidates for physically relevant and irrelevant properties, that is missed by someone who appeals to (4) or (5) or (6) or even (7).
+
+=== p. 32 ===
+
+   What this reveals is that the initial reconstruction of the Galilean thought
+experiment (as presented in }2.2) fails to capture what is really doing the work in
+the case. As hypotheses about the ways strapped-bodies might behave in fall, (4),
+(5), (6), and especially (7) are in principle available as alternatives to (1) and (2);
+just as natural speed might be mediative and weight additive, it might be that both
+natural speed and weight depend on the degree to which the two bodies are
+connected. So if (1)–(3) were truly capturing what is going on in the Galilean
+thought experiment, there would be ways out for the Aristotelian that would
+allow her at least to shift the burden of proof back to the Galilean.
+   That these ways out do not seem available when the thought experiment is
+presented in its unreconstructed form shows that this eliminative reconstruction
+has failed to capture its original demonstrative force. (What has been lost is the way
+in which, by evoking tacit knowledge about how falling bodies actually behave,
+the thought experiment preemptively precludes such ways out.) Accordingly,
+I tried to come up with a reconstruction sufficiently strong to rule out (4)–(7) in
+a similarly categorical and decisive manner. This involved appeal to two rather
+comprehensive and metaphysical-sounding principles, namely (8) and (9). (8) and
+(9) give background support to (1) and (2) and thereby help to establish (3).
+   But just as (1) and (2) are too weak to capture the way in which alternative
+hypotheses concerning fall are ruled out by the thought experiment, (8) and (9)
+are too strong. They represent approximate articulations of defeasible assumptions about the physical world. But as they stand, they articulate principles that
+have less certainty than the conclusion they are taken to support. Prior to
+contemplation of the case Galileo describes, the Aristotelian may be committed
+to something like (8) and something like (9), but he is certainly not committed to
+them unmodified. To reconstruct the case as an explicit argument with some
+version of (8) and (9) among the premises would require enumerating outright
+their defeasability conditions. But this is something he does not know how
+to do. Contemplation of the case Galileo describes brings him to see that these
+principles are not defeated in this case. And it is this recognition that serves as
+the basis for the case’s power. No austere argumentative reconstruction will
+be able to do this, because part of the thought experiment’s function is to bring
+the Aristotelian to accept certain premises. In the next section, I will discuss
+what makes belief in these premises new, and what makes it justified.
+
+3. Denying the Dispensability and Derivativity Theses
+
+3.1. Rejecting Reconstruction: What the Thought Experiment Does
+If the Dispensability Thesis were correct, then the conclusion established by
+Galileo’s thought experiment—that “both great and small bodies . . . are moved
+with like speeds” (Galilei 1638/1989: 109)—should be demonstrable by means
+
+=== p. 33 ===
+
+of a non-thought-experimental argument. “Demonstrable” here means: rationally justifiable on the basis of the same background conditions. So let us spell
+out what the background conditions in question are.
+   For the Aristotelian, daily experience seems to confirm the theory that heavier bodies fall faster than lighter ones. Just as the Galilean sees cases where
+lighter bodies fall more slowly than heavy ones as exceptional, so the Aristote-lian sees as crying out for explanation those cases where the rate of fall is
+(nearly) simultaneous. So, when gold beaten into a very thin leaf reaches the
+ground more slowly than a solid lump of the same material, the Galilean must
+posit some factor that explains the divergence of this result from the generally
+expected outcome (Galilei 1638/1989: 109). Similarly, when the Aristotelian
+sees two stones of very different weights fall to the ground with like speeds, the
+circumstance requires diagnosis and explanation.
+   So far all I have pointed out is the possibility of maintaining theoretical
+commitments in the face of apparent counter-evidence. This can be done by
+appealing to additional principles that explain away anomalous data by
+showing that the phenomena at issue are subject to the fundamental principle
+in question, but that the world’s complexity has prevented them from manifesting this. So the Galilean might appeal to air resistance, the Aristotelian to
+the fact that the bodies have not been dropped from a height sufficiently
+great.17 Such explaining-away of recalcitrant exceptions is not a desperate
+move by a failing paradigm; it is a fundamental element of doing normal
+science in a non-ideal world.18
+   The point of this discussion is to give a better sense of the background conditions under which the argumentative reconstruction must be demonstratively
+forceful if the Dispensability Thesis is to be shown to hold in this case. The thesis
+tells us that some non-thought-experimental reconstruction of the case Galileo
+presents should be able to do the same thing that the thought-experimental
+
+  17
+      [20] In Galileo’s dialogue, when Salviati points out that a rock of two pounds and a rock of
+twenty pounds will strike the ground nearly simultaneously when dropped from a height of
+one or two hundred feet, Simplicio retorts that this may just be a result of not having given the
+objects enough falling-time for the differences to become apparent (see Galilei 1638/1989:
+109–10). Simplicio says: “Perhaps from very great heights, of thousands of bracchia,
+[discrepancies] would follow which [are] not seen at these lesser heights.” That is, Simplicio
+suggests that perhaps the reason we do not observe the sorts of differences which Aristotle’s
+theory predicts is that we are making observations under non-idealized circumstances, and that
+were we to eliminate distorting elements—like the fact that the fall is only a few hundred feet—
+the true phenomena would reveal themselves. Galileo provides Salviati with a rather sharp
+retort (Galilei 1638/1989: 110). See also (pagination here refers to the modern text) Galilei
+1638/1989: 69 n. 44.
+  18
+      [21] Of course, it is a commonplace in the history of science that at a certain point the
+burden of positing literal or metaphoric epicycles becomes too great, and the theory—especially
+when there is a simpler alternative available—collapses under the weight of its own internal
+complexity. But it is a similarly well-established commonplace in philosophy that theories are
+underdetermined by evidence, and that extra-scientific considerations do some of the work in
+determining theory choice.
+
+=== p. 34 ===
+
+version does: lead the Aristotelian from the same background assumptions to the same
+rationally justified conclusions. The standard reconstruction presented in }2.2 fails
+in this regard, as does the strengthened version presented in }2.4. And, I contend,
+any argument satisfying the Elimination Thesis is likely to fail in the same way.
+   Why? Because prior to the thought experiment, the Aristotelian is explicitly
+committed to the negation of (3), and this background commitment serves as a
+filter through which apparently contrary evidence will inevitably be reinterpreted. Any argument which satisfies the Elimination Thesis (that is, any
+argument with explicit premises which make no reference to particular hypothetical or counterfactual states of affairs) can be reframed by the Aristotelian as
+a reductio. (1) or (2) or (8) or (9) will simply be denied, once their implications are
+made evident. What is remarkable about the thought-experimental presentation is that it is able to undermine this framework-shaping assumption.
+   So I conclude, tentatively, that the Dispensability Thesis (and a fortiori the
+Derivativity Thesis) is false. Suppose, however, that somehow it were possible to
+come up with an argumentative reconstruction that almost exactly captures the
+strength and limits I have attributed to Galileo’s thought experiment.19 Would
+we then be justified in accepting the deeper methodological claim put forth in
+the Derivativity Thesis: that the justificatory force of whatever beliefs I hold via
+thought experiment is a function of the thought experiment’s argumentational
+essence? In the next section (3.2), I offer reasons for thinking that the answer to
+this question is “no.”
+
+3.2 Rejecting the Positive Argument: What Makes these Beliefs New?
+The Derivativity Thesis says that the justificatory force of any good scientific
+thought experiment can only be explained by the fact that it can be replaced,
+without loss of demonstrative force, by a non-thought-experimental argument.
+So rejection of the thesis can take two forms: denying that the justificatory force
+of a particular scientific thought experiment can be explained this way, and
+denying that it can only be explained this way. The simplest way of doing the
+former, of course, would be to show that the Dispensability Thesis is not true of
+some thought experiment; obviously, if there is no non-thought-experimental
+argument with which the thought experiment can be replaced without loss of
+demonstrative force, then the justificatory force of the thought experiment
+cannot be explained by the possibility of such replacement. But for the sake
+of argument, I am supposing that the Dispensability Thesis is (at least approximately) true. This leaves two avenues for denying the Derivativity Thesis:
+denying that the argumentative reconstruction explains the justificatory force
+
+  19
+      [22] Suppose, for instance, we were to enumerate the defeasibility conditions of (8) and
+(9), and we included these modified versions as premises alongside (1) and (2).
+
+=== p. 35 ===
+
+of some thought experiment at all, and denying that it explains such justificatory force entirely.
+   As I discussed above (}1.3), two sorts of defense are offered for the Derivativity
+Thesis. The negative argument contends that thought experiments are arguments because there is nothing else for them to be; the positive argument
+contends that thought experiments are arguments because their “analysis and
+appraisal” involves explicit argumentative reconstruction. In this section I will
+address the positive thesis, suggesting that it fails to get at what is most interesting about thought experimental reasoning; in the final section, I offer some
+thoughts about what sorts of alternative justifications are available such that
+the negative thesis too is untenable.
+   It is a mistake, I contend, to think that the reason conclusions to thought
+experiments are justified is because thought experiments have argumentational
+analogues (if indeed they do). Rather, I want to suggest that the Aristotelian
+comes to have novel justified true beliefs about the empirical world not because
+he has (whether he knows it or not) followed along the path of a recognized
+argument form, but rather because he has performed an act of introspection
+that brings to light heretofore inarticulated and (because he lacked a theoretical
+framework in which to make sense of them) implausible tacit beliefs. There
+are two things that I need to show myself able to explain. The first is how it is
+that knowledge has been gained. In what way is it that the Aristotelian has come
+to believe something new? The second is how it is that knowledge has been
+gained. In what way is it that the Aristotelian has come to believe something
+justified? I will answer the first in the remainder of this section, and the second
+in }3.3.
+   In addressing the issue of novelty, I will begin with brief remarks about what
+I think is not at issue, and then say something about where I think the important questions rest. One might say that the beliefs are not new since, in some
+sense, the Aristotelian had access to them before. After all, he has acquired no
+new information about the external world; all he has done is reshuffle tacit
+beliefs he already held, coming to see their implications. But this view of what
+makes knowledge new is surely too stringent; it would, among other things,
+rule out all mathematical reasoning as a potential source of new knowledge. On
+the other hand, it seems too weak to say that a belief is new if it merely results
+from putting together two explicitly held beliefs that have not, for the individual in question, been previously connected. If I believe that snow is white and
+I believe that crows are black, but I have never thought about the two at the
+same time, it seems wrong to say that the belief that snow-is-white-and-crowsare-black should count as a new belief for me.20 In any case, without spelling out
+
+    20
+       [23] Except under very odd circumstances. Suppose I believe that crows are black because
+I live in a village where there are crows, and I have seen many of them. I also believe that snow is
+white, because I have read about it in books. In my village, it is taboo to think about black things
+
+=== p. 36 ===
+
+precisely what it is that makes some beliefs new and others mere implications,
+there is a simple reason to think the Aristotelian’s belief that the speed at which
+a body falls is independent of its weight should count as a new belief for him:
+Until recently he was explicitly committed to the truth of its negation. This
+alone suggests that—whatever the implicatory relation between his prior commitments and this view about natural speed—the belief should count as new.
+   But there is a deeper and more interesting way that the belief is new, and that
+is the following. The thought experiment that Galileo presents leads the Aris-totelian to a reconfiguration of his conceptual commitments of a kind that lets
+him see familiar phenomena in a novel way. What the Galilean does is provide
+the Aristotelian with conceptual space for a new notion of the kind of thing
+natural speed might be: an independently ascertainable constant rather than a
+function of something more primitive (that is, rather than as a function of
+weight). It is in this way, by allowing the Aristotelian to make sense of a
+previously incomprehensible concept, that the thought experiment has led
+him to a belief that is properly taken as new.
+   What this suggests is that the Derivativity Thesis is missing the point of what
+makes the Galileo case work as it does. The recognition that natural speed is
+independent of weight comes not from tracing the implications of antecedent
+commitments to (1) and (2), which, after all, lead to the denial of a position to
+which the Aristotelian is explicitly committed (and thence to retreats such as
+the four ways out). The recognition comes from the sudden realization, on the
+part of the Aristotelian, of the conceptual possibility of a certain sort of physical
+property. Prior to contemplation of the case, there was no room on the Aristo-telian picture for the thought that natural speed might be constant, not varying—that it might be dependent not on some specific features of the body in
+question, but only on the fact that it is a body at all.21 After contemplation of
+the case, there seems to be no conceptual space for the view that it might be
+variable.
+
+and white things at the same time, because this is thought to allow the evil spirit access to the
+soul. One day, I leave my village for the north, and I observe a crow circling above a field of
+snow. I find the image aesthetically striking, and I ask myself why this is so. In analyzing my
+response to the visual experience I am having, I realize with a start: “Snow is white and crows
+are black.” In such a case, it seems plausible to suggest that this is a new belief.
+   21
+      [24] To get a sense of how odd this transition is, try thinking about weight as something
+dependent not on the specifics of the body in question, but as something constant for all
+bodies. (That is, to ascertain a body’s weight, we would not need to know anything more about
+it than the simple fact than it is a body.) Clearly this would be a major conceptual readjustment;
+one might even be inclined to say that we aren’t talking about weight anymore, since whatever
+sort of thing weight is, it is surely something that depends upon specific features of the bodies
+to which it applies. The analogy is not perfect, since part of what happens as a result of thinking
+about the Galileo case is that it becomes apparent that there is no physical application for the
+Aristotelian idea of natural speed; like phlogiston, it disappears into the ether of abandoned
+concepts.
+
+=== p. 37 ===
+
+   One of the things that enables this rather striking shift in the representation of
+physical reality is that the Aristotelian recognizes that there are experientially
+possible objects—strapped-together bodies—for which the defeasability conditions of (8) and (9) are not met (that is, objects of which (8) and (9) hold true),
+and that these are objects for which his old notion of natural speed simply does not
+make sense. If entification is arbitrary and natural speed and weight are fixed by
+the world, then a feature-dependent notion of natural speed is just plain incoherent. So one way of thinking about how the thought experiment works is this:
+it brings the Aristotelian to recognize the inadequacy of his conceptual framework
+for dealing with phenomena which—through the contemplation of this imaginary case—he comes to recognize as always having been part of his world.
+   What this suggests is that “the analysis and appraisal of a thought experiment” need not “involve reconstructing it explicitly as an argument,” in such a
+way that “a good thought experiment is a good argument, a bad thought
+experiment is a bad argument” (Norton 1991: 129; Norton 1996: 335). After
+all, the argument from (1) and (2) to (3) is no better or worse than the argument
+from (not-3) to (not-1) or (not-2). Like an experiment, part of what makes a
+thought experiment good or bad is the validity of the procedure by which the
+same result can be repeatedly obtained. But another thing that distinguishes
+good thought experiments from bad is their ability to direct the reader’s attention to inadequacies in her conceptual scheme that she herself recognizes
+immediately, as soon as they are pointed out to her. It is this, I want to suggest,
+that grounds her new beliefs. Of course, I have said nothing so far about what
+might make these beliefs justified. It is to this issue that I turn in }3.3.
+
+3.3. Rejecting the Negative Argument: What Makes
+     these Beliefs Knowledge?
+Thought experiments work in a variety of ways. By describing appropriately
+selected imaginary scenarios, they provide contexts within which sense can be
+made of previously incomprehensible conceptual distinctions.22 This happens
+when two features that are constantly conjoined in our representations of all
+actual cases are imaginatively separated in the thought-experimental scenario
+in a way that shows them to have been isolatable all along. And by describing
+specific situations, thought experiments, like analogical reasoning in general,
+can justify conclusions about particular cases without explicit or implicit appeal
+to more general absolute principles.23 Many of the higher-level principles by
+
+  22
+     [25] By this I mean they do something like what the answer to a riddle does in making
+suddenly intelligible what previously appeared to be a nonsensical description. Cf. Cavell 1979:
+156–7. [Added in 2009: This phenomenon is closely related to psychological work on contextual
+prerequisites for understanding. (See e.g. Bransford and Johnson 1972; Tse et al. 2007.)]
+  23
+     [26] For an articulation and defense of such a view of analogical reasoning, cf. Sunstein
+1993, 1996.
+
+=== p. 38 ===
+
+which we negotiate the world are defeasible, and the determination of their
+applicability to particular situations must be made on a case-by-case basis.
+By bringing the reader to focus on particulars, thought experiments can help
+her distinguish warranted from unwarranted applications of the principle in
+question.24
+   So far, however, this has little to do with justification. After all, as Norton
+would ask, if the thought experiment is not an argument, why should we put
+faith in its conclusion? What I want to explore in this closing section is one
+possible answer: that thought experiments rely on a certain sort of constructive
+participation on the part of the reader, and that the justificatory force of the
+thought experiment actually comes from the fact that it calls upon the reader to
+perform what I will call an experiment-in-thought.
+   An experiment-in-thought is an actual experiment; the person conducting
+the experiment asks herself: “What would I say/judge/expect were I to encounter circumstances XYZ?” and then finds out the (apparent) answer. This technique is common in linguistics, where the methodology is used to ascertain the
+grammaticality of sentences, the meanings of phrases, the taxonomic categories of words, and so on.25 And it is, on one view at least, a central element
+of moral reasoning: we think about particular imaginary cases, observe the
+judgments that they evoke in us, and use these judgments as fixed points in
+developing our moral theories.26
+   How does this connect with the Galileo case? What kind of experiment-inthought plays a role there? Answer: by thinking about the case in question, we
+discover what sorts of motions and objects we think are possible in the world.
+Do we think objects can be strapped together? Yes, we do. Do we think objects
+fall with radical discontinuities in speed? No, we think they do not. Do we think
+entification is something that is fixed by the world? No, we do not. Do we think
+weight and natural speed are fixed by the world? Yes, we do. We come to recognize
+
+  24
+         [27] This often happens when the particulars are sufficiently well sketched to evoke
+practical as well as theoretical responses. [Added in 2009: This footnote was written in 1996,
+but obviously foreshadows some of the suggestions made in later writings, in particular in
+“Philosophical Thought Experiments, Intuitions, and Cognitive Equilibrium” (2007; Ch. 6)
+and the two alief essays (2008a, 2008b; Chs. 13 and 14).]
+   25
+         [28] Cf. Thomason 1991: 247: “When linguists want to test hypotheses about the structure
+of a particular language, their methodology crucially involves thought experiments in
+a . . . literal sense: real experiments carried out in thinking.”
+   26
+         [29] To choose an example nearly at random, consider Thomson 1986: 257: “it is . . . our
+moral views about examples, stories, and cases which constitute . . . data for moral theorizing.”
+[Added in 2009: If one of the tools for moral theorizing is to “think about particular imaginary
+cases, observe the judgments that they evoke in us, and use these judgments as fixed points in
+developing our moral theories,” then it might be valuable to make systematic use of samples
+containing more than one subject. For a defense of this technique as an extension of traditional
+philosophical methodology, along with numerous examples of its application, see Knobe and
+Nichols 2008.]
+
+=== p. 39 ===
+
+that we have these beliefs by contemplating the imaginary case in question;
+thinking about the case is what brings us to the realization that we believe what
+we do.27 And—and this is where the justificatory work comes in—the fact that
+we have these beliefs gives us prima facie warrant to think that they are true.
+   But why? Why should we think that our pre-theoretical beliefs about the
+structure of the physical world are reliable? In the Science of Mechanics, a few
+pages after coining the expression Gedankenexperiment, Mach writes:
+Everything which we observe imprints itself uncomprehended and unanalyzed in our
+percepts and ideas, which then, in their turn, mimic the process of nature in their
+most general and most striking features. In these accumulated experiences we possess a
+treasure-store which is ever close at hand, and of which only the smallest portion is
+embodied in clear articulate thought. The circumstance that it is far easier to resort to
+these experiences than it is to nature herself, and that they are, notwithstanding this, free,
+in the sense indicated, from all subjectivity, invests them with high value. (Mach 1883/
+1960: 36)
+
+So one possible explanation is the one Mach gives. We have a store of unarticulated knowledge of the world which is not organized under any theoretical
+framework. Argument will not give us access to that knowledge, because the
+knowledge is not propositionally available. Framed properly, however, a
+thought experiment can tap into it, and—much like an ordinary experiment—allow us to make use of information about the world which was, in
+some sense, there all along, if only we had known how to systematize it into
+patterns of which we are able to make sense.28
+   This, of course, is the beginning not the end of an answer to the question. But
+it is sufficient for the modest aim of this essay. What I have been trying to show
+is that something besides argument might give justificatory force to thought
+experimental reasoning. The alternative I have proposed has been this: By
+
+   27
+      [Note added in 2009: This suggests that the analogy to experiments-in-thought in linguistic
+(and perhaps moral) theorizing may be somewhat inapt, for two related reasons. The first is that
+whereas judgments about grammaticality (and perhaps morality) are to some degree constitutive
+of the phenomenon under investigation (the fact that normal speakers judge a sentence to
+be grammatical is part of what makes it the case that the sentence is grammatical), judgments
+about physics are not (in the relevant sense) constitutive of facts about physics. The second
+is that whereas in the linguistics case the role played by the experiment-in-thought is, loosely,
+to provide data for theorizing (so that asking someone else to make the judgment would be as
+good as asking ourselves), in the Galileo case the role played by the experiment-in-thought
+is, loosely, to bring the contemplator to a certain sort of self-knowledge as a result of
+contemplating the case (so that second-hand reporting of another’s results cannot do the work
+of first-hand self-engagement). I return to some of these issues in “Thought Experiments
+Rethought—and Reperceived” (2004; Ch. 2) and “Philosophical Thought Experiments,
+Intuitions, and Cognitive Equilibrium” (2007; Ch. 6).]
+   28
+      [30] For further discussion of these themes, cf. Kuhn 1964. [Added in 2009: For exploration
+of some of these issues in the context of recent work on explanation and learning, see
+Lombrozo 2006.]
+
+=== p. 40 ===
+
+focusing on imaginary scenarios and making reference to particulars, thought
+experiments can provide a fulcrum for the reorganization of conceptual commitments; this explains how they can provide us with novel information
+without empirical input. And by bringing the reader to perform experimentsin-thought, thought experiments can lead us to reject shaky (and ultimately
+false) theoretical commitments in light of newly systematized but previously
+inarticulable knowledge about the way the world is.
+   The justificatory force of thought experiments is thus parasitic on the extent
+to which the messy twisted web of background beliefs that underpin our
+navigation of the world are rightly considered knowledge. To establish this,
+on coherentist or evolutionary or empiricist grounds, would be an enormous
+undertaking, and one which I will not even begin to endeavor here.29 But
+I hope I have given you some sense, at least, of why I am not convinced that
+even if the Dispensability Thesis is true, the Derivativity Thesis must be true as
+well. For even if it could be replaced by an equally effective argument, the
+justificatory force of a thought experiment might still be based on its capacity
+to make available in a theoretical way those tacit practical commitments that
+enable us to negotiate the physical world.
+
+4. Conclusion
+
+In this essay, I have offered reasons for thinking that a certain view about
+thought experiments in science is false. The view is that any scientific thought
+experiment can be reconstructed as a non-thought-experimental argument
+without loss of demonstrative force. In part 1, I explained the philosophical
+motivations for adopting such a view, and distinguished two versions of the
+position. The first—the Dispensability Thesis—concerns the replaceability of
+thought experiments; the second—the Derivativity Thesis—concerns their justificatory force. In the remainder of the essay, I offered reasons for thinking that
+both of these theses are false. Through a detailed discussion of a thought
+experiment of Galileo’s, I tried to show that the standard argumentative reconstruction of the case fails to capture its justificatory power, and I suggested
+reasons to think that any other argumentative reconstruction would be likely
+to fail in similar ways. I then argued that even if one were to provide an
+argumentative reconstruction that did almost perfectly capture the thought
+experiment’s demonstrative force, this would not show that the reason the
+thought experiment is successful is because, deep down, it is nothing more
+than an argument in disguise. I suggested that, to the contrary, the success
+
+  29
+     [31] For one such (evolutionarily based) attempt, cf. Shepard 1994; a similar explanation is
+offered in Sorensen 1992a.
+
+=== p. 41 ===
+
+of the thought experiment may be a result of the way in which it invites
+the reader’s constructive participation, depicts particulars in ways that make
+manifest practical knowledge, and describes an imaginary scenario wherein
+relevant features can be separated from those that are inessential to the question at issue.30
+
+  30
+     [*] Acknowledgements: For comments on previous drafts of this essay, a predecessor of
+which appeared as a chapter of my 1996 dissertation, I am grateful to Richard Boyd, James
+Robert Brown, Michael Glanzberg, Steven Gross, Ned Hall, Norman Kretzmann, Thomas Kuhn,
+John Murdoch, John Norton, Robert Nozick, Derek Parfit, Hilary Putnam, W. V. Quine, Sherri
+Roush, Simon Saunders, Roger Shepard, Alison Simmons, Zoltán Gendler Szabó, and audiences
+at Harvard (1995) and Cornell (1996) Universities.
+

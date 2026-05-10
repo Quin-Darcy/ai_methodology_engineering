@@ -1,0 +1,682 @@
+=== chunk: skinner-2002-visions-of-politics-vol1/ch7-social-meaning ===
+title: 'Social meaning' and the explanation of social action
+source_pdf: docs/sources/skinner-2002-visions-of-politics-vol1/full.pdf
+pdf_pages: 146-162
+page_scheme: pdf
+plan_page_start: 146
+plan_page_end: 162
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 146 ===
+
+      ‘Social meaning’ and the explanation of social action
+
+                                                     I
+
+A social action may be said to have a meaning for the agent performing
+it. The acceptance of this rather vague claim represents the one major
+point of agreement in the continuing debate between those philosophers
+who assert and those who deny the naturalist thesis' to the effect that
+social actions can sufficiently be accounted for by the ordinary processes
+of causal explanation. The significance of the fact that actions have a
+‘meaning’ has been emphasised in each of the three main traditions of
+anti-naturalist opposition to the idea of a social science. ‘The followers
+of Wilhelm Dilthey, and of the wider tradition concerned with the importance of Verstehen, stress that the distinctive feature of ‘the human
+studies’ is their concern ‘with a world which has meaning for the actors involved’.? The phenomenologists likewise stress that the aim of the
+social sciences must be to gain ‘insight into the meaning which social acts
+have for those who act’.S And the followers of Wittgenstein argue that
+the ‘forms of activity’ studied in the social sciences will characteristically
+be those ‘of which we can sensibly say that they have a meaning’.
+    This emphasis has been scarcely less marked in the various strands of
+thought that have converged on accepting the theoretical possibility of
+establishing a causal and predictive science of human behaviour. Those
+who have sought to vindicate this approach continue to recognise the
+need to take account of ‘the meaning of people’s movements’. Similarly,
+those who maintain that even an agent’s reasons may be the causes of
+their actions still allow for the fact that such agents will characteristically
+    This chapter is an abbreviated and much revised version of an essay that originally appeared
+    under the same title in Philosophy, Politics and Society, 4th series, ed. Peter Laslett, W. G. Runciman
+    and Quentin Skinner (Oxford, 1972), pp. 136-57.
+    Here and throughout I adopt the terminology proposed in Morgenbesser 1966, p. 255.
+  Rickman 1967, p. 23.          3 Schutz 1960, p. 203.
+4 Winch 1958, p. 45.         5 Gibson 1960, p. 52.
+
+=== p. 147 ===
+
+see ‘a point or meaning’ in their behaviour.® Even those who uphold the
+strictest thesis of positivism — that actions must always be explained by
+deducing their occurrence from some known empirical law covering such
+movements — have continued to acknowledge that ‘what distinguishes a
+mere bodily movement from an action’ is ‘the meaning of that movement’.’
+   It is in fact possible, I shall next seek to show, to view the entire debate
+between the social science naturalists and their adversaries in terms of the
+different conclusions that the two sides have drawn from their common
+stress on the fact that acting individuals (as Max Weber put it) normally
+attach a ‘subjective meaning’ to their social behaviour.®
+   The anti-naturalists trace a logical connection between the meaning
+of q social action and the agent’s motives for performing it. They accordingly see’'the recovery of the agent’s motives as a matter of placing
+their action within a context of social rules. This view of social meaning
+has issued in two general conclusions about the explanation of social
+action. One is that to decode the meaning of an action is equivalent
+to giving a motive-explanation for the performance of it (thesis A). The
+other is taken to be an implication of the fact that the recovery of an
+agent’s motives is a matter of placing their action in a context of rules
+rather than causes. It follows, we are told, that to cite the meaning and
+motives of an action will be to provide a form of explanation that stands
+in contrast with — and 1s in fact incompatible with — a causal explanation
+of the same action (thesis B).
+   These anti-naturalist conclusions have in part derived, and have
+gained considerable strength, from the powerful impact of Wittgenstein’s
+later philosophy on recent philosophical psychology. ‘This is perhaps
+most evident in a work such as A. I. Melden’s Free Action. Melden lays his
+main emphasis on the idea of ‘making sense’ of actions, and argues that
+this is essentially a matter of recovering motives by way of understanding
+the ‘background’ against which the agent acted. His principal conclusion is that this process makes causal explanation ‘wholly irrelevant to
+the understanding’ of social behaviour.9
+   There is a longer tradition of analysis lying behind this anti-naturalist
+commitment. In the philosophy of history it is best represented by
+R. G. Collingwood and the view of explanation he summarised in his /dea
+ofHistory. To explain an action, Collingwood maintains, is always a matter of attempting ‘to discern the thoughts’ of the agent who performed it.
+
+    ® Ayer 1967, p. 23-     7 Brodbeck 1963, p. 309.   8 Weber 1968, vol. 1, pp. 4, 8.
+    9 Melden 1961, pp. 87-8, 102, 104, 184.
+
+=== p. 148 ===
+
+This in turn requires the historian to focus on questions of individual
+motivation, and means that any historian who instead seeks to “emulate the scientist in searching for causes or laws’ is simply ‘ceasing to
+be an historian’.'° The same contrast between understanding actions in
+terms of motives and explaining events in terms of causes looks back
+to Benedetto Croce as well as to Wilhelm Dilthey,"’ and forward to the
+development of their arguments by William Dray, Alan Donagan and
+others.”
+   In the philosophy of social science a similar commitment has always
+informed the Weberian tradition of analysis. Max Weber himself never
+implied that the concepts of Verstehen and causal explanation are incompatible. But he opens his Wirtschaft und Gesellschafi by discussing motive-explanations, and at that juncture he equates the ‘understanding of
+motivation’ with the business of ‘placing the act in an intelligible and
+more inclusive context of meaning’.'? Since that time, a more strongly
+anti-naturalist case has been developed by at least two schools of thought
+that have acknowledged Weber’s influence. The phenomenologists (such
+as Alfred Schutz, at least in certain moods) have gone on to insist that
+understanding ‘the meaning which social phenomena have for us’ is a
+matter of recovering ‘typical motives of typical actors’, and that this is a
+form of understanding ‘peculiar to social things’.’t So too the disciples
+of Wittgenstein such as Peter Winch. ‘They have insisted that ‘the notion
+of meaningful behaviour is closely connected with notions like motive and
+reason’. And they have inferred that the explanation of such behaviour, by
+way of relating the agent’s motives to a context of social rules, requires
+‘a scheme of concepts which is logically incompatible with the kinds of
+explanation offered in the natural sciences’.
+    The naturalists, by contrast, have given an account of social meaning
+from which they have derived two conclusions strongly opposed to those
+I have now set out. They first of all maintain that the decoding of the
+meaning of a social action merely provides a way of redescribing it. But
+since redescriptions cannot in themselves be explanatory, it must be a
+mistake to suppose that the placing of a social action in its context, or
+the decoding of its social meaning, can ever serve as an explanation of
+the action concerned (thesis C). The second naturalist thesis is that, if
+
+   Collingwood 194.6, pp. 214-15.
+   For convenient extracts from Croce’s and Dilthey’s writings on these issues see Gardiner 1959,
+   pp. 213-25 and pp. 226-41.
+ * See Dray 1957, pp. 122-6 and cf. Donagan 1957.
+ 3 Weber 1968, vol. 1, p. 8.        “4 Schutz 1960, pp. 206, 211, 214.   S Winch 1958, pp. 45, 72-
+
+=== p. 149 ===
+
+the idea of decoding the meaning of an action is so much extended that
+it becomes equivalent to recovering the agent’s motives, then there is no
+incompatibility between social meaning and causality. This is because the
+provision ofan explanation by way ofciting motives, or even intentions, is
+itself'a form of causal explanation. The naturalists accordingly conclude
+that there is nothing in the fact that social actions may be said to have a
+meaning or to consist in the following of rules from which it follows that
+such episodes may not be entirely explicable by the ordinary processes
+of causal explanation (thesis D).
+   These naturalist conclusions, like those of their opponents, have in
+part derived from a recent movement in philosophical psychology. This
+has taken the form ofa reaction against the Wittgensteinian assumption
+that motives and intentions cannot function as causes. The critique of
+this position has been sustained by some powerful arguments (best stated
+by Donald Davidson)'"® and has prompted several philosophers (notably
+Alasdair MacIntyre) to recant their earlier anti-naturalist views about the
+explanation of action. The implications of the critique have been brought
+out with particular clarity by A. J. Ayer in his essay ‘Man as a Subject for
+Science’. On the one hand, Ayer insists that to redescribe a phenomenon
+cannot be ‘in any way to account for it’. On the other hand, he argues that
+to cite a motive or an intention to explain an action, as we do ‘in the normal way’, must ultimately be to point to ‘lawlike connections’ of a causal
+form. Ayer concludes that, even if we can ‘estimate an action in terms of
+its conforming to a rule’, and even if we need to understand such actions
+‘in terms of their social contexts’, these factors affect the agent only as
+‘part of his motivation’. They give us no grounds for doubting that the
+action can be sufficiently explained ‘by means of a causal law’. So there is
+‘nothing about human conduct that would entitle us to conclude a prori
+that it was in any way less lawlike than any other sort ofnatural process’."7
+   As with the anti-naturalists, there is a considerable tradition of analysis lying behind this line of thought. In the philosophy of history the
+Idealism associated with Dilthey and Collingwood was always confronted
+by a positivist tradition stemming from the philosophy of science. ‘The
+latter outlook is perhaps best summarised by Carl Hempel in his classic
+essay “The Function of General Laws in History’. ‘The attempt, Hempel
+there claims, to explain the actions of historical individuals in an ad hoc
+
+'© Davidson 1963.
+7 Ayer 1967, pp. 16, 17, 21, 22~3. See also Mulligan, Richards and Graham 1979, p. 97 for the
+   claim that, because all explanations must take the form of assigning causes, redescriptions cannot
+   be explanatory.
+
+=== p. 150 ===
+
+manner, in terms of ‘the circumstances under which they acted, and
+the motives which influenced their actions’, does not ‘in itself constitute
+an explanation’. The fact that historians may concern themselves with
+‘the “meanings” of given historical events’, as well as with motives and actions, does nothing to vitiate the claim that any satisfactory explanation
+of an historical phenomenon must consist of ‘subsuming it under general
+empirical laws’."®
+   If we turn to the philosophy of social science we encounter an analogous point of view. The followers of Max Weber have always found
+themselves confronted by the more strongly naturalist approach associated with Emile Durkheim and his disciples. Durkheim’s most powerful statement of his own commitment can be found in his Rules of
+Sociological Method, in which we find him dismissing any need to study
+individual intentions and motives in our efforts to explain social phenomena. Durkheim always insists that ‘the determining cause of a social
+fact’ — under which heading he includes social action — ‘should be sought
+among the social facts preceding it, and not among the states of individual consciousness’.'9
+   My aim in what follows will be to reconsider these two opposed theoretical traditions by seeking to do three things. I shall first attempt
+(section IT) to make a new start on analysing what might be involved in
+speaking about the ‘meanings’ of actions. I shall then try (section I)
+to show that, if my analysis is sound, there would seem to be grounds
+for doubting each of the four theses I have now set out. Finally, I shall
+go on to suggest (section IV) some methodological implications of my
+argument for historians and social scientists, at least in so far as they are
+concerned with the explanation of action.
+
+                                            II
+
+There is a tendency, particularly among anti-naturalists, to apply the
+concept of social meaning in an over-extended way. (This is perhaps
+evident from several of the quotations I have already given.) I shall begin, therefore, by restricting myself to considering the way in which the
+concept is used in the discussion of a single class of social actions. Later
+I shall try tentatively to extend the application of this analysis. But I shall
+first concentrate on the class in which the idea of meaning something
+
+                ‘8 Hempel 1942, PP: 44-5.        "9 Durkheim 1964, p. 110.
+
+=== p. 151 ===
+
+                  ‘Social meaning’ and the explanation of social action                     i233
+in or by doing something has its clearest and most obvious application,
+namely in the class oflinguistic actions.
+   I have already spoken in chapter 6 about the concept of linguistic
+action andJ. L. Austin’s classic exposition of it in How to Do Things with
+Words. Here I need only recall Austin’s central contention to the effect
+that anyone issuing a serious utterance will always be doing something
+as well as saying something, and will be doing something im saying what
+he or she says, not merely as a consequence of what is said. As we have
+seen, Austin reached this conclusion by way of claiming that to issue any
+serious utterance is always to speak not only with a certain meaning but
+also with what he called a certain illocutionary force. Austin’s pivotal
+contention was that to understand this element of illocutionary force
+co-ordinate with the ordinary meaning of a locution is equivalent to
+understanding what the speaker was doing in issuing their utterance.
+   Expounding this analysis in chapter 6, I offered a simple example as
+an aid to clarifying the sense in which the issuing of a serious utterance
+may be said to constitute the performance ofa social action. A policeman
+sees a skater on a pond and calls out: “The ice over there is very thin.””°
+The policeman says something and the words mean something. But
+Austin’s further point is that the utterance also has a certain intended
+illocutionary force, corresponding to the fact that the policeman will also
+have been doing something in issuing his utterance. He may, for example,
+have been performing the illocutionary act of warning the skater.
+   I now wish to suggest that this account of linguistic action may be used
+to establish two crucial points about the sense of ‘meaning’ with which
+we are concerned in examining the meaning of social actions. The first
+is that the decoding of the meaning of an action seems equivalent, in
+the case of linguistic action, to understanding the nature of the illocutionary act performed by the speaker. ‘To understand, for example, that
+the policeman was performing the act of warning seems equivalent to
+understanding the meaning of the act of issuing his utterance. ‘To invoke
+H. P. Grice’s helpful formula, it is to understand what the policeman
+(non-naturally) meant by acting in this way.*
+   Grice introduced the concept of non-natural meaning in order to draw
+a contrast with the natural meaning of signs, and thus with the contrasting
+2° As noted in chapter 6, I am here adapting an example originally put forward in Strawson 1971,
+   p. 153. Here I need to add that I also follow Strawson in extending J. L. Austin’s concept ofa
+   convention and in relating H. P. Grice’s theory of meaning to Austin’s account of illocutionary
+   acts. For a defence of these commitments see Skinner 1970.
+21 See Grice 1957 and the revisions in Grice 1969.
+
+=== p. 152 ===
+
+sense of ‘meaning’ that seems to be in play when we say things like ‘those
+spots mean measles’.”* My second point is that to ask about this non-natural sense of meaning, at least in the case oflinguistic actions, seems
+equivalent to asking about the agent’s intentions in performing their
+action. It is perhaps necessary to be more precise, and to stress that to
+ask this question is to ask about their primary intention. It is arguable that
+Austin’s way of stating his theory encouraged the belief that for every
+action there must be a single intention underlying it. But we often have
+several different intentions in performing a single action. Some may be
+less important than others from the point of view of characterising what
+we are doing, but all of them may nevertheless form part of the complex of
+intentions realised in the act. It remains true, however, that to understand
+that what the policeman meant to do, in issuing his utterance, was fo warn
+the skater is equivalent to understanding the primary intention with which
+the policeman acted.
+   It might be doubted whether this analysis of ‘social meaning’ can
+usefully be extended to non-linguistic cases. My response is to appeal
+to authority — or rather, to a series of relevant authorities. Suppose we
+endorse Austin’s own claim — which seems to me unquestionable — that
+certain illocutionary acts are invariably performed non-verbally.*s ‘Then
+there is good reason to suppose that my analysis can at least be used to
+decode the meaning of the ‘ritual and ceremonial’ acts in which Austin
+was chiefly interested. Suppose in addition we accept P. F. Strawson’s
+contention — for which he offered strong arguments** — that the account
+given by Austin of the conventions of illocutionary force was unduly
+narrow in scope. Then there is good reason to believe that the analysis
+can also be used to decode the meaning of a whole range of non-ritual
+as well as non-linguistic actions. Finally, it is relevant to recall that the
+main aim of H. P. Grice’s original discussion of non-natural meaning
+was ‘to show that the criteria for judging linguistic intentions are very
+like the criteria for judging non-linguistic intentions’, and thus to show
+‘that linguistic intentions are very like non-linguistic intentions’.*9
+   These suggestions may be corroborated by considering some examples
+of non-linguistic action. Consider first a case of a ritual but non-linguistic
+action. (Martin Hollis has popularised the following example.) Certain
+Yoruba tribesmen ‘carry about with them boxes covered with cowrie
+
+22 Grice 1957, p. 377.    *3 Austin 1980, pp. 19, 119.
+“* See Strawson 1971, pp. 149-69 and my own attempt to extend and apply his analysis in Skinner
+   1970.
+79 Grice 1957, p. 388.
+
+=== p. 153 ===
+
+shells, which they treat with special regard’.2° My interest lies in the
+meaning ofthe action and the questions we need to answer in order to
+decode it. The crucial question certainly seems to be about what the
+tribesmen are doing in performing this action. The answer (Hollis tells us)
+is that they believe ‘that the boxes are their heads or souls’ and that what
+they are doing in treating the boxes with reverence is protecting their
+souls against witchcraft. This in turn suggests that to ask and answer this
+question about the illocutionary force of the tribesmen’s behaviour is,
+as I have suggested, equivalent to asking about their intentions in acting in this way. Notice that we do not learn the motive that prompted
+(and perhaps caused) them to treat their boxes with special regard, although we may now infer that it is likely to have been respect or fear for
+the power'of unknown forces. What we learn is their primary intention
+in acting, their intention being to protect their souls.
+    Consider next a case of a non-ritual, non-linguistic action. (I derive
+the example from one of the case-histories reported by R. D. Laing and
+A. Esterson in Sanity, Madness and the Family.)?7 An adolescent girl becomes
+an apparently compulsive reader, ‘burying herself in her books’ and refusing to stop or allow herself to be interrupted. Laing and Esterson’s
+interest in the case lies primarily in their suggestion that the behaviour
+can be seen as a strategy, a deliberate action rather than a symptom of
+illness. My related interest is in the meaning of the behaviour, and in
+the appropriate question to ask in order to determine whether it has
+any meaning, and if so how it should be decoded. The crucial question
+again seems to be about what the girl is domg in performing this action.
+Laing and Esterson’s answer 1s that she is ‘taking refuge’ and preventing
+what she takes to be intrusions by an overdemanding family. As before,
+moreover, it seems that to ask and answer this question about the illocutionary force of the action is equivalent to asking about the girl’s
+intentions in acting in this way. Notice again that this does not tell us the
+motives that prompted (and perhaps caused) the girl’s behaviour. Laing
+and Esterson suggest that her motive may have been a desire for what
+they call ‘autonomy’ but one might infer other motives as well — perhaps
+a kind of pride, perhaps an element of resentment. What we learn is
+the girl’s primary intention in acting, the intention to register a protest
+against, and to protect herself from, an excessively demanding situation.
+   It may still seem, however, that to extend the discussion to include such
+non-linguistic actions is to give an illegitimate application to Austin’s
+
+           26 Hollis 1996, p. 199.   *7 Laing and Esterson 1970, pp. 34-5, 46.
+
+=== p. 154 ===
+
+and Grice’s theories. Consider finally, therefore, a further case of a
+(non-ritual) linguistic action, and one of some historical importance.
+Niccolé Machiavelli, in chapter 15 of // Principe, enunciates the following
+rule: ‘it is necessary for a prince to learn how not to be good’.?® A large
+number of commentators have asked what exactly he may have meant
+by offering this advice. Here it cannot I think be doubted that the crucial
+question to raise is what Machiavelli was doing in counselling rulers in this
+way. One widely accepted answer (originally put forward by Felix Gilbert)
+has been that Machiavelli was ‘consciously refuting his predecessors’
+within the highly conventionalised genre of advice-books to princes.*9
+Again it seems unquestionable that to ask and answer this question about
+the illocutionary force of Machiavelli’s utterance is equivalent to asking
+about his intentions in saying what he said. Notice once more that this
+does not tell us the motives which prompted (and perhaps caused) him
+to offer his advice. Gilbert suggests that the most likely motives may have
+been a mixture of frustration at the prevailing ‘idealist interpretation of
+politics’, combined with a simple desire to shock and a belief in the importance of saying something genuinely useful.3° The point once more is that
+what we learn is Machiavelli’s primary intention in writing what he wrote.
+I do not wish to imply here, of course, that what we learn is the intention
+lying behind the writing of the particular sentence I have quoted, nor do
+I wish to imply that Machiavelli need have had any isolable intention in
+writing just that sentence. My claim is simply that we learn the intention
+lying behind Machiavelli’s argument at this stage of his work, the intention being to challenge and repudiate an accepted moral commonplace.
+
+                                                Ill
+
+I now turn to try to bring out the philosophical interest of my argument.
+This lies, as I have already hinted, in the suggestion that the argument I
+have now set out gives grounds for saying that the theses of the naturalists
+(CG and D) as well as those of the anti-naturalists (A and B) may be
+mistaken. Consider first the two naturalist theses. Thesis C states that
+to redescribe an action is in no way to explain it. I have now sought
+to show, however, that for at least some actions there can be a unique
+form of redescription which, by way of recovering the agent’s intended
+illocutionary act, may be capable of explaining at least certain features
+of their behaviour. This conclusion can be corroborated by reverting to
+28 Machiavelli 1960, p. 65: ‘é necessario a uno principe. . . imparare a potere essere non buono’.
+79 Gilbert 1977, p. 110.     3° Gilbert 1977, pp. 111-12.
+
+=== p. 155 ===
+
+the example of the policeman saying ‘The ice over there is very thin.’
+This episode might be witnessed by some puzzled bystanders who fail
+to grasp the policeman’s primary intention in issuing his utterance. One
+request for an explanation might take the form of asking ‘Why did he
+say that?’ One reply might be ‘He said it to warn the skater.’ There
+seems no doubt, moreover, about the way in which such illocutionary
+redescriptions serve as explanations. It is one thing if the bystanders
+understand what the policeman’s utterance to the skater means, so that
+they can give an account of what the policeman said. But it is another
+and further thing if they understand what the policeman’s act of issuing
+an utterance with that meaning was itself intended to mean on the given
+occasion, so that they can give an account of why the policeman said what
+he said. Colloquially, we may say that what an illocutionary redescription
+will characteristically explain about a social action will be its point.
+   Critics have objected that the redescription only provides additional
+information about what the policeman was doing, not why he was doing
+it.’ It is true that what the redescription serves to explain is not the
+occurrence of the policeman’s action but the character of his utterance.°?
+Nevertheless, my thesis about the explanation of action stands. To return
+to my imagined bystanders: as I have argued, one natural source of
+their puzzlement might stem from a failure to grasp the point of the
+policeman’s utterance. To inform them that it was meant as a warning
+will remove their puzzlement. But to say that a sense of puzzlement about
+a state of affairs has been removed is to say that an explanation has been
+provided.
+   Consider next thesis D, which states that there is nothing in the fact
+that an action may have a meaning from which it follows that it may not
+be entirely explicable by the ordinary processes of causal explanation.
+I have now suggested that, while it may be essential in a wide range of
+cases to recover the meaning of an action in order to explain it, to supply this redescriptive form of explanation is to supply something other
+than a causal explanation. This can also be corroborated by reverting
+to my example of the policeman warning the skater. ‘The explanation of
+the action is supplied by way of recovering what the policeman meant,
+in the non-natural sense of understanding not just what his utterance
+meant, but what his act of issuing that utterance meant in the circumstances. This is supplied by way of decoding the conventions governing
+the illocutionary force attaching to the utterance. But this can scarcely
+         3! See, for example, Graham 1988, p. 154; Hollis 1988, pp. 139, 141, 146.
+         32 Freundlieb 1980, p. 436.
+
+=== p. 156 ===
+
+be to provide a causal explanation. For this is to focus on a feature of
+the policeman’s action, not on an independently specifiable condition in
+the way that causal explanation requires.
+   Next consider the two anti-naturalist theses. Thesis A states that the
+reason why the concept of social meaning can be explanatory is because
+it tells us an agent’s motives for acting. Drawing on my argument in
+chapter 5, however, I have now sought to show, first, that a sharp line
+needs to be drawn between motives and intentions in acting, and secondly
+that it is intentions, not motives, that we need to recover if we are to
+decode the meaning ofsocial actions.
+    The need for this division does not seem to have been admitted by any
+of the philosophers I have quoted. The anti-naturalists (such as Melden,
+Rickman and Winch)3 as well as the naturalists (such as Ayer, Davidson
+and MacIntyre)34 write about motives and intentions in this connection —
+and often about reasons and purposes as well — as if they believe these
+terms to be virtually interchangeable. ‘This seems a mistake in itself, but
+it also seems of some consequence when we try to explain social actions,
+since it encourages the elision of what I take to be a necessary stage in
+the process of explanation. ‘The stage in question is the one at which
+it may be appropriate, before asking about someone’s motives, or any
+deeper causes of their behaviour, to ask whether the performance oftheir
+action itself bears any conventional element of (non-natural) meaning or
+(illocutionary) force.
+   The significance of isolating this extra stage can be illustrated by examining the main instance of a social action offered by Ayer in his essay
+‘Manas a Subject for Science’. Ayer takes the case of someone drinking a
+glass of wine, and claims that this action might be explained, according
+to its context, either as ‘[1] an act of self-indulgence, [2] an expression
+of politeness, [3] a proof of alcoholism, [4] a manifestation of loyalty,
+[5] a gesture of despair, [6] an attempt at suicide, [7] the performance of
+a social rite, [8] a religious communication, |g] an attempt to summon
+up one’s courage, [10] an attempt to seduce or corrupt another person,
+[11] the sealing of a bargain, [12] a display of professional expertise,
+[13] a piece of inadvertence, [14] an act of expiation, [15] the response
+to a challenge’.%9
+   It is true that my argument is not altogether easy to make good in
+terms of Ayer’s elaborate and eccentric list. In cases [3] and [13] it is
+         33 Melden 1961, pp. 83-9; Rickman 1967, p. 69; Winch 1958, pp. 45-51.
+         34 Davidson 1963, p. 699; Ayer 1967, p. 9; MacIntyre 1971, p. 226.
+         35 Ayer 1967, pp. 9-10. Ihave added the numbers for ease of reference.
+
+=== p. 157 ===
+
+not clear that the explicans yields the explanation of anything that could
+be called a voluntary action. In cases [6], [10] and [12] it is not clear
+how the explicans is even to be understood. It is hard to see, that is, how
+any of these answers could be offered as possible explanations for the
+action simply of drinking a glass of wine. Furthermore, in cases [1], [5],
+[9] and [14] it is not clear that there is any separate question to ask
+about the meaning ofthe action. This still leaves us, however, with cases
+ [2], [4], [7]. [8]. [11], and perhaps [15]. The explanation in these cases,
+pace Ayer’s conflation of intentions and motives, seems to take the form
+ofa redescription that directs us not primarily to the agent’s motives, but
+rather to their intentions in drinking the glass of wine. Here it does seem
+necessary to begin by considering a stage of explanation prior to any
+attempt to elucidate the agent’s motives. The stage in question is the one
+at which we attempt to recover the unique illocutionary redescription
+in terms of which the agent’s performance of the action can be shown
+non-naturally to mean something. We might say, for example, in case
+ [4] that what the agent was doing in drinking the glass of wine was
+confirming a bond ofloyalty, or in case [11] that what they were doing was
+sealing a bargain. So it seems that the anti-naturalists must be mistaken
+when they equate the recovery of social meaning with the elucidation of
+motives.
+   Consider finally thesis B, which states that to account for an action
+by citing its meaning and the agent’s motives is to provide a form of explanation incompatible with causality. This thesis is contradicted rather
+than sustained by the way in which I have sought to vindicate the possibility of giving non-causal explanations of action. I have sought to argue
+only that to explain an action in terms of the agent’s intentions in performing it constitutes one stage in accounting for a certain range of
+social behaviour. I have not suggested that to provide such non-causal
+explanations is incompatible with the subsequent provision of further
+and arguably causal explanations of the same action. One such further stage might be to provide an explanation in terms of motives. A
+yet further stage might be to provide an explanation in terms of the
+grounds for the agent’s possession of just those motives. It will normally
+be indispensable to move on to these further stages in order to provide
+anything like a complete explanation. And I should wish to claim that
+it is strongly arguable in the case of the first stage, and unquestionable
+in the case of the second, that to provide these further explanations
+will be to provide causal explanations for the performance of the action
+concerned.
+
+=== p. 158 ===
+
+14.0                        Visions of Politics: Regarding Method
+                                                  IV
+
+I turn finally to consider the practical implications of the thesis I have
+defended. For at least two reasons it seems to me of special interest to
+try to make this point. One is that there has been a tendency among
+philosophers of social science to deny that their views about the logic of
+explanation entail any methodological recommendations.2° The other is
+that there has been a broader tendency among historians as well as social
+scientists to deny that the acceptance of any particular philosophical
+viewpoint has any bearing on the conduct of their disciplines. I now
+wish to suggest that, if the conceptual scheme I have set out is sound, it
+entails at least three methodological recommendations, all of which tend
+to be ignored or even repudiated in a good deal of current writing in
+history and social science. I concede, of course, the difficulty of deriving
+anything except negative methodological injunctions from my a priori
+arguments. I hope nevertheless that it may be possible to see in this
+section the beginnings ofan answer to those who have refused to accept
+that the dispute over causal and rational explanation could have anything
+to do with the practice of the social sciences.
+   Consider first the classes (the non-linguistic as well as linguistic classes)
+of what Austin called ‘ritual and ceremonial’ actions. There are two
+methodological injunctions that seem, at least in these cases, to follow from the argument I have advanced. The first is that we need to
+raise questions about ritual beliefs in order to explain such actions. This
+suggestion has been rejected by a number of anthropologists,?” and is
+certainly bypassed by those who have written as if they believe that ritual actions can sufficiently be explained in terms of their place in a
+social structure or by reference to their effects.3° It is clear, however,
+that there is a link between the range of intentions it makes sense to
+ascribe to people and the nature of their beliefs. It follows that, in order to explain a ritual action by way of recovering the agent’s intentions in performing it, we must be prepared to examine and refer to
+the ritual beliefs informing the intentions with which ritual actions are
+performed.
+   My second recommendation is that, as soon as we recognise the need
+to recover such beliefs, we need to raise questions about their rationality.
+A certain caution is admittedly required in developing this point. A clear
+
+3° See, for example, Winch 1964, p. 203.
+37 Jarvie and Agassi 1970, p. 179 go so far as to speak of the ‘general criticism’ in social anthropology
+   of ‘the entire assumption that people’s actions can be explained by their beliefs’.
+38 Hollis 1970b, pp. 225~7 examines and criticises such explanations.
+
+=== p. 159 ===
+
+danger of conceptual imperialism lurks in the supposition that we can
+speak tout court of holding a rational belief as a matter of showing an
+adequate willingness to consider whether there is ‘sufficient evidence
+in its favour’, if it is ‘based on good evidence’, and so on.39 We need to
+reckon with the fact that the question of what counts as good or sufficient
+evidence can never be free from cultural reference.
+   This objection has oflate been increasingly voiced, especially by such
+followers of Wittgenstein as Peter Winch, and more recently by Richard
+Rorty and others.*° They have insisted that, if we employ the concept
+of rationality to criticise our beliefs, we shall merely contaminate                       our
+social explanations with our own local standards of rationality. The objection has been developed as follows. We can readily imagine an alien
+system of beliefs in which the paradigms used to connect the system
+together are such that none of the evidence we should regard as evidence in favour of abandoning particular beliefs is held to count as
+decisive evidence for or against them. We can then imagine someone
+operating within the system who accepts these paradigms and canons
+of evidence, recognises and follows only the moves accepted as rational
+within the system, but never challenges the rationality of the system itself.
+We can hardly fail to concede that such people hold their beliefs in a
+rational way. But in that case the notion of employing the concept of
+rationality as a tool for the criticism of beliefs appears to lose any cutting
+edge.
+   This argument appears to me to embody a non sequitur. I have already
+given my reasons for this conclusion in chapter 3, but it may be worth
+reiterating my basic point. We can accept that what it means for someone
+to hold a rational belief is merely for the belief in question to be a suitable
+one to hold true in the circumstances in which they find themselves. But
+we can still apply the concept of rationality in the criticism of such an
+agent’s beliefs. For it remains to be asked whether they held the belief
+in the light of, rather than in the face of, the criteria locally accepted as
+appropriate for the formation and testing of beliefs.
+   Why does this response matter for the purposes of my present argument? Because rational and irrational beliefs generate correspondingly
+different actions. In the first case, the investigator needs to find means to
+establish that the agent’s beliefs were in fact rationally held, especially if
+they strike the investigator as obviously false. In the second case, a further
+and different type of investigation will be required if the agent’s actions
+are to be explained. The investigator needs to discover why the agent
+     39 Gibson 1960, p. 156.   4° Winch 1970, pp. 97-103; Rorty 1979, esp. pp. 174, 331.
+
+=== p. 160 ===
+
+continued to hold onto an unsuitable belief when the means to improve
+it were available. Unless the investigator is prepared to raise such questions, it may not be possible to identify what stands to be explained about
+the agent’s beliefs and any actions undertaken in the light of them.
+  T turn lastly to consider the wider class of social actions which, I have
+suggested, can in part be explained by decoding the agent's (illocutionary)
+intentions in performing them. I wish to suggest that in these cases a
+further injunction follows from my general argument. ‘The injunction 1s
+to think holistically, and thus to begin by focusing not on the individual
+action to be explained, but rather on the conventions surrounding the
+performance of such actions in the relevant social context.1' The sense
+of grasping what is conventional is not limited to the case in which we
+speak of understanding that an action has been performed according to
+a convention that has self-consciously been followed. The relevant sense
+includes the wider notion of understanding the established assumptions
+and expectations of a given culture. We need to begin not by trying to
+recover the agent’s motives by studying the context of social rules, but
+rather by trying to decode their intentions by situating their action within
+this larger structure of values and practices.
+   This injunction appears to hold good even in the case of the type of
+abnormal behaviour I have mentioned — such as the example from Laing
+and Esterson’s work on schizophrenia. ‘The question is what approach
+we should follow in attempting to discover whether the apparent autism
+of an allegedly schizophrenic adolescent may not be a case of deliberate
+and meaningful behaviour. The suggested answer 1s that we ought not to
+begin by making an intensive study of the particular case and its possible
+aetiology. We ought rather to begin by trying to relate the particular
+case to other instances of adolescent withdrawal. ‘The aim will be to
+try to assess the extent to which the seeming autism may not represent a
+conventional form and degree of protest, rather than a set of pathological
+symptoms awaiting a straightforward causal explanation.
+    The same injunction applies even more clearly to the types of linguistic
+action I have mentioned. Consider again the passage I quoted from
+Machiavelli’s // Principe. Here there is not only a highly conventionalised
+genre of writing against which to measure Machiavelli’s utterance. There
+is also a clear presumption that Machiavelli was aware of the genre and
+the conventions governing it. It seems unquestionable in this case that
+the appropriate route to follow, in attempting to recover what he meant,
+
+                  4" But for a criticism of this proposal see Mew 1971.
+
+=== p. 161 ===
+
+will be to begin not by making an intensive study of his text itself, but
+rather by trying to see what relations it bore to these existing conventions
+of discourse.
+   It is true that this injunction has been explicitly repudiated by those
+historians who have wished to insist that it must be possible, simply by
+reading such works ‘over and over’, to arrive at a sufficient understanding
+of them.?* But it is surely clear (to keep to the Machiavelli example) that
+the fact that // Principe was in part intended as an attack on the morality
+embodied in humanist advice-books to princes cannot be discovered by
+attending to Machiavelli’s text, since this is not a fact contained in the text.
+It is also clear that no one can be said fully to understand Machiavelli’s
+text who does not understand this cardinal fact about it. To fail to grasp
+this fact is to fail to grasp the point of Machiavelli's argument in the
+central chapters of his book. It seems, then, that some other form of
+study besides that of reading such texts ‘over and over’ is indispensable
+to understanding them. And it seems that this will need to take the form
+of adding a study of the general conventions and assumptions of the
+genre, from which the intentions of any particular contributor to it may
+then — by a combination of inference and scholarship — be decoded.
+
+                                                 Vv
+
+It will be clear by now that my thesis occupies a middle ground which
+has I believe been generally overlooked in recent philosophical debates
+about the explanation of action. I have not been particularly concerned
+with exegesis, but I believe that my position is similar to the one taken
+up — though by a different route — by Max Weber in his Wirtschaft und
+Gesellschaft. Those who have emphasised (correctly, I believe) the importance of intentions and conventions in the explanation of action have
+usually written as though it follows that the attempt to explain such actions causally must represent a confusion, even a ‘pernicious confusion’;
+that it must in any case be ‘wholly irrelevant’; and that the whole vocabulary of causality ought accordingly to be ‘expunged’ from discussions
+about the explanation of social action.*? Conversely, those who have insisted (again correctly, I believe) on the absurdity of this commitment
+have usually written as though it follows that intentions and conventions
+must themselves be treated as causal conditions of actions.44 What I have
+4? Plamenatz 1963, vol. 1, p. x.
+43 For these claims see respectively Louch 1966, p. 238; Melden 1961, p. 184; Abelson 1965, p. 541.
+44 See, for example, Davidson 1963, p. 699; Ayer 1967, p. 9.
+
+=== p. 162 ===
+
+sought to argue is that neither of these alleged implications follows, and
+that both of them appear to be mistaken.
+   It might finally be asked what relation these conclusions bear to the issue of determinism with respect to voluntary human action. This would
+be a vertiginous question even to broach, were it not that several proponents of the naturalist theses I have examined have suggested that
+they lend immediate strength to the thesis of determinism. This belief
+emerges, for example, at the end of A. J. Ayer’s essay ‘Man as a Subject
+for Science’. Ayer first recalls that we ordinarily explain human actions
+by citing the motives and intentions of agents and the social context of
+their behaviour. He then argues that all these conditions must be construed as causes of which their actions are effects. From this he concludes
+that there is ‘no reason why the reign of law should break down’ when we
+come to explain such actions. This is ‘the strength of the determinists’.4
+   I have sought to argue, however, that although there can undoubtedly
+be successful causal explanations of voluntary human actions, there can
+also be successful explanations of such actions which are neither causal
+nor reducible to a causal form. If this argument is sound, it seems possible
+to suggest two conclusions about the relations between the naturalist
+theses I have examined and the idea of the social determinism of actions,
+without having to commit oneself on the vexed question of the meaning
+of the thesis of determinism itself. The first is that, if it is essential for
+the defence of the thesis of social determinism that all the mental states
+of agents should be construed as causes of their actions, then there may
+be something inherently doubtful about the thesis itself. But the main
+conclusion, which can I think be expressed more confidently, is that
+insofar as current arguments in favour of the thesis of social determinism
+depend upon the truth of thesis C and thesis D, the thesis of social
+determinism has not been strengthened at all.
+
+                               45 Ayer 1967, p. 24.
+

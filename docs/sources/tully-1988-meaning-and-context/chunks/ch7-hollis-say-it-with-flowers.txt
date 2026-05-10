@@ -1,0 +1,497 @@
+=== chunk: tully-1988-meaning-and-context/ch7-hollis-say-it-with-flowers ===
+title: Say it with flowers
+source_pdf: docs/sources/tully-1988-meaning-and-context/full.pdf
+pdf_pages: 149-160
+page_scheme: book
+plan_page_start: 135
+plan_page_end: 146
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 135 ===
+
+                                        if
+                     Say it with flowers
+                            Martin Hollis
+
+ The historian has only the husks of action, the traces of what once
+ were episodes played out between past and future. To recover these
+ passing moments he relies on texts of all sorts, on utterances in ink and
+ stone, metal and ash, which once had meaning for his blank skeletons.
+ Even written, reflective texts are not as if the tape-recorded voices of
+ actors prevented by death from uttering them in person, since they were
+ addressed to other audiences, couched in other idioms and fired by other
+ concerns. The historian must read in before he can read out and there is a
+ plain danger of his finding what he put there himself. Even written texts are
+ not just strings of propositions. In uttering them, their authors were acting
+and interacting and the historian must interpret the actions as well as the
+words. Here lie circles of the most daunting kind but Quentin Skinner has
+ braved them before and I seize the chance to dissect them with him.! It goes
+without saying that what so visibly troubles him in the dark of the archives
+also afflicts anyone trying to understand the social meaning of action.
+    To broach a huge topic, I shall assume that historical actors have at
+least some_autonomy within a context which both enables and constrains
+them; that their actions are their solutions to problems set by circumstance
+and other actors; and that their skill is crucial in interpreting their actions.
+Ideally I should like to defend this picture but, since Mr       Skinner shares it
+and space is short, I shall concentrate on the puzzles it poses. The first
+part of the paper will fill it in for action by individuals, which can readily
+be seen as manoeuvre within a context but not without encountering some
+wicked circles. The second part will try to extend the idea to the combined
+action of persons in groups, where the context is no longer wholly external
+to the actors. Here some snags in the logic of collective action are added to
+the previous circles and I shall hand the resulting knots over to Mr Skinner
+
+=== p. 136 ===
+
+with relief. The clue to these puzzles of meaning and explanation is to be the
+notion of rationality but I cannot pretend that it is an easy clue to read.
+                                                             ~
+
+‘Say it with flowers’, the florists urge. Very well, let us do so in a story
+intended to sketch an approach to historical interpretation which Skinner
+will recognize as his own, to exhibit the circles which arise and finally to
+usher in the one disagreement between us. Let us suppose that, soon after
+the balcony scene of some real-life Romeo and Juliet, Romeo sends Juliet a
+bunch of red orchids with a card inscribed, ‘A beauteous flower for when
+next we meet.’ This episode is the text and J shall be using ‘text’ to refer
+not just to speech but to any act whose author intends others to understand
+something by it. What is its interpretation? The question is ambiguous
+between meaning and explanation and I introduce the elements of our discussion by splitting it into four. First, there is the overt meaning — in the case
+of speech ‘What did he succeed in saying?’ Second, there is the covert meaning — ‘What did he intend to say and intend in saying it?’ Third, there is the
+overt explanation — ‘Why was the utterance apt?’ Fourth, there is the covert
+explanation — ‘What was his motive in uttering the text?’ The historian’s
+primary task, according to Skinner, is to answer the first three parts of the
+question but not the fourth. Having extolled the subtlety of this approach,
+I shall nevertheless insist that the question of motive be answered too.
+   The division into overt and covert has to do with the importance of context. It is not as if the sending of the flowers means just whatever Romeo
+means by it. ‘In “action” is included all human behaviour’, says Weber, ‘in
+so far as the acting individual attaches subjective meaning to it.’ The dictum
+is not to be read as saying that subjective meaning is all. Romeo cannot
+succeed in meaning what he pleases by the flowers. The gesture is taken
+from stock, its meaning restricted to a conventional list. It may be a mark
+of love, respect, gratitude or sympathy, perhaps, but not of hate, scorn or
+support for the Verona football team. (I ignore hidden codes or conventions,
+like irony, which exploit conventions.) This is just as well, since utterances
+constituted wholly by subjective meanings would be quite beyond the historian’s reach. So let us suppose the episode to be one in courtship, expressing
+something conventionally said by lovers. What exactly is said is then determined by the message on the little white card, provided that it is within the
+list of proper meanings. (If the card reads ‘The cat sat on the mat’, Romeo
+succeeds in meaning nothing by the flowers.) A sort of social grammar is
+
+=== p. 137 ===
+
+at work.
+  Here, then, is one notion of context, where the actors engage           from
+socially recognized positions, attended with normative expectations. We
+may call it the normative context, the set of rules governing what a
+man must, may and shall not do in each social capacity. The rules
+both constitute and regulate. Romeo is not Juliet’s lover at all, unless
+he stays within the rules of courtship; he is a sorry lover, unless he
+courts her with grace, unselfishness and fervour. Admittedly, the notion
+of a norm is an elusive one, witness my swift transition from ‘position’
+to ‘capacity’, and requires a tricky distinction between what is publicly
+and tacitly permitted. But the idea that social action is constituted
+and regulated by rules for what is legitimate is clear enough to accept.
+   It has been held that the normative context exhausts both meaning
+and explanation. Although Romeo has more than one option as a
+lover, he also has other social positions and capacities, which together
+determine a uniquely legitimate course of action. This approach is known
+to sociologists as normative structuralism and its claim depends on seeing
+norms as the social category of the last resort and on absorbing the actor
+into them. By refusing the first move, on the ground that norms have further
+social determinants, we get a notion of structural context; by refusing the
+second, on the ground that actors also express inner states, in a way governed by rules which are not normative, we get one of expressive context.
+   In speaking of structural context, | am thinking of structure in a
+manner typified by Marx’s distinction of structure and superstructure. But
+I shall leave the topic unexplored, since, even if there is an all-encompassing
+structure, the normative context is still intermediately important enough
+to keep us busy. In the same cavalier way, I shall ignore other external
+factors of, for instance, geography, biology and even technology, presuming them to enter the interpretation of social action only through
+the normative context and the actors’ consciousness. These are pieces of
+ontological impudence which lack of space demands.
+   The expressive context, however, is as crucial as the normative. Romeo’s
+flowers are not just a lover’s insignia, like the wig on a judge. They are red
+for passion, expressing fire within. This is a symbol, not a natural sign, and
+belongs to a language of the heart. Romeo’s gesture in its normative context
+is that of a suitor; in its expressive context it is that of a man in love. The
+expression of feeling is governed by rules too and, in doing what is normatively proper, Romeo also conveys a claim to inner sentiment. That the claim
+can be false shows that there is an external and enabling context for it.
+   By citing the normative and expressive contexts, the historian gives the
+overt meaning of the text. But, if that is what the flowers mean, it does
+not exhaust what Romeo       means   by the flowers. Or so it will seem      to
+anyone who denies that actors are mere vehicles of norms and sentiments.
+
+=== p. 138 ===
+
+Romeo also intends his gesture to be read in particular ways and intends
+to achieve something by it. In part, no doubt, he means what the flowers
+mean, uttering their overt message with the intention that others recognize
+this intention. But, anticipating Henry James, he can be addressing several
+messages to several audiences with the one text. Conscious perhaps of
+Lady Capulet’s intercepting eye, he intends the formality and the plush
+orchids to bespeak an admirer of solid substance but slight acquaintance
+— an intention likelier to succeed if it goes unnoticed. At the same
+time he intends Juliet to catch the echo of her own words on the balcony:
+
+           This bud of love by summer’s ripening breath
+           May prove a beauteous flower when next we meet.
+
+He intends her to relish the incongruity of these intentions. He means,
+in a common    sense of that nimble term, whatever he intends others to
+understand. That is the covert meaning of the text.
+   The overt explanation is got by parading the overtly legitimate elements
+of the covert meaning and showing why the actor was justified in context
+in acting as he did. Much is forgiven a man in love and much can
+therefore be achieved by laying successful claim to the title. Exactly what
+needs doing to regain the sense of an action in the eyes of contemporaries
+for the benefit of posterity will depend on the particular case. In Skinner’s
+hands the idea that texts are to be interpreted by recovering the context,
+the actors’ intentions and their legitimating reasons becomes a sharp tool,
+as the articles cited at the start bear witness. What does not depend on
+particular cases, however, is his contention that the historian should not
+tackle, still less prejudge, questions of motive. Hence the overt explanation
+stops strictly with what is legitimate. We are not meant to infer that it tells
+us by what the actor was really moved. For the principles and sentiments
+which a man professes in action are the key to explaining his actions in
+context, whether or not he expresses them sincerely. The crucial point
+is that an actor cannot succeed in his actions without legitimating
+them.
+   So when, fourthly, we ask whether Romeo’s intentions were honourable,
+the answer is that we neither know nor need to know. He is sighing like a
+furnace, his orchids are aflame, he is every inch a man on fire; yet it may
+all be sound and fury, signifying nothing. Actors are neither mere creatures
+of norms nor mere vehicles of sentiments. They are being conceived at
+a distance not only from what their actions mean but also from what
+they mean their actions to mean. Once the historian has found them
+sufficient reason to have acted as he did, the historian can penetrate
+no further but he has done enough. To sum up schematically, Romeo
+illustrates this picture:
+
+=== p. 139 ===
+
+                                             rules       intentions
+
+                                             reasons     motives
+
+   The four boxes correspond to the opening four questions and, in strong,
+ingenious support of Collingwood’s dictum that all history is the history of
+ideas, Skinner offers to do history with the first three only.
+   We are now ready for the circles which beset any hermeneutic account
+of understanding. They arise because rules, reasons, intentions and indeed
+motives are inter-related both ontologically and epistemologically. Ontologically, the rules of courtship are those binding lovers in the expression
+of love; lovers are persons subject to the rules because they are in love;
+love is the sentiment expressed by observing the rules of courtship.
+Are these relations constitutive? The case for saying so is that love
+is surely not a universal condition which people catch like colds in
+all climes and contexts and then express in what happens to be the
+local idiom;   that, even   if courtship   rules from   many      cultures   are all
+so classified because they govern expression of the same sentiments, the
+sentiments are the same because their expression is governed by courtship
+rules; that in general the covert is a discrimination of the overt, no less
+than the overt is an expression of the covert. But I merely mention
+this daunting issue, since there is an epistemological circle in any case.
+   Epistemologically, to be warranted in ascribing an intention to express
+love, the historian must know that the relevant rules are those of courtship
+and that the actors are lovers; and hence must already be warranted in
+ascribing the intention. He understands the overt as the context of the
+covert and the covert as what the actors mean by the overt. Nor can
+he take the problem as an empirical one, to be overcome by tacking
+back and forth from overt to covert in advancing zig-zags, since apparent
+success will not guard him against a charge of imputing what he purports
+to discover. The problem is a theoretical one of conceiving the relation
+between rules, actors and intentions in such a way that the merit of
+rival interpretations can be judged. Even if he knows it is soluble,
+on the ground that the actors succeed in interacting with each other,
+the exact solution makes a difference and he does not yet have one.
+   The way in, Skinner and I agree, is to make the actors as rational as
+possible. But here we part company. In his version to deem a man rational
+is to say that he knows how to legitimate and so achieve his intentions.
+The idea is to treat meaningful action as a text which, construed with an
+apparatus of locutions, illocutions and perlocutions and on the assumption
+that it was rationally uttered, is its own explanation. The attraction is that
+
+=== p. 140 ===
+
+the historian can spin his yarn, knit the actor a cap and, if a critic
+doubts whether the actor was actually wearing the cap, retort that we
+need not ask. A rational actor, in recognizing good reasons for acting,
+makes those reasons his own. Motives are not needed where the actor
+in his context would have acted in the same way from more than one
+motive. For instance Romeo would have sent the flowers, whether he was
+sincerely in love or merely bent on an alliance with the house of Capulet;
+so we want a form of explanation which leaves the matter of motive open.
+   I claim to detect two non sequiturs and a lacuna. First, if the actor emerges
+with more than one possible motive, it does not follow that the matter of
+motive is left open. If the actor is rational, then motives which would have
+led him to act differently are thereby ruled out and so the matter of motive is
+only partly open. Second, just because two possible motives would yield the
+same action in the context, it does not follow that explanation can proceed
+without deciding between them. To know a man acted as he did involves
+knowing how he would have acted in other conditions, for instance those
+where the two motives would move him along differing paths. It involves
+knowing too when a man wanted but failed to achieve, as opposed to when
+he seemed to want but covertly was not really trying. So it looks as if motive
+does matter — a suspicion confirmed by noticing that the actor has as yet
+no reason for action at all. He has legitimating, overt reasons but his being
+rational depends on his having a covert reason for taking advantage of them.
+His intention cannot be this reason, nor can his expressions of principle and
+sentiment, while all are being conceived as tactical devices. There is thus a
+lacuna when we ask why he wants what he is overtly pursuing and it must
+be filled, if his tactics are to be interpreted as those of a rational man.
+   Motives do matter then but, in the face of the hermeneutic circles, they
+must be the sort of item which can move a rational man. The heart has its
+reasons; yet not such as reason knows nothing of. Mere wants will not do.
+Someone may complain that whether there is a reason for Romeo to send
+flowers is one thing and whether Romeo himself has a reason another, the
+difference depending on whether he has a motivating desire. I reply that having a desire to do something does not in itself make it rational to do it, even
+when no other stronger desire would thereby be frustrated. The rational man
+not only has good reasons for his actions, given his desires and projects, but
+also has good reasons for his desires and projects. What makes the difference
+between there being good reason for him to act and his having good reason
+to act is recognizing the good reason, which he thereby makes his own. The
+point needs proper argument but it is enough for the moment that a vicious
+circle occurs without it. If we are to discover Romeo’s motive by asking what
+desires he must have had for his action to be rational, we cannot then hold
+that whether his action was rational depends on the desires he happened to
+have. An action which is the incompetent effecting of one want is wrongly
+
+=== p. 141 ===
+
+interpreted as the competent effecting of another. Hence we can find
+the rational man’s motive only on the assumption that it is a rational one.
+    There is now no case for assuming that all action is always equally
+rational. Indeed there never was in the eyes of anyone who finds subjective
+logic-of-the-situation explanations vacuous. But the rationality postulate
+still stands, now revealed as an ideal-type assumption and a yardstick
+for assessing what needs to be explained. Fully and objectively rational
+action is explained by showing how it matches the ideal case; imperfectly
+rational action needs a further account of why it fell short. Either way, the
+historian starts by trying an intellectual interpretation and, even where only
+partial explanation results, he will have determined what is missing. This
+is what is involved in making the actors out to be as rational as possible.
+  As soon as we insist on rational desire for rational actions, we embark
+on a theory of real interests, eudaimonia or some such unnerving concept.
+But there is no turning back and, if Skinner jibs at the notorious problems
+thus set, I shall retort that he is already covertly relying on one himself.
+Indeed I have always hoped that I find his writings rational because |
+know that he writes as a rational man who rationally desires to find
+the truth. Not pretending that the notorious problems are illusory,
+however, I look to him to help their discussion forward.
+   So far, then, we have a slightly revised scheme for interpreting individual
+action:
+
+            what?          action’s meaning      actor’s meaning
+            why?           legitimating reasons | actor’s good reasons
+
+The emended version retains the idea that legitimating reasons are crucial,
+whatever the actor’s true motive, and still tries to elicit what is covert by
+treating the actor as an objectively rational man. It differs only by insisting
+on motive after all, but in the face of the hermeneutic circles, recasts motives
+as reasons, in so far as the actor has good reasons for his desires. The
+proviso leaves a large issue unresolved, however, as will be seen presently.
+
+                                        I
+
+Any success with Romeo can be generalized to small groups confronted
+with a given context and either wholly of one mind or wholly under
+the command of one member. But these are tight conditions and do
+not apply even to an individual actor with any power over the context.
+Since the power exists not only for wielders of law or force but wherever
+
+=== p. 142 ===
+
+norms are fluid or ambiguous, and since historians are crucially interested
+in groups, movements and classes in transition and imperfect unity,
+Romeo cannot be pressed straight into further service> To see why not,
+let us first try treating group action as the combined action of individuals.
+   The usual shape of this idea is that groups form and act through,
+or as if through, a bargain among the members. Then, in parallel with
+the unemended scheme before, it seems at first not to matter just what
+motive each member has for joining in, provided that each gets more
+from belonging than membership costs. To be rational, group action need
+not succeed, since there will be opposing groups and other constraints, nor
+need it best further the collective aim of the group, since this aim ascribes
+a notional identity to the group which the analysis denies to be real; but it
+must offer the members individually the largest likely return on their costs,
+either directly or with a promise of a later quid pro quo. In assuming rationality, the historian sets out to apply such an analysis as far as it will go.
+   The sharper the edge of the conceptual tool, the smaller its scope.
+Sharpness comes from keeping strictly to cost-benefit terms; scope exists
+only where the benefit could not have been gained at lower costs.
+Hence, to borrow a famous line of argument, the tool works only
+where benefits are confined to those who pay and are proportional to
+how much is paid. Otherwise it is always more rational to let others
+take the burden. The history of the British trades union movement, for
+instance, cannot be explained in this way. Members, especially leaders,
+bore all the risks and hardship, while benefits went to workers as a whole.
+Since no single worker could significantly affect the outcome, each had a
+choice between benefit with cost and benefit without cost. Admittedly,
+had everyone acted rationally, there would have been no benefits for
+anyone; but it is still true that costs-plus-no-benefits is a worse choice
+than no-costs-plus-no-benefits. Admittedly too, early unions were often
+Friendly Societies, thereby offering some benefits to members only; but the
+story would still have been very different without the brave thousands who
+acted irrationally in cost-benefit terms. The logic of collective action seems
+to show that individuals are rarely rational in their collective bargains.
+   A likely retort is that the fault lies not in deeming men rational
+but in dubbing them egoists; that the paradox arises only if self-seeking
+is the sole rational motive. Trades union history is intelligible enough,
+granted that the pioneers were altruists, who recognized the need to
+combine to gain their altruistic ends.
+   The retort is plausible and instructive. It shows that motive does matter,
+if what is irrational from one motive is rational from another. But it does
+so misleadingly, since egoism and altruism are not motives in the sense of
+good reasons. Egoists and altruists, like everyone else, have specific reasons
+for specific intentions, for instance demanding manhood suffrage as a way
+
+=== p. 143 ===
+
+of increasing the political power of unions. These specific reasons are not
+fixed in advance. They emerge from debate and theorizing and take shape
+only as the movement progresses. Yet the historian needs to know what
+they are, since his knowledge of who would have done what in what
+circumstances depends on them and since his claims to interpret depend, as
+we saw with Romeo, on such counterfactuals. He is not dealing with a fixed
+motive, like ‘altruism’, which spreads as the campaign gains adherents. An
+altruist is someone with specific reasons for actions which are his reasons
+because the actions will benefit others. That said, however, it does seem
+plausible to reject the universal egoism often assumed by economic
+theories of collective action. Yet it is not thereby shown more rational
+to be an altruist than an egoist and a step in the argument is still missing.
+   Putting the point aside for later, we must next insist on a fundamental
+difference between individuals and groups. While Romeo and Juliet act
+singly, the likely response of each is an external factor in the planning
+of the other. When they join forces, they acquire a joint power to decide
+what both will do. Since what was external to each becomes internal
+to both collectively but not to either, the power of joint decision is
+an emergent property. Since it can include deciding the rules of their
+relationship, context is no longer the external, fixed frame which it has
+been hitherto. With larger groups in permanent and more embracing
+alliance, there starts to be a control not only over relations within
+the group but also over some of the external norms which enabled
+and constrained its growth. Rational manipulation of context emerges
+as a possibility and much of what was explicans becomes explicandum.
+   If we want to take the idea of emergence seriously yet also to retain
+the scheme of meanings and reasons, we might try regarding the group
+as if it were a single actor. The most promising line is perhaps a Marxist
+one, with the crucial units as classes, the overt being analysed through a
+theory of ideology and the covert a matter of praxis and class interests.
+I shall not discuss the merits of the line here, however, since it involves
+rejecting the analogy between single actor and unitary group. There is no
+sufficiently analogous process of deliberation and decision. If the actor’s
+real reasons are those he would give to himself correctly and in secret,
+the group’s are not those it would agree on in private session. The private
+session, although similarly closed to outsiders and although determining
+the public stance of all the members, remains an internally public session
+of individual members. Debate about what the group should do reflects
+not only uncertainty about strategy and tactics but also uncertainty about
+manoeuvre within an alliance of actors with conflicting covert motives. So
+the puzzle of recovering Romeo’s reasons is translated not into that of
+laying hands on the private-circulation-only minutes of the meeting but
+into that of recovering the various reasons of the several members present.
+
+=== p. 144 ===
+
+  The impasse stands. To interpret the overt utterances and actions
+of a group, we need access to real reasons. If the real reasons are
+those of individual actors and if we conceive the actors as pre-social
+atoms,   real reasons   are irrecoverable.   If the real reasons   are those of
+the emergent group and if we conceive the actors as deriving their human
+identity from membership of groups, we lose the thematic analogy between
+individuals and groups. So we still need a way to conceive actors so that,
+provided they are rational, it is possible for us to discern the reasons
+for which they act. And we still need to show how groups of actors
+can be judged rational or irrational in their manipulation of context.
+   Someone will protest that there is an impasse only because I have insisted
+that rational action has objectively good reasons; whereas perceived reasons
+will surely suffice. But, however great the difficulties, I remain unrepentant.
+How a man perceives his situation is presumably meant to be a variable the
+value of which is to be settled empirically. To settle the value we must know
+how rational the man is. How rational he is is either given vacuously by
+the proposition that everyone always does what seems to him a good idea
+at the time or depends in part on how accurately he perceives his situation.
+To cut into this circle, we must treat rationality as a skill in judgement
+which can be ascribed a priori in some measure to anyone capable of
+communicating with others. If the actors are not basically rational, it is
+impossible to know how accurate or inaccurate their perceptions are. In
+a longer script | would try to say what the basic measure must include
+but I hope the point can be made in principle without going into detail.
+   How then are the actors to be conceived? If their identity is not to be
+derived from that of definitive groups, we must still try to show how what
+is collectively rational is so because it is rational for those taking part. Since
+the puzzles arise when the actors are conceived as egoists, the solution is
+to break the earlier tie between egoism and rationality. Yet other motives
+cannot just be tacked on to rational-man models. It does not make the self-sacrifice of Victorian trades unionists rational merely to point out that they
+were moved by moral commitment. Nor is self-sacrifice made rational by
+invoking, as a selective incentive, the calm of a clear conscience which comes
+from a sense of commitment discharged. Once we have insisted that rational
+action needs objectively good reasons, we must show how commitment can
+be rational. The question then becomes what it is about human beings
+(or some at least) which makes it rational for them to act uneconomically.
+   The objection to egoism is not that it predicates the wrong motive
+of the right subject but that it wrongly abstracts the actor as a timeless
+universal monad. So the corrective which will tempt a historian is to give
+human nature more substance by having it vary with place and time. If
+different cultures are peopled by different sorts of men and women, it
+is a historian’s job to know what sort he is dealing with. The point of
+
+=== p. 145 ===
+
+assuming rationality is then to let him discover by asking what kind of
+man would find it rational to act as he did. To a charge of relativism
+he replies that he still has an objective criterion of rationality to determine
+what it would be rational for a specific sort of man to want and to try to
+achieve in a specific context. But now the assumption of rationality helps
+him only if it is rational for the sort of actor a culture creates to accept
+the aims and ethos it prescribes. Hence he can account for contextual
+change only as the adjusting of a discrepancy between prescribed aims
+and permitted means. And he is still confined to meanings and legitimating
+reasons, with the circular results discussed earlier.
+   It seems to me, then, that actors must be conceived in a timeless,
+universal way, so that historical explanation is given enough a priori to
+avoid the circles. The fault in attributing egoism to these actors is that to
+do so is to think of them as monads. The alternative, I suggest, is that
+they create their human identity through using social capacities in social
+relations. They succeed not by achieving any old equipoise between desires
+and norms but by creating a rational identity, one which expresses what it
+is rational to value. It has to be rational to be virtuous, and virtuous to act as
+a person bound to others. Here the argument crosses the border into ethics
+and | cannot pursue it. But I do urge that combined action is rational only
+when it helps each participant to live as he should and that the historian
+who judges the rationality of contextual change is also judging its worth.
+
+Having flaunted my colours, I shall end more soberly with some summarizing questions to Mr Skinner. His admirable method works well with
+Romeo and other single actors, especially when they happen to be authors
+of written texts. I object solely that the historian needs their motives or,
+rather, since what is needed must be recoverable, their real reasons. But
+the method seems at first no help in interpreting combined action. This
+can hardly be because action in concert is never rational for those taking
+part and the problem is to find a logic for collective action. When and why
+is it rational for individuals to incur the costs of banding together? When
+and why is it rational for groups to try to change the norms internal and
+external to them? These are the ontological questions — the former being
+acute for Skinner, if he still wishes to be silent about motive, and the
+latter, if social meaning and explanation always require a given context.
+   Epistemologically, the daunting circles can be broken only by assuming
+that actors are rational enough for even their irrational acts to be intelligible.
+But it needs to be more than a platitude that the social world makes sense
+when interpreted and the assumption must have an edge. The edge comes
+from an objective, not a subjective, notion of rationality, which involves
+the historian in judging how well the actors did. Rational action is a skill.
+At what? Is it just the effective translation of consistent preferences into
+
+=== p. 146 ===
+
+the most promising course of action? I have claimed that the rationality of
+motives is needed in judging that the actors’ real reasons were good reasons.
+Yet the puzzle set by ascribing a universal egoism to pre-social individuals
+is not removed by tacking other, more benevolent motives on to the same
+model of man. A fresh way of conceiving the actors is required. Since a
+vicious relativism results if human nature is made to vary empirically with
+historical context, I hold out for something universal. Here metaphysics
+and ethics run together and I expect that the mixture will be too much
+for Mr Skinner’s historian to stomach. Yet, if rational action is its own
+explanation, every historical explanation judges and partly endorses. Where,
+I ask finally, do Mr Skinner’s endorsements stop short of moral approval?
+   ‘Wherefore art thou Romeo?’, Juliet exclaimed. If the rational actor
+aims at what it is rational to become in an historical setting, she has
+posed the hardest question.
+

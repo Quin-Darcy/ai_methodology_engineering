@@ -1,0 +1,699 @@
+=== chunk: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch1-differences-of-opinion ===
+title: Differences of Opinion
+source_pdf: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.ocr.pdf
+pdf_pages: 18-37
+page_scheme: book
+plan_page_start: 3
+plan_page_end: 22
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 3 ===
+
+                                     .I
+
+        Differences of Opinion
+
+                                    &
+
+ESSENTIALS
+
+           n analysis of argumentation must begin by identifying the main
+           difference of opinion, and what type of difference of opinion it is.
+           Adifference of opinion arises when one party’s standpoint meets
+with doubt from the other party. This is an elementary difference of opinion,
+which is single and nonmixed. If the other party is not only doubtful but
+adopts an opposing standpoint, then the difference of opinion is mixed. In
+addition, if there is more than one proposition involved, the difference of
+opinion is multiple.
+
+1.1   DISAGREEMENT AND ARGUMENTATIVE DISCUSSION
+
+People often disagree with each other. There’s nothing special about
+that. It is unusual, though, for two people to simply accept the fact
+that their opinions differ and just leave it at that. In many cases, that
+would be unwise, or even impossible. To resolve the difference of
+opinion, they need to discuss the matter and try to reach some kind of
+agreement. If they make use of argumentation as a means to achieve a
+resolution of a difference, the discussion they are having may be
+
+=== p. 4 ===
+
+called an argumentative discussion. Argumentative discussions are essentially aimed at coming to a reasonable agreement.
+    In argumentative discussions there is, by definition, an explicit or
+implicit appeal to reasonableness, but in practice the argumentation
+can, in all kinds of respects, be lacking in reasonableness. Certain
+moves can be made in the discussion that are not really helpful to resolving the difference of opinion concerned. Before a well-considered judgment can be given as to the quality of an argumentative
+discussion, a careful analysis has to be carried out that reveals those
+aspects of the discourse that are pertinent to making such ajudgment
+concerning its reasonableness. It is the task of the analyst to delve
+deeply and thoroughly into the various layers of the argumentative
+text or exchange so that all the relevant elements are taken into account. In the method introduced in this book for analyzing, evaluating, and presenting argumentation, considerable attention is
+therefore paid to the focal points of argumentative discussion and
+the ways in which they manifest themselves in the discourse. We
+start our treatment of the analysis where argumentative discourse
+also startsin practice, thatis, with the difference of opinion that is the
+source of disagreement.
+
+1.2     EXPLICIT AND IMPLICIT DIFFERENCES OF OPINION
+
+A difference of opinion arises when two parties do not fully agree on
+a given standpoint. It need not be the case that the second party
+adopts an opposing standpoint. It is enough that in response to one
+party’s standpoint, the other party has doubts or is not sure:
+
+      Paula:   Ithinkschoolsshould spend more time teaching writing
+               skills.
+      Jack:    Idon’t know, I've never really thought about it.
+
+A difference of opinion or disagreement always involves two parties.
+One party puts forward a standpoint and the other party expresses
+doubts about it—or, as often happens, goes a step further and rejects
+the standpoint:
+
+      Paula:   Ithinkschoolsshould spend more time teaching writing
+               skills.
+      Dan:     That’s ridiculous! More than enough time is spent on
+               that already.
+
+=== p. 5 ===
+
+                                       DIFFERENCES OF OPINION
+
+In the preceding example, the difference of opinion is explicit: Both
+the standpoint and the rejection of it are clearly expressed. But this is
+not always the case. Especially in written texts, the difference of
+opinion often remains implicit because only one party is expressing
+its views. The other party’s skepticism or doubt is anticipated:
+
+      Paula:   Schools should spend more time teaching writing skills
+               because students these days have a hard time putting
+               their thoughts on paper. Furthermore, our schools
+               spend ridiculously little time on these skills compared
+               to other countries.
+
+We can be sure that Paula anticipates that her standpoint will not be
+immediately accepted by everyone because she goes to the trouble of
+giving arguments in support of it. (Of course it is possible that she is
+mistaken and that there is, in fact, no difference of opinion between
+her and her readers.)
+
+1.3     POSITIVE AND NEGATIVE STANDPOINTS
+
+The content of a statement always constitutes a certain proposition in
+which a certain property or quality is ascribed to the persons or
+things referred to. In a difference of opinion, there are two different
+positions taken with respect to the proposition a given statement
+contains. A proposition can be a description of facts or events (“Last
+year ticket sales at movie theaters declined by 3%”), a prediction
+(“Knowledge of foreign languages will be an increasingly important
+requirement in job applications”), a judgment (“Amsterdam is the
+most beautiful city in Europe”), or advice (“You should brush your
+teeth with the softest possible toothbrush”).
+  With respect to a proposition, a positive, a negative, or a neutral
+position can be taken. Dan, Paula, and Alice each take a different position with respect to the proposition that UFOs are a hoax:
+
+      Dan:     I think UFOs are a hoax.
+      Paula:   Idon’t think UFOs are a hoax.
+      Alice:   Idon’t know whether UFOs are a hoax or not.
+
+In this example, Dan has committed himself positively to the proposition that UFOs are a hoax. He has adopted a positive standpoint with
+respect to the proposition. Paula, who believes that UFOs are not a
+hoax, has committed herself negatively to the proposition; she has
+
+=== p. 6 ===
+
+adopted a negative standpoint. Alice has not committed herself to this
+proposition in any way because she is not sure about it. For the time
+being, she is taking a neutral position.
+    In a difference of opinion, there is always at least one person who
+puts forward a positive or negative standpoint with respect to some
+proposition, and one person who has doubts or does not commit to
+any particular standpoint. It may be that the second party not only
+has doubts but also adopts an opposing standpoint, but this is a more
+complex form of disagreement that is discussed later.
+
+1.4    STANDPOINTS AND EXPRESSIONS OF DOUBT
+
+Because people can have opinions on any subject whatsoever, the
+standpoints they adopt can relate to propositions of all kinds.    Aman
+may think his wife would look better with a different haircut, that his
+tennis game will improve if he uses a lighter weight racket, or that
+methadone should be covered by national health insurance.
+    Whether a proposition relates to a simple matter or a highly complex
+matter, it is always possible to adopt a standpoint on it:
+
+         I think Baudelaire is the best French poet.
+         Dictators are always right-wing.
+         Itisbad manners tolet an old lady stand when you are seated.
+         Behaviorism is an outdated psychological theory.
+         The quantum theory is confirmed by the theory of relativity.
+         It seems to me her hat was green.
+         It’s not true that an English mile is the same as two
+         kilometers.
+         I don’t think we should cancel our property insurance policy.
+
+Propositions on which standpoints are adopted can vary not only in
+subject matter but also in scope. A proposition can apply to everyone
+or only to certain individuals; it can apply to a whole class or to only
+part of a class. The force of a standpoint taken on a proposition can
+vary as well. An opinion can be stated with total conviction or, at the
+other extreme, it can be cautiously expressed as a suggestion. Standpoints can thus vary in degree of force and scope:
+
+         I'm certain that everyone knows fear.
+         I suspect that everyone knows fear.
+
+=== p. 7 ===
+
+        It seems likely that zinc deficiency delays sexual development
+        in some males.
+        It is doubtful that all words are translatable.
+        I assume thatevenintelligent people occasionally have dumb
+        ideas.
+        You must have added this up wrong.
+        There’s no doubt that everybody needs somebody.
+        There’sno doubt that some people can get along very well by
+        themselves.
+
+It may be that a standpoint addresses more than one proposition at
+once. Usually, though, these propositions are closely connected to
+each other. Their connectedness is sometimes made overt by combining them into a single sentence with conjunctions such as and
+and but:
+
+        It is unacceptable to me for you to go into my room without
+        asking, take books out of my bookshelf, and then lend them to
+        someone else.
+        It seems to me it is not necessary to take vitamin B complex
+        and vitamin C pills at every meal, but that it’s sufficient to
+        take vitamins A and D once a week and vitamin B complex
+        and vitamin C just once in a while.
+
+When someone expresses a positive standpoint, it is sometimes difficult to separate the standpoint from the proposition to which it is related (“Rock concerts are fun”). The proposition and the standpoint
+taken on it are often combined in a single statement, and the positive
+nature of the standpoint is often not emphasized, although sometimes it is:
+
+        My standpointis thatit really is true that women are more inclined to hysteria than men are.
+        Like Andrew, I believe that Christianity and pessimism are
+
+  Another complication is that it is often extremely difficult to differentiate between a negative standpoint and an expression of doubt
+(a neutral position). A cautiously formulated negative standpoint
+can sound very much like doubt. A statement that on the surface
+seems to express doubt may, therefore, on closer inspection, actually
+turn out to function as a negative standpoint. This is quite common
+
+=== p. 8 ===
+
+because, out of politeness, people usually prefer not to make their
+disagreement too obvious. There is an inclination to present a negative standpoint as mere skepticism:
+
+         I wonder if that’s really such a good idea.
+
+    Even though expressions of doubt may seem to be thinly disguised
+negative standpoints, their consequences are not the same. Adopting
+a negative standpoint leads to the obligation to defend that negative
+standpoint if it is called into question, whereas merely expressing
+doubt does not create any such commitment to defend a standpoint.
+Therefore, in analyzing argumentation, it is important to determine
+whether someone is only expressing doubt or may be considered to be
+adopting a negative standpoint.
+
+1.5     TYPES OF DIFFERENCES OF OPINION
+
+The simplest type of difference of opinion occurs when a standpoint
+meets with doubt. This is the elementary form of differences of opinion.
+Because a standpoint can be either positive or negative, there are two
+variants of the elementary form:
+
+      1 Peter:   Danish men are romantic.
+        Alice:   Are they?
+    2   Peter:   Danish men are not romantic.
+        Alice:   I'm not so sure about that.
+
+Because the elementary form of differences of opinion involves only
+one proposition, it is called single. In a single difference of opinion,
+only one standpoint (whether positive or negative) is adopted and
+then called into doubt by the other party. Such a difference of opinion
+is said to be nonmixed as well: There is only one party who is committed to defending a standpoint. The elementary form of differences of
+opinion is thus both single and nonmixed.
+    Besides single nonmixed differences of opinion, there are also
+mixed differences of opinion and multiple differences of opinion.
+These can be combined in various ways to form multiple mixed differences of opinion. When analyzed, such complex differences of
+opinion must first be broken down into a series of elementary differences of opinion. Altogether, four types of differences of opinion can
+be distinguished: single nonmixed (the elementary form), single
+mixed, multiple nonmixed, and multiple mixed.
+
+=== p. 9 ===
+
+  In a multiple difference of opinion, the standpoint relates to more
+than one proposition. A multiple difference of opinion arises when
+someone brings up two or more issues at the same time, for example,
+by giving his standpoint on a whole series of matters or by stating an
+opinion about a complex theory or about a plan with numerous components. Whenever the standpoint involves more than one proposition on which the other party expresses an opinion, the difference of
+opinion is a multiple one:
+
+   Peter:    Danish men are neither romantic nor spiritual, but at
+             least you can depend on them.
+   Alice:    I’'m not so sure about all that.
+
+  In a mixed difference of opinion, opposing standpoints are
+adopted with respect to the same proposition. One party puts forward a positive standpoint and the other party rejectsit (i.e.,adopts a
+negative standpoint) or the other way around. This means that instead of simply expressing doubt, the other party responds by adopting an opposing standpoint:
+
+   Peter:    Danish men are not romantic.
+   Alice:    Idon’t agree with you.
+
+Itisimportant to be aware that adopting an opposing standpoint always implies doubt (or lack of full agreement) with respect to the
+other party’s standpoint. After all, if there were no doubt, then there
+would be full agreement with the standpoint, and putting forward
+the opposite standpoint would then be pointless. Therefore, any
+complex difference of opinion can be broken down into two or more
+elementary differences of opinion. The following single mixed difference of opinion can be analyzed as consisting of two elementary
+differences of opinion:
+
+   Peter:    You always react way too fast.
+   Alice:    Ido not!
+
+The first elementary difference of opinion consists of Peter’s positive standpoint with respect to the proposition “Alice always reacts way too fast” together with Alice’s doubt about this
+standpoint. The second elementary difference of opinion consists
+of Alice’s negative standpoint with respect to the proposition “Alice always reacts way too fast” together with Peter’s doubt about
+that standpoint.
+
+=== p. 10 ===
+
+1.6     MAIN AND SUBORDINATE DIFFERENCES OF OPINION
+
+During the discussion occasioned by a difference of opinion, new
+disagreements often surface as the arguments brought forward in defense of a standpoint meet with doubt or rejection. In trying to identify a difference of opinion, it is therefore important to distinguish
+between the main difference of opinion and any subordinate ditfer-ences of opinion that may arise during the discussion about the main
+disagreement. Look at the following example:
+
+      Alice:    Excuse me, but I think this soup is spoiled.
+      Waiter:   Madam, that is impossible.
+      Alice:    But look, there’s mold floating around in it.
+      Waiter:   That’s not mold, those are little pieces of broccoli.
+      Alice:    Well, I've certainly never seen such strange-looking
+                broccoli before.
+
+The main difference of opinion here is single mixed and relates to the
+proposition “This soup is spoiled.” In addition, there is a multiple
+mixed subordinate difference of opinion relating to the propositions
+“There’s mold floating in the soup” and “There are little pieces of
+broccoli floating in the soup.”
+     Instead of being stated at the outset, the main difference of opinion
+often comes to light gradually, so that what the two parties actually
+disagree on becomes clear only in the course of the discussion. What
+also often happens is that the same standpoint is repeated in a somewhat different way. It may look like a totally new standpoint, but
+more often than not, the new version simply does a better job of stating the standpoint than the original version did:
+
+      Alice:    The French are chauvinistic.    Imean, most French people
+                are chauvinistic. I'll tell you why I think so ...
+
+1.7     HOW TO RECOGNIZE STANDPOINTS AND DOUBT
+
+Certain phrases allow the speaker to indicate explicitly that a standpoint is being taken:
+
+          My standpoint is that socioeconomic and cultural differences
+          play a large role in the results of intelligence tests.
+          We are of the opinion that people should be able to smoke in
+          public places.
+
+=== p. 11 ===
+
+Additional expressions used to indicate that a standpoint is being
+taken include:
+
+       I think that men and women should leave each other alone as
+       much as possible.
+       If you ask me, there has notbeen areal diva since Maria Callas.
+       I believe New York is closer to Philadelphia than to Boston.
+       My conclusion is that the economic convergence theory leads to
+       a faulty interpretation of the evolution of the global economy.
+       That’s why Nelly Melba is not nearly as famous as the ice
+       cream dessert named after her.
+       It simply isn’t true that engaging in sports is necessarily good
+       for your health.
+       The spinal column thus has three different functions.
+       Therefore, the proposal to make all job titles gender-neutral is
+       unacceptable language tyranny.
+       I'm convinced that girls are better students than boys.
+
+  In other cases, the wording strongly suggests that a standpoint
+is being taken but does not provide certainty because (without
+more contextual information) it leaves room for a different interpretation:
+
+       The way I see it, he’s only thinking of his own interests.
+       In short, television has an adverse effect on children’s
+       behavior.
+       In other words, the ideal of equal pay for equal work is still out
+       of reach.
+       In actual fact, Napoleon thought his brother would be ahandy
+       tool.
+       I would go so far as to say that passive sentences are always
+       more difficult to understand than active sentences.
+       All things considered, that’s the best route to take.
+       What we need to agree on is that nobody will go off and leak the
+       news to the press.
+       It is nonsense to consider Popper a positivist.
+       It’s a good idea to take out travel insurance.
+
+  And then there are also cases where the words themselves do not
+express a standpoint, but where there isa verbal pattern that often occurs when a standpoint is expressed, thus facilitating recognition:
+
+=== p. 12 ===
+
+          People shouldn’t want everything all at once.
+          All archives ought to be open to the public.
+          Pompous language should be avoided.
+          You must never let yourself become entirely dependent on
+          another person.
+          That measure is unfair.
+          That you can’t sleep is a sign that something is wrong.
+
+Looking at the context often makes it possible to decide whether a
+statement can be analyzed as a standpoint or not. Background information may also be helpful.
+     Doubt may be even more difficult to recognize than a standpoint
+because it so often remains implicit. The fact that someone finds it
+necessary to defend a standpointis, however, a strong indication that
+they at least anticipate that their standpoint will meet with doubt. It
+may be that they thought they saw the other person frown. Or perhaps putting themselves in the other person’s shoes has led them to
+expect to meet with doubt.
+     Even though doubt is often not explicitly stated, there are certain
+expressions from which doubt can be inferred:
+
+          I don’t know whether Prince Alexander had much respect for
+          his father.
+          I'm not entirely sure you remembered to turn off the gas.
+          I"'m not yet convinced that this new policy is in the best interests
+          of children raised by single parents.
+          Couldn’t it be that she shares in the blame as well?
+          I don'’t really understand why those two points of view are
+          I'll have to think about whether that’s a situation where it would
+          be wise to raise interest rates.
+
+FURTHER READING
+
+The theoretical background of our pragma-dialectical approach is explained in F. H. van Eemeren and R. Grootendorst, Argumentation, Communication, and Fallacies, Mahwah, NJ: Lawrence Erlbaum Associates,
+1992. For a brief overview of other approaches, such as the “Toulmin
+model,” the “new rhetoric,”      “informal logic and critical thinking,” and
+“formal dialectics,” see F. H. van Eemeren, “The state of the art in argu-
+
+=== p. 13 ===
+
+mentation theory,” in F. H. van Eemeren (Ed.), Crucial Concepts in Arqu-mentation Theory, Amsterdam: Amsterdam University Press, 2001, and
+for a detailed description of these approaches the handbook Fundamentals of Argumentation Theory of F. H. van Eemeren, R. Grootendorst, A. E.
+Snoeck Henkemans, and others, Mahwah, NJ: Lawrence Erlbaum Associates, 1996.
+  The different types of differences of opinion distinguished here
+are explained in more detail in chapter 2 of Argumentation, Communication, and Fallacies. For an overview of the state of the art in the various approaches to standpoints, views, or points of view, consult P.
+Houtlosser, “Points of view,” in F. H. van Eemeren (Ed.), Crucial Concepts in Argumentation Theory, Amsterdam: Sic Sat, 2001. How the
+presentation of the standpoint may influence the persuasiveness of
+the argument is discussed in D. J. O’Keefe, “Standpoint explicitness
+and persuasive effect: A meta-analytic review of the effects of varying conclusion articulation in persuasive messages,” Argqumentation
+and Advocacy, 1997, vol. 34, no. 1, pp. 1-13.
+
+=== p. 14 ===
+
+EXERCISES
+
+     1.   Do the following passages contain a standpoint? If so, indicate
+          which utterance functions as the standpoint and explain how
+          you can tell that it functions as such.
+          a.   Pavarotti to diet and rest
+               Luciano Pavarotti, the Italian tenor, said yesterday that he
+               had been ordered by doctors to go on a supervised diet and
+               not to sing any opera for six months.
+               Re “Central Park Shut to Spray for Virus”
+               Having recently migrated from New York (whereIlived for
+               17 years) to Florida,   have noted with interest the mosquito
+               problem back home. Mosquitoes used to be a problem
+               down here, though they were more pesky than lethal. Local
+               authorities have all but eliminated the pest by releasing an
+               enormous amount of dragonflies, which devour the pests at
+               an alarming rate.
+                  Although I'm no expert on the environmental consequences, it seems to be a reasonably efficient, natural,
+               chemical-free solution to a serious problem. I know that the
+               results locally have been at once profound and effective.
+               A sacked Roman catholic priest will open his own church
+               next month to conduct weddings for divorced and expectant
+               couples and to bless homosexual relationships. Father Pat
+               Buckly intends marrying couples denied the sacrament under Catholicrules. “I believe marriage is for life, but unfortunately people make mistakes and, when people are sincere,
+               they should be allowed a second chance. That’s what I'm giving them,” he said.
+               The idea of random tests for cannabis on drivers is positively Hitlerian. Cannabis stays in the system for up to 60
+               days. You could be in a room where people are smoking
+               marijuana and be banned from driving 48 hours later.
+     2.   Indicate what difference of opinion is at stake in the following
+          texts and to which of the four types of differences of opinion it
+          belongs.
+          a.   You should always eat something before you go swimming
+               and you should never go swimming in the ocean when it is
+               low tide, because swimming on an empty stomach gives
+               you cramps and when it is low tide you’ll get swept out to
+               sea by the current.
+
+=== p. 15 ===
+
+.   Robson: Research on artificial intelligence ought to be actively stimulated by the U.S. government.
+    Briggs:   I totally disagree with that.
+    Baker:    The granting of the so-called “no claims” bonus by
+              car insurance companies not only serves to encourage driversnot to stop after an accidentbutitalsois
+              not to the advantage of motorists who have never
+              had an accident. I shall present detailed arguments
+              in support of these propositions.
+. Your report “Sissy English lessons may hinder boys” struck
+    a chord. For the past two generations English poetry has
+    been in the hands of people—from T.S. Eliot to present Poet
+    Laureate—who seem to have a marked distaste for rhythm,
+    scansion, rthyme and, above all, for subjects likely to interest
+    boys and men. They seem to be introverts occupied with
+    combing their pink fluffy souls, to the exclusion of half their
+    potential readership.
+    Women should not be licensed to box professionally because pre-menstrual syndrome (PMS) makes them unstable. The British boxing board of control refuses to give a
+    license to British woman boxer Jane Couch, the world welterweight champion. “PMS would be more likely to give
+    women an unfair advantage in the boxing ring than make
+    them unfit to don their gloves,” said Katharine Dalton, the
+    gynecological endocrinologist credited with naming the
+    syndrome. “It will make them much more aggressive and
+    better boxers.”
+    Ivan Wolffers: “Societies that believe they can protect themselves by taking a firm line with individuals who are infected with the virus are doing just about the most
+    ill-advised thing imaginable. They isolate people with
+    HIV/AIDS and think that, in so doing, the virus will also be
+    isolated. It is not so easy to isolate a virus. At worst, you
+    treat a number of people in an inhumane manner and they
+    will make sure that no one finds out that they might have
+    the virus.”
+.   Letter to the editor:
+    I must disagree with your identification of the mouse in the
+    illustration from The Tailor of Gloucester as a dormouse. The
+    mice in the book were modeled on the ordinary house
+    mouse. The dormouse has a shorter, furry tail and rounded
+    ears and is a reddish color.
+
+=== p. 16 ===
+
+     h.   Letter to the editor:
+          Professor Brandon’s assertion that no one who has been repeatedly physically or sexually abused ever “loses” the
+          memory runs counter to present professional understanding of traumatic memory. Professor Alan Scheflin and Dr.
+          David Brown, in the U.S. Journal of Psychiatry and Law (vol.
+          24,2, Summer, 1996) found that amnesia for childhood sexual abuse was “a robust finding across studies using very
+          different samples and methods of assessment.”
+          A City, So Lovely, Through Woody Allen’s Lens
+          As a filmmaker who has tried to record Manhattan at its
+          most beautiful and charming, I would like to stand behind
+          the position taken by some Greenwich Village residents
+          against New York University’s plan to put up a 13-story
+          building on West Third Street, destroying two historic
+          structures, including a house where Edgar Allan Poe once
+          lived (letter, July 25).
+             There is no question that much of Greenwich Village is
+          New York atitsloveliest, and the trick over the years in filming around Washington Square has been to show the world
+          the magic of the great-looking preserved areas while framing out the construction done by N.Y.U.
+             No one is questioning the need for the university’s law
+          school to expand, but surely it can be worked out in a way
+          that does not destroy yet another piece of this fast-vanishing area.
+             It is hard for me to believe that a great institution like
+          N.Y.U., which had the foresight and good taste to expel me
+          many years ago, would be insensitive to this situation.
+             WOODY ALLEN
+
+=== p. 17 ===
+
+SPECIAL ASSIGNMENT 1
+
+ a.   Make a review of Texts 1 and 2 in which you:
+      1.   Represent the authors’ positions and their main lines of defense.
+      2.   Comment on the quality of the individual arguments.
+      3.   Give your overall judgement of the arguments. Which of
+           the authors has the strongest argument?
+ b.   The review should be approximately 4 pages (double spaced).
+      Make two copies: Submit one copy to the instructor at the next
+      class meeting and one to another student.
+ c.   Before the following class meeting, the students should evaluate each other’s reviews and submit their evaluation to the author of the review and to the instructor. In the evaluation
+      report, attention should be paid to the following points:
+      1.   Have the authors’ positions and arguments been correctly
+           represented?
+      2.   Does the reader get a clear overview of the organization of
+           the authors” arguments?
+      3.   Does the criticism on individual arguments seem justified?
+           Is it sufficiently supported?
+      4.   Is the overall judgment based on a careful weighing up of
+           the judgments of the individual arguments?
+ d. The instructor will make some general comments on the reviews and will discuss some problems with the help of a sample of the type of errors encountered in the students’ texts.
+
+=== p. 18 ===
+
+          MIDDLE OF THE ROAD
+          Laurence Deverall
+
+          This week’s column was what I had prepared for last time but
+          the Add/Drop fracas intervened and provided a bit of diversion. By the cartoons and other responses it engendered it
+          must have put some people under conviction. I have always
+          found that the truth cuts like a knife and stings like salt in an
+          openwound, butin the end acts as a catharsis and cleanses the
+          soul. Thus I intend to keep on doing it. This week I will undoubtedly get more people mad at me.
+            For the past few years I have noticed several things about a
+     10   university education: not only does it get progressively more
+          expensive but some of that expense is hard tojustify. Books are
+          one such item. Why is it that some textbooks are much more
+          expensive on campus than off it? Now I realize that smaller
+          quantity printings of books call for higher retail prices be-15   cause the cost of production is higher per book. But when I see
+          the same text book, The Oxford Illustrated History of Christian-ity, which I purchased for $20 (Can) as a bonus book from my
+          book club, offered for sale in the University Bookstore for $55
+          plus GST, I have to ask why the over 100% increase? Surely
+     20   bulk purchases should result in even lower prices.
+            Another question I would like to see answered is why some
+          professors change text books every time they offer the same
+          course? Often some very expensive books that students have
+          HAD to buy are rendered valueless after one semester. Stu-25   dents have few other options than to drop the thing in the
+          trash can if it is no part of their major. Many books at the IVCF
+          second-hand book sale this year fell into this category. For students who rely on the resale of books to offset the cost of the
+          next semester’s books, this can be a real hardship.
+     30     Onereason that could be offered for this situation is that the
+          sum total of knowledge is doubling every few months and so
+          new text books are needed. But surely not every discipline is
+
+=== p. 19 ===
+
+changing so fast that the texts are out of date in four months!
+No, there must be other reasons for the switching.
+  [ have discovered, I think, a significant chain of events that 35
+may help explain why students are suckered into forking out
+excessive cash for books. First, in order to get research funding
+from the government (which helps to pay profs’ salaries) the
+University has to have the profs doing research. One of my instructors told me that only 20% of his time was spent on class 40
+related activities, the remainder was spent on research, book
+writing and committee meetings.
+  Secondly, profs have to prove they are doing research by
+publishing their findings. If they do not, they will not get increases in salary and, in fact, may lose their jobs. This hap- 45
+pened to one of my profs—he spent too much time helping his
+students and was given the Royal Order of the Boot.
+  Thirdly, it costs money to publish books, particularly in
+small quantities in less popular disciplines. Someone has to
+pay for these books and, you guessed it, it’s the students. I 50
+would hate to suggest that our illustrious teachers go to their
+annual conferences to look at their colleagues” new books offered for sale at the publisher’s book fairs (which, quite coincidentally, are held in conjunction with these events) and agree
+to make those new books required texts for their next classes.       55
+The possibility of such collusion certainly exists. Thus there is
+a potential conflict of interest which in the end costs students
+extra money to grease the wheels of the system.
+  Is it possible that in reality universities don’t exist for the
+benefit of students but function only to provide places in 60
+which academics and administrators can pursue their careers?
+Could it be that we students are only an unwanted but necessary adjunct to a university’s activities? I think we need to let
+the establishment know that we are not just an intrusion into
+their working day but the very reason for their existence. If we 65
+do this, who knows, we might just end up a little better off in
+pocket for our labors.
+
+=== p. 20 ===
+
+          DEVERALL'S “DRIVEL" DECONSTRUCTED
+          David Ingham (Department of English)
+
+          Since he finished a degree at the U of L., Laurence Deverall
+          should certainly know better than to write the unresearched,
+          prof-bashing drivel which appeared in his last column (“Middle of the Road,” 26 Sept), and while it should be obvious that
+          his allegations shouldn’t be taken seriously, it’s just possible
+          that some of your readers might mistakenly think there is
+          something to them.
+            First of all, the suggestion that there is a conspiracy among
+          faculty to bilk impoverished students of their much needed
+     10   money by forcing them to buy inferior, overpriced texts written by faculty colleagues is as ludicrous as it is repugnant.
+          But Mr. Deverall’s “logic” is skewed at every step. He notes
+          that faculty are expected to do research, and show evidence
+          of that by publishing, but either suppresses or didn’t bother
+     15   to find out the facts that 1) the overwhelming majority of
+          what we publish is articles (in scholarly journals) and not
+          books, and 2) of those academic books which do get published, the vast majority are not suitable for use as undergraduate texts. They’re much more likely to be of interest
+     20   only to specialists in the field, and libraries. (By the way, they
+          aren’t like novels—we don’t get royalties or anything like
+          that.) And when we do go to “book fairs” at the conference of
+          Learned Societies (the conference of conferences), where we
+          see our colleagues’ new books, our text orders have already
+     25   been in for a month. Moreover, the titles at these “book fairs”
+          are unlikely to be suitable as texts anyway: We buy them for
+          ourselves. [sic] (Logical, when you think about it—the very
+          latest, most advanced and specialized research is rather often beyond what we can expect of the average undergradu-30   ate.) In actuality, the way we find out about potential new
+          texts is through the publisher’s reps who regularly come
+          around to our office flogging their wares.
+
+=== p. 21 ===
+
+  I'll tell you why we do change texts, however. Often it’s because there’s a new edition out, and since the old edition goes
+out of print—which I agree it sometimes does with suspicious 35
+frequency—we couldn’t keep using it if we wanted to (I've
+tried). Or we come across a better text; you do want us to use
+the best texts we can, don’t you, as long as they’re comparable
+in price (or cheaper). Sometimes we find a text just as good (or
+nearly so), but substantially cheaper, surely you’d prefer for 40
+us to switch in those cases. And once in a while we switch just
+for the sake of variety. Would you want to take a course from
+someone who’s been giving exactly the same lectures on exactly the same books for twenty years? We do care about our
+students, and definitely sympathize with them over high text 45
+prices (I support a student, so I do know about it, too).
+  So put up or shut up, Mr. Deverall. Name names—supply
+evidence. I want to know just which faculty members have deleted texts and changed to ones which are a) inferior, b) more
+expensive, and c¢) written by friends. If you can’t, then an apol- 50
+ogy and a retractionis in order. When you say, “I would hate to
+suggest ... ” and then go on to do exactly that, you move only
+from the realm of legally actionable slander to that of slimy insinuation.
+  In addition, there are a few other problems with your col- 55
+umn. For one thing, don’t blame the bookstore for high prices.
+They have no choice but to pay whatever the publisher
+charges, and their mark-up is designed specifically to break
+even (in fact, they lose money on books, and make it up on
+clothing). Did it ever occur to you that maybe, just maybe, the 60
+reason you got your book so cheaply from the bookclub was
+not because the bookstore is trying to rip you off, but because
+your wealthy book club was giving you a discount???
+  You also imply that most faculty devote too little time to
+teaching, and that those who do care about their students risk 65
+dismissal. Balderdash. Faculty here are required to meet minimum standards in three areas, teaching, research, and service.
+To spend time on only one of these three to the exclusion of the
+other twois to refuse to comply with the conditions of employment. And when you quote one of your instructors as claiming        70
+to spend only “20% of his time on class related activities,” you
+conveniently neglect to say 20% of what. Twenty percent of 100
+hours a week? Remember, 20% of 40 hours is only eight, which
+
+=== p. 22 ===
+
+          is abit difficult to believe if he’s spending nine hours a week in
+     75   the classroom. (In case anyone’s interested, judging by my
+          own discipline—English—your instructors likely spend an
+          average of between 10 and 20 hours per week per course,
+          counting teaching, preparation, marking, seeing students and
+          so on.)
+     80     Finally, I am shocked and appalled at your apparent assumption that students who purchase texts which are “not
+          part of their major” will automatically either sell them, or if
+          they can’t be sold, “drop the[m] in the trash can.” I hope and
+          pray that atleast a few students here occasionally take courses
+     85   outside their majorsjustbecause they’re interested, and might
+          even believe that at least some of the text books they bought
+          are valuable in and of themselves, not just at the cash register.
+          Believe it or not, some of us were actually brought up to respect
+          books, and to care about other things than money. So if a text is
+     90   of no use to you, and you can’t sell it, for God’s sake don’t just
+          “drop the thing in the trash can,” donate it to the library. Perhaps someone else can find value in it.
+            In conclusion, the professors at this University are here primarily because of their students—it’s a pretty stupid career
+     95   choice for anyone who’s not. And unless you produce some
+          evidence to support your defamatory allegations, it certainly
+          looks as if we care a good deal more about our students, Mr.
+          Deverall, than you do about the truth.
+

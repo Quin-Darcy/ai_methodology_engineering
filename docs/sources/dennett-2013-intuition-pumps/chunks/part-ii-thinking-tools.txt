@@ -1,0 +1,1189 @@
+=== chunk: dennett-2013-intuition-pumps/part-ii-thinking-tools ===
+title: Part II — A Dozen General Thinking Tools (Chs. 1–12)
+source_pdf: docs/sources/dennett-2013-intuition-pumps/full.pdf
+pdf_pages: 23-59
+page_scheme: pdf
+plan_page_start: 23
+plan_page_end: 59
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 23 ===
+
+                                                             II.
+                                                A DOZEN GENERAL
+                                                 THINKING TOOLS
+
+Most of the thinking tools in this book are quite specialized, made to order
+for application to a particular topic and even a particular controversy
+within the topic. But before we turn to these intuition pumps, here are a few
+general-purpose thinking tools, ideas and practices that have proved
+themselves in a wide variety of contexts.
+
+=== p. 24 ===
+
+1. MAKING MISTAKES
+
+         He who says “Better to go without belief forever than believe a
+         lie!” merely shows his own preponderant private horror of
+         becoming a dupe. . . . It is like a general informing his soldiers
+         that it is better to keep out of battle forever than to risk a single
+         wound. Not so are victories either over enemies or over nature
+         gained. Our errors are surely not such awfully solemn things. In a
+         world where we are so certain to incur them in spite of all our
+         caution, a certain lightness of heart seems healthier than this
+         excessive nervousness on their behalf.
+                                     —WILLIAM JAMES, “The Will to Believe”
+         If you’ve made up your mind to test a theory, or you want to
+         explain some idea, you should always decide to publish it
+         whichever way it comes out. If we only publish results of a
+         certain kind, we can make the argument look good. We must
+         publish both kinds of results.
+              —RICHARD FEYNMAN, “Surely You’re Joking, Mr. Feynman!”
+
+Scientists often ask me why philosophers devote so much of their effort to
+teaching and learning the history of their field. Chemists typically get by
+with only a rudimentary knowledge of the history of chemistry, picked up
+along the way, and many molecular biologists, it seems, are not even
+curious about what happened in biology before about 1950. My answer is
+that the history of philosophy is in large measure the history of very smart
+people making very tempting mistakes, and if you don’t know the history,
+you are doomed to making the same darn mistakes all over again. That’s
+why we teach the history of the field to our students, and scientists who
+blithely ignore philosophy do so at their own risk. There is no such thing as
+philosophy-free science, just science that has been conducted without any
+consideration of its underlying philosophical assumptions. The smartest or
+luckiest of the scientists sometimes manage to avoid the pitfalls quite
+adroitly (perhaps they are “natural born philosophers”—or are as smart as
+they think they are), but they are the rare exceptions. Not that professional
+
+=== p. 25 ===
+
+philosophers don’t make—and even defend—the old mistakes too. If the
+questions weren’t hard, they wouldn’t be worth working on.
+   Sometimes you don’t just want to risk making mistakes; you actually
+want to make them—if only to give you something clear and detailed to
+fix. Making mistakes is the key to making progress. Of course there are
+times when it is really important not to make any mistakes—ask any
+surgeon or airline pilot. But it is less widely appreciated that there are also
+times when making mistakes is the only way to go. Many of the students
+who arrive at very competitive universities pride themselves in not making
+mistakes—after all, that’s how they’ve come so much farther than their
+classmates, or so they have been led to believe. I often find that I have to
+encourage them to cultivate the habit of making mistakes, the best learning
+opportunities of all. They get “writer’s block” and waste hours forlornly
+wandering back and forth on the starting line. “Blurt it out!” I urge them.
+Then they have something on the page to work with.
+   We philosophers are mistake specialists. (I know, it sounds like a bad
+joke, but hear me out.) While other disciplines specialize in getting the
+right answers to their defining questions, we philosophers specialize in all
+the ways there are of getting things so mixed up, so deeply wrong, that
+nobody is even sure what the right questions are, let alone the answers.
+Asking the wrongs questions risks setting any inquiry off on the wrong
+foot. Whenever that happens, this is a job for philosophers! Philosophy—in
+every field of inquiry—is what you have to do until you figure out what
+questions you should have been asking in the first place. Some people hate
+it when that happens. They would rather take their questions off the rack,
+all nicely tailored and pressed and cleaned and ready to answer. Those who
+feel that way can do physics or mathematics or history or biology. There’s
+plenty of work for everybody. We philosophers have a taste for working on
+the questions that need to be straightened out before they can be answered.
+It’s not for everyone. But try it, you might like it.
+   In the course of this book I am going to jump vigorously on what I claim
+are other people’s mistakes, but I want to assure you that I am an
+experienced mistake-maker myself. I’ve made some dillies, and hope to
+make a lot more. One of my goals in this book is to help you make good
+mistakes, the kind that light the way for everybody.
+   First the theory, and then the practice. Mistakes are not just opportunities
+for learning; they are, in an important sense, the only opportunity for
+
+=== p. 26 ===
+
+learning or making something truly new. Before there can be learning, there
+must be learners. There are only two non-miraculous ways for learners to
+come into existence: they must either evolve or be designed and built by
+learners that evolved. Biological evolution proceeds by a grand, inexorable
+process of trial and error—and without the errors the trials wouldn’t
+accomplish anything. As Gore Vidal once said, “It is not enough to succeed.
+Others must fail.” Trials can be either blind or foresighted. You, who know
+a lot, but not the answer to the question at hand, can take leaps—
+foresighted leaps. You can look before you leap, and hence be somewhat
+guided from the outset by what you already know. You need not be guessing
+at random, but don’t look down your nose at random guesses; among its
+wonderful products is . . . you!
+   Evolution is one of the central themes of this book, as of all my books,
+for the simple reason that it is the central, enabling process not only of life
+but also of knowledge and learning and understanding. If you attempt to
+make sense of the world of ideas and meanings, free will and morality, art
+and science and even philosophy itself without a sound and quite detailed
+knowledge of evolution, you have one hand tied behind your back. Later,
+we will look at some tools designed to help you think about some of the
+more challenging questions of evolution, but here we need to lay a
+foundation. For evolution, which knows nothing, the steps into novelty are
+blindly taken by mutations, which are random copying “errors” in DNA.
+Most of these typographical errors are of no consequence, since nothing
+reads them! They are as inconsequential as the rough drafts you didn’t, or
+don’t, hand in to the teacher for grading. The DNA of a species is rather
+like a recipe for building a new body, and most of the DNA is never
+actually consulted in the building process. (It is often called “junk DNA”
+for just that reason.) In the DNA sequences that do get read and acted upon
+during development, the vast majority of mutations are harmful; many, in
+fact, are swiftly fatal. Since the majority of “expressed” mutations are
+deleterious, the process of natural selection actually works to keep the
+mutation rate very low. Each of you has very, very good copying machinery
+in your cells. For instance, you have roughly a trillion cells in your body,
+and each cell has either a perfect or an almost perfect copy of your genome,
+over three billion symbols long, the recipe for you that first came into
+existence when your parents’ egg and sperm joined forces. Fortunately, the
+copying machinery does not achieve perfect success, for if it did, evolution
+
+=== p. 27 ===
+
+would eventually grind to a halt, its sources of novelty dried up. Those tiny
+blemishes, those “imperfections” in the process, are the source of all the
+wonderful design and complexity in the living world. (I can’t resist adding:
+if anything deserves to be called Original Sin, these copying mistakes do.)
+   The chief trick to making good mistakes is not to hide them—especially
+not from yourself. Instead of turning away in denial when you make a
+mistake, you should become a connoisseur of your own mistakes, turning
+them over in your mind as if they were works of art, which in a way they
+are. The fundamental reaction to any mistake ought to be this: “Well, I
+won’t do that again!” Natural selection doesn’t actually think the thought;
+it just wipes out the goofers before they can reproduce; natural selection
+won’t do that again, at least not as often. Animals that can learn—learn not
+to make that noise, touch that wire, eat that food—have something with a
+similar selective force in their brains. (B. F. Skinner and the behaviorists
+understood the need for this and called it “reinforcement” learning; that
+response is not reinforced and suffers “extinction.”) We human beings
+carry matters to a much more swift and efficient level. We can actually
+think the thought, reflecting on what we have just done: “Well, I won’t do
+that again!” And when we reflect, we confront directly the problem that
+must be solved by any mistake-maker: what, exactly, is that? What was it
+about what I just did that got me into all this trouble? The trick is to take
+advantage of the particular details of the mess you’ve made, so that your
+next attempt will be informed by it and not just another blind stab in the
+dark.
+   We have all heard the forlorn refrain “Well, it seemed like a good idea at
+the time!” This phrase has come to stand for the rueful reflection of an
+idiot, a sign of stupidity, but in fact we should appreciate it as a pillar of
+wisdom. Any being, any agent, who can truly say, “Well, it seemed like a
+good idea at the time!” is standing on the threshold of brilliance. We human
+beings pride ourselves on our intelligence, and one of its hallmarks is that
+we can remember our previous thinking, and reflect on it—on how it
+seemed, on why it was tempting in the first place, and then about what went
+wrong. I know of no evidence to suggest that any other species on the
+planet can actually think this thought. If they could, they would be almost
+as smart as we are.
+   So when you make a mistake, you should learn to take a deep breath, grit
+your teeth, and then examine your own recollections of the mistake as
+
+=== p. 28 ===
+
+ruthlessly and as dispassionately as you can manage. It’s not easy. The
+natural human reaction to making a mistake is embarrassment and anger
+(we are never angrier than when we are angry at ourselves), and you have to
+work hard to overcome these emotional reactions. Try to acquire the weird
+practice of savoring your mistakes, delighting in uncovering the strange
+quirks that led you astray. Then, once you have sucked out all the goodness
+to be gained from having made them, you can cheerfully set them behind
+you, and go on to the next big opportunity. But that is not enough: you
+should actively seek out opportunities to make grand mistakes, just so you
+can then recover from them.
+    At its simplest, this is a technique we all learned in grade school. Recall
+how strange and forbidding long division seemed at first: You were
+confronted by two imponderably large numbers, and you had to figure out
+how to start. Does the divisor go into the dividend six or seven or eight
+times? Who knew? You didn’t have to know; you just had to take a stab at
+it, whichever number you liked, and check out the result. I remember being
+almost shocked when I was told I should start by just “making a guess.”
+Wasn’t this mathematics? You weren’t supposed to play guessing games in
+such a serious business, were you? But eventually I appreciated, as we all
+do, the beauty of the tactic. If the chosen number turned out to be too small,
+you increased it and started over; if too large, you decreased it. The good
+thing about long division was that it always worked, even if you were
+maximally stupid in making your first choice, in which case it just took a
+little longer.
+    This general technique of making a more-or-less educated guess,
+working out its implications, and using the result to make a correction for
+the next phase has found many applications. A key element of this tactic is
+making a mistake that is clear and precise enough to have definite
+implications. Before GPS came along, navigators used to determine their
+position at sea by first making a guess about where they were (they made a
+guess about exactly what their latitude and longitude were), and then
+calculating exactly how high in the sky the sun would appear to be if that
+were—by an incredible coincidence—their actual position. When they used
+this method, they didn’t expect to hit the nail on the head. They didn’t have
+to. Instead they then measured the actual elevation angle of the sun
+(exactly) and compared the two values. With a little more trivial
+calculation, this told them how big a correction, and in what direction, to
+
+=== p. 29 ===
+
+make to their initial guess.1 In such a method it is useful to make a pretty
+good guess the first time, but it doesn’t matter that it is bound to be
+mistaken; the important thing is to make the mistake, in glorious detail, so
+there is something serious to correct. (A GPS device uses the same guessand-fix-it strategy to locate itself relative to the overhead satellites.)
+   The more complex a problem you’re facing, of course, the more difficult
+the analysis is. This is known to researchers in artificial intelligence (AI) as
+the problem of “credit assignment” (it could as well be called blame
+assignment). Figuring out what to credit and what to blame is one of the
+knottiest problems in AI, and it is also a problem faced by natural
+selection. Every organism on the earth dies sooner or later after one
+complicated life story or another. How on earth could natural selection see
+through the fog of all these details in order to figure out what positive
+factors to “reward” with offspring and what negative factors to “punish”
+with childless death? Can it really be that some of our ancestors’ siblings
+died childless because their eyelids were the wrong shape? If not, how
+could the process of natural selection explain why our eyelids came to have
+the excellent shapes they have? Part of the answer is familiar: following the
+old adage “If it ain’t broke, don’t fix it,” leave almost all your old,
+conservative design solutions in place and take your risks with a safety net
+in place. Natural selection automatically conserves whatever has worked up
+to now, and fearlessly explores innovations large and small; the large ones
+almost always lead immediately to death. A terrible waste, but nobody’s
+counting. Our eyelids were mostly designed by natural selection long
+before there were human beings or even primates or even mammals.
+They’ve had more than a hundred million years to reach the shape they are
+today, with only a few minor touch-ups in the last six million years, since
+we shared a common ancestor with the chimpanzees and the bonobos.
+Another part of the answer is that natural selection works with large
+numbers of cases, where even minuscule advantages show up statistically
+and can be automatically accumulated. (Other parts of the answer are
+technicalities beyond this elementary discussion.)
+   Here is a technique that card magicians—at least the best of them—
+exploit with amazing results. (I don’t expect to incur the wrath of the
+magicians for revealing this trick to you, since this is not a particular trick
+but a deep general principle.) A good card magician knows many tricks that
+depend on luck—they don’t always work, or even often work. There are
+
+=== p. 30 ===
+
+some effects—they can hardly be called tricks—that might work only once
+in a thousand times! Here is what you do: You start by telling the audience
+you are going to perform a trick, and without telling them what trick you
+are doing, you go for the one-in-a-thousand effect. It almost never works,
+of course, so you glide seamlessly into a second try—for an effect that
+works about one time in a hundred, perhaps—and when it too fails (as it
+almost always will), you slide gracefully into effect number 3, which works
+only about one time in ten, so you’d better be ready with effect number 4,
+which works half the time (let’s say). If all else fails (and by this time,
+usually one of the earlier safety nets will have kept you out of this worst
+case), you have a failsafe effect, which won’t impress the crowd very much
+but at least it’s a surefire trick. In the course of a whole performance, you
+will be very unlucky indeed if you always have to rely on your final safety
+net, and whenever you achieve one of the higher-flying effects, the
+audience will be stupefied. “Impossible! How on earth could you have
+known which was my card?” Aha! You didn’t know, but you had a cute way
+of taking a hopeful stab in the dark that paid off. By hiding all the
+“mistake” cases from view—the trials that didn’t pan out—you create a
+“miracle.”
+   Evolution works the same way: all the dumb mistakes tend to be
+invisible, so all we see is a stupendous string of triumphs. For instance, the
+vast majority—way over 90 percent—of all the creatures that have ever
+lived died childless, but not a single one of your ancestors suffered that
+fate. Talk about a line of charmed lives!
+   One big difference between the discipline of science and the discipline of
+stage magic is that while magicians conceal their false starts from the
+audience as best they can, in science you make your mistakes in public.
+You show them off so that everybody can learn from them. This way, you
+get the benefit of everybody else’s experience, and not just your own
+idiosyncratic path through the space of mistakes. (The physicist Wolfgang
+Pauli famously expressed his contempt for the work of a colleague as “not
+even wrong.” A clear falsehood shared with critics is better than vague
+mush.) This, by the way, is another reason why we humans are so much
+smarter than every other species. It is not so much that our brains are
+bigger or more powerful, or even that we have the knack of reflecting on
+our own past errors, but that we share the benefits that our individual brains
+have won by their individual histories of trial and error.2
+
+=== p. 31 ===
+
+   I am amazed at how many really smart people don’t understand that you
+can make big mistakes in public and emerge none the worse for it. I know
+distinguished researchers who will go to preposterous lengths to avoid
+having to acknowledge that they were wrong about something. They have
+never noticed, apparently, that the earth does not swallow people up when
+they say, “Oops, you’re right. I guess I made a mistake.” Actually, people
+love it when somebody admits to making a mistake. All kinds of people
+love pointing out mistakes. Generous-spirited people appreciate your
+giving them the opportunity to help, and acknowledging it when they
+succeed in helping you; mean-spirited people enjoy showing you up. Let
+them! Either way we all win.
+   Of course, in general, people do not enjoy correcting the stupid mistakes
+of others. You have to have something worth correcting, something original
+to be right or wrong about, something that requires constructing the sort of
+pyramid of risky thinking we saw in the card magician’s tricks. Carefully
+building on the works of others, you can get yourself cantilevered out on a
+limb of your own. And then there’s a surprise bonus: if you are one of the
+big risk-takers, people will get a kick out of correcting your occasional
+stupid mistakes, which show that you’re not so special, you’re a regular
+bungler like the rest of us. I know extremely careful philosophers who have
+never—apparently—made a mistake in their work. They tend not to get a
+whole lot accomplished, but what little they produce is pristine, if not
+venturesome. Their specialty is pointing out the mistakes of others, and this
+can be a valuable service, but nobody excuses their minor errors with a
+friendly chuckle. It is fair to say, unfortunately, that their best work often
+gets overshadowed and neglected, drowned out by the passing bandwagons
+driven by bolder thinkers. In chapter 76 we’ll see that the generally good
+practice of making bold mistakes has other unfortunate side effects as well.
+Meta-advice: don’t take any advice too seriously!
+
+1 This doesn’t give navigators their actual position, a point on the globe, but it does give them a
+line. They are somewhere on that line of position (LOP). Wait a few hours until the sun has moved
+on quite a bit. Then choose a point on your LOP, any point, and calculate how high the sun would
+be now if that point were exactly the right choice. Make the observation, compare the results,
+apply the correction, and get another LOP. Where it crosses your first LOP is the point where you
+are. The sun will have changed not only its height but also its compass bearing during those hours
+so the lines will cross at a pretty good angle. In practice, you are usually moving during those few
+hours, so you advance your first LOP in the direction you are moving by calculating your speed
+and drawing an advanced LOP parallel to the original LOP. In real life everything has a bit of slop
+in it, so you try to get three different LOPs. If they all intersect in exactly the same point, you’re
+
+=== p. 32 ===
+
+either incredibly good or incredibly lucky, but more commonly they form a small triangle, called a
+cocked hat. You consider yourself in the middle of the cocked hat, and that’s your new calculated
+position.
+2 That is the ideal, but we don’t always live up to it, human nature being what it is. One of the
+recognized but unsolved problems with current scientific practice is that negative results—
+experiments that didn’t uncover what they were designed to uncover—are not published often
+enough. This flaw in the system is famously explored and deplored in Feynman’s “Cargo Cult
+Lecture,” a commencement address he gave at Caltech in 1974, reprinted in Feynman, 1985.
+
+=== p. 33 ===
+
+2. “BY PARODY OF REASONING”:
+USING REDUCTIO AD ABSURDUM
+
+The crowbar of rational inquiry, the great lever that enforces consistency, is
+reductio ad absurdum—literally, reduction (of the argument) to absurdity.
+You take the assertion or conjecture at issue and see if you can pry any
+contradictions (or just preposterous implications) out of it. If you can, that
+proposition has to be discarded or sent back to the shop for retooling. We
+do this all the time without bothering to display the underlying logic: “If
+that’s a bear, then bears have antlers!” or “He won’t get here in time for
+supper unless he can fly like Superman.” When the issue is a tricky
+theoretical controversy, the crowbar gets energetically wielded, but here the
+distinction between fair criticism and refutation by caricature is hard to
+draw. Can your opponent really be so stupid as to believe the proposition
+you have just reduced to absurdity with a few deft moves? I once graded a
+student paper that had a serendipitous misspelling, replacing “parity” with
+“parody,” creating the delicious phrase “by parody of reasoning,” a handy
+name, I think, for misbegotten reductio ad absurdum arguments, which are
+all too common in the rough-and-tumble of scientific and philosophical
+controversy.
+   I recall attending a seminar on cognitive science at MIT some years ago,
+conducted by the linguist Noam Chomsky and the philosopher Jerry Fodor,
+in which the audience was regularly regaled with hilarious refutations of
+cognitive scientists from elsewhere who did not meet with their approval.
+On this day, Roger Schank, the director of Yale University’s artificial
+intelligence laboratory, was the bête noir, and if you went by Chomsky’s
+version, Schank had to be some kind of flaming idiot. I knew Roger and his
+work pretty well, and though I had disagreements of my own with it, I
+thought that Noam’s version was hardly recognizable, so I raised my hand
+and suggested that perhaps he didn’t appreciate some of the subtleties of
+Roger’s position. “Oh no,” Noam insisted, chuckling. “This is what he
+holds!” And he went back to his demolition job, to the great amusement of
+those in the room. After a few more minutes of this I intervened again. “I
+have to admit,” I said, “that the views you are criticizing are simply
+preposterous,” and Noam grinned affirmatively, “but then what I want to
+
+=== p. 34 ===
+
+know is why you’re wasting your time and ours criticizing such junk.” It
+was a pretty effective pail of cold water.
+   What about my own reductios of the views of others? Have they been
+any fairer? Here are a few to consider. You decide. The French
+neuroscientist Jean-Pierre Changeux and I once debated neuroscientist Sir
+John Eccles and philosopher Sir Karl Popper about consciousness and the
+brain at a conference in Venice. Changeux and I were the materialists (who
+maintain that the mind is the brain), and Popper and Eccles the dualists
+(who claim that a mind is not a material thing like a brain, but some other,
+second kind of entity that interacts with the brain). Eccles had won the
+Nobel Prize many years earlier for the discovery of the synapse, the
+microscopic gap between neurons that glutamate molecules and other
+neurotransmitters and neuromodulators cross trillions of times a day.
+According to Eccles, the brain was like a mighty pipe organ and the
+trillions of synapses composed the keyboards. The immaterial mind—the
+immortal soul, according to Eccles, a devout Catholic—played the
+synapses by somehow encouraging quantum-level nudges of the glutamate
+molecules. “Forget all that theoretical discussion of neural networks and
+the like; it’s irrelevant rubbish,” he said. “The mind is in the glutamate!”
+When it was my turn to speak, I said I wanted to be sure I had understood
+his position. If the mind was in the glutamate and I poured a bowl of
+glutamate down the drain, would that not be murder? “Well,” he replied,
+somewhat taken aback, “it would be very hard to tell, wouldn’t it?”1
+   You would think that Sir John Eccles, the Catholic dualist, and Francis
+Crick, the atheist materialist, would have very little in common, aside from
+their Nobel Prizes. But at least for a while their respective views of
+consciousness shared a dubious oversimplification. Many nonscientists
+don’t appreciate how wonderful oversimplifications can be in science; they
+can cut through the hideous complexity with a working model that is
+almost right, postponing the messy details until later. Arguably the best use
+of “over”-simplification in the history of science was the end run by Crick
+and James Watson to find the structure of DNA while Linus Pauling and
+others were trudging along trying to make sense of all the details. Crick
+was all for trying the bold stroke just in case it solved the problem in one
+fell swoop, but of course that doesn’t always work. I was once given the
+opportunity to demonstrate this at one of Crick’s famous teas at La Jolla.
+These afternoon sessions were informal lab meetings where visitors could
+
+=== p. 35 ===
+
+raise issues and participate in the general discussion. On this particular
+occasion Crick made a bold pronouncement: it had recently been shown
+that neurons in cortical area V4 “cared about” (responded differentially to)
+color. And then he proposed a strikingly simple hypothesis: the conscious
+experience of red, for instance, was activity in the relevant red-sensitive
+neurons of that retinal area. Hmm, I wondered. “Are you saying, then, that
+if we were to remove some of those red-sensitive neurons and keep them
+alive in a petri dish, and stimulate them with a microelectrode, there would
+be consciousness of red in the petri dish?” One way of responding to a
+proffered reductio is to grasp the nettle and endorse the conclusion, a move
+I once dubbed outsmarting, since the Australian philosopher J. J. C. Smart
+was famous for saying that yes, according to his theory of ethics, it was
+sometimes right to frame and hang an innocent man! Crick decided to
+outsmart me. “Yes! It would be an isolated instance of consciousness of
+red!” Whose consciousness of red? He didn’t say. He later refined his
+thinking on this score, but still, he and neuroscientist Christof Koch, in
+their quest for what they called the NCC (the neural correlates of
+consciousness), never quite abandoned their allegiance to this idea.
+   Perhaps yet another encounter will bring out better what is problematic
+about the idea of a smidgen of consciousness in a dish. The physicist and
+mathematician Roger Penrose and the anesthesiologist Stuart Hameroff
+teamed up to produce a theory of consciousness that depended, not on
+glutamate, but on quantum effects in the microtubules of neurons.
+(Microtubules are tubular protein chains that serve as girders and highways
+inside the cytoplasm of all cells, not just neurons.) At Tucson II, the second
+international conference on the science of consciousness, after Hameroff’s
+exposition of this view, I asked from the audience, “Stuart, you’re an
+anesthesiologist; have you ever assisted in one of those dramatic surgeries
+that replaces a severed hand or arm?” No, he had not, but he knew about
+them. “Tell me if I’m missing something, Stuart, but given your theory, if
+you were the anesthesiologist in such an operation you would feel morally
+obliged to anesthetize the severed hand as it lay on its bed of ice, right?
+After all, the microtubules in the nerves of the hand would be doing their
+thing, just like the microtubules in the rest of the nervous system, and that
+hand would be in great pain, would it not?” The look on Stuart’s face
+suggested that this had never occurred to him. The idea that consciousness
+(of red, of pain, of anything) is some sort of network property, something
+
+=== p. 36 ===
+
+that involves coordinated activities in myriads of neurons, initially may not
+be very attractive, but these attempts at reductios may help people see why
+it should be taken seriously.
+
+1 My other indelible memory of that conference was of Popper’s dip in the Grand Canal. He
+slipped getting out of the motorboat at the boathouse of the Isola di San Giorgio and fell feet first
+into the canal, submerged up to his knees before being plucked out and set on the pier by two
+nimble boatmen. The hosts were mortified and ready to rush back to the hotel to get nonagenarian
+Sir Karl a dry pair of trousers, but the pants he was wearing was the only pair he’d brought—and
+he was scheduled to lead off the conference in less than half an hour! Italian ingenuity took over,
+and within about five minutes I enjoyed an unforgettable sight: Sir Karl, sitting regally on a small
+chair in the exact middle of a marble-floored, domed room (Palladio designed it) surrounded by at
+least half a dozen young women in miniskirts, on their knees, plying his trouser legs with their
+hairdryers. The extension cords stretched radially to the walls, making of the tableau a sort of
+multicolored human daisy, with Sir Karl, unperturbed but unsmiling, in the center. Fifteen minutes
+later he was dry and pounding his fist on the podium to add emphasis to his dualistic vision.
+
+=== p. 37 ===
+
+3. RAPOPORT’S RULES
+
+Just how charitable are you supposed to be when criticizing the views of an
+opponent? If there are obvious contradictions in the opponent’s case, then
+of course you should point them out, forcefully. If there are somewhat
+hidden contradictions, you should carefully expose them to view—and then
+dump on them. But the search for hidden contradictions often crosses the
+line into nitpicking, sea-lawyering,1 and—as we have seen—outright
+parody. The thrill of the chase and the conviction that your opponent has to
+be harboring a confusion somewhere encourages uncharitable
+interpretation, which gives you an easy target to attack. But such easy
+targets are typically irrelevant to the real issues at stake and simply waste
+everybody’s time and patience, even if they give amusement to your
+supporters. The best antidote I know for this tendency to caricature one’s
+opponent is a list of rules promulgated many years ago by the social
+psychologist and game theorist Anatol Rapoport (creator of the winning
+Tit-for-Tat strategy in Robert Axelrod’s legendary prisoner’s dilemma
+tournament).2
+How to compose a successful critical commentary:
+
+1. You should attempt to re-express your target’s position so clearly,
+  vividly, and fairly that your target says, “Thanks, I wish I’d thought of
+  putting it that way.”
+2. You should list any points of agreement (especially if they are not
+  matters of general or widespread agreement).
+3. You should mention anything you have learned from your target.
+4. Only then are you permitted to say so much as a word of rebuttal or
+  criticism.
+One immediate effect of following these rules is that your targets will be a
+receptive audience for your criticism: you have already shown that you
+understand their positions as well as they do, and have demonstrated good
+judgment (you agree with them on some important matters and have even
+been persuaded by something they said).3
+
+=== p. 38 ===
+
+   Following Rapoport’s Rules is always, for me at least, something of a
+struggle. Some targets, quite frankly, don’t deserve such respectful
+attention, and—I admit—it can be sheer joy to skewer and roast them. But
+when it is called for, and it works, the results are gratifying. I was
+particularly diligent in my attempt to do justice to Robert Kane’s (1996)
+brand of incompatib ilism (a view about free will with which I profoundly
+disagree) in my book Freedom Evolves (2003), and I treasure the response
+he wrote to me after I had sent him the draft chapter:
+             . . . In fact, I like it a lot, our differences notwithstanding. The
+             treatment of my view is extensive and generally fair, far more so
+             than one usually gets from critics. You convey the complexity of
+             my view and the seriousness of my efforts to address difficult
+             questions rather than merely sweeping them under the rug. And
+             for this, as well as the extended treatment, I am grateful.
+Other recipients of my Rapoport-driven attention have been less cordial.
+The fairer the criticism seems, the harder to bear in some cases. It is worth
+reminding yourself that a heroic attempt to find a defensible interpretation
+of an author, if it comes up empty, can be even more devastating than an
+angry hatchet job. I recommend it.
+
+1 Maritime law is notoriously complicated, strewn with hidden traps and escape clauses that only
+an expert, a sea lawyer, can keep track of, so sea-lawyering is using technicalities to evade
+responsibility or assign blame to others.
+2 The Axelrod tournament (Axelrod and Hamilton, 1981; Axelrod, 1984) opened up the
+blossoming field of theoretical research on the evolution of altruism. I give an introductory
+account in Darwin’s Dangerous Idea (Dennett, 1995, pp. 479–480), and in more recent times
+there has been an explosion of variations, both simulations and experiments, in laboratories
+around the world. Rapoport’s wonderfully simple implementation of the idea “I won’t hit you if
+you don’t hit me” is the seed from which all the later studies and models have grown.
+3 The formulation of Rapoport’s Rules here is my own, done from memory of correspondence
+with Rapoport many years ago, now apparently lost. Samuel Ruth recently pointed out to me that
+the original source of Rapoport’s Rules is in his book Fights, Games, and Debates (1960) and his
+paper “Three Modes of Conflict” (1961), which articulates rule 1, attributing it to Carl Rogers, and
+variations on the rest of the rules. My version is somewhat more portable and versatile.
+
+=== p. 39 ===
+
+4. STURGEON’S LAW
+
+The science-fiction author Ted Sturgeon, speaking at the World Science
+Fiction Convention in Philadelphia in September 1953, said,
+          When people talk about the mystery novel, they mention The
+          Maltese Falcon and The Big Sleep. When they talk about the
+          western, they say there’s The Way West and Shane. But when they
+          talk about science fiction, they call it “that Buck Rogers stuff,”
+          and they say “ninety percent of science fiction is crud.” Well,
+          they’re right. Ninety percent of science fiction is crud. But then
+          ninety percent of everything is crud, and it’s the ten percent that
+          isn’t crud that is important, and the ten percent of science fiction
+          that isn’t crud is as good as or better than anything being written
+          anywhere.
+Sturgeon’s Law is usually put a little less decorously: Ninety percent of
+everything is crap. Ninety percent of experiments in molecular biology, 90
+percent of poetry, 90 percent of philosophy books, 90 percent of peer-reviewed articles in mathematics—and so forth—is crap. Is that true? Well,
+maybe it’s an exaggeration, but let’s agree that there is a lot of mediocre
+work done in every field. (Some curmudgeons say it’s more like 99 percent,
+but let’s not get into that game.) A good moral to draw from this
+observation is that when you want to criticize a field, a genre, a discipline,
+an art form, . . . don’t waste your time and ours hooting at the crap! Go
+after the good stuff, or leave it alone. This advice is often ignored by
+ideologues intent on destroying the reputation of analytic philosophy,
+evolutionary       psychology,     sociology,     cultural     anthropology,
+macroeconomics, plastic surgery, improvisational theater, television
+sitcoms, philosophical theology, massage therapy, you name it. Let’s
+stipulate at the outset that there is a great deal of deplorable, stupid,
+second-rate stuff out there, of all sorts. Now, in order not to waste your
+time and try our patience, make sure you concentrate on the best stuff you
+can find, the flagship examples extolled by the leaders of the field, the
+prize-winning entries, not the dregs. Notice that this is closely related to
+Rapoport’s Rules: unless you are a comedian whose main purpose is to
+make people laugh at ludicrous buffoonery, spare us the caricature. This is
+
+=== p. 40 ===
+
+particularly true, I find, when the target is philosophers. The very best
+theories and analyses of any philosopher, from the greatest, most
+perceptive sages of ancient Greece to the intellectual heroes of the recent
+past (Bertrand Russell, Ludwig Wittgenstein, John Dewey, Jean Paul Sartre
+—to name four very different thinkers), can be made to look like utter
+idiocy—or tedious nitpicking—with a few deft tweaks. Yuck, yuck. Don’t
+do it. The only one you’ll discredit is yourself.
+
+=== p. 41 ===
+
+5. OCCAM’S RAZOR
+
+Attributed to William of Ockham (or Occam), the fourteenth-century
+logician and philosopher, this thinking tool is actually a much older rule of
+thumb. A Latin name for it is lex parsimoniae, the law of parsimony. It is
+usually put into English as the maxim “Do not multiply entities beyond
+necessity.” The idea is straightforward: don’t concoct a complicated,
+extravagant theory if you’ve got a simpler one (containing fewer
+ingredients, fewer entities) that handles the phenomenon just as well. If
+exposure to extremely cold air can account for all the symptoms of
+frostbite, don’t postulate unobserved “snow germs” or “arctic microbes.”
+Kepler’s laws explain the orbits of the planets; we have no need to
+hypothesize pilots guiding the planets from control panels hidden under the
+surface. This much is uncontroversial, but extensions of the principle have
+not always met with agreement.
+   Conwy Lloyd Morgan, a nineteenth-century British psychologist,
+extended the idea to cover attributions of mentality to animals. Lloyd
+Morgan’s Canon of Parsimony advises us not to attribute fancy minds to
+insects, fish, and even dolphins, dogs, and cats if their behavior can be
+explained in simpler terms:
+          In no case is an animal activity to be interpreted in terms of
+          higher psychological processes, if it can be fairly interpreted in
+          terms of processes which stand lower in the scale of
+          psychological evolution and development. [1894, p. 128]
+Overused, this can be seen as enjoining us to treat all animals and even
+human beings as having brains but no minds. As we shall see, the tensions
+that arise when minds are the topic are not well settled by absolute
+prohibitions.
+   One of the least impressive attempts to apply Occam’s Razor to a gnarly
+problem is the claim (and provoked counterclaims) that postulating a God
+as creator of the universe is simpler, more parsimonious, than the
+alternatives. How could postulating something supernatural and
+incomprehensible be parsimonious? It strikes me as the height of
+extravagance, but perhaps there are clever ways of rebutting that
+suggestion. I don’t want to argue about it; Occam’s Razor is, after all, just a
+
+=== p. 42 ===
+
+rule of thumb, a frequently useful suggestion. The prospect of turning it
+into a Metaphysical Principle or Fundamental Requirement of Rationality
+that could bear the weight of proving or disproving the existence of God in
+one fell swoop is simply ludicrous. It would be like trying to disprove a
+theorem of quantum mechanics by showing that it contradicted the axiom
+“Don’t put all your eggs in one basket.”
+   Some thinkers have carried Occam’s Razor to drastic extremes, using it
+to deny the existence of time, matter, numbers, holes, dollars, software, and
+so on. One of the earliest ultra-stingy thinkers was the ancient Greek
+philosopher Parmenides, whose catalogue of existing things was minimal
+indeed. As a student of mine memorably wrote on an exam, “Parmenides is
+the one who said, ‘There’s just one thing—and I’m not it.’ ” I hate to say it,
+but that does seem to be what Parmenides was trying to tell us. No doubt it
+loses something in translation. We philosophers get used to taking such
+ideas seriously if only because we never can tell when a “crazy” idea is
+going to turn out to be unfairly and unwisely judged, a victim of failure of
+imagination.
+
+=== p. 43 ===
+
+6. OCCAM’S BROOM
+
+The molecular biologist Sidney Brenner recently invented a delicious play
+on Occam’s Razor, introducing the new term Occam’s Broom, to describe
+the process in which inconvenient facts are whisked under the rug by
+intellectually dishonest champions of one theory or another. This is our
+first boom crutch, an anti-thinking tool, and you should keep your eyes
+peeled for it. The practice is particularly insidious when used by
+propagandists who direct their efforts at the lay public, because like
+Sherlock Holmes’s famous clue about the dog that didn’t bark in the night,
+the absence of a fact that has been swept off the scene by Occam’s Broom
+is unnoticeable except by experts. For instance, creationists invariably
+leave out the wealth of embarrassing evidence that their “theories” can’t
+handle, and to a nonbiologist their carefully crafted accounts can be quite
+convincing simply because the lay reader can’t see what isn’t there.
+   How on earth can you keep on the lookout for something invisible? Get
+some help from the experts. Stephen C. Meyer’s Signature in the Cell
+(2009) purports to expose the systematic impossibility of life having a
+natural (nonsupernatural) origin, and gives what seems—even to a
+relatively well-informed reader—to be a fair and exhaustive survey of the
+theories and models being worked on around the world, showing how
+irredeemably hopeless they all are. So persuasive is Meyer’s case that in
+November 2009 the eminent philosopher Thomas Nagel declared it his Best
+Book of the Year in London’s Times Literary Supplement, one of the world’s
+most influential publications of book reviews! In a spirited correspondence
+I had with him after his rave appeared, he demonstrated that he knew quite
+a lot about the history of work on the origin of life, enough to think he
+could trust his own judgment. And as he noted in a letter to the Times
+Literary Supplement (January 1, 2010), “Meyer’s book seems to me to be
+written in good faith.” Had Nagel consulted with scientists working in the
+field, he would have been able to see Meyer’s exploitation of Occam’s
+Broom, whisking inconvenient facts out of view, and he might also have
+been dismayed to learn that the experts hadn’t been sent an early copy of
+Meyer’s book, as he had, or been asked to referee it before publication.
+Learning that the book he admired was a stealth operation might have
+shaken his confidence in his judgment, or it might not have. The scientific
+
+=== p. 44 ===
+
+establishment has been known to squelch renegade critics unjustly on
+occasion, and perhaps—perhaps—Meyer had no choice but to launch a
+sneak attack. But Nagel would have been wise to explore this prospect
+warily before committing himself. It is fair to say that the scientists
+working on the origin of life do not yet have a secure and agreed-upon
+theory, but there is no dearth of candidates, an embarrassment of riches
+rather than an almost empty arena.
+   Conspiracy theorists are masters of Occam’s Broom, and an instructive
+exercise on the Internet is to look up a new conspiracy theory, to see if you
+(a nonexpert on the topic) can find the flaws, before looking elsewhere on
+the web for the expert rebuttals. When Brenner coined the term, he wasn’t
+talking about creationism and conspiracy theories; he was pointing out that
+in the heat of battle, even serious scientists sometimes cannot resist
+“overlooking” some data that seriously undermine their pet theory. It’s a
+temptation to be resisted, no matter what.
+
+=== p. 45 ===
+
+7. USING LAY AUDIENCES AS DECOYS
+
+One good way of preventing people from inadvertently wielding Occam’s
+Broom is a technique that I have been recommending for years, and have
+several times put to the test—but never as ambitiously as I would like to
+do. Unlike the other practices I have been describing, this one takes time
+and money to do properly. I hope others will pursue this technique
+vigorously and report the results. I have decided to put it here because it
+addresses some of the same problems of communication that the other
+general tools confront.
+   In many fields—not just philosophy—there are controversies that seem
+never-ending and partly artifactual: people are talking past one another and
+not making the necessary effort to communicate effectively. Tempers flare,
+and disrespect and derision start creeping in. People on the sidelines take
+sides, even when they don’t fully understand the issues.
+   It can get ugly, and it can have a very straightforward cause. When
+experts talk to experts, whether they are in the same discipline or not, they
+always err on the side of under-explaining. The reason is not far to seek: to
+overexplain something to a fellow expert is a very serious insult—“Do I
+have to spell it out for you?”—and nobody wants to insult a fellow expert.
+So just to be safe, people err on the side of under-explaining. It is not done
+deliberately, for the most part, and it is almost impossible to keep from
+doing—which is actually a good thing, since being polite in an unstudied
+way is a nice character trait in anyone. But this gracious disposition to
+assume more understanding than is apt to be present in one’s distinguished
+audience has an unfortunate by-product: experts often talk past each other.
+   There is no direct cure: entreating all the experts present at a workshop
+or conference not to under-explain their positions may be met by earnest
+promises, but it won’t work. If anything it will make matters worse since
+now people will be particularly sensitive to the issue of inadvertently
+insulting somebody. But there is an indirect and quite effective cure: have
+all experts present their views to a small audience of curious nonexperts
+(here at Tufts I have the advantage of bright undergraduates) while the
+other experts listen in from the sidelines. They don’t have to eavesdrop;
+this isn’t a devious suggestion. On the contrary, everybody can and should
+be fully informed that the point of the exercise is to make it comfortable
+
+=== p. 46 ===
+
+for participants to speak in terms that everybody will understand. By
+addressing their remarks to the undergraduates (the decoy audience),
+speakers need not worry at all about insulting the experts because they are
+not addressing the experts. (I suppose they might worry about insulting the
+undergraduates, but that’s another matter.) When all goes well, expert A
+explains the issues of the controversy to the undergraduates while expert B
+listens. At some point B’s face may light up. “So that’s what you’ve been
+trying to say! Now I get it.” Or maybe the good effects will have to wait
+until it is B’s turn to explain to the same undergraduates what the issues
+are, and provoking just such a welcome reaction in A. It may not go
+perfectly, but it usually goes well and everybody benefits. The experts
+dissolve some of the artifactual misunderstandings between their positions,
+and the undergraduates get a first-rate educational experience.
+   Several times I have set up such exercises at Tufts, thanks to generous
+support from the administration. I handpick a small group of
+undergraduates (less than a dozen) and brief them on their role: they are not
+to accept anything they don’t understand. They will be expected to raise
+their hands, to interrupt, to alert the experts to anything they find confusing
+or vague. (They do get required reading to pore over beforehand so that
+they are not utter novices on the topic; they are interested amateurs.) They
+love the role, and so they should; they are being given made-to-order
+tutorials from some big guns. The experts, meanwhile, often find that being
+set the task (well in advance) to explain their position under these
+conditions helps them find better ways of making their points than they had
+ever found before. Sometimes these experts have been “protected” for
+years by layers of fellow experts, postdocs, and advanced graduate
+students, and they really need the challenge.
+
+=== p. 47 ===
+
+8. JOOTSING
+
+It is hard to find an application of Occam’s Broom, since it operates by
+whisking inconvenient facts out of sight, and it is even harder to achieve
+what Doug Hofstadter (1979, 1985) calls jootsing, which stands for
+“jumping out of the system.” This is an important tactic not just in science
+and philosophy, but also in the arts. Creativity, that ardently sought but only
+rarely found virtue, often is a heretofore unimagined violation of the rules
+of the system from which it springs. It might be the system of classical
+harmony in music, the rules for meter and rhyme in sonnets (or limericks,
+even), or the “canons” of taste or good form in some genre of art. Or it
+might be the assumptions and principles of some theory or research
+program. Being creative is not just a matter of casting about for something
+novel—anybody can do that, since novelty can be found in any random
+juxtaposition of stuff—but of making the novelty jump out of some system,
+a system that has become somewhat established, for good reasons. When an
+artistic tradition reaches the point where literally “anything goes,” those
+who want to be creative have a problem: there are no fixed rules to rebel
+against, no complacent expectations to shatter, nothing to subvert, no
+background against which to create something that is both surprising and
+yet meaningful. It helps to know the tradition if you want to subvert it.
+That’s why so few dabblers or novices succeed in coming up with anything
+truly creative.
+   Sit down at a piano and try to come up with a good new melody and you
+soon discover how hard it is. All the keys are available, in any combination
+you choose, but until you can find something to lean on, some style or
+genre or pattern to lay down and exploit a bit, or allude to, before you twist
+it, you will come up with nothing but noise. And not just any violation of
+the rules will do the trick. I know there are at least two flourishing—well,
+surviving—jazz harpists, but setting out to make your name playing
+Beethoven on tuned bongo drums is probably not a good plan. Here is
+where art shares a feature with science: there are always scads of
+unexamined presuppositions of any theoretical set-to, but trying to negate
+them one at a time until you find a vulnerable one is not a good recipe for
+success in science or philosophy. (It would be like taking a Gershwin
+melody and altering it, one note at a time, looking for a worthy descendant.
+
+=== p. 48 ===
+
+Good luck! Almost always, mutations are deleterious.) It’s harder than that,
+but sometimes you get lucky.
+   Advising somebody to make progress by jootsing is rather like advising
+an investor to buy low and sell high. Yes, of course, that’s the idea, but how
+do you manage to do it? Notice that the investment advice is not entirely
+vacuous or unusable, and the call for jootsing is even more helpful, because
+it clarifies what your target looks like if you ever catch a glimpse of it.
+(Everybody knows what more money looks like.) When you are confronting
+a scientific or philosophical problem, the system you need to jump out of is
+typically so entrenched that it is as invisible as the air you breathe. As a
+general rule, when a long-standing controversy seems to be getting
+nowhere, with both “sides” stubbornly insisting they are right, as often as
+not the trouble is that there is something they both agree on that is just not
+so. Both sides consider it so obvious, in fact, that it goes without saying.
+Finding these invisible problem-poisoners is not an easy task, because
+whatever seems obvious to these warring experts is apt to seem obvious, on
+reflection, to just about everybody. So the recommendation that you keep
+an eye out for a tacit shared false assumption is not all that likely to bear
+fruit, but at least you’re more likely to find one if you’re hoping to find one
+and have some idea of what one would look like.
+   Sometimes there are clues. Several of the great instances of jootsing
+have involved abandoning some well-regarded thing that turned out not to
+exist after all. Phlogiston was supposed to be an element in fire, and
+caloric was the invisible, self-repellent fluid or gas that was supposed to be
+the chief ingredient in heat, but these were dropped, and so was the ether as
+a medium in which light traveled the way sound travels through air and
+water. But other admirable jootsings are additions, not subtractions: germs
+and electrons and—maybe even—the many-worlds interpretation of
+quantum mechanics! It’s never obvious from the outset whether we should
+joots or not. Ray Jackendoff and I have argued that we must drop the
+almost always tacit assumption that consciousness is the “highest” or
+“most central” of all mental phenomena, and I have argued that thinking of
+consciousness as a special medium (rather like the ether) into which
+contents get transduced or translated is a widespread and unexamined habit
+of thought that should be broken. Along with many others, I have also
+argued that if you think it is simply obvious that free will and determinism
+
+=== p. 49 ===
+
+are incompatible, you’re making a big mistake. More about those ideas
+later.
+   Another clue: sometimes a problem gets started when somebody way
+back when said, “Suppose, for the sake of argument, that . . . ,” and folks
+agreed, for the sake of argument, and then in the subsequent parry and
+thrust everybody forgot how the problem started! I think that occasionally,
+at least in my field of philosophy, the opponents are enjoying the tussle so
+much that neither side wants to risk extinguishing the whole exercise by
+examining the enabling premises. Here are two ancient examples, which of
+course are controversial: (1) “Why is there something rather than nothing?”
+is a deep question in need of an answer. (2) “Does God command
+something because it is good, or is something good because God commands
+it?” is another important question. I guess it would be wonderful if
+somebody came up with a good answer to either of these questions, so I
+admit that my calling them pseudo-problems not worth anybody’s attention
+is not very satisfying, but that doesn’t show that I’m wrong. Nobody said
+the truth had to be fun.
+
+=== p. 50 ===
+
+9. THREE SPECIES OF GOULDING: RATHERING,
+PILING ON, AND THE GOULD TWO-STEP
+
+The late biologist Stephen Jay Gould was a virtuoso designer and exploiter
+of boom crutches. Here are three related species, of the genus Goulding,
+named by me in honor of their most effective wielder.
+   Rathering is a way of sliding you swiftly and gently past a false
+dichotomy. The general form of a rathering is “It is not the case that
+blahblahblah, as orthodoxy would have you believe; it is rather that
+suchandsuchandsuch—which is radically different.” Some ratherings are
+just fine; you really must choose between the two alternatives on offer; in
+these cases, you are not being offered a false, but rather a genuine,
+inescapable dichotomy. But some ratherings are little more than sleight of
+hand, due to the fact that the word “rather” implies—without argument—
+that there is an important incompatibility between the claims flanking it.
+   Here is a fine example of rathering by Gould in the course of his account
+of punctuated equilibrium:
+         Change does not usually occur by imperceptibly gradual
+         alteration of entire species but rather [my italics] by isolation of
+         small populations and their geologically instantaneous
+         transformation into new species. [1992b, p. 12]
+This passage invites us to believe that evolutionary change could not be
+both “geologically instantaneous” and “imperceptibly gradual” at the same
+time. But of course it can be. In fact, that is just what evolutionary change
+must be, unless Gould is saying that evolution tends to proceed by
+saltations (giant leaps in Design Space)—but elsewhere he has insisted that
+he never ever endorsed saltationism. “Geologically instantaneous”
+speciation can happen over a “short” period of time—let’s say fifty
+thousand years, an elapse of time barely detectable in most geological
+strata. During that brief moment a typical member of a species might
+increase in height from, say, half a meter to one meter, a 100 percent
+increase, but at a rate of a millimeter every century, which strikes me as an
+imperceptibly gradual change.
+   Let’s make up some other examples of rathering, to make sure the nature
+of the trick is clear.
+
+=== p. 51 ===
+
+         It is not that people are mere “moist robots” (as Dilbert says, with
+         the concurrence of most researchers in cognitive science); it is
+         rather that people have free will, and are morally responsible for
+         their good and bad deeds.
+Again, why not both? What is missing is an argument to the effect that
+“moist robots” cannot also be people with free will who are morally
+responsible. This example plays on a common—but controversial—
+assumption. Here’s another:
+         Religion is not the opiate of the masses, as Marx said; it is rather
+         a deep and consoling sign of humanity’s recognition of the
+         inevitability of death.
+Yet again, why can’t it be both the opiate and a consoling sign? I think you
+get the point by now, and you can hunt for ratherings in a document more
+easily than you can hunt for false dichotomies, which never get announced
+as such; just type “rather” in your search box and see what comes up.
+Remember: not all “rather”s are ratherings; some are legitimate. And some
+ratherings don’t use the word “rather.” Here is one that uses the terser for
+“_______, not_______”; I made it up from elements in the work of several
+ideologues of cognitive science.
+         Nervous systems need to be seen as actively generating probes of
+         their environment, not as mere computers acting passively on
+         inputs fed to them by sense organs.
+Who says computers acting on inputs fed to them can’t actively generate
+probes? This familiar contrast between drearily “passive” computers and
+wonderfully “active” organisms has never been properly defended, and is
+one of the most ubiquitous imagination-blockers I know.
+  A variation on rathering used frequently by Gould may be called piling
+on:
+         We talk about the “march from monad to man” (old-style
+         language again) as though evolution followed continuous
+         pathways of progress along unbroken lineages. Nothing could be
+         further from reality. [1989a, p. 14]
+What could not be further from reality? At first it might appear as if Gould
+was saying that there is no continuous, unbroken lineage between the
+“monads” (single-celled organisms) and us, but of course there is. There is
+
+=== p. 52 ===
+
+no more secure implication of Darwin’s great idea than that. So what can
+Gould be saying here? Presumably we are meant to put the emphasis on
+“pathways of progress”—it is (only) the belief in progress that is “far from
+reality.” The pathways are continuous, unbroken lineages all right, but not
+lineages of (global) progress. This is true: they are (unbroken) continuous
+lineages of (mainly) local progress. We come away from this passage from
+Gould—unless we are wary—with the sense that he has shown us
+something seriously wrong with the standard proposition of evolutionary
+theory that there are continuous pathways (unbroken lineages) from
+monads to man. But, to use Gould’s own phrase, “Nothing could be further
+from reality.”
+   Yet another trick of his is the Gould Two-Step, a device I described in
+print some years ago, which was then named by the evolutionary theorist
+Robert Trivers (personal correspondence, 1993), in honor of its inventor:
+         In the first stage, you create the strawperson, and “refute” it
+         (everybody knows that trick). Second (this is the stroke of
+         genius), you yourself draw attention to the evidence that you have
+         taken the first step—the evidence that your opponents don’t in
+         fact hold the view you have attributed to them—but interpret
+         these citations as their grudging concessions to your attack!
+         [Dennett, 1993, p. 43]
+   In my essay, a letter to the editor of the New York Review of Books
+(1993), where Gould had two months earlier savagely criticized Helena
+Cronin’s fine book The Ant and the Peacock (November 19, 1992), I
+presented three examples of the Gould Two-Step. Here is the most portable
+of those examples:
+         The most transparent case is Gould’s invention of
+         “extrapolationism,” described as a logical extension of “Cronin’s
+         adaptationism.” This is a doctrine of pan-continuity and pan-gradualism that is conveniently—indeed trivially—refuted by the
+         fact of mass extinction. “But if mass extinctions are true breaks
+         in continuity, if the slow building of adaptation in normal times
+         does not extend into predicted success across mass extinction
+         boundaries, then extrapolationism fails and adaptationism
+         succumbs.” I cannot see why any adaptationist would be so
+         foolish as to endorse anything like “extrapolationism” in a form
+
+=== p. 53 ===
+
+         so “pure” as to deny the possibility or even likelihood that mass
+         extinction would play a major role in pruning the tree of life, as
+         Gould puts it. It has always been obvious that the most perfect
+         dinosaur will succumb if a comet strikes its homeland with a
+         force hundreds of times greater than all the hydrogen bombs ever
+         made. There is not a word in Cronin’s book that supports his
+         contention that she has made this error. If Gould thinks the role of
+         mass extinctions in evolution is relevant to either of the central
+         problems Cronin addresses, sexual selection and altruism, he
+         does not say how or why. When Cronin turns, in her last chapter,
+         to a fine discussion of the central question in evolutionary theory
+         she has not concentrated on, the origin of species, and points out
+         that it is still an outstanding problem, Gould pounces on this as a
+         last minute epiphany, an ironic admission of defeat for her
+         “panadaptationism.” Preposterous! [p. 44]
+  There is a good project for a student of rhetoric: combing through
+Gould’s huge body of publications and cataloguing the different species of
+boom crutch he exploited, beginning with rathering, piling on, and the
+Gould Two-Step.
+
+=== p. 54 ===
+
+10. THE “SURELY” OPERATOR: A MENTAL BLOCK
+
+When you’re reading or skimming argumentative essays, especially by
+philosophers, here is a quick trick that may save you much time and effort,
+especially in this age of simple searching by computer: look for “surely” in
+the document, and check each occurrence. Not always, not even most of the
+time, but often the word “surely” is as good as a blinking light locating a
+weak point in the argument, a warning label about a likely boom crutch.
+Why? Because it marks the very edge of what the author is actually sure
+about and hopes readers will also be sure about. (If the author were really
+sure all the readers would agree, it wouldn’t be worth mentioning.) Being at
+the edge, the author has had to make a judgment call about whether or not
+to attempt to demonstrate the point at issue, or provide evidence for it, and
+—because life is short—has decided in favor of bald assertion, with the
+presumably well-grounded anticipation of agreement. Just the sort of place
+to find an ill-examined “truism” that isn’t true!
+   I first noticed this useful role of “surely” when commenting on an essay
+by Ned Block (1994), which included several prime examples directed
+against my theory of consciousness. Here’s one, conveniently italicized1 by
+Block to emphasize its obviousness typographically:
+         But surely it is nothing other than a biological fact about people
+         —not a cultural construction—that some brain representations
+         persevere enough to affect memory, control behavior, etc. [p. 27]
+This is meant to dismiss—without argument—my theory of human
+consciousness as something that must, in effect, be learned, a set of
+cognitive micro-habits that are not guaranteed to be present at birth.
+“Wherever Block says ‘Surely,’ ” I said, “look for what we might call a
+mental block” (Dennett, 1994a, p. 549). Block is one of the most profligate
+abusers of the “surely” operator among philosophers, but others routinely
+rely on it, and every time they do, a little alarm bell should ring. “Here is
+where the unintended sleight-of-hand happens, whisking the false premise
+by the censors with a nudge and a wink” (Dennett, 2007b, p. 252).
+   I decided recently to test my hunch about “surely” a bit more
+systematically. I went through dozens of papers—about sixty—on the
+philosophy of mind at philpapers.org/ and checked for occurrences of
+
+=== p. 55 ===
+
+“surely.” Most papers did not use the word at all. In those that did use it
+(between one and five times in the sample I checked), most instances were
+clearly innocent; a few were, well, arguable; and there were six instances
+where the alarm bell sounded loud and clear (for me). Of course others
+might have a very different threshold for obviousness, which is why I
+didn’t bother tabulating my “data” in this informal experiment. I encourage
+doubters to conduct their own surveys and see what they find. A
+particularly egregious example of the “surely” operator will be dismantled
+in detail later, in chapter 64.
+
+1 Not to be outdone, the philosopher Jerry Fodor (2008) has adopted the practice of putting his
+“surely”s in italics—and repeating them (e.g., p. 38), as if to say, Take that, doubters! Take that,
+doubters!
+
+=== p. 56 ===
+
+11. RHETORICAL QUESTIONS
+
+Just as you should keep a sharp eye out for “surely,” you should develop a
+sensitivity for rhetorical questions in any argument or polemic. Why?
+Because, like the use of “surely,” they represent an author’s eagerness to
+take a short cut. A rhetorical question has a question mark at the end, but it
+is not meant to be answered. That is, the author doesn’t bother waiting for
+you to answer since the answer is so flipping obvious that you’d be
+embarrassed to say it! In other words, most rhetorical questions are
+telescoped reductio ad absurdum arguments, too obvious to need spelling
+out. Here is a good habit to develop: Whenever you see a rhetorical
+question, try—silently, to yourself—to give it an unobvious answer. If you
+find a good one, surprise your interlocutor by answering the question. I
+remember a Peanuts cartoon from years ago that nicely illustrates the
+tactic. Charlie Brown had just asked, rhetorically, “Who’s to say what is
+right and wrong here?” and Lucy responded, in the next panel, “I will.”
+
+=== p. 57 ===
+
+12. WHAT IS A DEEPITY?
+
+My late friend, the computer scientist Joseph Weizenbaum had a yearning
+to be a philosopher and tried late in his career to gravitate from
+technicalities to profundities. He once told me that one evening, after
+holding forth with high purpose and furrowed brow at the dinner table, his
+young daughter Miriam said, “Wow! Dad just said a deepity!” What a
+wonderful impromptu coinage!1 I decided to adopt it and put it to
+somewhat more analytic use.
+   A deepity is a proposition that seems both important and true—and
+profound—but that achieves this effect by being ambiguous. On one
+reading it is manifestly false, but it would be earth-shaking if it were true;
+on the other reading it is true but trivial. The unwary listener picks up the
+glimmer of truth from the second reading, and the devastating importance
+from the first reading, and thinks, Wow! That’s a deepity.
+   Here is an example. (Better sit down: this is heavy stuff.)
+          Love is just a word.
+Oh wow! Cosmic. Mind-blowing, right? Wrong. On one reading, it is
+manifestly false. I’m not sure what love is—maybe an emotion or
+emotional attachment, maybe an interpersonal relationship, maybe the
+highest state a human mind can achieve—but we all know it isn’t a word.
+You can’t find love in the dictionary!
+  We can bring out the other reading by availing ourselves of a convention
+philosophers care mightily about: when we talk about a word, we put it in
+quotation marks, thus:
+          “Love” is just a word.
+This is true; “love” is an English word, but just a word, not a sentence, for
+example. It begins with “L” and has four letters and appears in the
+dictionary between “lousy” and “low-browed,” which are also just words.
+“Cheeseburger” is just a word. “Word” is just a word.
+  But this isn’t fair, you say. Whoever said that love is just a word meant
+something else, surely. No doubt, but they didn’t say it. Maybe they meant
+that “love” is a word that misleads people into thinking that it is the term
+for something wonderful that doesn’t really exist at all, like “unicorn,” or
+
+=== p. 58 ===
+
+maybe they meant that the word was so vague that nobody could ever know
+whether it referred to any particular thing or relation or event. But neither
+of these claims is actually very plausible. “Love” may be a troublesome,
+hard-to-define word, and love may be a hard-to-be-sure-about state, but
+those claims are obvious, not particularly informative or profound.
+   Not all deepities are quite so easily analyzed. Richard Dawkins recently
+alerted me to a fine deepity by Rowan Williams, the Archbishop of
+Canterbury, who described his faith as a
+             silent waiting on the truth, pure sitting and breathing in the
+             presence of the question mark.
+I leave the analysis of this as an exercise for you.
+
+1 Miriam encountered my use of her term on the Internet recently and got in touch with me. Her
+own version of its coining is somewhat different, but in the same spirit: “In my family it carries a
+bit of scorn—an idea masquerading as Truth in order to elevate the speaker.” She has graciously
+consented to my use of the version her father told me (as I recall it), and to my rather narrower
+redefinition of her brilliant neologism.
+
+=== p. 59 ===
+
+SUMMARY
+
+A tool wielded well becomes almost as much a part of you as your hands
+and feet, and this is especially true of tools for thinking. Equipped with
+these simple all-purpose thinking tools, you can approach the difficult
+explorations ahead with sharper senses: you can see an opening, hear a
+warning bell, smell a rat, or feel a misstep that you might well miss without
+their help. You also have some maxims to bear in mind—Rapoport’s Rules
+and Sturgeon’s Law, for instance—that can whisper advice in your ear like
+Jiminy Cricket, reminding you to control your aggression as you plunge
+boldly into the thicket swinging your weapons. Yes, thinking tools are also
+weapons, and the imagery of combat is appropriate. Competitiveness is,
+apparently, a natural by-product of the intellectual ambition and boldness
+required to tackle the toughest problems. We’ve seen that in the heat of
+battle even great thinkers can resort to dirty tricks in their eagerness to get
+you to see things their way, and constructive criticism can quickly shade
+into ridicule when an opportunity to launch a zinger arises.
+   The problems we will be confronting are all hot-button issues: meaning,
+evolution, consciousness, and especially free will. You will feel dread or
+repugnance welling up as you approach some of the prospects, and rest
+assured that you are not alone in this; even the most vaunted experts are
+susceptible to wishful thinking and can be blinded to a truth by a conviction
+that is supported more by emotional attachment than reason. People really
+care about whether they have free will or not, about how their minds can
+reside in their bodies, and about how—and even whether—there can be
+meaning in a world composed of nothing but atoms and molecules, photons
+and Higgs bosons. People should care. What could be more important, in
+the end, than these questions: What in the world are we, and what should
+we do about it? So watch your step. There is treacherous footing ahead, and
+the maps are unreliable.
+

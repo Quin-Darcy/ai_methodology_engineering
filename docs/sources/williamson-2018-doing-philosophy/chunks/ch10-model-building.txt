@@ -1,0 +1,430 @@
+=== chunk: williamson-2018-doing-philosophy/ch10-model-building ===
+title: Model-Building
+source_pdf: docs/sources/williamson-2018-doing-philosophy/full.pdf
+pdf_pages: 138-151
+page_scheme: book
+plan_page_start: 127
+plan_page_end: 140
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 127 ===
+
+                               
+                Model-Building
+
+                      Models in Science
+Many natural scientists aim at a distinctive kind of progress which
+philosophers are starting to recognize as an appropriate aim for
+them too.
+   The stereotype of scientific progress is discovering a new law of
+nature. Such laws are meant to be universal generalizations about
+the natural world, holding without exception for all times and
+places, by some sort of necessity: nice, if you can find one.
+However, most natural and social science studies messy complex
+systems—cells, animals, planets, galaxies, families, organizations,
+societies—which are hard to characterize by universal laws. What
+laws must hold for all tigers, for example? “All tigers are striped”
+won’t do, because there are albino tigers. “All tigers are four-legged” won’t do either, because there are three-legged tigers,
+and so on. “All tigers are animals” is true, but doesn’t get us far.
+Although tigers obey the fundamental laws of physics, like everything else in nature, that won’t console a biologist who wants to
+
+=== p. 128 ===
+
+ Model-Building
+
+say something specific about living things as contrasted with
+elementary particles and stars. If we keep watering down our
+initial attempts, we may eventually reach something exception-less, but the danger is that it will be too weak and uninformative
+to be of much interest. This isn’t just a problem about animals.
+Complex systems of all shapes and sizes tend to be messy and
+unruly.
+   To manage the problem, scientists have revised their objectives.
+Instead of seeking universal laws about complex systems, they
+build simplified models of them. Occasionally these are physical
+models: water running through a sand tray to model a river
+eroding its banks, a construction of coloured rods and balls to
+model a DNA molecule. More typically, the models are abstract,
+defined by mathematical equations which describe how a hypothetical system changes over time. The hypothetical system is
+vastly simpler than the real-life systems of interest, but still has a
+few of their key features. The strategy is to analyse the behaviour
+of the hypothetical system mathematically, in the hope that it will
+simulate some puzzling aspects of the real-life systems’ behav-iour, and thereby cast light on them.
+   For example, you might wonder why a population of
+predators—say, foxes—and a population of prey—say,
+rabbits—keep oscillating, though rises and falls in one do not
+coincide with rises and falls in the other. A key point is that,
+holding other things equal, the more foxes there are, the more
+rabbits get eaten, but the more rabbits there are, the more fox
+cubs survive. One can write down differential equations that
+express the rate of increase or decrease of each population in
+terms of the current number of predators and prey. They are
+
+=== p. 129 ===
+
+                                                Model-Building 
+
+known as the Lotka-Volterra model. In most ways, it grossly oversimplifies: it ignores changes in the vegetation the rabbits feed on,
+changes in the tendency of humans to hunt foxes and rabbits,
+variations amongst foxes, variations amongst rabbits, and so on.
+Since such factors make a difference, the equations are not universal laws. Indeed, they couldn’t be, since for mathematical
+reasons the change in population is treated as continuous, even
+though in real life it changes in whole numbers: when one of 
+rabbits dies, the number goes straight down to , with no
+intermediate time when the number of living rabbits was ..
+Nevertheless, despite all these oversimplifications, the model correctly predicts some general structural features of population
+change in predator–prey species. Much progress in natural science is now of this kind. Once we have a successful model, we can
+try building a little more real-life complexity back into it, step by
+step, but the models will always be vastly simpler than real life
+itself—otherwise they would be too complex to analyse.
+    Sometimes there is no workable alternative to model-building.
+For example, biologists ask why two-sex reproduction is the norm
+for animals, since reproduction by three sexes or none is possible
+in principle. If you want to understand why a phenomenon doesn’t
+occur, you can’t go out and observe and measure it. Instead, a good
+strategy is to build hypothetical models of the phenomenon to see
+how it goes ‘wrong’. You might study a model where both two-sex
+reproduction and three-sex or no-sex reproduction occur, to see
+which does better, perhaps in achieving genetic variation within
+the species, which enables it to adapt evolutionarily to changes in
+the environment. Such models aim not to predict observed quantities but to explain an absence.
+
+=== p. 130 ===
+
+ Model-Building
+
+                     Models in Philosophy
+Humans are a classic example of messy complex systems. In one
+way or another, much—though not all—of philosophy is about
+humans. Thus moral and political philosophy mainly concern a
+good human life and a good human society. Philosophy of science concerns human science; philosophy of art concerns human
+art; philosophy of language concerns human language. Though
+philosophy of mind pays some attention to non-human animal
+minds, its main focus is on human minds, and in any case nonhuman animals are messy complex systems too. Though in principle epistemology concerns all knowledge, in practice it mainly
+concerns human knowledge. Logic and metaphysics are partial
+exceptions, since they tend to deal with matters so basic that
+messy complexity is less relevant, and informative, precise, ex-ceptionless laws can be formulated. For the rest, however, one
+might expect a model-building strategy to be appropriate.
+   That is not how most philosophers have seen it. Many still aim
+at exceptionless universal laws, even about messy complex
+systems—humans—for whom natural scientists have mainly
+abandoned that ambition. In that respect, philosophers have
+done their field a disservice by inadvertently setting it up for
+failure, making it search for something that isn’t there. People
+who contrast progress in natural science with deadlock in philosophy often do so on the basis of a false image of each side.
+Failing to appreciate how much scientific progress consists in
+building better models, they fail to ask how much philosophical
+progress consists in building better models too.
+   We have already seen an example of progressive model-building in philosophy: epistemic logic advances in just that
+
+=== p. 131 ===
+
+                                                Model-Building 
+
+way (Chapter ). Its models are not universal laws; they involve
+grossly unrealistic simplifications. Nevertheless, they cast light on
+human knowledge in the manner of a scientific model.
+    When philosophers work with probabilities, they typically use
+models, without emphasizing the fact. For instance, epistemologists often use a lottery as a simple model of uncertainty. To make
+things definite, suppose that exactly , tickets have been sold,
+numbered in order; there’s just one winner, chosen at random.
+Thus if you have one ticket, its probability of losing is /,.
+When chance is in play like this, how probable should a statement be for you to believe it? You might decide that requiring
+ per cent certainty is an unreasonably high standard,
+and resolve to believe whatever has a probability of at least
+ per cent. Immediately, you have a problem. By your rule, you
+believe that the winning ticket number is at least  (since that is
+ per cent probable), and you believe that the winning number is
+at most  (because that too is  per cent probable), but you
+refuse to believe that the winning number is between  and 
+inclusive (because that combined statement is only  per cent
+probable). Thus you believe each of two statements separately,
+but you refuse to put them together, to believe their conjunction.
+It’s like accepting “He’s British” and “He’s a criminal” but refusing
+to accept “He’s a British criminal” (about the same person).
+A politician who did that in a TV debate could be made to look
+very stupid by opponents, at least with voters who cared about
+consistency. You might think that  per cent was a bad choice of
+threshold for belief, and choose a different threshold instead, for
+instance  per cent, corresponding to the rule, “Believe what is at
+least  per cent probable”. But a little calculation shows that the
+
+=== p. 132 ===
+
+ Model-Building
+
+only thresholds for belief which avoid all such lottery problems
+are  per cent and  per cent. Since a threshold of  per cent
+means believing every statement whatsoever—total credulity—
+you are forced back to a threshold of  per cent, the standard of
+certainty you already rejected as unreasonably demanding. Thus
+even such a ‘toy’ model can illustrate the difficulties of basing
+belief on probabilities.
+   If you think about the lottery model, you can quickly identify
+some of its simplifying assumptions. For instance, it assumes that
+you know exactly how many tickets have been sold. In practice,
+the organization running the lottery may not announce or even
+know how many tickets have been sold; even if they announce a
+number, you may give a non-zero probability to the hypothesis
+that they are mistaken or lying. Then you may also give a nonzero probability to the winning number being , (since more
+than , tickets may have been sold), and you may give a higher
+probability to the winning number being  than to its being ,
+(since fewer than , tickets may have been sold). But taking
+account of all those realistic complications is not time well spent.
+Thinking about the simple model goes more quickly to the heart
+of the problem. When more complex probabilistic models are
+needed to understand more intricate problems, mathematically
+minded epistemologists construct them too.
+   In philosophy of language, model-building goes back at least to
+Carnap. To understand what he was up to, we first need some
+background in semantics, the theory of meaning.
+   A striking feature of human languages is that once you master a
+few words and grammatical constructions, you can use them to
+build a potential infinity of meaningful sentences, for instance
+
+=== p. 133 ===
+
+                                                  Model-Building 
+
+“Picasso slept”, “Picasso’s aunt slept”, “Picasso’s aunt’s aunt slept”,
+and so on. You can understand them even if you have never heard
+or read them before. The central project of modern semantics is to
+explain how the meaning of a complex expression (like one of the
+quoted sentences) is determined by the meanings of the simpler
+components of which it is composed (like “Picasso”, “aunt”,
+“slept”, and the possessive “s”), and how they are put together—
+“Cats scratch dogs” and “Dogs scratch cats” have different meanings but the same components. Nor is the meaning of a sentence a
+mere list of the meanings of its component words, since that
+would make the sentence a mere list of words; such lists do not
+say anything true or false, unlike sentences. For example, the
+sentence “Napoleon died in ” says something false, while
+“Napoleon died in ” says something true—he did die in .
+Thus the meanings of words and other expressions must be able
+to combine with each other, so that sentences can say something
+true or false. To explain how such combining can work, one
+needs a clear story about what meanings are. This whole vast
+project is called compositional semantics, to which both philosophers
+of language and linguists have contributed.
+   Before Carnap, logicians made considerable progress in compositional semantics by treating the meaning of an expression as
+its extension, its actual application out there in the world. At its
+simplest, the extension of the name ‘Picasso’ is the man Picasso
+himself; the extension of the noun ‘cat’ is all cats. The extension of
+a sentence is simply truth or falsity, depending on whether it says
+something actually true or false. Thus the extension of “Napoleon
+died in ” is falsity while the extension of “Napoleon died in
+” is truth. Extensional semantics, this kind of compositional
+
+=== p. 134 ===
+
+   Model-Building
+
+semantics, explains how the extension of a complex linguistic
+expression is determined by the extensions of the simpler expressions of which it is composed and how they are combined. The
+approach turned out to work very nicely for sentences built up
+using logical words such as ‘and’, ‘or’, ‘not’, ‘every’, and ‘some’,
+which already enable one to build up more and more complex
+sentences (see Box  for some rules of extensional semantics,
+closely related to the rules for the same words in Chapter ’s
+Box  on logic games).
+   However, extensional semantics ran into a roadblock with
+modal words, such as ‘can’ and ‘must’, or ‘possibly’ and ‘necessarily’. Compositional semantics should apply to them. For example,
+the meaning of “Possibly Napoleon died in ” is composed
+from the meaning of the word ‘possibly’ combined with the
+meaning of the simpler sentence “Napoleon died in ”. Since
+extensional semantics equates the meaning of a sentence with its
+truth-value, it implies that when the meaning of ‘possibly’ combines with the truth-value of “Napoleon died in ” the result is
+the truth-value of “Possibly Napoleon died in ”. The truth-value of “Napoleon died in ” is falsity, while the truth-value of
+“Possibly Napoleon died in ” (understood in the relevant way)
+is truth—although he didn’t die in , he could have done. Thus
+extensional semantics implies: when the meaning of ‘possibly’ combines
+with falsity, the result is truth. But now consider an inconsistent
+sentence, like “Some dogs are not dogs”. The truth-value of
+“Some dogs are not dogs” is falsity, while the truth-value of
+“Possibly some dogs are not dogs” is also falsity—it couldn’t be
+that some dogs are not dogs. But extensional semantics implies
+that when the meaning of ‘possibly’ combines with the truth-
+
+=== p. 135 ===
+
+                                                   Model-Building 
+
+value of “Some dogs are not dogs”, the result is the truth-value of
+“Possibly some dogs are not dogs”, in other words: when the
+meaning of ‘possibly’ combines with falsity, the result is falsity. Hence
+extensional semantics makes inconsistent predictions about the
+result when the meaning of ‘possibly’ combines with falsity. For
+similar reasons, it makes inconsistent predictions about the result
+when the meaning of ‘necessarily’ combines with truth.
+    Carnap realized that extensions carry too little information for
+the meanings of modal words like ‘possibly’ and ‘necessarily’ to
+work on. The underlying problem is that extensional semantics
+only considers extensions in the actual world, whereas modal
+words are sensitive to extensions in non-actual but possible worlds
+too (for Carnap’s own way of putting it, see Chapter ). To solve
+the problem of developing a compositional semantics for modal
+words like ‘possibly’, he equated meanings with intensions rather
+than extensions. The intension of a word or sentence is the entire
+spectrum of its extensions across all possible worlds, actual and
+non-actual. Carnap showed how the meaning of ‘possibly’ combines with the intension of any sentence ‘A’ to give the intension
+(and extension) of ‘Possibly A’, and likewise for ‘necessarily’. In
+effect, he interpreted ‘possibly’ as ‘in some possible world’ and
+‘necessarily’ as ‘in every possible world’. Thus, instead of an
+extensional semantics, Carnap gave an intensional semantics for
+modal words. He also showed how, wherever extensional semantics works well, it can easily be turned into intensional semantics
+(if you want a taste of intensional semantics, see Box ).
+    Carnap gave a complete intensional semantics for an artificial
+formal language: every formula, however complex, has an intension, determined step by step from the intensions of the simplest
+
+=== p. 136 ===
+
+ B  Extensional and intensional semantics
+......................................................................................
+ Extensional Semantics
+ Complex sentences are built up from simpler ones using ‘and’, ‘or’,
+ and ‘not’. The extension of a sentence is its truth-value, either truth
+ or falsity. The extension of a complex sentence is determined from
+ the extensions of its component sentences by these rules (‘A’ and ‘B’
+ are any sentences of the language):
+
+    and     If ‘A’ is true and ‘B’ is true, then ‘A and B’ is true.
+            If ‘A’ is false or ‘B’ is false, then ‘A and B’ is false.
+    or      If ‘A’ is true or ‘B’ is true, then ‘A or B’ is true.
+            If ‘A’ is false and ‘B’ is false, then ‘A or B’ is false.
+    not     If ‘A’ is true, then ‘Not A’ is false.
+            If ‘A’ is false, then ‘Not A’ is true.
+
+ Intensional Semantics
+ Complex sentences are built up from simpler ones using ‘and’, ‘or’,
+ ‘not’, ‘necessarily’, and ‘possibly’. The intension of a sentence is its
+ spectrum of truth-values over all possible worlds. The intension of a
+ complex sentence is determined from the intensions of its component sentences by these rules (‘A’ and ‘B’ are any sentences of the
+ language; w is any possible world):
+
+    and   If ‘A’ is true in w and ‘B’ is true in w, then ‘A and B’ is true in w.
+          If ‘A’ is false in w or ‘B’ is false in w, then ‘A and B’ is false in w.
+    or    If ‘A’ is true in w or ‘B’ is true in w, then ‘A or B’ is true in w.
+          If ‘A’ is false in w and ‘B’ is false in w, then ‘A or B’ is false in w.
+    not If ‘A’ is true in w, then ‘Not A’ is false in w.
+          If ‘A’ is false in w, then ‘Not A’ is true in w.
+    necessarily If ‘A’ is true in every possible world, then ‘Necessarily A’ is true in w.
+                     If ‘A’ is false in some possible world, then ‘Necessarily A’ is false in w.
+    possibly         If ‘A’ is true in some possible world, then ‘Possibly
+                     A’ is true in w.
+                     If ‘A’ is false in every possible world, then ‘Possibly A’ is false in w.
+
+=== p. 137 ===
+
+                                              Model-Building 
+
+constituents of which it is composed. It is a much more sophisticated model of meaning than extensional semantics. Through
+the work of Richard Montague, Saul Kripke, David Lewis, and
+many others, Carnap’s intensional semantics has massively influenced both philosophy of language and semantics as a branch of
+linguistics. Although the models have become still more elaborate, they preserve the crucial move from extensions to intensions.
+   Carnap worked in a more model-building spirit than his predecessors. He did not construct his formal language to do mathematics in or to reveal the hidden essence of all languages. He
+constructed a simple model language to demonstrate a way for
+words like ‘possibly’ and ‘necessarily’ to work. He thereby cast
+light on natural languages too. As we learn ever more of the
+extraordinary complexity underlying even the most ordinary
+conversations, philosophers of language and linguists will have
+to rely increasingly on a model-building methodology.
+
+           Working Models, Counterexamples,
+                  and Error-Fragility
+Models are fun. You can play with them. That’s not just an
+incidental side benefit; it’s what they are for, in both natural
+science and philosophy. We learn by manipulation, playing
+about: if you can’t manipulate the real thing, a good second-best
+is often to manipulate a model of it. You can fiddle with this or
+that component, changing it slightly to see what difference it
+makes, what varies with what. That way you come to understand
+more deeply how the model works. If the model is any good, you
+thereby come to understand better how the real thing works too.
+For instance, you can’t arbitrarily change how English works, to
+
+=== p. 138 ===
+
+   Model-Building
+
+see what difference it makes, but you can arbitrarily change the
+rules of an artificial language, and calculate the consequences.
+   To be easily manipulated, a model should be defined in mathematically or logically precise and tractable terms. If the definition
+is vague, or too complicated, its consequences are unclear: one has
+to fall back on one’s prior philosophical instincts to guess how it
+behaves, instead of using the model to test those instincts. By
+contrast, a well-defined model allows one to calculate rigorously
+how it and variations on it behave, bypassing those prior instincts,
+and so to learn something unexpected. With a model-building
+methodology, rigour and playfulness go naturally together.
+   The rigour of model-building is not the rigour most philosophers are used to. Traditional philosophical rigour requires dismissing a claim once a counterexample to it has been given. In that
+sense, most models are born refuted, because they involve false
+simplifying assumptions. For instance, models in epistemic logic
+typically idealize away from the logical imperfections of normal
+humans. Some philosophers dismiss those models accordingly.
+   In physics, models of the solar system may treat a planet as a
+point mass, as if all its mass were concentrated at its centre. Of
+course, physicists know that planets are not point masses and do
+not behave exactly like them. Nevertheless, physicists do not
+dismiss such models, for they also know that much can be learned
+from them. By contrast, if one tried to write into the model a fully
+accurate description of the planet, with all its craters and bumps,
+the result would be too complicated to permit calculation. It takes
+skill to distinguish amongst the features of a model those which
+have lessons to teach us from those which are mere artefacts of
+the need to keep things simple. Philosophers are having to learn
+that skill.
+
+=== p. 139 ===
+
+                                                Model-Building   
+
+   To many philosophers, dismissing the true counterexample
+rather than the false generalization seems like a disregard for
+truth. It would indeed be intellectually irresponsible to go on
+believing the generalization in the face of a clear counterexample.
+But that’s not the model-building attitude. One can recognize that
+a generalization is both false and a key component of a model that
+points us towards genuine truths.
+   If counterexamples don’t refute a model, what does? Within the
+model-building methodology, what displaces a model is a better
+model. Part of its superiority may be that it deals more adequately
+with counterexamples to the old model, but it should also reproduce in its own way the old model’s successes. A new model with
+that combination of virtues may be very hard to find.
+   Model-building contrasts with the methodology of conjectures
+and refutations, championed by the philosopher of science Karl
+Popper (–). On the crude version of his view, scientists
+put forward bold conjectures, informative universal generalizations, which can be falsified but never verified. A single negative
+instance, a counterexample, will falsify the generalization; no
+finite number of positive instances will verify it. Scientists do
+their utmost to refute it by finding such a counterexample.
+Once it is refuted, they put forward another bold conjecture,
+and so on.
+   One problem for such a falsificationist methodology, in both
+natural science and philosophy, is that it is error-fragile. In other
+words, a single mistake can have disastrous consequences. For
+suppose that we are testing a bold conjecture, and take ourselves
+to have found a counterexample. As good falsificationists, we
+dismiss the conjecture and go on to the next one. But what if
+the counterexample was a mistake? We are fallible; sometimes we
+
+=== p. 140 ===
+
+ Model-Building
+
+misjudge an instance or two. In that case, the original conjecture
+may have been true after all. But we never return to it; we are too
+busy testing new bold conjectures. Philosophers’ reliance on
+counterexamples can be alarmingly close to crude falsification-ism: once a counterexample is accepted, there’s no going back on
+it. By contrast, the model-building methodology is much less
+error-fragile, for it gives no such decisive power to a single
+judgement. Models are compared over a variety of dimensions.
+    None of this means that philosophy should go over entirely to
+a model-building methodology. In some areas, such as logic, we
+have found many true and informative universal generalizations.
+In others, good models may be too much to expect. Even where
+good models are available, as in epistemology, we may do best by
+using several methods. For if each independently pulls in the same
+direction, that’s stronger evidence that it’s the right direction. Such
+a combination of methods is more robust, unless they pull in
+opposite directions.
+    The potential of the model-building methodology for philosophy is only beginning to be explored. Its scope and limits should
+be clearer fifty years from now.
+

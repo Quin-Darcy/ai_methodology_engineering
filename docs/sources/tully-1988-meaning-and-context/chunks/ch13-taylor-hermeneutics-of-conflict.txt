@@ -1,0 +1,486 @@
+=== chunk: tully-1988-meaning-and-context/ch13-taylor-hermeneutics-of-conflict ===
+title: The hermeneutics of conflict
+source_pdf: docs/sources/tully-1988-meaning-and-context/full.pdf
+pdf_pages: 232-242
+page_scheme: book
+plan_page_start: 218
+plan_page_end: 228
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 218 ===
+
+                                  13                    |
+        The hermeneutics of conflict
+
+                        Charles Taylor
+
+Quentin Skinner has staked out an interesting and challenging position
+in the field of political theory. It centres around his view of what it is
+to give an account of the political theory of a given thinker or epoch.
+But this is in turn connected with an arresting and in some ways
+original conception of the bases of modern political thought, and indeed,
+of modern civilization. Skinner has been able to explore this connection,
+instead of just remaining in the realm of methodological generalities as
+so many philosophers do, because he is also, in fact first and foremost,
+an historian. He has been able, as it were, to work both sides of
+the fence, methodological and historiographical, and this is what has
+made his work exceptionally rich and suggestive.
+   Of course, just because of this breadth and richness, a question can
+arise about the unity of this work. Skinner’s theoretical reflections relate
+to and partly arise from his actual practice as an historian, and as always
+when this is so, an issue can arise about whether there are features of
+this practice which are not fully captured by the theory. In taking up
+some issues in Skinner’s methodological views, therefore, I may not be
+questioning the practice, at least not in the same way and to the same
+degree. Coming to grips with this practice in its full range would be an
+eminently worthwhile endeavour. But it would be beyond my powers to
+do justice to this in the short space I have at my disposal, if indeed |
+could ever do it. Here I want to confine myself to raising some issues
+about the methodology, starting in fact not from Skinner’s own statements,
+but from the useful and concise summary that James Tully has offered.!
+   In fact, I want to raise a set of related questions about Skinner’s
+methodology which deeply puzzle me. They do so because I am still
+confused and uncertain about the underlying matters that they address.
+
+=== p. 219 ===
+
+But I think that I am     not alone in this confusion, and therefore that
+it's worthwhile trying to deal with them in this chapter. I have spoken
+of a set of questions with a number of facets, or of directions of approach.
+    The first approach could be put this way: where does the historian
+stand in accounting for the thought of a given writer or epoch? Tully
+formulates one of the basic tenets of Skinner’s method: to find the
+‘historical’ meaning of a text, look for what one might call its ‘illocutionary
+force’. Try that is, to see what the author was trying to accomplish in his
+political context in writing it. Read the text as action in context.
+    Now we need a language to talk about texts in this way. Skinner suggests
+that we understand the context as a language of politics, one that in the
+manner adumbrated by Wittgenstein, is woven into and helps constitute a
+given political way of life, helping to define the limits of the acceptable,
+the good and the bad, the obvious and the problematical. This can
+perhaps be referred to in short as an ‘ideological context’, or ‘ideology’.
+    The text-as-action can then be understood not only against the background of this context, but also as directly relating to it. What a writer
+is striving to do in producing a text is reinforce or change his ideological
+context, strengthen or weaken rival elements of it, preserve a certain form
+of it intact against assault, or on the contrary give it a new twist or
+direction. The motives for such action can be understood in relation to
+the political battles of the epoch, and the importance of the text-as-action
+can be measured by how it contributed to the outcome of these battles.
+   The context of action is one of struggle. Political battles in history, which
+from time to time tip over into military conflicts as Clausewitz reminds us,
+are also always battles for the ‘hearts and minds’ of those who can affect the
+outcome. In this latter theatre, the texts of political theory are weapons. The
+pen becomes a sword, and indeed, a very powerful one, as Tully’s title avers.
+   A persuasive picture, as far as it goes. Who of the great political
+theorists was not concerned to combat some historical forces of their
+day and further others? But it leaves one important set of questions
+unaddressed: what is the truth value of the theories the texts expound?
+The texts are seen as moves in an attempt to bend and shape the terms in
+which people argue and justify themselves. They are attempts to manipulate
+the terms of debate in which the political identity of a society is established
+and continued.4 But they can be identified as such as independent of any
+judgement of their truth or validity. Of course, the terms in dispute had to
+be thought valid by the civilizations in which they were disputed. Otherwise
+the battle would have no point. And it is quite likely that one of the reasons
+for a writer to try to alter these terms is that he believes his revision to
+have greater validity — although even this is not necessary: he may have
+other motives for wanting to manipulate the language of debate. But it
+doesn’t appear as though the historian need take a stand on this issue
+
+=== p. 220 ===
+
+in order to identify the manipulative intent of the text. The context
+of struggle can be kept separate from the context of truth.
+   Or can it? Is there an issue about where the historian stands, which
+he cannot evade except at the cost of muddle? ! believe that there
+is, and that the bracketing of the issue of truth is never successfully
+achieved. The attempt to sidestep it just leads to a confused prejudging
+of it; it always returns to haunt us. But I could be wrong about this,
+and Skinner’s work could be one of the things which prove me wrong.
+I am uncertain about all this: uncertain whether Skinner wants to bracket
+the question of truth, and unclear, if he does, on what basis.
+   Perhaps I can explore this issue usefully by trying to build the case that
+this bracketing is impossible. I want to build it polemically, by looking at
+some of the inadequate reasons which have justified it in the past.
+   The first is the notorious belief of positivist social science, that one could
+separate ‘facts’ and ‘values’. This positivist variant of value-freedom — very
+different from Weber’s doctrine 5 — justified the historian or social scientist
+in not taking a stand on the issues raised in the texts on the very simple
+grounds that these were not issues of truth. The various combatants in
+the ideological struggles of history took value positions. But values cainot
+be arbitrated as to truth, and so the historian has no call to intervene. By
+contrast, issues of historical explanation, of identifying the motives and
+effects of historical action, raised questions of fact. The scientist does his
+business of getting at the truth, and leaves the quite distinct issue of what is
+right and good (on which he undoubtedly also has views) out of account.
+   Now this doctrine has fewer friends today, and certainly Quentin
+Skinner is not one of them. He has rather helped to show how inextricably
+entwined the explanatory and the evaluative are in all languages of politics.
+My point in evoking it is simpiy to show what follows from negating it.
+Once you drop positivism, you lose any a priori grounds for situating your
+own explanatory language on a different level from the language you are
+trying to study and explain. The language in which I explain the politics
+of the Middle Ages, the Renaissance, the French Revolution, is not of an
+utterly different kind from the language of Aquinas, Machiavelli, Hobbes
+or Hegel. These are all conceptual schemes which serve inseparably to
+classify political realities, to describe them, explain them and evaluate them.
+To the extent that they are different and uncombinable, they are rivals.
+   So when we account for what a thinker was doing in writing his
+text in terms which he would have found strange, which he would
+no    sooner   understand   (if this were   possible)   than   repudiate,   we   are
+involved in revision. We are ipso facto challenging his picture of things
+and putting our own in its place. We are not bracketing the question of
+truth, but taking a negative stand on that issue in relation to this thinker’s
+work. Positivism was in deep conceptual confusion partly because it was
+
+=== p. 221 ===
+
+in fact profoundly revisionist in relation to the greater part of the history
+of thought but in ways that it couldn’t ever understand or admit to itself.
+   To admit this revisionism is to call to mind a brace of theories which
+share much of the naturalist philosophical background of positivism, but
+which have made much stronger explicit claims. ‘Materialist’ theories, like
+Marxism (under one interpretation) and contemporary socio-biology, offer
+another type of ground for separating the historian from the subject of
+historiography. This is no wishy-washy pretence of neutrality, but the
+claim to have got the language of politics right. These theories purport
+to tell us what is really going on, what the real driving motives of
+people have been, and hence the nature of the actions they performed
+and the changes they brought about. Where historical languages deviate
+from this picture, and offer an incompatible view of action, they are
+just wrong, illusory, ‘ideological’. So theologies of the Reformation can
+be understood as moves in a struggle over new forms of production,
+and marriage codes can be understood as reflections of the evolutionary
+success of pair-bonding among hominids in the Pleistocene.
+   Of course, these particular theories are widely thought to be reductionist
+and implausible. But the question arises whether any historian isn’t forced
+to make claims which at least are of this kind, even though they will usually
+be much less confident, sweeping and presumptuous. To write history is
+surely to claim, at least implicitly, to have identified the level of description
+of at least some significant action. And where this identification enters into
+conflict with those of one’s subjects, one is inescapably challenging and
+revising these latter. The difference between more cautious and sensitive
+historiography and the ‘materialist’ theories above lies in their lack of a
+priori, metaphysical assurance that the historian is on a different scientific
+level from his subjects, in virtue of having found the ‘key’ to human action.
+Here the last motive for segregation breaks down, and one is forced
+to see the subject as a rival and potential interlocutor. | am revising
+his language and redescribing his action, but I have to be aware of
+how this move is inherently itself open to challenge, including from
+a defender of something like his position. It is as relevant to my
+enterprise to make clear where I stand as it is to expound where he stands.
+   Against this background, I am puzzled by James Tully’s claim: “The question with which [Skinner] approaches his study is not “What is politically
+true and right?” It is rather .. . “What counts as politically true or right,
+or as grounds for testing political knowledge claims, in different ideologies
+and contexts?”’¢ Of course, one can set out to address one of these questions
+rather than the other. But I don’t see how you can hope to answer the second
+without taking some stand, implicit or expressed, on the first. Tully calls the
+focus on the second question ‘historical pragmatics’, and he believes that
+Skinner’s work provides a justification of this direction of enquiry as an
+
+=== p. 222 ===
+
+yy)                             Charles Taylor
+
+exclusive focus, bracketing the issue of truth or validity. But as he spells this
+out, one begins to wonder whether it shouldn’t be seen in a different light.
+  The justification is a thesis about the political ideas which have come
+to dominate our western societies. The terms of modern political discourse
+are in fact a precipitate of earlier battles, in which the protagonists
+attempted to establish certain expressions as canonical, for understandable
+reasons in terms of the political issue of their day. The dominant ideology
+today centres on a conception of the state and of legitimate state power,
+and makes crucial use of such key terms as ‘sovereignty’, ‘law’ and
+‘rights’. Tully calls this outlook the ‘juridical ideology’. But this ideology
+hasn’t arisen as a single coherent body of thought, following a single
+consistent train of reasoning. Rather what we live with today is
+   the unintended and unrecognized product of four hundred years
+   of political thought and action. Each tactical manipulation of a
+   convention within local ideological controversies, and each use
+   of this as an artifice in parochial political struggles are shown,
+   from the perspective of the present, to add in effect an element
+   in the construction of the juridical form of political representation.”
+It follows, Tully reasons, that our modern political outlooks ‘whether
+juridical or humanist, lack rational foundations, and this is because we lack
+a language, each convention of which has been independently grounded, in
+terms of which we could:assess all the conventions of our ideologies’.®
+   It isn’t clear whether this claim is meant in a narrow scope, to
+apply just to the ideology of the present age, or whether the dominant
+ideology of today is just being singled out as an example of what is
+generally true of any age. Starting from Skinner’s thesis about the origin
+of reigning ideologies (they are the outcome of conflicts over the terms of
+political discourse), and adding some more plausible premises about most
+periods in history (they are the scene of a number of related conflicts, and
+the outcomes of these has a high component of unintended consequences),
+we generate the expectation that most ages will have a dominant ideology
+consisting of rather heteroclite elements.
+   I’m not sure what the reasoning is here, whether it is meant to follow from
+the fact that a political outlook is a compound of disparate origin that it is
+without rational foundation. This consequence doesn’t seem to hold. To see
+this, imagine what an ardent supporter of modern liberal democracy could
+say when we tell him that the elements which make up his outlook are of
+very different origins. We explain to him that the notion of rights stems from
+the late Middle Ages, with its rather special legal ideas and distribution of
+power. He learns that Magna Charta was the instrument of a class of greedy
+and oppressive magnates, that the ideology of universal-suffrage democracy
+would have seemed like subversive madness to them, and the utilitarian
+
+=== p. 223 ===
+
+                          The hermeneutics of conflict                         2a3
+premise that government ought to maximize happiness and minimize pain
+despicable if not incomprehensible. After the initial separation trauma from
+the edifying platitudes of his high school civics course, he could surely
+construct for us a justification that made sense to him today of the way of life
+in which all these figure as elements. The fact that it wouldn’t be the same
+as the one that appealed to the barons at Runnymede, nor the one which
+enthused officers of the New Model Army, nor what Robespierre or even
+perhaps Jefferson thought, wouldn’t have to worry him. As a matter of fact,
+it is not even excluded that one could construct a single unified justification,
+from one coherent theory of philosophical anthropology, even though
+historically we all know that liberal democracy didn’t arise that way.
+   This being so, perhaps we should understand that basic argument in
+another way. Perhaps the basic claim is that just because dominant ideologies are decided by the outcome of conflicts, it will generally be the case
+that they are only randomly related to what is true or valid in relation to the
+needs of the people who live under them. I have put this thesis in the broad
+form, because only in this form would it justify our bracketing the issue of
+truth. If we held a thesis of this kind just about our contemporary outlook, it
+would be inseparable from a plea to revise it to bring it more in line with the
+truth. But if one held that in general, ideas rise and fall as a result of struggles
+in which their truth plays little or no deciding role, then one could argue that
+the historical explanation of their fate could indeed be separated from judge-ments as to their validity, for it involves factors of a very different kind.
+   Now Tully seems to be suggesting something of this kind in the third
+thesis which he attributes to Skinner, which he dubs ‘the primacy of war’:
+‘Effectual changes in European political thought and action are the consequences of war and secondarily the outcome of the ideological response to
+the legitimation crises engendered by the shifting power relations that give
+way to battle.’? It follows from this that, however political theorists conceptualize their activity, it ‘is unavoidably caught up and etched into more fundamental political relations that are relations of war.’!° And Tully invokes
+Clausewitz here, whose dictum is reversed while being adapted: instead of
+seeing war as a continuation of politics, we see theory as a phase of war.
+   Now if this is the argument, we can begin to understand why it might
+seem plausible to bracket off the issue of truth. After all, no one expects
+the outcome of armed clashes in history to bear a close relation to any of
+the other basic standards of valuation we cherish. Certainly not to right and
+justice. We all know that we are lucky that Hitler over-extended himself,
+and we in the west are lucky that we didn’t have to be delivered from Hitler
+by Stalin. So why should truth be on the side of the big batallions either?
+   Is this neo-Clausewitzian thesis Skinner’s? I’m not sure it is. If so, one
+could certainly see how he might hope to insulate questions of historical
+explanation from those of truth. But this kind of thesis, to the effect that
+
+=== p. 224 ===
+
+the arbiter of ideas is a kind of power which is no respecter of truth, is
+in fact a radical one, and has far-reaching consequences. Tully’s invocation
+of Clausewitz puts one in mind of Foucault, a theorist whom Tully sees
+as moving along the same lines as Skinner. And Foucault in turn puts us
+in mind of Nietzsche, and another quite different way of bracketing the
+question of truth, quite unlike either positivism or classical materialism.
+Nietzsche in some of his writings wanted to present the will to truth itself as
+a manifestation of the will to power. And Foucault has drawn on Nietzsche
+to develop his notion of ‘regimes of truth’, established within relations
+of power, and between which there is presumably no rational arbitration.
+   I am not sure whether Nietzsche really did bracket the question of
+truth, as Foucault tried to do. I am even less sure whether, if he did,
+the attempt is ultimately coherent. But I haven’t got space to go into
+these issues here.!! I want rather to make a few remarks about a slightly
+easier question: whether this neo-Clausewitzian thesis is at all plausible.
+   In a sense we might see it as the antithesis of Hegelianism, at least
+as vulgarly understood. Where Hegel seems to be saying that the real
+is the rational, and that truth will eventually bring about its own
+realization, the view I’m calling neo-Clausewitzian holds that it is without
+effect, and that what happens is quite unrelated to it. The first view is
+rightly discredited today. But is the second any more plausible?
+   In a sense I am coming around to my basic puzzlement from a
+different line of approach. I started off asking: where does the historian
+stand? Can he avoid taking a stand on the truth of the ideas he is
+examining? I have been arguing that a language of political explanation is
+on all fours with the historical theories it is called on to explain, that they
+are potential rivals, and thus that certain explanations are inseparable, from
+affirmations or negations of what we are explaining. We need some special
+plea to put ourselves on a different level from our subjects. Marxism offers
+one such: the theorist finally has ‘science’. Now neo-Clausewitzianism
+offers another: the relevant factors in explaining how ideas become
+prevalent or die away have nothing to do with truth.
+   But this brings us to another puzzlement, about the language of
+explanation which is being offered. On one level, the thesis sounds
+very plausible. Different languages, and different variants of traditionally recognized languages, are in competition. Their protagonists are in
+struggle. But there is no single focus, the struggle is carried on in a
+multitude of different contexts on a great many levels, through the
+history of a society. The reigning language of any epoch is the provisional
+outcome of this multi-layered struggle as it stands at that moment.
+   As a general thesis it sounds undeniable. And to flesh it out with military
+metaphors sounds quite unexceptionable. But then a crucial ambiguity
+comes to light. Is the military language just metaphorical? Or does it
+
+=== p. 225 ===
+
+rather betoken that actual armed struggle, and the political structures and
+disciplines which have been built to wage or deter armed struggle, are the
+paradigm contexts in which the issue is decided? Tully interprets Skinner
+in this second way; and he explains his use of military language thereby.
+    But this is a much less plausible thesis. As much as the first interpretation
+is easy to accept, even approaching a truism, the second is highly dubious
+and questionable.
+    Let us take one component of the ‘juridical ideology’ as an example.
+The modern age developed the notion of sovereignty, and foundational
+to liberal democracy is the view, also generated out of early modern
+developments, that this sovereignty ultimately resides in the people. The
+seventeenth century adds the crucial extension, that the people themselves,
+as a collective body, are to be seen as constituted by the consent of
+individuals. This notion, which was expressed in terms of social contract
+theories, survives today even when some of the quasi-historical beliefs
+which accompanied it have gone, and even though the contract is no
+longer invoked in disputes about legitimation. Its continuing importance
+can readily be seen in the great impact of post-Kantian theories of the social
+contract as an ‘as if’ construction, most notably in our day with Rawls.
+    Now I am far from being able to offer a detailed account, but it seems
+to me very likely that this strength of political individualism — the notion
+that rights pertain to individuals, and that the legitimacy of a system hangs
+to a large degree on how it deals with individuals — is connected to the
+saliency of individualism in other forms and other aspects of our culture.
+That it is connected, for instance, with the rise of our modern conceptions
+of marriage and the family, of human fulfilment in the companionate
+marriage (or more latterly ‘relationship’), which have helped to make the
+nuclear family or its surrogate the most important basic unit of social
+life. That it is connected with post-Romantic notions of ‘fulfilment’, with
+all the accompanying ideas of individual difference and the corresponding
+crucial importance of being true to myself. It has become a banality that
+it is connected with free-enterprise forms of capitalist entrepreneurship.
+And the list could be continued.
+   Now while it may seem plausible that the prevalence of political
+individualism on its own be attributed to the fortunate outcome of
+politico-military struggles in history — including some decisive armed
+conflicts, such as the American Revolution and the Second World War, not
+to speak of the dominance of imperial powers the political culture of which
+was based on these values — it is much less obvious that the hold on us of the
+reigning images of sexual love and personal fulfilment is to be explained in
+the same terms. We can indeed speak of these emerging through a struggle.
+But this has partly been the struggle of daily life, in which individuals and
+couples strive to make sense of their lives and give shape to their hopes,
+
+=== p. 226 ===
+
+fears and aspirations. No one can underestimate the great impact that
+war, conquest, mass migrations, expulsions, imposed industrialization, and
+many other such founding events of modern civilization-have had. But these
+condition and don’t displace the struggle to give form to one’s daily life.
+   And while it is easy to believe, where the fate and prevalence of ideas is
+decided in war, that this is only randomly related to their truth and validity,
+it is a different proposition to hold that those self-interpretations which
+emerge out of the daily struggle for self-understanding are quite unrelated
+to their validity for us. To put it most simply, we may have to explain their
+rise at least partly in terms of their fit with what we have become, rather
+than explaining in the reverse direction, where what we become is a function
+of the language which has been imposed on us by strategies of power.
+   In short, only if we could show that relations of domination, and the
+strategies which create and sustain them, have totally invaded the world of
+everyday self-understanding could we adopt the narrow, neo-Clausewitzian
+interpretation above, and make all dominant ideas the outcome of conflicts
+which centre on war and the struggle for power. If we cannot, then the
+neo-Clausewitzian thesis ceases even to be plausible for our political ideas,
+granted the close interweaving between them and the other languages of our
+culture. The reality of historical change would be a much more complicated
+and messy business, in which the truth of ideas is neither decisive nor totally
+irrelevant to their fate, since this truth would have very different weight in
+different facets of what was nevertheless a single interconnected culture.
+   I confess that this messy picture seems to me close to the reality of
+things. But I recognize that Michel Foucault made a strong case for the
+invasion of everyday understanding by relations of power. If this case could
+be made good, then indeed, the neo-Clausewitzian perspective would appear
+tremendously plausible. Tully is right, granted his interpretation of Skinner,
+to relate him closely to Foucault. For Foucault provides the indispensable
+philosophical underpinning for a Skinner who really wanted to go this route.
+   But does Skinner really want to go this route? I am still uncertain. In a
+sense, what I have been trying to do here is relate Skinner’s methodology
+to a requirement that seems to me inescapable for any historian or social
+scientist: confronting one’s own language of explanation with that of
+one’s subjects’ self-understanding. The different avenues of questioning
+I’ve explored here converge on this central demand. We can meet it
+by asking what our language of explanation entails about the truth
+of our subjects’ beliefs. Or we can get at the same issue via another
+route by asking how we ought to describe their actions and thoughts.
+   In the last few paragraphs I have been trying this second line of
+approach. The challenge here as it relates to Skinner’s methodology could
+be put in this way: telling us to identify what the author of a text is doing,
+how he is intervening in the conflicts of his day, is not enough. We can’t
+
+=== p. 227 ===
+
+take it for granted that we already know how to do this for an age
+sufficiently different from our own. Perhaps we need to learn more about
+the kinds of conflicts there were, what was at stake in them, the kinds of
+moves you could make, and what represented victory or defeat. The war
+model seems to make things easy, because in one way this kind of extreme
+conflict is understandable wherever we meet it in human history. We know
+right away what it is to win and lose. Thus the operations of the European
+state system from early modern times, in so far as this was concerned with
+war, the preparations for war, the acquisition of the sinews of war, and
+the like, seems readily comprehensible to us. We find our feet right away
+in conflicts of this kind. We would have much more trouble understanding
+the conflicts of the pre-twentieth-century Balinese state system. Thanks to
+the penetrating and sensitive work of Clifford Geertz, we can get some sense
+of what was at stake here.!? But we have a lot to learn — and specifically,
+inter alia, from their self-descriptions — before we can find our feet here.
+   Now the reference to Bali might be thought irrelevant in a discussion
+of Skinner’s work. In fact, he has been concerned with the origins of
+modern western thought, and it is precisely the European state system
+which has played a major role in this. But the issue arises here in
+another form. We are confident that we can understand the goals and
+methods of a Richelieu, and in earlier centuries of a Medici or a Sforza.
+But what is it to understand the conflict in which Luther, Eck, Zwingli
+and Contarini were engaged? This is highly relevant to the modern age,
+since however great the difficulty in formulating the connection exactly, we
+are clearly in a number of ways the spiritual heirs of the Reformation.
+   Now the conflict over the Reformation was central to the struggles
+of the European state system in its formative period. And the actual
+spread of the Reformation churches was obviously largely decided by
+the balance of political and military forces. Would Luther have avoided
+the fate of Hus without the Elector of Saxony? These centuries abound
+with examples of the cynical use of power.
+   But it doesn’t follow from this that the important place of the legacy
+of the Reformation in our lives is to be explained in terms of the outcome
+of the struggles, intrigues and strategies in the chancelleries of those times.
+One modern idée force which I believe we owe to the Reformation is what
+I call the affirmation of ordinary life, the belief that the central point
+of human existence and human fulfilment is to be found in the life of
+production and reproduction, or work and the family, or labour and
+sexual love. In various forms this has been one of the great revolutionary
+forces of modern culture. It gained this position as a result of struggle,
+in some sense of this term. And one of the phases of this struggle was
+the spiritual battle for hearts and minds of the sixteenth century. But |
+think we still have some way to go before we understand the terms and
+
+=== p. 228 ===
+
+nature of this struggle. I don’t think that war-and the preparations for war
+of the European state system even begin to give us the key.
+   Now the demand I’ve been talking about, namely.that we confront
+our language of explanation with the self-understanding of our subjects,
+is nothing else but the thesis of hermeneutical theory. Tully at the end
+of his paper wants to contrast Skinner’s approach with a hermeneutical
+one. Skinner’s path runs parallel with hermeneutics for a long way, but
+then he diverges where the hermeneutical theory falls into error. But the
+error that Tully identifies here, namely ‘that it continues to encourage
+and underwrite the view that the language [of the subjects themselves]
+must be the best, and often the only guide to the activity it describes’,!3
+is not part of contemporary hermeneutical theory, not at any rate since
+Gadamer. That one must confront one’s language with that of one’s
+subjects doesn’t involve accepting this language. It may of course. But
+the upshot can also be that one judges oneself to have a perspective
+that they couldn’t share, and so far forth revises their beliefs. The point
+is the issue must be faced, one way or another, or muddle will prevail.
+   We can all too easily be over-quick in concluding that we understand
+what is going on in some distant place or century. And modern European
+scientific thinking has a tendency to focus on and make primary just those
+aspects of social life which seem closest to invariant across different
+cultural contexts: war; the reproduction of the material means of life;
+the conditions of ecological survival; the presence or absence of civil
+strife. Perhaps the neo-Clausewitzian thesis is an exciting new insight,
+but perhaps it is also another case where we cede to this old temptation.
+   A number of questions arise from all this for Skinner’s methodology,
+to some of which I might have the answers if I understood it better,
+or had a better grasp of modern history. I am all too aware that
+these questions represent largely stages of my incomprehension of the
+tremendously rich and interesting body of work which Quentin Skinner
+has been laying out before us.
+

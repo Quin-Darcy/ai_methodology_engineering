@@ -1,0 +1,491 @@
+=== chunk: skinner-2002-visions-of-politics-vol1/ch10-retrospect ===
+title: Retrospect — Studying rhetoric and conceptual change
+source_pdf: docs/sources/skinner-2002-visions-of-politics-vol1/full.pdf
+pdf_pages: 193-205
+page_scheme: pdf
+plan_page_start: 193
+plan_page_end: 205
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 193 ===
+
+                                               IO
+
+    Retrospect: Studying rhetoric and conceptual change
+
+I have been concerned in several of the previous chapters with the
+prospect of treating the study of changing concepts as a distinct form
+of historical enquiry. As I have sought to stress, if we wish to write this
+kind of history it seems to me that we shall do well to concentrate in particular on the concepts we employ to describe and appraise what Hobbes
+called our artificial world, the world of politics and morality. This in turn
+means that we shall need to focus on the various terms — the entire normative vocabulary — in which such concepts are habitually expressed. As
+I argued in chapters 8 and 9, these terms, the paradigms of which are
+the names of the virtues and vices, are those which perform evaluative
+as well as descriptive functions in natural languages. ‘They are basically
+used to describe actions and the motives for which they are performed.
+But if the criteria for applying one or other of these terms can plausibly
+be claimed to be reflected in some given action or state of affairs, then
+the application of the term serves not only to describe but at the same
+time to evaluate it.
+   I began to make such normative vocabularies a subject of my own historical research in the 1970s, and it was during those years that the original versions of chapters 8 and g were published. One reason for writing
+those articles was my wish to dispute the view — then prevalent in Anglophone philosophy — that we can validly speak (as ‘T- D. Weldon had done
+in the title of a classic text) of the vocabulary of politics’ and that we can
+likewise speak (as R. M. Hare had done in an even more influential book)
+of the language of morals.* This assumption seemed to me well worth
+disputing in the name of a more historically-minded acknowledgement
+that different societies may conceptualise these domains in different and
+ This chapter is a revised and extended version of an article that originally appeared under the
+ title of ‘Rhetoric and Conceptual Change’ in The Finnish Yearbook of Political Thought, 3 (1999),
+ pp: 60-73.
+ Weldon 1953.       ? Hare 1952.
+
+=== p. 194 ===
+
+possibly even incommensurable ways. Those two essays may thus be said
+to have embodied an advance (or at least a change of mind) from the
+position I had earlier adopted in the essay reprinted here as chapter 4, in
+which I had still been content to assume that moral and political theory
+possess their own distinct and relatively stable vocabularies.
+   I had a second and more basic motivation for wishing to study the
+changing use of concepts. I wanted to question the assumption influentially propagated by Arthur Lovejoy and his disciples about the proper
+task of the historian of ideas. Lovejoy had argued that, beneath the surface of ideological debate, there will always be a range of perennial and
+unchanging ‘unit ideas’ which it becomes the task of the intellectual historian to uncover and trace.3 Against this contention I tried once more
+to speak up for a more radical contingency in the history of thought.*
+This part of my programme (if I may speak in such elevated terms) was
+already announced in the original version of the article reprinted here
+as chapter 4. Drawing on a suggestion made by Wittgenstein in his later
+work, I argued that there cannot be a history of unit ideas as such, but
+only a history of the various uses to which they have been put by different
+agents at different times. There is nothing, I ventured to suggest, lying
+beneath or behind such uses; their history is the only history of ideas to
+be written.
+   One way of expressing my underlying commitment would thus be to
+say that I wanted to treat the understanding of concepts as always, in part,
+a matter of understanding what can be done with them in argument.
+In announcing this belief, as I initially did in the essay reprinted here
+as chapter 4, I declared my allegiance to one particular tradition of
+twentieth-century social thought. The tradition may perhaps be said to
+stem from Nietzsche, although I originally encountered it myself in the
+social philosophy of Max Weber, as my discussions in chapters 7 and 8
+will have made clear. Like Nietzsche, Weber believed that our concepts
+not only alter over time, but are incapable of providing us with anything
+more than a series of changing perspectives on the world in which we
+live and have our being. Our concepts form part of what we bring to the
+world in our efforts to make sense of it. The shifting conceptualisations
+to which this process gives rise constitute the very stuff of ideological
+
+3 Lovejoy 1960.
+* But Lovejoy’s approach has been valuably restated and defended in Oakley 1984, pp. 15—40. For
+  Oakley’s reaction to my own remarks on Lovejoy see Oakley 1984, pp. 28-31.
+
+=== p. 195 ===
+
+debate, so that it makes no more sense to regret than to deny that such
+conceptual changes continually take place.
+    If we endorse this vision ofpolitics, as I do, we place a question-mark
+against all those neo-Kantian projects of our time in which we encounter
+an aspiration to halt the flux of politics by trying definitively to fix the analysis of key moral terms. I continue to harbour a special prejudice against
+those who, in adopting this approach, imagine an ideal speech situation
+in which everyone (everyone?) would make the same moral and cognitive
+judgements.° There are no moral or cognitive judgements which are
+not mediated by our concepts, and it seems to me that even our most
+apparently abstract concepts are historical through and through.
+    I have been less concerned with questioning this approach, however,
+than with considering what kind of history needs to be written if the phenomenon of conceptual change is to be fruitfully explored. It is worth
+adding that the view at which I have arrived is in some respects similar to
+the one embodied in Reinhart Koselleck’s now celebrated programme
+for the study of Begriffsgeschichte, histories of concepts.° Koselleck and I
+both assume that we need to treat our normative concepts less as statements about the world than as tools and weapons of ideological debate.
+Both of us have perhaps been influenced by Foucault’s Nietzschean contention that ‘the history which bears and determines us has the form of
+a war’./
+    One reason why it is perhaps worth identifying my original targets in
+this way is that a number of my critics have supposed that what I was
+aiming to discredit was Koselleck’s project of writing Begriffsgeschichte.
+But this was never the case. It is no doubt deplorable, but it is nevertheless a fact, that when in the late 1960s and 1970s I wrote the essays of
+which I have been speaking, I had no knowledge of Koselleck’s research
+programme. I did not come to appreciate the distinctiveness and magnitude of his achievement until Melvin Richter made his work available to
+Anglophone readers in his articles of the 1980s® and later in his important study, The History of Social and Political Concepts, published as recently
+as 1995.9
+
+5 Commenting on this commitment, Geuss 1981 p. 66 remarks that ‘I find it quite hard to burden pre-dynastic Egyptians, ninth-century French serfs and early-twentieth-century Yanomam6
+  tribesmen with the view that they are acting correctly if their action is based on a norm on which
+  there would be universal consensus in an ideal speech situation.’
+© See, for example, Koselleck 1985, esp. pp. 73-91 and Koselleck 1989. See also the discussion in
+  Richter 1995, esp. pp. 26-57.
+7 Foucault 1980, p. 114.    8 See in particular Richter 1986 and Richter 1987.      9 Richter 1995.
+
+=== p. 196 ===
+
+   How far one can hope to capture the historicity of concepts by adopting Koselleck’s approach remains a question. '© But if there are any remaining doubts, these ought not in my view to be doubts about the very
+idea of writing conceptual histories — or not, at least, if these are histories
+of how concepts have been put to use over time. It is perhaps worth
+adding that I have even attempted to write some such histories myself,
+and two of these studies are included in the present work: in volume 2
+I reprint (in a much revised form) an essay originally published in 1989 on
+the acquisition of the concept of the State, and in volume 3 I reprint an
+associated essay of 1999 on the relationship to this tradition of Hobbes’s
+argument in Leviathan. | have also written — in my book Liberty Before
+Liberalism — about the rise and fall within Anglophone political theory of
+a particular view about the concept of liberty, a view according to which
+our freedom should be seen not merely as a predicate of our actions but
+as an existential condition in contrast with that of servitude." I do not
+consider these studies to be in tension with anything I have written about
+the need to understand what can be done with concepts as an element
+in the process of recovering their meaning and significance. On the contrary, part of my aim in each of these studies was to indicate why the
+concept in question first came to prominence at a particular historical
+period by way of indicating what could be done with it that could not be
+done in its absence.
+   As these remarks will already have made clear, I strongly endorse the
+belief that we must be ready as historians of philosophy not merely to
+admit the fact of conceptual change but to make it central to our research.
+Not only is our moral and social world held in place by the manner in
+which we choose to apply our inherited normative vocabularies, but one
+of the ways in which we are capable of reappraising and changing our
+world is by changing the ways in which these vocabularies are applied. As
+I have already tried to show in chapters 8 and 9, there 1s in consequence a
+genealogy of all our evaluative concepts to be traced, and in tracing their
+changing applications we shall find ourselves looking not merely at the
+reflections but at one of the engines of social change. Since I have always
+sought to emphasise that innovating ideologists may in consequence be
+no less preoccupied with wresting an available moral language to their
+own ends than with seeking at the same time to challenge conventional
+
+'° Schmidt 1999 makes some interesting criticisms of Koselleck’s project along these lines, questioning in particular his reliance on dictionaries as sources. For an excellent survey of the issues
+   see Hampsher-Monk 1988.
+" Skinner 1998, pp. 59-99.
+
+=== p. 197 ===
+
+beliefs, I am startled to find myself accused by a recent critic of failing
+to acknowledge the first of these possibilities." Chapter 8 of the present
+volume is largely given over to considering this issue, and one of my aims
+in discussing the phenomenon of rhetorical redescription below will be
+to show that the first possibility as well as the second will always be in play.
+   I have already gestured in chapter 9 at what I take to be the fundamental point we need to grasp if we are to study the phenomenon of
+conceptual change, but I should like to enlarge on it here. My almost
+paradoxical contention is that the various transformations we can hope
+to chart will not strictly speaking be changes in concepts at all. They will
+be transformations in the applications of the terms by which our concepts
+are expressed. ‘hese changes will in turn be of various kinds, but in my
+owp research I have chiefly focused on what Kari Palonen in a recent
+appraisal 6f my work has helpfully labelled a rhetorical perspective."
+I have mainly been interested in the kinds of debate that take place when
+we ask whether a given action or state of affairs does or does not license
+us to apply some particular evaluative term as an apt description of it.
+While this has been my principal interest, however, I should not want it
+to be thought that I take this to be the sole or even the most significant
+way in which the process of conceptual change can be initiated. Before
+turning to consider the rhetorical case in more detail, I should like to
+mention two other ways in which the phenomenon of conceptual change
+can be historically mapped.
+    We can hope in the first place to trace the changing extent or degree to
+which a particular normative vocabulary is employed over time. ‘There
+are obviously two contrasting possibilities here. ‘The rise within a given
+society of new forms of social behaviour will generally be reflected in the
+development of corresponding vocabularies in which the behaviour in
+question will then be described and appraised. I have already considered
+the early-modern European development of commercial society from
+this perspective in chapter 8, focusing on the growing salience of an ap-praisive vocabulary centred on such novel values as frugality, industriousness,
+punctuality, conscientiousness and the like. ‘The alternative possibility is that
+a given society may gradually lose its sense that some particular style
+of behaviour deserves to be singled out and valorised. ‘This kind of
+change ofheart will generally be registered in the atrophying of the corresponding normative vocabulary. An instructive example is offered by the
+2 See Bevir 1999, pp- 49-50 and cf. also Bevir 1997. For a summary restatement of Bevir’s position
+   see Bevir 2001.
+'3 For an appraisal ofthis perspective see Palonen 1997 and 1999.
+
+=== p. 198 ===
+
+disappearance in contemporary English of a complex vocabulary widely
+used in earlier generations to describe and commend an ideal of
+gentlemanly conduct, and at the same time to stigmatise any behaviour
+liable to undermine it. Such terms as cad and bounder — together with
+the contrasting concept of gentlemanliness — are still included in historical
+dictionaries of the English language, but they are obsolete as terms of
+appraisal now that the patterns of conduct they were used to evaluate
+have lost their social significance.
+   Such examples arguably provide the best evidence in favour of the
+claim that concepts have a history — or rather, that the terms we use
+to express our concepts have a history. They rise and fall, and in some
+cases they finally disappear from sight. I confess, however, that this kind
+of long-term shift in the fortuna of concepts has not remained one of
+my primary interests. Here my approach differs markedly from that of
+Koselleck and his associates, who have chiefly been preoccupied with
+the slower march of time and much less concerned than I have been
+with the pointillist study of sudden conceptual shifts." One reason why
+I have been less interested in such broader chronologies is that, in the
+examples I have given, the shifting vocabularies are little more than indexes or reflections of deeper transformations in social life. This in turn
+means that, if a history of these conceptual changes were to have any
+explanatory value, the explanations would have to be given at the level
+of social life itself. But I have no general theory about the mechanisms of
+social transformation, and I am somewhat suspicious of those who have.
+Certainly I am deeply suspicious of any theories in which Time itself appears as an agent of change. As John Dunn remarked in a classic article
+long ago, such metaphors have a nasty habit of reappearing as objectifications, thereby encouraging a discredited form of intellectual history
+in which ‘Tradition is always doing battle with Progress, Enlightenment
+with Superstition, and so forth."
+   I next want to build on what I said in chapter 9 about a second form
+of conceptual change, or rather a second way in which the vocabularies
+we use to describe and appraise our social world continually wrinkle
+and slide. ‘This further process occurs when the capacity of a normative
+vocabulary to perform and encourage particular acts of appraisal alters
+either in direction or in intensity. Changes of this kind will usually reflect
+
+‘4 See, for example, Richter’s discussion of the handling of the concept of Herrschaft and its history in
+   Koselleck’s Geschichtliche Grundbegriffe in Richter 1995, pp. 58-78. For a fuller comparison between
+   my approach and that of Koselleck see Guilhaumou 2000.
+*) Dunn 1980, esp. p. 13.                 ,
+
+=== p. 199 ===
+
+an underlying attempt to modify existing social perceptions and beliefs,
+and these efforts will in turn be featured in the language of evaluation in
+one oftwo principal ways. A term generally used to commend an action
+or state of affairs may be used instead to express and solicit disapproval,
+or else a condemnatory term may be used to suggest that, contrary to
+received assumptions, what is being described is deserving of praise.
+   What is being proposed in such cases is that a society should reconsider
+and perhaps transvalue some of its moral values. Sometime we can even
+pinpoint such dramatic suggestions at specific moments within individual
+texts. Consider, for example, Machiavelli’s evident desire in chapter 16
+of Il Principe to insist that the virtue of liberality, so highly prized in
+the courtly societies of Renaissance Europe, may actually be the name
+of a dangerous vice. ‘© Or consider Baldassare Castiglione’s contrasting
+desire in his Libro del Cortegiano of 1528 to single out the quality he labels
+sprezzatura — the quality of nonchalantly refusing to set a high price on
+anything — and to commend it as one of the leading virtues of civilised
+life.” ‘The unsettling implications of the latter suggestion can be seen
+at their clearest in the English version of the Cortegiano first issued by
+Sir Thomas Hoby in 1561. Faced with the need to find a translation
+for sprezzatura, Castiglione’s invented term, Hoby chose to render it as
+recklessness.'® He thereby confronted his puritan contemporaries with the
+unsettling thought that a deliberate refusal to act with foresight and
+conscientiousness might be deserving of the highest praise.’9
+    Whenever such suggestions are widely taken up, a whole society may
+eventually come to alter its attitude towards some fundamental value
+or practice and alter its normative vocabulary accordingly. We could
+therefore say that these are examples of conceptual change in perhaps
+its purest sense. However, I have again paid little attention to the long-term social transformations that cause such appraisive terms to lose — or
+to alter the direction of — their evaluative force. This lack of interest again
+contrasts strongly with Koselleck’s approach. ‘The reason for my neglect
+is the same as before. I lack any talent for writing the kind of social history
+that would be required. I also plead guilty to the further charge — levelled,
+for example, by Palonen*® — that in contrast to Koselleck I have made
+no attempt to investigate the possibility that Time itself may need to be
+
+ © Machiavelli 1960, pp. 66-8.
+ 7 See Castiglione 1981, pp. 59-60 et passim on the need ‘usar in ogni cosa una certa sprezzatura’.
+ '8 Castiglione 1994, Pp. 53"9 On the language of Hoby’s translation see Burke 1995, pp. 66-72. On sprezzatura see Saccone
+        1983.
+iS)
+      ° Palonen 1999, pp. 53-5-
+
+=== p. 200 ===
+
+included in the very meaning of certain concepts. I do indeed neglect
+this possibility, but only because I cannot make sense of it.
+  I turn finally to re-examine the form of conceptual change in which
+I have chiefly been interested, the form I have described as rhetorical
+in character, Such changes originate when an action or state of affairs
+is described by means of an evaluative term that would not normally
+be used in the given circumstances. The aim is to persuade an audience
+that, in spite of appearances, the term can properly be applied — in virtue
+of its ordinary meaning — to the case in hand. The effect of successfully
+persuading someone to accept such a judgement will be to prompt them
+to view the behaviour in question in a new moral light. An action they
+had previously regarded as commendable may come to seem worthy
+of condemnation, while an action they had previously condemned may
+seem worthy of praise.
+   When, in the early 1970s, I first discussed this technique of rhetorical
+redescription, I operated with the assumption that for every evaluative
+term there will at any one time be a standard and accepted meaning and
+use. This remains the key assumption on which my historical analysis
+in chapter 8 is based. As a result, I portray the figure of the innovating
+ideologist in that chapter as someone engaged in the manipulation of
+a normative vocabulary by a series of what I describe as sleights of
+hand. Since that time, however, I have immersed myself in the writings
+of the classical theorists of eloquence who originally described the
+relevant techniques of rhetorical redescription. As a result I have come
+to share their more sceptical understanding of normative concepts and
+the fluid vocabularies in which they are habitually expressed. I have
+found myself increasingly adopting their assumption that it makes little
+sense to speak of evaluative terms as having accepted denotations that
+can either be followed or, with varying degrees of disimgenuousness,
+effectively manipulated. I have come to appreciate their sense that
+there will always be a degree of ‘neighbourliness’, as they liked to call it,
+between apparently conflicting evaluative terms. It now seems to me, in
+short, that all attempts to legislate about the ‘correct’ use of normative
+terms must be regarded as equally ideological in character. Whenever
+such terms are employed, their application will always reflect a wish to
+impose a particular moral vision on the workings of the social world.
+   I should like to end by offering some general reflections about this crucial technique of rhetorical redescription, a technique to which I return in
+greater detail in volume 2 chapter 10, and again in discussing Hobbes’s reactions to itin volume g chapter 4. It will be best to begin with the analysis
+
+=== p. 201 ===
+
+furnished by the ancient rhetoricians themselves.?' One of the clearest
+accounts is supplied by Quintilian, although he owes an obvious debt
+to Cicero, while both of them                are in turn influenced by the pioneering
+discussion to be found in Book II of Aristotle’s Art ofRhetoric. Quintilian’s
+main discussion of the technique — to which he gives the name
+paradiastole — appears in Book IV of his Jnstitutio Oratora as part of his
+advice on how to present a narrative of facts. Suppose you find yourself
+in a court of law facing an advocate who has managed to describe an act
+‘in such a way as to rouse up the judges and leave them full of anger
+against your side’.** Suppose too that you cannot hope to deny what happened. How should you proceed? Quintilian’s answer is that ‘you should
+restate the facts, but not at all in the same way; you must assign differ-entecauses, a different state of mind and a different motive for what was
+done’.?3 Above all, ‘you must try to elevate the action as much as possible
+by the words you use: for example, prodigality must be more leniently re-described as liberality, avarice as carefulness, negligence as simplicity of
+mind’.*#
+    Quintilian had already put forward this last and crucial suggestion in
+Book IH, in which he had quoted (although without acknowledgement)
+three examples of the same technique mentioned by Aristotle in The
+Art of Rhetoric: ‘slander can pass for frankness, recklessness for courage,
+extravagance for copiousness’.*> Aristotle had added that the same technique can equally well be used not merely to extenuate the vices but to
+depreciate the virtues, as when we denigrate the behaviour of a habitually cautious man by claiming that he is really a person of cold and
+designing temperament.?°
+   As Quintilian emphasises, the essence of the technique may thus be
+said to consist of replacing a given evaluative description with a rival
+term that serves to picture the action no less plausibly, but serves at the
+same time to place it in a contrasting moral light. You seek to persuade
+your audience to accept your new description, and thereby to adopt a
+new attitude towards the action concerned. As Quintilian explicitly adds,
+this means that strictly speaking we ought not to describe the technique
+as a case of substituting one word for another. ‘For no one supposes that
+the words prodigality and liberality mean the same thing; the difference
+
+21 All ensuing translations from classical texts are my own.
+22 Quintilian 1920-2, IV. II. 75, vol. 2, p. go.     *3 Quintilian 1920-2, IV. II. 76-7, vol. 2, p. go.
+24 Quintilian 1920-2, IV. II. 77, vol. 2, pp. 90-2.
+25 See Aristotle 1926, I. EX. 28-9, pp. 96-8 and cf. Quintilian 1920-2, II. XII. 4, vol. 1, p. 284.
+26 Aristotle 1926, I. IX. 28, p. 96.
+
+=== p. 202 ===
+
+is rather that one person calls something prodigal which another thinks
+of as liberality.” What we are really claiming is that the res— the actual
+behaviour — possesses a different moral character from that which our
+dialectical opponents may have assigned to it.
+    Quintilian also explains what makes the use of paradiastolic redescrip-tion a perennial possibility. Drawing once more on Aristotle, he reiterates
+that this is due to the fact that many of the vices are ‘neighbours’ of the
+virtues. Cicero had already put forward the same explanation in his
+De Partitione Oratoria. ‘Cunning imitates prudence, insensibility imitates
+temperance, pride in attaining honours and superciliousness in looking
+down on them both imitate magnanimity, extravagance imitates liberality and audacity imitates courage.’?® Such a large number of the vices,
+in short, stand in ‘neighbourly relations’ with the virtues that a clever
+orator will always be able to challenge the proffered evaluation of any
+action whatsoever with some show of plausibility.
+   One of the defining achievements of Renaissance culture was to
+revive and reassess the rhetorical philosophy of the ancient world.
+This in turn means that, if we wish to see the techniques perfected
+by the ancient rhetoricians put to work again, we need to turn to
+the moral philosophy of the Renaissance. Among moralists of that
+period, it was Machiavelli who arguably took the lessons of the ancient
+rhetoricians most profoundly to heart. Certainly he uses the technique
+of paradiastolic redescription with unparalleled audacity in challenging
+the political morality of his age. He first employs it in chapter 16 of
+Il Principe to question the so-called ‘princely’ virtue of liberality. Two
+contrasting rhetorical strategies are at work in this passage. As we have
+already seen, one is Machiavelli’s astonishing suggestion that liberality
+may not be the name of a virtue. But his other strategy depends on
+assuming that liberality and generosity are undeniably the names of
+good qualities. While conceding the point, however, he adds that much
+of the behaviour usually described and commended as liberal and generous ought rather to be redescribed and condemned as suntuosita, mere
+ostentatiousness.*9 Machiavelli’s next chapter questions the princely
+virtue of clemency in the same way. He begins by acknowledging that
+cruelty is of course a vice, but he insists that many of the actions usually
+celebrated as contrasting instances of clemency ought rather to be
+redescribed in much less favourable terms.3° The avoidance of cruelty
+
+  *7 Quintilian 1920-2, VIII. VI. 36, vol. 3, p. 322.     28 Cicero 1942, II. XXIII. 81, p. 370.
+  *9 Machiavelli 1960, p. 66.     3°, Machiavelli 1960, p. 68.
+
+=== p. 203 ===
+
+for which the Florentines congratulated themselves when they refused
+to punish the leaders of the uprising at Pistoia was really an instance of
+troppa preta, mere over-indulgence.3' Likewise, the clemency for which
+Scipio Africanus became famous in his campaigns against Hannibal
+was really an example of his natura facile, his laxity of character.3?
+   Nietzsche offers a yet more emphatic account of how easy it is for
+vices to present themselves as virtues. This is one of the chief topics
+he examines — with an almost horrified fascination — in the opening
+essay of The Genealogy of Morality. The passage is a famous one, but his
+commentators seem unaware of the fact that the technique he is analysing
+and illustrating is precisely that of paradiastolic redescription. Nietzsche
+begins by asking whether anyone would like ‘to have a little look down
+inte the secret of how ideals are fabricated on this earth’:
+   What’s happening down there? Tell me what you see, you with your most
+dangerous curiosity — now J am the one who’s listening. —
+   — ‘I cannot see anything but I can hear all the better. There is a guarded,
+malicious little rumour-mongering and whispering from every nook and cranny.
+I think people are telling lies; a sugary mildness clings to every sound. Lies are
+turning weakness into an accomplishment, no doubt about it — it’s just as you said.’ —
+   —Go on!
+   — ‘and impotence which doesn’t retaliate is being turned into “goodness”;
+timid baseness is being turned into “humility”; submission to people one hates
+is being turned into “obedience” (actually towards someone who, they say, orders this submission — they call him God.) The inoffensiveness of the weakling,
+the very cowardice with which he is richly endowed, his standing-by-the-door,
+his mevitable position of having to wait, are all given good names such as
+“patience”, which is also called the virtue; not-being-able-to-take-revenge is
+called not-wanting-to-take-revenge, 1t might even be forgiveness (“for they know
+not what they do — but we know what ‘hey are doing!”). ‘They are also talking
+about “loving your enemy” — and sweating while they do it.’
+   —Go onl...
+   ‘But enough! enough! I can’t bear it any longer. Bad air! Bad air! ‘This workshop where ‘deals are fabricated — it seems to me Just to stink of lies.’38
+
+It is Nietzsche’s contention, in short, that the slave morality of the
+Christians succeeded in overturning the moral world of antiquity by
+rhetorically redescribing a number of vices as their neighbouring virtues.
+   For a contrasting example of how a virtue can come to be recognised
+as a vice, consider an example recently discussed by Ian Hacking, that
+of the history of the concept of child abuse. What appeared as wholesome
+
+  3! Machiavelli 1960, p. 69.   3? Machiavelli 1960, p. 71.   33 Nietzsche 1994, pp. 30-1.
+
+=== p. 204 ===
+
+discipline in the rearing of children in one generation may come to be
+viewed as cruelty in the next. Nothing in the conduct of adults towards
+children need in the intervening period have changed. What will have
+altered, if the new evaluation is accepted, is the sensibility of acommu-nity. The intervening process, in Hacking’s words, will have been one
+of ‘inventing new descriptions, providing new ways to see old acts’.3+ A
+number of practices previously regarded as acceptable and perhaps even
+taken for granted will come to seem morally intolerable. ‘This is not of
+course to say that the process is one of coming to see things as they really
+are. As before, it is merely a matter of substituting one social philosophy for another, both of which may have seemed rationally defensible at
+different times.
+   It might appear, however, that in talking in this way about rhetorical redescription we are precisely not talking about conceptual change.
+I certainly agree that a number of philosophers have been too ready
+to say that what is happening in such disputes is that each party must
+‘have a different concept’ of (say) what constitutes child abuse. But if
+the disputants are genuinely arguing, they must have the same concept
+of what constitutes child abuse. The difference between them will not
+be about the meaning ofthe relevant evaluative term, but merely about
+the range of circumstances in which they are prepared to apply it. This
+caution strikes me as correct and important, but the fact remains that
+the outcome of such debates will nevertheless be a form of conceptual
+change. ‘The more we succeed in persuading people that a given evaluative term applies in circumstances in which they may never have thought
+of applying it, the more broadly and inclusively we shall persuade them
+to employ the given term in the appraisal of social and political life. ‘The
+change that will eventually result is that the underlying concept will acquire a new prominence and a new salience in the moral arguments of
+the society concerned.
+   It is true that I have again been less interested in these long-term
+changes than in the kind of eprphanic moments dramatised by Nietzsche.
+But I acknowledge, of course, that if we are interested in mapping the
+rise and fall of particular normative vocabularies we shall also have to
+devote ourselves to examining the longue durée. So 1am not unhappy with
+Palonen’s recent suggestion that much of my own research might be
+regarded as a contribution to one aspect of the vastly more ambitious
+
+3+ Hacking 1995, p. 56. Hacking 1995 pp. 55~68 is partly a paraphrase of the fuller discussion in
+   Hacking 1991.
+35 Palonen 1999, pp. 56-7.
+
+=== p. 205 ===
+
+programme pursued by Reinhart Koselleck and his associates. Koselleck
+is interested in nothing less than the entire process of conceptual change:
+I am chiefly interested in one of the techniques by which it takes place.
+But the two programmes do not strike me as incompatible, and I hope
+that both of them will continue to flourish as they deserve.
+

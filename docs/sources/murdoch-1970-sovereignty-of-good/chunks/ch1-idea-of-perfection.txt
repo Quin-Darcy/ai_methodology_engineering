@@ -1,0 +1,1438 @@
+=== chunk: murdoch-1970-sovereignty-of-good/ch1-idea-of-perfection ===
+title: The Idea of Perfection
+source_pdf: docs/sources/murdoch-1970-sovereignty-of-good/full.pdf
+pdf_pages: 20-63
+page_scheme: book
+plan_page_start: 1
+plan_page_end: 44
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 1 ===
+
+     THE IDEA OF PERFECTION
+
+It is sometimes said, either irritably or with a certain satisfaction,
+that philosophy makes no progress. It is certainly true, and I
+think this is an abiding and not a regrettable characteristic of the
+discipline, that philosophy has in a sense to keep trying to return
+to the beginning: a thing which it is not at all easy to do. There is
+a two-way movement in philosophy, a movement towards the
+building of elaborate theories, and a move back again towards
+the consideration of simple and obvious facts. McTaggart says
+that time is unreal, Moore replies that he has just had his
+breakfast. Both these aspects of philosophy are necessary to it.
+    I wish in this discussion to attempt a movement of return, a
+retracing of our steps to see how a certain position was reached.
+The position in question, in current moral philosophy, is one
+which seems to me unsatisfactory in two related ways, in that
+it ignores certain facts and at the same time imposes a single
+theory which admits of no communication with or escape into
+rival theories. If it is true that philosophy has almost always done
+this, it is also true that philosophers have never put up with it for
+
+=== p. 2 ===
+
+    very long. Instances of the facts, as I shall boldly call them, which
+    interest me and which seem to have been forgotten or ‘theorized
+    away’ are the fact that an unexamined life can be virtuous and
+    the fact that love is a central concept in morals. Contemporary
+    philosophers frequently connect consciousness with virtue, and
+    although they constantly talk of freedom they rarely talk of love.
+    But there must be some relation between these latter concepts,
+    and it must be possible to do justice to both Socrates and the
+    virtuous peasant. In such ‘musts’ as these lie the deepest springs
+    and motives of philosophy. Yet if in an attempt to enlarge our
+    field of vision we turn for a moment to philosophical theories
+    outside our own tradition we find it very difficult to establish
+    any illuminating connection.
+       Professor Hampshire says, in the penultimate chapter of
+    Thought and Action, that ‘it is the constructive task of a philosophy
+    of mind to provide a set of terms in which ultimate judgements
+    of value can be very clearly stated.’ In this understanding of it,
+    philosophy of mind is the background to moral philosophy; and
+    in so far as modern ethics tends to constitute a sort of Newspeak
+    which makes certain values non-expressible, the reasons for this
+    are to be sought in current philosophy of mind and in the fascinating power of a certain picture of the soul. One suspects that
+    philosophy of mind has not in fact been performing the task,
+    which Professor Hampshire recommends, of sorting and classifying fundamental moral issues; it has rather been imposing
+    upon us a particular value judgment in the guise of a theory of
+    human nature. Whether philosophy can ever do anything else is a
+    question we shall have to consider. But in so far as modern
+    philosophers profess to be analytic and neutral any failure to be
+    so deserves comment. And an attempt to produce, if not a comprehensive analysis, at least a rival soul-picture which covers a
+    greater or a different territory should make new places for philosophical reflection. We would like to know what, as moral
+    agents, we have got to do because of logic, what we have got to
+
+=== p. 3 ===
+
+do because of human nature, and what we can choose to do.
+Such a programme is easy to state and perhaps impossible to
+carry out. But even to discover what, under these headings, we
+can achieve certainly demands a much more complex and subtle
+conceptual system than any which we can find readily available.
+   Before going on to consider the problems in philosophy of
+mind which underlie the inarticulate moments of modern ethics
+I should like to say a word about G. E. Moore. Moore is as it were
+the frame of the picture. A great deal has happened since he
+wrote, and when we read him again it is startling to see how
+many of his beliefs are philosophically unstatable now. Moore
+believed that good was a supersensible reality, that it was a mysterious quality, unrepresentable and indefinable, that it was an
+object of knowledge and (implicitly) that to be able to see it was
+in some sense to have it. He thought of the good upon the
+analogy of the beautiful; and he was, in spite of himself, a ‘naturalist’ in that he took goodness to be a real constituent of the
+world. We know how severely and in what respects Moore was
+corrected by his successors. Moore was quite right (it was said)
+to separate the question ‘What does “good” mean?’ from the
+question ‘What things are good?’ though he was wrong to
+answer the second question as well as the first. He was right to
+say that good was indefinable, but wrong to say that it was the
+name of a quality. Good is indefinable because judgments of
+value depend upon the will and choice of the individual. Moore
+was wrong (his critics continue) to use the quasi-aesthetic
+imagery of vision in conceiving the good. Such a view, conceiving the good on the analogy of the beautiful, would seem to
+make possible a contemplative attitude on the part of the moral
+agent, whereas the point about this person is that he is essentially
+and inescapably an agent. The image whereby to understand morality, it is argued, is not the image of vision but the image of
+movement. Goodness and beauty are not analogous but sharply
+contrasting ideas. Good must be thought of, not as part of the
+
+=== p. 4 ===
+
+    world, but as a movable label affixed to the world; for only so can
+    the agent be pictured as responsible and free. And indeed this
+    truth Moore himself half apprehended when he separated the
+    denotation from the connotation of ‘good’. The concept ‘good’
+    is not the name of an esoteric object, it is the tool of every
+    rational man. Goodness is not an object of insight or knowledge,
+    it is a function of the will. Thus runs the correction of Moore;
+    and let me say in anticipation that on almost every point I agree
+    with Moore and not with his critics.
+        The idea that ‘good’ is a function of the will stunned philosophy with its attractiveness, since it solved so many problems
+    at one blow: metaphysical entities were removed, and moral
+    judgments were seen to be, not weird statements, but something
+    much more comprehensible, such as persuasions or commands
+    or rules. The idea has its own obviousness: but it does not
+    depend for its plausibility solely upon its usefulness or upon an
+    appeal to our ordinary knowledge of the moral life. It coheres
+    with a whole moral psychology, much of which has been elaborated more recently. I want now to examine certain aspects of
+    this psychology and to trace it to what I think is its origin and
+    basis in a certain argument of Wittgenstein. First I shall sketch
+    ‘the man’ which this psychology presents us with, then I shall
+    comment on this man’s most important features, and then I shall
+    proceed to consider the radical arguments for such an image.
+        I shall use for my picture of ‘the man’ of modern moral
+    philosophy two works of Professor Hampshire, his book Thought
+    and Action and his lecture Disposition and Memory. Hampshire’s view
+    is, I think, without commanding universal agreement, fairly central and typical, and it has the great merit that it states and
+    elaborates what in many modern moral philosophers is simply
+    taken for granted. Hampshire suggests that we should abandon
+    the image (dear to the British empiricists) of man as a detached
+    observer, and should rather picture him as an object moving
+    among other objects in a continual flow of intention into action.
+
+=== p. 5 ===
+
+Touch and movement, not vision, should supply our metaphors:
+‘Touching, handling and the manipulation of things are misrepresented if we follow the analogy of vision.’ Actions are,
+roughly, instances of moving things about in the public world.
+Nothing counts as an act unless it is a ‘bringing about of a
+recognizable change in the world’. What sorts of things can be
+such recognizable changes? Here we must distinguish between
+‘the things and persons that constitute the external world and
+the sensations and impressions that I or anyone else may from
+moment to moment enjoy’. What is ‘real’ is potentially open to
+different observers. The inner or mental world is inevitably parasitic upon the outer world, it has ‘a parasitic and shadowy
+nature’. The definiteness of any thought process depends upon
+‘the possibility of [its] being recognized, scrutinized and identified by observers from different points of view; this possibility is
+essential to any definite reality’. ‘The play of the mind, free of
+any expression in audible speech or visible action is a reality, as
+the play of shadows is a reality. But any description of it is
+derived from the description of its natural expression in speech
+and action.’ ‘The assent that takes place within the mind and in
+no process of communication when no question has been actually asked and answered is a shadowy assent and a shadowy act.’
+‘Thought cannot be thought, as opposed to day-dreaming or
+musing, unless it is directed towards a conclusion, whether in
+action or in judgement.’ Further: thought and belief are separate
+from will and action. ‘We do try, in ordinary speech and
+thought, to keep the distinction between thought and action as
+definite as possible.’ Thought as such is not action but an introduction to action. ‘That which I do is that for which I am
+responsible and which is peculiarly an expression of myself. It is
+essential to thought that it takes its own forms and follows its
+own paths without my intervention, that is, without the intervention of my will. I identify myself with my will. Thought,
+when it is most pure, is self-directing. . . . Thought begins on its
+
+=== p. 6 ===
+
+    own path, governed by its universal rules, when the preliminary
+    work of the will is done. No process of thought could be punctuated by acts of will, voluntary switchings of attention, and
+    retain its status as a continuous process of thought.’ These are
+    very important assumptions. It will follow from this that a
+    ‘belief’ is not something subject to the will. ‘It seems that I
+    cannot present my own belief in something as an achievement,
+    because, by so presenting it, I would disqualify it as belief.’ These
+    quotations are from Thought and Action, the later part of Chapter
+    Two.
+       In the Ernest Jones lecture, Disposition and Memory, Hampshire
+    does two things: he puts the arguments of Thought and Action more
+    polemically in a nutshell, and he introduces, under the protection of Freud, an idea of ‘personal verification’ which I shall
+    discuss at length below. From Disposition and Memory: ‘Intention is
+    the one concept that ought to be preserved free from any taint of
+    the less than conscious.’ And ‘it is characteristic of mental, as
+    opposed to physical, concepts that the conditions of their application can only be understood if they are analysed genetically’.
+    These are succinct statements of what has already been argued in
+    Thought and Action. Hampshire now gives us in addition a picture
+    of ‘the ideally rational man’. This person would be ‘aware of all
+    his memories as memories. . . . His wishes would be attached to
+    definite possibilities in a definite future. . . . He would . . . distinguish his present situation from unconscious memories of the
+    past . . . and would find his motives for action in satisfying his
+    instinctual needs within the objectively observed features of the
+    situation.’ This ideal man does not exist because the palimpsest
+    of ‘dispositions’ is too hard to penetrate: and this is just as well
+    because ideal rationality would leave us ‘without art, without
+    dream or imagination, without likes or dislikes unconnected
+    with instinctual needs’. In theory, though not in practice, ‘an
+    interminable analysis’ could lay bare the dispositional
+    machinery and make possible a perfect prediction of conduct;
+
+=== p. 7 ===
+
+but Hampshire emphasizes (and this is the main point of the
+lecture) that such ideal knowledge would not take the form of a
+scientific law but would have its basis and its verification in the
+history of the individual. I shall argue later that the very persuasive image with which Hampshire has presented us contains
+incompatible elements. Roughly, there is a conflict between the
+‘logical’ view of the mind and the ‘historical’ view of the mind,
+a conflict which exists partly because logic is still tied to an
+old-fashioned conception of science. But this is to anticipate.
+   I shall find it useful later to define my own view in fairly exact
+section-by-section contrast with Hampshire’s; and as his view is
+rich in detail, extensive quotation has been necessary. As I have
+suggested, Hampshire’s man is to be found more or less
+explicitly lurking behind much that is written nowadays on the
+subject of moral philosophy and indeed also of politics. Hamp-shire has thoroughly explored a background which many
+writers have taken for granted: and for this one is grateful. This
+‘man’, one may add, is familiar to us for another reason: he is the
+hero of almost every contemporary novel. Let us look at his
+characteristics, noting them as yet without discussion. Hamp-shire emphasizes clarity of intention. He says ‘all problems meet
+in intention’, and he utters in relation to intention the only
+explicit ‘ought’ in his psychology. We ought to know what we
+are doing. We should aim at total knowledge of our situation and
+a clear conceptualization of all our possibilities. Thought and
+intention must be directed towards definite overt issues or else
+they are merely day-dream. ‘Reality’ is potentially open to different observers. What is ‘inward’, what lies in between overt
+actions, is either impersonal thought, or ‘shadows’ of acts, or
+else substanceless dream. Mental life is, and logically must be, a
+shadow of life in public. Our personal being is the movement of
+our overtly choosing will. Immense care is taken to picture the
+will as isolated. It is isolated from belief, from reason, from
+feeling, and is yet the essential centre of the self. ‘I identify
+
+=== p. 8 ===
+
+    myself with my will.’ It is separated from belief so that the
+    authority of reason, which manufactures belief; may be entire
+    and so that responsibility for action may be entire as well. My
+    responsibility is a function of my knowledge (which tries to be
+    wholly impersonal) and my will (which is wholly personal).
+    Morality is a matter of thinking clearly and then proceeding to
+    outward dealings with other men.
+       On this view one might say that morality is assimilated to a
+    visit to a shop. I enter the shop in a condition of totally responsible freedom, I objectively estimate the features of the goods,
+    and I choose. The greater my objectivity and discrimination the
+    larger the number of products from which I can select. (A Marx-ist critique of this conception of bourgeois capitalist morals
+    would be apt enough. Should we want many goods in the shop
+    or just ‘the right goods’?) Both as act and reason, shopping is
+    public. Will does not bear upon reason, so the ‘inner life’ is not
+    to be thought of as a moral sphere. Reason deals in neutral
+    descriptions and aims at being the frequently mentioned ideal
+    observer. Value terminology will be the prerogative of the will;
+    but since will is pure choice, pure movement, and not thought
+    or vision, will really requires only action words such as ‘good’ or
+    ‘right’. It is not characteristic of the man we are describing, as he
+    appears either in textbooks or in fiction, to possess an elaborate
+    normative vocabulary. Modern ethics analyses ‘good’, the empty
+    action word which is the correlate of the isolated will, and tends
+    to ignore other value terms. Our hero aims at being a ‘realist’
+    and regards sincerity as the fundamental and perhaps the only
+    virtue.
+       The very powerful image with which we are here presented is
+    behaviourist, existentialist, and utilitarian in a sense which unites
+    these three conceptions. It is behaviourist in its connection of the
+    meaning and being of action with the publicly observable, it is
+    existentialist in its elimination of the substantial self and its
+    emphasis on the solitary omnipotent will, and it is utilitarian in
+
+=== p. 9 ===
+
+its assumption that morality is and can only be concerned with
+public acts. It is also incidentally what may be called a democratic view, in that it suggests that morality is not an esoteric
+achievement but a natural function of any normal man. This
+position represents, to put it in another way, a happy and fruitful marriage of Kantian liberalism with Wittgensteinian logic
+solemnized by Freud. But this also is to anticipate; what confronts us here is in fact complex and difficult to analyse. Let me
+now try to sort out and classify the different questions which
+need to be answered.
+   I find the image of man which I have sketched above both
+alien and implausible. That is, more precisely: I have simple
+empirical objections (I do not think people are necessarily or
+essentially ‘like that’), I have philosophical objections (I do not
+find the arguments convincing), and I have moral objections (I
+do not think people ought to picture themselves in this way). It is
+a delicate and tricky matter to keep these kinds of objections
+separate in one’s mind. Later on I shall try to present my own
+rival picture. But now first of all I want to examine in more detail
+the theory of the ‘inner life’ with which we have been presented.
+One’s initial reaction to this theory is likely to be a strong
+instinctive one: either one will be content with the emphasis on
+the reality of the outer, the absence of the inner, or one will feel
+(as I do) it cannot be so, something vital is missing. And if one
+thinks that somehow or other ‘the inner’ is important one will
+be the more zealous in criticizing the arguments concerning its
+status. Such criticisms may have far-reaching results, since upon
+the question of ‘what goes on inwardly’ in between moments of
+overt ‘movement’ depends our view of the status of choice, the
+meaning of freedom, and the whole problem of the relation of
+will to reason and intellect to desire. I shall now consider what I
+think is the most radical argument, the keystone, of this
+existentialist-behaviourist type of moral psychology: the
+argument to the effect that mental concepts must be analysed
+
+=== p. 10 ===
+
+     genetically and so the inner must be thought of as parasitic upon
+     the outer.
+        This argument is best understood as a special case of a yet
+     more general and by now very familiar argument about the
+     status of what is ‘private’. Our tradition of philosophy, since
+     Descartes until very recently, has been obsessed by an entity
+     which has had various names: the cogitatio, the sense-impression,
+     the sense-datum. This entity, private to each person, was
+     thought of as an appearance about which the owner had infallible
+     and certain knowledge. It was taken by Descartes as the starting
+     point of a famous argument, and was pictured by the British
+     empiricists as an instrument of thought. The conception of the
+     cogitatio or sense-datum, oddly attractive and readily grasped,
+     suggests among other things that what is inward may be private
+     in one of two senses, one a contingent sense and one a logical
+     sense. I can tell you, or refrain from telling you, a secret; but I
+     cannot (logically) show you my sense-data.
+        After a long and varied history this conception has now been
+     largely abandoned by philosophers. The general argument for
+     abandoning it has two prongs. Briefly, the argument against the
+     cogitatio is that (a) such an entity cannot form part of the structure of a public concept, (b) such an entity cannot be introspectively discovered. That is, (a) it’s no use, (b) it isn’t there.
+     The latter point may be further subdivided into an empirical and
+     a logical contention. The empirical contention is that there are
+     very few and pretty hazy introspectabilia, and the logical contention is that there are in any case difficulties about their identification. Of the two moments in the general argument (a) has
+     received more attention than (b), since as (a) has been regarded
+     as knock-down (b) has been treated as subsidiary. If something
+     is no use it does not matter much whether it’s there or not. I
+     shall argue shortly that because something is no use it has been
+     too hastily assumed that something else is not there. But let us
+     first look at the argument in more detail.
+
+=== p. 11 ===
+
+   I said that the argument about mental concepts was a special
+case of the general argument. The general argument is at its most
+felicitous when applied to some simple non-mental concept
+such as ‘red’. ‘Red’ cannot be the name of something private.
+The structure of the concept is its public structure, which is
+established by coinciding procedures in public situations. How
+much success we can have in establishing any given public structure will be an empirical question. The alleged inner thing can
+neither be known (Descartes) nor used (the British empiricists).
+Hume was wrong to worry about the missing shade of blue, not
+because a man could or couldn’t picture it, or that we could or
+couldn’t be persuaded that he had, but because the inner picture
+is necessarily irrelevant and the possession of the concept is a
+public skill. What matters is whether I stop at the traffic lights,
+and not my colour imagery or absence of it. I identify what my
+senses show me by means of the public schemata which I have
+learned, and in no other way can this be known by me, since
+knowledge involves the rigidity supplied by a public test.
+Wittgenstein in the Untersuchungen sums the situation up as follows: ‘If we construe the grammar of the expression of sensation on the model of “object and name”, the object drops
+out of consideration as irrelevant.’
+   This argument, which bears down relentlessly upon the case
+of ‘red’, might seem to be even more relentless in the case of the
+very much more shadowy inner entities which might be supposed to be the ‘objects’ of which mental concepts are ‘names’.
+After all, one might say to oneself in a quasi-nonsensical way,
+my sensation of red does, when I am doing philosophy, look like
+something which I have privately ‘got’; and if I am not allowed
+to ‘keep’ even this clear little thing as my own private datum,
+why should I expect to ‘keep’ the hopelessly hazy inner
+phenomena connected with concepts such as ‘decision’ and
+‘desire’? Surely I should in the latter cases be even happier to rely
+upon the ‘outer’ face of the concept, since the inner one is so
+
+=== p. 12 ===
+
+     vague. Let me clarify this so as to make plain the force of the
+     genetic argument in the case of mental concepts.
+        Wittgenstein of course discusses in this context mental as well
+     as physical concepts. But his discussion is marked by a peculiar
+     reticence. He does not make any moral or psychological generalizations. He limits himself to observing that a mental concept
+     verb used in the first person is not a report about something
+     private, since in the absence of any checking procedure it makes
+     no sense to speak of oneself being either right or mistaken.
+     Wittgenstein is not claiming that inner data are ‘incommunicable’, nor that anything special about human personality follows
+     from their ‘absence’, he is merely saying that no sense can be
+     attached to the idea of an ‘inner object’. There are no ‘private
+     ostensive definitions’. Whether Wittgenstein is right to say that
+     we can attach no sense to the idea of being mistaken about how
+     things seem, and whether any legitimate conclusions about
+     human nature can be drawn from his position I shall consider
+     later. I want now to go on to look at the conclusions which have
+     (not by him) been drawn, and at the developed form of the
+     argument as we find it, with variations, in Hampshire, Hare,
+     Ayer, Ryle and others.
+        As I have said, the argument seems to bear even more strongly
+     in proportion as the alleged inner datum becomes more obviously shadowy and even tends to be irresponsibly absent. In such
+     cases purely empirical considerations (the empirical subdivision
+     of (b) above) are especially strong. I say, ‘Well, I must decide. All
+     right. I’ll go.’ Perhaps nothing introspectible occurs at all? And
+     even if it does that is not the decision. Here we see what is meant
+     by speaking of a genetical analysis. How do I learn the concept
+     of decision? By watching someone who says ‘I have decided’
+     and who then acts. How else could I learn it? And with that
+     I learn the essence of the matter. I do not ‘move on’ from
+     a behaviouristic concept to a mental one. (Since ordinary
+     language, which ‘misleadingly’ connects the mental with the
+
+=== p. 13 ===
+
+inner, straight-forwardly connects the physical with the outer,
+a genetic analysis of physical concepts would not be especially
+revealing.) A decision does not turn out to be, when more
+carefully considered, an introspectible movement. The concept
+has no further inner structure; it is its outer structure. Take an
+even clearer example. How do I distinguish anger from jealousy?
+Certainly not by discriminating between two kinds of private
+mental data. Consider how I learned ‘anger’ and ‘jealousy’. What
+identifies the emotion is the presence not of a particular private
+object, but of some typical outward behaviour pattern. This will
+also imply, be it noted, that we can be mistaken in the names
+which we give to our own mental states.
+   This is the point at which people may begin to protest and cry
+out and say that something has been taken from them. Surely
+there is such a thing as deciding and not acting? Surely there are
+private decisions? Surely there are lots and lots of objects, more or
+less easily identified, in orbit as it were in inner space? It is not,
+as the argument would seem to imply, silent and dark within.
+Philosophers will reply coolly to these protests. Of course a sense
+can be attached to: he decided to but did not. That is, he said he
+would go, and we had reasons to believe that he would, but a
+brick fell on his head. Or, the notion of his going cohered with
+many other things he was doing and saying, and yet he did not
+go. But all this is just as overt, just as little private, as the actual
+carrying out of the decision. And it must be admitted to be,
+when one reflects, difficult to attach sense by any other method
+to the idea of an unfulfilled decision, in our own case just as
+much as in the case of someone else. Are there ‘private’
+decisions? I said some words to myself. But did I really
+decide? To answer that question I examine the context of my
+announcement rather than its private core.
+   However, it will be said, surely there are introspectible objects
+which we can identify? We do have images, talk to ourselves, etc.
+Does the genetic argument imply that these are nothing? Well, it
+
+=== p. 14 ===
+
+     might be answered, let us look at them. One might roughly
+     divide these data in order of shadowiness into visual images,
+     verbal thoughts, other images, other thoughts and feelings
+     which while not exactly verbal or visual seem nevertheless to be
+     ‘entities’. It will be true of all these that I cannot show them to
+     other people. Of course I can to a limited extent describe them, I
+     can describe my imagery or mention words which ‘say’ in my
+     head. I can also give metaphorical descriptions of my states of
+     mind. (Ryle discusses these ‘chronicles’ and ‘histories’ of
+     thought in Aristotelian Society Supplementary Volume 1952). But what
+     does this amount to? These data, vaguer and more infrequent
+     than one might unreflectively suppose, cannot claim to be ‘the
+     thing itself’ of which my uttered thoughts are the report. Note
+     that I offer my descriptions in ordinary public words whose
+     meaning is subject to ordinary public rules. Inner words ‘mean’
+     in the same way as outer words; and I can only ‘know’ my
+     imagery because I know the public things which it is ‘of ’.
+     Public concepts are in this obvious sense sovereign over private
+     objects; I can only ‘identify’ the inner, even for my own benefit, via my knowledge of the outer. But in any case there is no
+     check upon the accuracy of such descriptions, and as Wittgen-stein says, ‘What is this ceremony for?’ Who, except possibly
+     empirical psychologists, is interested in alleged reports of what
+     is purely inward? And psychologists themselves now have grave
+     doubts about the value of such ‘evidence’ from introspection.
+     Whether I am really thinking about so-and-so or deciding suchand-such or feeling angry or jealous or pleased will be properly determined, and can only be determined, by the overt
+     context, however sketchy and embryonic. That I decided to do
+     X will be true if I said sincerely that I was going to and did it,
+     even if nothing introspectible occurred at all. And equally
+     something introspectible might occur, but if the outward
+     context is entirely lacking the something cannot be called a
+     decision. As Wittgenstein puts it, ‘a wheel that can be turned
+
+=== p. 15 ===
+
+though nothing else moves with it is not part of the
+mechanism’.
+   These radical arguments are, it seems to me, perfectly sound
+over a certain range. They really do clearly and definitively solve
+certain problems which have beset British empiricism. By destroying the misleading image of the infallible inner eye they
+make possible a much improved solution of, for instance, problems about perception and about universals. A great deal that
+was, in Hume and Berkeley, repugnant to common sense can
+now be cleared away. But, as I have said, while Wittgenstein
+remains sphinx-like in the background, others have hastened to
+draw further and more dubious moral and psychological conclusions. Wittgenstein has created a void into which neo-Kantianism, existentialism, utilitarianism have made haste to
+enter. And notice how plausibly the arguments, their prestige
+enhanced from undoubted success in other fields, seem to support, indeed to impose, the image of personality which I have
+sketched above. As the ‘inner life’ is hazy, largely absent, and any
+way ‘not part of the mechanism’, it turns out to be logically
+impossible to take up an idle contemplative attitude to the good.
+Morality must be action since mental concepts can only be ana-lysed genetically. Metaphors of movement and not vision seem
+obviously appropriate. Morality, with the full support of logic,
+abhors the private. Salvation by works is a conceptual necessity.
+What I am doing or being is not something private and personal,
+but is imposed upon me in the sense of being identifiable only
+via public concepts and objective observers. Self-knowledge is
+something which shows overtly. Reasons are public reasons,
+rules are public rules. Reason and rule represent a sort of
+impersonal tyranny in relation to which however the personal
+will represents perfect freedom. The machinery is relentless, but
+until the moment of choice the agent is outside the machinery.
+Morality resides at the point of action. What I am ‘objectively’ is
+not under my control; logic and observers decide that. What I
+
+=== p. 16 ===
+
+     am ‘subjectively’ is a foot-loose, solitary, substanceless will.
+     Personality dwindles to a point of pure will.
+        Now it is not at all easy to mount an attack upon this heavily
+     fortified position; and, as I say, temperament will play its part in
+     determining whether or not we want to attack or whether we are
+     content. I am not content. Let me start cautiously to suggest an
+     alternative view, taking however for a rubric the warning words
+     of Wittgenstein: ‘Being unable—when we surrender ourselves
+     to philosophical thought—to help saying such-and-such; being
+     irresistibly inclined to say it—does not mean being forced into
+     an assumption, or having an immediate perception or knowledge
+     of a state of affairs.’
+        For purposes of the rest of this discussion it will be useful to
+     have an example before us: some object which we can all more
+     or less see, and to which we can from time to time refer. All sorts
+     of different things would do for this example, and I was at first
+     tempted to take a case of ritual for instance a religious ritual
+     wherein the inner consent appears to be the real act. Ritual: an
+     outer framework which both occasions and identifies an inner
+     event. It can be argued that I make a promise by uttering the
+     words ‘I promise’: a performative utterance. But do I, in a
+     religious context, repent by sincerely uttering the words ‘I
+     repent’, am I ‘heartily sorry’ simply by saying in an appropriate
+     situation that I am heartily sorry? Is this so even if I then
+     amend my life? This is not so clear and is indeed a difficult and
+     interesting question. I decided however not to take a religious
+     example, which might be felt to raise special difficulties, but to
+     take something more ordinary and everyday. So here is the
+     example.
+        A mother, whom I shall call M, feels hostility to her daughterin-law, whom I shall call D. M finds D quite a good-hearted girl,
+     but while not exactly common yet certainly unpolished and
+     lacking in dignity and refinement. D is inclined to be pert
+     and familiar, insufficiently ceremonious, brusque, sometimes
+
+=== p. 17 ===
+
+positively rude, always tiresomely juvenile. M does not like D’s
+accent or the way D dresses. M feels that her son has married
+beneath him. Let us assume for purposes of the example that the
+mother, who is a very ‘correct’ person, behaves beautifully to the
+girl throughout, not allowing her real opinion to appear in any
+way. We might underline this aspect of the example by supposing that the young couple have emigrated or that D is now dead:
+the point being to ensure that whatever is in question as happening
+happens entirely in M’s mind.
+   Thus much for M’s first thoughts about D. Time passes, and it
+could be that M settles down with a hardened sense of grievance
+and a fixed picture of D, imprisoned (if I may use a question-begging word) by the cliché: my poor son has married a silly
+vulgar girl. However, the M of the example is an intelligent and
+well-intentioned person, capable of self-criticism, capable of giving careful and just attention to an object which confronts her. M
+tells herself: ‘I am old-fashioned and conventional. I may be
+prejudiced and narrow-minded. I may be snobbish. I am certainly jealous. Let me look again.’ Here I assume that M observes
+D or at least reflects deliberately about D, until gradually her
+vision of D alters. If we take D to be now absent or dead this can
+make it clear that the change is not in D’s behaviour but in M’s
+mind. D is discovered to be not vulgar but refreshingly simple,
+not undignified but spontaneous, not noisy but gay, not tiresomely juvenile but delightfully youthful, and so on. And as I
+say, ex hypothesi, M’s outward behaviour, beautiful from the start,
+in no way alters.
+   I used above words such as ‘just’ and ‘intelligent’ which
+implied a favourable value judgment on M’s activity: and I want
+in fact to imagine a case where one would feel approval of M’s
+change of view. But of course in real life, and this is of interest, it
+might be very hard to decide whether what M was doing was
+proper or not, and opinions might differ. M might be moved by
+various motives: a sense of justice, attempted love for D, love for
+
+=== p. 18 ===
+
+     her son, or simply reluctance to think of him as unfortunate or
+     mistaken. Some people might say ‘she deludes herself ’ while
+     others would say she was moved by love or justice. I am picturing a case where I would find the latter description appropriate.
+        What happens in this example could of course be described in
+     other ways. I have chosen to describe it simply in terms of the
+     substitution of one set of normative epithets for another. It could
+     also be described, for instance, in terms of M’s visual imagery, or
+     in simple or complex metaphors. But let us consider now what
+     exactly ‘it’ is which is being described. It may be argued that
+     there is nothing here which presents any special difficulty. For
+     purposes of moral judgment we may define ‘actions’ in various
+     ways. One way in this case would be to say that M decided to
+     behave well to D and did so; and M’s private thoughts will be
+     unimportant and morally irrelevant. If however it is desired to
+     include in the list of M’s moral acts more than her overt
+     behaviour shows, one will have to ask of the extra material: in
+     what sense ‘moral’ and in what sense ‘acts’? Of course if M’s
+     reflections were the prologue to different outer acts, then the
+     reflections might be allowed to ‘belong’ to the acts as their
+     ‘shadows’ and gain from them their identity and their importance: though the difficulty of discerning the inward part and
+     connecting it with the outer as a condition of the latter could
+     still be considerable. But what are we to say in the present case?
+        Hampshire tells us: ‘Thought cannot be thought as opposed to
+     day-dreaming or musing, unless it is directed towards a conclusion, whether in action or in judgement. . . . The idea of thought
+     as an interior monologue . . . will become altogether empty if
+     the thought does not even purport to be directed towards its
+     issue in the external world. . . . Under these conditions thought
+     and belief would not differ from the charmed and habitual
+     rehearsal of phrases or the drifting of ideas through the mind.’
+     Let us exclude from this discussion something which might at
+     this point try to enter it, which is the eye of God. If M’s mental
+
+=== p. 19 ===
+
+events are not to depend for being and importance upon this
+metaphysical witness, do we want to, and if so how can we,
+rescue them from the fate of being mere nothings, at best
+describable as day-dreams?
+   It would be possible of course to give a hypothetical status to M’s
+inner life, as follows. ‘M’s vision of D has altered means that if M
+were to speak her mind about D now she would say different
+things from the things she would have said three years ago.’ This
+analysis avoids some difficulties but, like phenomenalism,
+encounters others. The truth of the hypothetical proposition
+could be consistent with nothing in the interim having occurred
+in M’s mind at all. And of course a change of mind often does
+take the form of the simple announcement of a new view without any introspectible material having intervened. But here ex
+hypothesi there is at least something introspectible which has
+occurred, however hazy this may be, and it is the status of this
+which is in question. At any rate the idea which we are trying to
+make sense of is that M has in the interim been active, she has
+been doing something, something which we approve of, something which is somehow worth doing in itself. M has been
+morally active in the interim: this is what we want to say and
+to be philosophically permitted to say.
+   At this point the defender of what I have called the
+existentialist-behaviourist view may argue as follows. All right.
+Either M has no introspectible material, in which case since M’s
+conduct is constant it is hard to see what could be meant by
+saying that she had changed her mind, other than saying that a
+hypothetical proposition is true which no one could know to be
+true; or else M has introspectible material and let us see what this
+might be like. M may imagine saying things to D, may verbally
+describe D in her mind, may brood on visual images of D. But
+what do these goings-on mean? What is to count here as serious
+judgment as opposed to ‘the charmed and habitual rehearsal of
+phrases?’ M’s introspectabilia are likely on examination to prove
+
+=== p. 20 ===
+
+     hazy and hard to describe; and even if (at best) we imagine M as
+     making clear verbal statements to herself, the identity and meaning of these statements is a function of the public world. She can
+     only be thought of as ‘speaking’ seriously, and not parrot-like, if
+     the outer context logically permits.
+        The point can also be made, it may be said in parenthesis, that
+     the identity of inward thoughts is established via the public
+     meaning of the symbolism used in thinking. (See, e.g., Ayer,
+     Thinking and Meaning.) This should refute claims to ‘ineffable
+     experience’, etc. Philosophers have more recently chosen to
+     emphasize the ‘shadow’ view, that is to consider the particular
+     sense of the thought via context rather than the general sense of
+     the thought via symbols. But I think the points are worth separating. They represent two complementary pictures of the ‘self’ or
+     ‘will’ as outside the network of logical rules, free to decide
+     where to risk its tyranny, but thereafter caught in an impersonal
+     complex. I can decide what to say but not what the words mean
+     which I have said. I can decide what to do but I am not master of
+     the significance of my act.
+        Someone who says privately or overtly ‘I have decided’ but
+     who never acts, however favourable the circumstances (the
+     existentialist-behaviourist argument continues), has not
+     decided. Private decisions which precede public actions may be
+     thought of as the ‘shadow’ of the act, gaining their title from
+     being part of a complex properly called ‘decision’: though even
+     here the term ‘decision’ if applied to the inner part only would
+     be a courtesy title since there is no check upon the nature or
+     existence of the inner part and its connection with the outer.
+     Still, that is the situation in which we innocuously and popularly
+     speak of ‘private decisions’ or ‘inner acts’, i.e., where some kind
+     of outer structure is present and we may if we like picture,
+     perhaps we naturally picture, an inner piece too. In M’s case,
+     however, since there is no outward alteration of structure to
+     correspond to an alleged inner change, no sequence of outer
+
+=== p. 21 ===
+
+events of which the inner can claim to be shadows, it is dubious
+whether any sense can be given here to the idea of ‘activity’. The
+attempted categorical sense of M’s inner progress has to fall back
+on the hypothetical sense mentioned above. And the hypothetical proposition cannot be known to be true, even by M, and
+could be true without anything happening in M’s mind at all. So
+the idea of M as inwardly active turns out to be an empty one.
+There is only outward activity, ergo only outward moral activity,
+and what we call inward activity is merely the shadow of this
+cast back into the mind. And, it may be bracingly added, why
+worry? As Kant said, what we are commanded to do is to love
+our neighbour in a practical and not a pathological sense.
+   This is one of those exasperating moments in philosophy
+when one seems to be being relentlessly prevented from saying
+something which one is irresistibly impelled to say. And of
+course, as Wittgenstein pointed out, the fact that one is irresistibly impelled to say it need not mean that anything else is the case.
+Let us tread carefully here. In reacting against the above analysis
+there is certainly one thing which I do not wish to maintain, and
+that is that we have infallible or superior knowledge of our mental states. We can be mistaken about what we think and feel: that
+is not in dispute, and indeed it is a strength of the behaviourist
+analysis that it so neatly accommodates this fact. What is at stake
+is something different, something about activity in a sense which
+does not mean privileged activity.
+   Let me try in a rough ordinary way and as yet without justification to say what I take to be, in spite of the analysis, the case
+about M: a view which is not congruent with the analysis and
+which if true shows that the analysis cannot be correct. The
+analysis pictures M as defined ‘from the outside in’: M’s individuality lies in her will, understood as her ‘movements’. The
+analysis makes no sense of M as continually active, as making
+progress, or of her inner acts as belonging to her or forming part
+of a continuous fabric of being: it is precisely critical of
+
+=== p. 22 ===
+
+     metaphors such as ‘fabric of being’. Yet can we do without such
+     metaphors here? Further, is not the metaphor of vision almost
+     irresistibly suggested to anyone who, without philosophical
+     prejudice, wishes to describe the situation? Is it not the natural
+     metaphor? M looks at D, she attends to D, she focuses her attention. M is engaged in an internal struggle. She may for instance
+     be tempted to enjoy caricatures of D in her imagination. (There is
+     curiously little place in the other picture for the idea of struggle.)
+     And M’s activity here, so far from being something very odd
+     and hazy, is something which, in a way, we find exceedingly
+     familiar. Innumerable novels contain accounts of what such
+     struggles are like. Anybody could describe one without being at
+     a loss for words. This activity, as I said, could be described in a
+     variety of ways, but one very natural way is by the use of specialized normative words, what one might call the secondary moral
+     words in contrast to the primary and general ones such as
+     ‘good’. M stops seeing D as ‘bumptious’ and sees her as ‘gay’,
+     etc. I shall comment later upon the importance of these secondary words. Further again, one feels impelled to say something
+     like: M’s activity is peculiarly her own. Its details are the details of
+     this personality; and partly for this reason it may well be an
+     activity which can only be performed privately. M could not do
+     this thing in conversation with another person. Hampshire says
+     that ‘anything which is to count as a definite reality must be
+     open to several observers’. But can this quasi-scientific notion of
+     individuation through unspecified observers really be applied to
+     a case like this? Here there is an activity but no observers; and if
+     one were to introduce the idea of potential observers the question of their competence would still arise. M’s activity is hard to
+     characterize not because it is hazy but precisely because it is moral.
+     And with this, as I shall shortly try to explain, we are coming
+     near to the centre of the difficulty.
+        What M is ex hypothesi attempting to do is not just to see D
+     accurately but to see her justly or lovingly. Notice the rather
+
+=== p. 23 ===
+
+different image of freedom which this at once suggests. Freedom
+is not the sudden jumping of the isolated will in and out of an
+impersonal logical complex, it is a function of the progressive
+attempt to see a particular object clearly. M’s activity is essentially something progressive, something infinitely perfectible. So
+far from claiming for it a sort of infallibility, this new picture has
+built in the notion of a necessary fallibility. M is engaged in an
+endless task. As soon as we begin to use words such as ‘love’ and
+‘justice’ in characterizing M, we introduce into our whole conceptual picture of her situation the idea of progress, that is the
+idea of perfection: and it is just the presence of this idea which
+demands an analysis of mental concepts which is different from
+the genetic one.
+   I am now inclined to think that it is pointless, when faced
+with the existentialist-behaviourist picture of the mind, to go on
+endlessly fretting about the identification of particular inner
+events, and attempting to defend an account of M as ‘active’ by
+producing, as it were, a series of indubitably objective little
+things. ‘Not a report’ need not entail ‘not an activity’. But to
+elaborate this what is needed is some sort of change of key, some
+moving of the attack to a different front. Let us consider for a
+moment the apparently so plausible idea of identity as dependent upon observers and rules, an idea which leads on directly to
+the genetic analysis of mental concepts. This is really red if
+several people agree about the description, indeed this is what
+being really red means. He really decided, roughly, if people
+agree that he kept the rules of the concept ‘decide’. To decide
+means to keep these rules and the agent is not the only judge.
+Actions are ‘moving things about in the public world’, and
+what these movements are objective observers are actually and
+potentially at hand to decide.
+   Wittgenstein, as I have said, does not apply this idea to moral
+concepts, nor discuss its relation to mental concepts in so far as
+these form part of the sphere of morality. (That mental concepts
+
+=== p. 24 ===
+
+     enter the sphere of morality is, for my argument, precisely the
+     central point.) But no limit is placed upon the idea either; and I
+     should like to place a limit. What has enabled this idea of identification to go too far is partly, I think, an uncriticized conception
+     of science which has taken on where Hume left off.
+        Hume pictured a manifold of atoms, hard little indubitable
+     sense-data or appearances, whose ‘subsequent’ arrangement
+     provided the so-called material world. The Copernican Revolution of modern philosophy (‘You can’t have “knowledge” of
+     “appearances” ’) removes the notion of certainty from the inside
+     to the outside: public rules now determine what is certain. It
+     may still be disputed whether one cannot sometimes give a sense
+     to ‘being mistaken about an appearance’. There is certainly an
+     area for discussion here, but this discussion has never become a
+     very radical one. It has remained within the general terms of the
+     revolution; and although it would be impossible to dispute the
+     importance of that revolution it has nevertheless been so far in
+     effect a continuation of Hume by other means. (The work of
+     J. L. Austin for instance is a detailed and brilliant exorcism
+     of the notion of the sense-impression. Yet by substituting an
+     impersonal language-world for the old impersonal atom-world
+     of Hume and Russell he in a way ‘saves’ the latter.) What the
+     philosopher is trying to characterize, indeed to justify, is still
+     the idea of an impersonal world of facts: the hard objective
+     world out of which the will leaps into a position of isolation.
+     What defines and constitutes fact has been removed from one
+     place to another, but the radical idea of ‘fact’ remains much the
+     same. Logic (impersonal rules) here obliges science with a
+     philosophical model.
+        What makes difficulties for this model is the conception of
+     persons or individuals, a conception inseparable from morality.
+     The whole vocabulary, so profoundly familiar to us, of ‘appearance’ and ‘reality’, whether as used by the old British empiricists
+     or by modern empiricism, is blunt and crude when applied to
+
+=== p. 25 ===
+
+the human individual. Consider for instance the case of a man
+trying privately to determine whether something which he
+‘feels’ is repentance or not. Of course this investigation is subject
+to some public rules, otherwise it would not be this investigation: and there could be doubts or disputes about whether it is
+this investigation. But these apart, the activity in question must
+remain a highly personal one upon which the prise of ‘the
+impersonal world of language’ is to say the least problematic: or
+rather it is an activity which puts in question the existence of
+such an impersonal world. Here an individual is making a specialized personal use of a concept. Of course he derives the concept initially from his surroundings; but he takes it away into his
+privacy. Concepts of this sort lend themselves to such uses; and
+what use is made of them is partly a function of the user’s history.
+Hume and Kant, the two patron saints of modern philosophy,
+abhor history, each in his own way, and abhor the particular
+notion of privacy which history implies. A certain conception of
+logic and a certain conception of science also abhor history.
+   But once the historical individual is ‘let in’ a number of things
+have to be said with a difference. The idea of ‘objective reality’,
+for instance, undergoes important modifications when it is to be
+understood, not in relation to ‘the world described by science’,
+but in relation to the progressing life of a person. The active
+‘reassessing’ and ‘redefining’ which is a main characteristic of
+live personality often suggests and demands a checking procedure which is a function of an individual history. Repentance
+may mean something different to an individual at different times
+in his life, and what it fully means is a part of this life and cannot
+be understood except in context.
+   There is of course a ‘science’ which concerns itself especially
+with the history of the individual: psychoanalysis. And with a
+determination at all costs not to part company with a scientific
+conception of ‘the objective’ it is to psycho-analysis that
+Professor Hampshire finally appeals: he very properly lets in the
+
+=== p. 26 ===
+
+     historical individual, but hopes to keep him by this means upon
+     a lead. Hampshire reads in an impersonal background to the
+     individual’s checking procedure with the help of the notion of
+     an ideal analysis. The analyst is pictured as somehow ‘there’, as
+     the ultimate competent observer playing the part of the eye of
+     God. Hampshire allows that it is possible in theory though not in
+     practice to ‘approach complete explanations of inclination and
+     behaviour in any individual case through an interminable analysis’. But why should some unspecified psychoanalyst be the
+     measure of all things? Psychoanalysis is a muddled embryonic
+     science, and even if it were not there is no argument that I know
+     of that can show us that we have got to treat its concepts as
+     fundamental. The notion of an ‘ideal analysis’ is a misleading
+     one. There is no existing series the extension of which could
+     lead to such an ideal. This is a moral question; and what is at stake
+     here is the liberation of morality, and of philosophy as a study of
+     human nature, from the domination of science: or rather from
+     the domination of inexact ideas of science which haunt philosophers and other thinkers. Because of the lack until fairly
+     recently of any clear distinction between science and philosophy
+     this issue has never presented itself so vividly before. Philosophy
+     in the past has played the game of science partly because it
+     thought it was science.
+        Existentialism, in both its Continental and its Anglo-Saxon
+     versions, is an attempt to solve the problem without really facing
+     it: to solve it by attributing to the individual an empty lonely
+     freedom, a freedom, if he wishes, to ‘fly in the face of the facts’.
+     What it pictures is indeed the fearful solitude of the individual
+     marooned upon a tiny island in the middle of a sea of scientific
+     facts, and morality escaping from science only by a wild leap of
+     the will. But our situation is not like this. To put it simply and in
+     terms of the example which we have considered of M and her
+     daughter-in-law: even if M were given a full psychoanalytical
+     explanation of her conduct to D she need not be confined by
+
+=== p. 27 ===
+
+such an explanation. This is not just because M has a senseless
+petulant freedom which enables her to be blind, nor is it just
+because (the more subtle view favoured by Hampshire) she is
+then enabled to redeploy her psychic forces on a ground of
+greater knowledge. It is because M is not forced to adopt these
+concepts at all, in preference say to any particular set of moral or
+religious concepts. Science can instruct morality at certain points
+and can change its direction, but it cannot contain morality, nor
+ergo moral philosophy. The importance of this issue can more
+easily be ignored by a philosophy which divorces freedom and
+knowledge, and leaves knowledge (via an uncriticized idea of
+‘impersonal reasons’) in the domain of science. But M’s
+independence of science and of the ‘world of facts’ which
+empiricist philosophy has created in the scientific image rests
+not simply in her moving will but in her seeing knowing mind.
+Moral concepts do not move about within a hard world set up by
+science and logic. They set up, for different purposes, a different
+world.
+   Let me try now to explain more positively what it is about
+moral concepts which puts them entirely out of relation with the
+behaviourist view with its genetic explanation of mental phenomena. I want here to connect two ideas: the idea of the individual and the idea of perfection. Love is knowledge of the
+individual. M confronted with D has an endless task. Moral tasks
+are characteristically endless not only because ‘within’, as it
+were, a given concept our efforts are imperfect, but also because
+as we move and as we look our concepts themselves are changing. To speak here of an inevitable imperfection, or of an ideal
+limit of love or knowledge which always recedes, may be taken
+as a reference to our ‘fallen’ human condition, but this need be
+given no special dogmatic sense. Since we are neither angels nor
+animals but human individuals, our dealings with each other
+have this aspect; and this may be regarded as an empirical fact or,
+by those who favour such terminology, as a synthetic a priori truth.
+
+=== p. 28 ===
+
+        The entry into a mental concept of the notion of an ideal limit
+     destroys the genetic analysis of its meaning. (Hampshire allowed
+     the idea of perfection to touch one concept only, that of intention: but he tried to save this concept from morality by making
+     the ideal limit a scientific one.) Let us see how this is. Is ‘love’ a
+     mental concept, and if so can it be analysed genetically? No
+     doubt Mary’s little lamb loved Mary, that is it followed her to
+     school; and in some sense of ‘learn’ we might well learn the
+     concept, the word, in that context. But with such a concept that
+     is not the end of the matter. (Nor indeed the beginning either.)
+     Words may mislead us here since words are often stable while
+     concepts alter; we have a different image of courage at forty from
+     that which we had at twenty. A deepening process, at any rate an
+     altering and complicating process, takes place. There are two
+     senses of ‘knowing what a word means’, one connected with
+     ordinary language and the other very much less so. Knowledge
+     of a value concept is something to be understood, as it were, in
+     depth, and not in terms of switching on to some given
+     impersonal network. Moreover, if morality is essentially connected with change and progress, we cannot be as democratic
+     about it as some philosophers would like to think. We do not
+     simply, through being rational and knowing ordinary language,
+     ‘know’ the meaning of all necessary moral words. We may have
+     to learn the meaning; and since we are human historical individuals the movement of understanding is onward into increasing privacy, in the direction of the ideal limit, and not back
+     towards a genesis in the rulings of an impersonal public
+     language.
+        None of what I am saying here is particularly new: similar
+     things have been said by philosophers from Plato onward; and
+     appear as commonplaces of the Christian ethic, whose centre is
+     an individual. To come nearer home in the Platonic tradition, the
+     present dispute is reminiscent of the old arguments about
+     abstract and concrete universals. My view might be put by
+
+=== p. 29 ===
+
+saying: moral terms must be treated as concrete universals. And
+if someone at this point were to say, well, why stop at moral
+concepts, why not claim that all universals are concrete, I would
+reply, why not indeed? Why not consider red as an ideal endpoint, as a concept infinitely to be learned, as an individual
+object of love? A painter might say, ‘You don’t know what “red”
+means.’ This would be, by a counter-attack, to bring the idea of
+value, which has been driven by science and logic into a corner,
+back to cover the whole field of knowledge. But this would be
+part of a different argument and is not my concern here. Perhaps
+all concepts could be considered in this way: all I am now
+arguing is that some concepts must be.
+   In suggesting that the central concept of morality is ‘the individual’ thought of as knowable by love, thought of in the light of
+the command, ‘Be ye therefore perfect’, I am not, in spite of the
+philosophical backing which I might here resort to, suggesting
+anything in the least esoteric. In fact this would, to the ordinary
+person, be a very much more familiar image than the existentialist one. We ordinarily conceive of and apprehend goodness in
+terms of virtues which belong to a continuous fabric of being.
+And it is just the historical, individual, nature of the virtues as
+actually exemplified which makes it difficult to learn goodness
+from another person. It is all very well to say that ‘to copy a right
+action is to act rightly’ (Hampshire, Logic and Appreciation), but
+what is the form which I am supposed to copy? It is a truism of
+recent philosophy that this operation of discerning the form is
+fairly easy, that rationality in this simple sense is a going concern. And of course for certain conventional purposes it is. But it
+is characteristic of morals that one cannot rest entirely at the
+conventional level, and that in some ways one ought not to.
+   We might consider in this context the ambiguity of Kant’s
+position in the Grundlegung, where he tells us that when confronted with the person of Christ we must turn back to the
+pattern of rationality in our own bosoms and decide whether or
+
+=== p. 30 ===
+
+     not we approve of the man we see. Kant is often claimed as a
+     backer of the existentialist view: and these words may readily be
+     taken to advocate that return to self, that concern with the purity
+     of the solitary will, which is favoured by all brands of existentialism. Here I stand alone, in total responsibility and freedom, and
+     can only properly and responsibly do what is intelligible to me,
+     what I can do with a clear intention. But it must be remembered
+     that Kant was a ‘metaphysical naturalist’ and not an existentialist.
+     Reason itself is for him an ideal limit: indeed his term ‘Idea of
+     Reason’ expresses precisely that endless aspiration to perfection
+     which is characteristic of moral activity. His is not the ‘achieved’
+     or ‘given’ reason which belongs with ‘ordinary language’ and
+     convention, nor is his man on the other hand totally unguided
+     and alone. There exists a moral reality, a real though infinitely
+     distant standard: the difficulties of understanding and imitating
+     remain. And in a way it is perhaps a matter of tactics and temperament whether we should look at Christ or at Reason. Kant
+     was especially impressed by the dangers of blind obedience to a
+     person or an institution. But there are (as the history of existentialism shows) just as many dangers attaching to the ambiguous
+     idea of finding the ideal in one’s own bosom. The argument for
+     looking outward at Christ and not inward at Reason is that self is
+     such a dazzling object that if one looks there one may see nothing
+     else. But as I say, so long as the gaze is directed upon the ideal the
+     exact formulation will be a matter of history and tactics in a
+     sense which is not rigidly determined by religious dogma, and
+     understanding of the ideal will be partial in any case. Where
+     virtue is concerned we often apprehend more than we clearly
+     understand and grow by looking.
+        Let me suggest in more detail how I think this process actually
+     happens. This will I hope enable me to clarify the status of the
+     view I hold and to relate it to linguistic philosophy in particular.
+     I have spoken of a process of deepening or complicating, a process of learning, a progress, which may take place in moral
+
+=== p. 31 ===
+
+concepts in the dimension which they possess in virtue of their
+relation to an ideal limit. In describing the example of M and her
+daughter-in-law I drew attention to the important part played by
+the normative-descriptive words, the specialized or secondary
+value words. (Such as ‘vulgar’, ‘spontaneous’, etc.) By means of
+these words there takes place what we might call ‘the siege of the
+individual by concepts’. Uses of such words are both instruments and symptoms of learning. Learning takes place when
+such words are used, either aloud or privately, in the context of
+particular acts of attention. (M attending to D.) This is a point to
+be emphasized. That words are not timeless, that word-utterances are historical occasions, has been noted by some
+philosophers for some purposes. (Strawson notes it when attacking the Theory of Descriptions.) But the full implications of this
+fact, with its consequences for the would-be timeless image of
+reason, have not, in our modern philosophy, been fully drawn.
+As Plato observes at the end of the Phaedrus, words themselves do
+not contain wisdom. Words said to particular individuals at particular times may occasion wisdom. Words, moreover, have both
+spatio-temporal and conceptual contexts. We learn through
+attending to contexts, vocabulary develops through close attention to objects, and we can only understand others if we can to
+some extent share their contexts. (Often we cannot.) Uses of
+words by persons grouped round a common object is a central
+and vital human activity. The art critic can help us if we are in
+the presence of the same object and if we know something about
+his scheme of concepts. Both contexts are relevant to our ability
+to move towards ‘seeing more’, towards ‘seeing what he sees’.
+Here, as so often, an aesthetic analogy is helpful for morals. M
+could be helped by someone who both knew D and whose
+conceptual scheme M could understand or in that context begin
+to understand. Progress in understanding of a scheme of concepts often takes place as we listen to normative-descriptive talk
+in the presence of a common object. I have been speaking, in
+
+=== p. 32 ===
+
+     relation to our example, of progress or change for the better, but
+     of course such change (and this is more commonly to be
+     observed) may also be for the worse. Everyday conversation is
+     not necessarily a morally neutral activity and certain ways of
+     describing people can be corrupting and wrong. A smart set of
+     concepts may be a most efficient instrument of corruption. It is
+     especially characteristic of normative words, both desirable and
+     undesirable, to belong to sets or patterns without an appreciation of which they cannot be understood. If a critic tells us that
+     a picture has ‘functional colour’ or ‘significant form’ we need to
+     know not only the picture but also something about his general
+     theory in order to understand the remark. Similarly, if M says D
+     is ‘common’, although the term does not belong to a technical
+     vocabulary, this use of it can only be fully understood if we
+     know not only D but M.
+         This dependence of language upon contexts of attention has
+     consequences. Language is far more idiosyncratic than has been
+     admitted. Reasons are not necessarily and qua reasons public.
+     They may be reasons for a very few, and none the worse for that.
+     ‘I can’t explain. You’d have to know her.’ If the common object
+     is lacking, communication may break down and the same words
+     may occasion different results in different hearers. This may
+     seem on reflection very obvious; but philosophy is often a matter of finding a suitable context in which to say the obvious.
+     Human beings are obscure to each other, in certain respects
+     which are particularly relevant to morality, unless they are
+     mutual objects of attention or have common objects of attention,
+     since this affects the degree of elaboration of a common vocabulary. We develop language in the context of looking: the metaphor of vision again. The notion of privileged access to inner
+     events has been held morally suspect because, among other
+     things, it would separate people from ‘the ordinary world of
+     rational argument’. But the unavoidable contextual privacy of
+     language already does this, and except at a very simple and
+
+=== p. 33 ===
+
+conventional level of communication there is no such ordinary
+world. This conclusion is feared and avoided by many moralists
+because it seems inimical to the operation of reason and because
+reason is construed on a scientific model. Scientific language
+tries to be impersonal and exact and yet accessible for purposes
+of teamwork; and the degree of accessibility can be decided in
+relation to definite practical goals. Moral language which relates
+to a reality infinitely more complex and various than that of
+science is often unavoidably idiosyncratic and inaccessible.
+   Words are the most subtle symbols which we possess and our
+human fabric depends on them. The living and radical nature of
+language is something which we forget at our peril. It is totally
+misleading to speak, for instance, of ‘two cultures’, one literary-humane and the other scientific, as if these were of equal status.
+There is only one culture, of which science, so interesting and so
+dangerous, is now an important part. But the most essential and
+fundamental aspect of culture is the study of literature, since this
+is an education in how to picture and understand human situations. We are men and we are moral agents before we are scientists, and the place of science in human life must be discussed in
+words. This is why it is and always will be more important to
+know about Shakespeare than to know about any scientist: and if
+there is a ‘Shakespeare of science’ his name is Aristotle.
+   I have used the word ‘attention’, which I borrow from
+Simone Weil, to express the idea of a just and loving gaze
+directed upon an individual reality. I believe this to be the characteristic and proper mark of the active moral agent. ‘Characteristic’ and ‘proper’ suggest in turn a logical and a normative
+claim; and I shall discuss below how far what I say is to be taken
+as recommendation and how far as description. In any case a
+theory, whether normative or logical, is the more attractive the
+more it explains, the more its structure may be seen as underlying things which are familiar to us in ordinary life. I want now
+to go on to argue that the view I am suggesting offers a more
+
+=== p. 34 ===
+
+     satisfactory account of human freedom than does the existentialist view. I have classified together as existentialist both philosophers such as Sartre who claim the title, and philosophers such
+     as Hampshire, Hare, Ayer, who do not. Characteristic of both is
+     the identification of the true person with the empty choosing
+     will, and the corresponding emphasis upon the idea of movement rather than vision. This emphasis will go with the anti-naturalistic bias of existentialism. There is no point in talking of
+     ‘moral seeing’ since there is nothing morally to see. There is no
+     moral vision. There is only the ordinary world which is seen
+     with ordinary vision, and there is the will that moves within it.
+     What may be called the Kantian wing and the Surrealist wing of
+     existentialism may be distinguished by the degree of their
+     interest in reasons for action, which diminishes to nothing at the
+     Surrealist end.
+        Our British philosophers are of course very interested in
+     reasons, emphasizing, as I have said, the accessibility, the non-esoteric nature of moral reasoning. But the production of such
+     reasons, it is argued (and this is indeed the point of emphasizing
+     their impersonal character), does not in any way connect or tie
+     the agent to the world or to special personal contexts within the
+     world. He freely chooses his reasons in terms of, and after surveying, the ordinary facts which lie open to everyone: and he
+     acts. This operation, it is argued, is the exercise of freedom. This
+     image of man as a highly conscious self-contained being is
+     offered by some philosophers as a donné and by others, e.g.
+     Hampshire, as a norm; although Hampshire is careful to give the
+     norm a scientific background.
+        Let us now ask quite simply if this is realistic, if this is what, in
+     our experience, moral choice is like. It might seem at first that
+     the existentialists have an advantage in that they do account for a
+     peculiar feature of moral choice, which is the strange emptiness
+     which often occurs at the moment of choosing. Of course
+     choices happen at various levels of consciousness, importance,
+
+=== p. 35 ===
+
+and difficulty. In a simple easy unimportant choice there is no
+need to regard ‘what goes on’ as anything beyond the obvious
+sequence of reason, decision, action, or just reason, action; and
+such choices may properly be regarded as ‘impersonal’. ‘Shall I
+go? Oh yes, I promised to.’ I receive my bill and I pay it. But
+difficult and painful choices often present this experience of
+void of which so much has been made: this sense of not being
+determined by the reasons. This sensation is hailed with delight
+by both wings of existentialism. The Kantian wing claims it as
+showing that we are free in relation to the reasons and the Surrealist wing claims it as showing that there are no reasons.
+Indeed this experience of emptiness seems perfectly to verify the
+notion that freedom is simply the movement of the lonely will.
+Choice is outward movement since there is nothing else there
+for it to be.
+   But is this the case, and ought we really to be so pleased about
+this experience? A more sombre note concerning it is struck at
+one point by Sartre, who on this problem veers wildly between
+Kantianism and Surrealism. Quand je délibère les jeux sont faits. If we
+are so strangely separate from the world at moments of choice
+are we really choosing at all, are we right indeed to identify
+ourselves with this giddy empty will? (Hampshire: ‘I identify
+myself with my will.’) In a reaction of thought which is never
+far from the minds of more extreme existentialists (Dostoevsky
+for instance), one may turn here towards determinism, towards
+fatalism, towards regarding freedom as a complete illusion.
+When I deliberate the die is already cast. Forces within me which
+are dark to me have already made the decision.
+   This view is if anything less attractive and less realistic than the
+other one. Do we really have to choose between an image of total
+freedom and an image of total determinism? Can we not give a
+more balanced and illuminating account of the matter? I suggest
+we can if we simply introduce into the picture the idea of attention, or looking, of which I was speaking above. I can only choose
+
+=== p. 36 ===
+
+     within the world I can see, in the moral sense of ‘see’ which
+     implies that clear vision is a result of moral imagination and
+     moral effort. There is also of course ‘distorted vision’, and the
+     word ‘reality’ here inevitably appears as a normative word.
+     When M is just and loving she sees D as she really is. One is often
+     compelled almost automatically by what one can see. If we ignore
+     the prior work of attention and notice only the emptiness of the
+     moment of choice we are likely to identify freedom with the
+     outward movement since there is nothing else to identify it
+     with. But if we consider what the work of attention is like, how
+     continuously it goes on, and how imperceptibly it builds up
+     structures of value round about us, we shall not be surprised that
+     at crucial moments of choice most of the business of choosing is
+     already over. This does not imply that we are not free, certainly
+     not. But it implies that the exercise of our freedom is a small
+     piecemeal business which goes on all the time and not a grandiose leaping about unimpeded at important moments. The moral
+     life, on this view, is something that goes on continually, not
+     something that is switched off in between the occurrence of
+     explicit moral choices. What happens in between such choices is
+     indeed what is crucial. I would like on the whole to use the word
+     ‘attention’ as a good word and use some more general term like
+     ‘looking’ as the neutral word. Of course psychic energy flows,
+     and more readily flows, into building up convincingly coherent
+     but false pictures of the world, complete with systematic vocabulary. (M seeing D as pert-common-juvenile, etc.) Attention is the
+     effort to counteract such states of illusion.
+        On this view we are certainly in a sense less free than we are
+     pictured as being on the other view, in that the latter presents a
+     condition of perfect freedom as being either our unavoidable
+     fate (the Surrealists) or our conceivably attainable goal (the Kan-tians). Freedom for Hampshire is a matter of having crystal-clear
+     intentions. But on the view which I suggest, which connects
+     morality with attention to individuals, human individuals or
+
+=== p. 37 ===
+
+individual realities of other kinds, the struggle and the progress
+is something more obscure, more historically conditioned, and
+usually less clearly conscious. Freedom, itself a moral concept
+and not just a prerequisite of morality, cannot here be separated
+from the idea of knowledge. That of which it is knowledge, that
+‘reality’ which we are so naturally led to think of as revealed by
+just ‘attention’, can of course, given the variety of human personality and situation, only be thought of as ‘one’, as a single
+object for all men, in some very remote and ideal sense. It is a
+deep paradox of moral philosophy that almost all philosophers
+have been led in one way or another to picture goodness as
+knowledge: and yet to show this in any sort of detail, to show
+‘reality’ as ‘one’, seems to involve an improper prejudging of
+some moral issue. An acute consciousness of this latter difficulty
+has indeed made it seem axiomatic to recent philosophers that
+‘naturalism is a fallacy’. But I would suggest that at the level of
+serious common sense and of an ordinary non-philosophical
+reflection about the nature of morals it is perfectly obvious that
+goodness is connected with knowledge: not with impersonal
+quasi-scientific knowledge of the ordinary world, whatever that
+may be, but with a refined and honest perception of what is
+really the case, a patient and just discernment and exploration of
+what confronts one, which is the result not simply of opening
+one’s eyes but of a certainly perfectly familiar kind of moral
+discipline.
+   What then of the ‘void’, the experience of Angst of which
+the existentialists have told us so much? If it cannot be understood in their sense as an experience of pure freedom, what is it,
+and does it really occur at all? Perhaps there are several different
+conditions involved here. But the central one, the heart of the
+concept, I think I would describe rather as a kind of fright which
+the conscious will feels when it apprehends the strength and
+direction of the personality which is not under its immediate
+control. Innumerable ‘lookings’ have discovered and explored a
+
+=== p. 38 ===
+
+     world which is now (for better or worse) compulsively present to
+     the will in a particular situation, and the will is dismayed by the
+     feeling that it ought now to be everything and in fact is not. Angst
+     may occur where there is any felt discrepancy between personality and ideals. Perhaps very simple people escape it and some
+     civilizations have not experienced it at all. Extreme Angst, in the
+     popular modern form, is a disease or addiction of those who are
+     passionately convinced that personality resides solely in the conscious omnipotent will: and in so far as this conviction is wrong
+     the condition partakes of illusion. It is obviously, in practice, a
+     delicate moral problem to decide how far the will can coerce the
+     formed personality (move in a world it cannot see) without merely
+     occasioning disaster. The concept of Angst should of course be
+     carefully distinguished from its ancestor, Kant’s Achtung, in which
+     dismay at the frailty of the will is combined with an inspiring
+     awareness of the reality which the will is drawn by (despair at
+     the sensuous will, joy in the rational will). The loss of that
+     awareness, or that faith, produces Angst, which is properly a condition of sober alarm. Those who are, or attempt to be, exhilarated by Angst, that is by the mere impotence of the will and its
+     lack of connection with the personality, are, as I have suggested
+     above, in danger of falling into fatalism or sheer irresponsibility.
+        The place of choice is certainly a different one if we think in
+     terms of a world which is compulsively present to the will, and the
+     discernment and exploration of which is a slow business. Moral
+     change and moral achievement are slow; we are not free in the
+     sense of being able suddenly to alter ourselves since we cannot
+     suddenly alter what we can see and ergo what we desire and are
+     compelled by. In a way, explicit choice seems now less important: less decisive (since much of the ‘decision’ lies elsewhere)
+     and less obviously something to be ‘cultivated’. If I attend properly I will have no choices and this is the ultimate condition to
+     be aimed at. This is in a way the reverse of Hampshire’s picture,
+     where our efforts are supposed to be directed to increasing our
+
+=== p. 39 ===
+
+freedom by conceptualizing as many different possibilities of
+action as possible: having as many goods as possible in the shop.
+The ideal situation, on the contrary, is rather to be represented as
+a kind of ‘necessity’. This is something of which saints speak and
+which any artist will readily understand. The idea of a patient,
+loving regard, directed upon a person, a thing, a situation, presents the will not as unimpeded movement but as something very
+much more like ‘obedience’.
+   Will and reason then are not entirely separate faculties in the
+moral agent. Will continually influences belief; for better or
+worse, and is ideally able to influence it through a sustained
+attention to reality. This is what Simone Weil means when she
+says that ‘will is obedience not resolution’. As moral agents we
+have to try to see justly, to overcome prejudice, to avoid temptation, to control and curb imagination, to direct reflection. Man is
+not a combination of an impersonal rational thinker and a personal will. He is a unified being who sees, and who desires in
+accordance with what he sees, and who has some continual
+slight control over the direction and focus of his vision. There is
+nothing, I think, in the foreground of this picture which is
+unfamiliar to the ordinary person. Philosophical difficulties may
+arise if we try to give any single organized background sense to
+the normative word ‘reality’. But this word may be used as a
+philosophical term provided its limitations are understood.
+What is real may be ‘non-empirical’ without being in the grand
+sense systematic. In particular situations ‘reality’ as that which is
+revealed to the patient eye of love is an idea entirely comprehensible to the ordinary person. M knows what she is doing when
+she tries to be just to D, and we know what she is doing too.
+   I said that any artist would appreciate the notion of ill as
+obedience to reality, an obedience which ideally teaches a position where there is no choice. One of the great merits of the
+moral psychology which I am proposing is that it does not
+contrast art and morals, but shows them to be two aspects of a
+
+=== p. 40 ===
+
+     single struggle. The existentialist-behaviourist view could give
+     no satisfactory account of art: it was seen as a quasi-play activity,
+     gratuitous, ‘for its own sake’ (the familiar Kantian-Bloomsbury
+     slogan), a sort of by-product of our failure to be entirely
+     rational. Such a view of art is of course intolerable. In one of
+     those important movements of return from philosophical theory
+     to simple things which we are certain of, we must come back to
+     what we know about great art and about the moral insight
+     which it contains and the moral achievement which it represents. Goodness and beauty are not to be contrasted, but are
+     largely part of the same structure. Plato, who tells us that beauty
+     is the only spiritual thing which we love immediately by nature,
+     treats the beautiful as an introductory section of the good. So
+     that aesthetic situations are not so much analogies of morals as
+     cases of morals. Virtue is au fond the same in the artist as in the
+     good man in that it is a selfless attention to nature: something
+     which is easy to name but very hard to achieve. Artists who have
+     reflected have frequently given expression to this idea. (For
+     instance, Rilke praising Cézanne speaks of a ‘consuming of love
+     in anonymous work’. Letter to Clara Rilke, 13 October 1907.)
+        Since the existentialist-behaviourist view wished to conceive
+     of will as pure movement separated from reason and to deprive
+     reason of the use of normative words (since it was to be ‘objective’), the moral agent so envisaged could get along, was indeed
+     almost forced to get along, with only the most empty and general moral terms such as ‘good’ and ‘right’. The empty moral
+     words correspond here to the emptiness of the will. If the will is
+     to be totally free the world it moves in must be devoid of normative characteristics, so that morality can reside entirely in the
+     pointer of pure choice. On my view it might be said that, per
+     contra, the primary general words could be dispensed with
+     entirely and all moral work could be done by the secondary
+     specialized words. If we picture the agent as compelled by
+     obedience to the reality he can see, he will not be saying ‘This is
+
+=== p. 41 ===
+
+right’, i.e., ‘I choose to do this’, he will be saying ‘This is A B C
+D’ (normative-descriptive words), and action will follow naturally. As the empty choice will not occur the empty word will not
+be needed. It would however be far from my intention to
+demote or dispense with the term ‘good’: but rather to restore to
+it the dignity and authority which it possessed before Moore appeared on the scene. I have spoken of efforts of attention directed upon individuals and of obedience to reality as an exercise
+of love, and have suggested that ‘reality’ and ‘individual’ present
+themselves to us in moral contexts as ideal end-points or Ideas of
+Reason. This surely is the place where the concept of good lives.
+‘Good’: ‘Real’: ‘Love’. These words are closely connected. And
+here we retrieve the deep sense of the indefinability of good,
+which has been given a trivial sense in recent philosophy. Good
+is indefinable not for the reasons offered by Moore’s successors,
+but because of the infinite difficulty of the task of apprehending
+a magnetic but inexhaustible reality. Moore was in a way nearer
+the truth than he realized when he tried to say both that Good
+was there and that one could say nothing of what it essentially
+was. If apprehension of good is apprehension of the individual
+and the real, then good partakes of the infinite elusive character
+of reality.
+    I have several times indicated that the image which I am offering should be thought of as a general metaphysical background
+to morals and not as a formula which can be illuminatingly
+introduced into any and every moral act. There exists, so far as I
+know, no formula of the latter kind. We are not always the individual in pursuit of the individual, we are not always responding
+to the magnetic pull of the idea of perfection. Often, for instance
+when we pay our bills or perform other small everyday acts, we
+are just ‘anybody’ doing what is proper or making simple
+choices for ordinary public reasons; and this is the situation
+which some philosophers have chosen exclusively to analyse.
+Furthermore, I am well aware of the moral dangers of the idea of
+
+=== p. 42 ===
+
+     morality as something which engages the whole person and
+     which may lead to specialized and esoteric vision and language.
+     Give and take between the private and the public levels of morality is often of advantage to both and indeed is normally unavoidable. In fact the ‘conventional’ level is often not so simple as it
+     seems, and the quaintly phrased hymn which I sang in my
+     childhood, ‘Who sweeps a room as for Thy laws makes that and
+     the action fine’, was not talking foolishly. The task of attention
+     goes on all the time and at apparently empty and everyday
+     moments we are ‘looking’, making those little peering efforts of
+     imagination which have such important cumulative results.
+        I would not be understood, either, as suggesting that insight
+     or pureness of heart are more important than action: the thing
+     which philosophers feared Moore for implying. Overt actions
+     are perfectly obviously important in themselves, and important
+     too because they are the indispensable pivot and spur of the
+     inner scene. The inner, in this sense, cannot do without the outer.
+     I do not mean only that outer rituals make places for inner
+     experiences; but also that an overt action can release psychic
+     energies which can be released in no other way. We often receive
+     an unforeseen reward for a fumbling half-hearted act: a place for
+     the idea of grace. I have suggested that we have to accept a darker,
+     less fully conscious, less steadily rational image of the dynamics
+     of the human personality. With this dark entity behind us we
+     may sometimes decide to act abstractly by rule, to ignore vision
+     and the compulsive energy derived from it; and we may find that
+     as a result both energy and vision are unexpectedly given. To
+     decide when to attempt such leaps is one of the most difficult of
+     moral problems. But if we do leap ahead of what we know we
+     still have to try to catch up. Will cannot run very far ahead of
+     knowledge, and attention is our daily bread.
+        Of course what I have been offering here is not and does not
+     pretend to be a ‘neutral logical analysis’ of what moral agents or
+     moral terms are like. The picture offered by, e.g., Hampshire is of
+
+=== p. 43 ===
+
+course not neutral either, as he admits in parenthesis. (Thought and
+Action, Chapter Two.) ‘A decision has to be made between two
+conceptions of personality. . . . It may be that in a society in
+which a man’s theoretical opinions and religious beliefs were
+held to be supremely important, a man’s beliefs would be considered as much part of his responsibility as his behaviour to
+other men.’ And he contrasts this with ‘a utilitarian culture’.
+Hampshire speaks here of a ‘decision’; and there is always an
+existentialist ‘short way’ with any rival theory: to say, ‘You use
+that picture, but you choose to use it.’ This is to make the existentialist picture the ultimate one. I would wish to exclude any such
+undercutting of my theory. To say that it is a normative theory is
+not to say that it is an object of free choice: modern philosophy
+has equated these ideas but this is just the equation I am objecting to. I offer frankly a sketch of a metaphysical theory, a kind of
+inconclusive non-dogmatic naturalism, which has the circularity
+of definition characteristic of such theories. The rival theory is
+similarly circular; and as I have explained I do not find that its
+radical arguments convincingly establish its sweeping moral and
+psychological conclusions.
+   Philosophers have always been trying to picture the human
+soul, and since morality needs such pictures and as science is, as
+I have argued, in no position to coerce morality, there seems no
+reason why philosophers should not go on attempting to fill in a
+systematic explanatory background to our ordinary moral life.
+Hampshire said, and I quoted this at the start, that ‘it is the
+constructive task of the philosophy of mind to provide a set of
+terms in which ultimate judgements of value can be very clearly
+stated’. I would put what I think is much the same task in terms
+of the provision of rich and fertile conceptual schemes which
+help us to reflect upon and understand the nature of moral progress and moral failure and the reasons for the divergence of one
+moral temperament from another. And I would wish to make my
+theory undercut its existentialist rivals by suggesting that it is
+
+=== p. 44 ===
+
+     possible in terms of the former to explain why people are
+     obsessed with the latter, but not vice versa. In any case, the sketch
+     which I have offered, a footnote in a great and familiar philosophical tradition, must be judged by its power to connect, to
+     illuminate, to explain, and to make new and fruitful places for
+     reflection.
+

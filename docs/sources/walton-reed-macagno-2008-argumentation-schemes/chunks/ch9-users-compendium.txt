@@ -1,0 +1,1724 @@
+=== chunk: walton-reed-macagno-2008-argumentation-schemes/ch9-users-compendium ===
+title: A User's Compendium of Schemes
+source_pdf: docs/sources/walton-reed-macagno-2008-argumentation-schemes/full.pdf
+pdf_pages: 318-356
+page_scheme: book
+plan_page_start: 308
+plan_page_end: 346
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 308 ===
+
+            A User's Com p endium of Schemes
+
+In this chapter a compendium of all the schemes discussed is given,
+along with the source of the scheme in the argumentation literature.
+We have tried to make the compendium most useful to the reader by
+prese n ting the schemes that represen t the most commonly used forms
+of argument, including not only those used in everyday discourse, but
+also certain schemes that are important in legal and scien tific reasoning.
+Many of these schemes have subtypes, and research on the classification
+of the subtypes, and even more generally, research on determining which
+schemes are subspecies of other schemes, is not yet at an advanced stage.
+Thus while we have made occasional remarks on these matters, hoping
+to provide some insight, we have not generally listed all the known sub­
+species of the schemes. There are two especially importa n t exceptions
+that need to be noted.
+   We have included a fairly comprehensive account of the known sub­
+schemes of the argumen t from popular opinion, to give the reader an
+idea of how it can be important to recognize many of these different
+subschemes in dealing with common arguments of the type associated
+with informal fallacies. The other important exception is the case of the
+argumentum ad hominem. Many subschemes for this type of argument have
+been recognized, and much work on trying to org-.mize and class i fY them
+has been conducted (Walton , 1 998) . Also, recent research on the project
+of formalizing argumen tation schemes ha'i chosen the case of the argu­
+ mmlum ad hominem as a key example (Verhe!j . 2003 ) . For these rea'!ons,
+we have chosen only to include the most basic and central types of m�­
+ mmtum nd hominem in the compendium, reserving the problem of how
+to c l a'ls if)' the subschemes, and various related schemes for this type of
+argumentation , for Chapter t o. Thus the reader who is looking for spe­
+cialized types of ad hominem arguments will need to consult Chapu.·r 1 o,
+
+=== p. 309 ===
+
+                         A User's C.ompendium of Schnnes
+
+while the reader who wants to know only the must general schemes for
+the most common types of argumen ts can use the compendium given in
+this chapter as his or her source of information .
+   In the compendium each scheme is numbered, and the reader can see
+that sixty primary schemes have been recognized, along with subschemes
+under many of them. This number, as suggested earlier, is somewhat
+arbitrary, as we have chosen only what we take to be the most important
+schemes for the reader to know about. We could have added a lot more
+schemes, but decided that doing so would not be very helpful, since what
+is most importa n t at this point is the project of classifyi ng schemes, or to
+put it in computer terminology, to provide an ontology of schemes. I f we
+had such a device, we could then organize them in a coherent wdy even
+if we had a very large number of schemes. A device of this sort could be
+very useful for automated collection of data about arguments in natural
+language discourse, for example, if we could build software that could
+recognize the schemes.
+   The reader will notice in the compendium that each scheme is listed
+wi th its matching set uf appropriate critical questions. Also, references
+are given to the source where the scheme was found in the literature.
+This documentation should prove helpful to the reader who wan ts to use
+a particular scheme in research and needs to document where it can be
+found, or who wants to search out more details about it. Occasionally.
+as well, a comment or two has been inserted to guide the reader by
+providing clari fications and answers to frequently asked questions.
+
+                1.   A R G U M E N T FROM POS I T I O N TO KNOW
+
+    Major Pmnift: Source a is in position to know about things in a certain subject
+      domain S con taining proposition A.
+    Minor Prnnise: a asserts that A is tme (false ) .
+    Conclusion: A is tme ( false ) .
+
+    CQt : Is a in posi tion to know whether A is tme (false) ?
+    CQ2 : I s a a n honest ( trustworthy, reliable ) source?
+    CQ3 : Did a as.�ert that A is tme ( false ) ?
+
+                                    Refe re nces
+Douglas Walton , Legal Argumentation and Evidmce. Un iversity Park: Pennsylvania
+  State University Pres.�. 2002 , p. 46.
+
+'
+
+=== p. 310 ===
+
+310                          A rgumentation SciJpm,s
+
+                2 . A R G U M E NT Jo"ROM EX PERT OPI N I O N
+
+  Major Prrol i5l': Source E i s a n expert in subject domain S con taining proposi­
+     tion A.
+  Minor Prrolul': E asserl� that proposition A is tme ( false) .
+  C.ondusion: A is tme ( false ) .
+
+  CQ1 : E."xpmi5t Question: How credible is E as an expert source?
+  CQ2 : Field fl!u5tion: Is E an expert in the field that A is in?
+  CQ3: opinion Qul'stion: What did E assert that i mplies A?
+  CQ4: Tru.dworthintss Qutstion: Is E personally reliable as a source?
+  CQ5: Consutrory Qtustion: Is A consistent with what other experts a�ert?
+  CQ6: Barlntp Evidence Question: Is E"s assertion based on evidence?
+
+Douglas Walton , Legal Argummtation and Et1idenu. U n iversity Park: Pennsylvania
+  State Un iversi ty Press, 2002 . pp. 49-50.
+Douglas Wal ton, Afr/N'al lo Exptrt opinion. University Park: Pennsylv-.mia State
+  U niversity Press, 1 997, pp. 2 1 1 -2 2 5 .
+
+             3 · A R G U M I': NT F R O M W I TNESS TEST I M O N Y
+
+  Position lo Know Prtmue: Witness W is in a position t o know whether A i s tme
+    or not.
+  Truth 1elling Pmnul': Witncs.� Wis telling the tntth (as W knows it) .
+  Statemen t Prtmnt: Wi tness W states that A is tme ( false ) .
+  Conclu5ion: A may be plausibly taken to be tme ( false ) .
+
+  CQ1 : Is what the witness said internally consistent?
+  CQ2 : Is what the witness said consistent with the known facts of the case ( based
+   on evidence apart from what the witnes.� testified to) ?
+  CQ3 : I s what the witness said consistent wi th what other witnesses have ( inde­
+    pendently) testified to?
+  CQ4: Is there some kind of bias that can be attributed to the account given by
+    the wi tness?
+  CQr;: How plausible is the statement A asserted by the witness?
+
+Douglas Walton, Henry Prakken, and Chris Reed, MArgumentation Schemes
+  and Generalisations in Reasoning about Evidence." Procl't'di ngs of tht Ninth
+
+=== p. 311 ===
+
+  lnlffn a tional (hrljt:rrncP on Artificial /nli'lligmcP a nd Law, Edinburgh, 2003. New
+  York: ACM Press, 2003, p. 35 ·
+Douglas Walton, Witnes.s Testimmi.V Evidenct. Cambridge: Cambridge University
+  Press, 2007, p. 6o.
+
+                    4· A R G U M ENT FROM PO PU LA R O P I N ION
+
+    lll'nPTal Arct'fJianu l>remist': A is generally accepted as tme.
+    l"rl'sumption Premise: If A is generally accepted a.� true, that gives a reason in
+      favor of A.
+    Conclusion: There is a reason in favor of A.
+
+    CQt : What e\idence like a poll or an appeal to common knowledge, support�
+     the claim that A is generally accepted as true?
+    CQ2 : E\'en if A is generally accepted as true, are there any good rea.� ons for
+     doubting that it is true?
+
+Douglas Walton, Fundamentals of Critical A rgummtation. New York: Cambridge
+  U niversity Press, 2006, p. 9 1 .
+Douglas Walton , lnfurmal Logic. New York: \,ambridge University Press, 1 gHg,
+Douglas Walton, AfJPt'al to Popular opi n ion. U niversity Park: Pennsylvania State
+  U niversity Press, 1 999, pp. 2 2 3-226.
+
+Comment: In argument from popular opinion, various Olher types of argument
+tend to support the basic pop scheme type of argument, bolsteri ng the origi­
+nal argumem. which often tends to be weak by itself. The gt�neral problem of
+classi fying subtypes in relation to more general schemes is considered in Chap­
+ter 1 0.
+
+         S U BTYPES OF A R G U M E:'IJT FROM POPU LA R O P I N I ON
+
+                                 4· 1 . Pop Scheme
+
+    Premise: Everybody in a particular reference group G accepts ( rejects) :\.
+    Conclusion: A is true ( false ) /or: you should accept ( reject) A.
+
+                4. 2 . Position-to-Know Ad Populum Argument
+
+    Prnn ise r : Everybody in this group G accepts 1\.
+    Premise 2: This group is in a special position to know that A is true.
+
+'
+
+=== p. 312 ===
+
+                   4· 3 · Expert Opinion Ad Populum Argument
+
+  Premise r : Everybody in this group G accepts A.
+  Pmnist 2 : G is a group of experts i n a domain of knowledge .
+
+                     4·4· Deliberation Ad Populum Argument
+
+  Premise r : Everybody in group G accepts A.
+  Pmnist 2 : Group G has deliber.ued i n telligently and extensively on whether to
+    accept proposition A or not.
+
+                  4 · 5 · Moral justi fication Ad Populum Argument
+
+  Premise r : Everybody w h o is good , or w h o represen ts a group G with good
+       qual ities, accepts policy P.
+  Premise 2 : Your goal is (or should be ) to be a good perso n , or a member of a
+       group wi th good qual i ties.
+  Conclusion: Therefore, you should accept P.
+
+  4.6. Moral justification ( Excuse Subtype) Ad Populum Argument
+
+  Pmnist r : Everybody i n a group G does x (or accepts proposition A as a policy) .
+  Pmnist 2: Doing x (or accepting A) shows that x (or policy A) is an acceptable
+       nonn of conduct for G.
+  Pmnist 1: I (the speaker) am a member of G.
+  Conclusion: Therefore, my doing x (or accepti ng A) is morally j ustified as an
+       acceptable action (or policy ) .
+
+                     4 · 7 · Snob Appeal Ad Populum Argument
+
+  Pmnist     r:   Everybody in this group   G accepts A (or has some property, o r
+       possesses some object) .
+  Pmnist 2: Th is group G is elite, that is, everyone who belongs to it has prestige.
+  Pmnist 1 : Prestige is an i m portant goal for you ( the responde n t ) .
+  Premise 4: If you accept A (acquire property P or buy object 0) , then you wil l a
+       member of the group G.
+   C'.onclusion: Therefore, you ought to accept A ( e tc ) .
+
+                   4.8. Appeal to Van i ty A d Populum Argument
+
+  Premise r : Everybody i n this group of adm i red ( popular) people G accepts A
+       ( possesses P, etc . )
+  Premise 2: If you carry o u t action x. then you will belong to this group G.
+   Conclusion: Therefore, you should carry out action x.
+
+=== p. 313 ===
+
+                           A User's Compendium of Sc�
+
+              4·9· Rhetoric of Belonging Ad Populum Argumen t
+
+    Prnnisl' r : Everybody in this group G accepts A .
+    Premise 2: Being a member of this group C is high ly val ued for you ( the respon­
+    Prnnisl' ; : If you do not accept A, you will be out of this group G.
+    Condusitm: Therefore, you should accept A.
+
+                 4 . 1 o. Common Folks Ad Populum Argument
+
+    Prnnisl': I (the speaker) am an ordinary person, that is, I share a common
+      background wi th you ( the audience ) .
+    Conclusion: Therefore, you ough t to take what I say as being more credible or
+
+     4 . 1 1 . Common Folks ( Group Subtype ) Ad Populum Argumen t
+
+    Prnn i.�l' r: I ( the speaker) am an ordinary person, that is, I share a common
+      background with the members of this audience (group C,') .
+    Prnnise 2: You ( the respondent) are a member of this audience ( group G) .
+    Conclusion: Therefore, you should accept what I say.
+
+Douglas Walton, Fundamentals of Critical A rgummtalitm. New York: Cambridge
+  University Press, :wo6, p. 9 1 .
+Douglas Wal ton, Informal Logic. New York: Cambridge University Press, 1 g8g,
+Douglas Walton , Appeal to Pop-ular opinitm. t: n iversity Park: Pennsylvania State
+  University Press, 1 999, pp. 2 2 3-2 26.
+
+C.ommml: I t would take up too much space, we judged, to offer examples of all
+these types of arguments, as examples of all of them can be found in the refer­
+ences just cited. However, we do offer one example of the rhetoric of belonging
+argument:
+
+    I think we can all agree that the overwhelming majority of the leadership of
+    the American movement is composed of decent, honest, dedicated people
+    who have made a great contribution involving great personal sacrifice, help­
+    ing to build a decent American labor movement. . . . We happen to believe
+    that leadership in the American movement is a sacred trust. We happen to
+    believe that this is no place for people who want to use the labor movement
+    to make a fast buck. ( Bailey, 1 983, p. 1 :H · quoted in Wal ton, 1 999, p. 2 1 7 ) .
+
+From this example, the reader nn get a n idea of what some of the other subtypes
+are like as Wf"ll.
+
+'
+
+=== p. 314 ===
+
+                            Argumentation Schnnl's
+
+              5 · A R G U M ENT FROM PO PU LAR PRACT I C E
+
+  Major Premut: A i s a popular practice among those who are familiar wi th what
+    is acceptable or not in reg-ard to A.
+  Minor Pmnist: If A is a popular practice among those familiar with what is
+    acceptable or not with regard to A, that gives a reason to think that A is
+  Condu.sion: Therefore, A is acceptable in this case.
+
+  CQ 1 : What actions or other indications show that a large majori ty ac­
+   cepts A?
+  CQ2 : Even if large majori ty accepts A as tme, what grounds might here be
+   there for thinking they are justified in accepting A?
+
+Douglas Walton , Fundamentals of Critical Argumentation. New York: Cambridge
+  University Press, 2006, p. 93 ·
+
+Comment: This type is obviously a variant on the pop scheme.
+
+                     6 . A R G U M E N T .'ROM EXAM PLE
+
+                      6. 1 . Argument from Example
+
+  Pmnut: In this particular case, the individual a has property F and also pro­
+    perty G.
+  Conclu.sion: Therefore, generally, if x has property 1-: then it also has pro­
+    pe rty G.
+
+  CQ 1 : Is the proposition claimed in the premise in fact tme?
+  CQ2 : Does the example cited su pport the generalization it is su pposed to be
+    an instance of?
+  CQ3: Is the example typical of the kinds of cases the generalization covers?
+  CQ4: How strong is the generalization?
+  CQ.I) : Do special circumstances of the example impair its generalizahility?
+
+Douglas Walton , A Pragmaiir Thl'ory ofFallnry. Tuscaloosa and London: University
+
+=== p. 315 ===
+
+                             A User's Compendium oJSchnnes
+
+                           6. 2 . Argument from Illustration
+
+    Pmnist r : Usually, if x has property F ( belongs to da'IS F), x has property G.
+    Pmnist 2 : In this case, k h a'l property Fand property (;.
+    Conclwion: The rule is valid.
+
+                              6 . 3 . Argument from Model
+
+    Prnnist r : Individual P is prestigious for (admired by) individuals Qs.
+    P111f11 ist 2: P carries out acts A.
+    Pmnist 3: If P carries out A, A are worth being imitated by Qs.
+    Condwion: Qs should do A.
+
+                          6-4- Argument from An ti-Model
+
+    Pmni.�e r: Individual P is not prestigious for ( not admired by) indi\iduals Qs.
+    Pmnist 2: P carries out acts A .
+    Premise 3 : Qs w.tnt to be different from P.
+    C.onrlwion: Qs should not do A.
+
+Ch. Perelman and L. Olbrechts-Tyteca, Tht New RNtmir: A Trtatist on Argumtnta­
+  tion. Notre Dame, Ind.: University of Notre Dame Press, 1 969, pp. 357-36H.
+
+                          7· A RG U M ENT FRO M A N A LOGY
+
+    Similarity l"mnise: Gener.tlly, case C 1 is similar to case C2.
+    Base Premise: A is true ( falo;e ) in case C 1 .
+    Condwion: :\ is true ( false ) in cast> C 2 .
+
+    CQ1 : Are there differences between C 1 and C2 that would tend to undermine
+      the force of the similarity cited?
+    CQ:z : Is A trut> ( false ) in C 1 ?
+    CQ.'J: Is there some other case C3 that is also similar to C 1 , but in which A is
+      false ( true ) ?
+
+Douglao; Walton , Furularntntal.s of Critical A rgummtntion. New York: Cambridge
+  ll ni\·ersity Press, 2oo6, pp. 91>-g 7 .
+
+Commtn t : This scheme WdS callt•d the core scht>me as presented in Chapter 2,
+section 4 · but the reader might recall that \'ersiun two wa� also prese n ted as a
+variant on the cure scheme.
+
+'
+
+=== p. 316 ===
+
+              8 . P RACTI C A L REASO N I N G FROM A N A LOGY
+
+                               8 . 1 . Positive Schema
+
+  Base Premise: The right thing to do i n S, was to carry out action x.
+  Similarity Prnnise: S. is similar to S, .
+  Conclusion: Therefore, the right thing to do in S. is carry· out x.
+
+                              8 . 2 . Negative Schema
+
+  Base Premise: The wrong thing to do in S, was to carry out x.
+  Similarity Premise: S. is similar to S, .
+  Conclusion: Therefore, the wrong thing to do in s. is carry out x.
+
+Douglas Walton, lnforma l l.ogir. New York: Cambridge University Press, 1 989.
+  p. 2 57·
+
+                    9· A RG U M E NT FROM C O M PO S I T I O N
+
+                           g. 1 . Generi c Composition
+
+  Premise: All the parts of X have property Y.
+  Conclusion: Therefore, X has property Y.
+
+  CQ1 : Is property Y compositionally heredi tary with regard to aggregate X
+   (when X [ the whole] has property Y, then every part that composes X has
+   property Y) ?
+
+Douglas Walton, Informal I.ogic. New York: Cambridge U niversity Pres.�. 1 g8g,
+  P· 1 30.
+
+                   g. 2 . Inclusion of the Part in the Whole
+
+  Premise r : y is a species ( part) of X.
+  Premise 2 : X is A .
+  C.onclusion: .v is A ( is less A than X, because it is a part o f it; it is les.� A than X
+     because it is a smaller part of it) .
+
+Ch. Perelman and L. OlbrechL-rTyteca, The /l.'no Rhetoric: A Treatise on :\ rgumm ttz­
+  tion. Notre Dame, Ind.: Un iversity of Notre Dame Press, 1 969, pp. 2 :i 1 -233,
+  2 :H-24 1 .
+
+=== p. 317 ===
+
+                                A User 's Compendium of Schemes
+
+                            1 0. A RG U M ENT FROM D I V I S I O N
+
+                                     1 0. 1 . Generic Division
+
+    PrnniJt: X has property Y.
+    Conclusion: Therefore, all the parts of X have property Y.
+
+    CQ1 : Is property Y divisionally hereditary with regard to aggregate X (when
+     every part that composes X has property Y, then X [ the whole ] has property
+     Y) ?
+
+Douglas Walton, A rgument: The Logic of Falln.cU.s. Toronto: McGraw-Hill Ryerson,
+  1 98 2 , pp. 2o6-:w8.
+
+                       1 0. 2 . D ivision of the Whole into i ts Parts
+
+    PrtmiJt 1: X is the whole of x, , x.. , . . . x. ( x, , x• . . . . x. are the parts of the whole
+       X) .
+    PremiJt 2 : Only i f x, , o r x.. , o r . . . x. is A , X is A.
+    Prtmi.�t 1: x, is A (no x is A) .
+    Conclusion: X is A ( X is not A ) .
+
+Ch. Perelman and L. Olbrechts·Tyteca, The NnJJ RMtoric: A TrtatiJt on Argumenta­
+  tion. Notre Dame, Ind.: University of Notre Dame Press, 1 969, pp. 2 3 1 -2 3 3 .
+  2 34-24 1 .
+
+                         1 1 . A R G U M ENT FROM OPPO S I T I O N S
+
+                                  1 1 . 1 . Descri ptive Schemes
+
+    Major PrtmiJt: If X presents the predicate P, X cannot presen t the contradictory
+      (contrary, converse, incompatible) predicate P' at the same time and in the
+    Minor Pmnise: X presents P.
+    Crmdusion: X cannot present P' at the same time and in the same resp<�ct.
+
+    Major PremiJt: If X does not present the predicate /', X must present the contradictory predicate /'' at the same time and in the same respect.
+    Minor Pmnise: X docs not presem P.
+    Crmd1tsion: X must present P' at tlw same time and in the same respect.
+
+'
+
+=== p. 318 ===
+
+                               Argumentation Schnnes
+
+  Major Pmnue:    If X does not present the predicate P. X must present the
+    complementary contrary predicate P' at the same time and in the same
+    respect.
+  Minor Prnni51': X does not present P.
+  Conclusion: X must present P' at the same time and in the same respect.
+
+                            1 1 . 2 . Nonnative Schemes
+
+  Major Prnnue: If X receives the evaluation W. X cannot receive the opposi te
+    evaluation W' at the same time and in the same respect.
+  Minor Premue: X receives the evaluation W'
+  Conclusion: X cannot receive the evaluation W' at the same time and in the
+
+         1 2 . R H ETO R I C A L A R G U M ENT FROM OPPOS I T I O N S
+
+                            1 2 . 1 . Nonnative Schemes
+
+  Ma;or Premue: If the treatment Y is required for the su�ject X, for the contrary
+    subject X' the con trary treatment Y' is required.
+  Minor Pmnue: The treatment Y is required for the subject X.
+  C.o n dus ion: The contrary treatment r• is required f(,r the subject X' .
+
+                           1 2 . 2 . Descriptive Schemes
+
+  Major Pmnue: If X is in relation R with r. Y can be in the converse relation R '
+    with X and contrariwise.
+  Mir�or Prtmul': X is in relation R with Y.
+  C.ondusim1: r can be in the converse relation R' wi th X.
+
+Comment: The key notions of opposi tion and rebuttal are discussed in Chapter 7 ·
+
+                  1 3 . ARGU M E N T FROM A LTERNAT I V ES
+
+                            1 3 . 1 . Cognitive Schemes
+
+  Major Prtmi.se: Either X or Y can be the case.
+  Minor Pmnue: X is plausibly not the ca�e.
+  Co11rlusio11: ris plausibly the ca�e.
+
+                            1 3 . 2 . Normative Schemes
+
+  Major 1-'rnnise: Either X or Y can be required.
+  Mi11or Prl'mue: X is required.
+  Conrlu.sio11: )' is not required.
+
+=== p. 319 ===
+
+                             A UsP.rs Compendium oJSrhnnRs
+
+    Manfred Kienpointner, Alltagslogik, Stnlktur rmd Fu nktimr von .4 rgumnrlalions·
+      muslem. Stuttgart-Bad Can nstatt: Frommann-Holzboog, 1 99 2 , p. 306.
+
+              1 4 . A R G U M EN T FROM V t: R B A L C LA S S I FICAT I O N
+
+      Individual Premise: a has property r-:
+      Classification Prrm ise: For all x, if x has property f; then x can be classified as
+        having property G.
+      Conclusion: a has property C.
+
+      CQ1 : What evidence is there that a definitely has property F, as opposed to
+       evidence indicating room for doubt about whether it should be so class i­
+       fied?
+      CQ2 : Is the verbal classification in the class i fication premise based merely on
+       an ass u mption about word usage that is subject to doubt?
+
+    Douglas Wal ton , Fundamentals of Critical Argumentation. Cambridge: Cambridge
+      U n iversity Press, 2oo6, p. 1 29.
+
+               1 5 . A R G U M EN T FROM DEFI N I T I O N TO V E R B A L
+                                    C LA SS I FI CATI O N
+
+      Definition Premise: a fits definition D.
+      Classification Premise: For all x. if a fits definition D. then x can he classified as
+        having property G.
+      Conrlusion: a has property G.
+
+      CQ1 : What evidence is there that D is an adequate definition, in light of other
+       pos.�ible alternative definitions that might exclude a's having G?
+      CQ2 : Is the verbal classification in the classification premise ba�ed merely on
+       a stipulative or biased definition that is subject to doubt?
+
+              1 6 . A RG V M ENT FROM V A G U E N E S S OF A V E R B A L
+
+      Premise r : If an argument, a , occurs i n a context of dialogue that requires a
+        certain level of precision . but some property F that occurs in a is defined in
+
+'
+
+=== p. 320 ===
+
+    a way that is too v-dgue to meet the requiremenL'i of that level of precision,
+    then a ought to be r�jected as deficient.
+  Prnn ise 2 : a occurs in a context of dialogue that requires a certain level of
+    precision that is appropriate for that context.
+  Prnn ise 3 : Some property F that occurs in a is defined in a way that is too
+    v-dgue to meet the requirement of the level of precision appropriate for the
+    context.
+  C-cmrlusion: Therefore, a ough t be rejected as deficient.
+
+  CQt : Does the context of dialogue i n which a occurs demand some particular
+   level of precision i n the key terms used?
+  CQ:z : Is some property F that occurs in a too vague to meet the proper level
+   of standard of precision?
+  CQ3: Why is this degree oh agueness a problem in relation to the dialogue in
+   which a W"dS advanced?
+
+Douglas Walton , Argumentation Schmw.s for Presumptive &asoning. Mahwah, N J . :
+  Erlbaum, t gg6, p p . 1 02- 1 0 3 .
+
+       1 7 . A R G U M ENT F'ROM A R B I TRA R I N ES S OF A V E R B A l.
+
+  Prnnise r : I f an argument, a , occurs in a context of dialogue that requires a
+    certain level of nonarbitrary definition for a key property F that occurs in a ,
+    and if F is defined i n an arbitrary way i n a , then a ought t o he rejected as
+    deficient.
+  Premise 2 : a occurs i n a context of dialogue that requires a nonarbitrary defi­
+    n i tion for a key property F that occurs i n a.
+  Prnn ise 3: Some property F that occurs i n a is defined in a way that is arbitrdry.
+  Conrlusion: Therefore, a ought be rejected as deficient.
+
+  CQ1 : Does the context of dialogue in which a occu rs require a nonarbi trary
+   definition of F?
+  CQ:z : Is some property F that occurs in a defined in an arbitrdry W"dy?
+  CQ3: Why is arbitrariness of defin i tion a problem in the context of dialogue
+    in which a was advanced?
+
+Douglas Walton , Argumentation Schnnn for P,,.sumptive &asoning. Mahwah , N J . :
+  Erlbaum 1 gg6, p p . 1 04- 1 05
+
+=== p. 321 ===
+
+                               A Usl!T's Compendium of Schem,.s                           32 1
+
+                 1 8 . A RG U M E NTATI O N FROM I NTERACTI O N OF
+                                    ACT A N D PERSON
+
+                                       1 8 . 1 . Variant 1
+
+      Pmnise 1: Person P has done aciS A.
+      Pmnise 2 : To aciS A is attributed the value V.
+      Conclusion: Person P is V.
+
+                                       1 8 . 2 . Varian t 2
+
+      Pmnise 1: Person P is V 1 ( a j udgment value ) .
+      Premise 2: If a person is V 1 , his aciS A will be (are, were) V2 ( judgment value
+        depending on V J ) .
+      Conclusion: P's acl"' A will be (are, were) V2.
+
+    Ch. Perelman, L. Olbrechts-Tyteca, The Nero Rhetoric: A Treatise on Argumenta­
+      tion. Notre Dame, Ind.: U niversity of Notre Dame PreSli, 1 g6g, pp. 296-
+
+                          1 9 . A R G U M ENTAT I O N FROM VALUES
+
+                              1 9. 1 . Variant 1 : Posi tive Value
+
+      Premise 1: Value V is positive as judged by agent A (judgment value ) .
+      Premise 2 : The fact that value V is posit ive aifeciS th e i nterpretation and therefore
+        the evaluation of goal G of agent A (if value V is good, i t supporiS commitment
+         to goal C.") .
+      C.onclusion: V is a reason for retaining commitment to goal G.
+
+                              1 9. 2 . Varian t 2 : Negative Value
+
+      Premise 1 : Value V is rnogative as j udged by agent A (judgment value) .
+      Pmnise 2 : The fact that value V is mgative affeciS the interpretation and there­
+        fore the evaluation of goal G of agent A ( i f value V is bad, it goes against
+         commitment to goal G) .
+      Conclusion: V is a reason for retracting com m i tment to goal G.
+
+    Trevor Bench-Capon, MPersuasion in Practical Argument Using Value-based Argu­
+      mentation Fr.tmeworks." Journal of Logic and {.amputation 1 3 ( 2003 ) , pp. 42g­
+      . g 8.
+
+'
+
+=== p. 322 ===
+
+322                             A rgumenlalion Srhnru-.s
+
+Trevor Bench-Capon, MAgrecing to Differ: Modelling Persuasive Dialogue
+  between Parties without a Consensus about Values." lnfonnal l.ogir 2 2 ( 2 0< 1 3 a) ,
+  pp. 2 3 1 -245·
+
+Commmt: Bench-Capon ( 2003, 2 oo 3 a) offers the cao;e of Hal and Carla. Diabetic
+Hal needs i nsulin to survive, but cannot get any in time to save his life except
+by taking some from Carla"s house without her permission . The argument from
+positive V"cllue for preserving life is weighed ag-cl inst the argument from neg-cltive
+V"cllue of taking someom• 's propeny without his or her permission.
+
+                  20. A R G U M ENTAT I O N FROM SAC R I FI C E
+
+  Premise I : For the thing x, sacrifice S is made.
+  Premise 2 : If a great sacrifice S has been made for x, then the value V of x will
+      be greater ( and \ice versa ) .
+  Prl'mise 1 : A great (smal l ) sacrifice S h as been made for x.
+   Conclusio11: x has a great (small ) V"c\lue ��
+
+Ch. Perelman and L. Olbrech tl>-Tyteca, Tl� Nw Rhetoric: A Trtalise on A7gt�mro­
+  lalion. Notre Dame, Ind.: U n iversity of Notre Dame Press, 1 969, pp. 248-
+
+   2 1 . A R G U M ENTAT I O N I'ROM T H E G RO U P A N D I TS M E M B E RS
+
+  2 1 . 1 . Argumentation from the Group and Its Members: Variant 1
+
+  Premise I: Member M of the group (; ha� the quality Q
+  Premise 2: If M has Q, (; will have Q as well.
+   Conrlusion: (; has Q
+
+         2 1 . 2 . Argumentation from the Group and Its Members:
+                                   Variant 2
+
+  Prnn isl' I: Group (; ha� the quality Q.
+   Prnnise 2: M is a mem ber ( i dea, habit, custom , produC I , me thod ) of G.
+   J>mn ise J: If G has Q , i ts members M ( ideas, habits, customs, products, methods )
+     will have Q as well.
+   Conrlusion: M is Q.
+
+Ch. Perelman and L. Olbrech ts-Tyteca, The Nl'll' Rlu�toric: A Trtatise 011 Argumm­
+  talion. Notre Dame, Ind.: U niversi ty of Notre Dame Press, 1 g6g, pp. 3 2 1 -
+  :\ 2li.
+
+=== p. 323 ===
+
+                            A User's Compendium of SchemR.s
+
+                           2 2 . PRACTICAL REASO N I N G
+
+                              2 2 . 1 . Practical Inference
+
+    Major Premise: I have a goal G.
+    Minor Pmnist: Carryi ng out this action A is a means to realize G.
+    ('.on clusion: Therefore, I ough t ( practically speaking) to carry out this action A .
+
+    CQ1 : What other goals that I have that might conflict with G should be con­
+     sidered?
+    CQ2 : What alternative actions to my blingi ng about A that would also bri ng
+     about G should be considered?
+    CQ3: Among bringi ng about A and these alternative actions, which is arguably
+      the most efficient?
+    CQ4: What grounds are there for arguing that i t is practically possible for me
+    CQ5: What consequences of my bringing about A should also be taken into
+
+                         2 2 . 2 . Necessary Condition Schema
+    Goal Pmnist: My goal is to bring about A.
+    A lltrnativts Premise: I reasonably consider on the given information that bring­
+      ing about at least one of [ Bo, B 1 , . . . , B n] is necessary to bling about A .
+    Sekctwn Pmnist: I have selected one member Bi as an acceptable, or as the
+      most acceptable, necessary condition for A.
+    Practirality l'rl"mist: Nothing unchangeable prevents me from bri nging about
+      Bi, as far as I know.
+    Sick F.ffects Premise: Bri n ging about A is more acceptable to me than not bringi ng
+      about Bi.
+    L"onclusion: Therefore , i t is required that I bring about Bi.
+
+                         2 2 . 3 . Sufficient Condition Schema
+    Goal Pmni.�t: My goal is to bring about A.
+    A lternatives Premise: I reasonably consider on t h e given i nformation that b ri ng­
+        ing about at least one of [ Bo, B 1•   • • • •
+                                                 Bn] is necessary to bring about A .
+    .vkcti011 Premise:    I have selected nne member Bi as an acceptable, or as the
+       most acceptable, suflicient wndi tion for A.
+    Practicality Pmnise: Nothing unchangeable prevenl" me from bri ngi ng about
+        /Ji, as far as I know.
+    Sick Effects fumise: Bringing about :\ is more acceptable to me than not bringing
+       about Bi.
+    r..onclus10n: Therefore, it is required that I bri ng about B_i.
+
+'
+
+=== p. 324 ===
+
+                             A rgumentation Schnnl!s
+
+  CQt : Are there alternative means of realizing A, other than Hi' [ A itmmtivl'
+   MeanJ Qut-stim1] .
+  CQ2 : I s B an acceptable (or the best) alternative? [ Arr"/Jtahle/Best Dptior1
+    Qmstio11 ] .
+  CQ�: Is it possible for agent a to do Hi' [ Possibility Question] .
+  CQt : Are there negative side effect� of a's bri nging about B that ought to be
+   considered? [ Negativl' Side Effects Question] .
+  CQs: Does a have goals other than A , which have the poten tial to conflict with
+    a's realizing A? [ C.onjlicting Goals Qmstion] .
+
+                  2 2 .4. Value-Based Practical Reasoning
+
+  Premise r : I have a goal G.
+  Prnn ist 2: G is supported by my set of values, V.
+  Prnnisl' 3: Bringing about A is neces.�ary (or sufficient) for me to bring
+     about (;.
+  C.ondwion: Therefore, I should (practically ought to) bring about A.
+
+  CQ t : What other goals do I have that might conflict with G?
+  CQ2 : How well is G supported by (or at least consistent with ) my v-alues V?
+  CQ3 : What alternative actions to my bringing about A that would also bring
+   about (; should be considered?
+  CQ4 : Among bringing about A and these alternative actions, which is arguably
+    the best of the whole set, in light of considerations of efficit-ncy in bringing
+   about G?
+  CQ;: Among bringing about A and these alternative actions, which is arguably
+    the best of the whole set, in light of my val ues V?
+  CQ6: What grounds are there for arguing that it is practically possible for me
+  CQ7 : What consequences of my bringi ng about A that might have even
+    greater nega tive value than the positive value of G should be taken into
+
+Trevor Bench-C.apon, MPersuasion in Practical Argument Using Value-based Argu­
+  mentation Frameworks." journal of Logir and C.omputation 1 3 ( 2003 ) , pp. 429Douglas Walton , Practical Rea..t oning. Sav-age, Md.: Rowman and Littlefield, t ggo.
+Douglas Walton, MActions and Inconsistency: The Closure Problem of Practi­
+  cal Reasoning." In CAmtemporary Artion ThoJry, vol . 1 , ed. Ghita Holmstrom­
+  Hintikka and Raimo Tuomela. Dordrecht: Kluwer, 1 99 i . p. 1 64.
+
+=== p. 325 ===
+
+                             A User's Compendium of Schemes
+
+Douglas Walton, Slippery Slope A7g�� ments. Newport News, Va.: Vale Press, 1 99 2 ,
+  PP· 8g-go.
+
+                              2 2 . 5 . Argument from Goal
+
+    Major Premise: Doing act A contributes to goal G.
+    Minor Premise: Person P has goal G.
+    Conclusion: Therefore, person P should do act A.
+
+Bart Verheij, "Dialectical Argumentation with Argumentation Schemes: An
+  Approach to Legal Logic." A rtifirial lntelligmce and Law 1 1 ( 1100 3 ) , p. 1 6g.
+
+                  2 2 .6. Argumentation from Ends and Means
+
+22. 6. 1 . Variant r
+    Premist r: x is the means to the end y.
+    Premise 2: y is good ( bad ) .
+    Conclusion: x is good/ less bad ( bad ) .
+
+22. 6.2. Variant 2
+
+    Premist r: Means x should be regarded as an end (end x should be regarded as
+      a means) .
+    Premise 2 : Ends are more important than the means used to achieve them.
+    Cm�rlusion: x should (should not) be regarded as highly important.
+
+22. 6. 3. Variant J
+
+    Premise r: x is the means to the end y.
+    Premi.fe 2: x is easy ( not easy) to achieve.
+    Condrtsion: y is good ( bad ) .
+
+Chaim Perel man and Lucie Olbrech t.s-Tyteca, T"'- Nn» RMtorir: A Trtatise on
+    A 7g�� mnrtation. Notre Dame, Ind.: U niversity of Notre Dame Press , 1 g6g,
+    PP · 2 7 :i -2 7H.
+
+                 2 3 . TWO- PERSON P RA C T I C A L Rt:A S O N I N G
+
+    Premile r : X i n te n ds t o realize t\, and tells Y this.
+    Premise 2 : As Y set�s the situati o n , B is a nt"cessa ry ( s u lli c i e nt ) condition for
+      c a rl)i n g Olll A, and r tells X this.
+
+'
+
+=== p. 326 ===
+
+                                          A rgumentation Schnne.f
+
+   Conclusion: Therefore, X should carry out B, unles.� he ha� beller reasons
+     not to.
+
+  CQ 1 : Does X have other goals (of higher priority) that might conflict with the
+   goal of realizing A?
+  CQ2 : Are there alternative means available to X (other than B) for c arrying
+   out A?
+  CQ3: Would carrying out 8 have known side effect� that might conflict wi th
+    X's other goals?
+  CQ4: Is it possible for X to bring ahout 8?
+  CQ5: Are other actions, as well as 8, requi red for X to bring about A?
+
+Douglas Walton , Appeal to Expert opinion. Un iversity Park: Pennsylvania State
+  University Pres.�. I �J97• p. 1 63 .
+
+                                 2 4 . A R G U M E NT F R O M WASTE
+
+  17nn ist 1 : If a stops trying to realize A now, all a's pre\ious efforts to realize A
+      will be wa�ted.
+  17nn i.st 2 : If all a's previous allempL� to realize A are W"dSted , that would be a
+     bad thing.
+   Ctmdusion: Therefore, a ough t to continue trying to realize A.
+
+  CQ 1 : Is bringing about i\ pos.�ible?
+  CQ:z : Forgetting pa�t losses that cannot be recouped, should a rea�sessment
+   of the wst and benefits of trying to bring about A from this poin t i n time to
+      bt· m adt·?
+
+Douglas Wal t o n . :\ Pragmatic 1 11nrrj oJFallary. Tuscaloosa ancl l..o nclon: Universi ty
+  of A l a ha m a Prt·ss, 1 995, p. 1 5 7 ·
+Douglas \\'a h o n . MThe S u n k Costs Fallacy o r Argument from Waste." .4 rgu mrota­
+   tiou 1 1l ( :1 c •c • :z l . p. 488.
+
+                            2 5 . A R G U M ENT FROM S U N K COSTS
+
+1 1 : Ti me of the propont'"nt's com mitment to a Ct'"rtain action ( pre-commitment )
+1 2 : Time of proporwnt's confrontation wi th the decision whetht'"r carry out tht'
+pre<ommitment or not.
+
+=== p. 327 ===
+
+                           A Us,., 's Compen dium of SchemRs
+
+      Prl'mist r : There is a choice at 12 between A and not-A.
+      Prl'miJt 2: At 12 I am precommitted to A because of what I did or committt>d
+        myself to at 1 1 .
+      Conrlusion: Therefore, I should choose A.
+
+    Dougla-; Walton , MThe Sunk Costs Fallacy or Argument from Waste." A rgwnen ta­
+      tion 1 6 ( 2002 ) , p. 48 9 .
+
+                      2 6 . A RGUM ENT FROM I G N O RA N C E
+
+      Major Premise: If A were tme, then A would be known t o be true.
+      Minor Prem ise : It is not the cao;e that A is known to be tme.
+      Conclwion: Therefore, A is not tme.
+
+             26. 1 . Negative Reasoning from Normal Expectations
+
+      Major Premise : If tht> situation were normal, A would he tme.
+      Minor Premise: I t is not the ca'ie that A is true.
+      Conclwion: Therefore, the situation is not normal.
+
+                        2 6. 2 . Negative Practical Reasoning
+
+      Premise r : I do not know whether A is true or not.
+      Premist 2 : I have to act on the presumption that A is true or not tme.
+      Premist J: If I act on the presumption that A is tme, and A is not true, conSl'­
+        quences B will follow.
+      Premist 4: If I act on the presumption that A is not tme, and A is tme, conse­
+        quences C will follow
+      Premise 5: C'..onsequences B (C) are more serious than consequences C ( B) .
+      Conclwion: Therefore, I act o n th e presumption that A i s not tme ( tme ) .
+
+      CQt : How far alon g has the search for evidence p rogressed?
+      CQ2 : Which side has the burden of proof in the dialogue as a whole? I n otht>r
+       words, what is the ultimate probandum and who is supposed to prove it?
+      CQ3: How strong does the proof need to be in order for this party to be
+       successful in fulfilling the burden?
+
+    Douglas Walton , Arguml'nls from lgnoranct. U niversity Park: Pen nsyl\"ania State
+      U niversi ty Press, t gg6, pp. 84. 86.
+
+'
+
+=== p. 328 ===
+
+                              A rgumentation Sch.emes
+
+Dougla� Walton, A Pragmatic Thmry ofFallary. Tuscaloosa and London: Universi ty
+
+           2 7 . E P I STEM I C A R G U M ENT FROM I G N O RA N C E
+
+  Prnnise r : It ha� not been established that all the true propositions in D are
+    contained in K.
+  Prnnise 2: A is a special type of proposition such that if A were true, A would
+    normally or usually be expected to be in K.
+  Premise 3: A is i n D.
+  Premise 4: A is not in K.
+  Premise 5: For all A i n D, A is either true or false.
+  Conclusion: Therefore, it is plausible to presume that A is false (subject to
+    funher investigations in D) .
+
+Douglas Walton , MNonfallacious Arguments from Ignorance." A mmcan Philosoph­
+  ical Quartn"�J 29 ( 1 992 ) p. 3 86.
+                          ,
+
+               2 8 . A R G U M ENT FROM C A U S E TO EHECT
+
+  Major Premise: Generally, if A occurs, then B will ( might) occur.
+  Minor Premise: In this case, A occurs ( might occur) .
+  C.onclusion: Therefore, in this case, B will ( might) occur.
+
+  CQ 1 : How strong is the causal generalizatiCln?
+  CQ2 : Is the evidence cited (if there is any) strong enough to warrant the causal
+   generalization?
+  CQ3: Are there other causal factors that could i nterfere with the production
+   of the effect i n the given case?
+
+Douglas Walton, A Pragmatic Thmry oJFallary. Tuscaloosa and London : U niversity
+  of Alabama Press, 1 995. pp. 1 4<r 1 4 1 .
+
+          2 9 . A RG U M E N T FROM CORRELAT I O N TO C A U S E
+
+  Premise: There is a positive correlation between A a n d B.
+  Conclusion : Therefore, A causes B.
+
+=== p. 329 ===
+
+                              A Ufer s C..ompendium of Schemes
+
+      CQ1 : Is there really a correlation between A and B?
+      CQ2 : Is there any reason to think that the correlation is any more than a
+        coincidence?
+      CQ:i: Could there be some third factor, C. that is causing both A and B?
+
+    Douglas Wal ton, A Pragmatic Theory ofFallacy. Tuscaloosa and London: University
+    Douglas Walton , Fundammtals of Critical Argummtatwn. New York: Cambridge
+      U niversity Press, 2006, pp. 1 0 1 - 1 03.
+
+                             30. A R G U M ENT F R O M S I G N
+
+      Sptrijic Pmnise: A (a fi nding) i s true in this situation.
+      C.meral Pmnise: B is generally indicated a, true when its sign. A, is true.
+      Conclusion: B is true in this situation.
+
+      CQ1 : What is the strength of the correlation of the sign \\ith the event signified?
+      CQ2 : Are there other events that would more rdiably account for the sign?
+
+                                         Refere nces
+    Douglas Walton, Fundammtals of Critical Argumentation. New York: Cambridge
+      Universi ty Pres.,, 2(X>6, pp. 1 1 3- 1 1 4.
+
+                  3 1 . A B DUCTI V E A RG U M ENTAT I O N S C H E M E
+
+                      3 1 . 1 . Backward Argumen tation Scheme
+
+      Pmnise r : D is a set of data or supposed facts in a case.
+      Pmnise 2 : Each one of a set of accoun ts A , . A• • . . . , A. is successful in explain­
+        ing D.
+      Premise 3: A, is the account that explains D most successfully.
+      Conclusion: Therefore, A, is the most plausible hypothesis in the case.
+
+                       3 1 . 2 . Forward Argumentation Scheme
+
+      Prrm ise r : D is a set of data or supposed facts in a case.
+      Premise 2: There is a set of argument diagrams G , , G • . . . . , G and in each argu­
+                                                                         ••
+
+        ment diagram D represcnts premises of an argument that, supplemented by
+
+'
+
+=== p. 330 ===
+
+    plausible condi tionals and other statemenlS that function as missi ng parlS
+    of enlh}memes, leads to a respective conclusion C, . r.• . . . . . c
+                                                                      •.
+
+  Prnn i.fl' J: The most plausible (strongest) argument is represented by (; ,,
+
+  Condu.fion: Therefore, r., is the most plausible conclusion in the case.
+
+  CQt : How satisfactory is A , i lSelf as an explanation of D, apart from the
+   alternative explanations available so far in the dialogue?
+  CQ2 : How much better an explanation is A, than the alternative explanation
+   so far in the dialogue?
+  CQ3: How far has the dialogue progressed? If the dialogue is an inquiry, how
+    thorough has the search been in the investigation of the case?
+  CQ4: Would it be better to continue the dialogue further, instead of drawing
+   a conclusion at this poin t?
+
+  3 1 . 3 . Abductive Scheme for Argument from Action to Character
+
+  Prnnise: Agent a did something that can be classified as fitting a parti cular
+    character quality.
+  Conclusion: Therefore, a has this character quality.
+
+  CQt : What is the character quality i n question?
+  CQ2 : How is the character quali ty defined?
+  CQ3: Does the description of the action i n question actually fit the definition
+   of the quali ty?
+
+        3 1 + Scheme for Argument from Character to Action
+                                  ( Predictive )
+
+  Prtmi.ft: Agent a ha'l a character quality of a kind that has been defined.
+  C.ondusion: Therefore, if a carries out some action in the future, this action is
+     likely to be cla'lsifiable as fitting under that chardcter quality.
+
+  CQt : What is the character quality i n question?
+  CQ2 : How is the char.1cter quality defined?
+  CQ3: Does the description of the action in question actually fit the defi n i tion
+    of the quality?
+
+Comment: Even though the critical questions are the same for both, the predictive
+scheme for argument from character to action needs to be distinguished from
+
+=== p. 331 ===
+
+                            A User 's Compendium of Scht:mes                      33 1
+
+    the retroductive scheme that reasons from character to a particular al·tion, and
+    these two schemes need to be disti nguished from the argument from a past action
+    to an agent's character.
+
+      3 1 . 5 . Retroductive Scheme for Identifying an Agent from a Past
+                                     Action
+
+      Factual Premisr: An observed event appears to have been brought about by
+        some agent a.
+      Charactn- Premise: The bringing about of this event fits a certain character
+        quality Q
+      Agmt Trait Premise: a has Q.
+      Conclusion: a brought about the event in question .
+
+      CQt : What is the quality Q in question?
+      CQ2 : How is Q defined?
+      CQ:-3: Does the description of the action in question actually fit the definition
+        of Q?
+      CQ4: How large is the reference class of other agents who also might have
+        brought about this event and who have the same character quality?
+
+    Douglas Wal ton, Lrgal A rgu men tation and Evidmce. University Park: Pennsylvania
+      State U niversity Pres.'l, 2002, p. 44 ·
+    Douglas Walton, Abd11ctive &ason ing. Tuscaloosa: University of Alabama Prrss,
+      2004 .
+    Douglas Wal ton, Charactn- Evidmcr: A n Abductive Thtory. Dordrrcht: Springer,
+
+            3 2 . A RG U M ENT l'ROM EV I D ENCE TO A H Y POTH ES I S
+
+                        3 2 . 1 . Argument from Verification
+
+      Major Premise: If A (a hypothesis) as tnte, then B (a proposition reporting an
+        event) will be observed to be tnte.
+      Minor Premise: B has been observed to be tnte, in a given instance.
+
+                        3 2 . 2 . Argument from Falsification
+
+      Major Premisr: If A ( a hypothesis) as trm�. then B (a proposition reporting an
+        event) will he observed to be tnte.
+
+'
+
+=== p. 332 ===
+
+  Minor Pmnist: B has been observed to be false, in a given instance.
+  Conclusion: Therefore, A is false.
+
+                              Criti cal Questions
+
+  CQ1 : Is it the ca.'le that if A is true, then B is true?
+  CQ2 : Has B been observed to be true ( false ) ?
+  CQ3: Could there be some reason why B i s true. other than its being because
+   of A being true?
+
+Douglas Walton , Argummtalion SrhnMs for Presumptiw &asoning. Mahwclh, N J . :
+  Erlbaum, 1 gg6, p p . 67-7<>.
+
+                3 3 · A R G U MENT FROM C O N S EQU EN C ES
+
+             3 3 . 1 . Argument from Positive Consequences
+
+  Premise: If A is brough t about, good consequences will plausibly occur.
+  Conclusion: Therefore, A should be brought about.
+
+             3 3 . 2 . Argument from Negative Consequences
+
+  Premise: I f A is brought about, then bad consequences will occur.
+  Conclusion: Therefore, A should not be brought about.
+
+             3 3 · 3 · Reasoning from Negative Consequences
+
+  Premise 1 : If I (an agent) bring about (don't bring about) A, then B will occur.
+  Premise 2 : B is a bad outcome ( from the point ohiew of my goals) .
+  Conclusion: Therefore, I should not ( practically speaking) bring about A.
+
+             3 3 + Argument from Negative Consequences
+                       ( Pruden tial Inference)
+
+  Premise 1 : You were considering not doing A.
+  Pmnist 2 : But, if you do not do A, some consequence 8, which will be very bad
+    for you, will occur, or is likely to occur.
+  Conclusion: Therefore, you ought to reconsider and ( other things being equal )
+    you ought ( prudentially) to do A.
+
+  CQ1 : How strong is the likelihood that the cited consequences will ( may. must)
+   occur?
+
+=== p. 333 ===
+
+                             A Users C.ompendium ofSchnru!s                           333
+
+      CQ2 : What evidence supports the claim that the cited consequences will ( may,
+        must ) occur, and is it sufficient to support the strength of the claim ade­
+       quately?
+      CQ3: Are there other opposite consequences (bad as opposed to good, for
+       example) that should be taken into account?
+
+    Douglas Walton, A Pragmatic Theory ofFal/my. Tuscaloosa and London: University
+      of Alabama Press, 1 995. pp. 1 55- 1 56.
+    Douglas Walton, Scare TtUtics. Dordrecht: Kluwer, 2ooo , p. 1 2 3.
+
+             3 4 · P RA G MA T I C A R G U M ENT FROM A LTERNATI VES
+
+      Premise r : Either you ( the respondent) must bring about A, or B will occur.
+      Premi.fe 2: B is bad or undesirable, from your point of view.
+      Conclusion: Therefore, you should (ought to, practically speaking) bring
+        about A.
+
+    Douglas Walton, Scare Tactics. Dordrecht: Kluwer, 2000, p. 1 42 .
+
+                          3 5 · A R G U MENT FROM TH REAT
+
+      Premise r : If you bring about A, some cited bad consequences, B, will follow.
+      Premise 2: I am in posi tion to bring about B.
+      Premise J: I hereby asse rt that in fact I will see to it that B occurs if you bri ng
+        about A.
+      Condusion: Therefore, you had better not bring about A.
+
+             3 5 . 1 . Argument from Disj unctive Ad Baculum Threat
+
+      Premise r: You ( th e respondent) must bring about A, or I ( the proponent) will
+        undertake to see to it that B will occur.
+      Premise 2: B is bad or undesirable, from your point of view.
+      Conclusion: Therefore, you should (ought to, practically speaking) bring
+        about A.
+
+    Douglas Walton, A Pragmatic Theory ofFal/my. Tuscaloosa and London: Un iversity
+    Douglas Walton, Scare Tactics. Dordrecht: Kluwer, 2000 , p. 1 40.
+
+                       3 6 . A R G U M E N T FROM FEA R A PPEA L
+
+      Prem ise 1 : If you d o n o t bring about A, then D will occur.
+      Premise 2: D is very bad for you.
+
+'
+
+=== p. 334 ===
+
+334                             A rgumt'Tltation Schemes
+
+  Prnn ise 1: Therefore, you ought to prevent D if possible.
+  Premise 4: But the only way for you to preven t D is bring about A.
+  Conrlusion: Therefore, you ought to bri ng about A.
+
+Douglas Wal ton, Scare Tactics. Dordrecht: KJuwer, :woo, p. 2 2 .
+
+                 3 7 · A R G U M ENT I'ROM DA N G E R A P PEA L
+
+  Pmnist I: If you ( the respondent) bring about A. then B will occur.
+  Pmnist 2: B is a danger to you.
+  umrlusio11: Therefore (on balance) you should not bring about A.
+
+Douglas Wal ton, &art Tactics. Dordrecht: KJuwer, 2000, p. 1 73
+
+                  3 8 . A RG U M ENT I'ROM NEED I'OR H E LP
+
+  Pmnise I: For all x and y, y ought to help x. if x is in a situation where x needs
+    help, and y can help. and y's giving help would not be too costly for y.
+  Pmnist 2 : x is in a situation where some action A by )' would help x.
+  Pmnise J: y can carry out A.
+  Pmnise 4: y's carrying out A would not be too costly for y - that is, the negative
+    side effects would not be too great, as y sees it.
+  Conclusion: Therefore, y ough t to carry out A.
+
+  CQ1 : Would the proposed action A really help x?
+  CQ2 : Is it possible for y to carry out A?
+  CQ3: Would there be negative side effects of carrying out A that would be too
+   great?
+
+Douglas Walton, Apptal to Pity. Albany: State U niversi ty of New York Press, t 997,
+  pp. 1 04, 1 55·
+
+                      3 9 · A R G U M ENT ··RoM D I STRESS
+
+  J'rtmise I : Individual x is in distress ( is suffering) .
+  Pmnise 2: If y brings about A, it will relieve or help to relieve this distress.
+   Conclusion: Therefore, y ought to bring about A.
+
+=== p. 335 ===
+
+    CQ1 : Is x really in distress?
+    CQ2 : Will y's bringing about A really help or relieve this distress?
+    CQ<i : Is iL possible for J LO bring aboUL A?
+    CQ4: Would negative side effects of _v's bringing about A be too great?
+
+Douglas Wal ton , Appeal to Pity. Albany: Stale t: niversity of Nt·w York Press, 1 99i,
+  pp. 1 0 5 , 1 55·
+
+                  40. A R G U M t:NT FROM COM M I T M E N T
+
+                                     Version 1
+
+    Commitmmt Evidmu Prnni.�e : In this case iL was shown that a is commiued to
+      proposition A, according to the evidence of what he said or did.
+    Linkage of Commitmnzts Premise: Generally, when an arguer is com milled to A,
+      it can be inferred that he is also com mined to B.
+    Condusion: In this case, a is committed to B.
+
+                                     Version 2
+
+    Major Prnnise : If arguer a has commiued herself to proposi tion A at some
+      point in a dialogue, then it may be inferred that she is also committed to
+      proposi tion B. should the question of whether B is tme become an issue
+      later in the dialogue.
+    Minor Premi.'il': Arguer a has commiucd herself to proposition A at some poin t
+      in a dialogue.
+    Condusio11 : At some later poin t in the dialogue, where the is.�ue of B arises,
+      arguer a may be said to be commiued to proposition B.
+
+    CQ1 : What e"idence in the case supports the claim that a is com mi ned Lo
+     A, and does iL include con trary evidence, indicating that tl might not be
+      commiued to A?
+    CQ2 : Is there room for questioning whether there is an exn·ption in this case
+     to the gener.il mle that commiLment to A implies commitmelll to H?
+
+Douglas Wal ton, Fundamenltll.s of Critiml .<\ rgumentation. Cambridge: Cambridge
+  University Pres.�. 2006, pp. 1 1 j- 1 1 8.
+Douglas Wal ton, "The Sunk Costs Fallacy or Argument from Waste." A rgu menla­
+  timl 1 6 ( 2002 ) , p. 490.
+
+'
+
+=== p. 336 ===
+
+                          4 1 . ETH OT I C A R G U M ENT
+
+  Major Premise: If x is a person of good (bad ) moral character. then what x says
+    should be accepted as more plausible ( rejected as less plausible ) .
+  Minor Premise: a i s a person o f good ( bad ) moral character.
+  Conclusion: Therefore, what x says should be accepted as more plausible
+    ( rejected as less plausible) .
+
+  CQ1 : Is a a person of good ( bad) moral character?
+  CQ2 : Is char.tcter relevant in the dialogue?
+  CQ.�J: Is the weight of presumption claimed strongly enough warranted by the
+    evidence given?
+
+Douglas Walton, A Pragmatic Thmry oJFallm:y. Tuscaloosa and London: University
+
+                         4 2 . G E N E R I C A D H OM I N EM
+
+  Character A ttack Premise : a is a person of bad character.
+  Conclusion: a s argument a should not be accepted.
+               '
+
+  CQ1 : How wel l supported by evidence is the allegation made i n the character
+   attack premise?
+  CQ2 : Is the issue of character relevant in the type of dialogue in which the
+   argument was ust'd?
+  CQ3: Is the conclusion of the argument that a should be (absolutely) rejected,
+   even if other evidence to suppon a has been presen ted, or is the conclusion
+    merely ( the relative clai m ) that a should be assigned a reduced weight of
+   credibility as a supponer of a, relative to the total body of evidence a\ailable?
+
+Douglas Walton, Fundnmmtals of Critical A rgummtation. Cambridge: Cambridge
+  U niversity Press, 2006, p. 1 2 3.
+
+                    43· PRA G M A T I C I NC O N S I STENCY
+
+  Premise: a advocates argument a , which has proposition A as its conclusion .
+  Premise: a has carried out an action, or set of actions, that imply that a is
+    personally committed to -,A ( the opposite, or negation of A ) .
+  C.onclusion: Therefore, a's argument a should not be accepted.
+
+=== p. 337 ===
+
+                             A User's Compendium ofSchmv.s                             337
+
+      CQ1 : Did a advocate a in a strong way indicating her personal commitment
+        to A?
+      CQ2 : In what words was the action described, and does that description imply
+        that a is personally committed to the opposite of A?
+      CQ.�: Why is the pragmatic inconsistency indicated by satisfactory answers to
+        CQ1 and CQ2 a relevant reason for not accepting argumen t a?
+
+    Douglas Walton , Ad Hominem AJg�llnenls. Tuscaloosa: U niversity of Alabama Press,
+      • gg8, pp. 2 1 8, 25 1 .
+
+           4 4 · A R G U M ENT FROM I N C O N S I STENT C O M M I TM ENT
+
+      Initial Commitment Premise: a has claimed or indicated that he is committed to
+        proposition A (generally, or by vinue of what he has said in the pa�t ) .
+      Dppostd Commitmmt Prnnist: Other evidence i n this particular case shows that
+        a is not really committed to A.
+      Conclusion: a's commitments are inconsistent.
+
+      CQ1 : What is the evidence supposedly showing that a is committed to A?
+      CQ2 : What further evidence in the case is alleged to show that a is not com­
+        mitted to A?
+      CQ3: How does the evidence from premise 1 and premise 2 prove that there
+        is a conflict of commitments?
+
+    Douglas Walton , Fundamentals of Critical AJgl.lmtntation. ('.ambridge: Cambridge
+      University Press, 2006, pp. 1 20- 1 2 1 .
+
+                      4 5 · C I R C U MSTA N T I A L A D H O M I N EM
+
+      AJgl.lmtnt Premise: a advocates argument a , which has proposition A as its
+        conclusion.
+      Inconsistent Commitment Prnn ist: a is personally committed to the opposite
+         ( negation ) of A, as shown by commitments expressed in her/his personal
+        actions or personal circumstances expressing such commitments.
+      Crtdibility Que.stwning Prnn is t: a's credibility as a sincere person who believes in
+        his own argument has been put into question (by the two premises above) .
+      Condusim1: The plausibility of a's argument a i s decreased o r destroyed.
+
+'
+
+=== p. 338 ===
+
+                              Argumentation Sr/mn,.s
+
+  CQ1 : Is there a pair of commitments that can be identified, shown by evidence
+    to be commitments of a, and taken to show that a is practically inconsistent?
+  CQ2 : Once the practical inconsistency that is the focus of the attack is identi­
+    fied, could it be resolved or explained by further dialogue, thus preservi ng
+    the consistency of the arguer's commitments in the dialogue, or showing
+    that a's inconsistent commitment does not support the claim that a lacks
+    credibility?
+  CQ..l\: Is character an issue in the dialogue, and more specifically, does a's
+    argument depend on his/ her credibility?
+  CQ4: Is the conclusion the weaker claim that a's credibility is open to question
+    or the stronger claim that the conclusion of a is false?
+
+Douglas Walton , Ad Hominnn AJgUmmts. Tuscaloosa: U niversity of Alabama Press,
+  l gg8, pp. 255-256.
+Douglas Walton , Fundammtals of Critical Arg11 mmtation. Cambridge: Cambridge
+  University Press, 2006, pp. 1 2 5- 1 26.
+
+                        46. A R G U M ENT FROM B I A S
+
+  Majur Pmnise: If x is biased, th e n x is less likely t o have taken the evidence on
+    both sides into account in arriving at conclusion A.
+  Minur Premise: Arguer a is biased.
+  Conclwio11: Arguer a is less likely to have taken the evidence on both sides into
+    account in arriving at conclusion A.
+
+  CQ1 : What type of dialogue are the speaker and hearer supposed to be
+   engaged in?
+  CQ2 : What evidence has been given to prove that the speaker is biased?
+
+Douglas Walton , A Pragmatic ThKrry ofFallary. Tuscaloosa and London : U niversity
+
+                            4 7 . B I A S A D H O M I N EM
+
+  Premist 1 : Person a, the proponent of argument a , is biased.
+  Premist 2: Person a's bias is a failure to honestly take part in a type of dialogue
+    D, that a is part of.
+  Pmnist J: Therefore, a is a morally bad person.
+
+=== p. 339 ===
+
+                             A User's Compendium of Schemes                             339
+
+      C..onclusion: Therefore, a should not be given as much credibility as it would
+          have without the bia�.
+
+      CQt : What is the e\idence that a is biased?
+      CQ2 : If a is biao;ed, is it a bad bias that is detrimental to a's honestly taking part
+       in D, or a normal bia� that is appropriate for the type of dialogue in which
+       a was put forwdrd?
+
+    Douglas Wal ton, Ad Hominnn A 'RU 11umls. Tuscaloosa: University of Alabama Press,
+      t gg8, p. 255·
+
+                       48. A RG U M ENT I'ROM G RA D U A L I S M
+
+      Pr�mis� 1 : Proposition A is true (acceptable to the respondent) .
+      Premis� 2: There is an intervening sequence of propositions, B, , B• • . . . B._ , .
+          • .
+          B C, such that the following conditionals are true: If A , then B, ; if B , , then
+          B. . . . ; if B._ , , then B.; if B., then C.
+      Premis� J= The conditional "If A, than C" is not, by itself, acceptable to the
+         respondent, nor are shorter sequences from A to C ( than the one specified
+         in the second premise ) acceptable to the respondent.
+      C..onclusion: Therefore, the proposition C is true (acceptable to the respon­
+
+    Douglas Walton , A 'R"U mmtation Sc�s for fusumptitlt &asoning. Mahwah, NJ.:
+      Erlbaum, t gg6, p. g6.
+
+                         4 9 · S L I PPERY S LOPE A R G U M ENT
+
+      first Sttp Premis�: A.. is up for consideration a� a proposal that seems ini tially
+         like something that should be brought about.
+      &rursit'� Prnnis�: Bringing up A., would plausibly lead       (in the given circum­
+        stances, as far as we know) to A , , which would in tum plausibly lead to A        • •
+
+        and so f(,rth, through the sequence A, . . . . :1 .•.
+
+      Bad Outroml' P'lemi.��= A . is a horrible (disastrous, bad ) uutcomt'.
+      Conclusio'll : A.. should not bt• brought about.
+
+      CQt : What inten·ening proposi tions in the sequence linking up A. . wi th A.
+       arc actually given?
+
+'
+
+=== p. 340 ===
+
+                                A rgumentation Schemes
+
+  CQ2 : What other steps are required to fill in the sequence of events, to make
+    it plausible?
+  CQ3: What are the weakest links in the sequence, where specific c ri tical ques­
+    tions should be asked on whether one event will really lead to another?
+
+Douglas Walton, SlifJPt!ry Shipe A rguments. Newport News, Va. : Vale Press, 1 99 2 ,
+  pp. 93· 95·
+Douglas Walton , Fundamentals of Critical Argumentation. Cambridge: Cambridge
+  University Press, :mo6, pp. 1 07 , 1 1 0.
+
+             50. PREC EDENT S LI PPERY S LOPE A R G U M ENT
+
+  Claim to Exceptional Status Prnn ist: Case C., is claimed to be an exception to the
+    rule R (an excusable or exceptional case ) .
+  Related Cases Prnn ise: Case C., i s similar t o case C, , that is, i f C., i s held to be
+    an exception, then C, must be held to be an exception too (in order to
+    be consistent in treating equal cases alike ) . A sequence of similar pairs of
+    cases I C, , C i I binds us by case-to-case consistency to the series C., , C,     • . . .
+
+     c•.
+  lntokrabll Outcome Premise: Treating case C., as an exception to the rule R would
+    be intolerable ( for the various kinds of reasons that could be relevant) .
+  C.onclusion: Case C., cannot be judged to be an t"xception to the rule (an
+    excusable or exceptional case) .
+
+  CQ1 : Would C., set a precedent?
+  CQ2 : What is the evidence showing why each of the precedents cited in the
+    intervening sequence would occur?
+  CQ3: Is C., as i n tolerable as it is portrayed?
+
+Douglas Wal ton , A Pragma t ic Tlvory of Fallacy. Tuscaloosa and London : University
+  of Alabama Press, 1 995, p. 1 59·
+Douglas Wal ton, SlifJPt!ry Slope Arguments. Ne wport News, Va. : Vale Press, 1 992,
+  pp. 93· 95 ·
+
+               5 1 . S O R I TES S L I P PERY S LOPE A R G U M ENT
+
+  In itial Base Premi.�e: I t is clearly beyond contention t h a t a , has /'.
+  C.eneml lnductivt' Prem.ise: If a, has P, t h e n a.- • h as P
+                                                               .
+
+=== p. 341 ===
+
+                           A User:s Compendium of Schemes                              34 1
+
+    &applicatioTI Sequence: A sequence of modus ponms subarguments, a premise
+      set linking premises and conclusions from the clear area th rough the grey
+      area.
+    Conclusion: a, may have P, for all we know (or can prove ) .
+
+Douglas Walton, wThe Argument of the Beard." lnf()T'TIIa l Logir 1 H ( 1 996) , p. :.1 5 1 .
+
+                 5 2 . V E R B A L S L I PPERY S LOPE A R G U M ENT
+
+    Prnnist' r · Individual a, has property F.
+    Premise 2: If a, has f; then a, has F.
+    Premise 3: Property F is vague, and so generally, if a, has f; then you can 't deny
+      that the next closely neighbori ng individual a, has F.
+    Prnnise 4: But quite clearly it is false that a. has F.
+    Conclusion: Therefore, you can 't truly say that a, ha� f:
+
+Douglas Walton , A Pragmatic TM.ary oJFai.UJry. Tuscaloosa and London: University
+
+                   5 3 · FULL S L I PPERY S LOPE A RG U M ENT
+
+    Initial Pmnue: Case C., is tentatively acceptable as an initial presumption .
+    Sequential Premise: There exists a series o f cases c. . . C, , . . . c._ , . where each
+      leads to the next by a combination of causal, precedent, and/or analogical
+      steps.
+    C.roup opinion Prnnist': There is a climate of social opinion such that once
+      people come to accept each step as plausible, then they will also be led to
+      accept the next step.
+    Conclusion: c.. is not acceptable (contrary to the presumption of the initial
+      premise ) .
+
+    CQ1 : How strong is the argument?
+    CQ2 : How strong does the argument need to be in order to fulfill i ts burden
+      of proof?
+    CQ3: Will people be led to accept the next step once they come to accept eac h
+      step as plausible?
+
+Dougla� Wal ton, SlipfH'ry Slopf AJgUmmls. Newport News, Va. : Val<" Press, 1 99:.1,
+  PP· :.ICX>, :.103.
+
+'
+
+=== p. 342 ===
+
+34 2                               Argumentation Srhemi-.s
+
+              5 4 · A RG U M ENT FO R C O N STITU T I V E- RULE C LA I M S
+
+                         5 4 · 1 . Physical World Premise Version 1
+
+  flrt'111 ist': A li' is a D.
+  Warrant \\1l c n e ve r expressions are referen tially coextensive , they arc synony­
+           mous.
+  Conrlusio11: " W " means the same as "D."
+
+   1 . The warrant backing does not apply if the premise is not a necessary
+            truth.
+
+                         54. 2 . Physical World Premise Version 2
+
+  Pmni.fe: In the o ffi c i a l mlebook for I (a mlc-governcd insti mtion, s u c h as a
+     game ) . it is stated that D counts as W.
+   U�lrrant Oflicial mlebooks correc tly report the mles in forc e     .
+
+   Condusion: /) cou n l'l as W.
+
+   1 . The warrant backing applies unless the rule has changed since the
+            publication of the rule book.
+
+                               5 4 · 3 · Mental World Premise
+
+  Pr1!111 is e: Spe ak ers of L believe that " W" means the same a'l "D."
+   Warra nt Speakers of a language are generally correct about word defin i tions
+     i n that language .
+   Conclusion: W" means the same as "D."
+                     "
+
+                                      Rebuttal Fac tor
+   1   .    Speakers are able to use the word " W" in the correct physical and
+            grammatical context without being correct about the nature of its
+            referent or property.
+
+Wayrw Grennan, hzformal l.ol{ir. Mon treal : McGil l-Queen 's U n iversity Press, 1 99 7 ,
+   p. 1 9 6.
+
+=== p. 343 ===
+
+                          A User 's Compendium of Schemes                        343
+
+                        5 5 · A RG U M ENT FROM RU LES
+
+                          55 . 1 . From Establ ished Rule
+
+    Major Prnnisr: If carryi ng out types of actions including A is the establislwd
+      rule for x, then (unless the case is an exception ) , x must carry out A.
+    Minor Prrmi.�r: Carrying out types of actions including A is the establ ished rule
+      for a.
+    Conclusion: Therefore, a must carry out A.
+
+    CQt : Does the rule require carrying out types of actions that includt· A as an
+      instance?
+    CQ:� : Are there other establ ished mles that might connict with or override
+      this one?
+    CQ3: Is this case an exn·ptional one, that is, could there be extenuating
+      circumstances or an excuse for noncompliance?
+
+Douglas Wal ton , A Pragmatic Theory oJFallary. Tuscaloosa and London: University
+  of Alabama Press, 1 99 5 · p. i 4 i ·
+
+                                 55. 2 . From Rules
+
+    l\fajar Prnnise: If A is the case, then an evaluation E is justified/conduct C is
+       required.
+    Minor Prl'111 ise: A is the case.
+    Conclusion: Therefore, e\·aluation E is justi fied/ conduct C is req uired .
+
+                                            M
+Peter Jan Schellens and Menno DeJong, Argumentation Schemes in Pe rsuasivt•
+  Brochures." A rgummtation 1 8, ( 20<>4 ) , p. 3 1 1 .
+
+             5 5 · 3 · Re gu lative-Rule Premise Obli gation Claim
+
+    Prnnisr: A is prohibited (obligatory) .
+    Warrant: One must not (must) do what is prohibited (obligatory) .
+    Conclusion: S must ( m ust not) do A.
+
+    1 . S has an adequate excuse, or an overriding duty.
+
+'
+
+=== p. 344 ===
+
+Wayne Grennan, /nfrmnal Logir. Mon treal: McGill-Queen 's U niversity Press, 1 997,
+  p. 1 6g.
+
+              56. A R G U M ENT ... O R AN EXC EPTI O N A L C A S E
+
+  Major Pmnist: If the case of x is an exception, then the established mle can be
+      waived in the case of x.
+  Minor Pmnist: The case of a is an exception.
+  C.ondusion: Therefore, the established mle can be waived in the case of a.
+
+  CQ1 : Is it the case of a a recognized type of exception?
+  CQ2 : If it is not a recognized case, can evidence that the established mle does
+    not apply to it be given?
+  CQg: If it is a borderline case, can comparable cases be cited?
+
+Douglas Walton, A Pragmatic 1'11Mry of Fallacy. Tuscaloosa and London: University
+  of Alabama Press, 1 995. p. 1 4 i .
+Douglas Walton , Argummtation Schnnls for Pre5umptitlt /Uasoning. Mahwah, NJ.:
+  Erlbaum, 1 996, p. 93·
+
+                    5 7 · A R G U M ENT }'ROM PREC EDENT
+
+  Major Prtmise: Generally, according to the established nde, if x ha, property F.
+      then x also has property G.
+  Minor Premise: In this legitimate case, a has F but does not have G.
+  Conclusion: Therefore, an exception to the mle must be recognized, and the
+      mle appropriately modified or qualified.
+
+  CQt : Does the established mle really apply to this case?
+  CQ2 : Is the case cited legi timate, or can it be explained as only an apparent
+   violation of the mle?
+  CQg: Can the case cited be dealt with under an already recognized category
+   of exception that does not require a change in the mle?
+
+Douglas Wal ton, A Pragmatic TIIBJry ofFaiJncy. Tuscaloosa and London: University
+  of Alabama Press, 1 995, p. 1 48.
+
+=== p. 345 ===
+
+                         A Ust!T's C.ompendium of Schemes                       345
+
+                5 8 . A RG U M ENT FROM PLEA FOR EXCUSE
+
+    Pmnise r : Normally, nale R requires or forbids a type of action or inaction T,
+      which carries with it a sanction ( penalty) S.
+    Pmnise 2: I ( the pleader) have committed T.
+    Pmnise 3: But I can cite special circumstances that constitute an excuse, E
+    Conrlusion: Therefore, in this instance, I ough t to be exempted from S.
+
+    CQ1 : Does E fall under one of the recognized categories of excuses for this
+      type of case, and, if so, can this inclusion be justified in this case?
+    CQ2 : If E does not fal l under a recognized category, then what about this ca'le
+      is special that j ustifies the claim to exemption?
+    CQ3: If E does not fall under a recognized category, would it set a precedent,
+     and if so, would this pose a problem in future cases?
+
+Douglas Walton, Appeal to Pity. Albany: State U niversity of New York Press, 1 997,
+  pp. 1 54· 1 56.
+
+                    59· A R G U M ENT FROM PERCEPT I O N
+
+                       59· • . Argument from Perception
+
+    Pmnise r : Person P has a IP image (an image of a perceptible property) .
+    Pmnitt 2: To have a IP image (an image of a perceptible property) is a prima
+      facie reason to believe that the circumstances exemplify IP·
+    Cm�rlusion: I t is reasonable to believe that IP is the ca�e.
+
+                                    Undercutter
+
+    CQ1 : Are the circumstances such that having a IP image is not a reliable
+     indicator of I{J?
+
+Joh n Pollock, Cognitive Carpentry. Cambridge, Mass . : M IT Press, 1 995, p. 53·
+
+                      59. 2 . Argument from Appearance
+
+    Pmnise: This o�ject looks like it could be classified under verbal catt�gory C
+    Conrlu.tion: Therefore, this object can be classified under verbal category C.
+
+    CQ1 : Could the appearance of its looking like i t could he classified under C
+     be misleading for some reason?
+
+'
+
+=== p. 346 ===
+
+                               Argummtation Srhl'mi!S
+
+  CQ:.t : Although it may look like it can be classified under C, could there be
+   grounds for indkating that it might be more justifiable to da'ISify it under
+   another category D?
+
+Douglas Walton , "Argument from Appearance: A Nt>w Argumentation Scheme. "
+  Logique et A r��vse 1 95 ( :.�oo6 ) , pp. 3 1 9-3 40.
+
+                       6o. A R G U M ENT FROM M E M O R Y
+
+  Premise 1 : Person P recalls ,P.
+  Premise 2 : Recalling ,P is a prima facie reason to believe ,P.
+  Conrl�tsior�: I t is reasonable to believe ,P.
+
+                                     U ndercutter
+
+  CQ1 : Was ,P originally based on beliefs of which one is false?
+  CQ2 : Is ,P not originally believed for other reasons?
+  CQ3: Does the agent who recalls ,P express doubt about ,P ?
+
+J. L. Pollock, "Defeasible Reasoning." Cognitive Science 1 1 ( 1 987 ) , pp. 48 1 -5 1 8 .
+

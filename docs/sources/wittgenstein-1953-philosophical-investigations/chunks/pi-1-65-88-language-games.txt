@@ -1,0 +1,478 @@
+=== chunk: wittgenstein-1953-philosophical-investigations/pi-1-65-88-language-games ===
+title: Part I §§65–88 — language-games and family resemblance
+source_pdf: docs/sources/wittgenstein-1953-philosophical-investigations/full.ocr.pdf
+pdf_pages: 38-48
+page_scheme: section_number
+plan_page_start: 65
+plan_page_end: 88
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 38 ===
+
+                       PHILOSOPHICAL INVESTIGATIONS I                                   31?
+
+gives you everything.—But can I not say that an aspect of the matter is
+lost on you in the latter case as well as the former?
+
+      64.    Letus imagine language game (48) altered so that names signify
+not monochrome squares but rectangles each consisting of two such
+squares.       Let such a rectangle, which is half red half green, be called
+"U";        a half green half white one,      "V";   and       so   on.    Could we not
+imagine people who had names for such combinations of colour, but
+not for the individual colours?             Think of the cases where we say:
+"This arrangement of colours              (say the French tricolor) has a quite
+special character."
+      In what sense do the symbols of this language-game stand in need of
+analysis? How far is it even possible to replace this language-game by
+(48)?—It is just anotherlanguage-game; even though it is related to (48).
+
+      65.     Here we come up against the great question that lies behind
+all    these    considerations.—For        someone       might object        against me:
+"You take the casy way out!               You talk about all sorts of language-games, but have nowhere said what the essence of a language-game,
+and hence of language, is:             what is common to all these activities,
+and what makes them into language or parts of language.                           So vou
+let yourself off the very part of the investigation that once gave you
+yourself most headache, the part about the generalform ofpropositions
+and of language."
+      And this    is truec.—Instead of producing            something        common to
+all that we call language, I am saying that these phenomena have no
+one thing in common which makes us use the same word for all,—
+but that they are related to one another in many different ways. And it
+is because of this relationship, or these relationships, that we call them
+all "language".      I will try to explain this.
+
+      66.     Consider for example the proceedings that we call                  "games".
+I mean board-games, card-games, ball-games,                     Olympic games, and
+so on.        What is common to them all?—Don't say:                      "There must be
+somecthing       common,    or     they   would    not    be    called     'games' "—but
+look and see whether there is anything common to all.—For if you look
+at them you will not             see   something   that is      common to        all,   but
+similarities,     relationships,   and a whole       series     of them      at that.   To
+repeat.       don't think, but look!—Look for example at board-games,
+with their multifarious relationships.            Now pass to card-games; here
+vou find many correspondences with the first group, but many common
+
+=== p. 39 ===
+
+326                      PHILOSOPHICAL INVESTIGATIONS I
+
+features drop out, and others appear.                 When we pass next to ballgames, much that is common is retained, but much is lost.—Are they
+all 'amusing'?          Compare chess with noughts and crosses.            Or is there
+always winning and losing, or competition between plavers?                        Think
+of patience.       In ball games there is winning and losing; but when a
+child throws his ball at the wall and catches it again, this feature has
+disappeared.           Look at the parts played by skill and luck; and at the
+difference between skill in chess and skill in tennis.                 Think now of
+games like ring-a-ring-a-roses; here is the clement of amusement,
+but how many other characteristic features have disappeared!                       And
+we can go through the many, many other groups of games in the same
+way; can see how similarities crop up and disappear.
+      And the result of this examination is: w'e see a complicated network
+of similaritiecs         overlapping    and     criss-crossing:    sometimes    overall
+similarities, sometimes similarities of detail.
+
+      67.    1   can   think   of no   better    expression   to   characterize   these
+similarities than "family resemblances”; for the various resemblances
+between members of a family: build, features, colour of eyes, gait,
+temperament, etc.           etc.   overlap and criss-cross in the same way.
+And I shall say: 'games' form a family.
+      And for instance the kinds of number form a family in the same way.
+Why do we call something a "number”?                      Well, perhaps because it
+has     a—direct—relationship with              several things     that have   hitherto
+been called number; and this can be said to give it an indirect relationship to other things we call the same name.                And we extend our concept of number as in spinning a thread we twist fibre on fibre. And
+the strength of the thread does not reside in the fact that some one
+fibre runs through its whole length, but in the overlapping of many
+fibres.
+      But if someone wished to say: "There is something common to all
+these       constructions—namely        the     disjunction   of all   their   common
+properties"
+         —1 should reply: Now you are only playing with words.
+One might as well say: "Something runs through the whole thread—
+namely the continuous overlapping of those fibres".
+
+      68.    "All right: the concept of number is defined for you as the
+logical sum of these individual interrelated concepts: cardinal numbers,
+rational numbers, real numbers, etc.; and in the same way the concept
+of a game as the logical sum of a corresponding set of sub-concepts."—
+—1It need not be so.           For I can give the concept '.number' rigid limits
+
+=== p. 40 ===
+
+in this way, that is, use the word "number" for a rigidly limited concept, but I can also use it so that the extension of the concept is nof
+closed by a frontier. And this is how we do use the word "game".
+For how is the concept of a game bounded?            What still counts as a
+game and what no longer does?          Can you give the boundary?        No.
+You can draw one; for none has so far been drawn.             (But that never
+troubled you before when you used the word "game".)
+  "But then the use of the word is unregulated, the 'game' we play
+with it is unregulated."——It is         not everywhere    circumscribed by
+rules; but no more are there any rules for how high one throws the
+ball in tennis, or how hard; yet tennis is a game for all that and has
+rules too.
+
+  69.    How should we explain to someone what a game is?          I imagine
+that we should describe games to him, and we might add:            "This and
+similar things are called 'games' ".    And do we know any more about
+it ourselves?     Is it only other people whom we cannot tell exactly what
+a game is?—DBut this is not. ignorance. We do not know the boundaries
+because none have been drawn.        To repeat, we can draw a boundary—
+for a special purpose.      Does it take that to make the concept usable?
+Not at alll     (Except for that special purpose.)   No more than it took
+the definition:    i pace = 75   cm. to make the measure of length 'one
+pace' usable.     And if you want to say "But still, before that it wasn't
+an exact measure", then I reply: very well, it was an inexact one.—
+Though you still owe me a definition of exactness.
+
+  70.    "But if the concept 'game' is uncircumscribed like that, you
+don't really know what you mean by a 'game'."
+                                         — When I give the
+description:    "The    ground was   quite   covered with plants"—do you
+want to say I don't know what I am talking about until I can give a
+definition of a plant?
+  My meaning would be explained by, say, a drawing and the words
+"The ground looked roughly like this".        Perhaps I even say "it looked
+exactly like this."—Then were just this grass and these leaves there,
+arranged just like this?     No, that is not what it means.    And I should
+not accept any picture as exact, in this sense.
+
+  Someone says to me:        "Shew the children a game."       I teach them
+gaming with dice,        and the other says    "I didn't mean that sort of
+game."   Must the exclusion of the game with dice have come before
+his mind when he gave me the order?
+
+=== p. 41 ===
+
+34°                       PHILOSOPHICAL INVESTIGATIONS I
+
+      71.        One might say that the concept 'game’ is a concept with blurred
+edges.—"But is a blurred concept a concept at all?"—Is an indistinct
+photograph a picture of a person at all? Is it even always an advantage
+to replace an indistinct picture by a sharp one? Isn't the indistinct one
+often exactly what we need?
+      Frege compares a concept to an area and says that an arca with
+vague boundaries cannot be called an area at all.                   This presumably
+means that we cannot do anything with it.—But is it senseless to say:
+"Stand roughly there"?            Suppose that I were standing with someone
+in a city square and said that.            As I say it I do not draw any kind of
+boundary, but perhaps point with my hand—as if I were indicating a
+particular spot.          And this is just how one might explain to someone
+what a game is.             One gives examples and intends them to be taken
+in a particular way.—I do not, however, mean by this that he is
+supposed to see in those examples that common thing which I—for
+some reason—was unable to express; but that he is now to employ
+those examples in a particular way.                 Here giving examples is not an
+indirect means of explaining—in default of a better.                  For any general
+definition can be misunderstood too.                The point is that this is how we
+play the game.            (I mean the language-game with the word "game"))
+
+      72.        Seeing what is com?non.   Suppose I shew someone various multi-coloured pictures, and say:           "The colour you see in all these is called
+'vellow ochre' ".—This is a definition, and the other will get to understand it by looking for and seeing what is common to the pictures.
+Then he can look at., can point fo, the common thing.
+      Compare with this a case in which I shew him figures of different
+shapes all painted the same colour, and say:                   "What these have in
+common is called ‘vellow ochre' ".
+      And compare this case: I shew him samples of different shades of
+blue and say: "The colour that is common to all these is what I call
+'blue’ ".
+
+      73.         When someone defines the names of colours for me by pointing         to    samples   and   saying    "This    colour   is   called   'blue',   this
+ 'green' .. ... " this case can be compared in many respects to putting
+a table in my hands, with the words written under the colour-samples.—
+Though this comparison may mislead in many ways.—One is now
+inclined to extend the comparison: to have understood the definition
+means to have in one's mind an idea of the thing defined, and that is a
+sample or picture.           So if I am shewn various different leaves and told
+
+=== p. 42 ===
+
+                  PHILOSOPHICAL INVESTIGATIONS I                       317e
+
+"This is called a 'leaf ", I get an idea of the shape of a leaf, a picture
+of it in my mind.—But what does the picture of a leaf look like
+when it does not shew us any particular shape, but 'what is common
+to all shapes of leaf?   Which shade is the 'sample in my mind' of the
+colour green—the sample of what is common to all shades of green?
+  "But might there not be such 'general' samples?        Say a schematic
+leaf, or a sample of pure green?"—Certainly there might.          But for
+such a schema to be understood as a schema, and not as the shape of a
+particular leaf, and for a slip of pure green to be understood as a
+sample of all that is greenish and not as a sample of pure green—this
+in turn resides in the way the samples are used.
+  Ask yourself: what shape must the sample of the colour green be?
+Should it be rectangular?    Or would it then be the sample of a green
+rectangle?—So should it be 'irregular' in shape?         And what is to
+prevent us then from regarding it—that is, from using it—only as a
+sample of irregularity of shape?
+
+  74.   Here also belongs the idea that if you see this leaf as a sample
+of 'leaf shape in general' you see it differently from someone who
+regards it as, say, a sample of this particular shape.   Now this might
+well be so—though it is not so—for it would only be to say that, as a
+matter of experience, if vou see the leaf in a particular way, you use it
+in such-and-such a way or according to such-and-such rules.    Of course,
+there is such a thing as seeing in this way or that; and there are also
+cases where whoever sees a sample like this will in general use it in
+this way, and whoever sees it otherwise in another way.     For example,
+if you see the schematic drawing of a cube as a plane figure consisting
+of a square and two rhombi you will, perhaps, carry out the order
+"Bring me something like this" differently from someone who sees
+the picture three-dimensionally.
+
+  75.   What does it mean to know what a game is?          What does it
+mean, to know it and not be able to say it?    Is this knowledge somehow equivalent to an unformulated definition?        So that if it were
+formulated I should be able to recognize it as the expression of my
+knowledge?    Isn't my knowledge, my concept of a game, completely
+expressed in the explanations that I could give? That is, in my describing examples of various kinds of game; shewing how all sorts of other
+games can be constructed on the analogy of these; saving that I should
+scarcely include this or this among games; and so on.
+
+=== p. 43 ===
+
+36*                    PHILOSOPHICAL INVESTIGATIONS I
+
+  76.         If someone were to draw a sharp boundary I could not acknowledge it as the one that I too always wanted to draw, or had drawn in
+my mind.         For I did not want to draw one at all.    His concept can then
+be said to be not the same as mine, but akin to it.              The kinship is
+that of two pictures, one of which consists of colour patches with
+vague contours, and the other of patches similarly shaped and distributed, but with clear contours.         The kinship is just as undeniable as
+the     difference.
+
+      77.     And if we carry this comparison still further it is clear that the
+degree to which the sharp picture can resemble the blurred one depends
+on the latter's degree of vagueness.          For imagine having to sketch a
+sharply defined picture 'corresponding' to a blurred one.           In the latter
+there is a blurred red rectangle: for it you put down a sharply defined
+one.        Of course—several such sharply defined rectangles can be drawn
+to correspond to the indefinite one.—But if the colours in the original
+merge without a hint of any outline won't it become a hopeless task
+to draw a sharp picture corresponding to the blurred one?                 Won't
+you then have to say: "Here I might just as well draw a circle or heart
+as a rectangle, for all the colours merge. Anything—and nothing—is
+right."          And this is the position you are in if you look for definitions
+corresponding to our concepts in aesthetics or ethics.
+      In such a difficulty always ask yourself: How did we learn the meaning of tliis word ("good" for instance)?         From what sort of examples?
+in what language-games?           Then it will be easier for you to see that the
+word must have a family of meanings.
+
+      78.     Compare knowing and saying*.
+                  how many feet high Mont Blanc is—
+                  how the word "game" is used—
+                  how a clarinet sounds.
+If you are surprised that one can know something and not be able
+to say it, vou are perhaps thinking of a case like the first. Certainly not
+of one like the third.
+
+      79.     Consider this example.     If one says   "Moses did not exist",
+this may mean various things.           It may mean:      the Israelites did not
+have a single leader when they withdrew from Egypt                     or: their
+leader was not called Moses                -or, there cannot have been anyone
+who accomplished all that the Bible relates of Moses——or: etc. etc.—
+We may say, following Russell: the name "Moses" can be defined by
+
+=== p. 44 ===
+
+means of various descriptions.      For example, as "the man who led the
+Israelites through the wilderness",     "the man who lived at that time
+ and place and was then called 'Moses' ", "the man who as a child was
+taken out ofthe Nile by Pharaoh's daughter" and so on.       And according as we assume one definition or another the proposition "Moses
+did not exist" acquires a different sense, and so does every other
+proposition about Moses.—And if we are told "N did not exist", we do
+ ask: "What do youmean? Doyouwanttosay...... or...... etc.?"
+   But when I make a statement about Moses,—am I always ready to
+ substitute some one of these descriptions for "Moses"? I shall perhaps
+ say: By "Moses" I understand the man who did what the Bible relates
+ of Moses, or at any rate a good deal of it.    But how much?      Have I
+decided how much must be proved false for me to give up my proposition as false?     Has the name "Moses" got a fixed and unequivocal use
+for me in all possible cases?—Is it not the case thatI have, so to speak,
+ a whole series of props in readiness, and am ready to lean on one if
+ another should be taken from under me and vice versa?——Consider
+ another case.    When I say "N is dead", then something like the following may hold for the meaning of the name "N": I believe that a human
+being has lived, whom I (i) have seen in such-and-such places, who
+ (2) looked like this (pictures), (3) has done such-and-such things, and
+ (4) bore the name "N" in social life.—Asked what I understand by
+ "N", I should enumerate all or some of these points, and different ones
+ on different occasions.       So my definition of "N" would perhaps be
+ "the man of whom all this is true".—But if some point now proves
+false?—Shall      I be prepared to declare the proposition "N is dead"
+false—even if it is     only    something which strikes me   as incidental
+that has turned out false? But where are the bounds of the incidental
+If I had given a definition of the name in such a case, I should now be
+ready to alter it.
+   And this can be expressed like this: I use the name "N" without a
+Jfixed meaning.    (But that detracts as little from its usefulness, as it
+detracts from that of a table that it stands on four legs instead of three
+ and so sometimes wobbles.)
+   Should it be said that I am using a word whose meaning I don't
+know, and so am talking nonsense?-—Say what you choose, so long
+ as it does not prevent you from seeing the facts.    (And when you see
+them there is a good deal that you will not say.)
+   (The   fluctuation of scientific definitions: what to-day counts as an
+
+=== p. 45 ===
+
+38«                  PHILOSOPHICAL          INVESTIGATIONS    I
+
+observed      concomitant of a phenomenon will           to-morrow be      used to
+define it)
+
+     80.    I say "There is a chair".       What if I go up to it, meaning to
+fetch it, and it suddenly disappears from sight?———"So it wasn't a chair,
+but some kind of illusion".——But in a few moments we see it again
+and are able to touch it and so on.——"So the chair was there after all
+and its disappearance was some kind of illusion".——But suppose that
+after a time it disappears again—or seems to disappear. What are wei
+to    say now?      Have you rules ready for such cases—rules               saying
+whether one may use the word "chair" to include this kind of thing?
+But do we miss them when we use the word "chair"; and are we to
+say that we do not really attach any meaning to this word, because we
+are not equipped with rules for every possible application of it?
+
+     81.    F. P. Ramsey once emphasized in conversation with me that
+logic was a 'normative science'.            I do not know exactly what he had
+in mind, but it was doubtless closely related to what only dawned on
+me later: namely, that in philosophy we often compare the use of words
+with       games   and    calculi   which   have   fixed rules,   but   cannot   say
+that someone who is using language mus? be playing such a game.
+But if you say that our languages only approximate to such calculi
+vou are standing on the very brink of a misunderstanding.                 For then
+it may look as if what we were talking about were an idea/ language.
+As if our logic were, so to speak, a logic for a vacuum.—Whereas logic
+does not treat of language—or of thought—in the sense in which a
+natural science treats of a natural phenomenon, and the most that can
+be said is that we construct ideal languages.         But here the word "ideal"
+is liable to mislead, for it sounds as if these languages were better, more
+perfect, than our everyday language: and as if it took the logician
+to shew people at last what a proper sentence looked like.
+     All this, however, can only appear in the right light when one has
+attained greater clarity about the concepts of understanding, meaning,
+and thinking.      For it will then also become clear what can lead us (and
+did lead me) to think that if anyone utters a sentence and means Or
+understands it he is operating a calculus according to definite rules.
+
+     82.    Whatdo       call 'the rule by which he proceeds'?—The hypothesis
+that satisfactorily describes his use of words, which we observe; or
+the rule which he looks up when he uses signs; or the one which he
+
+=== p. 46 ===
+
+gives us in reply ifwe ask him what his rule is?—But what if observation does not enable us to see any clear rule, and the question brings
+none to light?—For he did indeed give me a definition when I asked
+him what he understood by "N", but he was prepared to withdraw and
+alter it.—So how am I to determine the rule according to which he is
+playing?     He does not know it himself —Or, to ask a better question:
+What meaning is the expression "the        rule by which he    proceeds"
+supposed to have left to it here?
+
+  83.    Doesn't the analogy between language and games throw light
+here? We can easily imagine people amusing themselves in a field by
+playing with a ball so as to start various existing games, but playing
+many without finishing them and in between throwing the ball aimlessly into the air, chasing one another with the ball and bombarding
+one another for a joke and so on.    And now someone says: The whole
+time they are playing a ball-game and following definite rules at every
+throw.
+  And is there not also the case where we play and—make up the rules
+as we go along? And there is even one where we alter them—as we 20
+along.
+
+  84.    I said that the application of a word is not everywhere bounded
+by rules.    But what does a game look like that is everywhere bounded
+by rules?     whose rules never let a doubt creep in, but stop up all
+the cracks where it might?—Can't we imagine a rule determining the
+application of a rule, and a doubt which / removes—and so on?
+  But that is not to say that we are in doubt because it is possible for
+us to imagine a doubt. 1 can easily imagine someone always doubting
+before he opened his front door whether an abyss did not yawn behind
+it, and making sure about it before he went through the door (and
+he might on some occasion prove to be right)—but that does not
+make me doubt in the same case.
+
+  85.    A   rule stands there like a sign-post.—Does the sign-post leave
+no doubt open about the way I have to go?           Does it shew which
+direction I am to take when I have passed it; whether along the road
+or the footpath or cross-country?     But where is it said which way I
+am to follow it; whether in the direction of its ringer or (e.g.) in the
+opposite one?—And if there were, not a single sign-post, but a chain
+of adjacent ones or of chalk marks on the ground—is there only one
+way of interpreting them?—So I can say, the sign-post does after all
+
+=== p. 47 ===
+
+40©                  PHILOSOPHICAL INVESTIGATIONS I
+
+leave no room for doubt.        Or rather: it sometimes leaves room for
+doubt and sometimes not.       And now this is no longer a philosophical
+proposition, but an empirical one.
+
+      86.   Imagine a language-game like (2) plaved with the help of a
+table.      The signs given to B by A are now written ones.              B has a
+table; in the first column are the signs used in the game, in the second
+pictures of building stones. A shews B such a written sign; B looks it
+up in the table, looks at the picture opposite, and so on. So the table is a
+rule which he follows in executing orders.—One learns to look the
+picture up in the table by receiving a training, and part of this training
+consists perhaps in the pupil's leaming to pass with his finger horizontally from left to right; and so, as it were, to draw a series of
+horizontal lines on the table.
+      Suppose different ways of reading a table were now introduced;
+one time, as above, according to the schema:
+
+                                                  !L‘I’*!‘F
+
+another time like this;
+
+                            ==
+or in some other way.—Such a schema is supplied with the table as
+the rule for its use.
+   Can we not now imagine further rules to explain this one? And, on
+the other hand, was that first table mcomplete without the schema of
+arrows? And are other tables incomplete without their schemata?
+
+      87.    Suppose I give this explanation: "l take 'Moses' to mean the
+man, if there was such a man, who led the Israclites out of Egypt,
+ whatever he was called then and whatever he may or may not have
+ done       besides."—But   similar doubts   to   those       about   "Moses"   are
+ possible about the words of this explanation (what are you calling
+ "Egypt", whom the "Israelites” etc.?). Nor would these questions
+ come to an end when we got down to words like "red", "dark",
+ "sweet".—"But then how does an explanation help me to under-
+
+=== p. 48 ===
+
+stand, ıf after all it is not the final one? In that case the explanation ıs
+never completed; so I still don't understand what he means, and never
+shall!"—As though an explanation as it were hung in the air unless
+supported by another one.      Whereas an explanation may indeed rest
+on another one that has been given, but none stands in need of another—unless we require it to prevent a misunderstanding. One might
+say: an explanation serves to remove or to avert a misunderstanding——one, that is, that would occur but for the explanation;
+not every one that I can imagine.
+  It may easily look as if every doubt merely revealed an existing gap
+in the foundations; so that secure understanding is only possible if we
+first doubt everything that can be doubted, and then remove all these
+doubts.
+   The sign-post is ın order—if, under normal circumstances, it fulfils
+its purpose.
+
+  88.    If I tell someone "Stand roughly here"—may not this explanation work perfectly? And cannot every other one fail too?
+   But isn't it an inexact explanation?—Yes; why shouldn't we call it
+"inexact"? Only let us understand what "inexact" means. For it does
+not mean "unusable". And let us consider what we call an "exact"
+explanation in contrast with this one.   Perhaps something like drawing
+a chalk line round an area? Here it strikes us at once that the line has
+breadth. So a colour-edge would be more exact. But has this exactness
+still got a function here: isn't the engine idling? And remember too that
+we have not yet defined what is to count as overstepping this exact
+boundary; how, with what instruments, it is to be established. And
+SO on.
+
+  We understand what it means to set a pocket watch to the exact time
+or to regulate it to be exact. But what ifit were asked: is this exactness
+ideal exactness, or how nearly does it approach the ideal?—Of course,
+we can speak of measurements of time ın which there is a different,
+and as we should say a greater, exactness than in the measurement of
+time by a pocket-watch; in which the words "to set the clock to the
+exact time" have a different, though related meaning, and 'to tell the
+time' is a different process and so on.—Now, if [ tell someone: "You
+should come to dinner more punctually; you know it begins at one
+o'clock exactly"—is there really no question of exactness here? because
+it is possible to say:   "Think of the determination of time in the
+laboratory or the observatory; there you see what 'exactness' means"?
+

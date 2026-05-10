@@ -1,0 +1,991 @@
+=== chunk: eemeren-grootendorst-2004-systematic-theory/ch3-critical-discussion-model ===
+title: A Model of a Critical Discussion (four-stage dialectical model)
+source_pdf: docs/sources/eemeren-grootendorst-2004-systematic-theory/full.pdf
+pdf_pages: 52-78
+page_scheme: book
+plan_page_start: 42
+plan_page_end: 68
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 42 ===
+
+                A Model of a Critical Discussion
+
+                 Classical roots of argumentation studies
+Like research in many other disciplines, the study of argumentation
+goes back to classical antiquity. Unlike in most other disciplines, however, knowledge of the ancient literature remains in argumentation
+theory a necessary condition for a proper exercise of the profession.
+Certain theoretical insights formulated by classical authors, such as
+Aristotle and Cicero, still belong to the core of argumentation theory.
+They are an integral part of the foundations of the hermeneutic and
+critical tools that are currently available for the analysis and evaluation
+of argumentative discourse and texts.1
+    After the Sophists had for a long time taught all kinds of argumentative skills, the theoretical interest in argumentation crystallized in
+Greek antiquity in syllogistic logic (which was then called analytica),
+dialectic (dialectica), and rhetoric (rhetorica). For Aristotle, logic was
+concerned with analytical arguments in which the truth of the premises
+is evident. Dialectic represented the art of regulated debate, and was
+treated in the Topica (Topics) and De sophisticis elenchis (On Sophistical
+Refutations).2 Rhetoric, the art of persuading an audience, is discussed
+by Aristotle in the Rhetorica (On Rhetoric).3
+
+1 See Van Eemeren and Houtlosser (1999, 2000, 2002a, b), but also Schiappa (2002),
+
+  Goodwin (2002), Kauffeld (2002), and Jacobs (2002).
+2 See Aristotle (1928c) and (1928d). See also Krabbe (2002).
+3 See Aristotle (1928a, b, c, d, 1991). See also Hohmann (2002).
+
+=== p. 43 ===
+
+    In his logic, Aristotle distinguishes between two kinds of arguments:
+deductive syllogisms and inductive syllogisms.4 Both kinds of syllogisms are also used in dialectical arguments, but the premises of the
+argument are in dialectic always statements that are not evidently true
+but are generally accepted – as Aristotle says, statements that are acceptable to “the wise or at least the majority of them.” In rhetorical
+arguments, the premises need only be plausible for the audience that
+is to be convinced. Deductive and inductive syllogisms are among the
+means one can use to confer the plausibility of the premises on the
+conclusion that is to be drawn.
+    For Aristotle, dialectics is about conducting a critical discussion
+that is dialectical because a systematic interaction takes place between
+moves for and against a particular thesis.5 In the Topics, he offers a survey of possible attacks, accompanied by warnings to the defender. In
+particular, Aristotle provides tips on how to elicit the right concessions
+from the other party. These concessions play a crucial role in the dialectical system: The attacker uses them to lead the defender to make a
+statement that contradicts what he has said earlier. If this happens, the
+attacker has won the discussion, just as when he manages to elicit an
+untruth or a paradox from the defender, or when the defender commits grammatical blunders or keeps on repeating himself. By making use of certain – sometimes extremely refined – argumentative
+techniques, the attacker may attempt to disguise what he is aiming at.
+    Rhetoric is about the most suitable means to convince a specific
+audience. As Leff (2002: 55) observes, “Rhetoric is the faculty of observing in any given case the available means of persuasion.” Aristotle
+distinguishes between “extrinsic” persuasive devices, which draw on
+existing material such as laws or documents, and “intrinsic” persuasive
+devices, which depend on the inventive skills of the speaker. The three
+intrinsic rhetorical devices are logos, ethos, and pathos.6 The speaker
+
+4 Classical logic deals primarily with deductive syllogisms with categorical propositions.
+
+  In an inductive syllogism, a general conclusion is drawn from specific cases.
+5 The term dialectical originally referred to the use of a specific technique of argumen-
+
+  tation in a debate: Start from the opponent’s thesis and derive a contradiction from
+  it, so that the thesis can be refuted. This technique, which exists in different variants,
+  is nowadays usually called reductio ad absurdum or indirect proof.
+6 Argumentation theoreticians concentrate on logos. For ethos and pathos, see, for
+
+  example, Wisse (1989).
+
+=== p. 44 ===
+
+who appeals to logos may use a deductive rhetorical syllogism, which
+in principle has the form of an enthymeme, or an inductive rhetorical
+syllogism that consists of examples designed to make a generalization
+plausible.7 The premises of a rhetorical syllogism must be plausible to
+the audience. Aristotle groups the various kinds of rhetorical points of
+departure for an argumentation by the degree to which the premises
+are acceptable to the audience that is to be won over; this acceptability can vary from absolute certainty to plausibility or premises whose
+acceptability is just fortuitous.
+    Greek rhetoric was the basis for the development of the more elaborate Roman rhetorical system as it finds its expression in the first century b.c. in the Rhetorica ad Herennium ([Cicero], 1954), in Cicero’s De
+inventione (1949) and De oratore (1942), and much later in Quintilian’s
+Institutio oratoria (Quintilianus 1920).8 In Roman rhetoric, the distinction between intrinsic and extrinsic persuasive devices was maintained,
+as was the distinction between logos, ethos, and pathos.9 The enthymeme
+and the use of examples still counted as the rational persuasive devices.
+In the epicheireme, several new elements were added in Roman rhetoric
+to the enthymeme: Besides the minor premise (assumptio) – adduced
+as an accepted point of departure – the major premise (propositio) –
+functioning as the justificatory principle – and the conclusion (complexio), the epicheireme includes the approbatio assumptionis, which
+supports the accepted point of departure, and the approbatio propo-sitionis, which supports the justificatory principle.10
+
+                       New rhetorics and new dialectics
+Without going in more detail into the history of the rise and fall of
+dialectic and rhetoric, and their continuing competition, we note that
+
+7 An enthymeme is, according to most definitions, a syllogism in which the premises
+
+   are plausible starting points for the audience and one premise is usually implicit.
+   Cf. Kraus (2002).
+ 8 See Rhetoric ad Herennium ([Cicero], 1954), Cicero (1942, 1949) and Quintilianus
+
+   (1920). A fundamental difference between Greek and Roman rhetoric is that
+   Aristotle’s general moves can be applied to any subject at all. In Roman rhetoric,
+   the moves are primarily subject-bound.
+ 9 The Romans seem to have had a greater predilection for ethos and pathos than Aristotle
+
+   displayed.
+10 By means of the system of loci or (special) rhetorical moves, the theory of inventio is
+
+   an aid in choosing the premises that are to “fill out” the epicheireme.
+
+=== p. 45 ===
+
+for a very long time there was little interest in the theoretical study
+of argumentation in ordinary language. At the beginning of the nineteenth century, especially in the United States, there was a clear revival
+in the interest in rhetoric, accompanied by a reappraisal. That reappraisal of rhetoric connected primarily with the demand for practical
+applications.11 Since the second half of the nineteenth century, North
+American schools and universities have taught courses on writing and
+public speaking inspired by classical rhetoric.12 By now, there are many
+books of the “classical rhetoric for the modern student” type, and there
+are whole series of manuals with instructions for debating, discussing,
+and holding meetings based on rhetorical insights.13 The revival of the
+practical interest in argumentation is also clear in manuals on logic
+and “critical thinking,” which bear traces of the influence of classical
+logic and dialectic. Almost every modern manual of logic has a section
+on informal logic that focuses on the practical application of logical
+insights.14
+   Argumentation theory did not receive any new theoretical impulses
+until the 1950s, thanks to the publications of philosophers such as
+Arne Naess, Stephen Toulmin, Chaı̈m Perelman, and the less well-known Rupert Crawshay-Williams.15 By far the greatest influence –
+after they had at first been criticized or ignored – was exerted by two
+books that were published in 1958: Toulmin’s The Uses of Argument
+and La nouvelle rhétorique: traité de l’argumentation by Perelman and
+Lucie Olbrechts-Tyteca.16 The model of the argumentation process
+
+11 The classical rhetorical doctrine of status exerted a great influence on the develop-
+
+   ment of the academic debate, by which argumentative skills are practiced in North
+   American universities.
+12 Nowadays these courses are usually provided by departments of (speech) communi-
+
+   cation that have specialized in communication and rhetoric. See Kinneavy (1971).
+13 A very well-known example of the first category is Corbett (1966). See further the
+
+   bibliographies by Cleary and Haberman (eds., 1964) and Kruger (1975).
+14 See, for example, Copi (1972), Kahane (1973), and Rescher (1975). Generally
+
+   speaking, the content of the “informal” parts is completely separate from the treatment of modern formal logic in the rest of the book. The “application” of logical insights is usually confined to the “translation” of argumentation from ordinary
+   language to a logical standard form.
+15 For a survey of the main insights they have advanced, see van Eemeren et al. (1996:
+
+   Chapters 3, 4, 5).
+16 Johnstone, who was the first to provide a survey of the state of the art in modern
+
+   argumentation theory (1968), was right in pointing out that the reappraisal of the
+   study of argumentation among philosophers is primarily due to the work of these
+   scholars.
+
+=== p. 46 ===
+
+presented in The Uses of Argument has (sometimes in an amended form)
+a prominent position as an analytical instrument in the study of argumentation in various practical domains, such as law, politics, policy,
+and ethics. La nouvelle rhétorique initially played a role mainly in philosophical discussions of rationality and reasonableness, but after the
+appearance of an English translation in 1969, also in practical fields
+such as law and communication. In spite of the new élan that these
+two studies undoubtedly gave to argumentation studies, neither the
+theoretical approach of Toulmin nor that of Perelman and Olbrechts-Tyteca marks a real break with the classical tradition in argumentation
+theory. Both approaches also display dialectical traits, but they can
+both, despite all of the differences between them, be placed in the
+rhetorical tradition without much difficulty.
+   The construction of Toulmin’s model is based on what Toulmin
+sees as the rationality of legal procedures. In his view, argumentative
+discussions in other areas proceed in an analogous fashion. Toulmin’s
+model comes down to a schematic diagram of the procedural form of
+argumentation, which is in his view the same in all areas (or “fields”)
+of argumentation. In the model, several fixed elements play a role.
+Facts (data) are adduced in support of a standpoint (claim). The data
+are linked with the claim by means of a, usually implicit, justification
+(warrant). In principle, the warrant is a general rule that serves to justify
+the step from the data to the claim.17 If necessary, the warrant can in
+turn be backed up by an additional statement (backing). Toulmin’s
+basic model is as follows:
+
+                                Data                    Claim
+
+                                          Warrant
+
+                                          Backing
+
+17 In practice, it is often difficult (if not impossible) to determine whether a certain
+
+     part of the argumentation belongs to the data or whether it should be regarded as
+     warrant. This problem is partly due to the fact that Toulmin’s definition of a warrant
+     combines two different properties – having a rule-like character and being implicit –
+     that need not go together. In ordinary communication, it is usually the part of the
+     argumentation that is regarded as already familiar that is left implicit, irrespective of
+     whether it is factual or rule-like.
+
+=== p. 47 ===
+
+The soundness (or argumentative validity) of an argumentation is determined, according to Toulmin, by the degree to which the warrant
+is made acceptable by a backing. The kind of backing that is required
+depends on the kind of topic that is the subject of the argument. That
+is why the criteria for evaluating the argumentation are, in Toulmin’s
+view, “field-dependent.”18 If this means that an argumentation has to
+be evaluated by experts in the field concerned, the consequence is
+that different kinds of (reasonable) critics are needed to evaluate the
+soundness of argumentation in different fields. By following this approach, Toulmin turns his back on the universal notion of “formal
+validity” from modern logic. In his view, formal validity is a validity criterion that is only applicable to analytical arguments, which are rare
+in practice.
+    At first sight, Toulmin seems to set argumentation in the dialectical
+context of a critical discussion between a speaker and a listener, but
+on closer inspection, his approach turns out to be rhetorical. By comparison with a rhetorical source such as Cicero’s De inventione immediately reveals (1949: I, xxxiv, 58–59), Toulmin’s model actually boils
+down to a rhetorical expansion of the syllogism similar to the classical epicheireme. Although the reactions of others are anticipated, the
+model is primarily directed at representing the argumentation for the
+standpoint of the speaker or writer who advances the argumentation.
+The other party remains in fact passive: The acceptability of the claim
+is not made dependent on a systematic weighing up of arguments for
+and against the claim.
+    The “New Rhetoric” of Perelman and Olbrechts-Tyteca is an attempt
+to describe argumentation techniques that people use in practice to
+win the approval of others for their standpoints. The norm of reasonableness that has to be applied in evaluating argumentation lies
+with the audience: Argumentation is considered sound (or argumentatively valid) if it is successful in influencing the audience for which
+it is intended. The new rhetoric offers a description of different kinds
+of audiences. Perelman and Olbrechts-Tyteca distinguish between a
+“specific” audience that consists of actual people whom the speaker or
+writer addresses in a particular case, and a “universal” audience that
+is the representation of reasonableness. The premises on which an
+
+18 Contrary to what is suggested by Johnstone (1968), Toulmin’s model does not provide
+
+  any usable criteria for a critical evaluation of argumentation.
+
+=== p. 48 ===
+
+argumentation is based are also further categorized. On top of that,
+the two authors list the (types of ) argument schemes that they consider appropriate to convince an audience. In this connection, it is
+important to note that argumentation that is successful with a specific
+audience need not necessarily be convincing for the universal audience.19 Whether or not this is the case also depends on how exactly
+the universal audience is conceived.
+   Perelman and Olbrechts-Tyteca claim that by constituting an argumentation theory that complements formal logic, their New Rhetoric
+creates a framework for “non-analytical thought.” By formal logic, however, they do not refer to modern logic, but to the classical apodictic
+ideal of knowledge in which statements are taken to represent “true
+knowledge” only if their truth is evident or if they can be logically
+derived from statements that are evidently true. Although Perelman
+and Olbrechts-Tyteca claim to be building on classical dialectic, they
+prefer to call their theory the “New Rhetoric” to avoid confusion – in
+particular with the Marxist use of the term “dialectical.” In fact, the
+communicative form of the dialogue that is essential for Aristotelian dialectic does not play any role at all in Perelman and Olbrechts-Tyteca’s
+New Rhetoric.20 We think that the label New Rhetoric is also more
+appropriate because Perelman and Olbrechts-Tyteca give dialectic (if
+one views their theory in this light) an extremely strong rhetorical
+turn, to say the least, by concentrating entirely on how people change
+other people’s minds. Their objective comes closest to the Aristotelian
+notion of rhetoric.
+   There are indeed striking parallels between the “New” rhetoric as
+proposed by Perelman and Olbrechts-Tyteca and the “Old,” classical
+
+19 The concept of a universal audience is problematic. See, for example, Ray (1978),
+
+   Scult (1985, 1989), Golden (1986), Crosswhite (1989), and Ede (1989). As every
+   speaker or writer can have his or her own conception of the universal audience, in
+   theory there may be as many universal audiences as there are speakers or writers. Cf.
+   Wintgens (1993).
+20 The dialectical criterion that a standpoint is acceptable as long as it withstands the
+
+   systematic criticism of a critical opponent is simply ignored in the New Rhetoric.
+   Apparently, Perelman and Olbrechts-Tyteca did not realize that dialectical chains of
+   reasoning do have to be logically valid, and that this requirement has nothing to do
+   with the epistemological status of the premises (which distinguishes classical logic
+   from dialectics). There can be exactly the same logical relations between accepted
+   or acceptable statements as between true statements.
+
+=== p. 49 ===
+
+theories of rhetoric. Perelman and Olbrechts-Tyteca’s classification of
+the premises, for example, is the same as Aristotle’s. The classification
+is in both cases directly linked to the degree to which the premises are
+acceptable for the audience.21 Another parallel can be found in the
+argument schemes that, according to the New Rhetoric, characterize
+the link between the premises and the standpoint that is defended:
+
+      Argumentation by association
+        —Quasi-logical argumentation
+        —Argumentation based on the structure of reality
+        —Argumentation that grounds the structure of reality
+      Argumentation by dissociation
+
+Most of the argument schemes that are “based on the structure of
+reality” can already be found in Book III of Aristotle’s Topics, and the
+argument schemes that “ground the structure of reality” offer the same
+opportunities for generalization as classical rhetorical induction does.
+The distinction between the argument schemes based on the structure of reality and the argument schemes that ground the structure
+of reality runs, in principle, parallel with Aristotle’s distinction between rhetorical syllogisms (enthymemes) and rhetorical induction
+(examples).22
+   Although Toulmin’s model of argumentation and Perelman and
+Olbrechts-Tyteca’s New Rhetoric have been developed independently
+of one another, in our view a clear connection can be discerned between the two theoretical approaches. This connection is somewhat
+obscured by the different ways in which the authors present their proposals. Toulmin emphasizes that his model of analysis was developed
+primarily to make it clear that the evaluation of argumentation is in
+the last instance field-dependent and must be left to participants in
+the field, while Perelman and Olbrechts-Tyteca opt for a descriptive
+approach in which the success of the chosen starting points and argument schemes with the audience occupies pride of place. However,
+
+21 In a rhetorical syllogism, the argument is based on topoi or loci with regard to accepted
+
+   relations in reality (“what goes for the causes goes for the effects”: like father, like
+   son).
+22 The type of warrant that the Toulminians Ehninger and Brockriede (1963) call a
+
+   causal relation, for instance, would in the New Rhetoric be viewed as a relation of
+   succession based on the structure of reality.
+
+=== p. 50 ===
+
+if Toulmin’s model is given a rhetorical interpretation, it is not very
+difficult to treat Perelman and Olbrechts-Tyteca’s argument schemes
+(perhaps with the exception of quasi-logical argumentation) as descriptions of different kinds of warrants.23
+   The insights provided by Toulmin’s model and by the descriptions
+given in Perelman and Olbrechts-Tyteca’s New Rhetoric are not a sufficient basis for giving a justified evaluation of the way in which the
+various argument schemes are used as a warrant. This is not even the
+case if these insights were more elaborated, better systematized, and
+more thoroughly tested than they now are. What this set of theoretical
+instruments lacks is a normative dimension that does justice to dialectical considerations. A difference of opinion can only be resolved in
+accordance with a critical philosophy of reasonableness, in the way we
+explained, if a systematic discussion takes place between two parties
+who reasonably weigh up the arguments for and against the standpoints at issue. This means that the set of theoretical instruments that
+we need has to contain rules and procedures that indicate which moves
+are admissible in a critical discussion.
+
+The philosophers Arne Naess (1953, 1966) and Rupert Crawshay-Williams (1957) published their contributions to the study of argumentation in the same period as, or in fact even earlier than, Toulmin
+and Perelman and Olbrechts-Tyteca. Their works are important steps
+toward the development of a modern argumentation theory that is
+more strongly related with the dialectical tradition. The semantic analysis of discussions by Naess and the analysis of differences of opinion
+by Crawshay-Williams have been of great influence to the development
+of argumentation theory. The insights developed by these two authors
+are part of the philosophical basis of the dialectical approach to argumentation known as “formal dialectics” as proposed by Else Barth and
+Erik Krabbe in From Axiom to Dialogue (1982).
+   The theoretical foundations of Barth and Krabbe’s formal dialectics – the name stems from Hamblin (1970) – were laid in the dialogue
+logic of the Erlangen School of Lorenzen and his associates.24 In From
+
+23 Cf. Ehninger and Brockriede (1963).
+24 For an introduction into dialogue logic, see Lorenzen and Lorenz (1978) and van
+
+     Eemeren et al. (1996: 253–263).
+
+=== p. 51 ===
+
+Axiom to Dialogue, Barth and Krabbe develop formal procedures by
+which it can be dialogically determined whether or not a thesis is logically defensible. In these procedures, the reasoning that takes place is
+conceived as a dialogue between a proponent and an opponent of a
+thesis, who join to examine whether the thesis can be successfully defended against critical attack. In defending the thesis, the proponent
+may make use of the opponent’s concessions: statements for which the
+opponent is prepared to assume responsibility. The proponent has to
+counter every attack on one of his own statements. He can do so by
+means of a direct attempt at defense or by means of a counterattack
+on one of the opponent’s concessions. The opponent is obliged to
+defend every concession that the proponent has attacked. The proponent tries to use the opponent’s concessions in such a way that the
+latter ends up in a position in which the only possibility is to admit
+to a statement that he had attacked earlier in the discussion. If the
+proponent succeeds in achieving this, he has won the discussion. In
+this case, he has managed to defend his thesis ex concessis – that is, on
+the basis of the concessions made.25
+   The formal dialectical theory of Barth and Krabbe, together with
+critical rationalism as propagated by Popper (1972, 1974) and Albert
+(1975), the theory of speech acts of Austin (1962) and Searle (1969,
+1979), and Grice’s theory of rational verbal exchanges (1975, 1989)
+have been the major sources of inspiration for developing our pragma-dialectical argumentation theory. We have expounded the principles
+of this theory in Speech Acts in Argumentative Discussions (1984), in which
+we presented an ideal model of a critical discussion. In Argumentation,
+Communication, and Fallacies (1992), we further elaborated our theory,
+in particular with regard to the fallacies. Reconstructing Argumentative
+Discourse (1993), co-authored by Sally Jackson and Scott Jacobs, explains how argumentative discourse and texts can be analyzed with the
+help of the pragma-dialectical method and some insight in the basic
+principles and conventions of verbal communication. In this volume,
+we continue our efforts.
+   Ever since classical antiquity, the dialectical approach to argumentation has concentrated on the way in which standpoints can be
+
+25 For a succinct explanation of formal dialectics, see van Eemeren et al. (1996: 263–
+
+=== p. 52 ===
+
+critically evaluated in an argumentative discussion. The purpose of
+the discussion is to examine whether a difference of opinion about the
+acceptability of a standpoint can be resolved by means of a regulated
+exchange of ideas. In the pragma-dialectical approach to argumentation we have developed so far, the notion of a critical discussion plays
+a crucial role. A critical discussion can be described as an exchange
+of views in which the parties involved in a difference of opinion systematically try to determine whether the standpoint or standpoints at
+issue are defensible in the light of critical doubt or objections. Unlike, for instance, formal dialectics, our approach to argumentation
+is not only dialectical, but also pragmatic. The pragmatic dimension
+of our approach manifests itself primarily in the fact that the moves
+that can be made in a discussion aimed at resolving a difference of
+opinion are conceived as verbal activities (“speech acts”), carried out
+within the framework of a specific form of oral or written language use
+(“speech event”), in a context of interaction that takes place against
+a specific cultural-historical background. This means that our dialectical approach to argumentation is part of the study of verbal communication also known as “discourse analysis.” In accordance with the
+tradition that has developed in linguistics to refer to the study of language use in its broadest sense by means of the label of “pragmatics,”
+we have expressed our theoretical position in naming our approach
+to argumentation pragma-dialectics.
+
+              Meta-theoretical principles of pragma-dialectics
+The pragma-dialectical investigations start from four meta-theoretical
+principles, which have certain methodological consequences.26 Using
+these meta-theoretical principles as our point of departure, we have
+laid the foundation for integrating the normative and the descriptive
+dimensions of the study of argumentation. We did so by “functionalizing,” “externalizing,” “socializing,” and “dialectifying” in our investigations the various components of argumentative discourse and
+texts that constitute the subject-matter of the study of argumentation.
+Functionalization means that we treat every language activity as a
+
+26 For a justification of these meta-theoretical principles, see van Eemeren, Grooten-
+
+     dorst, Jackson, and Jacobs (1993: 13–15) and van Eemeren et al. (1996: ch. 10).
+
+=== p. 53 ===
+
+purposive act. Externalization means that we target the public
+commitments entailed by the performance of certain language activities. Socialization means that we relate these commitments to the
+interaction that takes place with other people through the language
+activities in question. Finally, dialectification means that we regard the
+language activities as part of an attempt to resolve a difference of opinion in accordance with critical norms of reasonableness. In our view,
+only if these principles are taken as methodological guidelines can
+an argumentation theory be developed that provides a suitable framework for the analysis and evaluation of argumentative discourse and
+texts. 27
+    Let us begin our explanatory comments on these methodological
+guidelines by re-emphasizing the pragma-dialectical view that argumentation is an attempt to overcome doubt regarding the acceptability of a standpoint or criticism of a standpoint. The structural
+characterizations that are given in various formal and informal approaches of argumentation can certainly be enlightening, but they
+are inadequate as a point of departure because they are not motivated by the functional raison d’être of argumentative language use.
+Argumentation is adduced in reaction to, or in anticipation of, a difference of opinion, and serves a role in the regulation of disagreement. Not only the need for argumentation, but also its internal and
+external structure and the criteria that it must meet, are directly related to the doubt or criticism that the argumentation is intended to
+remove. In principle, the argumentation is attuned to handling the
+difference of opinion in a specific way – that is, a way that results in
+the acceptance of the arguer’s standpoint by the addressee. This is
+why argumentative language use in the pragma-dialectical approach
+is viewed as a purposive activity that is, theoretically speaking, just as
+its structural design, determined by its function in the regulation of
+disagreement.28
+
+27 For a more elaborate exposition of the meta-theoretical principles on which the
+
+   pragma-dialectical theory of argumentation is based, see van Eemeren and Grooten-dorst (1984: 4–18).
+28 Unlike in both formal and informal logical approaches to argumentation, the focus
+
+   in pragma-dialectics is on the way in which language is used, or should be used, in
+   argumentative practice to achieve communicational and interactional goals. For the
+   descriptive dimension, see also Anscombre and Ducrot (1983).
+
+=== p. 54 ===
+
+    Functionalization of the research object in pragma-dialectics is
+achieved by regarding the verbal expressions used in argumentative
+discourse and texts as speech acts and specifying the conditions for identity and correctness that apply to the performance of these speech acts.
+An analysis of the speech acts that are performed in the discourse or
+text makes it possible to determine exactly what is at stake at a particular juncture. The specification of the conditions for identity and
+correctness that apply to the speech acts that have been performed
+makes it clear what “disagreement space” there is in a certain case
+and how the arguer responds to the disagreement in the performance
+of the (complex) speech act argumentation.29 In the case of utterances
+whose function is unclear, with the help of the speech act conditions,
+an analysis can be given that makes it possible to determine which communicative and interactional purposes these utterances are supposed
+to serve in resolving the difference of opinion.
+    Of course, a person may have all kinds of motives for adopting, questioning, rejecting, defending, or attacking a particular standpoint in a
+particular manner, but the only thing that person can really be held to
+is what he or she has, whether directly or indirectly, said or written.30
+That is why it is not the internal reasoning processes and inner convictions of those involved in resolving a difference of opinion that are of
+primary importance to argumentation theory, but the positions these
+people express or project in their speech acts. Instead of concentrating on the psychological dispositions of the language users involved in
+the resolution process, we concentrate primarily on their commitments,
+as they are externalized in, or can be externalized from, the discourse
+or text.
+    Externalization of commitments is in pragma-dialectics achieved
+by investigating exactly which obligations are created by (explicitly
+or implicitly) performing certain speech acts in a specific context
+of an argumentative discourse or text. In this way, terms such as
+“accept” and “disagree” take on a “material” sense: They do not primarily stand for being in a certain state of mind, but for undertaking public
+
+29 The term disagreement space was introduced by Jackson (1992: 261).
+30 In our view, this principle holds for all speech acts. It may of course be important
+
+     for certain purposes to have psychological insight into the difference between what
+     is expressed in the speaker’s or writer’s use of language and his unrevealed motives,
+     but that is another matter.
+
+=== p. 55 ===
+
+commitments that are assumed in a context of disagreement and can
+be externalized from the discourse or text. “Acceptance,” for example, can be externalized as the expression of a positive commitment
+to a proposition that is under discussion.31 And “disagreement” can
+be externalized from the discourse or text as the expression by two
+different parties of commitments to speech acts that are opposed to
+one another and seem irreconcilable. On the basis of these externalizations, the state of “being convinced” can be externalized as the
+expression of acceptance of a positive commitment to a speech act by
+a person who was initially opposed to that speech act.32
+    Argumentation is not just the expression of an individual assessment, but a contribution to a communication process between persons
+or groups who exchange ideas with one another in order to resolve a
+difference of opinion. Some approaches to argumentative discourse
+and texts abstract from the way in which the communication process
+is conducted, and certain components of the argumentative discourse
+or text are just distinguished as, for instance, “major premises” and
+“minor premises,” irrespective of the communication process they are
+part of.33 In pragma-dialectics, argumentative discourse and texts are
+conceived as basically social activities, and the way in which the argumentation is analyzed depends on the kind of verbal interaction
+that takes place between the participants in this communication process. The ways in which the parties involved react to one another’s
+(genuine or assumed) standpoints, doubt, criticism, argumentation,
+and objections are regarded as a vital part of a joint process of conflict
+regulation.34
+
+31 Pragma-dialectics does not speculate on the effectiveness of argumentation on the
+
+   basis of supposed psychological dispositions, but psychological research may provide
+   interesting explanations.
+32 For a description of the perlocutionary act of convincing and its relation to the
+
+   illocutionary act of advancing argumentation, see van Eemeren and Grootendorst
+   (1984: 47–74) and Jacobs (1987: 231–233).
+33 Cf. Wenzel (1980), who distinguishes between approaches to argumentation accord-
+
+   ing to whether the argumentation is viewed as a process, a product, or a procedure.
+   The logical approaches concentrate traditionally on the product, and in particular
+   the validity of the deductions of conclusions from premises.
+34 Toulmin seems inclined to view argumentation as a social process, because in his
+
+   model every part of the argumentation is seen as a reaction to a possible challenge
+   or query. The questions that Toulmin associates with the different parts (“What do
+   you have to go on?” and so on) do indeed serve to explain the structure of the
+
+=== p. 56 ===
+
+   Socialization of the research object is in pragma-dialectics achieved
+by distinguishing between the different roles played in the interaction
+by the people involved in the argumentative exchange of views, and by
+regarding the speech acts performed in this exchange as parts of an
+argumentative dialogue between these two parties. The roles that are
+played in this dialogue are linked to the positions that the parties have
+adopted with regard to the difference of opinion. In the communication process, the participants involved in the dialogue can be held
+to their speech acts, and have a certain justificatory obligation toward
+these speech acts. The commitments that are created by the adoption
+of a particular position are activated by the interactional context. It is
+the stage in the resolution process in which a speech act is performed
+and the interactional function that it can fulfill in this context that
+determine to a large extent the meaning that is to be attributed to the
+speech act. Therefore, the interactional context plays an important
+role in identifying the various contributions that are made to the resolution of a difference of opinion in an argumentative exchange of
+views.
+   Of course, argumentation is only the appropriate way to resolve
+a difference of opinion if it is in principle possible to overcome the
+doubts or criticisms of a person who reacts in a way that can be expected
+of a critical antagonist. This means that the approach to argumentative
+discourse and texts that is chosen must do justice to the norms and
+criteria that, in view of the resolution of a difference of opinion, have
+to be imposed on language use, and cannot be restricted to a description of argumentative practice. In order to determine to what extent
+an argumentative exchange is really conducive to the resolution of
+a difference of opinion, certain standards are required by which the
+quality of the argumentative language use can be measured. In order
+to establish these standards, and to determine whether they have been
+met, pragma-dialectics starts out from a model of a critical discussion
+attuned to the resolution of a difference of opinion.35
+
+   argument, but they do not result in a dialogical perspective. Neither does Perelman
+   and Olbrechts-Tyteca’s notion of a universal audience introduce a real socialization:
+   There is no need for a genuine exchange of views between two parties in a difference
+   of opinion.
+35 In Barth and Krabbe’s terms (1982: 21–22), a model (or part of a model) that is ide-
+
+   ally suited for the resolution of a difference of opinion may be said to have optimal
+
+=== p. 57 ===
+
+   Dialectification of the research object is achieved in pragma-dialectics by regarding the speech acts performed in an argumentative exchange as speech acts that should be performed in accordance
+with the rules that are to be observed in a critical discussion aimed at
+resolving a difference of opinion. 36 These rules imply a methodical
+regulation of argumentative discourse and texts. Together, the rules
+combine to constitute a dialectical discussion procedure. This discussion procedure systematically indicates the structure of the process of
+resolving a difference of opinion, and it specifies the speech acts that
+play a role in the various stages of the resolution process.
+
+       Dialectical stages in the process of resolving a difference
+We have drawn up a model of a critical discussion to make clear what
+is implied by the pragma-dialectical approach to argumentative language use as a means of resolving a difference of opinion.37 This
+model provides a specification of the different stages that must be
+distinguished in the process of the resolution of a difference of opinion and the different types of verbal moves that have a constructive
+function in the different stages of the resolution process. The model
+is based on the premise that a difference of opinion is only resolved
+when the parties involved in the difference have reached agreement
+on the question of whether the standpoints at issue are acceptable or
+
+   problem-solving validity. If the model (or part of the model) is acceptable to the parties to the difference of opinion, the model is also “intersubjectively valid” or (when
+   the parties have explicitly accepted it) “conventionally valid” or (when the parties
+   have implicitly accepted it) “semi-conventionally valid.” We shall not differentiate
+   between conventionality and semi-conventionality because in practice explicit agreements will be rare, and it is ordinary usage to call implicit agreements “conventions.”
+36 According to Wenzel, argumentation in the dialectical approach is regarded as the
+
+   “systematic management of discourse for the purpose of achieving critical decisions”
+   (1979: 84). The purpose of the dialectical approach is to determine how discussions
+   that are aimed at scrutinizing the acceptability of standpoints should be conducted.
+   The standards provided by the model of a critical discussion make it possible to
+   investigate systematically in what respects argumentative practice differs from the
+   critical ideal.
+37 A critical discussion reflects the Socratic ideal of subjecting everything one believes in
+
+   to a dialectical scrutiny: not only statements of a factual kind, but also value judgments
+   and normative standpoints (see Albert 1975). Assuming, in a Popperean vein, the
+   fallibility of all human thought and action, the principle of a critical scrutiny is the
+   guiding methodological principle.
+
+=== p. 58 ===
+
+not.38 This means that one party has to be convinced by the argumentation of the other party of the admissibility of that party’s standpoint,
+or that the other party retracts his standpoint because he realizes that
+his argument cannot stand up to the criticism. The resolution of a
+difference of opinion is not the same as the settlement of a dispute.
+A dispute is settled when, by mutual consent, the difference of opinion has in one way or another been ended – for example, by taking
+a vote or by the intervention of an outside party who acts as a judge
+or arbitrator. Of course, reaching a settlement does not mean that the
+difference of opinion has really been resolved. A difference of opinion
+is only resolved if a joint conclusion is reached on the acceptability of
+the standpoints at issue on the basis of a regulated and unimpaired
+exchange of arguments and criticism.
+    In a critical discussion, the parties involved in a difference of opinion attempt to resolve this difference of opinion by achieving agreement on the acceptability or unacceptability of the standpoint(s) involved through the conduct of a regulated exchange of views. By following a dialectical procedure, the protagonist of a standpoint and the
+antagonist attempt to achieve clarity as to whether the protagonist’s
+standpoint can be defended in light of the antagonist’s critical reactions. Unlike most logical approaches, the dialectical procedure for
+conducting critical discussion is not concerned only with the formal
+relations between the premises and the conclusions of the arguments
+that are used in the argumentation, but with every speech act in the
+discourse or text that plays a role in investigating the acceptability of
+standpoints.
+    The model of a critical discussion performs both a heuristic and
+a critical function in the analysis and evaluation of argumentative
+
+38 Dialectical approaches to argumentation place a lot of emphasis on the need for
+
+     consistency. In accordance with Popper’s critical rationalism, the scrutiny of statements is generally equivalent to the tracing of contradictions, because if two contradictory statements are maintained, at least one of them has to be retracted
+     (Albert 1967/1975: 44). For an illustration of this principle, see Barth and Krabbe’s
+     (1982) formal dialectics. Barth and Krabbe propose a dialectical method to determine whether a thesis is tenable by investigating whether upholding of the thesis
+     leads to contradictions. The discussion procedure proposed in pragma-dialectics
+     corresponds to this principle, albeit that the emphasis is on “pragmatic” inconsistencies rather than on logical contradictions (van Eemeren and Grootendorst 1984:
+     169). See, further, Chapter 6 of this volume.
+
+=== p. 59 ===
+
+discourse and texts. The heuristic function is that of being a guideline for the analysis: The model serves as a guide in the detection and
+theoretical interpretation of every element in, and aspect of, the discourse or text that is relevant to a critical evaluation.39 The critical
+function is that of serving as a standard in the evaluation: The model
+provides a series of norms by which it can be determined in what
+respects an argumentative exchange of ideas diverges from the procedure that is the most conducive to the resolution of a difference of
+    The pragma-dialectical argumentation theory assumes that, in principle, argumentative language use is always part of an exchange of views
+between two parties that do not hold the same opinion, even when the
+exchange of views takes place by way of a monologue. The monologue
+is then taken to be a specific kind of critical discussion where the protagonist is speaking (or writing) and the role of the antagonist remains
+implicit. Even if the role of the antagonist is not actively and explicitly
+performed, the discourse of the protagonist can still be analyzed as a
+contribution to a critical discussion: The protagonist makes an attempt
+to counter (potential) doubt or criticism of a specific or non-specific
+audience or readership.
+
+Analytically, four stages can be distinguished in the process of resolving a difference of opinion that the participants in an argumentative
+exchange of views have to pass through to arrive at a resolution of a
+difference of opinion. These stages – which we call the discussion stages
+of a critical discussion – are the “confrontation” stage, the “opening”
+stage, the “argumentation” stage, and the “concluding” stage.40 In
+
+39 In the case of more or less institutionalized linguistic activities, such as legal pro-
+
+   cedures, scientific treatises, policy documents, and political debates, the guidance
+   offered by the model of a critical discussion is supplemented by specific and well-motivated expectations regarding the structure of the discourse or text and the
+   relevant speech acts it contains. Those expectations are derived from knowledge of
+   the text genre and the formal and informal conventions that are in force. See, for an
+   overview of the study of legal argumentation, Feteris (1999). More-detailed insight
+   into conventions of language use, and into the role of the verbal and non-verbal context and the role of general and specific background knowledge, are also important.
+   See also Chapter 5 of this volume.
+40 The discussion stages distinguished in a dialectical approach overlap to some extent
+
+   with the various stages that are generally distinguished in a rhetorical approach
+   (exordium, narratio, argumentatio, peroratio), but the rationale of the distinctions is
+
+=== p. 60 ===
+
+argumentative practice, the four stages need not always be explicitly
+passed through, let alone in one time in full and in the most appropriate order, but a difference of opinion can only be resolved in a
+reasonable way if each stage of the resolution process is properly dealt
+with, whether explicitly or implicitly.
+   In the confrontation stage of a critical discussion, it becomes clear
+that there is a standpoint that is not accepted because it runs up
+against doubt or contradiction, thereby establishing a (“non-mixed”
+or “mixed”) difference of opinion. The difference of opinion can also
+pertain to more than one standpoint (and is then to be characterized
+as “multiple”). The difference of opinion can be expressed explicitly,
+but in practice it may well remain implicit. In the latter case, it is either assumed in the argumentative exchange of views that a difference
+of opinion exists or the possibility of a difference of opinion is anticipated. Without such a real or presumed confrontation, there is no
+need for a critical discussion.
+   In the opening stage, the parties to the difference of opinion try to
+find out how much relevant common ground they share (as to the
+discussion format, background knowledge, values, and so on) in order to be able to determine whether their procedural and substantive “zone of agreement” is sufficiently broad to conduct a fruitful
+discussion. There is no point in venturing to resolve a difference
+of opinion through an argumentative exchange of views if there is
+no mutual commitment to a common starting point, which may include procedural commitments as well as substantive agreement. One
+or more participants must at this stage be prepared to act as the
+party that assumes the role of the protagonist and defends the standpoint at issue, while one or more others must be prepared to act
+as the party that assumes the role of the antagonist and reacts critically to the standpoint and its defense.41 In a great many cases, the
+
+   different. The rhetorical stages are considered to be instrumental in securing the
+   agreement of the target audience, the dialectical stages, in resolving a difference of
+41 The role of antagonist of a standpoint may coincide with that of protagonist of
+
+   a different (opposite) standpoint, but this is not necessarily the case: Entertaining
+   doubt with regard to a standpoint does not automatically imply adopting a standpoint
+   of one’s own. As soon as the discussion partner adopts the opposite standpoint, the
+   difference of opinion becomes mixed.
+
+=== p. 61 ===
+
+opening stage of an argumentative exchange of views will remain
+largely implicit, because it is generally tacitly assumed that the required
+common ground exists. In practice, the opening stage corresponds to
+those parts of the discourse in which the interlocutors manifest themselves as parties and determine whether there is a basis for a meaningful
+exchange.
+    In the argumentation stage, protagonists advance their arguments
+for their standpoints that are intended to systematically overcome the
+antagonist’s doubts or to refute the critical reactions given by the antagonist. The antagonists investigate whether they consider the argumentation that is advanced acceptable. If they consider the argumentation, or parts of it, not completely convincing, they provide further
+reactions, which are followed by further argumentation by the protagonist, and so on. In this way, the structure of the argumentation a protagonist puts forward in the discourse can become very complicated:
+This structure may, in fact, vary from extremely simple to extremely
+complex.42 Although in practice, as a rule, parts of the argumentation stage remain implicit, there is only an argumentative discourse
+if it is clear that argumentation is, in some way or other, advanced.
+It is crucial for the resolution of a difference of opinion that argumentation is not only advanced, but also critically evaluated. Without
+both these activities taking place, there can be no question of a critical
+    The concluding stage of an argumentative exchange corresponds to
+the stage of a critical discussion in which the parties establish what
+the result is of an attempt to resolve a difference of opinion. The
+difference of opinion can only be considered to be resolved if the
+parties are, concerning each component of the difference of opinion,
+in agreement that the protagonist’s standpoint is acceptable and the
+antagonist’s doubt must be retracted, or that the standpoint of the
+protagonist must be retracted. In the former case, the difference has
+been resolved in favor of the protagonist; in the latter case, in favor
+
+42 Because argumentation can be complex in different ways, different types of argumen-
+
+   tation structures must be distinguished, ranging from “multiple” argumentation to
+   “coordinatively compound” argumentation and “subordinatively compound” argumentation (see van Eemeren and Grootendorst 1992: 73–89 and Snoeck Henkemans
+
+=== p. 62 ===
+
+of the antagonist. In practice, it is usually only one of the parties that
+puts the conclusion into words, but if the other party does not accept
+this conclusion, no resolution has been achieved.
+   When the concluding stage has been brought to an end, the argumentative exchange of views is over, but this naturally does not mean
+that the same discussion partners cannot initiate a new discussion. The
+parties may engage in a completely different difference of opinion, or
+they may start a discussion about a more or less modified version of
+the old difference, possibly with different premises in the opening
+stage. The discussion roles of the participants may then have to change
+too. In each of these cases, again, the same discussion stages – from
+confrontation stage to concluding stage – have to be passed through
+in order to arrive at a resolution of the (newly framed) difference of
+
+                Pragmatic moves in the resolution process
+The theory of speech acts is ideally suited to provide the theoretical
+tools for dealing with verbal communication that is aimed at resolving a difference of opinion in accordance with the pragma-dialectical
+principles. The various moves that are made in the different stages of
+a critical discussion in order to arrive at a resolution of a difference of
+opinion can be pragmatically characterized as speech acts. This makes
+it possible to make clear which criteria the various pragmatic moves
+must satisfy. Following the typology of speech acts that is still dominant in the theory of speech acts, we shall indicate which types of
+speech acts can contribute to the resolution of a difference of opinion
+in the various stages of a critical discussion.43 The typology developed
+by Searle (1979) distinguishes between five types of speech acts, some
+of which are directly relevant to a critical discussion, while others are
+not. 44
+
+43 Among the complications arising in practice are that many speech acts are only per-
+
+   formed implicitly and that, besides assertives, other types of speech acts can function
+   indirectly as a standpoint or argument. In such cases, a careful analytical reconstruction has to be carried out. See Chapters 4 and 5 of this volume.
+44 For a more detailed presentation of this classification of speech acts, see Searle
+
+   (1979).
+
+=== p. 63 ===
+
+    The first type of speech act that is to be distinguished consists
+of the assertive speech acts, known for short as assertives. These are
+the speech acts by which the speaker or writer “asserts” a proposition. In performing a speech act of this kind, a person commits himself more strongly or less strongly to the acceptability of a particular
+proposition. The prototype of an assertive is an assertion in which
+the speaker or writer, in effect, guarantees the truth of the proposition: “I assert that Chamberlain and Roosevelt never met.” Many
+other assertives, however, do not pronounce the truth of a proposition, but express a judgment on its acceptability in a wider sense. In
+such assertives, for example, the opinion of the speaker or writer is
+given on the event or state of affairs that is expressed in the proposition: “In my opinion, no exceptions are possible to the freedom to
+express one’s opinion,” “I think that Baudelaire is the best French
+poet.”
+    In principle, all assertives can occur in a critical discussion. They
+may not only serve to express the standpoint that is under discussion, but may also form a part of the argumentation that is advanced
+to defend that standpoint, or can be used to establish the result of
+the discussion. 45 In drawing the conclusion, it can emerge that the
+standpoint can be upheld. In that case, the standpoint may be repeated (“I uphold my standpoint”). It can also happen that the standpoint is to be retracted. Standpoints or arguments can be advanced
+by assertions but also by other assertives such as statements, claims,
+
+45 As we have explained in van Eemeren and Grootendorst (1984), argumentation can
+
+  be described as a complex of communicative (“illocutionary”) speech acts at the
+  sentence level that combine at a higher textual level in the complex speech act of
+  argumentation. It is characteristic of argumentation that it is, at this higher textual
+  level, connected with a speech act that expresses a point of view, or “standpoint.”
+  The communicative force of a (complex) speech act does not depend exclusively on
+  the formal properties of the verbal forms of expression that are used, but on their
+  function in the context and situation concerned. This is why speech acts only form
+  an argumentation if they are put forward in the context of a discussion of an issue
+  that causes disagreement. In a different context, the same speech acts could function
+  as an explanation or simply as a piece of information. For the felicity conditions of
+  the (complex) speech act of argumentation, see van Eemeren and Grootendorst
+  (1984); for the felicity conditions of advancing a standpoint, see Houtlosser (1994).
+  For the distinction between “identity conditions” and “correctness conditions,” see
+  van Eemeren and Grootendorst (1992: 30–33).
+
+=== p. 64 ===
+
+assurances, suppositions, and denials. The belief in a proposition
+and the degree of commitment to the proposition expressed in a
+standpoint or argument can vary from exceptionally strong, as in the
+case of a firm assertion, to considerably weaker, as in the case of a
+supposition.
+    The second type of speech act consists of the directives. These are
+speech acts by which the speaker or writer tries to get the listener or
+reader to do something or to refrain from doing something, such as the
+speech acts of requesting and prohibiting. The prototype of a directive
+is an order, which requires a special position of the speaker or writer
+vis-à-vis the listener or reader: “Come to my room” can only be an order
+if the speaker is in a position of authority over the listener, otherwise
+it is a request or an invitation. A question is a directive that is actually a
+special form of request: It is a request to perform a verbal act – namely,
+to reply. Other examples of directives are forbidding, recommending,
+begging, and challenging.
+    Not all directives play a constructive role in resolving a difference
+of opinion. In a critical discussion, directives may serve to challenge
+the party that has advanced a standpoint to defend that standpoint,
+to request this party to provide argumentation in support of the
+standpoint, or to request a party to provide a definition, an explanation, or some other usage declarative (see the discussion of the
+fifth type of speech act). Directives such as orders and prohibitions,
+if they are intended literally, are taboo in a critical discussion. Neither can the party that has advanced a standpoint be challenged to
+do anything else other than provide argumentation for that standpoint – a challenge to a fight, for example, is not allowed in a critical
+    The third type of speech act consists of the commissives. These are
+speech acts in which the speaker or writer undertakes vis-à-vis the listener or reader to do something or to refrain from doing something.
+Unlike in the case of a directive, in performing a commissive speech
+act it is the speaker or writer, not the listener or reader, who is supposed to act. The prototype of a commissive is a promise, in which the
+speaker or writer explicitly undertakes to do something or to refrain
+from doing something: “I promise I won’t tell your father.” Accepting
+and agreeing are also commissives. Of course, the speaker or writer
+
+=== p. 65 ===
+
+can also undertake a commitment about which the listener or reader
+will be less enthusiastic: “I assure you that I shall show that your ideas
+are not worthy of consideration.”
+   Commisives can play different roles in a critical discussion: (1) accepting or not accepting a standpoint,46 (2) accepting the challenge
+to defend a standpoint, (3) deciding to start a discussion, (4) agreeing
+to assume the role of protagonist or antagonist, (5) agreeing to the
+discussion rules, (6) accepting or not accepting argumentation, and –
+when relevant – (7) deciding to start a new discussion. Some commis-sives, such as agreeing to discussion rules, can only be performed in
+collaboration with the other party.
+   The fourth type of speech act consists of the expressives. In speech
+acts of this type, the speaker or writer expresses his feelings by congratulating or thanking someone, regretting something, and so on:
+“My sincere congratulations on your appointment,” “Thank you for
+your assistance,” “What a pity it didn’t go better.” There is no single
+prototypical expressive. An expressive of joy might be “I’m glad to see
+you’ve recovered,” hope is echoed in “I wish I could find such a nice
+girl friend,” and irritation in “I’m fed up with your hanging around
+here all day.”
+   Expressives do not play a direct role in a critical discussion (but see
+Chapter 5) because the mere expressing of emotions does not create
+any commitments for the speaker or writer that are directly relevant
+in the sense of being immediately instrumental in the resolution of a
+difference of opinion. Of course, this does not mean that expressives
+cannot have any positive or negative effect on the course of the resolution process. A person, for instance, who sighs that the discussion
+will not get us anywhere or that she is unhappy with the discussion,
+expresses an emotion that, contrary to contributing directly to the resolution of the difference of opinion, threatens to draw the attention
+away from the resolution process, and this may in practice strongly
+affect the further course of events.
+
+46 As we explained in van Eemeren and Grootendorst (1984: 101, 152), the negative
+
+  variants of the commissives are themselves strictly speaking to be regarded as as-sertives rather than commissives. For the sake of simplicity, we refrain in this volume
+  from dealing in such a precise way with such “illocutionary negations.”
+
+=== p. 66 ===
+
+    The fifth type of speech act consists of the declaratives (or declarations). These are speech acts by means of which a particular state of
+affairs is called into being by the speaker or writer, such as when the
+chairperson says, “I open the meeting.” The very performance of a
+declarative, provided that it takes place in the right circumstances,
+creates a certain reality. When an employer addresses one of his employees with the words “You are fired,” he is not just describing a particular state of affairs, but his very words bring this state of affairs into
+being. Declaratives are generally linked to institutionalized contexts,
+such as official meetings and religious ceremonies, in which there is
+no doubt as to who is authorized to perform the speech act in question. An important exception is formed by the sub-type we call usage
+declaratives; these speech acts refer to linguistic usage and are not tied
+to a specific institutional context (see van Eemeren and Grootendorst
+1984: 109–112). The purpose of usage declaratives, such as definitions,
+specifications, amplifications, and explanations, is to enlarge or facilitate the listener’s or reader’s understanding of other speech acts. The
+speaker or writer performs them in a critical discussion to make clear
+how a particular speech act is to be interpreted.
+    With the exception of the usage declaratives, declaratives do not
+play any immediate role in a critical discussion because they depend
+on the authority of the speaker or writer in a particular institutional
+context and do not directly contribute to the resolution of a difference of opinion. At best, the performance of a declarative may lead to
+a settlement of a difference of opinion. Usage declaratives, however, can
+perform a very useful function in a critical discussion. They enhance
+the understanding of other relevant speech acts, and no special institutional relation is required for using them. Usage declaratives may occur
+at any stage of the discussion, and in every stage of the discussion each
+of the parties involved may be requested to perform a usage declarative. In the confrontation stage, for example, a usage declarative may
+serve to unmask a spurious difference of opinion; in the opening stage,
+a usage declarative may clarify a discussion rule or some vague part of
+a premise; in the argumentation stage, a usage declarative may work
+against premature acceptance or non-acceptance of an argument or a
+standpoint; and in the concluding stage, a usage declarative may prevent arriving at a specious resolution. Usage declaratives can thus be
+
+=== p. 67 ===
+
+a helpful tool against the occurrence of a great variety of unnecessary
+or unjustified discussion moves.
+
+After this brief overview of which types of speech acts from the various categories of speech acts can play a constructive role in a critical
+discussion, we can list them as follows:
+
+Stage      Type of speech act and its role in the resolution
+
+            ASSERTIVES
+I           Expressing a standpoint
+III         Advancing argumentation
+IV          Upholding or retracting a standpoint
+IV          Establishing the result
+
+            COMMISSIVES
+I           Acceptance or non-acceptance, upholding non-acceptance
+            of a standpoint
+II          Acceptance of the challenge to defend a standpoint
+II          Decision to start a discussion; agreement on premises and
+            discussion rules
+III         Acceptance or non-acceptance of argumentation
+IV          Acceptance or non-acceptance of a standpoint
+
+            DIRECTIVES
+II          Challenging to defend a standpoint
+III         Requesting argumentation
+I–IV        Requesting a usage declarative
+
+            USAGE DECLARATIVES
+I–IV        definition, specification, amplification, and so on.
+
+The distribution of the different types of speech acts over the different
+stages of the resolution process is described in the model of a critical
+discussion. In the model, it is indicated, for each stage of the discussion,
+which representative of a particular type of speech act plays a specific
+
+=== p. 68 ===
+
+constructive role in that stage of the discussion. This distribution is
+summarized in the following table:
+
+         table 3.1 Distribution of speech acts in a critical discussion
+
+I                         Confrontation
+Assertive                 Expressing a standpoint
+Commissive                Acceptance or non-acceptance of a standpoint,
+                            upholding non-acceptance of a standpoint
+[Directive                Requesting a usage declarative]
+[Usage declarative]       Definition, specification, amplification, etc.]
+
+II                        Opening
+Directive                 Challenging to defend a standpoint
+Commissive                Acceptance of the challenge to defend a standpoint
+                          Agreement on premises and discussion rules
+                          Decision to start a discussion
+[Directive                Requesting a usage declarative]
+[Usage declarative]       Definition, specification, amplification, etc.]
+
+III                       Argumentation
+Directive                 Requesting argumentation
+Assertive                 Advancing argumentation
+Commissive                Acceptance or non-acceptance of argumentation
+[Directive                Requesting a usage declarative]
+[Usage declarative]       Definition, specification, amplification, etc.]
+
+IV                        Concluding
+Commissive                Acceptance or non-acceptance of a standpoint
+Assertive                 Upholding or retracting a standpoint
+                          Establishing the result of the discussion
+[Directive                Requesting a usage declarative]
+[Usage declarative]       Definition, specification, amplification, etc.]
+

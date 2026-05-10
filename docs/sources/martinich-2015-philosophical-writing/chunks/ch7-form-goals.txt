@@ -1,0 +1,669 @@
+=== chunk: martinich-2015-philosophical-writing/ch7-form-goals ===
+title: Some Goals of Form
+source_pdf: docs/sources/martinich-2015-philosophical-writing/full.pdf
+pdf_pages: 189-207
+page_scheme: pdf
+plan_page_start: 189
+plan_page_end: 207
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 189 ===
+
+Some Goals of Form
+Essays ought to be intelligible to the reader. If you have a great
+argument and cannot communicate it to your reader, then it has no
+practical value. Three of the most important ways to make your essay
+intelligible are to make sure that it is clear, concise, and coherent.
+Philosophers also strive for what they call “rigor.” These four qualities
+are the topic of this chapter.
+
+1 Coherence
+One of the most serious failings in an essay is incoherence, which is
+not the same as meaninglessness. Meaninglessness, as I want to use
+the word, is an absolute notion. A sentence is either meaningless or
+not, and it cannot be made intelligible simply by putting it in some
+context. Coherence, by contrast, is relative. A sentence that is perfectly
+meaningful in itself might be incoherent within the context of an
+essay. For example, the sentence “Kant is the author of The Critique of
+Pure Reason” is certainly meaningful in itself and not difficult to
+understand; yet in some contexts it would be incoherent, as in this
+essay fragment:
+  Plato, who is the greatest of the ancient Greek philosophers,
+  wondered how it could be that many different things could all
+  belong to the same kind. Kant is the author of The Critique of Pure
+  Reason. Given that Fido, Bowser, and Spuds are all dogs, they are
+  in some way the same. What makes them the same?
+The sentence about Kant is so out of place in this fragment that one
+might be tempted to say of it that it makes no sense or even that it is
+meaningless. But I am emphasizing that it does not lack sense and is
+not meaningless but only incoherent in certain contexts. A sentence is
+incoherent when it does not hang together with its immediately
+preceding or succeeding sentence. A paragraph is incoherent when it
+
+=== p. 190 ===
+
+does not hang together with its immediately preceding or succeeding
+paragraph. And an essay is incoherent when a large number of its
+sentences or paragraphs are incoherent. Achieving coherence is not a
+trivial accomplishment. Many famous philosophers and scholars have
+failed. Consider this example, which occurs in a chapter about the
+philosophy of Niccolò Machiavelli:
+  Now although the revolution effected by Hobbes was decisively
+  prepared by Machiavelli, Hobbes does not refer to Machiavelli. This
+  fact requires further examination.
+  Hobbes is in a way a teacher of Spinoza. Nevertheless
+  Spinoza opens his Political Treatise with an attack on the
+  philosophers. The philosophers, he says, treat the passions as vices.
+  By ridiculing or deploring the passions, they praise and evince their
+  belief in a nonexistent human nature; they conceive of men not as
+  they are but as they would wish them to be. Hence their political
+  teaching is wholly useless. Quite different is the case of the politici. .
+  . . The greatest of these politici is the most penetrating Florentine,
+  Machiavelli. It is Machiavelli’s more subdued attack on traditional
+  philosophy that Spinoza takes over bodily and translates into the
+  less reserved language of Hobbes. (Leo Strauss, “Machiavelli,” in
+  Leo Strauss and Joseph Cropsey, eds., The History of Political
+  Philosophy, 3rd edn, Chicago: University of Chicago Press, 1987,
+  pp. 298–9.)
+From the first two sentences of the passage just quoted, the reader gets
+the idea that Strauss will examine the fact that “Hobbes does not refer
+to Machiavelli” since that fact is expressed by the main clause of the
+first sentence. But Strauss’s discussion in the full paragraph suggests
+that he intended to discuss something like what he indicates in the
+subordinate clause of the first sentence (“Although the revolution . . .
+prepared by Machiavelli.”). Unfortunately, his discussion is
+periphrastic or round about. All he needed to say was that Spinoza
+used Machiavelli’s arguments but expresses them in Hobbes’s
+vocabulary.
+A large part of coherence is continuity, that is, the way an essay moves
+from one part to another toward its goal. An essay that meanders,
+
+=== p. 191 ===
+
+seemingly not directed to any particular destination, is defective even
+if each sentence is charged with great rhetorical energy.
+There are many ways in which coherence is achieved in essays.
+Sometimes one part of an essay coheres with another because they
+share a subject matter, as in this essay fragment:
+  Plato holds that universals really exist. Universals then are part of
+  the ultimate furniture of the world. If there were no universals then
+  nothing else could exist.
+Each sentence in this fragment is held together by its shared subject
+matter: universals.
+In addition to sharing a specific subject matter, sentences hang
+together in other ways. One of these ways is through stock phrases that
+mark the boundaries of large parts of the essay: the beginning, the
+middle, and the end. Consider these:
+  I begin/To begin
+  I shall now argue/Consider the argument
+  I conclude/To conclude/In conclusion
+Even if these phrases are not particularly elegant, they are effective for
+informing the reader of where he is in the essay, and all three together
+tie the large structural units of the essay together into a whole.
+Other linguistic devices connect smaller portions of essays, one
+paragraph to another, one sentence to another, and even one part of a
+sentence to another part of the same sentence. Such devices are often
+called transitional phrases. Their effect is much more local than
+phrases like, “I begin,” “In conclusion,” and “I shall argue,” which
+control relatively large portions of text. Most of the linguistic devices
+available for tying essay parts together occur in the middle of an essay,
+where most of the twists and turns of the argument occur. The author
+needs to supply her reader with road signs marking where the
+subarguments are introduced and objections are raised and answered.
+One good place for these road signs is at the beginning of paragraphs.
+For example, consider the opening phrases of six successive
+paragraphs from Charles Landesman’s Philosophy: An Introduction to
+
+=== p. 192 ===
+
+the Central Issues:
+  An argument against hedonism was developed by G. E. Moore . . .
+  The hedonist has two responses to Moore. First, . . . Second, . . .
+  Another argument against hedonism . . .
+  The hedonist replies . . .
+  Thus hedonism is not refuted . . .
+At the very beginning, Landesman makes dear what the main topic of
+each of these paragraphs is. The reader should be grateful to the
+author for keeping him informed of where he is in the essay. Your
+professor will be similarly grateful – and may well express his
+gratitude in the way you like best – if you use similar types of
+transitional phrases.
+Here is another example of transitional phrases at the beginning of
+successive paragraphs:
+  We shall begin our consideration of empiricism by turning to Locke.
+  One might object to Locke’s empiricism by pointing out that . . .
+  There is a twofold reply to this objection.
+  The objector, however, might not accept this reply on the grounds
+  that . . .
+In addition to transitional devices that begin paragraphs, there are
+also transitional words and phrases that are useful within paragraphs.
+The words therefore and consequently indicate the conclusion of an
+argument, often wholly within a paragraph. The words further,
+furthermore, moreover, and in addition indicate that additional
+evidence or information about some matter will be provided.
+Pronouns and nominalizations can also be used to effect coherence.
+Compare these two sequences:
+  state than it is in the individual. Plato uses the premise that what is
+  larger is more easily observed.
+
+=== p. 193 ===
+
+  state than it is in the individual. His argument uses the premise that
+  what is larger is more easily observed.
+Both passages express the same information. Yet the second coheres in
+a way that the first does not. The coherence is achieved by the use of
+two words: his and argument. The pronoun his requires the reader to
+find its antecedent, which is in the prior sentence. Similarly, the
+abstract noun “argument,” formed from the verb “argue,” requires the
+reader to find its antecedent, which is also in the preceding sentence.
+So, although abstract words should not be used for their own sake,
+there are reasons for using them and one of them is coherence. Here
+are three more examples of having one sentence cohere better with
+another by changing a verb from one sentence into an abstract noun
+and using it in the following sentence:
+  Thrasymachus proposes that justice is what serves the strong. His
+  proposition is refuted by Socrates.
+  Camus recommends that we choose our values. His
+  recommendation is a good one.
+  Heidegger challenges contemporary philosophers to return to the
+  roots of philosophy. His challenge has been met in unexpected ways
+  by Derrida.
+Virtually all the principles and devices for achieving coherence in an
+essay that I have mentioned should be familiar to you from courses in
+composition. What I have tried to do is to make you aware that those
+general principles and devices apply to philosophy as well and to try to
+move you to use the available devices in your own philosophical prose.
+
+  1. Find and write out three successive paragraphs from some
+     philosophical work that contain explicit transitional phrases at
+     the beginning of each paragraph.
+  2. Think of ten transitional words or phrases that might appear in
+     essays. (Hint: look at some essays for examples.)
+
+=== p. 194 ===
+
+2 Clarity
+It is quite possible for an essay to be coherent but not clear. Each
+sentence might be obviously tied to every other without any of the
+sentences conveying the author’s thought:
+  Art challenges the prevailing principle of reason: in representing
+  the order of sensuousness, it invokes a tabooed logic – the logic of
+  gratification as against that of repression. Behind the sublimated
+  aesthetic form, the unsublimated content shows forth: the
+  commitment of art to the pleasure principle. The investigation of
+  the erotic roots of art plays a large role in psychoanalysis. (Herbert
+  Marcuse, Eros and Civilization, New York: Vintage Books, 1955, pp.
+  168–9)
+There is coherence here; but not, I think, clarity. Marcuse could have
+made roughly the same claims in this way:
+  Art is as important to life as reason although philosophers have
+  often overlooked this fact. Art is primarily concerned with the
+  satisfactions of sensuous experience. Even when constrained by
+  specific artistic forms, the sensuousness of art can still be perceived.
+  A large part of psychoanalysis has been devoted to investigating the
+  sensuous satisfactions that come from art.
+It is slightly embarrassing for a philosopher to preach about clarity,
+because so much philosophical writing lacks that quality. Nonetheless,
+clarity remains an ideal. Wittgenstein wrote, “Whatever can be said
+can be said clearly” (Tractatus Logico-Philosophicus). Schopenhauer
+wrote, “The real philosopher will always look for clearness and
+distinctness; he will invariably try to resemble not a turbid, impetuous
+torrent, but rather a Swiss lake which by its calm combines great depth
+with great clearness, the depth revealing itself precisely through its
+clearness” (quoted by Peter A. French, “Toward the Headwaters of
+Philosophy: Curriculum Revision at Trinity University,” in
+Proceedings and Addresses of the American Philosophical
+Association 58 (1985), p. 615). Joseph Butler wrote, “Confusion and
+Perplexity in Writing is indeed without excuse, because anyone may, if
+he pleases, know whether he understands and sees through what he is
+
+=== p. 195 ===
+
+about” (Joseph Butler, Five Sermons, Indianapolis: Hackett, 1983, p.
+12). Butler may have overstated the truth; perhaps an author does not
+always know that his writing is confusing, especially when he
+understands his material thoroughly. Nonetheless, what Butler meant
+is true in very many cases. Further, just because it is likely that an
+author might not know that his writing is confused unless he thinks
+about that very possibility with some care, it is all the more important
+that he do so. For what Butler says immediately after the passage
+above is right: “and it is unpardonable for a man to lay his thought
+before others when he is conscious that he himself does not know
+whereabouts he is, or how the matter before him stands” (Butler, Five
+Sermons, p. 12). There is no excuse for a person who intentionally
+writes in a confused way. Authors have an obligation to be clear.
+Clarity is relative to an audience. What is clear to one person at one
+time in one situation might not be clear to another person at another
+time in another situation. What counts as a clear exposition of Gödel’s
+incompleteness theorem for a Harvard logician might not count as a
+clear exposition for a person taking his first course in philosophy.
+Whether writing is clear or not depends in part upon what facts or
+beliefs the author can rightfully presuppose that his audience
+possesses.
+How many times have you heard people say in frustration, “Well, you
+know what I mean,” when they have repeatedly failed to say what they
+mean about the most ordinary sorts of things. Think about how much
+more difficult it is to say something exactly right about the most
+central, important, and elusive of our concepts when no one has
+previously said it exactly right. In philosophy, after failing to say
+something correctly, it is never acceptable to fall back on the phrase,
+“Well, you know what I mean.” If the audience knows what the author
+means without him saying it correctly, then it is trivial; and if it is not
+trivial, the audience cannot be sure of what the author means.
+It is easy to say “Be clear” and difficult to say what clarity is. In the
+broad sense in which I am using the term, clarity is a complex concept
+with many dimensions. In philosophy, the dimension that stands out
+most of all is precision. Precision avoids three things: ambiguity,
+vagueness, and indeterminateness.
+
+=== p. 196 ===
+
+An ambiguous word, phrase, or sentence is one that has two or more
+meanings. The sentence “Mary went to the bank” is ambiguous
+between “Mary went to the financial institution” and “Mary went to
+the river’s edge.” Although it is highly unlikely that the sentence just
+considered would cause any philosophical confusion, there are
+ambiguous sentences that have, and calling attention to the
+ambiguities involved in them constitutes philosophical progress.
+Psychological egoism holds to this proposition: Every person acts only
+to satisfy his own desires. This sentence seems at once both obviously
+true and outrageous. How is this possible? It is possible because it is
+ambiguous. In one sense it means, “Everything a person does is
+something that he wants to do.” In order to act a person must be
+moved to act by something, and this thing that moves a person is
+called a want or a desire. This is true and not very exciting; many
+would consider it trivial. In another sense the thesis of psychological
+egoism means, “Every person acts only to satisfy his own desires and
+no one else’s.” This makes psychological egoism outrageous and false.
+Gandhi, Martin Luther King, Jr, and Mother Theresa are three
+indubitable examples of people who, although they did what they
+wanted to do, were also moved to do things to satisfy the desires of
+other people and only for the good of those other people. That is what
+they desired. When the trivially true sense of the thesis of
+psychological egoism is conflated with the outrageous and false sense,
+the thesis seems compelling and profound. Psychological egoism
+trades on this ambiguity. (See Hastings Rashdall, Theory of Good and
+Evil, Oxford: Clarendon Press, 1907.) Once the ambiguity of the thesis
+is pointed out, psychological egoism is not persuasive.
+Ambiguity should not be conflated with vagueness:
+  Parent: Where are you going?
+  Teenager: Out.
+  Parent: What are you going to do?
+  Teenager: This and that.
+The teenager’s answers are vague, not ambiguous. They lack
+specificity. Writers are often vague when they do not know how to
+
+=== p. 197 ===
+
+formulate their thought precisely although there is a precise
+formulation of it. Vagueness should ultimately be eliminated in these
+cases. What this means is that you should work to eliminate
+unnecessarily vague words and sentences. This is not to say that
+vagueness should not occur in the early drafts of your essay. To the
+contrary, this is a good place for it. When you are first working out
+your thoughts, write down whatever comes to mind. Many of these
+things will be vague. That is okay. After you have written your initial
+thoughts, revise. Eliminate the vagueness by reflecting more carefully
+on the issue; also use a dictionary and thesaurus to help you find the
+precise word that you want. (A dictionary and a thesaurus serve
+different purposes. A dictionary defines a word; it should be used to
+verify that the word you use has the meaning you think it has. A
+thesaurus gives clusters of words that are related in meaning; it is
+helpful when you are trying to identify the exact word you need and
+can only think of a related word.)
+So far I have been talking about avoidable vagueness. Some vagueness
+is unavoidable. Some phenomena lack sharp boundaries by their very
+nature; and they would be misrepresented if overly specific language
+were used to describe them. One importantly vague concept may be
+the ordinary concept of a person. Suppose that two people, Sharp and
+Blunt, are operated on and their brains interchanged. After the
+operation, which person is Sharp and which is Blunt? If you think that
+the obvious answer to this question is that Mr Blunt is the object
+consisting of Blunt’s brain in Sharp’s body and Mr Sharp is the object
+consisting of Sharp’s brain in Blunt’s body (on the grounds that
+whoever has a person’s brain is that person), then consider a related,
+though different, situation. Suppose that Sharp and Blunt are operated
+on; their brains are interchanged. However, in the course of the
+interchange, all the brain states of each brain are also interchanged.
+That is, all the original states of Sharp’s brain are now encoded in
+Blunt’s brain, and all the original states of Blunt’s brain are now
+encoded in Sharp’s brain. In this situation, Sharp’s body has Blunt’s
+brain but Sharp’s brain states; and Blunt’s body has Sharp’s brain but
+has Blunt’s brain states. Now which object is Sharp and which Blunt?
+People might well argue about which is the right answer. Another way
+to handle the question, however, is to claim that there is no right
+
+=== p. 198 ===
+
+answer, because the concept of a person is not so definite as to allow
+an answer to this question. The situation is so bizarre that a solution to
+it has never been built into the ordinary concept of a person. Now
+nothing prevents us from adding to that original concept something
+that does determine the answer. Only be aware that in adding to that
+concept, we are thereby changing it, and, more precisely, are admitting
+that the original concept had some degree of vagueness.
+The point of all this is that some vagueness is built into some concepts
+and that it is not a defect when your writing reflects this vagueness.
+However, it is important to be aware of this vagueness. As Aristotle
+said, “It is the mark of an educated person not to require more
+precision than the subject allows.” (See Wittgenstein, Philosophical
+Investigations, for more about precision and exactness.)
+In addition to the avoidable vagueness that is objectionable in
+philosophy, and the unavoidable vagueness that is to be
+recommended, there is a third category, that of avoidable vagueness
+that is to be recommended. This is a kind of vagueness that is put to
+work in the service of style. Often, especially when a topic is difficult or
+when what is to be said about the topic is quite original, a precise
+formulation of one’s views, though intelligible in itself, might be
+relatively unintelligible to an unprepared reader. In such cases, it is
+often rhetorically advisable to begin with a vague statement of one’s
+position and use it as the occasion to invite a more precise formulation
+of it. For example, John Searle had astonishingly original things to say
+about intentionality in his book Intentionality, most of which, when
+formulated precisely, were unavoidably couched in technical terms.
+Such terms would have been unintelligible to his readers early in the
+book. Thus, as a first shot at explaining his views, Searle writes:
+   All of these . . . connections between Intentional states and speech
+   acts naturally suggest a certain picture of Intentionality: every
+   Intentional state consists of a representative content in a certain
+   psychological mode. Intentional states represent objects and states
+   of affairs. . . . Just as my statement that it is raining is a
+   representation of a certain state of affairs, so my belief that it is
+   raining is a representation of the same state of affairs. Just as my
+   order to Sam to leave the room is about Sam and represents a
+
+=== p. 199 ===
+
+  certain action on his part, so my desire that Sam should leave the
+  room is about Sam and represents a certain action on his part.
+  (Intentionality, Cambridge: Cambridge University Press, 1983, p.
+  11.)
+Searle’s use of “represent” and “representation” helps establish a
+context that is familiar to philosophers. Yet philosophers have rarely,
+if ever, spelled out what a representation is. Searle is aware of this
+vagueness and is exploiting it. He goes on to say, “The notion of
+representation is conveniently vague.” He admits to “Exploiting this
+vagueness,” and acknowledges that the notion “will require some
+further clarification.” He is in effect inviting the clarification, which
+shortly after he provides at some length. After providing the
+clarification, he points out that his use of “represent” and
+“representation” could be completely eliminated in favor of the
+technical explanations he provided in the clarification. Yet it is
+convenient not to replace them because those vague terms are
+shorthand for complex syntactic constructions. Notice, then, how
+vague language can be rhetorically effective: it gives a reader an
+intelligible entrance to an essay; it moves the essay forward by inviting
+further clarification and encouraging brevity.
+Indeterminateness is still different from ambiguity and vagueness.
+Indeterminateness is a kind of incompleteness. It is symptomatic of
+the lazy and half-formed thought. Consider the sentence “Humans are
+selfish.” This sentence is indeterminate, because it does not specify
+whether all or only some humans are being referred to, nor whether
+they are always or only sometimes so. There are important differences
+in the truth-conditions of these propositions:
+  All humans are always selfish.
+  All humans are sometimes selfish.
+  Some humans are always selfish.
+  Some humans are sometimes selfish.
+There are all sorts of ways in which a proposition might be
+indeterminate, and it is impossible to enumerate them here. So one
+must always be on guard against indeterminateness.
+
+=== p. 200 ===
+
+Indeterminateness is also one reason why the passive voice is often
+offensive. Some philosophers assert, “The world is constituted,” as if
+this expressed a complete thought. But what we want to know is who
+or what constitutes it, not to mention what “constitute” means in this
+case. The sentence “The world is constituted” would be less
+misleadingly written, “The world is constituted by________.” This
+sentence schema would at least make clear that something is missing.
+It is not sufficient to complete the sentence in this way: “The world is
+constituted by consciousness,” because even this sentence does not
+make specific what consciousness is involved. There are at least three
+obvious possibilities:
+  The world is constituted by God’s consciousness.
+  The world is constituted by each human consciousness.
+  The world is constituted by human consciousness collectively.
+Which way is the original statement to be taken?
+It is tempting to write indeterminate sentences. They are often pithy,
+intriguing, and epigrammatic. They give the appearance of depth, yet
+they are shallow. They lack the depth that comes from hard thinking.
+And they unjustifiably spare the author the effort of thinking an issue
+through completely. Don’t spare the effort.
+After writing a draft of your paper, it is a good thing to go over your
+draft and look up key terms in either a dictionary or thesaurus to see
+whether there isn’t a more precise word for what you mean. Often the
+more precise word is a bigger or an unusual one. If that is so, then use
+it. But do not use the bigger word simply because it has more syllables.
+(More precise words are often longer than related words because it is
+part of the economy of language to use the shortest words for the most
+common purposes, and the precision required for philosophy is
+uncommon. Philosophers often need to use unusual words because
+their thoughts are unusual.)
+There are many other quirks of a person’s style that may inhibit clarity
+or require the reader to spend a fraction of a second longer in order to
+understand. Some of these are explained in other parts of this book.
+I’ll end with one that is too common and easy to correct. Avoid
+
+=== p. 201 ===
+
+outdated words, such as these: aforementioned, thereof, whilst,
+whomsoever.
+
+3 Conciseness
+Conciseness combines brevity and content. Being concise means
+conveying a lot of information in a brief space. Brevity, perhaps, does
+not call for much comment. It is desirable because it typically makes
+fewer demands on the reader’s attention and understanding. An
+author should realize that she is costing her audience the time it takes
+to read her writing. A student’s professor is a captive audience; don’t
+also torture him.
+Although brevity is a good policy, it admits of exceptions. Sometimes
+the rhythm of language recommends a wordier sentence. Also,
+sometimes brevity approaches turgidity. That is, it is sometimes
+necessary to use more, rather than fewer, words in order to stretch out
+the content of a sentence and thereby make it more intelligible to your
+reader. Short sentences, dense in content, are often less intelligible to
+a specific audience than longer sentences with the same content.
+Further, brevity does not guarantee efficiency; it concerns only how
+something is said and not at all what is said. In determining the
+efficiency or economy of a sentence or essay, one must consider
+content in addition to brevity. A brief but vacuous sentence does not
+communicate more efficiently than a prolix but informative one. Thus,
+it is not in itself desirable to sacrifice content for the sake of brevity,
+although this might be desirable for some other reason: to vary
+sentence length or to prepare the reader for some complicated
+explanation. Thus, brevity and content must be balanced. That is the
+force of the admonition to be concise.
+While a short sentence sometimes conveys more than a long sentence,
+sometimes a long sentence is indispensable. Most concise sentences
+can be viewed as expressing what many short sentences might have
+conveyed. For example, the sentence
+   Descartes has radical doubts about the ability of humans to know
+   anything
+
+=== p. 202 ===
+
+can be viewed as conveying the same information as these three:
+  Descartes has doubts.
+  The doubts are radical.
+  The doubts are about the ability of humans to know anything.
+A large part of conciseness consists of just this kind of economy of
+expression. But there is more to it than that. Sentence-combining
+allows the author to express her thoughts in an organized way. The
+syntactic structure of the concise sentence about Descartes’s doubts
+make clear that the basic idea is that Descartes has doubts. The other
+two ideas expressed in the sentence are subordinate. The idea that the
+doubts are radical modifies the first, and the idea that the doubts are
+about the ability of humans to know anything is a specification of
+Descartes’s doubt.
+There are all sorts of devices of organizing and subordinating in
+natural languages. We have already seen that adjectival and clausal
+modification can be used for this purpose. Sentence connectives are
+another such device. Think about the difference between
+  Descartes begins by doubting the existence of everything, and he
+  concludes that he exists.
+  Descartes begins by doubting the existence of everything but he
+  concludes that he exists.
+  Although Descartes begins by doubting the existence of everything,
+  he concludes that he exists.
+In the first sentence, the word “and” expresses that the ideas expressed
+in each clause receive equal emphasis. In the second sentence, the
+ideas are contrasted and there is more emphasis on the second than on
+the first in virtue of the meaning of “but.” In the third sentence, the
+idea expressed in the first clause is conceded by the author and the
+idea expressed in the second clause is emphasized in virtue of the
+meaning of “although.”
+The nuances expressed by “and,” “but,” and “although,” and many
+other sentence connectives, e.g. “because,” are important. Abuses of
+
+=== p. 203 ===
+
+them are obvious. For example, contrast this passage:
+     Although Proclus is the second greatest Neoplatonist, Plotinus is
+     the greatest. Proclus was born about AD410, but he died in 485.
+     Plotinus’s philosophy was organized by Proclus into a series of
+     triadic emanations.
+with this one:
+     Although Plotinus is the greatest Neoplatonist, Proclus is the
+     second greatest. He was born about AD410 and died in 485. He
+     organized Plotinus’s philosophy into a series of triadic emanations.
+You should be able to figure out why the second passage is stylistically
+superior to the first. Although I can’t explain all the different sorts of
+sentence-combining techniques, you should pay attention to the
+syntactic structures of your sentences to make sure that they are
+emphasizing what you want to emphasize and subordinating what you
+want to subordinate. You should experiment with different clausal
+arrangements to see which one best conveys your thought.
+One way to enhance conciseness is to rephrase some prepositional
+phrases as gerund phrases. For example, rephrase
+     The recognition of the existence of universals solves many
+     problems.
+as
+     Recognizing that universals exist solves many problems.
+And rephrase,
+     The restatement of the argument of Descartes . . .
+as
+     Restating Descartes’s argument . . .
+
+                                Exercise
+     1. Combine the following sets of sentences into one sentence that
+
+=== p. 204 ===
+
+     expresses the same thought. You may add connectives, delete
+     words, and change the syntactic structure as you please.
+     a. Utilitarianism is a theory.
+            The theory concerns ethics.
+            The theory has a principle.
+            The principle is that one should act to ensure the
+            greatest good for the greatest number. J. S. Mill is the
+            author of the principle.
+     b. Plato is an author.
+            Plato wrote the Phaedo.
+            The Phaedo concerns the soul.
+            Plato argues that the soul is immortal.
+     c. Sartre is an existentialist.
+            Camus is an existentialist.
+            Marcel is an existentialist.
+            Marcel is a Christian.
+
+4 Rigor
+Philosophers often espouse rigor, which they often explain to be clarity
+(in some narrow sense), precision, and explicitness. Clarity, especially
+as it relates to precision, has already been discussed. What about
+explicitness?
+Logicians are perhaps the greatest proponents of explicitness. Yet even
+logicians retreat from the ideal when they introduce various
+abbreviations, e.g. the iota operator, and conventions for dispensing
+with symbols, such as omitting final parentheses from formulas of
+logic.
+Communication in natural languages, much more than in artificial
+ones, gets along quite well with much less than total explicitness. Total
+explicitness is inadvisable for a number of reasons. First, it would take
+
+=== p. 205 ===
+
+up an unreasonable amount of physical space. Second, totally explicit
+language is more difficult to process mentally than much inexplicit
+language. (Human comprehension is better when the human has to
+make some inferences about the material than when everything is
+explicit.) Third, the author may not be able to say explicitly what he
+means. One skill needed for effective writing is knowing what should
+and what should not be explicit. There are then two parts to what a
+speaker or writer communicates: what he expresses and what he
+implies. What he expresses is what is explicit in the words he uses.
+What he implies is what he communicated in virtue of various features
+of the context of his utterance. For example, consider this essay
+fragment:
+  Immanuel Kant is the author of several, long, classic works in
+  philosophy, including his Critique of Pure Reason and Critique of
+  Practical Reason. His distinction between noumena and
+  phenomena and his views about the contribution that the mind
+  makes to structuring reality have had a great influence on many
+  distinguished philosophers for the last one hundred and fifty years.
+Although the author does not say that Kant is a good philosopher, he
+surely implies this in the essay fragment. He also does not say that
+many philosophers have read Kant’s work; but again this is implied by
+the context. It is highly unlikely that what the author says of Kant
+could be true unless many philosophers had read Kant.
+Although our ability to imply much of what we mean is a virtue of
+natural language communication, it does cause problems. For it is
+often difficult for an author to know what she can assume her audience
+believes and also difficult to know when she has said enough to allow
+the audience to draw the correct implications from what has been said.
+In ordinary contexts, people rarely have any trouble deciding this
+issue. It’s different with philosophy. Philosophy is so general that often
+what one philosopher takes for granted another philosopher finds
+absurd. Compare the beliefs of idealists with those of realists, for
+example, or materialists with dualists. The student has another
+problem. How can a student know what to make explicit and what to
+leave implicit when her audience, the professor, probably already
+knows everything true that the student has to say? (For the answer to
+
+=== p. 206 ===
+
+this question, see chapter 1, section 1, “The Professor As Audience.”)
+Being too explicit can result in clumsy writing. Consider this passage
+from G. E. Moore, who has just finished discussing the differences
+between such assertions as “I am standing up,” “I have clothes on,”
+and “I am speaking in a fairly loud voice”:
+  But in spite of these, and other, differences between those seven or
+  eight different assertions, there are several important respects in
+  which they are all alike.
+  (1) In the first place: All of those seven or eight different assertions,
+  which I made at the beginning of this lecture, were alike in this
+  respect, namely, that every one of them was an assertion, which,
+  though it wasn’t in fact false, yet might have been false. For
+  instance, consider the time at which I asserted that I was standing
+  up. It is certainly true that at that very time I might have been
+  sitting down, though in fact, I wasn’t; and if I had been sitting down
+  at that time, then my assertion that I was standing up would have
+  been false. Since, therefore, I might have been sitting down at that
+  time, it follows that my assertion that I was standing up was an
+  assertion which might have been false, though it wasn’t. And the
+  same is obviously true of all the other assertions I made. At the time
+  when I said I was in a room, I might have been in the open air; at
+  the time when I said I had clothes on, I might have been naked; and
+  so on, in all the other cases. (From G. E. Moore, “Certainty,”
+  Philosophical Papers, New York: Collier Books, 1966, pp. 225–6.)
+In short, what should be explicit is what is most important. What
+should be implied is what can reasonably be assumed either as
+background information shared by both author and reader or as
+obviously following from what is explicit in the text.
+
+  1. The passage above from G. E. Moore contains more than 200
+     words. Rewrite it more concisely. Use no more than 150 words.
+  2. Make the following sentences more concise:
+
+=== p. 207 ===
+
+a. “The first point is a point which embraces many other
+   points” (from G. E. Moore, “A Defence of Common Sense,”
+   in Philosophical Papers, New York: 1959, p. 32).
+b. By using the recognition of the fact that Descartes in no way
+   refutes the philosophical view of skepticism, we can get a
+   better handle on the proper conditions underlying the
+   concept of knowledge.
+

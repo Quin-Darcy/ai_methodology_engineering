@@ -1,0 +1,1207 @@
+=== chunk: gadamer-1960-truth-and-method/ch4-s2-application ===
+title: Ch. 4 §2 — Recovery of the fundamental hermeneutic problem (application)
+source_pdf: docs/sources/gadamer-1960-truth-and-method/full.pdf
+pdf_pages: 343-372
+page_scheme: book
+plan_page_start: 305
+plan_page_end: 334
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 305 ===
+
+      understanding. In the process of understanding, a real fusing of horizons
+      occurs—which means that as the historical horizon is projected, it is
+      simultaneously superseded. To bring about this fusion in a regulated way
+      is the task of what we called historically effected consciousness. Although
+      this task was obscured by aesthetic-historical positivism following on the
+      heels of romantic hermeneutics, it is, in fact, the central problem of
+      hermeneutics. It is the problem of application, which is to be found in all
+      understanding.
+
+      2 THE RECOVERY OF THE FUNDAMENTAL HERMENEUTIC PROBLEM
+
+                    (A) THE HERMENEUTIC PROBLEM OF APPLICATION
+
+      In the early tradition of hermeneutics, which was completely invisible to
+      the historical self-consciousness of post-romantic scientific epistemology,
+      this problem had its systematic place. Hermeneutics was subdivided as
+      follows: there was a distinction between subtilitas intelligendi (understanding) and subtilitas explicandi (interpretation); and pietism added a
+      third element, subtilitas applicandi (application), as in J. J. Rambach. The
+      process of understanding was regarded as consisting of these three
+      elements. It is notable that all three are called subtilitas—i.e., they are
+      considered less as methods that we have at our disposal than as talents
+      requiring particular finesse of mind.51 As we have seen, the hermeneutic
+      problem acquired systematic importance because the romantics recognized
+      the inner unity of intelligere and explicare. Interpretation is not an
+      occasional, post facto supplement to understanding; rather, understanding
+      is always interpretation, and hence interpretation is the explicit form of
+      understanding. In accordance with this insight, interpretive language and
+      concepts were recognized as belonging to the inner structure of understanding. This moves the whole problem of language from its peripheral
+      and incidental position into the center of philosophy. We will return to this
+      point.
+         The inner fusion of understanding and interpretation led to the third
+      element in the hermeneutical problem, application, becoming wholly
+      excluded from any connection with hermeneutics. The edifying application of Scripture in Christian preaching, for example, now seemed very
+      different from the historical and theological understanding of it. In the
+      course of our reflections we have come to see that understanding always
+
+=== p. 306 ===
+
+involves something like applying the text to be understood to the
+interpreter's present situation. Thus we are forced to go one step beyond
+romantic hermeneutics, as it were, by regarding not only understanding
+and interpretation, but also application as comprising one unified process.
+This is not to return to the pietist tradition of the three separate "subtleties," for, on the contrary, we consider application to be just as integral a
+part of the hermeneutical process as are understanding and interpretation.52
+   The current state of the hermeneutical discussion is what occasions my
+emphasizing the fundamental importance of this point. We can appeal first
+to the forgotten history of hermeneutics. Formerly it was considered
+obvious that the task of hermeneutics was to adapt the text's meaning to
+the concrete situation to which the text is speaking. The interpreter of the
+divine will who can interpret the oracle's language is the original model for
+this. But even today it is still the case that an interpreter's task is not simply
+to repeat what one of the partners says in the discussion he is translating,
+but to express what is said in the way that seems most appropriate to him,
+considering the real situation of the dialogue, which only he knows, since
+he alone knows both languages being used in the discussion.
+   Similarly, the history of hermeneutics teaches us that besides literary
+hermeneutics, there is also a theological and a legal hermeneutics, and
+together they make up the full concept of hermeneutics. As a result of the
+emergence of historical consciousness in the eighteenth and nineteenth
+centuries, philological hermeneutics and historical studies cut their ties
+with the other hermeneutical disciplines and established themselves as
+models of methodology for research in the human sciences.
+   The fact that philological, legal, and theological hermeneutics originally
+belonged closely together depended on recognizing application as an
+integral element of all understanding. In both legal and theological
+hermeneutics there is an essential tension between the fixed text—the law
+or the gospel—on the one hand and, on the other, the sense arrived at by
+applying it at the concrete moment of interpretation, either in judgment or
+in preaching. A law does not exist in order to be understood historically,
+but to be concretized in its legal validity by being interpreted. Similarly, the
+gospel does not exist in order to be understood as a merely historical
+document, but to be taken in such a way that it exercises its saving effect.
+This implies that the text, whether law or gospel, if it is to be understood
+properly—i.e., according to the claim it makes—must be understood at
+
+=== p. 307 ===
+
+  every moment, in every concrete situation, in a new and different way.
+  Understanding here is always application.
+     We began by showing that understanding, as it occurs in the human
+  sciences, is essentially historical—i.e., that in them a text is understood
+  only if it is understood in a different way as the occasion requires. Precisely
+  this indicates the task of a historical hermeneutics: to consider the tension
+  that exists between the identity of the common object and the changing
+  situation in which it must be understood. We began by saying that the
+  historical movement of understanding, which romantic hermeneutics
+  pushed to the periphery, is the true center of hermeneutical inquiry
+  appropriate to historical consciousness. Our consideration of the significance of tradition in historical consciousness started from Heidegger's
+  analysis of the hermeneutics of facticity and sought to apply it to a
+  hermeneutics of the human sciences. We showed that understanding is not
+  a method which the inquiring consciousness applies to an object it chooses
+  and so turns it into objective knowledge; rather, being situated within an
+  event of tradition, a process of handing down, is a prior condition of
+  understanding. Understanding proves to be an event, and the task of hermeneutics, seen philosophically, consists in asking what kind of understanding, what kind of science it is, that is itself advanced by historical
+  change.
+     We are quite aware that we are asking something unusual of the self-understanding of modern science. All of our considerations thus far have
+  been directed toward making this task easier by showing that it results
+  from the convergence of a large number of problems. In fact, hermeneutical theory hitherto falls apart into distinctions that it cannot itself
+  maintain. This is seen clearly in the attempt to construct a general theory
+  of interpretation. When a distinction is made between cognitive, normative, and reproductive interpretation, as in Betti's General Theory of Interpretation^ which is based on a remarkable knowledge and survey of the
+  subject, difficulties arise in categorizing phenomena according to this
+  division. This is especially true of scholarly interpretation. If we put
+  theological interpretation together with legal interpretation and assign
+  them a normative function, then we must remember Schleiermacher who,
+  on the contrary, closely connected theological interpretation with general
+  interpretation, which was for him the philological-historical one. In fact,
+  the split between the cognitive and the normative function runs right
+  through theological hermeneutics and can hardly be overcome by distinguishing scientific knowledge from the subsequent edifying application.
+
+=== p. 308 ===
+
+The split runs through legal interpretation also, in that discovering the
+meaning of a legal text and discovering how to apply it in a particular legal
+instance are not two separate actions, but one unitary process.
+   But even the kind of interpretation that seems furthest from the kinds
+we have been considering, namely performative interpretation, as in the
+cases of music and drama—and they acquire their real existence only in
+being played 54 —is scarcely an independent mode of interpretation. In it
+too there is a split between the cognitive and the normative function. No
+one can stage a play, read a poem, or perform a piece of music without
+understanding the original meaning of the text and presenting it in his
+reproduction and interpretation. But, similarly, no one will be able to make
+a performative interpretation without taking account of that other normative element—the stylistic values of one's own day—which, whenever a
+text is brought to sensory appearance, sets limits to the demand for a
+stylistically correct reproduction. When we consider that translating texts
+in a foreign language, imitating them, or even reading texts aloud
+correctly, involves the same explanatory achievement as philological
+interpretation, so that the two things become as one, then we cannot avoid
+the conclusion that the suggested distinction between cognitive, normative, and reproductive interpretation has no fundamental validity, but all
+three constitute one unitary phenomenon.
+   If this is the case, then we have the task of redefining the hermeneutics of
+the human sciences in terms of legal and theological hermeneutics. For this we
+must remember the insight gained from our investigation into romantic
+hermeneutics, namely that both it and its culmination in psychological
+interpretation—i.e., deciphering and explaining the individuality of the
+other—treat the problem of understanding in a way that is far too one-sided. Our line of thought prevents us from dividing the hermeneutic
+problem in terms of the subjectivity of the interpreter and the objectivity
+of the meaning to be understood. This would be starting from a false
+antithesis that cannot be resolved even by recognizing the dialectic of
+subjective and objective. To distinguish between a normative function and
+a cognitive one is to separate what clearly belong together. The meaning of
+a law that emerges in its normative application is fundamentally no
+different from the meaning reached in understanding a text. It is quite
+mistaken to base the possibility of understanding a text on the postulate of
+a "con-geniality" that supposedly unites the creator and the interpreter of
+a work. If this were really the case, then the human sciences would be in
+a bad way. But the miracle of understanding consists in the fact that no
+
+=== p. 309 ===
+
+  like-mindedness is necessary to recognize what is really significant and
+  fundamentally meaningful in tradition. We have the ability to open
+  ourselves to the superior claim the text makes and to respond to what it
+  has to tell us. Hermeneutics in the sphere of philology and the historical
+  sciences is not "knowledge as domination"55—i.e., an appropriation as
+  taking possession; rather, it consists in subordinating ourselves to the text's
+  claim to dominate our minds. Of this, however, legal and theological
+  hermeneutics are the true model. To interpret the law's will or the
+  promises of God is clearly not a form of domination but of service. They are
+  interpretations—which includes application—in the service of what is
+  considered valid. Our thesis is that historical hermeneutics too has a task of
+  application to perform, because it too serves applicable meaning, in that it
+  explicitly and consciously bridges the temporal distance that separates the
+  interpreter from the text and overcomes the alienation of meaning that the
+  text has undergone.56
+
+                (B) THE HERMENEUTIC RELEVANCE OF ARISTOTLE57
+
+  At this point a problem arises that we have touched on several times. If the
+  heart of the hermeneutical problem is that one and the same tradition
+  must time and again be understood in a different way, the problem,
+  logically speaking, concerns the relationship between the universal and
+  the particular. Understanding, then, is a special case of applying something
+  universal to a particular situation. This makes Aristotelian ethics especially
+  important for us—we touched on it in the introductory remarks on the
+  theory of the human sciences.58 It is true that Aristotle is not concerned
+  with the hermeneutical problem and certainly not with its historical
+  dimension, but with the right estimation of the role that reason has to play
+  in moral action. But what interests us here is precisely that he is concerned
+  with reason and with knowledge, not detached from a being that is
+  becoming, but determined by it and determinative of it. By circumscribing
+  the intellectualism of Socrates and Plato in his inquiry into the good,
+  Aristotle became the founder of ethics as a discipline independent of
+  metaphysics. Criticizing the Platonic idea of the good as an empty
+  generality, he asks instead the question of what is humanly good, what is
+  good in terms of human action.59 His critique demonstrates that the
+  equation of virtue and knowledge, arete and logos, which is the basis of
+  Plato's and Socrates' theory of virtue, is an exaggeration. Aristotle restores
+  the balance by showing that the basis of moral knowledge in man is orexis,
+
+=== p. 310 ===
+
+striving, and its development into a fixed demeanor (hexis). The very
+name "ethics" indicates that Aristotle bases arete on practice and
+"ethos."
+   Human civilization differs essentially from nature in that it is not simply
+a place where capacities and powers work themselves out; man becomes
+what he is through what he does and how he behaves—i.e., he behaves in
+a certain way because of what he has become. Thus Aristotle sees ethos as
+differing from physis in being a sphere in which the laws of nature do not
+operate, yet not a sphere of lawlessness but of human institutions and
+human modes of behavior which are mutable, and like rules only to a
+limited degree.
+   The question is whether there can be any such thing as philosophical
+knowledge of the moral being of man and what role knowledge (i.e.,
+logos) plays in the moral being of man. If man always encounters the good
+in the form of the particular practical situation in which he finds himself,
+the task of moral knowledge is to determine what the concrete situation
+asks of him—or, to put it another way, the person acting must view the
+concrete situation in light of what is asked of him in general. But—negatively put—this means that knowledge that cannot be applied to the
+concrete situation remains meaningless and even risks obscuring what the
+situation calls for. This state of affairs, which represents the nature of moral
+reflection, not only makes philosophical ethics a methodologically difficult
+problem, but also gives the problem of method a moral relevance. In contrast to
+the theory of the good based on Plato's doctrine of ideas, Aristotle
+emphasizes that it is impossible for ethics to achieve the extreme exactitude of mathematics. Indeed, to demand this kind of exactitude would be
+inappropriate. What needs to be done is simply to make an outline and by
+means of this sketch give some help to moral consciousness.60 But how
+such help can be possible is already a moral problem. For obviously it is
+characteristic of the moral phenomenon that the person acting must
+himself know and decide, and he cannot let anything take this responsibility from him. Thus it is essential that philosophical ethics have the right
+approach, so that it does not usurp the place of moral consciousness and
+yet does not seek a purely theoretical and "historical" knowledge either
+but, by outlining phenomena, helps moral consciousness to attain clarity
+concerning itself. This asks a lot of the person who is to receive this help,
+namely the person listening to Aristotle's lecture. He must be mature
+enough not to ask that his instruction provide anything other than it can
+and may give. To put it positively, through education and practice he must
+
+=== p. 311 ===
+
+  himself already have developed a demeanor that he is constantly concerned to preserve in the concrete situations of his life and prove through
+  right behavior.61
+     As we see, the problem of method is entirely determined by the
+  object—a general Aristotelian principle—and the important thing for us is
+  to examine more closely the curious relation between moral being and
+  moral consciousness that Aristotle sets out in his Ethics. Aristotle remains
+  Socratic in that he retains knowledge as an essential component of moral
+  being, and it is precisely the balance between the heritage of Socrates and
+  Plato and Aristotle's point concerning ethos that interests us. For the
+  hermeneutical problem too is clearly distinct from "pure" knowledge detached from
+  any particular kind of being. We spoke of the interpreter's belonging to the
+  tradition he is interpreting, and we saw that understanding itself is a
+  historical event. The alienation of the interpreter from the interpreted by
+  the objectifying methods of modern science, characteristic of the hermeneutics and historiography of the nineteenth century, appeared as the
+  consequence of a false objectification. My purpose in returning to the
+  example of Aristotelian ethics is to help us realize and avoid this. For moral
+  knowledge, as Aristotle describes it, is clearly not objective knowledge—i.e., the knower is not standing over against a situation that he
+  merely observes; he is directly confronted with what he sees. It is
+  something that he has to do.62
+     Obviously this is not what we mean by knowing in the realm of science.
+  Thus the distinction that Aristotle makes between moral knowledge
+  (phronesis) and theoretical knowledge (episteme) is a simple one, especially when we remember that science, for the Greeks, is represented by
+  the model of mathematics, a knowledge of what is unchangeable, a
+  knowledge that depends on proof and that can therefore be learned by
+  anybody. A hermeneutics of the human sciences certainly has nothing to
+  learn from mathematical as distinguished from moral knowledge. The
+  human sciences stand closer to moral knowledge than to that kind of
+  "theoretical" knowledge. They are "moral sciences." Their object is man
+  and what he knows of himself. But he knows himself as an acting being,
+  and this kind of knowledge of himself does not seek to establish what is.
+  An active being, rather, is concerned with what is not always the same but
+  can also be different. In it he can discover the point at which he has to act.
+  The purpose of his knowledge is to govern his action.
+     Here lies the real problem of moral knowledge that occupies Aristotle in
+  his Ethics. For we find action governed by knowledge in an exemplary form
+
+=== p. 312 ===
+
+where the Greeks speak of techne. This is the skill, the knowledge of the
+craftsman who knows how to make some specific thing. The question is
+whether moral knowledge is knowledge of this kind. This would mean that
+it was knowledge of how to make oneself. Does man learn to make himself
+what he ought to be, in the same way that the craftsman learns to make
+things according to his plan and will? Does man project himself on an eidos
+of himself in the same way that the craftsman carries within himself an
+eidos of what he is trying to make and embody in his material? We know
+that Socrates and Plato did apply the concept of techne to the concept of
+man's being, and it is undeniable that they did discover something true
+here. In the political sphere, at any rate, the model of techne has an
+eminently critical function, in that it reveals the untenability of what is
+called the art of politics, in which everyone involved in politics—i.e., every
+citizen—regards himself as an expert. Characteristically, the knowledge of
+the craftsman is the only one that Socrates, in his famous account of his
+experience of his fellow-countrymen, recognizes as real knowledge within
+its own sphere. 6? But even the craftsmen disappoint him. Their knowledge
+is not the true knowledge that constitutes a man and a citizen as such. But
+it is real knowledge. It is a real art and skill, and not simply a high degree
+of experience. In this respect it is clearly one with the true moral
+knowledge that Socrates is seeking. Both are practical knowledge—i.e.,
+their purpose is to determine and guide action. Consequently, they must
+include the application of knowledge to the particular task.
+   This is the point at which we can relate Aristotle's analysis of moral
+knowledge to the hermeneutical problem of the modern human sciences.
+Admittedly, hermeneutical consciousness is involved neither with technical nor moral knowledge, but these two types of knowledge still include the
+same task of application that we have recognized as the central problem of
+hermeneutics. Certainly application does not mean the same thing in each
+case. There is a curious tension between a techne that can be taught and
+one acquired through experience. The prior knowledge that a person has
+who has been taught a craft is not, in practice, necessarily superior to the
+kind of knowledge that someone has who is untrained but has had
+extensive experience. Although this is the case, the prior knowledge
+involved in a techne cannot be called "theoretical," especially since
+experience is automatically acquired in using this knowledge. For, as
+knowledge, it is always related to practical application, and even if the
+recalcitrant material does not always obey the person who has learned his
+craft, Aristotle can still rightly quote the words of the poet: "Techne loves
+
+=== p. 313 ===
+
+  tyche (luck) and tyche loves techne." This means that the person who has
+  been taught his trade is will have the most luck. A genuine mastery of the
+  matter is acquired practically in the techne, and just this provides a model
+  for moral knowledge. For in moral knowledge too it is clear that experience can never be sufficient for making right moral decisions. Here too
+  moral consciousness itself calls for prior direction to guide action; indeed,
+  we cannot be content here with the uncertain relation between prior
+  knowledge and success in the present case that obtains in the case of a
+  techne. There is, no doubt, a real analogy between the fully developed
+  moral consciousness and the capacity to make something—i.e., a techne
+  —but they are certainly not the same.
+     On the contrary, the differences are patent. It is obvious that man is not
+  at his own disposal in the same way that the craftsman's material is at his
+  disposal. Clearly he cannot make himself in the same way that he can
+  make something else. Thus it will have to be another kind of knowledge
+  that he has of himself in his moral being, a knowledge that is distinct from
+  the knowledge that guides the making of something. Aristotle captures this
+  difference in a bold and unique way when he calls this kind of knowledge
+  self-knowledge—i.e., knowledge for oneself.64 This distinguishes the self-knowledge of moral consciousness from theoretical knowledge in a way that
+  seems immediately evident. But it also distinguishes it from technical
+  knowledge, and to make this double distinction Aristotle ventures the odd
+  expression "self-knowledge."
+     It is the distinction from technical knowledge that is the more difficult
+  task if, with Aristotle, we define the "object" of this knowledge ontologically not as something general that always is as it is, but as something
+  individual that can also be different. For at first sight the tasks seem wholly
+  analogous. A person who knows how to make something knows something good, and he knows it "for himself," so that, where there is the
+  possibility of doing so, he is really able to make it. He takes the right
+  material and chooses the right means to do the work. Thus he must know
+  how to apply what has been learned in a general way to the concrete
+  situation. Is the same not true of moral consciousness? A person who has
+  to make moral decisions has always already learned something. He has
+  been so formed by education and custom that he knows in general what is
+  right. The task of making a moral decision is that of doing the right thing
+  in a particular situation—i.e., seeing what is right within the situation and
+  grasping it. He too has to act, choosing the right means, and his conduct
+
+=== p. 314 ===
+
+must be governed just as carefully as that of the craftsman. How then is it
+nevertheless a knowledge of a quite different kind?
+   From Aristotle's analysis of phronesis one can derive a variety of answers
+to this question, for Aristotle's ability to describe phenomena from every
+aspect constitutes his real genius. "The empirical, comprehended in its
+synthesis, is the speculative concept" (Hegel).65 Let us consider here a few
+points that are important for our discussion.
+    1. We learn a techne and can also forget it. But we do not learn moral
+knowledge, nor can we forget it. We do not stand over against it, as if it
+were something that we can acquire or not, as we can choose to acquire an
+objective skill, a techne. Rather, we are always already in the situation of
+having to act (disregarding the special position of children, for whom
+obedience to the person educating them replaces their own decision), and
+hence we must already possess and be able to apply moral knowledge. That
+is why the concept of application is highly problematical. For we can only
+apply something that we already have; but we do not possess moral
+knowledge in such a way that we already have it and then apply it to
+specific situations. The image that a man has of what he ought to be—i.e.,
+his ideas of right and wrong, of decency, courage, dignity, loyalty, and so
+forth (all concepts that have their equivalents in Aristotle's catalogue of
+virtues)—are certainly in some sense images that he uses to guide his
+conduct. But there is still a basic difference between this and the guiding
+image the craftsman uses: the plan of the object he is going to make. What
+is right, for example, cannot be fully determined independently of the
+situation that requires a right action from me, whereas the eidos of what
+a craftsman wants to make is fully determined by the use for which it is
+intended.
+   It is true that what is right seems equally determinate in an absolute
+sense. For what is right is formulated in laws and contained in general
+rules of conduct that, although uncodified, can be very exactly determined
+and are universally binding. Thus, administering justice is a special task
+that requires both knowledge and skill. Is it not a techne, then? Does it not
+also consist in applying laws and rules to the concrete case? Do we not
+speak of the "art" of the judge? Why is what Aristotle describes as the
+judge's form of phronesis (dikastike phronesis) not a techne?66
+   If we think about it, we shall see that applying laws involves a curious
+legal ambiguity. The situation of the craftsman is quite different. With the
+design of the object and the rules for executing it, the craftsman proceeds
+
+=== p. 315 ===
+
+  to carry it out. He may be forced to adapt himself to particular circumstances; he may have to resign himself to executing his design in a way
+  other than he originally intended. But this resignation does not mean that
+  his knowledge of what he wants is improved. Rather, he simply omits
+  certain things in the execution. What we have here is the painful
+  imperfection associated with applying one's knowledge.
+     By comparison, the situation of the person "applying" law is quite
+  different. In a certain instance he will have to refrain from applying the full
+  rigor of the law. But if he does, it is not because he has no alternative, but
+  because to do otherwise would not be right. In restraining the law, he is
+  not diminishing it but, on the contrary, finding the better law. Aristotle67
+  expresses this very clearly in his analysis of epieikeia (equity): epieikeia is
+  the correction of the law.68 Aristotle shows that every law is in a necessary
+  tension with concrete action, in that it is general and hence cannot contain
+  practical reality in its full concreteness. We have already touched on this
+  problem near the beginning of the present volume when we were
+  considering the faculty of judgment. 69 Clearly legal hermeneutics finds its
+  proper place here.70 The law is always deficient, not because it is imperfect
+  in itself but because human reality is necessarily imperfect in comparison
+  to the ordered world of law, and hence allows of no simple application of
+  the law.
+     From what we have said it is clear that Aristotle's position on the
+  problem of natural law is highly subtle and certainly not to be equated with
+  the later natural-law tradition. I will briefly outline the way the idea of
+  natural law is related to the hermeneutical problem.71 It follows from our
+  discussion so far that Aristotle does not simply dismiss the question of
+  natural law. He does not regard a system of laws as true law in an absolute
+  sense, but considers the concept of equity as a necessary supplement to
+  law. Thus he opposes an extreme conventionalism or legal positivism by
+  explicitly distinguishing between what is naturally right and what is legally
+  right.72 The distinction he has in mind is not simply that between the
+  unchangeability of natural law and the changeability of positive law. It is
+  true that Aristotle has generally been understood as meaning this. But the
+  true profundity of his insight has been missed. Certainly he accepts the
+  idea of an absolutely unchangeable law, but he limits it explicitly to the
+  gods and says that among men not only statutory law but also natural law
+  is changeable. For Aristotle, this changeability is wholly compatible with
+  the fact that it is "natural" law. The sense of this assertion seems to me to
+  be the following: some laws are entirely a matter of mere agreement (e.g.,
+
+=== p. 316 ===
+
+traffic regulations), but there are also things that do not admit of regulation
+by mere human convention because the "nature of the thing" constantly
+asserts itself. Thus it is quite legitimate to call such things "natural law."73
+In that the nature of the thing still allows some room for play, natural law
+is still changeable. This is clearly evidenced by the examples that Aristotle
+adduces from other spheres. The right hand is naturally the stronger one,
+but there is nothing to stop us from training the left one so that it becomes
+as strong as the right (Aristotle obviously uses this example because it was
+a favorite of Plato's). A second example is even more illuminating because
+it already belongs in the legal sphere: one and the same measure always
+proves smaller when we buy wine in it than when we sell wine in it.
+Aristotle is not saying that people in the wine trade are constantly trying
+to trick their customers, but rather that this behavior corresponds to the
+area of free play permitted within the set limits ol what is right. And he
+quite clearly explains that the best state "is everywhere one and the same,"
+but it is the same in a different way that "fire burns everywhere in the
+same way, whether in Greece or in Persia."
+   Despite this clear statement by Aristotle, later thinkers on natural law
+quoted this passage as if he were comparing the unchangeability of human
+law with the unchangeability of natural laws.74 The opposite is the case. In
+fact, as his very distinction shows, for Aristotle the idea of natural law has
+only a critical function. No dogmatic use can be made of it—i.e., we cannot
+invest particular laws with the dignity and inviolability of natural law. In
+view of the necessary imperfection of all human laws, the idea of natural
+law is indispensable for Aristotle; and it becomes particularly important in
+the question of what is equitable, which is what first really decides the law.
+But its function is a critical one in that the appeal to natural law is
+legitimate only where a discrepancy emerges between one law and
+another.
+   The special question of natural law, which Aristotle answers in extenso,
+does not as such interest us here, except by reason of its fundamental
+significance. For what Aristotle shows here is true of all man's ideas of
+what he ought to be, and not only of the problem of law. All these concepts
+are not just arbitrary ideals conditioned by convention, but despite all the
+variety of moral ideas in the most different times and peoples, in this
+sphere there is still something like the nature of the thing. This is not to say
+that the nature ol the thing—e.g., the ideal of bravery—is a fixed standard
+that we could recognize and apply by ourselves. Rather, Aristotle affirms as
+true of the teacher of ethics precisely what is true, in his view, of all men:
+
+=== p. 317 ===
+
+  that he too is always already involved in a moral and political context and
+  acquires his image of the thing from that standpoint. He does not himself
+  regard the guiding principles that he describes as knowledge that can be
+  taught. They are valid only as schemata. They are concretized only in the
+  concrete situation of the person acting. Thus they are not norms to be
+  found in the stars, nor do they have an unchanging place in a natural
+  moral universe, so that all that would be necessary would be to perceive
+  them. Nor are they mere conventions, but really do correspond to the
+  nature of the thing—except that the latter is always itself determined in
+  each case by the use the moral consciousness makes of them.
+     2. Here we see a fundamental modification of the conceptual relation
+  between means and end, one that distinguishes moral from technical
+  knowledge. It is not only that moral knowledge has no merely particular
+  end but pertains to right living in general, whereas all technical knowledge
+  is particular and serves particular ends. Nor is it the case simply that moral
+  knowledge must take over where technical knowledge would be desirable
+  but is unavailable. Certainly if technical knowledge were available, it
+  would always make it unnecessary to deliberate with oneself about the
+  subject. Where there is a techne, we must learn it and then we are able to
+  find the right means. We see that moral knowledge, however, always
+  requires this kind of self-deliberation. Even if we conceive this knowledge
+  in ideal perfection, it is perfect deliberation with oneself (euboulia) and not
+  knowledge in the manner of a techne.
+     Thus we are dealing here with a fundamental relationship. It is not the
+  case that extending technical knowledge would obviate the need for moral
+  knowledge, this deliberating with oneself. Moral knowledge can never be
+  knowable in advance like knowledge that can be taught. The relation
+  between means and ends here is not such that one can know the right
+  means in advance, and that is because the right end is not a mere object of
+  knowledge either. There can be no anterior certainty concerning what the
+  good life is directed toward as a whole. Hence Aristotle's definitions of
+  phronesis have a marked uncertainty about them, in that this knowledge
+  is sometimes related more to the end, and sometimes more to the means
+  to the end. 75 In fact this means that the end toward which our life as a
+  whole tends and its elaboration in the moral principles of action described
+  in Aristotle's Ethics cannot be the object of a knowledge that can be taught.
+  No more can ethics be used dogmatically than can natural law. Rather,
+  Aristotle's theory of virtue describes typical forms of the true mean to be
+  observed in human life and behavior; but the moral knowledge that is
+
+=== p. 318 ===
+
+oriented by these guiding images is the same knowledge that has to
+respond to the demands of the situation of the moment.
+   Hence also mere expediency cannot enter considerations about what
+might further moral ends; rather, the consideration of the means is itself a
+moral consideration and it is this that concretizes the moral Tightness of the
+end. The self-knowledge of which Aristotle speaks is characterized by the
+fact that it includes perfect application and employs its knowledge in the
+immediacy of the given situation. Thus a knowledge of the particular
+situation (which is nevertheless not a perceptual seeing) is a necessary
+supplement to moral knowledge. For although it is necessary to see what
+a situation is asking of us, this seeing does not mean that we perceive in the
+situation what is visible as such, but that we learn to see it as the situation
+of action and hence in the light of what is right. Just as we "see" from the
+geometrical analysis of plane surfaces that the triangle is the simplest two-dimensional plane figure, so that we can go no lurlher with our subdivisions, but must stop here, so also in moral deliberation, seeing what is
+immediately to be done is not a mere seeing but nous. This is also
+confirmed by what constitutes the opposite of this kind of seeing.76 The
+opposite of seeing what is right is not error or deception but blindness. A
+person who is overwhelmed by his passions suddenly no longer sees what
+is right to do in a given situation. He has lost his self-mastery and hence his
+own Tightness—i.e., the right orientation within himself—so that, driven
+by the dialectic of passion, whatever his passion tells him is right seems so.
+Moral knowledge is really knowledge of a special kind. In a curious way it
+embraces both means and end, and hence differs from technical knowledge. That is why it is pointless to distinguish here between knowledge and
+experience, as can be done in the case of a techne. For moral knowledge
+contains a kind of experience in itself, and in fact we shall see that this is
+perhaps the fundamental form of experience (Erfahrung), compared with
+which all other experience represents an alienation, not to say a denaturing. 77
+   3. The sell-knowledge of moral reflection has, in fact, a unique relation
+to itself. We can see this from the modifications that Aristotle presents in
+the context of his analysis of phronesis. Beside phronesis, the virtue of
+thoughtful reflection, stands "sympathetic understanding." 78 "Being
+understanding" is introduced as a modification of the virtue of moral
+knowledge since in this case it is not I who must act. Accordingly synesis
+means simply the capacity for moral judgment. Someone's sympathetic
+understanding is praised, of course, when in order to judge he transposes
+
+=== p. 319 ===
+
+  himself fully into the concrete situation ol the person who has to act.79 The
+  question here, then, is not about knowledge in general but its concretion
+  at a particular moment. This knowledge also is not in any sense technical
+  knowledge or the application of such. The man of the world, the man who
+  knows all the tricks and dodges and is experienced in everything there is,
+  does not really have sympathetic understanding for the person acting: he
+  has it only if he satisfies one requirement, namely that he too is seeking
+  what is right—i.e., that he is united with the other person in this
+  commonality. The concrete example of this is the phenomenon of advice in
+  "questions of conscience." Both the person asking for advice and the
+  person giving it assume that they are bound together in friendship. Only
+  friends can advise each other or, to put it another way, only a piece of
+  advice that is meant in a friendly way has meaning for the person advised.
+  Once again we discover that the person who is understanding does not
+  know and judge as one who stands apart and unaffected but rather he
+  thinks along with the other from the perspective of a specific bond of
+  belonging, as if he too were affected.
+     This becomes fully clear when we consider other varieties of moral
+  reflection listed by Aristotle, namely insight and fellow feeling.80 Insight
+  here means a quality. We say that someone is insightful when they make
+  a fair, correct judgment. An insightful person is prepared to consider the
+  particular situation of the other person, and hence he is also most inclined
+  to be forbearing or to forgive. Here again it is clear that this is not technical
+  knowledge.
+     Finally, Aristotle makes the special nature of moral knowledge and the
+  virtue of possessing it particularly clear by describing a naturally debased
+  version of this moral knowledge. 81 He says that the deinos is a man who
+  has all the natural prerequisites and gifts for this moral knowledge, a man
+  who is able, with remarkable skill, to get the most out of any situation,
+  who is able to turn everything to his advantage and finds a way out of
+  every situation. 82 But this natural counterpart to phronesis is characterized
+  by the fact that the deinos is "capable of anything"; he uses his skills to any
+  purpose and is without inhibition. He is aneu aretes. And it is more than
+  accidental that such a person is given a name that also means "terrible."
+  Nothing is so terrible, so uncanny, so appalling, as the exercise of brilliant
+  talents for evil.
+     To summarize, if we relate Aristotle's description of the ethical phenomenon and especially the virtue of moral knowledge to our own investigation, we find that his analysis in fact offers a kind of model of the problems
+
+=== p. 320 ===
+
+of hermeneutics. We too determined that application is neither a subsequent
+nor merely an occasional part of the phenomenon of understanding, but
+codetermines it as a whole from the beginning. Here too application did
+not consist in relating some pregiven universal to the particular situation.
+The interpreter dealing with a traditionary text tries to apply it to himself.
+But this does not mean that the text is given for him as something
+universal, that he first understands it per se, and then afterward uses it for
+particular applications. Rather, the interpreter seeks no more than to
+understand this universal, the text—i.e., to understand what it says, what
+constitutes the text's meaning and significance. In order to understand
+that, he must not try to disregard himself and his particular hermeneutical
+situation. He must relate the text to this situation if he wants to understand
+at all.
+
+          (c)   THE EXEMPLARY SIGNIFICANCE OF LEGAL HERMENEUTICS
+
+If this is the case, the gap between hermeneutics of the human sciences
+and legal hermeneutics cannot be as wide as is generally assumed. The
+dominant view is, of course, that only with the rise of historical consciousness was understanding raised to a method of objective science and that
+hermeneutics came into its own when it was elaborated into a general
+theory of the understanding and interpretation of texts. Legal herme-neulics does not belong in this context, for its purpose is not to understand
+given texts, but to be a practical measure filling a kind of gap in the system
+of legal dogmatics. It is thought, then, that it has nothing to do with the
+task of hermeneutics in the human sciences, which is the understanding of
+traditionary material.
+    But in that case theological hermeneutics cannot claim any independent
+systematic significance. Schleiermacher consciously placed it wholly
+within general hermeneutics and merely regarded it as a special application of
+it. Since then, scientific theology's claim to be a discipline on a par with the
+modern historical sciences seems to depend on the fact that no laws and
+rules are to be applied in interpreting Scripture other than those used in
+understanding any other traditionary material. Thus there could no longer
+be any such thing as a specifically theological hermeneutics.
+    It is a paradoxical position if we, nevertheless, try to revive the old truth
+and the old unity of hermeneutical discipline within modern science. It
+seems that methodology of the human sciences moves into modernity
+when it detaches itself from all dogmatic ties. Legal hermeneutics was
+
+=== p. 321 ===
+
+  separated from theory of understanding as a whole because it has a
+  dogmatic purpose, just as, by giving up its dogmatic commitment, theological hermeneutics was united with philological-historical method.
+     In this situation we can take special interest in the divergence between
+  legal and historical hermeneutics and consider those cases in which legal
+  and historical hermeneutics are concerned with the same object—i.e.,
+  cases in which legal texts are interpreted legally, in court, and also
+  understood historically. So we will consider the approaches taken by the
+  legal historian and the jurist to the same legal text. We can turn here to the
+  excellent writings of E. Betti83 and pursue our own thinking from there.
+  Our question is whether or not there is an unequivocal distinction between
+  dogmatic and historical interest.
+     That there is a difference is clear. The jurist understands the meaning of
+  the law from the present case and for the sake of this present case. By
+  contrast, the legal historian has no case from which to start, but he seeks
+  to determine the meaning of the law by constructing the whole range of its
+  applications. It is only in all its applications that the law becomes concrete.
+  Thus the legal historian cannot be content to take the original application
+  of the law as determining its original meaning. As a historian he will,
+  rather, have to take account of the historical change that the law has
+  undergone. In understanding, he will have to mediate between the
+  original application and the present application of the law.
+      In my view it would not be enough to say that the task of the historian
+  was simply to "reconstruct the original meaning of the legal formula" and
+  that of the jurist to "harmonize that meaning with the present living
+  actuality." This kind of division would mean that the definition of the jurist
+  is more comprehensive and includes the task of the legal historian.
+  Someone who is seeking to understand the correct meaning of a law must
+  first know the original one. Thus he must think in terms of legal
+  history—but here historical understanding serves merely as a means to an
+  end. On the other hand, the historian as such has no dogmatic task. As a
+  historian he approaches the historical object in order to determine its
+  historical value, whereas the jurist, in addition, applies what has been
+  learned in this way to the legal present. This is what Betti says.
+      We may ask, however, whether he has viewed and described the task of
+  the historian in a sufficiently comprehensive way. In our particular
+   example, where does the historical element come in? In regard to a law
+   still in force we naturally assume that its legal meaning is clear and that the
+  legal practice of the present simply follows the original meaning. If this
+
+=== p. 322 ===
+
+were always the case, the question about the meaning of a law would be
+both juridically and historically the same. For the jurist too the hermeneutical task would be just to establish the original meaning of the law and
+apply it as the right one. Hence as late as 1840, Savigny, in his System des
+romischen Rechts, regarded the task of legal hermeneutics as purely historical. Just as Schleiermacher saw no problem in the interpreter's having to
+identify himself with the original reader, so Savigny ignores the tension
+between the original and the present legal sense.84
+   It has emerged clearly enough in the course of time that this is a legally
+untenable fiction. Ernst Forsthoff has shown in a valuable study that for
+purely legal reasons it was necessary for an awareness of historical change
+to develop, which involved distinguishing between the original meaning of
+a law and that applied in current legal practice.85 It is true that the jurist is
+always concerned with the law itself, but he determines its normative
+content in regard to the given case to which it is to be applied. In order to
+determine this content exactly, it is necessary to have historical knowledge
+of the original meaning, and only for this reason does the judge concern
+himself with the historical value that the law has through the act of
+legislation. But he cannot let himself be bound by what, say, an account of
+the parliamentary proceedings tells him about the intentions of those who
+first passed the law. Rather, he has to take account of the change in
+circumstances and hence define afresh the normative function of the
+law.
+   It is quite different with the legal historian. He is apparently concerned
+only with the original meaning of the law, the way in which it was meant,
+and the validity it had when it was first promulgated. But how can he
+know this? Can he know it without being aware of the change in
+circumstances that separates his own present time from that past time?
+Must he not then do exactly the same thing as the judge does—i.e.,
+distinguish between the original meaning of the text of the law and the
+legal meaning which he as someone who lives in the present automatically
+assumes? The hermeneutical situation of both the historian and the jurist
+seems to me to be the same in that, when faced with any text, we have an
+immediate expectation of meaning. There can be no such thing as a direct
+access to the historical object that would objectively reveal its historical
+value. The historian has to undertake the same reflection as the jurist.
+   Thus the actual content of what is understood in each of the two ways
+is the same. The above description of the historian's approach, then, is
+inadequate. Historical knowledge can be gained only by seeing the past in
+
+=== p. 323 ===
+
+  its continuity with the present—which is exactly what the jurist does in his
+  practical, normative work of "ensuring the unbroken continuance of law
+  and preserving the tradition of the legal idea."86
+     We must consider, though, whether the case we have been discussing is
+  really characteristic of the general problem of historical understanding.
+  The model from which we started was the understanding of a law still in
+  force. Here the historian and the dogmatist were concerned with the same
+  object. But is this not a special case? A legal historian who turns to the legal
+  cultures of the past, and certainly any other historian who is seeking to
+  understand a past that no longer has any direct continuity with the
+  present, would not recognize himself in the case we have been considering—namely a law still in force. He would say that legal hermeneutics
+  has a special dogmatic task that is quite foreign to the context of historical
+  hermeneutics.
+     In fact the situation seems to me just the opposite. Legal hermeneutics
+  serves to remind us what the real procedure of the human sciences is. Here
+  we have the model for the relationship between past and present that we
+  are seeking. The judge who adapts the transmitted law to the needs of the
+  present is undoubtedly seeking to perform a practical task, but his
+  interpretation of the law is by no means merely for that reason an arbitrary
+  revision. Here again, to understand and to interpret means to discover and
+  recognize a valid meaning. The judge seeks to be in accord with the "legal
+  idea" in mediating it with the present. This is, of course, a legal mediation.
+  It is the legal significance of the law—and not the historical significance of
+  the law's promulgation or of particular cases of its application—that he is
+  trying to understand. Thus his orientation is not that of a historian, but he
+  has an orientation to his own history, which is his present. Thus he can
+  always approach as a historian those questions that he has implicitly
+  concluded as a judge.
+      On the other hand, the historian, who has no juridical task before him
+  but is trying to discover the legal meaning of this law—like anything else
+  that has been handed down in history—cannot disregard the fact that he
+  is concerned with a legal creation that needs to be understood in a legal
+  way. He must be able to think not only historically but also legally. It is true
+  that it is a special case when a historian is examining a legal text that is still
+  valid today. But this special case shows us what determines our relationship to any traditionary text. Trying to understand the law in terms of its
+  historical origin, the historian cannot disregard its continuing effect: it
+  presents him with the questions that he has to ask of historical tradition. Is
+
+=== p. 324 ===
+
+this not true of every text—i.e., that it must be understood in terms of
+what it says? Does this not mean that it always needs to be restated? And
+does not this restatement always take place through its being related to the
+present? Inasmuch as the actual object of historical understanding is not
+events but their "significance," it is clearly an incorrect description of this
+understanding to speak of an object existing in itself and of the subject's
+approach to it. The truth is that historical understanding always implies
+that the tradition reaching us speaks into the present and must be
+understood in this mediation—indeed, as this mediation. In reality then,
+legal hermeneutics is no special case but is, on the contrary, capable of restoring the
+hermeneutical problem to its full breadth and so re-establishing the former unity of
+hermeneutics, in which jurist and theologian meet the philologist.
+   We saw above87 that one of the conditions of understanding in the
+human sciences is belonging to tradition. Let us now try to verify this by
+seeing how this structural element of understanding obtains in the case of
+legal and theological hermeneutics. This condition is clearly not so much a
+limiting condition as one that makes understanding possible. The way the
+interpreter belongs to his text is like the way the point from which we are
+to view a picture belongs to its perspective. It is not a matter of looking for
+this viewpoint and adopting it as one's standpoint. The interpreter similarly
+finds his point of view already given, and does not choose it arbitrarily.
+Thus it is an essential condition of the possibility of legal hermeneutics that
+the law is binding on all members of the community in the same way.
+Where this is not the case—for example in an absolutist state, where the
+will of the absolute ruler is above the law—hermeneutics cannot exist,
+"since an absolute ruler can explain his words in a sense that abrogates the
+general rules of interpretation."88 For in this instance the law is not
+interpreted in such a way that the particular case is decided justly
+according to the right sense of the law. On the contrary, the will of a
+monarch who is not bound by the law can effect whatever seems just to
+him without regard for the law—that is, without the effort of interpretation. The need to understand and interpret arises only when something is enacted in such a way that it is, as enacted, irrevocable and
+binding.
+   The work of interpretation is to concretize the law in each specific
+case89—i.e., it is a work of application. The creative supplementing of the
+law that is involved is a task reserved to the judge, but he is subject to the
+law in the same way as is every other member of the community. It is part
+of the idea of a rule of law that the judge's judgment does not proceed from
+
+=== p. 325 ===
+
+  an arbitrary and unpredictable decision, but from the just weighing up of
+  the whole. Anyone who has immersed himself in the particular situation
+  is capable of undertaking this just weighing-up. This is why in a state
+  governed by law, there is legal certainty—i.e., it is in principle possible to
+  know what the exact situation is. Every lawyer and every counsel is able,
+  in principle, to give correct advice—i.e., he can accurately predict the
+  judge's decision on the basis of the existing laws. Applying the law is not
+  simply a matter of knowing the law. If one has to give a legal judgment on
+  a particular case, of course it is necessary to know the law and all the
+  elements that have determined it. But the only belonging under the law
+  necessary here is that the legal order is recognized as valid for everyone
+  and that no one is exempt from it. Hence it is always possible to grasp the
+  existing legal order as such—i.e., to assimilate dogmatically any past
+  supplement to the law. Consequently there is an essential connection
+  between legal hermeneutics and legal dogmatics, and in it hermeneutics
+  has the more important place. For the idea of a perfect legal dogmatics,
+  which would make every judgment a mere act of subsumption, is
+  untenable.90
+     Let us now consider the case of theological hermeneutics, as developed by
+  Protestant theology, as it applies to our question.91 Here there is a genuine
+  parallel to legal hermeneutics, for here too dogmatics cannot claim any
+  primacy. The proclamation is genuinely concretized in preaching, as is the
+  legal order in judgment. But there is still a big difference between them.
+  Unlike a legal verdict, preaching is not a creative supplement to the text it
+  is interpreting. Hence the gospel acquires no new content in being
+  preached that could be compared with the power of the judge's verdict to
+  supplement the law. It is not the case that the gospel of salvation becomes
+  more clearly determined only through the preacher's thoughts. As a
+  preacher, he does not speak before the community with the same dogmatic
+  authority that a judge does. Certainly preaching too is concerned with
+  interpreting a valid truth, but this truth is proclamation; and whether it is
+  successful or not is not decided by the ideas of the preacher, but by the
+  power of the word itself, which can call men to repentance even though
+  the sermon is a bad one. The proclamation cannot be detached from its
+  fulfillment. The dogmatic establishment of pure doctrine is a secondary
+  matter. Scripture is the word of God, and that means it has an absolute
+  priority over the doctrine of those who interpret it.
+     Interpretation should never overlook this. Even as the scholarly interpretation of the theologian, it must never forget that Scripture is the divine
+
+=== p. 326 ===
+
+proclamation of salvation. Understanding it, therefore, cannot simply be a
+scientific or scholarly exploration of its meaning. Bultmann once wrote,
+"The interpretation of the biblical writings is subject to exactly the same
+conditions as any other literature."92 But the meaning of this statement is
+ambiguous, for the question is whether all literature is not subject to
+conditions of understanding other than those formal general ones that
+have to be fulfilled in regard to every text. Bultmann himself points out
+that all understanding presumes a living relationship between the interpreter and the text, his previous connection with the subject matter it deals
+with. He calls this hermeneutical requirement fore-understanding, because it
+is clearly not something to be attained through the process of understanding but is already presupposed. Thus Hofmann, whom Bultmann
+quotes with approval, writes that scriptural hermeneutics presupposes a
+relationship to the content of the Bible.
+   We may ask, however, what kind of "presupposition" this is. Is it
+something that is given with human life itself? Does there exist in every
+man a prior connection with the truth of divine revelation because man as
+such is concerned with the question of God? Or must we say that it is first
+from God—i.e., from faith—that human existence experiences itself as
+being affected by the question of God? But then the sense of the
+presupposition implied in the concept of fore-understanding becomes
+questionable. For then the presupposition would not be valid universally
+but only from the viewpoint of true faith.
+   In regard to the Old Testament this is a venerable hermeneutical
+problem. Which is the right interpretation of it, the Jewish one or the
+Christian one in light of the New Testament? Or are both legitimate
+interpretations—i.e., do they have something in common, and is this what
+is really being understood by the interpreter? The Jew who understands
+the text of the Old Testament in a different way than the Christian shares
+with him the presupposition that he too is concerned with the question of
+God. At the same time, he will hold that a Christian theologian misunderstands the Old Testament if he takes its truths as qualified by the New
+Testament. Hence the presupposition that one is moved by the question of
+God already involves a claim to knowledge concerning the true God and
+his revelation. Even unbelief is defined in terms of the faith that is
+demanded of one. The existential fore-understanding from which Bult-mann starts can only be a Christian one.
+   We could perhaps try to escape this conclusion by saying that it is
+enough to know that religious texts are to be understood only as texts that
+
+=== p. 327 ===
+
+  answer the question of God. There need be no claim on the religious
+  commitment of the interpreter himself. But what would a Marxist, who
+  understands religious utterances only as the reflection of class interests,
+  say? He will not accept the presupposition that human existence as such is
+  moved by the question of God. This presupposition is obviously held only
+  by someone who already recognizes the alternative of belief or unbelief in
+  the true God. Thus the hermeneutical significance of fore-understanding
+  in theology seems itself theological. After all, the history of hermeneutics
+  shows how the examination of the texts is determined by a very precise
+  fore-understanding. As a Protestant art of interpreting Scripture, modern
+  hermeneutics is clearly related in a polemical way to the dogmatic tradition
+  of the Catholic church. It has itself a dogmatic denominational significance.
+  This does not mean that such theological hermeneutics is dogmatically
+  predisposed, so that it reads out of the text what it has put into it. Rather,
+  it really risks itself. But it assumes that the word of Scripture addresses us
+  and that only the person who allows himself to be addressed—whether he
+  believes or doubts—understands. Hence the primary thing is application.
+     We can, then, distinguish what is truly common to all forms of
+  hermeneutics: the meaning to be understood is concretized and fully
+  realized only in interpretation, but the interpretive activity considers itself
+  wholly bound by the meaning of the text. Neither jurist nor theologian
+  regards the work of application as making free with the text.
+     The task of concretizing something universal and applying it to oneself
+  seems, however, to have a very different function in the historical sciences.
+  If we ask what application means here and how it occurs in the kind of
+  understanding undertaken in the human sciences, we can acknowledge
+  that a certain class of traditionary material is applied in the same way the
+  jurist does in regard to the law and the theologian the proclamation. Just
+  as in the one case the judge seeks to dispense justice and in the other the
+  preacher to proclaim salvation, and as, in both, the meaning of what is
+  proclaimed finds its fullest realization in the proclamation of justice and
+  the proclamation of the gospel, so in the case of a philosophical text or a
+  work of literature we can see that these texts require a special activity of
+  the reader and interpreter, and that we do not have the freedom to adopt
+  a historical distance toward them. It will be seen that here understanding
+  always involves applying the meaning understood.
+      But does application essentially and necessarily belong to understanding? From the point of view of modern science the answer will be that it
+   does not, and it will be said that the kind of application that makes the
+
+=== p. 328 ===
+
+interpreter the person to whom the text was originally addressed, as it
+were, is quite unscientific and is to be wholly excluded from the historical
+sciences. What makes modern scholarship scientific is precisely the fact
+that it objectifies tradition and methodically eliminates the influence of the
+interpreter and his time on understanding. It may often be difficult to
+attain this goal, and it will be difficult to preserve the distinction between
+historical and dogmatic interest in the case of texts that are addressed to no
+one in particular and claim to be valid for anyone who receives the
+tradition. A good example of this is the problem of scientific theology and
+its relation to the tradition of Scripture. It may seem in this case that the
+balance between historico-scientific and dogmatic interpretation is to be
+found in the private world of the person. It may be the same with the
+philosopher and also with our aesthetic consciousness when it finds itself
+addressed by a work of art. But according to this view, science claims to
+remain independent of all subjective applications by reason of its
+method.
+   This is the kind of argument that would have to be presented by
+proponents of the modern theory of science. Those cases in which the
+interpreter cannot immediately substitute for the original addressee will be
+considered exemplary—i.e., where a text has a quite specific addressee,
+such as the partner to an agreement, or the recipient of a bill or an order.
+Here, to understand the meaning of the text fully, we must, as it were, put
+ourselves in the place of the addressee, and insofar as this transposition
+serves to give the text its full concrete form, we can regard this also as an
+achievement of interpretation. But this transposing of ourselves into the
+position of the original reader (Schleiermacher) is something quite different from application. It actually skips the task of mediating between then
+and now, between the Thou and the I, which is what we mean by
+application and which legal hermeneutics also regards as its task.
+   Let us take the example of understanding an order. An order exists only
+where there is someone to obey it. Here, then, understanding belongs to a
+relationship between persons, one of whom has to give the order. To
+understand the order means to apply it to the specific situation to which it
+pertains. It is true that one makes the other repeat the order to make sure
+it has been understood, but that does not alter the fact that it is given its
+real meaning when it is carried out and concretized in accordance with its
+meaning. This is why there is such a thing as an explicit refusal to obey that
+is not simply disobedience but derives from the meaning of the order and
+its concretization. A person who refuses to obey an order has understood
+
+=== p. 329 ===
+
+      it, and because he applies it to the situation and knows what obedience
+      would mean in that situation, he refuses. The criterion of understanding is
+      clearly not in the order's actual words, nor in the mind of the person giving
+      the order, but solely in the understanding of the situation and in the
+      responsible behavior of the person who obeys. Even when an order is
+      written down so one can be sure it will be correctly understood and
+      executed, no one assumes that it makes everything explicit. The comic
+      situation in which orders are carried out literally but not according to their
+      meaning is well known. Thus there is no doubt that the recipient of an
+      order must perform a definite creative act in understanding its meaning.
+         If we now imagine a historian who regards a traditionary text as such an
+      order and seeks to understand it, he is, of course, in a situation quite
+      different from that of the original addressee. He is not the person to whom
+      the order is addressed and so cannot relate it to himself. But if he really
+      wants to understand the order, then he must, idealiter, perform the same act
+      as that performed by the intended recipient of the order. The latter too,
+      who applies the order to himself, is well able to distinguish between
+      understanding and obeying an order. It is possible for him not to obey even
+      when—indeed, precisely when—he has understood it. It may be difficult
+      for the historian to reconstruct the original situation in which the order
+      arose. But he will understand it fully only when he has thus made the
+      order concrete. This, then, is the clear hermeneutical demand: to understand a text in terms of the specific situation in which it was written.
+         According to the self-understanding of science, then, it can make no
+      difference to the historian whether a text was addressed to a particular
+      person or was intended "to belong to all ages." The general requirement of
+      hermeneutics is, rather, that every text must be understood according to
+      the aim appropriate to it. But this means that historical scholarship first
+      seeks to understand every text in its own terms and does not accept the
+      content of what it says as true, but leaves it undecided. Understanding is
+      certainly concretization, but one that involves keeping a hermeneutical
+      distance. Understanding is possible only if one keeps oneself out of play.
+      This is the demand of science.
+         According to this self-interpretation of the methodology of the human
+      sciences, it is generally said that the interpreter imagines an addressee for
+      every text, whether expressly addressed by the text or not. This addressee
+      is in every case the original reader, and the interpreter knows that this is
+      a different person from himself. This is obvious, when thus negatively
+      expressed. A person trying to understand a text, whether literary critic or
+
+=== p. 330 ===
+
+historian, does not, at any rate, apply what it says to himself. He is simply
+trying to understand what the author is saying, and if he is simply trying
+to understand, he is not interested in the objective truth of what is said as
+such, not even if the text itself claims to teach truth. On this the philologist
+and the historian are in agreement.
+   Hermeneutics and historical study, however, are clearly not the same
+thing. By examining the methodological differences between the two, we
+will discover that what they really have in common is not what they are
+generally thought to have. The historian has a different orientation to the
+texts of the past, in that he is trying to discover something about the past
+through them. He therefore uses other traditionary material to supplement
+and verify what the texts say. He considers it as more or less of a weakness
+when the philologist regards his text as a work of art. A work of art is a
+whole, self-sufficient world. But the interest of the historian knows no
+such self-sufficiency. Against Schleiermacher, Dilthey once said, "Philology
+would like to see self-contained existence everywhere."93 If a work of
+literature from the past makes an impression on a historian, this will have
+no hermeneutical significance for him. It is fundamentally impossible for
+him to regard himself as the addressee of the text and accept its claim on
+him. Rather, he examines the text to find something it is not, of itself,
+attempting to provide. This is true even of traditionary material which
+itself purports to be historical representation. Even the writer of history is
+subject to historical critique.
+   Thus the historian goes beyond hermeneutics, and the idea of interpretation acquires a new and more defined meaning. It no longer refers
+only to the explicit act of understanding a given text, as for the philologist.
+The concept of historical interpretation corresponds more to the idea of
+the expression, which is not understood by historical hermeneutics in its
+classical and traditional sense—i.e., as a rhetorical term that refers to the
+relation of language to thought. What the expression expresses is not
+merely what is supposed to be expressed in it—what is meant by it—
+but primarily what is also expressed by the words without its being
+intended—i.e., what the expression, as it were, "betrays." In this wider
+sense the word "expression" refers to far more than linguistic expression;
+rather, it includes everything that we have to get behind, and that at the
+same time enables us to get behind it. Interpretation here, then, does not
+refer to the sense intended, but to the sense that is hidden and has to be
+disclosed. In this sense every text not only presents an intelligible meaning
+but, in many respects, needs to be interpreted. The text is primarily a
+
+=== p. 331 ===
+
+      phenomenon of expression. It is understandable that the historian is
+      interested in this aspect. For the documentary value of, say, a report
+      depends in part on what the text, as a phenomenon of expression, displays.
+      From this, one can discover what the writer intended without saying, what
+      party he belonged to, with what views he approached things, or even what
+      degree of lack of principle or dishonesty is to be expected of him. These
+      subjective elements affecting the credibility of the witness must be taken
+      into consideration. But, above all, the content of the traditionary material
+      must itself be interpreted, even if its subjective reliability is established—i.e., the text is understood as a document whose true meaning can be
+      discovered only behind its literal meaning, by comparing it with other data
+      that allow us to estimate its historical value.
+         Thus for the historian it is a basic principle that tradition is to be interpreted in
+      a sense different than the texts, of themselves, call for. He will always go back
+      behind them and the meaning they express to inquire into the reality they
+      express involuntarily. Texts must be treated in the same way as other
+      available historical material—i.e., as the so-called relics of the past. Like
+      everything else, they need explication—i.e., to be understood in terms of
+      not only what they say but what they exemplify.
+         The concept of interpretation reaches its culmination here. Interpretation is necessary where the meaning of a text cannot be immediately
+      understood. It is necessary wherever one is not prepared to trust what a
+      phenomenon immediately presents to us. The psychologist interprets in
+      this way by not accepting the expressions of life in their intended sense but
+      delving back into what was taking place in the unconscious. Similarly, the
+      historian interprets the data of tradition in order to discover the true
+      meaning that is expressed and, at the same time, hidden in them.
+         Thus there is a natural tension between the historian and the philologist
+      who seeks to understand a text for the sake of its beauty and its truth. The
+      historian's interpretation is concerned with something that is not
+      expressed in the text itself and need have nothing to do with the intended
+      meaning of the text. There is a fundamental conflict here between the
+      historical and the literary consciousness, although this tension scarcely
+      exists now that historical consciousness has also altered the orientation of
+      the critic. He has given up the claim that his texts have a normative validity
+      for him. He no longer regards them as models of the best that has been
+      thought and said, but looks at them in a way that they themselves did not
+      intend to be looked at; he looks at them as a historian. This has made
+      philology and criticism subsidiary disciplines of historical studies. This
+
+=== p. 332 ===
+
+could be glimpsed already in classical philology when it began to call itself
+the science of antiquity (Wilamowitz). It is a department of historical
+research concerned primarily with language and literature. The philologist
+is a historian, in that he discovers a historical dimension in his literary
+sources. Understanding, then, is for him a matter of placing a given text in
+the context of the history of language, literary form, style, and so on, and
+thus ultimately mediating it with the whole context of historical life. Only
+occasionally does his own original nature come through. Thus, in judging
+the ancient historians, he tends to give these great writers more credence
+than the historian finds justified. This ideological credulity, which makes
+the philologist overestimate the value of his texts as evidence, is the last
+vestige of his old claim to be the friend of "eloquence" and the mediator of
+classical literature.
+   Let us now inquire whether this description of the procedure of the
+human sciences, in which the historian and the critic of today are one, is
+accurate and whether the claim of historical consciousness to be universal
+is justified. In regard to philology it seems questionable.94 The critic is
+ultimately mistaking his own nature, as a friend of eloquence, if he bows
+to the standard of historical studies. If his texts possess an exemplary
+character for him, this may be primarily in regard to form. The older
+humanism fervently believed that everything in classical literature was
+said in an exemplary way; but what is said in such a way is actually more
+than an exemplar of form. Eloquence (schone Reden) is not called such
+simply because what is said is said beautifully, but also because something
+beautiful is said. It seeks to be more than mere rhetoric. It is particularly
+true of the national poetic traditions that we admire not only their poetic
+power, the imagination and art of their expression, but above all the great
+truth that speaks in them.
+   If in the work of the critic, then, there is still something of only
+acknowledging models, he is not in fact relating his texts merely to a
+reconstructed addressee but also to himself (though he is unwilling to
+accept this). But in accepting models there is always an understanding that
+does not leave their exemplarity undecided, but rather has already chosen
+and considers itself obligated to them. That is why relating oneself to an
+exemplar is always like following in someone's footsteps. And just as this
+is more than mere imitation, so this understanding is a continually new
+form of encounter and has itself the character of an event precisely because
+it does not simply leave things up in the air but involves application. The
+
+=== p. 333 ===
+
+  literary critic, as it were, weaves a little further on the great tapestry of
+  tradition that supports us.
+     If we acknowledge this, then criticism and philology can attain their true
+  dignity and proper knowledge of themselves only by being liberated from
+  history. Yet this seems to me to be only half the truth. Rather, we should
+  ask whether the picture of the historical approach, as set out here, is not
+  itself distorted. Perhaps not only the approach of the critic and philologist
+  but also that of the historian should be oriented not so much to the
+  methodological ideal of the natural sciences as to the model offered us by
+  legal and theological hermeneutics. It may be that the historical approach
+  to texts differs specifically from the original bond of the critic to his texts.
+  It may be that the historian tries to get behind the texts in order to force
+  them to yield information that they do not intend, and are unable of
+  themselves to give. With regard to the individual text, this would seem to
+  be the case. The historian approaches his texts the way an investigating
+  magistrate approaches his witnesses. But simply establishing facts, elicited
+  from possibly prejudiced witnesses, does not make the historian. What
+  makes the historian is understanding the significance of what he finds.
+  Thus the testimony of history is like that given before a court. It is no
+  accident that in German the same word is used for both, Zeugnis
+   (testimony; witness). In both cases testimony aids in establishing the facts.
+  But the facts are not the real objects of inquiry; they are simply material for
+  the real tasks of the judge and of the historian—that is, respectively, to
+  reach a just decision and to establish the historical significance of an event
+  within the totality of his historical self-consciousness.
+      Thus the whole difference is possibly only a question of the criteria. One
+  should not choose too nicely if one would reach the essentials. We have
+  already shown that traditional hermeneutics artificially limited the dimensions of the phenomenon, and perhaps the same is true of the historical
+  approach. Is it not the case here too that the really important things
+  precede any application of historical methods? A historical hermeneutics
+  that does not make the nature of the historical question the central thing, and
+  does not inquire into a historian's motives in examining historical material,
+  lacks its most important element.
+      If we accept this, then the relation between literary criticism and
+  historical studies suddenly appears quite different. Although we spoke of
+  the humanities as being under the alien control of historical studies, this is
+  not the last word on the matter. Rather, it seems to me that the problem of
+   application, of which we had to remind the critic, also characterizes the more
+
+=== p. 334 ===
+
+complicated situation of historical understanding. All appearances seem to be
+against this, it is true, for historical understanding seems to fall entirely
+short of the traditionary text's claim to applicability. We have seen that
+history does not regard a text in terms of the text's intention but in terms
+of its own characteristic and different intention—i.e., as a historical
+source—using it to understand what the text did not at all intend to say but
+we nevertheless find expressed in it.
+   On closer examination, however, the question arises whether the
+historian's understanding is really different in structure from the critic's. It
+is true that he considers the texts from another point of view, but this
+difference of intention applies only to the individual text as such. For the
+historian, however, the individual text makes up, together with other
+sources and testimonies, the unity of the whole tradition. The whole
+unified tradition is his true hermeneutical object. It is this that he must
+understand in the same sense in which the literary critic understands his
+text in the unity of its meaning. Thus the historian too must perform a task
+of application. This is the important point: historical understanding proves
+to be a kind of literary criticism writ large.
+   But this does not mean that we share the hermeneutical approach of the
+historical school, the problems of which we outlined above. We spoke of
+the dominance of the philological schema in historical self-understanding
+and used Dilthey's foundation of the human sciences to show that the
+historical school's aim of seeing history as reality and not simply as
+unfolding complexes of ideas could not be achieved. We, for our part, are
+not maintaining, with Dilthey, that every event is as perfectly meaningful
+as a text. When I called history criticism writ large, this did not mean that
+historical studies are to be understood as part of intellectual history
+ (Geistesgeschichte).
+   I am saying just the opposite. We have seen, I think more correctly, what
+is involved in reading a text. Of course the reader before whose eyes the
+great book of world history simply lies open does not exist. But neither
+does the reader exist who, when he has his text before him, simply reads
+what is there. Rather, all reading involves application, so that a person
+reading a text is himself part of the meaning he apprehends. He belongs to
+the text that he is reading. The line of meaning that the text manifests to
+him as he reads it always and necessarily breaks off in an open indeterminacy. He can, indeed he must, accept the fact that future generations will
+understand differently what he has read in the text. And what is true of
+every reader is also true of the historian. The historian is concerned with
+

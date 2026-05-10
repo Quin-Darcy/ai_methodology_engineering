@@ -1,0 +1,1600 @@
+=== chunk: walton-reed-macagno-2008-argumentation-schemes/ch1-basic-tools ===
+title: Basic Tools in the State of the Art
+source_pdf: docs/sources/walton-reed-macagno-2008-argumentation-schemes/full.pdf
+pdf_pages: 17-52
+page_scheme: book
+plan_page_start: 7
+plan_page_end: 42
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 7 ===
+
+             Basic Tools in the State of the Art
+
+This chapter in troduces the reader to argumentation schemes and
+explains, through the usc of some examples. why they are important.
+Another aim of the c hapter is to briefly re\'iew the literature on argu­
+mentation schemes, including the key works by Hastings, Walton , and
+Kienpointner, and to set i t in a broader con text, bringing out some
+characteristics of defeasible reasoning and argument evaluation that are
+fundamental to the study of schemes. Another is to in troduce the bt·gi n­
+ning reader to some basic tools, like argume n t diagrammi ng, that u tilize
+schemes and need to be i n tegrdted with them. I n this chapter we will
+i n troduce the reader to an automated system of argument diagramming
+called Araucaria. This tech nique is a box-and-arrow represen tation of the
+premises and conclusions of an argument, showi ng how one argument
+can be chained together with others to form a sequence of reasoning.
+This tool will be used in subseque n t chapters, and so we need to intro­
+duce the reacler to i t now. One of our goals in the book is to show how
+argumentation schemes are in the process of being modeled by argu­
+ment technology in the field of artificial intelligence (AI) . However, we
+will reserve our fullest account of these developments for the last chapter
+of the book, even though, from time to time, we will men tion aspects of
+them that impinge on our fundamental understanding of argumentation
+schemes as forms of reasoni ng.
+    Another aim of this chapter is to i n troduce the reader to the problem
+posed by the fact that many of the most important kinds of schemes
+are defeasible i n nature , meaning that even after the argument has been
+accepted, it m igh t later be defeated as new evidence en ters i n to consider­
+ation . This factor of defeasibility raises the problem of how schemes are
+rationally binding. I n ded uctive logic, if someone to whom an argument
+is directed accepts the premises of the argument, and the argume n t is
+
+=== p. 8 ===
+
+8                          A rgumentation Schl"TTU'.s
+
+deductively valid, that person must accept the conclusion . If he does not,
+he is i n a posi tion of inconsistency, a position that is logically untenable.
+However, defeasible schemes are not bi nding in this way, because it is
+open to the person to whom the argument is directed to ask cri tical
+questions about it before having to accept a conclusion . This feature, the
+attaching of cri tical questions to a scheme, turns out to be problematic
+in several respects. Fi rst of all, it challenges the tradi tional notion of
+argument cogency, whereby a cogent argument provides a sufficient rea­
+son to accept the conclusion. Second, it presents a problem in applyi ng
+standard tools and techniques, like box-and-arrow diagrams, that model
+arguments as sets of propositions, called premises and conclusions, and
+inferen tial links between sets of them. It is not easy to see how cri tical
+questions can be analyzed as tools for argument evaluation wi thin such
+a propositional model.
+   Schemes have recen tly been attracting more and more attention from
+those who are interested in exploiti n g the rich interdisciplinary area bet­
+ween argumentation and AI ( Reed and Norman , 200$ Verhe U. 200 3 ) .
+Of course, AI has long been i n terested i n nondeductive forms of reason­
+ing ( for a good general review of the area, see Prakken and Vreeswij k,
+2002 ) . But schemes, as constmcd by argumentation theory, seem to pro­
+vide a somewhat more fine-grai ned analysis than is typical within AI. On e
+example lies in the granularity of classification of types: Kienpointner
+in troduces over a dozen, Walton almost thi rty, and Gren nan over fifty,
+but none can claim exhaustivity. By c ompariso n , AI sys t e m s are more
+typically built \\ith a small handful. Pollock's (199 5 ) OSCAR, for exam­
+ple , identifies fewer than ten - with an uneven amount of work spread
+between them. This profli gacy in ph ilosophical classification might be
+argued to be a<� much a problem a'! an advan tage - explored further in
+Chapter 1 o - but it servt•s to dem onstrate that more d t•tail is in some
+way being adduced . It is the cotltt�n tion of this book that those refined
+stmctures of rea'loning yield nicely to a c omputational in terpretation and
+can be implemen tt•d to ust•ful eflect. Eventually, in chapter 12, we will
+t•xarnitw rece nt dcvl'lopmellls in comp u t i n g that have the aim of fonnal­
+izi n g schemes and building wo r kin g systems for anal yzi ng, t'\-aluating,
+and constmni ng argu me n t'! usi ng sch enws.
+
+           I . I N TRODUC I N G ARGUMt: N T A T I O N SC H f:MJo:S
+
+Perelman and Olhrt•(:htvTyteca, in '11 1' Nn.11 Rlzl'tmir ( 1969) , in addi tion
+to the other authors mentioned in the In troduction, identi fied many of
+
+=== p. 9 ===
+
+                       Basic Tools in the State of the Art                    9
+
+these defeasible types of argumento; used to carry e \-idential weight in
+a dialogue, i n a somewhat different style from that of Arthur Hastings'
+Ph .D . thesis ( 1 96 3 ) , where a more systematic analysis of many of the
+most common of these presumptive schemes is presented. The scheme
+itself, i n Hasti ngs' treatment, is specified by stating the form of premises
+and conclusion in each argument type . Hastings expresses one special
+premise i n each scheme as a Toulmin warrant, which could be seen as
+a gener.tlization or rule, linking the other premise or premises to the
+conclusion . Such a warrant is typically a defea'iible generali zation that is
+subject to quali fications, on the Toulim model. Along with each scheme,
+Hastings attaches a corresponding set of critical questions. These features
+set the basic pattern for argumentation schemes in the literature that
+followed.
+    Some argumentation schemes were used by van Eemeren and Groot­
+endorst ( 1 98 4 ; 1 992 ) in their work on critical discussion and fallacies.
+Kienpoin tner ( 1 992 ) developed a comprehensive listing of argumen ta­
+tion schemes that incl udes deductive and inductive forms in addi tion to
+presumptive ones. Walton ( 1 996 ) ide nti fied some twenty-six (depend­
+ing on how you count them ) argumen tation schemes for common types
+of presum ptive reasoning. Followi n g Hastings' format, a set of critical
+questions attached to each scheme is the device for criticizing any argu­
+ment fitting the struc ture of the scheme. The asking of a question , along
+with the response to it, implies a kind of dialogue structure in which
+two parties i n teract wi th each other. If an argument put f(mvard by a
+proponent meets the requirements of a scheme, and the premises are
+acceptable to the respondent, then the respondent is obliged to accept
+the conclusion. But such an acceptance - or commitment, as it is often
+called - is prmisional in the dialogue. If the responden t asks one of the
+critical questions matching the sc heme and the proponent fails to offt·r
+an adequate an swer, the argument defaults. Thus we see that defeasibility
+is linked to a dialogue structure in wh ich a burden can shift hack and
+forth. The ori gi nal weigh t of an argument, before it defaulted and had
+to be retracted, is restored only when the proponent gives a successful
+answer to the question.
+    An argumentation scheme that can be used as our first example is that
+for argument from sign . Let's take a case in wh ich Helen and Bob are
+h i king along a trail in Banfl, and Bob poi nts out some tra<·ks along the
+path, saying, "These look like bear tracks, so a hear must have passed
+along this trail." In the argumentation scheme that f(>llows, taken from
+Wal ton ( 1 996, p. 49 ) , one premise is seen to function as a generali7.ation.
+
+=== p. 10 ===
+
+10                            A rgu1Til'Titation SrhnnP.�
+
+                             Argum e n t from Sign
+
+  Mi11or /"mni.w•: Givt"n data reprt"St"llled as statement:\ is tme i n this situation .
+  Major (Gnll'raliuztiml) Prnni.\t': Statement B is generally indicated as tmt" whl•n
+    its sign , A. is tnae. in this kind of situation.
+  Crmrlu.�io11: Therefort·. 8 is true i n this situation.
+
+The m<�or premise is a conditional stating that if A is true, then generally.
+bu t subject to exceptions, B is also tme. This generalization is defeasible .
+The tracks could have been planted on the trail by tricksters. But in the
+absence of evidence of sonw trickery, i t is reasonable to provisionally
+draw tht· conclusion that a bear passed along the trail. Argument from
+sign is closely related to abductivt� inference, or inference to the best
+explanation . sin(:e the bt•st explanation of the existence of the obse rved
+tracks is the hypothesis that a bear walked along the trail producing
+the tracks. Tllf're could be other explanations. but in the absence of
+additional evidence, the bear hypothesis could be plausible as a ba<�is for
+drawi ng a provisional conclusion .
+   Argumentation schemes include deductive forms of reasoning like
+modu \ fJonens, and inductive forms like arguing from a collected set of
+     ..
+
+data to a statistical conclusion drawn from the data. But they also include
+fom1s of reasoning that are often necessary, but are more ten tative in
+nature and need to be judged circumspet·tly by reservi ng some doubts.
+Such reasoning is presumptive and defeasible. This ki nd of reasoning
+is only plausible and is often resorted to in conditions of uncertainty
+and lack of knowledge. Presum ptive reasoning supports i n ference under
+conditions of i ncompleteness by allowi ng unkno\\11 data to he presumed.
+Defeasible reasoning, as men tioned earlier, is of a sort i n wh ich the
+conclusion can he wi thdrawn or modified if known ( bu t uncertain ) data
+tum out to he flawed ( Fox and Das, 2000 ) . Walton ( 1 gg6, p. 8 1 ) employs
+the following example:
+
+  A Ph .D. student. Susan, has spem more than five years trying to fi nish her
+  thesis, but there are problems. Her advisers keep leaving town, and delays
+  are cominued. She comemplates going to law school, where you can get a
+  degree in a defi n i te period. But then she thinks: MWell, I have put so much
+  work into this thing. I t would be a pity to give up now."
+
+This is not j ust an instance of a presumptive, defeasible argumen t, hut an
+i nstan tiation of a particular pattern of reasoning, a particular scheme -
+in this case, what is called the argument from waste by Perelman and
+Olbrechts-Tyteca ( 1 g6g) , but what is more usually called the argument
+
+=== p. 11 ===
+
+                       BrHir TooL� iu the StatP of tilt' A rl                II
+
+from sunk ro.dJ. By tak ing this classificatory step, it becomes possihle to
+probe in a stntigh tforward, de term inist it· way for m issing premises, and
+to consider a set of predeterm ined cri tical questions in carrying out an
+analysis and eval uation of the argument.
+  Argumentation schemes have recently been a ttrac ting inc reasing inter­
+t•st for severnl reasons. The first is their contribution to fallacy th eory. As
+Wal ton has pointed out in a series of munugrnphs, argument'> that fit into
+trndi tional categories of fallacies seem, under the rig h t c ircumstances,
+to be appropriate, acceptable, and persuasive. Wal ton ( 1996) posit'> that
+schemes offer one way of tackl ing this apparent contrad iction. Argumen­
+tation schemes are also very attrac tive on pedagogical grounds. Schemes
+can be used as a way of provid ing student'> with addi tional s tmcture and
+analytic tools with which to analyze natural argu ments and to evaluate
+them cri tically.
+  Schemes also hold great potential for tac kl ing a variety of problems
+in artificial intelligence (AI ) . The real world represents an i m mense
+chal lenge to art ific ial agents. Even if we focus only upon reasoning capa­
+bilities, and leave to one side the physical aspects of internc ting w i th the
+world, an agent m ust deal with two fundamental problems: uncertainty
+and im·ompleteness. Not only will an agt•nt not know everyth ing, it cannot
+even be sure of the th ings that it does know - and this demands a com­
+plete s h ift from more trnditional approaches to software design. Recent
+work (see Carbogi m et al., :woo; Reed, I ml7: and Wal ton, 2000 for
+rcvit•ws) has shown that argument ation oflers a powt·rful means of tack­
+ling tht•sc problt·ms by mo\·ing away from purdy dt•d uniVl', monotonic
+approach t·s to rt·asoning and toward presumptivt•, defeasible tt•chniques.
+Typical ly, howcwr. such rt•a'itming systems will have to i ntt•ntct not on ly
+with the world, but also wi th h u m ans. This pla(:es further demands on
+these systems: not only must this reasoning bt• carried out. it m ust also be
+presented, perhaps dialogical ly, in a form that is appropriatt· for h u man
+consumption. Onn· again, it has been dt•monstralt'd that dialogue-hasecl
+theories of argumentation ofler flt·xible, n.·alistic, and, crucial ly, i mplt·­
+mentahle techniques (Grasso et al., 2ooo: Rt•t•d, ��mH).
+   Argu mentation schemes art• the forms ofargunwnt (strunures ofinfc.-r­
+t•nce) that enable mw to identify and eval uate com mon types of argu ­
+mentation in ewryday discou rse. Wahon ( 199t)) iclt•ntilit•s twent y-lin.·
+<trgumenta tion schemes for prt•su mptive reasoning. Ma tdting t•ach argu­
+nlt'n tation sdu-me, a St't of ui tical questions is gi ve n. The two dt•mt•nts
+toge ther, tht• argunwnt ation scltt•mt• and the match ing critical qm·stions,
+are used to e\·aluate a given argument in a partic u lar t·ast·. in relation
+
+=== p. 12 ===
+
+12                         A rgtt1111'1!tation Sche7TU's
+
+to a context of dialogue in which the argument occurred. An argument
+used i n a given case is evaluated by j udgi ng the weigh t of evidence on
+both sides at the poin t i n the case where the argument was used. I f all the
+premises are supported by some weight of evidence, then that weigh t of
+acceptability is shifted toward the conclusion , sul!ject to rebuttal by the
+asking of appropriate cri tical questions.
+    I n deductive logic, we are used to working with forms of argument.
+Deductively valid forms of argument like modus ponms and disj unctive
+syllogism are used as formal structures to analyze and evaluate argu­
+ments. In a comparable way, inductive forms of argumentation of various
+sorts can be used to model probabilistic argu men tation . The new tool
+we need is a set of argumen tation schemes ( forms of argument) that
+can be used to model many kinds of plausibilistic ( abductive, presum�
+tive, defeasible) types of argument. But the modeling with respect to
+this thi rd type of argument needs to be pragmatic in nature . The argu­
+ment serves a probative function whereby probative weigh t is transferred
+from the premises to the conclusion. Probative weight is defeasible. I ts
+function i s t o tilt a balance of considerations o n a n ultimate issue i n a
+dialogue to one side or the other. An argumentation scheme is evaluated
+in a given case by light of appropriate cri tical questions in a dialogue.
+This approach sounds new and un usual to those trad i tionalists trained
+in deductive logic . But its uti l i ty is i m mediately apparent from a com­
+putational viewpoint, especially in relation to recent work on defeasible
+reasoning i n AI.
+    The list of presumptive argumentation schemes given by Wal ton
+( 1 gg6 ) is not complete, but it i de n ti fies many of the most common forms
+of defeasible argumentation that should be the focus of research . Perel­
+man and Olbrechts-Tyteca ( 1 958 ) identified many distinctive kinds of
+arguments used to convince a respondent on a provisional basis. Arthur
+Hastings' Ph . D . thesis ( 1 9 6 3 ) presented an even more systematic tax­
+onomy by listing some of these schemes, along with usefu l examples of
+them. Recently, Kien pointner ( 1 992) has p roduced an even more com­
+prehensive outline of many argumentation schemes, stressing deductive
+and inductive forms. Among the presumptive argumenta tion schemes
+presented and analy1.ed by Walton ( 1 996 ) are such familiar types of argu­
+mentation as argument from sign , argument from exam ple, argument
+from commitment, argument from posi tion to know, argument from
+expert opi nion, argument from analogy, argument from precedent, argu­
+ment from gradual ism , and the slippery slope argument. Helpful exam­
+ples of each type of argumentation are given and discussed. In other
+
+=== p. 13 ===
+
+                         Basic Tools in lhe Siale of lhe Arl
+
+recent wri tings on argumentation (e.g., van Eemeren and Grootendorst,
+1 992 ) , there is a good deal of stress laid on how important argumen­
+tation schemes are i n any attempt to eval uate common arguments in
+everyday reasoning as correct or fallacious, acceptable or questionable .
+T h e existing form ulations o f t h e argumentation schemes are n o t very
+precise or systematic, perhaps because they have arisen out of practical
+concerns in dealing with real cases. New work is needed to refine, classifY,
+and formalize these schemes. To provide a more detailed i n troduction
+to what argumenta tion schemes are and how they work, two examples
+wil l be presented. One is called argument from posi tion to know, and
+the other is called argument from expert opi n ion.
+
+               2. A RG U M ENT FROM POS I T I O N TO K N OW
+                             A N D f:X PERT O P I N I O N
+
+The argument from posi tion t o know i s a type o f argument based on
+the presumption by a proponent that a respondent is privy to some
+information or knowledge that can he extracted from him ( her, it) by
+questioning. The classic example is the dialogue in which someone lost
+in a foreign city asks a stranger where the Cen tral Station (or some other
+building or institu tion ) is located. The questioner presumes, perhaps
+wrongly, that the person queried is familiar with the town. The follow­
+ing form of argument from position to know is that given by Walton
+( 1 996, p. 6 1 ) .
+
+                      Argument from Posi tion to Know
+
+  Major Prnn ise: Source a is in a posi tion to know about things in a et�rtain subject
+    domain S containing proposition A.
+  Minor Prnnise: a assert� that :\ (in domain S ) is tme ( false ) .
+  Condwion : A i s tme ( false ) .
+
+Matching the argument from posi tion to know, as indicated by Wal ton
+( 1 gg6 ) , are the followi ng three critical questions.
+
+  CQ1 : Is a i n a position to kn ow whether A is true ( falsl· ) ?
+  CQ2 : I s a an honest ( t mstworthy. rel iable ) source?
+  CQ.� : Did a as.�rt t hat A is tme ( lidse ) ?
+
+As indicated earlier, argument from posi tion t o know shifts a probative
+weight from the premises to the concl usion , thus ti lting the balance
+of considemtions i n a dialogue toward one side. But th is outcome is
+
+=== p. 14 ===
+
+                                A rgummtalion Schnnes
+
+only ten tative, depending on what happens next in the dialogue. If an
+appropriate critical q uestion is posed by the respondent, the probative
+weight shifts the balance of considerations to the other side. Only if the
+question is answered satisfactorily is the probative weigh t shifted back
+agai n .
+   Argument from expert opinion is a subtype of t h e more gent·ral argu­
+menta tion scheme for argument from posi tion to know, of a kind often
+used i n an information-seeking dialogue. The special kind of i n forma­
+tion seeking in appeal to expert opinion arises from a situation where
+one party to the dialogue has information that the other lacks. The one
+party is an expert. The other is not. The expert has knowledge that the
+non expert wan ts to use i n order to dctennine how to proceed with a
+problt•m or choice of actions. Argum e n t from expert opin ion is repre­
+sen ted hy the followi ng argumentation S(' ht•me in the analysis gh·en by
+Wal ton ( 1 99 7 . p. 2 10) .
+
+                        Argumt>nt from Expert Opinion
+
+  Major Prrmi.�l': Sou rce E i s an t•xpt>rt i n su�jcct d o m a i n S contai n i n g proposi­
+  MirJOr i'rl'misl': £ asserts that proposi tion A ( i n domain S ) is true ( lidst> ) .
+  Conrlzt.�ion : A may plausibly be taken to be true ( false ) .
+
+As Wal ton ( 1 997 ) makes clear, appeal to expert opinion should , in most
+typical cases at any rate , be seen as a defeasible form of argument . It is
+rarely wise to treat an expert as omniscient. H owever, there is quite a
+natural tendency to respect expert'! and to defer to them. Thus, for most
+of us, it is not easy to question the opinion of an expert. It verges on the
+impolite, and is best done in a careful way. But experts are often wrong.
+for many reasons. As a practical matter - for example, i n matters of health
+and fi nance - you can do much better if you are prepared to c ri tically
+question the advice of an expert in the right way. Thus, in pri nciple,
+appeal to expert opinion as a form of argu ment is best seen as defea­
+sible and as open to cri tical questioni ng. Appeal to expert opinion is a
+fallible form of argument that often carries probative weigh t. Rut, as the
+logic textbooks have rightly emphasized in the past, there is a tendency
+to defer to experts, sometimes too easily, and this tendency gives rise to
+fal lacious appeals to expert opin ion . Pressing ahead too aggressively, or
+"browbeating" the respondent, is associated with many cases of fallacious
+appeal to expert opinion. The sophistical tactic often used is for the
+
+=== p. 15 ===
+
+                          Basic Tools in the Stak' of the A rl
+
+proponent to try to trade on the rcspondem's respect for expert opinion
+by suppressing thl" responden t's legi timate c ritical q uestions i n the dia­
+logue.
+  Here are the six basic cri tical questions matching the appeal to expert
+opinion, as indicated by Wal ton ( 1 99 7 , p. 223 ) :
+
+   1.    Expmi�e Question: How credible i s E a s a n expert source?
+   2.    Firld Qur.stion: Is E an expert in the field that A is in?
+  :� ·   opinion Qurstion: What did E assert that impl ies A?
+  4·     Tntstworlhine.u Qur.�tion: Is E personally reliable as a source?
+  5·     Consistrnry Qurs t io n: Is A consisten t with what other experts assert?
+  6.     Backup Evit!Rnce Question: Is E's ao;sertion bao;ed on e\;dence?
+
+Someone attempting to analyze or c ritically evaluate a given argument
+can use the two devices of the argumentation scheme and the matching
+cri tical questions. The scheme ide n tifies the form of the argument and
+ its premises. Once the prem ises have been identi fied, they can then
+bt• questioned to see if there is support for them. The cri tical questions
+ indicate other ways i n which the argumelll can be questioned or criticized
+ by indicating key assumptions that the worth of the argument depends
+ on. The asking of a cri tical question throws doubt on the structural link
+between the premises and the conclusion.
+    The idea behind using cri tical questions to evaluate appeals to expert
+opinion is dialectical. The ao;sumption is that the issue to be settled
+by argumentation in a dialogue hangs on a balance of considerations.
+Appeal to expert opinion can carry a small weigh t of presumption i n the
+dialogue, even ifhy i tself it is only a weak argument. If the given argument
+meets the req uirements of the argumentation scheme and the prem ises
+ are plausible (carry some weigh t as presumptions) , that can give the
+ conclusion some weight as a plausible assumption to go ahead with. But
+suppose the responde n t asks one of the appropriate c ri tical questions
+j ust indicated. The burden of proof shifts back to the proponent's side,
+ defeating the argument temporarily u n ti l the cli tical question has been
+ answered successfully.
+
+                           3 · C R I T I C A L QU ESTION S
+
+O n e o f the features o f argumentation schemes that i s key t o evaluat­
+ing whether an argument fi tting a scheme should be j udged strong or
+weak is the list of associated cri tical q uestions - questions that can he
+
+=== p. 16 ===
+
+                               Argumentation Schemes
+
+asked (or assu mptions that are held ) by which a nondeductive argu­
+ment based on a scheme might be j udged to be (or presen ted a'l
+being) good or fallacious. The critical questions form a vital part of
+the defin ition of a scheme, and are one of the benefits of adopting a
+scheme-based approach. One crucial aspect, then , of developing appli­
+cations of argumentation schemes - computational or otherwise - is to
+capture these critical questions in an appropriate way. The pattern of
+most argumentation schemes is similar to modw ponens, typically with
+something defeasible acting as the major premise (Walton, 2002b) . In
+a standard diagramming approach , a mod us ponens argument would
+be analysed as having a single conclusion supported by two linked
+premises. That the premises are linked rather than convergent might
+be demonstrated using Freeman's ( 1 99 1 ) approach of considering a
+reconstructed dialogue i n which an imaginary in terlocutor asks a specific
+question after the presentation of the minor premise. So, in the following
+example,
+
+   ( Ex 1 ) This computi'T doe.� have an accu m ula tor. It is built on the von Neu mann
+      arch itectu re.
+
+the interlocutor might a<�k, "Why is that [ the second sen tence ] relev-a nt?,"
+eliciting the major premise that having a v o n Neu mann archill'cturl' implies
+having an accumulator. ( I n a real di al o g u e . of course, a question such as
+"Why is that relevant?" is more likely to elicit, th rough Gricean maxims,
+not j u st the linked m �jor premise, but a l s o further arguments in support
+of that premise . ) It is Freeman 's question of relevance, ra th er than of
+ground adeq uacy ( "Can you g i ve me another rea'!on ? " ) , that moves the
+argument from one premise to the o t h e r in this case, s ugge stin g that
+they are linked.
+    Viewi ng modu.� fmnrn.\ ao; an e xam pl e of a l i n ke d argument structu re, it
+is possible to see argumen tation sc h e m e s in the same way: a concl usion
+sup po rt ed by two, or som e tim es more, linked prem ises. Crucially, many
+of th ese premises are often left implicit. In a modus ponm.� argumen t, i t
+i s t h e us u al p r.tc t i c e to l e ave implicit the m aj o r prem ise - so usual , in
+fact, that the e nt h y m e m at k fornt has been an a lyze d as a se pa ra t e argu­
+ment form e n ti rely, the motlu.\ brroi.\ ( Sadoc k, 1 9 7 7 ) . Including the major
+prem ise of a modtL\ ponen.� usually leads to hopelessly cumbersome text ­
+though in (� e rta i n extr(•nw si tuations ( h igh l e ve l s of audience s k e pt i ­
+cism or cogn i tive load ) , it may be appropriate to ma k e all th ree compo­
+nents of the argument explicit ( Reed, 1 999) . In a rgu m en ta ti o n sch e m es ,
+
+=== p. 17 ===
+
+                        Basic Tools in the State of t/u> A rl
+
+however, it is notj ust the ( defeao;ible) major premises that are left implicit.
+I n many cases there is a range of assumptions, all of which can be seen
+as acting as implicit linked premises. For example, recall the scheme
+capturing argument from position to know i n troduced earlier:
+
+     (P 1 )   is in a position to know whether A is true ( false ) .
+              a
+
+     ( P2 ) a asserts that A is true ( false ) .
+       ( C ) Therefore, A is true ( false ) .
+  ( CQ1 ) I s a i n a position to know whether A is true ( false ) ?
+  ( CQ2 ) I s a an honest ( trustworthy, rel iable ) source?
+  (CQ3) Did a assert that A is true ( false ) ?
+
+I n a canonical use o f this scheme, the second prem ise, P 2 , i s asserted
+explicitly, ao; is the conclusion . Premise P 1 is left implicit (and, as Walton
+poin ts out, is probably assumed by the hearer by Grice 's Principle of
+Charity, by which an assumption of honesty and relevance is made ) . The
+argument thus has its conclusion C, supported by the two l i n ked prem ises
+P 1 and P2 ( if either premise fails, then the argument fal ls down , just as
+wi th the mi nor and major premises of a modus ponms) .
+    I n add i tion, however, the propositjonal con ten t ofthe c ri tical questions
+forms necessary ao;sumptions if the argument scheme is to successfully
+carry the burden of proof. Thus, for an argument from position to know
+to be successful, i t is necessary for an audience to accept that a is honest ­
+in addi tion to the premises P 1 and P2 . Furthermore, this additional
+premise is also linked: if a were believed to be dishonest, then the entire
+argument would fall down.
+    The complete set of linked premises employed i n a scheme is thus
+the union of those given as premises and ( the propositional content of)
+those listed ao; critical questions. I n the curre n t fl uidity of active work on
+argume n tation sc hemes, the disti nction between prem ises and critical
+questions may be unclear. For example, in argument from posi tion to
+know, CQ1 and P 1 are closely related and m ight be characterized as a
+si n g le prem ise; CQ2 is clearly disti nct and forms a second prem ise: but
+although P2 and CQ� are similar, i t might be argued that the c ri tical
+q uestion is subtly different, aiming for the very words that n spoke , as
+opposed to a paraphrasing or in terp retation. It is not the aim here to
+resolve such pote n tial disputes, but rather to show that any particular
+in terpreta tion of a list of prem ises and CJi tical questions can be ade­
+quately characterised a'l a set of linked premises, many of wh ich may be
+left implicit in an actual text.
+
+=== p. 18 ===
+
+t8                             A rgummlation Srh1'11u's
+
+     4 · E N T H Y M t: M E S , S C H E M E S , A N D C R I T I C A L Q U E ST I O N S
+
+The term 'en th}meme' i s standardly used i n logic t o refer t o a n argu­
+ment in which one or more statements that are part of the argument
+are not explici tly stated. Enthymemes are sometimes loosdy referred to
+as argument s "i th "m issi ng prem ises," but someti mes the missi ng state­
+
+ment is the conclusion. There are many problems wi th enthymt•mes that
+make the notion a difficult one to capture by means of some mechan ical
+process. Attributing un stated assum ptions to an arguer is a perilous kind
+of inference to draw, for it depends on interp reting what the arguer pre­
+sumably meant to say. Any argument expressed in a natural language text
+of discou rse is notoriously diflicult to in terpret. First of all, vagueness and
+ambigu i ty are com mon . But even worse, arguers sometimes ach ieve plau­
+sible den iability by exploi ting i n n uendo and concealed mean i ng. When
+a meaning is attribu ted to h i m , the arguer may deny it, even alleging
+that the other party has commi tted the straw man fallacy. This fallacy is
+the tactic of exaggerating or distorting an opponen t 's argument to make
+it mort· \'Ulnerable to refutation ( Sc rive n , 1 97 6 , pp. Hs-86 ) . One migh t
+think that the problem of en thymemes could be solved by attributing
+argumen t'! to someone else only if the argument comt•s out as deduc­
+tivdy valid. But here an even worse problem lurks ( Burke , 1 9H5; Gough
+and Tindale, 1 98 5 ; H i tchcock, t g8 ;, ) . Making the argument valid may
+not represent what the arguer really mean t to say. Maybe the argument
+he intended to put fonvard is invalid. At any rate , it is not too hard
+to appreciate that the problem of enthymemes is far from trivial, and
+that it would be extremely diflicult to find some algori thm that could
+mechanically plug i n the righ t m issing statemen t'!.
+   Paren thetically, it might be noted that even the term 't•n thymeme'
+itself seems to be a h istorical m isnomer. Burnyeat ( 1 994 ) has examined
+the textual evidence of Aristotle 's manuscripts and the early commen­
+tators on them . In the Prior A nalytirs ( 7 oa 1 o) , Aristotle wrote that an
+en thymeme is an i ncom p lete ( ateles) sullogismo.t from p lausibilities or
+signs. But Burnyeat hao; cast doubt on whether Aristotle wrote the word
+ateles in the origi nal manuscript. It seems more likely that it was i nserted
+by one of the earliest commentators and then kept i n . According to
+Burnyeat's analysis, what Aristotle real ly meant by 'en thymeme' is a
+plausibilistic argument of the kind he treated in the Topics and the
+RhPtorir. Such an argume n t is syllogistic in appearance, but based on
+a warran t that is defeasible, or true only "for the most part" ( to use
+Burnyeat's translation of Aristotle 's ph rase ) . If Burnyeat's in terpretation
+
+=== p. 19 ===
+
+                            Basic Tools in the State r1· tltl' A rt
+
+is righ t, the outcome is sign ifican t for argumen tation theOI)'. I t means
+that 'ent hymeme ' , i n the original Aristotelian meaning, refers to pre­
+sumptive argumentation schemes, not to i ncomplete argumentc;.
+   Now let's go on to discuss the general question of how the cri tical
+questions are related to m issing premises. To pose this question more
+effectively, we need to consider a reformulation of appeal to expert opin­
+ion as a n argumentation scheme. Various ways of setting up the schemes
+by form ulating explicit premises can be considered. The scheme repre­
+senting appeal to expert opinion as a form of argument quoted earl ier,
+from Wal ton ( 1 997, p. 2 1 0 ) , could he called \'ersion I . I n an alternate
+version, a conditional premise that links the m�or to the minor prem ise
+has been added.
+
+                    Appeal to Expert Opi nion (Version I I )
+
+   Major Prnnise : Sou rce F. i s a n expert i n su�j cc t domain S contai n i n g proposi­
+  Minar fumise: E ac;se rts that propos i tion :\ ( i n domain .\) is true ( false ) .
+  Cor1ditional PrPmise: I f source }:' is a n expert i n a subject domai n S c o n ta i n i n g
+    p ro pos i t i o n A , a n d F. asscrL'i t h a t proposition A is true ( false ) . t h e n A may
+    plausibly he takt·n to he true ( false ) .
+  Conclusion: A may plausibly he taken t o he trut• ( false ) .
+
+Version I I h a s taken the old argumentation scheme and added a prem ise
+that expresses the Toulmin warrant that gives the argument it'i hacking.
+\\'h at version II reveals is t hat the argumen t has a modu.� fmnms st ru c t u re
+as a n i n fe re n c e . Bm it is not a deductively val id modus fmlwn s argument.
+I t has the form w e co u l d call defeasible morhu flmlms. For example, in
+a given case , an argument h a\i ng the form of version I I c o u l d th row
+wt' ig h t on tht· conclusion that a proposition A is pl a u s ib l e . But then it
+might h e poi n ted out that /� is not a nedihle t·xpert, for some reason . This
+information would defeat the appeal to expert opi n i on , u n d e rm in i n g the
+previous g ro u n d s for accepting A .
+    Now the question arises wht· tlwr \'l' rs i o n I I cou ld be made eve n m ore
+ex pl i c i t . Could it he done hv build ing the c ritical q u t•s t ion s i n t o t h e
+argumen tation sc h eme? Accord i n g to this proposa l . the n e w sc ht•mt·
+wo u ld have t h e fol lowi n g fo rm .
+
+                    A pp eal to Expert O p i n i o n ( Ve rs i o n I I I )
+
+   .'Hajor Prnn i.\ f: Source /:· i s a n t·xpert i n sul�jt·ct dom a i n S con tai n i ng proposi­
+     tion :\.
+
+=== p. 20 ===
+
+20                           Argumentation Sche?rus
+
+  Minor Prnnise: £ asserts that proposition A ( i n domain S) is true ( false ) .
+  Conditional Prnn ist: I f source E is a n expert i n a subject domain S contai ning
+    proposition A, and E asserts that proposition A is uue ( false ) , and E is
+    credible as an expert source, and E is an t>xpert in the field A is i n , and E
+    asserted A, or a statemenl that implies A, and E is pt>rsonally rel iable as a
+    source, and A is consistenl wilh what other expert� assert, and E's assertion
+    is based on evidence, then A may plausibly be taken to he true ( false) .
+  Condttsi011: A may plausibly be taken to be true ( false ) .
+
+Version I I I makes the conditional premise seem cumbersome and hard
+to remember. Another way to accomplish the same result would be to
+add the content of each of the cri tical questions as a separate premise.
+This yields version IV.
+
+                 Appeal to Expert Opinion (Version IV)
+  Major Prt'7Tiise: Source E is an expert in subject domain S containing proposi­
+  Minor Prt'7Tiise: £ asse rts that proposition A ( i n domain !!) is true ( false) .
+  Conditional PremiSI': I f source E is a n expert i n a subject domain S containing
+    proposition A, and E asserts that proposition A is true ( false) , then A may
+    plausibly be taken to be true ( false) .
+  Expertise Prl'7Tiise: E is credible as an expe rt source.
+  Field Prnnise: E is an expert in the field that .-\ is in.
+  Opinion Premise: E asserted A, or made a statement that implies A .
+  Trustworthiness Prl'7Tiise: E is personally reliable as a source.
+  C-onsistency Premise: A is consistent wi th what other experts assert.
+  Backup Evidntr� Pmnist: E's ass e rtion is based on evidence.
+  Concl1tsion : A may plausibly be taken to be true ( false ) .
+
+I n version IV, all the cri tical questions have been built i n as premises.
+Now the argumentation scheme is complete by itself, and we don 't need
+the device of cri tical questions any longer, or so it would seem .
+   Technically speaking, version III o r version IV would work as well as
+version II, with accompanying critical questions, as a format for analyzing
+and evaluating appeals to expert opinion as arguments. It doesn't really
+matter that much which version you use. The advantage of version II
+is that it strikes a n ice balance. It shows you what you basically need
+as the core of the appeal to expert opinion. It indicates to a user what
+essential elements give this fom1 of argument the weight that it can carry
+to command rational assent in a case by shifting a presumption from one
+side of a dialogue to the other. But then the critical questions offer the
+user (interlocutor, analyst, evaluator, student) a choice among strategies
+for probing the weak points in such an argument. Like a tradi tional topic,
+
+=== p. 21 ===
+
+                         Ba.5ir Tools in the State of the A rt                      21
+
+they function as a memory de\ice. We tend to defer to an expert, and
+may be hard-pressed to think of the righ t question to ask. To open the
+discussion up. a user can cast around among the list of standard critical
+questions and find one that best expresses his doubts or h is failure to
+make sense of what the expert has said. Thus version II is a good way i n
+which t o express t h e form of appeal t o expert opi n ion .
+   Version II is also the most attractive option for diagramming. Having
+to include i n a diagram all the implicit premises of version IV i n tro­
+duces u n necessary complexity, while diagramming the extra, convoluted
+warra n t of version I I I fails to elucidate the structure of the argument.
+Instead , marking the general , typical structure with a scheme, and then
+allowing acces.o; to that scheme's cri tical questions during the analysis
+process, allows the analyst the flexibility to incl ude the c ri tical question
+premises where they are incl uded i n the origi nal text, but to leave them
+out of the diagram where they are not required. The full set of cri tical
+questions is retained in the definition of the scheme to remind the ana­
+lvst of the assumptions that are being made, and to aid in the process of
+eval uation . This is the approach adopted in Araucaria.
+
+                                  5· PEDAGOGY
+
+One of the advan tages of adopting argumenta tion schemes as a compo­
+nent of argumen t analysis is in teaching critical thi n king skills. In the
+first place, the structure prO\ided by a scheme narrows the options, and
+can serve as an aid to the student i n identifyi ng m issing premises. Thus
+if a rirrumsta ntial argum1'11 1 against the pn-son (Wal ton , 1 996, p. 5 8 ) is a
+strong candidate for explaining a particular stretch of text, the analyst
+migh t look in more detail for the appropriate prem ises - that the speake r
+claims that everyone should act in a particular way, and so on . The analyst
+is then led to ide n tifY prt>m ises speci fied by the scheme but not presen t
+i n tht' text - such as t h e premise usually lt>ft implicit in circumstan tial ad
+hominem arguments, that if any speaker claims that something should
+hold for everyone, then it should hold for that speaker too.
+    The c ritical questions a'lsociated wi th each scheme have several roles
+to play. First, they aid in the initial iden ti fication - if c ri tical questions art•
+inappropriate in a given cast• , the chances are that the argument scheme
+too is inappropriate. Of cou rse, the critical questions are also c rudal
+in guiding an analyst toward an e\·aluation of the argunwnt, supporti ng
+i n some detail a cri tical approach to the argumentation presented. In
+more formal approaches, the only tools that a student has available are
+
+=== p. 22 ===
+
+22                          A rgumenlalion Srheme.f
+
+soundness and vctlidity; c ri tical questions ofler rich con textual prom pts
+to support the analysis process. The use of argumentation schemes, and
+thei r dose relation to fallacies, also introduces another key advantage:
+flexibility. By accepting the fact that there may be a scale from good to
+bad argument, it becomes possible to equip learners with the flexibility
+necessary for handling real - rather than logic-textbook - argumenl'i.
+The scalt• thus encom pa<>ses deductively strong arguments and down righ t
+fallacies ( i n the broadest sense , i ncluding examples such as affirming the
+consequt• n t, which is not only ' bad ' but also fails by most standards to
+appear 'good ' ) - and as well as examples lying somewhere in between .
+where support m ight b e 'substa n tial ' o r 'sligh t ' .
+    Two further features o f argumentation schemes i n the con text o f ped­
+agogy art' the ease with which they can be i n tegrated i n to tradi tional
+diagramming tech niques and the possibility of supporting such diagrctm­
+ming wi th software tools. Every text has an argumen tative purpose , that
+is, it aims at supporti ng a conclusion wi th the use of i n feren tial passages
+proceeding from premises. I ts logical structure can be represen tt'd as a
+tree, consti tuted by arguments, connected or converge n t, dependent on
+assumptions or other statements, directed toward the t'nd of the commu­
+nicative move. For th is reason , every text is, at the argumentative level,
+a h ierctrch ical structure of links and dependencies, a complex map of
+relations. Diagrctms are visualizations of this structure; they are means to
+represen t and identifY the specific role of each subseq uence and each
+implicit premise. Diagram mi ng, consequen tly, is an i ndispensable peda­
+gogic tool: by inquiring i nt o the fundaments and the function of t'very
+discursive step, the analy-1.er can rt'construct and understand the implicit
+basis of every statement. how it is connected with the rest of the move,
+and iden tif)• the i n feren tial link that warran ts the link itself. Argumen ta­
+tion schemes are related to the latter poi n t of this analysis. They are the
+i n feren tial patterns, the quasi-logical models used to support a conclu­
+sion . They motivate the con nections, represen t how the premises act as
+reasons, and assign to them a specific function. For these reasons, dia­
+gramming is an eflec tive means to concretely apply topical models; on
+the other hand, argumentation schemes are indispensable to analyzing
+a text under the argumentative poi n t of view, the purpose of diagrams
+themsel\'es.
+    A diagram is constituted by a st·t of propositions (premises or con­
+clusions) and a set of arrows rt'prese n ting the inferential steps. The
+techn ique of visualizing the n·ason ing structure of a text was used fi rst i n
+
+=== p. 23 ===
+
+                         Ba.tir Toolt in the Stale of thP A rl
+
+law by Wigmore ( 1 93 1 ) , i n order to facili tate evidential assessment, and
+developed by David Schum ( 1 994 ) with the i n troduction of generaliza­
+tions, i n trodm:ed to show the nature and defea'libility of the inference.
+The concept of generalization, used to analyze the reason ing, is based on
+Toulmin 's model of arJ.,"l.Unent, composed of premises, conclusions, and
+warrant'i. The warrant is the reason why a detenni nate nmcl usion can be
+drawn from the given starti ng poi nts. I n Walton 's disn1ssion ( 1 �)96, Chap­
+ter 6) , the warrant, or generdli7.ation , is examined i n terms of schemc.•s
+that can be trdccd back to basic patterns, differen tly instan tiated in par­
+ticular argument'i. I n fe rential steps, for this reason , are organized, i n dia­
+grams, in a finite set of sequences connecting sets of poi n ts by argumen­
+tation schemes. Argument evaluation follows Rescher's rules of prac.· tical
+reasoning, distinguish ing between l i n ked and convergt�nt argumcnto;.
+Wh ile i n the former the strength of the i n ference to the conclusion
+depends on the weaker prem ise, in the Iauer it is the.• strongest prem ise
+that i n fluences the evidential strength of the inference.
+    While the importance of diagrams has been recogn ized in law, as we
+have seen, and in computer science, where.· they are used to structure
+evidential reasoni ng, their application to teaching philosophy is fai rly
+recent ( Rowe et al . , 2006 ) . The arguments a philosopher uses as per­
+suasive means to prove a thesis usi ng rational argumentation can be
+reconstructed, and the i n terpretation displayed on an argumc.·nt dia­
+gram . Diagrams are i nstrume n to; for textual analysis: by examining every
+sequence of reason i ng, visualizing the relations between its poi nt s, and
+showing the inferen tial pattern and the implicit assumptions, the analyst
+can assess and judge the fundamental reasons and assu mptions found i n
+philosoph ical theories.
+    Diagrams arc useful tools for both teachers and studen ts. By means of
+\isual izations, the pri ncipal steps of rea'ioning supporting a thesis may
+be represen ted in an organized stmcture, showing the position of every
+subargument. By recognizing i nferen tial steps in a chai n of reason i ng,
+i t is p ossible to reconstmct m issi ng p rem ises necessary to su pp ort the
+conclusion as rea'ionably follo\\ing from the starting poi n ts. In th is way,
+explai ning the bao;ic argume n t'i and their ni tical poi n ts of weakness to
+studen ts becomes much more effective . By means of applyi ng such dia­
+grams, the user can rapidly develop c ri tical skills. I n order to draw a
+diagram of a text, it is necessary. fi rst of al l , to identifY prt·m ises, ulti mate
+and fi nal conclusions, and to con nt·c.· t them i n linked or convergent
+argument'i, according to their function. By developing the capabil ity for
+
+=== p. 24 ===
+
+                            A rgumenlalion Scheme.�
+
+dividing a text i n to argumentative sequences and organizing them. the
+user can improve his or her logical thinking skills. For these reasons, dia­
+gramming is a useful instrument in teaching. and an effkient rm•ans for
+developing tht• basic skills for the critical sttady of phi losophical. literary,
+and pol i tical disc·ourses, and argumento; in every kind of com municatin·
+text.
+
+                     6 . I NT R O ll U C I N G A RA U C A R I A
+
+Current collaborative research i s under way at the U n ivt'rsity o f Dundee
+to build a software tool that in tegrates traditional argument reconstruc­
+tion and d iagramming wi th the speci fication of argument schemes. A key
+feature of this software is that selecting schemes allows stude n to; to \'icw
+cri tical questions and supply appropriate m issi ng prem ises. In practical
+terms, the software is also designed for portabil i ty; it runs on Windows.
+Mac , and UNIX. and it saves arguments usi ng XML, a common interlin­
+gua that is easily converted into web pages.
+   Ar.mcaria is a software tool for supporting the process of construct­
+ing an argument diagram ( Reed and Rowe, 200 1 ) . I t is available free
+on the web at ( www. computing.dundec.ac.uk/staff/creed/araucaria) . I t
+supporto; argumen tation schemes, a n d it has an online repository o f ana­
+lyzed arguments. Once an argument has been analyzed, it can be saved
+in a format called AML ( the Argument Markup Language ) that can then
+be used for many purposes - for example, in a database or on a web
+page. An example is shown in Figure 1 . 1 . Work is currently under way
+to provide web access to the online databao;e of argument analyses inde­
+penden tly of the Araucaria application . Araucaria has been designed for
+use by teachers and students i n cri tical thi n king courses, or in courses
+with a critical thi n king ao;pect. But because it is a powerful tool in certain
+respects, i ts most important application may be to research problems in
+the field of argumentation .
+   Ar.mcaria is similar to a software tool called Reao;on !Able devised by
+Tim van Gelder of the Department of Philosophy of the U n iversi ty of
+Melbourne, wh ich hao; been well tested and is very simple and easy to
+use. Where Araucaria is aimed at argument analysis, for researchers and
+undergraduate teaching, Reason !Able is aimed at argument construc­
+tion, for more in troductory teaching earlier in the curriculum. The two
+thus complement each other.
+   Applying Ar.mcaria to many basic problems of argumentation and
+informal logic hasj ust begu n . We will use some simple examples to discuss
+
+=== p. 25 ===
+
+                                         "0
+                                             �
+                                          c
+                                         ·�
+                                             c
+                                         ·
+                                             �
+                                             E
+                                         · :II
+                                           c:
+                                I            �
+
+                               II ��
+       -   -   -   .   .   .   J.
+                                    II
+                                    I
+
+2 ,)
+  �
+
+=== p. 26 ===
+
+                            A rgu mrotalion ScliPmR.s
+
+some of the more basic poi nts. In this discussion , we concen trate on our
+current joi n t research project that has the aim of developing a more
+soph isticated analysis, cla">sitication, and formalization of argumen tation
+schemes. To begi n , some i n troduction to schemes is presen ted. But to
+keep the discussion within reasonable l i m i t'>, the scheme for appeal to
+expert opi n ion is taken a-. a case in poi nt.
+  As an illustrdtinn of how this scheme is applied i n Amucaria, we select
+two cases for analysis. Both are from the leading logic textbook ( H urley,
+2000 ) . Both are presented by H ur ley ( p . 1 :-\9 ) as examples of the fallacy
+of "appeal to unquali fied authori ty" or argumrotum ad vt'Tecu ndiam.
+
+                          The Bradshaw Example
+Dr. Bradshaw, our family physician, has stated that the creation of muonic
+atoms of deuterium and tritium holds the key to producing a sustained
+n uclear fusion reaction at room temperature. I n view of Dr. Bradshaw's
+expertise as a physician , we must conclude that this is indeed tme.
+The ba">ic problem of fallaciousness in the Brcldshaw exam ple arises from
+the field c ri tical question. As Hurley puts it, "The conclusion deals with
+n uclear physics, and the authority is a fam i ly physician" ( p. 1 39 ) .
+
+                           The Tobacco Examp l e
+James W. Joh nston , chairman of R. J. Reynolds Tobacco Company, tes­
+tified before Congress that tobacco is not an addictive substance and
+that smoking c igarettes does not produce any addiction . Therefore , we
+should believe h i m and conclude that smoking does not in fact lead to
+any addiction .
+The basic problem of fal laciousness i n the tobacco example arises from
+subquestion one of the tmstworthiness cri tical question. Even if one
+should take him to be an authori ty, Johnson may be presumed to be
+biased. A'> Hurley puts it ( p . 1 39) , joh nston had a "clear motive to lie,"
+for if he had adm itted that tobacco is addictive, government regulations
+cou l d have put his company out of business.
+   Let's consider how these two examples would be processed by Arau­
+caria, or indeed by any comparable system for argument analysis and
+diagramming. The two prem ises and the conclusion in the Bradshaw
+example can be highlighted, and the linked argument diagram can
+be cunstmcted. If the argumen t were cleaned up a l ittle before being
+inserted i n to Araucaria a'> text, it m igh t come out something like this.
+
+=== p. 27 ===
+
+                        Baiic Tools in the Stall' of thP A rl
+
+                               .... E x pe rt 0 .
+                                               1pln101l
+                                                   .
+                               1 . .. this is Indeed true . , .
+                               � � ---                                   7 ,.
+
+                                             �
+                                                 l_r       . �. -    .
+
+                           •                                                •t. •   .so;&.   -
+                                                                                             "" "•<"; " ;
+                 Dr. BradsMw, our                      ln vi- of Or.
+                                                                                                       '
+                 fwnily physician, has                 Bradshaw's expertise
+                                                                                                       '
+                 stDd lhlt the                         n •          physician . . .
+                 awllllon d muonlc                .    """-' T       -                 ,. .
+                 atoms d de!Drium
+                 and trll um hold the
+                 key to procKing •
+
+                                            �
+                 sustMied nuc:le•
+                 fusion rHCtion at
+                 room   18mper11Ure .       I
+
+          FI G U R t: 1 . 2 . Argumem diagram of the Bradshaw exam ple.
+
+            C l eaned-U p Version of the Bradsh aw Examp l e
+
+  D r. Bradshaw says that the muonic atoms are crucial to n uclear fusion
+     (etc . ) .
+  D r. Bradshaw is an expert in the field of medicine.
+  Therefort> , (C) the claim that muonic atoms are crucial to n uclear
+     fusion (etc . ) may plausibly be taken to be true.
+
+( I n Figure 1 . 2 , the shaded area around the th ree boxes shows the putative
+use of the argumentatiou sc heme Appeal to Expert Opinion ) .
+    The problem is that the subject domain contain i ng the proposition
+displayed in Figure 1 . 2 is not medicine, but physics. Therefore , this
+argument doesn 't even get off the ground. The domain variable , S, in
+the major premise stands for medicine, while S in the m i nor premise
+stands for physics. The problem seems to be one of equimcation, or
+perhaps one of the argument not fi tting the argumenta tion scheme at
+all (although it may superficially appear to, in the view of the uncdtical
+th in ker) .
+    And yet there is another way of diagnosi ng the problem or fallacy in
+the argument in the Bradshaw example. If the field critical question is
+asked, the answer is "No, E is not an expert i n the field that A is in."
+So here � seem to have a kind of duplication. The fault is diagnosed
+twice. Is this really necessary or desirable? Should the scheme and critical
+questions for Appeal to Expert Opinion be reform ulated to elimi nate this
+redundancy? That is the problem, auyhow.
+
+=== p. 28 ===
+
+                               Argumentation Scheml's
+
+                                      .., E x pert Opinion          "'
+                                       Smoking does nat In fact �
+                                       lead ID lilY adcflction.
+                                                                  ::K    '
+
+                                                     li -
+                                    Jl                                   l_
+                      ;
+                      �· J._. ll • ;+rton        �                            .- -� ,.. �
+
+                                                          Johnston t.stifild before
+                                                          cong.... tNd tobacco is )
+                                                                                            -
+
+                      �. ,. ,.
+                            �.:.. .    .: :. . · -        not 1111 addictive           �
+                                 7�                       subst8nce 1111d that         -
+                                                          smoking c� does
+                                                          nat produce any
+                                                          llddlction .
+                                                            --           ... �      .,
+
+                  I
+        JlmiS w. Johnston is           ,.,_ . .. c:hllrmM
+        chairmen of R .J .             ofR.J. � II •
+        Reynoldl Tobacco               Upelt an tabacco.
+        Cor11*1Y .
+
+           t"I GtJRt: 1 · 3 · Arbrtlment diagram of the tobac('o t'Xample.
+
+ Now consider the tobacco example. Like the previous one, this argu­
+ment could perhaps be cleaned up a l i ttle in order to make it more visibly
+match the scheme.
+
+             Cleaned-U p Version of the Tobacco Example
+  (A) Joh nston is chairman of R. J . Reynolds.
+  ( B ) Anyone who is chairman of R. J . Reynolds is an expert on tobacco.
+  ( C ) Johnston is an expert on tobacco.
+  ( D ) Joh nston says that tobacco is not addictive (etc . )
+  Therefore, ( E) "Tobacco i s not addictive" may plausibly b e taken to be
+     true.
+
+( I n Figure 1 · 3· the scheme is again shown as a shaded outline; the greyed
+boxes indicate reconstructed c l ai ms that ha,·e been in troduced during
+the analysis rather than being presen t in the original . )
+    One problem here i s the slight dubiousness of the second premise, ( B ) ,
+as a generalization . This premise is true i n certain respects, meaning that
+such a person is an expert on certain aspects of tobacco, like its manufac­
+turing. But it is false in other respects, because such a person is not nec­
+essarily, or as far as we know, a medical or scienti fic expert on addiction
+or on the properties of addictive substances. But this is not the major
+
+=== p. 29 ===
+
+                       /Jasir TooL� in the State of the A rl
+
+problem with t h e argument a s an a d verrrundiam, j udgi ng by H urley 's
+diagnosis. The main problem is that the example triggers the bias sub­
+question of the tmstworthiness cri tical question ( to put it in our terms) .
+    I t should be men tioned that both these cases are relatively simple
+examples of the ad verrcundiam fallacy taken from a logic textbook. I n
+the textbook, they arc used pedagogically to in troduce student" t o the
+most simple or ob\ious kind of case that the studen t" wil l see as falla­
+cious 1igh t away. I n more complex examples, the mistake or blunder is
+not so obvious. And indeed , i n the kind of case emphasized by Wal ton
+( 1 997 ) , the proponent adopts a strategy of blocking progress in a dia­
+logue by trying to prevent the respondent ( i n advance ) from raising the
+appropriate critical questions. One leading exam ple in Wal ton 's book is
+a case where the parents of a sick child are preven ted from asking ques­
+tions about how to help their child by physicians who dismiss their claims
+as wanecdotal." suggesting that the parenL" do not really h ave a righ t to
+discuss questions of medical treatment with them. But this kind of case
+raises a problem iden tified byjmicic ( 2002 , p. 2 9 ) . In the case she postu­
+lates, a proponen t advances an argumen t from expert opinion using the
+appropriate argumentation scheme, and the prem ises arc presumptively
+strong. But he is an arrogant person who blocks off the attempt" of the
+nonspecialist audience to ask appropriate cri tical questions. Thus, by the
+Wal ton criterion , his argument comm i ts the ad verenmdiam fal lacy. And
+yet, suppose that the argumen t, when presen ted to an audience of spe­
+cialist'>, who do not even need to ask these critical questions, is based on
+evidence in the field, making it presumptively strong. It may be too early
+to tel l what the best solution to this problem is. But it does suggest that
+the argumentation scheme for appeal to expert opin ion , even with the
+matching cri tical questions, may be only part of the answer when deal ing
+with the ad vrrrru ndia m fallacy. Somehow the argumen tation scheme, the
+cri tical questions, and the profile of dialogue ( Krabbe . 1 999 ) may all
+need to be taken i n to account in the big picture. The problems with the
+tobacco case and the Bradshaw case arc just the begi n n i ng.
+    I n the tobacco case, then, the argument has some problems fi tting the
+form of the appeal to expert opinion. But once it geL" past this snag. i L"
+undt>rl}ing problem is deeper. So in the tobacco case, as con trastt•d wi th
+the Bradshaw case, the det>per problem that is the basis for judgi ng the
+argument to be an ad vt>rn u mlimn fallacy comes out only when the righ t
+clitkal question is asked . And even the n , the precise diagnosis of the fault
+is pinpoi n ted exac tlv only when the level of the cri tical subquestions is
+reac hed.
+
+=== p. 30 ===
+
+                           Argummlation SrhnnP.�
+
+  The problem, the n , is one of finding a uniform method of balancing
+off the format of the argumentation scheme i n relation to the cri tical
+questions so that the processes of argument analysis and evaluation are
+most user-friendly. Maybe a liule bit of redundancy is OK, as long a'! all
+the ba<�es are 10uched at least once.
+
+                     7. P R O B l . Jo: M S TO B t: S O l.VJo:D
+
+A general problem is how an argumentation scheme can have normative
+bite i n a dialogue if the respondent can con tin ue the dialogue by asking
+c ri tical q uestions or by otherwise challenging the argument. I f these
+arguments are defeasible, how can they ever be used to pin down a
+respondent 's com m i tment'!? One tool that can be used to deal with th is
+problem is the profile of dialogue ( Krabbe , 1 999 ) . A profile of dialogue
+is a seq uence of moves that represen t'! only a small part of a longer
+sequence of dialogue. For example, it m ight represen t a question, a
+reply to that question , and then a next move or two. Profiles are not just
+descriptive tools for iden tifying common patterns of moves i n examples
+of argumentation. They can also be used in a normative w-cty to represent
+how an ideal sequence of dialogue should go, or to diagnose faults, errors,
+or fal lacies. The argumen tation scheme for appeal to expert opinion,
+along wi th the set of matching critical questions, can easily be used to
+set up a normative profile for the typical kind of case in which appeal to
+expert opinion is used to support a claim. The fi rst poin t in the profile
+wil l be an argument or question put forward by the respondent. The next
+poin t wi l l be the appeal to expert opi nion put forward by the proponent
+in reply to this move. At the next poi nt, the respondent 's set of allowed
+options can be represen ted by eigh t branches in a tree diagram. The
+respondent can (a) ask a cri tical quest iou, (b) challenge one of the
+premises of the appeal to expert opi nion, or ( c ) accept the conclusion
+of the argument as a com m i tm e n t. Thus the profi le of dialogue shows
+how the argument has normative bite when used in a dialogue.
+    Another problt·m concerns c n thymemes. Can the critical questions
+he used, i n addition to the argumentation scheme, to specify addi tional
+missing prem ises that can be added to a given argument? Becaust• the
+cri tical questions arc form ulated i n advance, it seems possible that they
+could be used as part of an automated de\ icc to pick out missi ng premises
+in cnthymemcs. But this problem leads hack to the earl ier one. It could
+be called the compk•teness problem fo r critical questions. Once the
+rt�spondt•nt has run through the list of cri tical qm·stions matching a
+
+=== p. 31 ===
+
+                          BaJir TooL� in IM Stall' of thl' A rl
+
+scheme, can he go on to ask even more specific c ri tical questions raised by
+the previous answers? The problem is one of how argumentation schemes
+are binding on a respondent. Presum ptive schemes are defeasible. They
+are not deductively v-alid. The question , then, is how long the process of
+asking c ritical questions can continue before the argument must fi nally
+be acet·pted as binding the respondent to acceptance of the conclusion ,
+if he has accepted the premises.
+   As an example, let's go hack to appeal to expert opinion , where the
+basic cri tical questions are known to have subquestions falling under
+each of them. For exam ple, three critical suhquestions have been ci ted
+( Walton, 1 997, p. 2 1 7 ) as falling under the trustworth iness critkal ques­
+tion.
+
+             S u bq u e s t ion s for the Tmstworth i ness Question
+
+  Subqu,stion 1 : I s E biased?
+  Subq1ustim1 2 : Is 1-: honest?
+  Subqu,Jiilm J: Is E consdt·ntious?
+
+Bias means failure to represent both sides of an issue in a balanced way.
+Bias is not always had , because advocacy is sometimes quite appropriatt•
+i n argumentation. Still. bias can be i mportant i n j udging the worth of
+an argument based on appeal to expert opinion. Honesty means telling
+the truth , or whatever is perceived a'l being the tmth of a matter. Con­
+scien tiousness means care in collecting sufficient information . Thus tht�
+suhquestions j ust listed represen t more specific ways in which the tmst­
+worth inesss of an expert can he questioned.
+    Using this scheme, the completeness problem can he posed. Suppose
+the proponent ha'l answered all of t h e six basic c ritical questions posed by
+the responden t in prior dialogue exchanges. Is the respondent obl iged
+at that poin t to accept the appeal to expert opinion as reasonable? If
+he accepts the premises, is he now obl iged to accept the concl usion
+as a com m i tmen t in the dialogue? Or can he carry on asking more
+specific cri tical suhquestions? The danger is that the dialogue could go
+on indefinitely. 'What burden of proof is appropriate for the proponent?
+At what poi nt can he stop the process and say that his appeal to expert
+opinion should now carry wt•ight?
+   There are two issues that are combined hy the foregoing considera­
+tions. One is the issue of the critical questions, and whether there should
+be some kind of burden of proof attached to asking them. Tht· other is
+the issue of how argumen t'! should be attacked or criticized gem�rally.
+
+=== p. 32 ===
+
+                             A rgu men tation Scht>17U'S
+
+This second issue is often phrclSed i n te rms of Pollock's ( 1 9H j ) distinc­
+tions between deft•aters and undercutters, but this tt•nni nology can be
+a bit confusing i tself. Let's begi n wi th the i dea that there are two ways
+to attack (cri ticize, refute) an argument. One is to use a rounterargu­
+ment. A roun terargument is an argument with a rondusion that is the
+oppositt• ( nt•gation ) of the original argu ment that was attackt�d by it.
+The other way is to auack the premist•s of tht• argument. e i ther by ques­
+tioning them or by arguing that one or more of them is false. This
+seems simple enough , but i t applies only to deductive, or perhaps to
+i nduc tive arguments. With defeasible arguments . the si tuation is more
+complex, because an opponent can attack the inten·nt·e rule. the warrant
+or generalization the argumen t is based on. by citing an exception to the
+rule.
+    Thus, in general , a defeasible argu ment can be attacked in only three
+ways. by an auack on a premise, by a counterargument ·wi th an opposite
+conclusion , or by an argument attacking the inference rule. But some set•
+the inference rule as really j ust acting as anotht·r premise. You can attack
+it, or you can auack any other prem ise of the argument. Thus, from this
+point of view, there are j ust two ways of attacking ( and defeating) any
+argument. You can attack the prem ises or you can attack the argument
+by presenting a counterargument with the opposite conclusion . Let's call
+the latter form of attack a rebuttal.
+    Next there is the issue of where and how cri tical questions fi t in as
+a fonn of attack on a defeasible argument, or something similar to an
+attack. One possible theory is that the c ritical questions represen t addi­
+tional premises that are addi tional assumptions of the argument at a
+deeper level. They are l i ke unstated premises. This is all controversial ,
+however. If the cri tical questions can be treated as implicit premises, that
+supposition has implications for any attempt to formally model argumen­
+tation . Another possible theory is that some critical questions function
+as implicit premises, wh ile others function a'! starti ng poinl'l for finding
+
+rebuttals. The crucial diflerence is that the latter have a burden of p roo f
+attached for the questioner, wh ile the former do not.
+    To take a hard look at one argumentation scheme to see how these two
+approaches will differ, let us return once again to the c ri tical questions
+matching the appeal to expert opinion , and exam ine them indi\idually.
+
+  1.   Expmi.sf' Que.stion: How credible ( knowledgeable ) is E as an expert
+       source?
+  2.   Field QtU'stion: Is E an expert in the field that A is i n ?
+
+=== p. 33 ===
+
+                        Basic Tool� in the Stale of the :ht                   33
+
+  3· Opinion Qui's lion: What did E assert that implies A?
+  4 · Trnstworlhinl'u Qu1'slio11: Is E personally rel iable as a source - for
+      example, is E biased?
+  5 · Con.�isten cy Question: Is A consistent wi th what other experts assert?
+  6. Backup Evidn!cl' Question: Is E's assertion based on evidence?
+
+On the surface, it looks plausible that all thest• cri tical questions, except
+for ( possibly) four and five, can be seen as implicit premises. Let's look
+at them one at a time. ( 1 ) When you put forward an appeal to expert
+opi nion , you assume, as part of the argument, that the source is credible,
+or has knowledge in some field. ( 2 ) You assume that the expert is an
+expert in the field of the claim made. ( 3 ) You assume that the expert has
+said something, made some pronouncement, from which the claim can
+be extrdcted by i n ference or, i n some cases, even by direct quoting. ( 6 )
+You assume that t h e expert's assertion was based on some e\idence within
+the field of h is or her expertise. The argument doesn't make much sense,
+or hold up as a plausible appeal , without these assumptions being part of
+it. But four and five seem to be different. Consider four fi rst. If the expert
+turns out to be bia.o;ed, or to be dishonest, then if there is e\idence for such
+claims, that evidence attacks the argument. The reason is that a finding
+of bias or dishonesty attacks the credibility of the source, poten tially
+destroying the whole core of the argument from expert opin ion . But to
+mount such an attack, the cri tic has to produce some fairly substantial
+e\idence. Otherwise, the question is merely an innuendo. Next consider
+five. If the claim can be shown to be inconsistent wi th what other experto;
+ in the field say, then that is an argument against the claim. I t is a rebu ttal,
+especially if what the other experts say represen t'\ the gt·nerdlly accepted
+opin ion in the fil'ld. But that needs to be shown by tel ling us what the
+other experts have in fact said, and by showi ng how these statements
+conflict with what our expert hao; said. So once agai n , aski ng this kind of
+uitical question put'! a burden of proof on the questioner.
+    The key diflerenn· is one of burden of proof. The tmstworthiness and
+consistency critical questions seem to ha\'t· a positive burden of proof
+attached to the side of the qm�stioner. The other critical questions can
+just be asked out of the blue , so to speak. Once asked , this typt• of
+crit ical question m ust be given an appropriate answer, or the original
+argument fal ls down . Wi th these cri tical questions, the burden of proof
+remains on the side of the propont·nt of the appeal to expert opinion.
+Merely asking the q ue:;tion makes tlw oriJ,ri nal argument ddaul t . Asking
+the tmstworthiness or consistency nitical questions is a hardt·r task. If
+
+=== p. 34 ===
+
+34                          Argumentation SchmU's
+
+you wan t to get the original argument to default by ao;king the critical
+question , you have to back it up with reasons.
+
+                    8. H OW A RJo: S C H E M ES B I N D I N G ?
+
+According to the standard approach to argumell l eval uation in informal
+logic, a given argument needs to be eval uated in l ight of three fac tors ­
+acceptability of the prem ises, relevance of premises to the conclusion ,
+and whether the prem ises provide a sufficient reason to acc:ept the con­
+clusion . .Joh nson and Blair ( 1 994 ) use the tenn 'cogency' to define the
+standard for an argument to be eval uated a'l successful. According to
+their standard, an argument is cogent if and only if its prem ises are
+acceptable, relevant to the conclusion , and sufficient for acceptance of
+the concl usion. Using basically the same kind of critt>rion , Govier ( 2005 ,
+p p . 63-itl ) states t h a t acceptability, relevance, a n d good grounds are the
+conditions of argumem cogency. I t is possible to add a fourth c ri terion ,
+that there are no known better reasons for the opposite concl usion . How­
+ever, it is also possible to subsume this fourth criterion under the third
+criterion of sufficiency. I t all depends on how you define 'sufficiency ' .
+   T h e reason that t h e notion of sufficiency is up for debate is that the
+main types of schemes important for the study of everyday argumen tation
+are nonmonoton ic. This means that the argument fitting the scheme
+always needs to be seen as subject to defeat as new prem ises are added
+by new infonnation that becomes relevant. In such an argument, the n ,
+acceptance o f t h e prem ises, along with the argument that links them
+to the conclusion , is not absolutely sufficient for the acceptance of the
+conclusion. It is only relatively sufficient, mean ing that the conclusion
+needs to be only ten tatively accepted, in ligh t of revisions that may later
+be needed. I n other words, such an argument is coge n t only in the sense
+that i t provides sufficient evidence to accept the conclusion at some
+particular poin t in an i nvestigation that may later lead to the rejection
+of this conclusion. This defeasible notion of sufficiency incorporates an
+argumen t from l ac k o f k now l edge. In the absence of known evidence so
+far showing that the concl usion may not be acceptable, the argument
+provides sufficient grounds for provisionally accepti ng th e conclusion.
+   It appears then that when you try to apply the th ree-part defin i tion of a
+cogent argument to presumptive argumen tation schemes, the notion of
+cogency needs to be redefined, or retai lored to fi t the reali ty of defeasi­
+ble argumentation schemes. Some m igh t argue that an argument based
+on a defeasible argumen tation scheme is simply not coge n t , because
+
+=== p. 35 ===
+
+                       IJfuir Toobi in the Stale of tht' A rl               3 !1
+
+acceptance of the premises is not sufficient for acceptance of the con­
+clusion , at least not suflkient in any absolute sense. Others m ight argul'
+that the notion of cogency, and wi th it the notion of sufficiency, can be
+stretched to fit the req uirements of defeao;ible argumentation schemes.
+     However, when i t is so stretched, there is a question of how such an
+argument based on a defea'lible argumentation scheme is bi ndi ng. If
+acceptance of the premist•s doesn 't absolutely commit the respondent to
+acceptance of the conclusion , so that he can now or later retract or reject
+that concl usion , how is such an argument binding on the responden t?
+     One way to approach the problem of showi ng how presumptive argu­
+mentation schemes can he binding on a respondent is to utilize the
+notion of burden of proof. According to this approach , when an argu­
+ment fitting one of the schemes is put forward in a given ca'le, it shifts the
+burden of proof to the side of the respondent in a dialogue. One could
+say that, by putti ng forward such an argument, the proponent seizes the
+i n i tiative, putting the respondent on the defensive until he either attacks
+the argument successfully or provides some grounds for doubting i t. This
+approach could be called the shifting burden of proof theory of the bind­
+ing nature of argumentation schemes. However, notice that the notions
+of cogency and argument sufficiency have been stretched here to fi t a d ia­
+logue fonnat in which argument-; can be put forward by one side as offer­
+ing the other side reasons to accept a conclusion . There are two sides to
+a dialogue. I n such a dialogue, the other side might choose to accept the
+conclusio n , based on the argument j ust briven . or not. Thus a cogen t argu­
+ment does not have to lead to the respondent's accepting the concl usion ,
+even though he might accept the premises, without havi ng other aven ues
+open for continuing the dialogue. The respondent might attack the
+argument. by puttin g forward counterarguments, or may simply express
+doubts about the conclusion based on the e\idence that ht· has.
+     Still, it would seem that a cogent presumptive argument that meet-; all
+three crite ria in some fnnn or other ( especially depending on what is
+meant by the tem1 'sufficien t' ) should put some pressure on the respon­
+dent to either accept the concl usion or give some good reason why he
+is not prepared to accept it. Recall here that when we talk about cogent
+argumen ts in this sense , we ' re invoking a nonnative notion of coge ncy.
+We are talking about an argument that is successful, mean ing that a
+rational arguer should accept the conclusion , given that he accepts the
+premises, and given that the other two requirements of cogency are met.
+I n this l ight, the shifting burden of proof theory need not imply that
+a real person in a real case of argumenta tion has to, or should, accept
+
+=== p. 36 ===
+
+                            Argumentation Srhmu!s
+
+the conclusion of such an argument. The theory im plies only that the
+shifting burden of proof requires that a respondent who does accept
+the premises of the argument, in a case where the other two require­
+ments also hold, but does not accept the conclusion, is bl'ing i llogical .
+This mean ing of ' i llogical ' impl ies that he is not meeting the procedur,d
+rules of the dialogue that require certain normative standards of r.ational
+argumentation.
+    One approach to this bi ndingness problem can be defined by a war­
+rdnt called a ' relation of conveyance' between the prem ises and the con­
+clusion ( Katzav and Reed, 2004 , 2005 ) . According to Kau.av and Reed
+( 2004 , p. 5 ) , premises represen t conveying facts, whereas concl usions
+represen t conveyed fac ts. Warranto; represen t the relationship between
+the conveyi ng facts and the conveyed facts, and take the form of con­
+ditionals. So conceived , the scheme is an artifact that makes expl icit
+the relation of conveyance represen ted by the warr.ant. Th is approach
+conceives of the binding nature of a scheme in terms of the relation of
+conveyance between the premises and the conclusion. But what exactly
+does 'conveyance ' mean? It can easily be defined in relation to deductive
+validity and inductive strength, but as applied to presumptive schemes,
+i t brings us back ag-din to this notion of shifting burden of proof in a
+dialogue. A presumptive argumentation scheme im poses a relation of
+conveyance on the respondent such that if he accepts the premises. and
+if the scheme is applicable, and if all the requirements of the scheme
+are met, the conclusion is conveyed to him by these fac tors. That doesn 't
+mean he has to accept it, or cannot now presen t reasons for doubting it;
+but i t does mean that he hao; now been given a cogent reason for accept­
+ing it, and he has to deal with that. Otherwise, he is somehow being
+i llogical or unreasonable, or failing to fol low procedural requiremen t-;
+for engaging in r.ational argumentation .
+    The bottom line is that the binding nature of a presumptive scheme
+needs to he sough t in the relationship between the scheme and the
+critical qut·stiuns that match it. When a proponen t present-; a cogent
+presumptive argument that fits one of thf" schemes to the respondent,
+he needs to respond to it in some appropriate w.ay. The obvious way is
+for him to either accept the argument or ask one of the set of appro­
+priate cri tical questions. This way of approaching the problem is quite
+at trac tive, as it allows for defeasibility of presumptive schemes. Sufficiency
+doesn't mean that the respondeil t has to accept the conclusion of the
+argument, period. It means only that he needs to respond to i t in an
+appropri ate manner, which could include expressing doubts about it by
+
+=== p. 37 ===
+
+                          Basir Tools in tlu! State of the A rt                      37
+
+asking appropriate c ri tical questions. Such an argument is still cogent
+i n that it performs a function of conveyance by putting pressure on the
+respondent to acknowledge the argument and respond to i t in an appro­
+p riate way. However, although one appropriate way is sim ply to accept
+the conclusion, other ways are available. One is to question the premises.
+Another is to bring in new information that adds to the prem ises, lead­
+ing to a different conclusion, or so the respondent may argue. Another
+is to bring forward a coun terargument, an argument with a different
+conclusion from the one previously brough t forward by the proponent.
+Stil l another option is the asking of critical questions other than thost>
+questioning the original premises put forward by the proponent. Such
+cri tical questions could express doubts about implicit prt>sumptions that
+the argument was based on , or could cite exceptions to the general rule
+that is the warrant of the argument in virtue of which the prem ises art>
+conveyed to the conclusion .
+    The problem of defi n ing sufficit>ncy rears up again, once we move on to
+accept the notion that a cogent argument fitting a presumptive scheme
+is binding only in the sense that it puts pressure on a respondent to
+behave in certain ways rather than forcing him to accept the conclusion
+of the argument. According to tht> new requiremt>nts for sufficit>ncy
+of schemes proposed here, the respondent has a number of options.
+Were he to exercise these options, the dialogue could go on and on.
+Each of the questions he asks, the coun terarguments he puts forward.
+or other legi timate kinds of moves he m ight make, could extend the
+dialogue. Such a chain of ex tended argumentation could be relevant.
+Another factor is that each of the cri tical questions corrt•sponding to a
+scheme can have some subquestions (Wal ton , 1 997 ) . Presumably, the
+respondent hao; the right to ask these subq uestions, if he so chooses,
+rather than immediately accepting the conclusion of the proponent's
+argument. Here the notion of sufficiency seems to be strt·tched very thin,
+because it would seem that the respondent has many ways out, and could
+continue the dialogue indefi nitely, wi thom ever accepting the concl usion
+of the proponent's cogent argument. It could eve n seem that there is the
+possi bi 1i ty of an i n fi n i te regress, except that the dialogue wi II ewn t ually be
+closed off at the concluding stage. But it could be that, even at that stage,
+ the respondent sti l l ha<; not accepted the conclusion of the proponent's
+argument. I t may seem, in the face of such a possibility, that the notion
+of sufficiency has been watered down to the poi nt where it means ve11·
+little. Maybe the respond�nt can go on and on arguing and asking cri ti cal
+questions, and in the end never be forced to accept the conclusion of
+
+=== p. 38 ===
+
+                           A rgu m�nlnlion SrhnnP.f
+
+the proponen t 's argument even though all the rt•q uirement'i of cogency
+have been met ( possibly except for sufliciency. whatever that means,
+since it is now at issue ) . This question of whether there should he a rule
+that puts an end to the process of c ritical questioning has het•n cal led the
+completeness problem for presumptive argumentation sc hemes ( Wal ton ,
+:wo t , p. t fio: Wal ton and Reed , 2 003 , p. 20:� ) .
+
+                         9 · D I RECT I O N S FO R A I
+
+The im portance and poten tial utility o f argumentation sdu·mes wi thin
+AI and related areas has bee n briefly explored , hut perhaps the starkest
+conclusion is the dearth of research upon which AI can bu ild. Even after
+the work of Hao;tings, Kien poi ntner, Walton and others, argumentation
+schemes are stil l poorly understood , with many issues remai ning to be
+addressed. Researchers in AI are eager to get to work bui lding upon the
+results of argumentation theory. So, as a contribution towards stimulati ng
+work in the area, this section presen ts a f(mr-poi n t l ist of desider.ua
+of issues that AI needs to see addressed. The list is not i n tended to
+he exhaustive; rather, it focuses on key issues moth•t�ted by the areas
+discussed earl ier.
+    First, al though the work presen ted hen� . and the research upon wh ich
+i t builds, has attempted to elucidate somewhat the i nt e rnal structure of
+argumentation schemes, a fuller and more principled solution is still
+required. The critical questions matching a scheme can he seen as rep­
+resenting additional relevant factors that m igh t cause an argument to
+default. A question then arises: Could the critical questions he reformu­
+lated as additional premises in the argumen tation scheme itself? Are all
+the premises of a scheme always l i n ked? Or art� c ri tical questions noth­
+i ng more than rephrasings of premises, or an notations for the student?
+The relationshi p of critical questions to m issing premises that migh t he
+implicit in an argument is a problem tha t needs to be explored.
+    Second , the problem of releV'.mce is as substan tial and pressing in
+phi losophy ao; i t is in AI . To what exten t do argumentation schemes
+structure or contribute to a defi n i tion of releV'clnce that is computation­
+ally tractable? Th i rd , how are schemes organized? Many relationships
+between schemes seem to suggest a taxonomic hierarchy, but how rigid
+is this hierarchy, and how are properties of schemes lower down in the
+hierarchy inherited from those h igher up? Along how many dinwnsions
+does the h ierarchy run? Finally, perhaps the single most important ta'ik ­
+which has as prerequisites at lea'it the three j ust men tioned - is to pin
+
+=== p. 39 ===
+
+                        Basic Tools in the State of the A rt                 39
+
+down defi n i tions of argumen tation schemes. The characterization needs
+to be formal enough to support computational implemen ta tion, wh ile
+retai ning the un ique advan tage possessed by schemes of havi ng the flex­
+ibi l i ty requisite for un tidy, unsani tized real-world argumentation .
+   The form ulation of the set of presumptive schemes by Walton ( 1 996 )
+was rough a n d ready. T h e variables a n d constants used in t h e schemes
+are quite a varied bunc h , and have not all been incorporated i nt o any
+single overarc hing formal structure. Only the most rudimen tary attempt
+was made to classify the schemes by a tree structure exhibiting how some
+fall under others. In many cases, the organi1.a tion of the premises of the
+scheme and the matching c ritical questions was obviously clumsy. In some
+instances, for example, it seemed that the c ri tical question merely asked
+whether one of the prem ises was true or acceptable. Th us it looked as if
+either the premise or the cri tical question was redundant. These same
+problems were perhaps even more evident in Hastings' ( 1 963 ) initial
+attempt to in troduce a comprehensive set of schemes wi th matching
+critical questions.
+   Now that we have a new software system for argumenta tion diagram­
+ming that can accommodate argumen tation schemes, many of these
+tech n ical issues of how to c lean up the schemes appear more pressing.
+Previously, they may have seemed relatively minor matters of detail to
+the working argumen tation theorist or teacher of c ri tical th i n king. But
+now they demand our attention. In this presen tation , some of the most
+elementary of these tec h n ical questions of formalization of schemes are
+raised. As a means of arranging these q uestions, let us lay out our aims
+as desiderata for a theory of argumentation schemes. Such a theory
+should be
+
+•   rich and sufficiently exhaus tive to cover a large proportion of naturally
+  occurring argument.
+• simpiR, so that it can be taught in the class r oom and applied by students.
+• fine-grained, so that it can be usefully employed as both a normative
+
+  and an evaluative system .
+•  rigorous, a n d fully speci fied, s o that it m ight be represented in a com­
+  putational language such as X M L.
+•  clear, so that it can be in tegrated i n to tradi tional diagramming tech­
+  nique.
+
+This is a challenging list to tackle, not least because some of these desider­
+ata are at odds \\<ith one another: the more fine-grained our theory is,
+
+=== p. 40 ===
+
+                             A rgu men tation Srhi'71U's
+
+for exam ple, the less likely it is to be at all exhaustive. Si milarly, rig­
+orous specification is cmcial for computational representation . but a
+sign ificant barrier for application to the real world. Happily, some of the
+aims do hang together: simplicity, for exam ple, works to support not only
+computer represen tation , but also diagrammirg and classroom teach ing.
+This, then , is where we are headed.
+
+                     I 0.   W H ERt: W t: GO FROM H t:R E
+
+In t h i s chapter w e have in trod uced some of t h e basic tools needed to
+analyze schemes, like argumen t diagrammi ng, and have indicated in a
+general way how schemes have become importa n t i n computing, partic­
+ularly in multi-agent computing of the kind curren tly used for I n ternet
+com munication . Now that we have an idea of what schemes are, and how
+they can be used in different areas of appl ication , we can turn to the study
+of the indhidual argumen tation schemes themselves. The first scheme
+we choose for consideration is argumen t from analogy. Of all the defeasi­
+ble schemes, it represen ts the form of argumen t that has gained the most
+attention. There is curren tly a huge l iterature on argumen t from analogy,
+not on ly in argumentation studies, but also i n li nguistics, law, cogn i tive
+science, and artificial i n telligenn·. This l i terature seems so h uge that i t
+is in timidating to try t o say anything n e w about argument from analogy.
+I n addition , when one tries to form ulate an argumentation scheme for
+argument from analogy, the project is initially made ex tremely diflkult
+by the fundamen tal disagreemen t<� that deadlock the li terature on how
+to approach this type of argument. There is a widely held view that i t
+should b e seen a s a form of deductive reasoni ng, a n d many of those
+more pragmatic commentators who do not see it as deductive see it as so
+in heren tly fuzzy and unamenable to precise analysis that they place it in
+the <:ategory of the mystical .
+   Despite these apparent obstacles, we will begin wi th argumen t from
+analogy, for sever.tl rear.;ons. One is that it is very easy for readers to
+apprt•ciate how this fonn of argu m e n t works by com paring one case or
+situation to another. Another is that i t is easy for readers to see how
+fu ndame ntally i m portan t this t}pt> of argument is. For exam ple, it is
+fu ndamen tal to our whole Anglo-American justice system, which is bao;ed
+on the.· pri nciple of taking a nm rt ruling as a precedent and then j udgi ng
+the case at trial hy how similar the new case.· is to the previously decided
+one. This process of case-based rear.;on i ng hy precedent has argument
+from analogy at i t'l central core. Bar.;ically. the system works by comparing
+
+=== p. 41 ===
+
+ont• case t o a n o t h e r. and then j udgi ng the I W W c ase in relation to the
+omc o m e of tht• prior c o mpara blt· cas e .
+    Argu m t· n to; from analob')' are so common a n d familiar that we arc ve ry
+s k i ll ed at drawi n g c o n clusi o n s bast• d o n a n al ogi e s we pen· ei ve . Probing
+m o re d <.· c pl y i l l l o t h e l ogi c a l stru c t u re of a rg u nw n ts from an al ob')', h ow­
+t•vcr, poses p ro b lem s . Although argu m e n t from analogy h as t raditional ly
+bt·t�n i n d uded i n l o gi c t e x tb o ok s as an i n fo rm a l fallacy, the paradigm sh i ft
+produn·s the problem of diagnosing the precise d i ffe re nc e s between the
+reasonable cases and the fall a d o u s ones. How can we be gi n by defi n i n g
+what s i m i l a ri ty i s ? Research on a nal o gy i n arti ficial i n t elli gt• n ce has shown
+t hat j u d gme n t of similarity depends on a pt•rception of a n e\'l' n t , <·ao; c , or
+im a ge that is formed from unnmntahly many small details. Suc h details
+of an i ma ge com prise n o t o n ly ito; shape but also the lines, colors, and
+textures that make i t up. I f two people com pare two pho tographs of a
+common scene, there arc i n d efi n i tely many ways in which the two i m a ge s
+could be j udged to he similar to each other or difft·rent from t•ach otht•r.
+The ability to rec o gn i ze patterns and draw analogies based on them is
+a fundamental skill of animal as well as human reao;oning. Ant colo n i es
+recogn ize patterns of food distri bution in ordt'r to develo p routi nt's for
+fora gi n g and all o ca ti n g collt>ctivc tasks ( M i tchell, 2002 ) . Our immunt•
+system even pe rce i ves patterns related to the shapes of \i ru se s or o rga n ­
+isms that invade the systt'm , and bao;es i to; response on pen·t>ptions of
+si mila ri ty to pre\ious infections ( Mitcht>ll, 2 0 < > 1 ) . Thus it is not surpris­
+ing that argumen t from analogy ha'! been a n i n t e nse s ul':!jec t of research
+in artificial in telligence in recent years.
+     What is called the "sec" function (Wooldridge, 2 0 0 2 , p. 3 4) represen ts
+tht' agent's ability to bri ng in perceptions from its cmironment. Mul ti­
+agent reasoning commonly takes place in a situation where a n a ge n t ' s
+drawing a conclusion is based on its perception that one situation is
+similar to another. A problem is that tht' two situations might represe n t
+tw o different cast·s, even though o n e is similar t o t h e other. Thert>forc,
+althou gh they are similar in many res pects, inevitably they are also differ­
+ent in many respect'! . Any conclusion is therefore d rawn by a defeasible
+inference based on an initial perception of a situation that may net'd to
+be updated and c o rre c ted ao; nt'w info rmation comes i n . In such cases.
+the fallacy may not be the initial leap to the conclusion, but rather the
+refusal to update or correct this reasoning ao; n ew C\idence comes i n .
+     Prakken (2005 ) h ao; shown that artificial i n telligence a n d law i s one
+area of research that stands to benefit considerably from adopting an
+approach that takes argumenta tion schemes in legal re ao;o n i ng i n to
+
+=== p. 42 ===
+
+                           Argummttllion SrhnTII'J
+
+account. He ha'l shown that the more traditional approach to leg-ell logic,
+ba'led on deductive logic and models of i nductive reasoning, needs to be
+supplemen ted wi th an approach usi ng argumen tation schemes. He has
+identified certain schemes in particular represe n ting legal forms of argu­
+men t of a common and cen trally important kind. The schemes he cites
+include argument from position to know, argument from consequences,
+argument from appearance, and schemes for rule application, including
+preceden t-ba">ed reasoning and argument from analogy. Each of these
+schemes wi ll be treated later in this book, and they can all be found in the
+compendium (Chapter g ) . We agree with Prakken that legal rea'loning is
+an excellent testing ground fc>r applyi ng argumentation schemes, and in
+Chapter 2 we take the case of argument from analogy a'> a paradigm that
+can be used to show the promise of the schemes approach as a research
+program for studying AI and law.
+

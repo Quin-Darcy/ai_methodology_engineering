@@ -1,0 +1,1999 @@
+=== chunk: walton-reed-macagno-2008-argumentation-schemes/ch4-opinion-commitment-character ===
+title: Arguments from Generally Accepted Opinions, Commitment, and Character
+source_pdf: docs/sources/walton-reed-macagno-2008-argumentation-schemes/full.pdf
+pdf_pages: 131-172
+page_scheme: book
+plan_page_start: 121
+plan_page_end: 162
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 121 ===
+
+  Arguments from Generally Accepted Opinions,
+                 Commitment , and Character
+
+The schemes studied in this chapter typically represent argument-; of
+a kind that are weak and subject to default. They work best as uses of
+plausible reasoning in situations of uncertainty and lack of knowledge.
+However, they are so fr.tgile and prone to error that they have tmdi­
+tionally been treated in logic as fallacies under the headings argummlum
+ad populum and argu mentwn ad hominnn. Even so, despi te their inhere n t
+fmgility a n d proneness t o exploi t pr�j udice, they c a n b e reasonable argu­
+ment-; in many instances, and sometimes they may be the best kind of
+evidence we have to make a rational decision. First we address the kind
+of argument Aristotle called endoxic, mean ing that it is based on an
+opi nion accepted by the m�jmi ty and/or by the wise ( the experts) . In
+logic, this form of argument is called appeal to popular opinion, but it
+might be less negative to labd it argument from info rmed public opin­
+ion. Then we address ethotic argumentation , recognized by Aristotle ao;
+especially powerful. Ethos is the mor.tl character of the speaker. It can
+be used to support an argument, but in the argu mmlum ad hominem, or
+personal attack on an arguer's char.tcter, i t is used to discredit his argu­
+ment. Many argumentation schemes fi tting this general type have now
+been iden tified and studied, and much of the chapter is taken up with
+reviewi ng and discussing these schemes.
+   The connection between these two apparen tly different classes of argu­
+mentation schemes can be found in the analysis of the meaning of "plau­
+sibility." Plausibi lity is a common basis of acceptability: i t represen t'! a
+mtional interlocutor's acceptance of a speaker's posi tion as a commit­
+ment in a dialogue. I n dialogue g-ames ( Hamblin, 1 9 7 0 ) , the notion of
+u·uth has been replaced hy the pragmatic concept of acceptance. Accept­
+ing a proposition on the part of a participant in a dialogue means insert­
+ing it into his own commitment srore. This store is the set of propositions
+
+                                      l :l l
+
+=== p. 122 ===
+
+1 22                          A rgu mRn.lation Srhl'ml's
+
+that the participant in the game is com mi tted to, mean ing either that he
+has to ddend it if challen ged or that he agrt•t•s to it ten tatively for the
+sake of con tinuing the argum e n t Com mitment s do not always need to
+                                       .
+
+be consistent, but it is a main rule of dialogue, and ont• of the principal
+conditions of r.Hionality ( Perelman and Ol brech to;-Ty tc c a, 1 969, p. 2 o£i ) ,
+
+that a participant can be criticized for bei ng committt•d to contradic­
+tory standpoint'i. Persistence i n demonstrctble inconsistency nm l e ad to
+the tempornry exclusion of the subject from the community of rational
+speakers and can provid e an argument fiJr his lac·k of credibility. In such
+          ,
+
+a case of provable con tradiction , an arguer needs to rejt·ct om· of his
+com mitment-;, or somehow resolw the apparent inconsist e ncy. Failure
+to do so may lead to the loss of the dialo g ue game. Thus an al legation of
+inconsistency is a serious form of argume n tation against an opponent,
+and a very common and powerful one, notably in pol itical and legal
+argumentati o n .
+
+               1.   A R G U M ENTS Jo'ROM PO P U LA R O P I N I O N
+
+As far a s w e know, t h e argument from populari t was fi rs t con s idere d a
+                                                           y
+
+fallacy of the kind appropriately treated in a logic textbook i n the Port
+Royal logic, in 1 66 2 . Antoine Arnaud ( 1 964 . p. 2 H 7 ) warned of this
+fallacy:
+
+  Men follow the ridiculous procedure of believi ng a thing tntc according
+  to the numlX'r of wi tnt's.'ics to i 1s tnuh. A contemporary author has wist'ly
+  poin ted out that in difficult mattcrs thai are left 10 the provim:e of rea.'lon,
+  it is more likely that an individual will diswver the tntth than that many
+  will. The following is not a ,-,did inference: The m<yOJity hold this opinion;
+  therefore. it is the tmest.
+
+From this passage , we can understand the viewpoint of the modern logic
+textbook writers. The focus is o n the truth of a sen tence, and the fal­
+lacies are described from the poin t of \iew of illusions of truth. This
+modem perspective is differe n t from the ancient one. Aristotle distin­
+guished dialectic from logic th rough the difl'eren tiation between neces­
+sary and acceptable consequences. The argumenta tion process does not
+aim at necessary arguments based only on true premises and conclusions,
+but at plausible propositions (Wal ton , 1 99 9 , p. q H ) . Such argument
+prem ises can be based on endoxa. on what is known or widely accepte d
+by everybody, or by the majority, incl uding the wise. From th is perspec­
+tive, arguments that appeal to popular opinion are not always considered
+
+=== p. 123 ===
+
+             Gt>nn-alZv A mptnl Opin ionJ, Com m it ment, a n d Clwmrtn·                     1 23
+
+fallacious. Classifying one's own thesis, o r prem ise supporti ng i t , as cus­
+tomarily or generally accepted , may give a reason to support i t, and t h us
+may righ tly make an opponent hesi tate to refuse to grant i t . People are,
+i n fact, usually careful about rt:jecting what is l'iotlw.�. what is com monly
+held, and often j ustifiably so. Seneca articulated t h is scheme, gi\ing it
+an argument form (Wal ton , 1 99 9 . p. 1 4 7 ) : "Everybody believes that A;
+therefore , A is true." He recogn ized that this kind of argume n t is only
+prO\isional and defeasible, and that it can be misused, but also that it can
+be reasonable in some i nstances. I n the Middle Ages, Boethius defined
+this topic as an argument from j udgmen t and characterized it by the fol­
+lowi ng maxim ( Boeth ius, 1 97 8 , p. 54 ) : "what seems true to everyone or
+the many or the wise should not be gain-said ." Here the locus is refe rred
+not to what is usual, but to the mdoxon. In Thomao; Aquinas, the analysis
+of this argumen tation schemt· is related to the process of delibe ration:
+when exact knowl e d ge about an even t is lacking, it is net·essary to con­
+sider the choice among the known alternativt�s. So conceived, the argu­
+ment from popular opinion is t reated as a pr.tctical form of reason i ng. I n
+t h e ancie n t treatmen t of argumen tation gener.tl ly, dialectical argumen­
+tation , followi ng Aristotle. was based on t>ikoJ, or acceptability, referring
+to the relation betwee n an opin ion and an argunwnt, rather than t hat
+be tween an argume n t and the t ruth of the premises or conclusion. The
+notion of conclusive e\idence at some point replaced, in the h istory of
+the discipline, the concept of argument e\'aluatinn <L'i a wei g h i n g of a
+balance of considerations under realistic nmditions of uncertainty and
+lack of knowledge.
+    The standard t rt·atme n t of tht� fallacy from popular opinion highligh ts
+the rht•torical power and emotional charac ter of this schenll'. The basic
+forms underlyi ng the trt•atment of the ad pop-u lu m fallaq· in the logic text­
+books a re rt�presen tt•d by the following. This ge11<� ric pattern of argume n t
+is called tlw pop scheme ( Wal ton , 1 999, p. 2 2 4 ) .
+
+   S 1 : E ve r bod y ( i n a pa rticul a r rl'ft•rt•ncc group) accepts that A
+               y
+
+   Therefore. A is trut' ( or you should accept A ) .
+   S 2 : EH·ryhody ( i n a particular refen· nce:· grou p ) rt: i < < t s .-\.
+
+   Thercfixe , A is t;tJse ( or you should rt:ject A ) .
+
+These two basic fi1rms arc idt·nti fit·d i n Fn·t·man ( 1 �)9:; . p . 7 o ) w i t h
+t h e ban dwagon appt•al and t h e a b a ndon -sh i p t;t l la<·�·. respt·t· tin·ly. One
+c h a ractt· r i s t i c of t h is scht•mt• is particularly im p o r ta n l . The a<T< pt a n n· of
+                                                                                     '
+
+tht• proposition :\ in the schemt� rl'l"t· rs to "cwryhody. " Wht·n tht• sd wme
+from popular opinion is used, the person to whom i t i s add rt·sst•d is
+
+=== p. 124 ===
+
+1 24                        A rgumentation Srhmu•s
+
+always identified with a particular group of people. Thus the force of
+the argument depends on the set of commitments and values shared
+by the community that the hearer emotionally and culturally belongs to.
+Moreover, the conclusion should not be expressed as a logical necessity or
+a categorical claim of truth , but only as a pragmatic (dialogical ) attitude
+toward the proposition , that is, acceptance or rejection .
+   In practice, the appeal to popular opinion may refer to a large majority
+in the cited reference group rather than to the whole group (see the
+variant noted j ust below) . In general , the argument from popular opinion
+may be undermined under three aspects: the actual agreement of the
+majority with the proposition; the weakness of the argument itself when
+used to prove the truth of a proposition ; and the link between popular
+opin ion and true opinion. The first critical question attacks the premise,
+while the second is directed against the force of the conclusion. The
+latter, in fact, is only plausible: if contrary e\idence is presented, the
+whole argumen t is likely to be refused. The last question cri ticizes the con­
+nection between premise and conclusion , ha\ing as its target the implicit
+premise of the scheme: the fact that the majority is likely to be right.
+While in the first two critical poin ts of the topic the burden of proof
+is on the opponent who tries to undermine the rea'loning, in the last
+case the obligation to provide satisfactory evidence is on the proponent
+of the discussed position. The respondent questions the sense of the
+consequence itself. If the majority is not presupposed likely to be right,
+there is no reason to conclude that i ts opinion is acceptable. These are
+the critical questions for the pop scheme ad papulum argument (Walton,
+t g 8 g , p. 8g) :
+
+  CQ1 : Does a large majori ty of the ci ted reference group accept A as true?
+  CQ2 : Is there other releV"ant evidence available that would support th e assump­
+   tion that A is not true?
+  CQ3: What reason is there for thinking that the view of this large majority is
+   likely to be right?
+
+The pop scheme is just a basic form that represen ts the essen tial structure
+of the appeal to popular opinion type of argument. By adding other
+factors, several possible variants may be created.
+
+                   2 . V A R I A NTS OF T H E B A S I C FO R M
+
+From these observations, we can reconstruct the ad fJopttlum scheme, or
+pop scheme, in a different guise as a presumptive form of argument.
+
+=== p. 125 ===
+
+          General�v A ccepted opinions, Commitmmt, and CharartPT              1 25
+
+  If a large majority in a particular reference group G accepts A as
+     true ( false) , then there exists a defeasible presumption in favor of
+     ( against) A
+  A large majmity accepts A as true ( false ) .
+  Therefore, there exists a presumption i n favor of (against) A.
+
+This form of the argument may cite polls or other statistical findings
+that are supposed to measure public opinion. The following example is a
+common case of this kind of argumen t in matters of public deliberation
+on an issue.
+
+  VANCOUVER - The Vancouver aquarium will stop capturing killer whales
+  but will continue to show them, oflicials said yesterday. Curator Dr. M urray
+  Newman said a new policy proposes rescue programs and breeding pro­
+  grams among whales already in capthity as ways to stock aquariums. He
+  also said the aquarium will not return i ts current stock of killer whales and
+  dolphins to the seas. �The decision not to collect whales is a reflection
+  of human sensithity." Newman told a news conference in the aquarium's
+  underground boardroom , where several times the huge whales swam by and
+  looked in. He said a year-long study showed the public preferred the aquar­
+  ium not to collect whales. �At the same time we feel we have a mandate to tell
+  people about them and keep them before the public eye." There have been
+  three orca deaths at the Vancouver aquarium in th ree years. (Walton, 1 �)96,
+  pp. 83-84 )
+
+In this case, the fact that the public is against the collection of whales
+increases the force of one of the arguments on the issue. A balance
+of considerations between the two sides is shifted in favor of ending the
+existing practice. It is i n teresting to notice that the reference group is the
+public, the relevant community when making decisions about the issue,
+one of public concern. The general scheme can be analyzed following
+the criteria of the scheme. The reference group determines the type of
+argument that is asso ciated wi th the ad populum topic. This kind of group
+is relevant because i t motivates the aspect under which the opinion of
+the community should be important for the hearer, and considers the
+possible types of relations between the person and the group or between
+the group and the proposition constituting the rea'>ons of the appeal
+itself. The subtypes can be considered as resting on a typology of groups
+and relative rhetorical tactics.
+   The first two subtypes concern the appeal to knowledge. In the fi rst
+case, the group is identified with people who are in position to know,
+and therefore the strength of the plausible consequence follows from
+the uniformity of the reputable opinion .
+
+=== p. 126 ===
+
+                                   Argummtation SrheTTU'J
+
+                 2 . 1 . Posi tion-to-Know Ad Populum Argument
+
+  Everybody in this group G a cc ep to; A.
+  This group is i n a special position to know that A is true.
+
+ In the followi ng example, all the people who are considered to be best
+j udges agree on the excellence of the lake ao; a place to swi m . This
+general opi nion provides a good reason to believe i n the plausibility of
+ the conclusion , because they are presumably in a position to know.
+
+  Ne arly evt'ryone who lives in Cedar Rapids t h i n ks that the lake is a good
+  p la c e to swi m in the summer.
+
+  Thert•fore, the lake in Ct•dar Rapids is probably ( plausibly) a good p l a ce to
+  swi m i n t h e s u m me r (Walto n , 1 996 , p . H :� )
+                            .
+
+The second case of ad fJOpulwn subarguments from knowledge is tlw
+appeal to expert opinion. In this scheme, the reference group is consti­
+tuted by experts.
+
+                  2 . 2 . E x p e r t O p i n i on Ad Populum Argument
+
+  Everybody i n this group G accepto; A
+  (; is a group o f experto; in a domain of kn owle d ge .
+  Therefore, A is true.
+
+The followi ng example refers to a discussion of Gal ileo's proof that
+o�jects of unequal weight fall at the same spe e d . Gal ileo's argument
+reje c t<; the ad pofmlu m conclusion , based on the auth o r i ty of the Aris­
+totelian theory The fact that many experts, following Aristotle, bel ieved
+in a formulation of the gravi tational law diflcrent from Galileo's was a
+good reao;on to believe that their theory was correc t . Of c o u rse , it was
+not.
+
+  So many pt�ople accept that heavit·r t h i n gs fitll hts t er to t h e grou nd [ t hcrt·­
+  fi m� i t is plausible t h a t ] lwa\ier t h i ngs fa l l fastt·r to l l w gro u n d . ( D a ue r
+                                                                                                  .
+
+   l ! I H 9, p. H o-H 1 quott·d in Wal t o n . 1 !19!1· p. -t :l )
+                      •
+
+The experts can be wrong. but i f t h e y are i n t h e m<� jori ty. i t can be very
+hard to argue a ga in s t them .
+   The third subtype is a form of argument rdated t o t h e t o p i c s from
+knowlt·dge. The depth and presumed though tfulness of the delibera t ion
+is p re st nt e d as a reason to be li eve t h a t t h e people involved ha\'t' carefu lly
+        ·
+
+=== p. 127 ===
+
+           Gmrmlly Amptrd Dpinion.5, Commitmmt, and Chararter                        1 27
+
+and though tfully Wt>ighed all the possibili ties. I n addi tion , the unifom1 i ty
+of their opi nion is a sign that tht•ir posi tion is preferable.
+
+                 2 .3 . Deliberation Ad Pojmlum Argument
+
+  Group G has deliberated intell igen tly and t•xtensively on whether to
+    accept proposition A.
+  Everybody in G accept'i A.
+
+In the followi ng example, the majority decision is opposed to the oppo­
+nent's opinion: the fact that everybody has though tfully reflected on the
+verdict is a good reason to bel ieve that it is not very plausible that tlwy
+are all mistake n . But here again the appeal can be fallacious, because it
+puts pressure on the ones who disagree wi th the m�jori ty, and who may
+be righ t.
+
+  Suppost" after long deliberation ten or elt•ven membe rs of the jury fam u r
+  nne verdict, and nne or two members favour anndwr. At that poin t , tlw
+  m�joritv will almost certainly a ppeal to the weight of it'i n u mbt·rs in an
+  effort to persuade the clis.'ien ters to agn•e with them. The one or two in the
+  minmity wil l probably b(• su�jectt>d to s u c h arguments as : MLook, t'Vef1·one
+  else on the ju11· agrees that the defendant is gu i l ty; you are the o nl y nm• who
+  d o u b ts it. Sinre t h e re are so many more of us who have c om e to t he guilty
+  ronclusion , d n es n 't that show you that yo u r own c-onclusion must bt• mis­
+  taken? Be re aso n a b l e and accept the \iew of the overwhelming majority.
+                          ,
+
+  After all , eleven h c ad s a n· better than one." ( Waller, 1 g HH. 1 3 2 , cited in
+  Walton , 1 999. p. 36)
+
+Cao;es like th is one show how an appeal to majority opinion can be used
+to put pressure on someone, who may then start to doubt h is or her own
+opi nion .
+  The fou rth subtype is from excuse. The fact that everybody in a group
+accepts a pol icy is a reason to believe that it is acceptable to the reference
+g roup and, therefore , that the speaker's action is morally j ustified. The
+moral character of the group i tself is relevant in this topic: the righ teous­
+ness of the membe rs is a reason to believe that the practice has not been
+accepted wi th hannful i n te n tions.
+
+   2 .4. M o ral justification ( Excuse Sub type ) Ad Populum Argu m e n t
+
+   Everybody in a ( morally good ) group G does x ( or accepts proposition
+     A as a policy) .
+
+=== p. 128 ===
+
+1 28                         Argumentation Sc/umu>.s
+
+  Doing x (or accepting A) shows that x (or policy A ) is an acceptable
+      norm of conduct for G.
+  I ( the speaker) am a member of G.
+  Therefore, my doing x (or accepti ng A ) is morallyjustified as an accept­
+     able action (or policy) .
+
+For instance, the allegation, in the following case, is that a certain type
+of treatment is normal procedure among physicians. Such an argument
+can provide a very good defense for the accused. The presumed good
+inte n tions of the physician provide an implicit reason to believe that the
+medical procedure should not to be considered malpr.1ctice.
+
+  A physician is accused of malpractice on the grounds that tht' medical
+  treatment he applied to a patient turned out badly. The physician dt>fends
+  himself by arguing that this type of treatment is the nomtal and acct>pted
+  procedurt> for the condition of this patient. In other words, he argues that
+  all the other physicians are using the same type of treatment. ( Wal ton , 1 999.
+  p. 209 )
+
+Any physician who departs from the generally accepted standards of
+care, from what is accepted by the majority of physicians as a standard
+treatmen t, can be in a vulnerable situation.
+   The fifth subtype is from moral justification. In this argument, the
+group is identified with positive moral qualities, and thus the argument
+is from ethos. The plausibility of the argument is based on general accep­
+tance of the proposition by a group taken to have a morally right view.
+It is interesting to point out that this argument proceeds from a kind
+of rhetoric of belonging. The desire to belong to a group (in this case,
+a group formed by morally good people ) compels the respondent to
+adhere to the conduct of its members.
+
+             2 . 5 . Moral justificati o n A d Populum Argument
+
+  Everybody who is good, or who re p resents a grou p G with good quali­
+    ties, accepts policy P.
+  Your goal is (or should be ) to be a good person, or a member of a
+    group with good qualities.
+  Therefore, you should accept P.
+
+For instance, the golden rule is widely approved. On this basis it can be
+argued that it is acceptable as a moral principle in certain circumstancc.• s.
+In the following example, the argument would be quite strong if the
+
+=== p. 129 ===
+
+           GmeraUy Accepted opinions, Commitment, and Character                    1 29
+
+circumstances and qualifications were specified. The excessive strength
+of the conclusion , however, makes the argument ( as quoted ) fal lacious.
+
+  The Golden Rule is basic to every system of e thics ever devised, and everyone
+  accepts i t in one fonn or other. It is, therefore, an undeniably sound moral
+  principle. ( Copi , 1 98ti, p. 64, quoted in Walton , 1 999, p. 3 i )
+
+The notion of belonging to a group is the mai n feature that characterizes,
+ in different ways, the appea l s to common fol ks, vanity, and snobbery. I n
+some cases it i s t h e speaker w h o purports t o belong t o the audience 's
+community, while in other cases the hearer is presumed to agree with
+group opin ions or to fo l low the group's actions in order to be accepted
+by it'l members.
+   The common folks appeal may be described under two aspects. On the
+one hand, the common background shared with the audience may be
+considered a reason to believe in the speaker's honesty: he is a me mber
+of the communi ty, and a member is unlikely to deceive his friends. On
+ the other hand, the line of consequence can be compared to the eth ical
+argument: the fact that the speaker shares the interlocutor's values is a
+ good reason to believe that he has moral in tegrity and that everyone can
+j udge h is eth ical conduct.
+
+                2 .6. Common Folks A. d Populum Argument
+
+    ( the speaker) am an ordinary person, that is, I share a (·ommon
+     background with the members of this audience ( group G) .
+  You ( the responden t ) are a membe r of this audience (group (;) .
+  Therefore, you should accept what I say.
+
+In the following exam ple, the speaker ust•s the common fol ks appeal,
+iden tifYing himself wi th the moral values of the community i n ordt•r to
+show h is eth ical correctness.
+
+  I am surt" you will rec og n ize that I a m more competent than my oppom·nt.
+  Wlwn I was i n h ig h school I had to gt•t up at four-thi rty t•wry m o rn i n g
+  to dd iver papers. In c o l l t• gt• I was bitrdy ablt• to makl' C"s and had to do
+
+  jani to rial work in order to makl' t•nds llll't'l to put myst·lf th rough school .
+  Thl'refore. I would makc a bt·tter nmgres.�man. (Walton. 1 U!l!l · p. 2 1 :J >
+
+The direction of the common folks appeal differs somewhat from that of
+arguments ha\ing the form of the rhetoric of belonging. The latter an·
+based on the hearer's wish to belong to a particular (often prestigious )
+
+=== p. 130 ===
+
+                                A rgummlation SrhnTIR.�
+
+group. The rhetoric of belonging also has a neg-c1tive aspect. There is a
+wish not he excluded.
+
+            2 . 7 . R heto ri c of Belongi n g Ad Populum Argument
+
+  Everybody in this group G accept'! A.
+  Being a member of this group G is highly valued by you ( the respon­
+     den t ) .
+  If you d o not accept A, you will b e excluded from this group G.
+  Therefore, you should accept A.
+
+In the following exam ple, the values of honesty and dedication are pre­
+sented as terms of acceptance in the American movement: people that
+do nut share them are excluded from the ( ideal ) community.
+
+  I t h i n k we can all agree that the overwhel m i ng maj o ri ty of the leade rs h i p of
+  the Ame rican m ovement is com posed of dece n t , honest, dedicated people
+  who ha\·e made a great t'on tri bu tion i nvolving great personal sacri fice, hciJ>
+  i n g to b u i l d a dece n t American labour m ovement. W e happt·n to believe
+  th at leade rsh i p in the American m ove m e n t is a sacred tmst. We happen to
+  bel ieve that this is no place for people who wan t to use t h e labour movement
+  to make a fa'lt buck. ( Bai ley, 1 98 3 . p. t 34· quoted i n Wal to n , 1 999. p. 2 1 7 )
+
+The rhetoric of belonging argument has a positive scheme that may
+assume two particularly i nteresting forms, the snob and vanity appeals.
+They focus on the elite or on the admired community. In the first case, the
+group is shown as a target to reach through imitation , while i n the vanity
+argument the hearer is seen as already belonging to an admired class.
+
+                  2 . 8 . Snob Appeal Ad Populum Argu m e nt
+
+  Everybody in this group G accepts A (or has some property P, or
+      possesses some object 0) .
+  This group G is elite, that is, everyone who belongs to it has prestige.
+  Prestige is an important goal for you ( the respondent)
+  I f you accept A (acquire property P or buy object 0) , then you will
+      become a member of the group G.
+  Therefore, you ought to accept A (etc. ) .
+I n the advertisement below, the possession of a Rolls Royce is suggested
+a'i a means for one to he distinguished from ordinary people.
+
+  A Rolls Royce is not for everyone. I f you qualif)· as one of the select few, this
+  distingu ished c la.'i.'l ic may be seen and d riven at Bri tish Motor Cars Ltd. ( By
+  appoi ntment on ly, please ) ( Walton, 1 g gg , p. g t )
+
+=== p. 131 ===
+
+            GmrralZv A ruptPd Op inion.�. Com m it men t, and Chararli'T'                 131
+
+As men tioned earl ier, the appeal to van i ty merges flattery and group
+identi fication : the in terlonuor is urged to assent in order to show his
+distinctive quali ties or cul ture.
+
+                2 . 9. Ap peal to Van i ty Ad Populum Argument
+
+  Everybody i n this group of admired ( popular) people G accept., A
+      ( possesses A, etc . ) .
+  I f you carry out act ion x, then you will belong to this group (;,
+  Therefore, you should carry out action x.
+
+For example, i n the followi ng commercial the hearer is flattered, and it
+is suggested that people havi ng his or her wonderful qual i ty usually own
+the advertised i tem.
+
+  You were p ro ba b ly horn wi th a bigger share o fi m elli gc m: e than most o f your
+  fellow mt•n and women . . . and tau g h t how to use it. And you app re ci a te the
+  d i fft•n•nce. You aren't ashamed of ha\ing brains. You e1"!joy usi ng t h t� m . And
+  that's why The 1/u ndrt'r/ (;rt'ale.�l Cla.u irs be l on g in your honw. (Wal ton , 1 999.
+  pp. 2 I !)-2 I fi )
+
+From the typologies briefly explained here we can observe that i t is partly
+the reference group that defi nes the typ<· of appeal.
+  The argument from popularity also has a pn1ctical fonn: the refert·nce
+group's opinions are considered i n relation to what decision to take
+when delibe rati ng a course of ac tion . This is the form of the scheme
+from popular practice.
+
+  I f a large m�jori ty of a particular reference group (; does ,-\ , or acts
+      as though A is the right (or an acceptable ) thing to do, then A is a
+
+      pmden t course of action.
+  A large majori ty of a particular reference group G act'i as though A is
+      the righ t thi ng to do.
+  Therefore, A is a pmde n t course of action .
+
+The argument from popular practice, when used in delibe ration , may be
+quite strong if there is a lack of sufficient information about the decision.
+
+  I n a sailboat r.tce, there were a lot of markers that had to he passed, and
+  it was v e ry easy for the participants to become disoriented and get lost.
+  The competitors made daborate charts before the rdce, and dming the
+  race spent a lot of rime using a compa'iS to try to figure out the route. Th e
+  captain of one sailboat was asked what strategy he used. His reply: MWell, we
+  try to prepare carefully by maki ng good charts. But if you are really getting
+
+=== p. 132 ===
+
+                            Argumentation Schnne.f
+
+  lost, you often follow the other fellows who st·em to be very successfi.al in
+  getting ahead." (Wal ton, t gg6, p. R4 )
+
+The reference group in this case is constituted by the succt·ssful partic­
+ipants in the sailboat race. The argument proceeds from a motivation
+of posi tion to know: the group is the source for the decision making
+because it is expected to have a better knowledge of the route.
+
+                  3 · A RG U M I-:NT FROM C O M M I TM E N T
+
+Under the heading o f argument from commiunent can b e grouped
+many kinds of arguments relating to diflerent aspects of the di.alogical
+exchange. Some are related to the prohibition on holding inconsistent
+commitments, while in others it is the ethos (eth ical character) of the
+speaker that is related to an arguer's commitment in various ways. Many
+of the rationales of these con nections can be found in the very meaning
+of the <:oncept of character. Character is the habit or disposition of a
+person to act in certain relatively consistent ways over a lifetime, and it is
+judged relative to the role the person plays in a dialogue in a given case
+ (Walton , 1 998, p. 1 78 ) . Therefore. l'thos, the ancient name for character,
+relates to obligations and commitmen lo; that a participant in a dialogue
+incurs concerning sinceri ty, honesty. trustworthiness, and other aspects
+of character relating to reputa tion and collaborative action in a joint
+enterprise. According to Kupperman ( 1 99 1 , p. 1 7 ) , character represen ts
+the l i n k between an agent's externally evident choices a n d actions and
+his internal feelings, though lo;, and motives. Presen t and past actions in
+dialogues determine the set of clear or implicit commitment<� a person
+has, the set of propositions and choices he has previously accepted and
+that h is future decisions must be consistent with . Character depends,
+therefore, on choices, as Aristotle claims (Walton , p. 1 79) : it is a status, a
+pattern of action connected to practical wisdom. It is a quality presumed
+to be stable over time, and for this reason it must be distinguished from
+commiunents relative to a particular situation. Arguments from l'thos
+involve j udgments about an agent's presumed goals, and rest on the
+assumption that the agent's past actions, decisions. and behaviors in
+different situations are known according to some evidence. Only from
+the person 's history of com mitmen lo; it is possible to understand his
+present i n ternal disposition to act and what are taken to be his virtues or
+vices. On the other hand, argument from commitment is often judged
+relative to decisions taken over a short period of time, under conditions
+
+=== p. 133 ===
+
+          Gnu>rally Arr:epted Opinion.5, Commitment, and Character      1 33
+
+of uncertain ty. Thus they are defeasible, and the particular circumstances
+of a case, as known , need to be taken into account.
+   Argumentation based on the presumed trustworthiness of an agent has
+recently become a topic of some importance in multi-agent computing.
+In multi-agent systems technology, software devices called agents, used
+to gather information on the worldwide web and carry out services, need
+to carry out actions based on this information in an autonomous way.
+For example, a personal money management agen t may need not only
+to collect the latest stock and mutual fund information , but also act on
+th is infonnation, as told to do so under certain conditions, in order to
+manage a client's portfolio. But this demands a certain degree of auton­
+omy, as not all conditions requiring action can be formulated exactly.
+In negotiation, for example, such an autonomous agent may need to
+conceal information or even to engage in deceptive argume n tation with
+another agent. Rational agents need to be proactive as well as reactive
+and to have social ability (Wooldridge, 2000, p. 3 ) . Such agents must
+communicate with each other in order to pass along information , and
+must make commitments to collaborative actions. Thus, in designing
+communication protocols, argumentation needs to be based on assump­
+tions about the trustworthiness and sincerity of a speech partner that are
+important for collaborative participation in a dialogue. Thus it is impor­
+tant for an agent to be able to judge whether another agent is a reliable
+source of information. judging the ethos of another agent is therefore an
+important skill. A reputation rating comes from direct observations of
+an agent's past conduct, referrals from other agents, and from ratings by
+these agents (Yu and Singh, 2000, p. 4 ) . The trust rating measures the
+trust one agent should have in another as a source of reliable informa­
+tion , and is updated as a dialogue proceeds. If one agent lies, or gives
+false information , and another agent fi nds this out, it can downgrade the
+first agent's trust rating. Other agents can be told about this new rating
+( p. 6 ) .
+   Thus character and commitment are closely intertwined in argumen ta­
+tion . While the particular commitments focus on the acceptability of the
+particular proposition in relation to the rules of the game, perceived eth­
+ical qualities of character affect the credibility of the person as a source
+and as a collaborator in argumentation. Such judgment-; in argumen­
+tation are often based on the perceived con nection between an agent's
+words and deeds, as will be shown later. A liar, or a hypocrite whose deeds
+are inconsistent with what he says, can not be considered trustworthy, and
+therefore his comm i tments are the basis for judging that his argument
+
+=== p. 134 ===
+
+1 34                                           Argummtntion Srlmni'J
+
+cannot be deemed acceptable. The fundamental presupposition of com­
+mun ication , trust ( Rigotti , 1 9 9 7 ) . fails to hold in these cases. leading to
+certain kinds of argument'> based on trust and commitment. From these
+lin kages it becomes possiblt• to u nderstand the close relation between
+argument'> from popularity, arguments from expert opinion , and argu­
+ments from character. All proceed from basic principles of argument
+acceptability bast•d on an agen t 's credi bility, supported by t h e agent's
+presumed knowledge, trustwonh iness, and person al quali ties of charac­
+ter. We begin wi th argument from comm i tment.
+   The scheme for nY{.fu mmt from mmmilmmt is the followi ng (Wal ton ,
+1 9 9 6, p. !)6) :
+
+    Alajor Prrmi.1r: If arguer a h as commi l led h e rse l f to proposition :\ at sonlt'
+       poi n t in a dialogue, then it may be i n ferrt'd that she is also rom milled to
+       proposition 8, s h ou l d the question of wlwther ll is t rue he r om t· an issut'
+       latt'r in the dialogue.
+    i\Jinor Prnn ur : Arguer a has comm illt'd ht·rst'lf to proposition ,\ at somt· poi n t
+       i n a dialogue.
+    Ctmclruion : At somt· latt·r poin t i n the dialogue, w he re the issue of B arises,
+       argut•r a may be said to he com m i l led to proposition /J.
+
+T h e followi ng dialogue is an example of this kind of argumentation . Ed 's
+political faith, often shown in the past, is a good reamn to bel ieve t hat he
+will be consistent with his convictions by choosing the same: side in a new
+s i t ua t i o n involvi ng matters concern i ng public policy. Being a commun ist
+mav not be one of Ed's explicit com mitmen ts, as far as we know. but
+it may be a com m i tment that we can infer from Ed's previous dialogue
+moves and actions. Suppose that Ed often goes around shouting "Pown
+to t h e people ! " and expresses h is admi mtion for the \iews of Marx and
+Len i n . Bob knows this, and so infe rs that in the curren t labor dispute ,
+Eel will very likely take the un ion side. It would be surprising if he did
+not. In t h is dialogue, Bob bri ngs this commitment to ligh t and makes it
+expl icit t h roug h a dialogue with Ed.
+
+Bob: Ed. you art· a com munist, an·n 't you?
+
+Ed: Of course. You know that
+
+Bob: \\'l'll. then you should he on                     the sidt• of t h e u n ion in this l'l'et' n t laho r
+d i s p ut t· . ( Wa l t o n , 1 ! I!Jiir. p. ;i ;1 )
+
+I f Ed were t o n.·fuse t o acn·pt t he assu mpt ion t h a t h e i s a <· o m m t m i st ,
+Bob would h ave to d e f e n d his po in t a n d provide evidence t o defend his
+vit•w. B u t Eel fr ee l y accepts that com m i t nw n t , a n d t h us Bob is j u s t ified
+
+=== p. 135 ===
+
+              (ri>:nrral�y Am'fJlffl OfJinions, Commitmml, and Chararlrr                   1 35
+
+in drawing the conclusion that Ed "il l be on the un ion side in this case.
+Of course , the argument is defi:-asible. Ed could deny that he is on the
+union side, i n this (·ase , because their demands have gone too far. Bob's
+move is dialogical , and open to cri tical questioning. These are the c rit ical
+questions corresponding to argumen t from comm itment (Wal ton , 1 �)96.
+P· !J 6 ) :
+
+   CQ t : Is fl re a ll y c o m m i ttt· d to :\, an d if so, wh at e\idt·nn· supports the claim
+     t hat she is so com m i ued?
+   CQ:t : I f the e\idence for commitment is indirect or wt•ak, c oul d the rt• also
+     ht• cont r.t ry e \i d ence or a t least room fo r tlU' rehu ua l that t h is cast• is an
+                               ,
+
+     e xc epti o n ?
+   C(,b: Is the p ro pos i t i on A, as ci ted in t h e p re mi se , iden tical to the proposi­
+     ti on A as ci ted in tht· conclusion? If not, w h at t'Xal·tly is the nature of the
+     re l a t i o n s h i p ht· twct• n the two p ro pos i t i on s ?
+
+Bob's use of argument from commitment could be judged on i t� merit'>,
+onct· we know more about the e\idence i n the case. Ed may have changed
+his mind, or the presen t labor case may be an exception for Ed , as al ready
+noted.
+   The general scheme of argument from com mitment is the basis for sev­
+eral other schemes, like argument from sunk cost and circumstan tial ad
+hominem arguments. The argument from sunk cost may bt· considered a
+practical form of argument from com m i tment in which a decision about
+a possible course of action follows from past com m i tments, often called
+pre-commitme n ts. In the example cited i n Chapter 1 , Susan wao; dealing
+wi th the choice between completing her Ph .D. program and goi ng to law
+school . Her concl usion was reached not only by means of a com parison
+of consequences, in the argument from wa'>te. Her decision to attend law
+school mean t retracting her commitment to her presen t course of action.
+
+   A PhD student, Susan, has spent more than five years tl)i n g to finish her
+   thesis, hut t h ere arc some problems. Her ad\iser keeps lea\i ng town, and
+   delays are con tinued. She conte m plate s goi ng to law school. where you can
+   get a d e gree i n a de fi n i te period. B u t then she thinks: "Well , I h ave put so
+   m u c h work i n to this thing. I t would he a pi ty to give up now. " (Walton · �mo.
+   p. 8 1 . cited in C h a p ter 1 ) .
+
+The context is one of delibe rations and actions, but at the same time
+i t is ba'>ed on argument from comm i tment. Argument from sunk msts
+is represented by the followi ng scheme (Walton, 2 00 2 , p. 48g) . The
+symbol 1 1 represen ts the time of the proponent's commi tment to a
+certai n action ( pre-com m i tmen t ) , wh i le 12 represen ted the time of
+
+=== p. 136 ===
+
+                           Argummtation Srhnru>.t
+
+proponent's confrontation with the decision whether to carry out the
+pre-comm itment or not.
+
+  There is a choice at 12 between A and not-A.
+  At 12 I am pre-committed to A because of what I did or committed
+    myself to at 11.
+  Therefore, I should choose A.
+
+What needs to be emphasized here is that argument from commitment
+is the ba'lis of many other argumentation schemes, like the sunk costs
+argument, where i t is combined with practical reasoning. The problem
+is that argument from com m i tment is such a basic and ubiquitous form
+of argument that it often goes unrecogn ized a'l being the ba'lis of an
+argument. I ts unrecogn ized im portance as an argumen tation scheme has
+led to many confusions. I t has often been equated with the ad hominem
+argument, for example. This equation is very confusing indeed. because
+it is the ba'lis of the circumstantial type of ad hominem argument that is
+also based on an al legation of inconsistency. To sort this confusion out,
+we need to begin by examining argument from inconsistency.
+
+               4 · A R G U M E N TS FROM I N CON S I ST E N C Y
+
+Argument from i nconsiste n t commitment proceeds from a rule of rejec­
+tion : in a case of i nconsistent comm i tments, at least one of the com­
+mitments has to be rejected in order to preserve the consistency of the
+set. The analysis of this subject reintroduces the perennial problem of
+implicit commitments. In applying argument from commitment to cases,
+the i nconsistency often follows from the proponent's past statements or
+actions that the opponent brings to ligh t through questioning. In th is
+argumentation , a previously h idden i nnmsistency may be brought to the
+surface . In other cases, however, the inconsistency can easily be detected
+in an arguer's commiunent set. The following is the scheme for argu men t
+from inromistent com mitmmt (Wal ton , t gg8, p. 2 2 0 ) :
+
+  a is committed to proposition A ( general ly, or in virtue of what she has
+     said i n the past) .
+  a is committed to proposition --, A , which is the conclusion of the argu­
+     ment a that a presen tly advocates.
+
+I n the following sequence of dialogue. Ed does not support the union
+cause, a socialist poli tical party. He is faced with h is old commi tments,
+that is, h is past support of the communist cause. The two posi tions are
+
+=== p. 137 ===
+
+           CnmnaUy A ccepted opinions, Commitment, and Character                       1 37
+
+presented as con tradictory, and his opponent concludes that one com­
+mitment should be rejected.
+
+  You admit you are a communist, and you have always supported communism
+  very strongly in the pa�t. Yet, i n this case you are not supporting the union
+  cause? Come on, Ed ! You can ' t have it both wa)"S. (Wal ton , 1 gg8, p. 1 0M )
+
+As mentioned earlier, the opposition between commitments is not always
+cut-and-dried. Cri tical questioning can often reveal subtleties that explain
+or resolve the apparent i nconsistency.
+   The fi rst three c ri tical questions in the following set attack the incom­
+patibility of the two commitments. The attack is meta-discursive: the
+respondent comments on and challenges the possibility of the propo­
+nent's move; he refuses the latter's presuppositions. The burden of proof
+is on the proponent: if it is satisfied, the argument may be acceptable. In
+the fourth question, the opponent attacks the link between premise and
+conclusion. He may argue for an alternative to the retraction of the com­
+mitment, by showing that the seriousness of the conflict does not lead to
+an unacceptable incoherence. The last two questions are directed against
+the force of the conclusion: it must be evaluated on the basis of the grav­
+ity of the inconsistency, and claims stronger than the simple questioning
+of the speaker's credibility should be carefully assessed.
+   These are the cri tical questions (Walton , 1 gg8, p. 2 2 0) :
+
+  C.Q1 : What are the proposi tions alleged to be prac tically inconsistem. and are
+    they prac tically i nconsistent?
+  CQ2 : I f the identified propositions are not practically ( p ragmatical ly) inconsis­
+    tt•nt, as things stand, are there at least some grounds for a claim of practic<tl
+    inconsistency that can be evaluated from the textual e\idence of the dis­
+    course?
+  CQ:r Even if there is not an explicit practical inconsistency, what i s the con­
+    nection betwt·en the p<tir of propositions allt·ged to be inconsistt·nt?
+  CQ4: If there is a p rac ti cal inconsistency that can be identified a� the focus of
+    the attack, how serious a fl aw is it? Could the apparent conflkt bt• resolved
+    or ex p lai ned without destro)i ng the consistency of tht• com m i tmen t in the
+  CQ:;: Does it follow from a's inconsisten t com mitment that his argument
+  CQfi: Is the condusion t lw wea kt· r claim that a's cre d i b ili ty is open to q uestion
+    or t h t• stronger claim that tht· nmcl usion of his argument is fa lst•?
+
+The pragmatic inconsistency introduces a problem , different from one
+posed by logical inconsist,�ncy, of interpretation of actions that the com­
+m i tments supposedly imply. The opposition is not between commitmenL'I
+following from statemenL'I, but between present positions adopted and
+
+=== p. 138 ===
+
+                            A rgummlalion SrhnTU'.�
+
+the implications of past commitmento; or actions. The arguer's words and
+deeds are inte rpreted , and from this in terpretation the commitmento;
+underlyi ng the decisions to pursm· a course of action are reconstructed.
+The follo\\ing scheme represen ts the general form of the argummt from
+pragm a tir inronsistenry (Walton, 1 99R , p. : n 8 ) :
+
+  a advocates argument a , wh ic-h has proposition A as its conclusion.
+
+  a has carried out an action , or set of actions, that imply that a is
+     personally commi tted to - , A ( the opposite or n egation of A) .
+
+The following argument is a good example of the opposition between
+the interpretation of facts and stated comm i tments. The love of nature
+is opposed to the choice of supporting i to; destruction by using wooden
+matt•rial i n the construction of the house. The fact that the house is made
+of wood is prP.�ented as con trary to the envi ronmentalist claims: that does
+not mean that it i.� contrary. The second cri tical question of the scheme
+can thus be directed against the argument i n this passage .
+
+  As I sat eating my whole-wheat cinnamon bun , my eyes wandered around
+  the large room . The Wd.lls were peppered with posters, peti tions and other
+  pleas for ev<'ryone to love the goddess, keep the karma and save the trees.
+  As I grud gi ngly tried to remain spnpathetic to all this peace and love, I
+  noticed that this spiri tual haven for all those who fight to make the world
+  a better, greener place, was built almost e n ti rely out of wuod. The tables
+  and rhairs were made of rough-hewn logs. The walls were pant'led in cedar.
+  The roof was supported by mass ive exposed beams that could only have
+  come form old-grown trees. Even the counters and shelving wt·re made of
+  wood, wood, wood. And, as the crown ing touch, a huge wooden staircase
+  spird.led up to the second floor. The h)·pocrisy of it all suddenly struck
+  me like a :zoo-year-old spruce succumbi ng to a chainsaw. Evel")·one wan t'l
+  to save the trees, but each one of us is as guilty as MacMillan Bloedel
+  for their destruction. The demand for single-family homes with private
+  driveways and yards leads developers to level woods and farmland for new
+  suburbs. All these new homeowners insist on hardwood floors and wood­
+  burning fireplaces. Gone are patios made with paving stones nestled into
+  the gra"-" · Now backyard lawns that rd.rely feel the tread of human feet
+  are dominated by cedar decks, and the bigge r the better. (Walton , 1 gg8,
+  P · w)
+
+The weak points of the argument can be recogn ized in the effective com­
+mi tment of the proponent to the claimed proposition and the strength
+of the conclusion. The disti nctive cri tical question, however, regards
+the problem of the i n terpretation and presen tation of the facts. This
+
+=== p. 139 ===
+
+           Gmemll)' A mpted Opin irm.�. Com mitmml, and Character              1 39
+
+t• xamplc, using another desui ption of the wooden house, might be a
+strong prem ise to support the conclusion that the ind ividuals in ques­
+tion eflectively love nature, because they refuse to use artificial materials.
+    These are the c ritical questions matching the sc heme of argument
+from pragmatic inconsistency (Walton, 1 99H. p. 2 5 1 ) .
+
+  CQ1 : Di1i a advocate a in a strung way by i ndicating her personal com m i tmt•nt
+   to tl?
+  CQ:z : I n what words was the action described , and dot•s that dt·scription imply
+   that a is pt"I'Sonally com m i t ted to the opposi tt• of A?
+  CQ'i: Why is the pr.tgmatic inconsistent'}' indkated by satisfactory answers 10
+   CQ 1 and CQ2 a rdevan t reason for not accepting argumt� n t a ?
+
+The double standard argument may be considered a subspe c ies of argu­
+ment from pragmatic inconsistency. In this argument, thert· is an all e ge d
+i ncoherence in the policies adopted with respect to two similar cases: the
+agent, choosi ng two incompatible courses of action in two simi lar situa­
+tions, is prt· s e n te d as supporti ng or defending con flicting comm itment�.
+The double standard argument may be classi fied, for this rt•ason , a'> a
+species of argument from pragmatic inconsistency. The use of one poli cy
+i n one case implies that the agent is committed to a determined position
+wi th respect to that specific type of case . Since the second case is allegedly
+similar to the fi rst, the agent is expt�cted to have the same commitments
+toward i t and thercfi:>re to act i n a similar way. The failure of this expec­
+tation is related to a difference in the standpoi nts: wi th respect to the
+same type of situation the agent holds i ncompatible comm i tments, and
+he is theref<>re alleged to be pragmatically i nconsistent.
+    Double standard arguments, l ike argument from pragmatic i ncon­
+sistency, may be described a.. a bridge between argument'> from alleged
+inconsistency and ad hominem attacks. While in the fi rst case the critique
+of dialogical or pragmatic decisions aims at a retraction of com m i tment,
+in the latter case the same strategy is used to dr.tw a moral j udgment
+about the pe rson's character ( ethos) and from this to draw a conclusion
+about the nonacceptability of the person's argument.
+    The followi ng is the scheme argument from doubk standard (Wal ton ,
+ t ggH, p. 2 5 3 ) :
+
+  The responde n t has one policy with respect to a.
+  The respondent has another (different) policy wi th respect to b.
+  a is similar to b (or comparable to b in some relevant respect ) .
+  Therefore, the respondent is using a double standard.
+
+=== p. 140 ===
+
+                             A rg�tmrotation Srhl'ml's
+
+I n the following excerpt, the credibil i ty of the govern men t is attacked by
+showing i nconsistency i n i ts decisions:
+
+  Libenll fi nance critic Gerry Phillips accused the government yesterday of
+  a "double standard" because it has launched a major effort to stem wel­
+  fare cheating, including a toll-free prmincial fraud hotline, whil<" taking a
+  sympathetic view of tax evasion. "On the one hand, people who cheat on
+  welfare are crooks and you have to prosecute them, but if you ' re just cheat­
+  ing on taxes, it's human nature," M r. Phillips said of government. Tax fraud
+  is likely w times larger than welfare fraud, he said, and the government
+  should make "the same concerted etTort" tracking i t as has been put in
+  place for social-assistance cheating. (Walton, 1 �J9R. p. 2 2 2 )
+
+Here are the c ri tical questions for the argument from double standard
+(Wal ton , 1 998, p. 2 5 3 ) :
+  CQt : What is the respondent's policy wi th respect to a?
+  CQ2 : What is the respondent's policy with respect to IY.
+  CQ."\: How is the one policy differe n t from the other?
+  CQ4: How is a similar (or comparable) to b?
+  CQ.I): Can the differences in policies b<" explai ned, or is it sign ificant as evi­
+    dence that the respondent's policies are not consistent in some important
+    way?
+
+The most powerful c ri tical q uestions are the third and the fourth , focused
+on the problem of the similarity of the cases and the differences in the
+relevant policies. The argument presupposes the comparability of two
+events: if this assumption is not accepted by the in terlocutor, the argu­
+ment collapses, and is defeated. Therefore, this kind of attack reverses
+the burden of proof on the opponent. The policies are assumed by the
+opponent to be i ncompatible: if the decision showing them as confl icting
+is not shared by the other party, or does not stand up to her question ing,
+the speaker has to defend his posi tio n . The last q uestion is relative to
+the force of the conclusion : the i nconsistency may be explai ned. or not
+taken to he serious, and therefore the poten tial attack on the respon­
+den t 's credibility may he red uced or avoided.
+
+                         5· ET H OT I C A R G U M ENTS
+
+The argument from Plhos, based on the credibility of tht.• perso n , hao; two
+forms, a posi tive and a negative one. While the positive topic provides a
+good reason to accept the proposed position , the neg-.ative one is closely
+related to the generic ad hominem argument. Ethotic topoi are the
+link between argument-; from comm i tment and personal attacks. The
+
+=== p. 141 ===
+
+           (�al�v Ampted Oj1inions, Commit1111'1l t , and Charactt>r             141
+
+ad hominem argumem is based essentially on two topics. One is that
+from the bad character of an arguer i t is reasonable to infer his non­
+credibility, and hence the lack of worth of his argument. The other is
+that from incoherence in an arguer's actions or words it is possible to
+draw a conclusion to a serious ethical failure in the agent's character,
+and to take that as an impugning of his credibility. The following scheme
+represents the Aristotelian eth otic argu1111'1l t (Wal ton . 1 995 . p. 1 5 2 ) :
+  Major Premise: I f x is a person of good mardi character, then what x says should
+      be accepted as more plausible.
+  Minor Prnn ise: a is a person of good moral character.
+  C..onclusitm : Therefore, what a says should be accepted as more plausible.
+
+The following are the critical questions matching this scheme.
+  CQ1 : Is r1 a person of good mordl character?
+  CQ2 : Is chamcter relevant in the dialogue?
+  CQ.'.\: Is the weight of presumption claimed warrdn ted strongly enough by the
+    evidence given?
+
+The most important qusestion in connection with many ca'>es where a fal­
+lacy ha'> been alleged is the second. Argument from ethos is strong only in
+the context of a lack of dire(·t evidence in an investig-.uion or dialogue,
+when other means to assess the speaker's position are not available. Rele­
+vance, therefore, may be considered a most critical point in such
+cases.
+   A typical circumstance where ethotic appeal is reg-c1rded as a strong
+argument is that of poli tkal debate. For the electorate, in many instances,
+there are no other reao;ons to believe in the speaker's words and promises
+except for his consistency and mor.ll in tegrity. For many of us in demo­
+cratic societies do not have direct knowledge of all the facts on which
+social polices are based. Thus we go by a politician's commitments, or
+what we think they are. A person with clear core convictions that appear
+to be consistent with positions he has advocated is more likely to pur­
+sue a defi n i te policy. On the other hand, " fl i p-flo p ping" m ay be easily
+understood as a sign of incoherence in decisions and moral weakness of
+character, suggesting a lack of in tegri ty. The following example present'>
+a use of ethotic argumentation in democratic poli tics.
+
+  Part of the problem is the sense that his chardcter is elusive: that then�
+  is little he will dmw a line or fight for. David Gergen, who is leaving the
+  Clinton administrdtiun, said recrntly that U .S. vot<'rs want to know what
+  M r. Clinton 's "core convictions" are as he faces the next two years. "Bill
+  Clinton . . . ha� few c o re values on which his presidency is built," said james
+
+=== p. 142 ===
+
+                                A rp;u mm talion SrhnnP.�
+
+  Lake, a fOimt•r t·om mun ications ad\ist•r to l'resident Reagan and Geo rge
+  B u sh . Tt•d Ke n n e dy -1 nt•ve r agree with h i m , but he stands for something,
+         "
+
+  he ' s consisten t , you know where he stands. Ronald Rt·agan - pt·nplt� disagree
+  wi t h h i m . time after time, but you know where ht' stood. No ont' can say that
+  they know what Bill Clinton stands for. " Privatl'ly. many DemotTdl� say t h e
+  same thing and fear t h at , as a res u l t, the Clinton p res i dency cannot recover.
+  (Walton , 1 99M, p. 1 9H )
+
+I n this example t h e apparen tly inconsistent actions of Bill Cli n ton are
+presen ted as a strong reason to distmst his character, and in turn to offer
+an argument for the people not to vote for him. If they cannot understand
+his policy as clear and consistent, they have no way of estimating his
+future decisions. Therefore, the argument runs, they cannot trust him
+and believe in his present avowed commi tments.
+   The basic t}pe of ad hominem argument derives a judgment on the
+speaker's words by drawing an inference about his presumed bad charac­
+ter. This fonn of attack is the argummt from nPgalit'l' PlhoJ, also defined as
+the f!:PTII'rir ad hominPm argument (Wal ton , 1 gg8, p. 249) . It can be called
+the direct ad hominem argument, and in many textbooks it is called the
+abusive type of ad hominem argument (a negative wording, suggesting
+that the argument is fallacious) . I t is a very simple fonn of argument, but
+is the basis of many more complex types of ad hominem argument.
+
+  a is a person of bad character
+  Therefore, a 's argument a should not be accepted
+
+The following critical point'i are parallel to those of the positive version
+of the ethotic argumen t (Wal ton, 1 gg8, p. 250) :
+
+  CQ1 : Is the premise tme (or well supported ) th at a is a pe rso n of bad c h a rac t er?
+  CQ:z : Is the issue of character relevant in the dialogue in which the argument
+   was used?
+  CQ3: Is the conclusion of the argument that a s ho ul d be ( a bsol u t e ly ) rej e c t ed
+   even if other e\idence to su p port a has been presented. or is the c o nc l usion
+    mt'rely ( the relative clai m ) that a should be assigned a reduced weight of
+    credibility, relative to the total body of e\idence available?
+
+The main difference between the positive and the negative fonn of appeal
+to character l ies in the way the argument is directed. The ad hominem
+attack leads to the rejection of an arguer's argument, while in the positive
+scheme the argument is infe rred to be more plausible.
+   There are many subspecies of the direct type of ad hominem argument
+that attack different aspects of character. Argument from veracity, one of
+
+=== p. 143 ===
+
+                 Gmt>ml�v Am-ptnl OfJiniom, Commitmmt, and CliamclPT                                      1 43
+
+these varian ts, is extremely powerful in political discussions. For exam­
+ple, in the followi ng ethotic argument put forward against Bill Cli n ton,
+the alleged failure of correspondence between personal convictions and
+commitments is used to attack h is character for veracity, and thus to try
+to destroy his credibility.
+
+     Today's b i pa r t i s a n const•nsus is that C l i n to n is neither bad nor dangt�rous,
+     j u st silly. Plai nly pm. almost no one thinks he bel ieves a word ht· says. Or,
+                 ·       ,
+      more pn ci sely he belit·vcs t·veryth i n g he says at the momt• n t he em phatically
+     says it, and con tinues to bclie\'l" i t at full throttle righ t up to the m onlt'n t
+      he rep ud iates i t . H e h a� the wt'i rd s i n c e ri ty o f the i nt d l t• c t u al soc i opat h ,
+      comi n c ed t h a t w h e n h e speaks , truth is an o p i n i o n but c o n \'t'n i e n rc i s a n
+      im pe ra tive ( Wal ton. t � )91i. p. t �19)
+                     .
+
+I n this case we are not told which argument attributed to Cli n ton is being
+attacked. But assuming there is such an argument under attack, the case
+could be said to have the form of argummt from t!f'racity represen ted by
+the following argumen tation scheme (Walton , 200 2 , p. 5 1 ) .
+
+     a has bad character for veracity.
+
+Veracity is different from integrity, but closely related to it. Veracity is
+regard for the tntth of a matter.
+   I n other decision-making contexts, prudence is a relevant quali ty of
+character that may be signi fican t in deciding whether a source is credible.
+\\-ben other, more decisive arguments or information are not available,
+this kind of attack on perceived pntdence may be reasonable. On the
+other hand, such arguments are often bao;ed on flimsy evidence and mere
+innuendo. Each case must be judged on ito; indi\-idual merits, depending
+on the evidence given to support a charge. Consider the following very
+common sort of example.
+
+     A friend ha� re co m m ended a n e w i n ves t m e n t o p po rt u n i ty but you r signif­
+                                                                                     ,
+
+     icanL other reject.'l the recommendation with the remark, �How could you
+     poss i b l y value the advice of that crazy?" '
+
+I n this example, the argument may not be fallacious i f the j udgment
+made against the person is based on hard e\idence or documen ted pao;t
+experience. The fact that the friend often makes rash decisions could be
+a good reason to believe that he is not very reliable in the matter of safe
+
+ 1   Example from hup;/ /www 2 .�jsu.edu/deprs /itl/graphics/adhom/;tdhom .html, with
+     �mall changt•s.
+
+=== p. 144 ===
+
+invesunents. Such decisions are very important i n business, for example.
+On the other hand, the argument could be fallacious if no real evidence
+backs it up and if the argument is only meant to smear the person's
+credibili ty. Innuendo is often the basis of such character attacks.
+  The reasoning i n such a case fits the scheme of argument .from prudence
+(Walton , 200 2 , p. 5 1 ) :
+
+  a has bad character for prudent j udgment.
+
+Prudence is a matter of both character and reputation , as well as one of
+practical reasoning.
+   The argument from perception regards the skills of understanding a
+situation: in the following example, Marx 's work is criticized on the basis
+that he is held to be unin terested in i nvestigati ng facts and, therefore,
+that he wuld not have a good understanding of capitalism. The attack
+on his knowledge of the real factual circumstances is relevant in the
+context of a discussion where the careful observation of the economic
+phenomena is the basis for an economic theory.
+
+  What Marx could not. or would not grasp, because he made no effort to
+  understand how i ndus try worked, was that from the very dawn of the lndtL'i­
+  trial Revolution, 1 76o- t 7go, the most etficient man ufacturers, who had
+  ample access to capital, habitually favored better conditions for their work­
+  force; they therefore tended to support factory legislation and, what was
+  equally important, iL� effective enforcement, because it eliminated what they
+  reg-c� rded as unfair competition . So conditions improved, and because con­
+  ditions improved, the workers failed to rise. as Marx predicted they would.
+  What emerges from a n·ading of Capital is Marx's fundamc.• ntal failure to
+  understand capitalism. He failed precisely because he was unscienti fic: he
+  would not investigate the facts himself, or use objectively the facts investi­
+  !fdted by others. From start to finish, not just the Capital but all his work
+  reflects a disregard for truth which at times amounts to contempt. (Walton ,
+   1 ggH, p. 2 1 7 )
+
+Ao; with all direct ad hominem attacks, this argument needs to be judged
+on the e\idence put fmward to back it up. Marxisto; could find all kinds
+of examples that would suggest that Marx did have a good grasp of
+the facto; on which he based his theories. Thus such arguments tend to
+be defeasi ble, · and subject to attack and rebuttal by those opposed to
+them. Still. they can be a reasonable basis for making a decision under
+uncertainty.
+
+=== p. 145 ===
+
+              Gmerally Accepted Opinions, Commitment, and Character                       1 45
+
+   Still another scheme fitting under direct ad hominem attack is the
+a rgu men t from perception (Walton , 200 2 , p. 5 1 ) :
+
+     a has bad character for realistic perception of a situation.
+
+This fonn of argument is similar to the previous one, except that the
+focus of the attack is on the person 's perception of a situation. A failure
+to be aware of relevant facts is a problem for a practical reasoner, and
+it can be attacked as a character defect that is relevant to an arguer's
+credibility.
+   I n every context of discussion , logical reasoning is one of the most
+important qualities for the constmction of an argument. The claim of a
+speaker's irrationality or deficiency in rea<;oning may be highly unreliable
+when considering how to judge his argument. For example, in the follow­
+ing case, the person is labeled as not very enligh tened in understanding
+social problems. What does this mean? What evidence backs it up? We
+may not know, but still, the move is directed ag-c1 inst his character and
+may impact ourjudgmen t of his ability to produce reasonable argumenL<;
+in that specific field.
+
+     We need not consider this piece of social legislation. I t was, as you know,
+     i n t roduced by St·nator Farre l l , who is just not a ve ry socially e n l ighterll'd
+     person . ( E n ge l , r gHo, p. r :�o)
+
+The argument in this example is fallacious, because other evidence that
+may be available is not taken into consideration , and because the appeal
+to etho.s is presen ted as conclusive.
+  The attack in the case just presented is a species of ad hominem that
+can be called argument from wgical reasoning. It is represented by the
+following scheme (Walton, :wo � . p. 5 1 ) :
+
+     a has bad character for logical reasoning.
+
+This form of argument may be based on allegations that a person t s
+mentally ill, for example, if that is used to suggest that any argument he
+puts forward can be discounted as illogical. For example, the philoso­
+phy of Friedrich Nietzsdw might be attacked on �he ground that he was
+mentally ill in later life. This fact, coupled with the fact that his philo­
+sophical views later became fashionable among the Nazis, could seem to
+many to condemn his philosophical work. Sorting out whether such an ad
+
+'\
+
+=== p. 146 ===
+
+                                   A rgumentatio11 Scht''ITU'.�
+
+hominem attack based on argument from logical reasoning is reao;onable
+could he difficult. It could involve the untangling of a lot of allegations
+and h istorical facts, as well a'! looki ng at what Niew;che really wrote and
+how that should he i n te rpreted . Still, the mere argument that he was
+mentally ill might seem to many to h(• a powerful argument against h im
+as a phi losopher to he taken seriously. Many, on hearing t h is allegation ,
+might simply dism iss his \icws a'i "crazy. "
+   One of the most common subspecies of ethotk argument is the argu­
+m(•nt from failurt· of moral standards in past conduct, perhaps based
+on convictions or actions taken against th(• person on grounds that he
+com m i tted ethical breaches. Such exam ples can be bao;ed on very li ttle
+e\idence, or on allegations that may not be true. but the personal attack
+argument can have a powerful effect. In the followi ng example, Francis
+Bacon 's i n tel lectual work is dcenwd u n trustworthy on the ba'lis of an
+event of his life. The problem here is that character is eval uated from
+a particular all(•ged fact, and e\�aluation of his though t ba'!ed on other,
+more relevant c riteria of assessment may he ignored.
+
+  I t m a y b e ar),'l. tt•d that [ Fra n d s ] Bacon 's p h i l osophy is u n trustworthy because
+  h e was rt·mm·ed from his c h aau-ell orsh i p lor dish mll'sty. ( Copi and Coh e n ,
+   1 96 1 , p . 54· q uoted i n Wal t o n 1 �mti, p . 55 )
+                                         ,
+
+A major historical con troversy ha'i swi rled around the allegation made in
+this case. Recently, it hao; been argued that Bacon was unfai rly attacked hy
+powerful circles in the government of the time who were opposed to his
+\iews. I n addi tion to being a philosopher and scien tist, Bacon was act ive
+in law and poli tics, having been a member of the House of Com mons and
+lord chancellor. In 1 6 2 1 , he was accused of bribery and corrupt dealings
+and admi tted his guilt i n a trial . He was fi ned, and never sat i n Parliamen t
+again . A famous essay, "Lord Bacon " by Thomas Babington Macaulay
+( 1 856 ) . attacked Bacon 's character as corrupt and dishonest. However,
+doubt'! persisted about whether this attack was reallyjustified by the facts.
+A thoroughly researched recent work by Mathews ( 1 gg6) clears Bacon
+of the charges of corruption and fraud and rehabilitates h is character.
+Mathews shows that the allegations agai nst Bacon were uncri tically passed
+on from one wri ter to another wi thout any real i nvestigation of their tru th .
+Those who wrote about Bacon took their material from sources that j ust
+assumed that Bacon was a villain . This case shows how persua'iive an ad
+hominem attack on a philosopher can be i n getti ng everyone to dismiss
+his views.
+
+=== p. 147 ===
+
+           Grnemlly A m'fJtnl Opinions, Com m itmmt, a n d Chamrtn-           1 47
+
+  The argumentation scheme i n this kind of case is that of the ad hominrm
+argumntl from moral rhararlrr (Wal ton , 2 00 2 , p. 5 1 ) :
+  a has bad charac ter for personal moral standards.
+  Therefore , a's argument should not be accepted .
+
+Sorting out the Bacon case has involved a lot of historical research, and
+the i nvestigation still may not be entirely conclusive. Examining the hK ts
+to see if the prem ise of the argument is true, or can be supported by the
+evidence, can i nvolve a lot of i nvestigation . Still, a reported breac h of
+moral standards may be quite enough to discredit someon e 's argument,
+especially i n poli tirs or matters of eth ical phi losophy, where character is
+an issue. Only a small basis in fact may be enough to com·in someone in
+the court of publiC' opi n ion.
+  The struct ure of the direct ad hominem argument is relatively simple
+compared to that of the circumstantial type, which is always based on
+an allegation of some sort of inconsistency. The alleged i nconsistency is
+then used to attack the person 's dtarac ter, whkh is then used to attark his
+argument. However, not all arguments from an im puted inronsistt·nry
+should propt•rly bt• classi fied as ad hominem argument-;. There must
+always be a pt•rs<mal attack, that is, an attac k on the arguer's eth ical
+character, at tht.· cen ter of any ad hominem argument.
+
+                    6 . C I RC U M ST A N T I A L AD H O M I N E M
+
+Ao; said before , ethotir argu nw nts are based on a prem ise expressing
+a moral j udgment about a person , invoh·i ng his or her history. Circum­
+stan tial attarks involve an inference from a person 's allt'gcdly inconsistent
+commitment-; to a moral critique of the person, and thence to a rebu ttal
+of h is argument on the basis of his lack of c redibility. Tht• cirru mstan­
+tial attack may assume two forms, depending on whether a logical and
+pragmatic inronsisteiiC' V is allq�ed . In tlw lo¢ml i11mmi.�lt'llf)' rinu msta n ­
+tial ad lwminrm mgu mrn t, a contrast is presen ted bt·twt·e n two proposi­
+tions to whkh the opponent is su pposedly com mi tted ( Walton , 1 99H.
+p. 2 59 ) :
+
+  a advoratt•s argu nwn t ct . whirh has proposition ;\ as its rondusion .
+  a is rommi ut·d to proposition ;\ (gem· rally. or in virtue of what she has
+     said in till' past ) .
+  a is com mi tted to proposition - , A , wh ich is tht' conclusion of the argu­
+     lllt'll t ct that a presen tly advocates.
+
+=== p. 148 ===
+
+The following example is in teresting because it raises a fundamental
+problem regarding such an alleged opposition of commitments. It is a
+common tactic to cite statements belonging to different periods of a
+person's life in order to prove his i nconsistency. Such arguments rest
+on a quite questionable presupposition , namely, the conception of life
+as a coherent unity in which commitments remai n constant. According
+to this assumption , a person is expected never to change his mind. The
+removal of this main assumption , in these cases, is often enough to cause
+the attack to collapse:
+
+  Under the heading, "The changing 'Times'," Macdonald raked the NnJJ
+   Yorlr TiTIU!s over the coals in the win ter issue of Politics for 1 948 because of
+  inconsistent views on the Hiroshima bomb:
+     The Japanese would like the world to believe that had it not been for the
+  atomic bomb, they could have fought indefinitely . . . Revelations by their
+  surrender envoys provide the answer to this fallacy. They were well licked
+  before the first atomic bomb exploded over Hiroshima. ( Editmial , August
+  2 3 , 1 945)
+     TheJapanese had been greatly weakened but they were still determined to
+  fight to the death . . . That is the justification for the bomb's use. ( Editorial,
+  January 28, 1 94 7 ) ( Boller, 1 967, p. 1 45 )
+
+In t h e logical variant o f t h e argument, t h e conflict i s shown as a logical
+inconsistency between statements. In i ts pragmatic counterpart, the cir­
+cumstantial ad hominem, an opposition is presen ted between a sentence
+and the implication of a set of actions. The commitmen ts underlying the
+words and the actions are c riticized as inconsistent. This is the form of
+the (pragmatic) circumstantial ad hominem mgument (Walton , 1 998, p. 2 5 1 ) :
+
+  a advocates argument a , which has proposition A as ito; conclusion.
+  a has carried out an action, or set of actions, that imply that a is
+    personally committed to -, A ( the opposi te or negation of A ) .
+  Therefore, a i s a morally bad perso n .
+  Therefore, a's argumen t a should not be accepted.
+
+Circumstantial ad hominem arguments can be justi fied as reasonable if
+the proposed practical inconsistency is really present in the commitments
+of the speaker and if the accusation of inconsistency is relevant to the
+issue. For instance, in the following example, Mr. Smith 's commitment
+to the law on the drug tests conflicts with his refusal to apply the rule to
+himself. The incoherence shown is relevant. because laws are assumed to
+
+=== p. 149 ===
+
+           (;merall)• A crepud Opinions, Commitment, and Character                      1 49
+
+be equal for everyone. The incoherence in Smith 's proposing a law casts
+doubts on his personal fairness and on the equitability of the mle.
+
+  Rod ne y Sm i t h , of the President's Com mission on organi zed crime, testi fied
+  before a House subcom m i t tee that h e t h o u g h t there were go od reasons
+  why d m g test� should be man dat o11· for federal workers. A critic at the
+  subcom m i ttee meeting as k t• d whether M r. Smith would h i mself be now
+  wi l l i ng to give a urine sample. He replied that he would not. ( Walton , 1 9 M 7 ,
+  p. 3 2 1 )
+
+On the other hand, there are problems concerning the interpreta tion of
+actions and commitments as opposed. The moral judgment of the person
+supposedly following from the alleged contradiction may also be unwar­
+ran ted, and this too may undermine the argument from i nconsistency.
+In some cases the alleged con f1ict of commitmen ts may not hold up to
+scmtiny because the statements belong to different historical moment'!.
+In other cases, the inconsistency is a clear sign of an inconsistent set
+of commitment'> that does call for some response, as in the example of
+Mr. Smith.
+  The following cri tical questions match the circumstan tial ad hominem
+argument (Walton , 1 998, p. 2 2 5 ) .
+
+  CQt : What are the pro pos iti o ns al leged to be practicall y i nconsiste n t , and are
+    they p ractically i nconsiste n t?
+  CQ2 : If the iden tified proposi tions are not practically ( pragmatically) inconsis­
+    ten t , as things stand, are then� at lea.�t some g rou n d s for a claim of practical
+    i nconsistency that ran be eval uated from the textual evidence of the d i s­
+    co u rse ?
+  CQ3 : t:ven if there is not an explicit practical inconsiste ncy, what is the con­
+    nection between the pair of propositions alleged to he inconsistent?
+  CQ4 : I f there is a practical i nconsistency that can he i d en t i fi e d as the focus of
+    the attack, how setious a flaw is it? Could the apparent conflict be resolved
+    or e xpl a i n ed without destroying the consistency of the com m i tment in the
+  CQ.rj: Does i t follow from tls i ncon�iste n t com mitment that a is a moral ly bad
+    person?
+  CQ6: Is the conclusion the weaker claim that a's credibil i ty is opt·n to q uestion,
+    or the stronger claim that a's concl usion is false?
+
+The argument from circumstan tial attack has two subcategories, stem­
+ming from the speaker's commitment. In one type of argument, the
+proponen t is alleged to be personally committed to a proposition. In
+another, the speaker may argue that he belongs to a group or to "every­
+body" of a certain cla'!s, all of whom are t:ommitted to a proposition: in
+
+=== p. 150 ===
+
+I !JO                            A'"lrunmtation SrhnTil's
+
+this cast•, his belonging to ' everybody' or to tht• group in qm�stion incli­
+rectly hinds him to the comm i tment, or so the argument alleges. Th is is
+an important differen<.·e, because most alleged prac tical inconsistencies
+arist· from the fact that the person has membersh ip in some com munity
+the attacker is speaking abou t. On the other hand, the wrong evaluation
+of such an assu mption , or what is taken to ht• implied hy it, is a frequent
+cause of argument fallaciousness.
+  Two subtypes are based on such forms of indirect commi tment to
+a group. One is the scheme from llnivmal rirru mstwz linl ad lwminnn
+(Walton, 1 ggH, p. 2 !J3 ) :
+
+   n advocates argument a , which has proposi tion A as its conclusion,
+      which says that everybody should be commi tted to A.
+   a is bound by the 'everybody' in the fi rst premise.
+   a has carried out an action, or a set of actions, that imply that a is
+
+      personally commi tted to -, A.
+                  '
+   The rt·fon� . a s argument a should not he accepted.
+
+The f(>llowing cao;e is the classic smoking example.
+
+Parent: Tht•rc is strong C\irlcncc of a l i n k hetwet·n s m o k i ng and t·h ronk obstmc­
+ti\'c l u ng di sease . Smo k i ng is also as.�ociated wi t h man y otlwr serious d isord e rs .
+Smoki ng is unht·al thy. So you s h o u l d not smoke.
+Child: But you smokt• you rse l f. So much fo r your arg ument against s mo ki ng .
+(Walton 1 99Gc . p. !) H )
+
+In this dialogue, the father claims that smoki ng is un heal thy, committing
+everyone to advocating and practicing abstinence from this \ice. The
+child poi n ts out the i ncoherence in the father's argument: he, although
+belonging to ' everybody' , is therefore logically bound to a commiunent
+to not smoking. And yet he admits that he smokes. For this reason , his
+argument is not c redible.
+   This example could be j ust an argument from inconsistency and not an
+ad hominem argument if the child were merely arguing that the father
+is inconsistent bu t not argui ng that he is hypocritical , or otherwise hao;
+bad charclcter. Let's assume from the child's strong rejection of the par­
+ent's argument that the child is basing that rejection on a premise of
+the paren t's faulty character. Ao; such, the argument is complex to assess,
+because its fallaciousness depends on the ki nd of argument the father
+used. If he is trying to persuade the son through a rcltional explanation
+of the physical consequences of smoki ng cigarettes, the attack is not
+
+=== p. 151 ===
+
+           GtmPrally Arceptl'd opinions, Com mitmmt, anti Chamrlf'T                   1 !j l
+
+fallacious. There is no inferen tial relation here between personal cred­
+ibility and o�jective assessment of the facts in the claim that smoking is
+bad for health . On the other hand, if the son is throwing this objectivt"
+evidence out tht> windowjust because he thinks the parent is hypocri tical ,
+that could be a big mistake. The parent's advice not to smokt•, based on
+his claim that smoking is unhealthy, could be quite a good argument.
+   The analysis of this argument poi nto; out the importance of relevanct"
+in the topic assessment. The last of tht• listed critical questions (Walton
+t gg8 , p. 256) is focused on this problem, while the first two regard the
+relation between the un iversal commitment expressed by the speaker
+and his personal obligation to the proposition.
+
+  CQ1 : Does a's argument conclude t h a t everybody should be committed to A ?
+  CQ2 : Is there any basis for a's being an ex<· ept ion to t h e com m i tment?
+  CQ:-\ : Does the action, as described, i m ply that a is personally com m i tted to
+    the opposite of A?
+  CQ4 : Why d oe s i t fol low (if it docs) that the alleged p ra c t i c a l inwnsist<·ncy
+    shows that a is a bad person?
+  CQ.:; : Is a's being a bad person a good rea.'lon for concluding that a ' s argument
+    should n o t be a c c e p ted?
+
+The smoking case is the classk example of circumstantial ad hominem
+argument because it is relatively simple in a certain respect. The parent
+argues that smoking is bad but smokes himself. Thus the inconsistency
+is direct. Smoking and not smoking are direct opposi tes. Many other
+cases are not so simple. In these other cases, the one proposition implies
+the negation of the other, but only by an indirect sequence of reasoning
+connecting the two.
+   The example of circumstantial ad hominem in the Smith case is a fai rly
+clear case of group inconsistency. Mr. Smith commits the group of federal
+workers, which he belongs to, to undergo a dntg test, but he refuses to
+take the test h imself. In this case, the commitment is indirect and follows
+the form of group circumstantial ad ho m i nem (Walton , t gg 8 , p. 2 5 6 ) :
+
+  a advocates argument a , which has proposition A as its conclusion ,
+    which says that everybody in group G should b e committed t o A .
+  a belongs to group G.
+  a has carried out an action , or a set of actions, that imply that a is
+    personally committed to A .
+  Therefore, a i s a morally bad person .
+
+  '
+
+=== p. 152 ===
+
+The analysis of the following case helps to illustrate the pivotal role of the
+determ ination of the reference group. The reporters' attack is addressed
+to people in public service who receive the listed "benefits." But reporters
+do not belong to the group of "public servants": the identification of the
+two groups fails to recognize the relevant point of the argument, that is,
+the cri tique to the governmen t's use of taxes.
+
+  A cri tic argues that reporters are circumstan tially inconsistent when they
+  cri ticize the free lunches, air trips, and other "free benefits" that people
+  in the public service are often said to receive by reporters. For, the cri tic
+  alleges, these reporters themselves are often the recipients of these same
+  benefits . (Walton , 1 gg8, p. 1 95 )
+
+The c ritic's argument i s fallacious because h e unifies under the label
+"employees" two groups that are arguably different in the relevant aspect.
+In the following critical questions (Walton , 1 998, p. 256) , the first three
+questions are relative to the group belonging question: this kind of attack
+reverses the burden of proof of the discussion. The opponent, by address­
+ing such a critique, refuses the presupposition regarding the relation
+between the speaker and the reference community.
+
+  CQ 1 : How exactly does the argument a state or im ply that everybody in group
+    G should be commi tted to A?
+  CQ2 : Does a belong to group G?
+  CQ>-J: Does a belong to other groups that would have goals affecting a's com­
+    mitment to A?
+  CQ4: Does a 's action, as described, i m ply that a is committed to t h t." opposite
+    of A?
+  CQ_�j: Why does it fo l l ow (if it does) that the a l l e ge d practical i ncons i st en cy
+    shows that a is a bad person ?
+  CQ6: Is a's being a bad person a good reason for concluding that a's argument
+
+Group belonging is a relevant aspect of another kind of circumstan tial
+attack: the guilt by association argument. A moral judgment of the person
+is rendered on the basis of his association wi th a morally reprehensible
+group. For instance, in the following piece of rt•asoning, the rebuttal of
+Smith's claim is based on his belonging to the Communist Party and his
+commitment to communist economic theory, which prevent'! him from
+considering objectively the problem of inflation.
+
+  Sm i t h 's claim that unemployment is a gra\"t'r problem than i n flation m ay
+  be countered on the grounds that Smith is a Co mm u n ist . (Toulmin , Rieke,
+  and Janik, 1 9 i9· p. 1 i 3 · quoted in Walton , 1 996, p. 3 5 )
+
+=== p. 153 ===
+
+          Geni'rally Accepted opinions, Commitmmt, and Character               1 53
+
+The example follows the topical scheme of guilt by association (Walton,
+t gg8, p. 2 57 ) :
+
+  a is a member of, o r is associated with, group G, which should be
+    morally condemned.
+  Therefore a's argument a should not be accepted.
+
+The following argument is a clear case of fallacious attack. The fact that
+the opponent shares communist ideas is not relevant for the assessment
+of the whole theory. The case above referred to a specific aspect of the
+speaker's claim, and the validi tY of the rebuttal depends on the strength
+of the conclusion , which is not specified. In the following ad hominem
+argument, the pr�judice against communists determines a conclusive
+rejection of the opponent's thesis.
+
+  This tht"ory was in troduced by a person of known Communist sympathies.
+  There cannot bt• much to it. ( Engel. 1 g8o, p. 1 29)
+
+The first three c ri tical questions are focused on the assumption that the
+speaker effectively belongs to the group and that the latter is morally
+condemned. The last critique is directed against the inferen tial link and
+only weakens the consequence, without reversing the presumption .
+  CQ1 : What evidence is there that a is a member of G?
+  CQ:z : If a is not a member of G, but is associated with (;, how close is this
+   assodation?
+  CQ�J : Is G a group that should he morcllly condem ned?
+  CQ4: Is it possible that even though a is a member of G, a group that ought to
+   be condemned, a is not a bad person?
+
+The morality of a person may be judged on the basis of the si tuation
+of the speaker and his words. In the following conversation , a classic
+example is given of the situationally disqualif}ing ad hominem:
+
+  [Holland, IJpcnnJJn- 1 990/ A reti rt•d major geneml argues in from of his
+  relatives that the Dutch government must give more substantial support to
+  the allied cflorts in the Gulf Area. MWe ought to send ground forces," so he
+  claims. His grandson retorts: Mit's all very well for you to talk, grandpa! You
+  don 't have to go there." (Wal ton, 1 �)98. p. 240)
+
+The context of dialogue here is extremely important. Two conflicting
+points of view are involved in the conversation: the geopolitical and
+the civilian evaluation of the Dutch i n tervention . The term "soldier" is
+categorized respectively under the paradigm of "troops" and "person."
+
+=== p. 154 ===
+
+1 54                        Argummtation SclinTU'J
+
+The discussion, presumably, was cen tered on the assessment of Dutc h
+war poli tics under the aspect of the people who were goi ng to die.
+For this reason , the attack on the grandfather's dialectical contribution,
+detached from the relevant perspec tive, is valid. The claim is moved
+agai nst the incoherence between his condition of retired general and his
+consideration of the soldiers' lives. The accusation of inappropriateness
+here simply poi n ts out the i rrde\'ance of the dialec tical move. The gen­
+eral scheme is from situatimzal�v di.� qua/ifying ad hominem (Wal ton , 1 gg8,
+P· 2 5 8 ) :
+
+  I n dialogue D, a advocates argument a , which has proposi tion ,1 as its
+     concl usio n .
+  a has certain features i n h i s personal si tuation that make it inappropri­
+
+     ate f(>r him to make a d ialectical contribution to D.
+  Therefore, a is a morally bad person .
+  Therefore, a's argument a should n o t b e accepted .
+
+The followi ng are the cri tical questions for the argument:
+
+  CQ1 : What features of a's personal situation make it i nappropriate for h i m to
+   contribute to IJ?
+  CQ2 : Do the feanm�s of a ' s situation ci ted gi\'e any good re ason to make one
+   conclude that i t is inappropriatl' fill· him to con t ri bute 10 IJ?
+  CQ'\: Could a ' s argument hl· worth considering on i ts meri L�. even though
+   then· is reason to think it i nappropriate for JJ?
+
+The Gulf War example could be i nt e rpre ted as based on allegation of
+bias. The grandson may be suggesting that since the grandfather has
+noth ing personally to lose , naturally he is in favor of troop deployment.
+This argumen t suggests that the grandfather has an i n terest at stake , and
+that th is factor lessens the worth of his argument. Th is bri ngs us to the
+connection between the ad hominem argument and arguments from
+alleged bias.
+
+                       7. A R G U M ENTS FROM B I A S
+
+The defi n i tion o f bias i s related t o the notion o f critical doubt. The
+distinctive characteristic of c ri tical discussion is critical doubt, a negative
+attitude of one party toward the "iewpoi n t of the other one. Cri tical
+doubt means that an arguer has a con tra atti tude toward his opponen t 's
+view because he has critical questions about it, but it also means that he
+is willing to overcome th is atti tude i f the opponent can persuade him
+
+=== p. 155 ===
+
+           (;Pni'Tal�v A rct'/JlPd Opinion.�. Cmnmitmrnl, lmd Chamrtn·           1 !) 5
+
+by rational argumentation . A ni tical doubter ev.tluates the opponent ' s
+standpoint, and if he considers it mon· plausible than his own posi tion ,
+he will drop it in order to accept the i n te rlocutor' s view. The argument'!
+a speaker provides i n support of his own thesis are the rational means
+used to pe rsuade the hearer of i t'! ac ce ptabili ty. The heart•r, on tht• otht�r
+hand, can he open to rationally assessing it only if he can ow rcome cri tical
+doubt. He needs to temporarily s uspend his positive attitude toward his
+own viewpoint and his neg-.tt ivc:- attitude toward the opposi te position ,
+and to look at the issue from both the poi n t'! of view. He tw eds to h ave
+empathy, and to be open to defeat in the face of the stronger argunw n t .
+If he i s a rational arguer, h i s ability t o appre ciate tht� rea<>ons su pport ing­
+the view of the other side is not hindered by his goal of wi n n ing tht· ganw
+of dialogue. Temporary suspension of the posit ive inclination toward his
+own view and commitment'> is, therefore , one of the most import a n t
+characteristics o f ra tional argumen tation in pt•rsuao;ion dialogue. I t is t i l l'
+necessary condition of critical doubt.
+    Bias is normal i n a cri tical discussion , hecause it is proper to ht· an
+advocate of one ' s own viewpoint. But tlu·re is also a had kind of bias that
+represents a f�lilure of the prope r exercise of critical doubt. This ki nd of
+bad bias can he de fi n e d i n relation to the atti tudes j ust cited: it is tlw
+"failure in argumentation of openness to new e\·idence or legitimate c rit­
+ical doubts that han� arisen in tht· dialogue" (\\'alton , 1 99 1 . p. q ) . The
+problem is not tht• speake r's partisa nship toward his own poi n t of vi t·w.
+but his reaction to the otht·r party's position or critiq ut• . I f tlw spt•akt• r's
+atti tude is e xcessi vely strong in rdation to the type of dialogue ( i n this
+case, persuasion dialogm· ) , his behavior may he labt'led as hiast·d, reft·r­
+ri ng to the had or hannful typt• of bias. In a negotiation dialogu t• . on the
+other hand. pt·rsuasion and open ness to otlwr argu mt•nts is soml'!imt•s
+self-dt• fc ating . In these situations. an arguer is trying to m a k t• the best
+deal , that is, in dialectical terms, to win the game without rt�gard for the
+tnuh of the mattt•r. Such a dialogue game aims not at establ ish ing the
+best o�jectivt• position supporte d by the evide nce on both sides, hut at a
+victory for tlw more skillful nt�gotiator. A participant is not expectt�d to
+he all that open to evidenn� that supports t h t• other poi n t of vit•w, and
+bias, although it can he a problt�m. is not problematic in the same way
+that it is in a persuao;ion dialogue. Bias, for this re ason , may he nmsidt·rcd
+as tht• tac t ic of push ing ahead aggrt·ssively wlwn used in the wrong typt·
+of dialogue. The hiast·d arguer set•s e\'l'ryth ing in tt•rms of wi nning gains
+fin· hi msl'lf or h is own group while not taki ng rational argumcll ls against
+his own \'it•w i n to �Kcoun t .
+
+ '
+
+=== p. 156 ===
+
+                              Argumentation Sche?nRs
+
+  The accusation of bias, as a consequence, is a serious attack on an op�
+nent's credibility. For instance, in the following case, an expert opini on
+argument is undermined by the claim that the scien tist in question is
+biased. By this means the effect of the argument is strongly reduced:
+
+  A speaker in a panel discussion on the issue ofindustrial pollution claimed to
+  be a neutral scientist, but a critic showed that this scientist was on the board
+  of directors of a large industry that had often been accused of pollution.
+  (Wal ton , 1 995, p. 1 53 )
+
+The argument used in this case is from bias. Bias is presen ted as a reason
+to believe that the arguer is less likely to be objective, or to exercise
+an attitude of cri tical doubt. This accusation is particularly strong when
+addressed to an argument from expert opinion, because an expert's
+credibility largely derives from the fact that he is presumed to express an
+unbiased opinion. The topic is represen ted in the scheme of argument
+from bias (Walton, 1 995, p. 1 53 ) :
+
+  Major Pmnis�: I f x is biast>d, tht>n x i s less likely to have taken the evidence on
+    both sides i n to accoun t in arriving at conclu.�ion A.
+  Minor Premise: Arguer a is biased.
+  Conclusion : Argut>r a is less lik<'ly to have taken the evidence on both sides i n to
+    account in arriving at conclusion A.
+
+The defin i tion of bias j ust outlined is centered on the notion of type
+of dialogue: for this reason , the argument can be properly evaluated
+only in relation to a dialectical context of use. The first critical question
+(Walton , 1 995, p. 1 53 ) points out this aspect of the topic. In addition,
+an allegation of bias needs to be supported by evidence, if challenged,
+in order to be plausible.
+
+  CQ1 : What type of dialogue are the speaker and hearer supposed to be
+   engaged in?
+  CQ2 : What evidence has been given to p rove that the s peaker is biased?
+
+We can observe that bias of the bad sort undennines the ability of an
+arguer to be properly involved in a persuasion dialogue by taking the
+argumen ts on both sides i n to account. No further attack necessarily fol­
+lows from this move. The accusation of bias is itself a form of attack.
+  In the bias type of ad hominem argument, the accusation of bias is
+used as a premise for a negative judgmen t of the interlocutor's ethical
+
+=== p. 157 ===
+
+              Genrml(v A rrt>fJled Opinions, Commitmml, ami Character                    1 5i
+
+char.tcter and, consequen tly, of his credibi lity. His credibility is under­
+mined on the basis of his bias. I n the discussion reported here , \-Vilma's
+argumen t is weakened by th is f(mn of ad homim·m argument bt·cause of
+what is alleged to be her biased viewpoint:
+
+     Bob and Wilma are discussi ng the problt·m of acid rai n . Wilma argm·s that
+     reports on the extent of the problem are greatlv exaggeratt·d and that tht•
+     costs of action are prohibiti\"e. Bob points out that Wilma is on the hoard of
+     directors of a U .S. coal company and that therdilH' her argument should
+     not be takt�n at fan· \".tluc. ( Walton , 1 99 1 , p. 2 )
+
+The scheme Bob uses i s bia.� a d hominem (Walton, t ggH, p . 2 55 ) :
+
+     Person a, the proponent o f argument a , is biased.
+     Person a's bias is a failure to honestly take part in a type of dialogue D,
+     Therefore, a is a mor.tlly bad person.
+     Therefore, a should not be given as much credibility as it would have
+       without the bias.
+
+The underlying assumptions are the same a� those of the argument
+from bias, except that the allegation of bias is taken to suggest duplicity,
+dishonesty, or some other sort of ethical failure. As with to all other ad
+hominem attacks, however, the nature of the personal judgment has to be
+carefully ev.tluated in light of the evidence presen ted. These resetY.ttions
+are reflected in the critical questions matching the bias ad hominem
+argument.
+     CQ1 : What is the e\idence that a is biased?
+     CQ2 : If a is bia�ed. is it a bad bias that is detri m e ntal to a's honestly taking part
+      in D, or a normal bias that is appropriate fo r the type of dialogue in which
+      a was put fonvard?
+
+Bias ad hominem aims at attacking only one argument proposed by the
+interlocutor. The poisoning the well argument is an extension of the
+former argument to other p ositions that the in terlocutor takes, or even
+to positions he will take in the future. Such a general accusation of bias
+is used not j ust to damage his credibility relative to a specific case, hut
+in general in a dialogue. The person is presen ted as an unfair player
+in the game of dialogue who always cheaL�. and therefore all his moves
+have to be discredited. They all lose their plausibility. Using this str.ttegy,
+the speaker casts a negative presumption on his adversa!J·'s dialogical
+attitude, undermining all his possible moves at one stroke.
+
+'\
+
+=== p. 158 ===
+
+                                   A rgu mentation Schnnl'.s
+
+  For i nstance, i n the following piece of reasoning, every opponent's
+argume n t is strongly weakened by the prt:j udice expressed by the speaker:
+
+  You can never believe or take seriously anything she says on the abortion
+  is.� ue because, as a woman, she will always takt• the feminist poin t of \iew
+  wh ich supports her own i n terests as a IC.·male. (Wal ton , 1 99H , p. :z :� 1 )
+
+This argument fi ts the scheme of the poisoning tlti' WI'Il ad lwmi11P111 (Walton ,
+1 gg8, p. 2 3 1 ) :
+
+  For every argument a in dialogue LJ, person a is hia'led .
+  Perso n a's bia'l is a failur e t o honestly take part i n a typ e o f dialogue D,
+  Therefore, a is a morally had person .
+  Therefore a should n o t b e given a s much credibility as i t would have
+    wi thout the bias.
+
+The critical questions matching the sc hem e for the poisoning the well
+ad hominem argumen t are the following.
+
+   CQ1 : What is the e\idt•nce that a has bt•en biased with respt'ct to every· argu­
+    ment in the di a l ogu e ?
+   CQ:z : Is the bias a normal partisan viewpoi n t that a has shown , or can i t be
+    shown to i ndicate t hat a is not honestly participati ng in the dialogue?
+   CQ� : In what respt•ct is a a bad person. j udging from the evidence of his
+    participation i n the dialogut• tha t gives a rt'<L'Ion for doubting his credibil ity?
+
+The poisoning tht• well attack may be a consequence of the perso n 's
+belonging to a group considered to he pressing for i ts own i n terests. Thus
+the argument is often similar to the guilt-by-association argument: from
+tlw condemnation of the group. or the prej udice cast on it, t h e personal
+attack follows. In poisoning-the-well a l l t gi ng group bias, the group is
+                                                          '
+
+labeled as biase d , a n d thus i l'l members' posi tions can be undermined
+by a bias attack.
+   For i nstance, i n the fol l ow i n g case, Charles Ki n gs l ey denounced the
+a t t i t ude of the Cathol i c Ch u n: h t owards t ru t h a n d a n i n tt·rloc u t o rs ' opi n ·
+inns ha'ied ou h i s m e m be rsh i p i n t h i s gro u p . <Kcusi ng Cardinal New·
+man of bias. Kingsley, in this wa y. blockt•d tht• poss i bi l i ty for :"J t w m an to   ·
+
+adva n c e c redible arguments. He p o i s on e d the \vt> l l , so to s p e ak           .
+
+   Tlw Btitish novelist and dt• rh'}"lllit n Cha r les Kingsk·y. atta c k i ng the liunous
+   Catholic i nt t•llt·t· t uai .John H t" l l l"\' Cardinal Nt·wman , a rg� �t•d th us : Card i nal
+
+=== p. 159 ===
+
+              Grnerally AmptPd OjJinioru, Com mitment, and Character               1 59
+
+     Ne\\Titan 's claims were not to be tmsted because, as a Roman Catholic priest
+     ( Ki ngsley alleged ) , Newman 's fi rst loyal ty was not to the tnuh. Newman
+     countered that this ad hominnn attack made i t im possible for him and i ndeed
+     for all Catholics to ad\"diKe their arguments, since anything that they might
+     say to defend themselves would then be undermined by others' allegi ng that,
+     aftt•r all, tnl!h was not their fi rst concern. Kingsley, said Card inal Newman,
+     had poisoned tlw well of discourse . (Wal ton , 1 99H, p. 1 ;, )
+
+Kingsley used the poisoning thl' well alll'ging group bias a rgu mrnt (Walton ,
+1 995, P· 2 5 7 ) :
+
+     Person a has argued for thesis A.
+     But a belongs to or is affiliated wi th group G.
+     I t is known that group G is a special-in terest partisan group that takes
+         up a biased ( dogmatic, prejudiced, fanatical ) quarrelling atti tude in
+         pushing excl usively for its own poi n t of view.
+     Therefore, one can not engage in open-m inded c ri tical discussion of
+         an issue wi th any members of G, and hence the arguments of a
+         for A arc not worth listening to or paying atten tion to i n a cri tical
+         discussion.
+
+Needless to say, this was a difficult attack for Newman to respond to. I t
+seemed t o condemn everything h e said , even any attempt to reply t o the
+argument. Even so, such an argumen t should properly be regarded as
+open to c ri tical questions.
+
+     CQ1 : Has a given any good reasons to support A?
+     CQ2 : What kind of bias has a exhibited, and how strong is i t?
+     CQ3 : Is the ki nd of bias that a has exhibited a good reason for concluding that
+      she is not honestly and collaboratively taking part in the dialogue?
+     CQ4: Is there evidence of a dialectical shift in the case, for exam ple, from a
+       persuasion dialogue to a negotiation?
+     CQs: Is the bias indicated i n CQ2 of the very strong type that warran ts the
+       conclusion that a is not open to any a rgumen tation that goes against her
+       position (or seems to her to go against her position ) ?
+
+The poisoning the wel l argument can be extremely powerful, because
+it can be used to discredi t an arguer in a persuasion dialogue in such
+a wholesale way that the audience simply cou n ts him out and ceases to
+pay atten tion to anyth i n g he migh t say. It is an effective way of shut­
+ting an arguer down altogether, blocking him from taking any further
+meaningful part i n a d ialogue.
+
+'\
+
+=== p. 160 ===
+
+1 60                        A rgu men tation Sdlr.11l!s
+
+ 8 . A D H O M I N E M STRATEG I ES TO R E B UT A PERSO N A L ATTA C K
+
+T h e schemes w e have described here represen t t h e differen t tactics used
+to accuse a speaker of bad morality: the underlyi ng strategy of personal
+attack is the same in all these arguments . The refutation of the oppo­
+nent's thesis proceeds from a claim against h is credibility based on char­
+acter attack, and the diflerences among the types and subtypes of the
+various forms of ad hominem attack lie only i n the variations on this
+cen tral theme. On the other hand, the two wrongs and tu quoqUP argu­
+men ts , despi te often being classi fied as ad hom i nem arguments , follow
+strategies that we can consider i ndependcm of the main one. Tht�y are
+schemes of dialectical replies to personal attacks as wel l a� other forms
+of attack. They are most often coumermoves to accusations of blame
+for havi ng com mitted reprehensible actions and to the circumstan tial ad
+hominem attack. We can study them by examining the pragmatic differ­
+ence between "blame" and "attack." I n line with the fi rst term , a negative
+moral judgment of a person 's action is presupposed by a condemnation
+directed to the agem. From this kind of accusation no consequence fol­
+lows: it cannot be considered an argument i tself, if it is not used to imply
+a threat, a j udgment of the person, or some other dialectical action.
+Attack, by con trast, is a dialectical mow itself: i t may be considered a
+dialogical development of blame. I t may involve the credibility of the
+person or the acceptabil i ty of the opponent's position . The two wrongs
+ad hominem r<:jects the possible implications of the hearer's blame: i t
+blocks, b y undermining his credibility, a n y possible moves that c a n pro­
+cct•d from the accusation . For instance :
+
+Student No. a : I saw you copyi ng t h e answer t o t h e exam question from your
+math book.
+Student No. 2: At least it was my math book. Didn 't you borrowJoh n 's term paper
+and hand it in as your work? ( Wal ton , 1 99 H , p. 1 6 )
+
+Studen t No. 1 's credibility is damaged by attacki n g h i m with the same
+type of argument he used to blame Studen t No. 2 . This is the fomt of the
+two wron� topic (Wal ton , • ggR, p. 2 56 ) .
+
+Proponent: Respondent, you have committed some morally blameworthy action
+[ and the specific action is then ci tt•d ] .
+Respondent: You are just a� bad, for you also committed a morally hlamt•worthy
+action [ then cited, genenllly a differen t typ(• of action from the one ci ted by
+the proponent but comparahlt� with rcspt�ct to heing blameworthy ) . Theretore,
+
+=== p. 161 ===
+
+              Gnwrally Aaepted Opinions, Commitment, and Charartl!'f                              161
+
+you are a bad person, and your argument against me should not be accepted as
+having any worth.
+
+I n the analysis of the followi ng c ri tical questions, we can observe that the
+most dangerous is the last one. The coun teraccusation m ust be of the
+same type as the proponent's blame; otherwise, i t migh t be refused as
+nonsense .
+
+    CQt : Is there evidence t o support t h e proponent's allegation that the respon­
+      dent comm itted a blameworthy act?
+    CQ2 : I f the answer to CQt is yes, then sho u l d the respondent's coun ter.accu­
+      sation be rated as very credible?
+    CQ:r Is the respondent 's counteraccusation re l eva nt to the p ro pon e n t s o ri g­   '
+
+      inal a l l e gatio n in the dialogue?
+
+In the two wrongs ad hominem, we can notice that the argument is cir­
+cumstan tial . I n fact, i t must be relevant to the particular reasons for the
+blame. On the other hand, the tu quoque ad hominem may be abusive:
+the relevance con d i tion does not apply. As men tioned earlier, moreover,
+the latter topic is an offensive strategy, while the fi rst one is protec­
+tive. In the tu quoque, the respondent, i nstead of defending his position
+by attacking the prem ises or the conditions of the argument, chooses
+a coun termove. In this way, not only is the proponent's ad hominem
+
+underm ined by his loss of credibility, but the burden of proof is reversed.
+It is now the other party who has to defend h is posi tion if he wan L� to
+save the move.
+   The following example is a clear instance of the argume nt. Gov. Wilson
+replies to the opponents' accusation by defi n i ng the Iauer's "cheap
+political g-a mes": in this way. the opponent is accused of being unfair, and
+his conclusion is rebutted.
+
+    Cal ifornia Gov. Peter Wi lson has made the crackdown on i l legal a l i e n s a
+    kt•y theme in h i s ' g!i Re p u bl i c a n presi d e n t ial bid. But t h e issue could back­
+    fi re . Newsweek has obtained documems showi ng that in t gHg, as a senator,
+    Wilson wrot<' the I m m igration and Na t u ra l i zation Senin· on tw h al f of a
+    long-t i m <� poli tical supporter, A n n e Eva n s , whose San Diego Hotels had
+    bet·n raided on s u s p i c i on of e m p lo� i ng i l l egals. Evans paid a Sio ,ooo f i n e
+                                                  ·
+
+    a fte r being charged wi t h :�62 i m m igra t ion-law \iolations. M t.·a n w h i l e . fol­
+    low i n g allegations that Wi lson a n d h i s f i rs t \\i ft• h i re d i l k·gals as household
+    hdp. Democr.l ts are p la c i n g ads i n n ewspa pers from Was h i ngton to Tijuana.
+    see k i n g i n fom1ation from former Wilson employet·s. "These a re c h ea p pol i t ­
+    it·al games b y pc o p k· w h o g o t tlwi r b u t ts kickt•d i n the l a s t guberna torial
+    <·am paig n , " said a Wilson spokesman . ( Wah on, 1 �J9H. p. 2 :\ fl ) .
+
+'
+
+=== p. 162 ===
+
+                              Argumentation Schnnes
+
+Here is the general scheme of tu quoque wi th the related c ri tical questions
+(Wal ton , 1 99R, p. 2 56 ) ; regarding the latter, note that the main critique
+is addressed to the strength of the counterargument conclusion .
+
+Proponent: Rt�spondcnt, you arc a morally had person ( because you have bad
+character, art• circumstantially inconsistent, biast'd, etc. ) ; tht'rcfore, your argu­
+mt'nt should not he acccptt'd.
+Respondent: You arc j ust as had, therefore your ad hominem argument against
+me should not be acct·pted as having any worth.
+
+The fol lowing critical questions match this form of argument.
+
+  CQt : Is the proponent's ad homi nem argument a strong one ( according to
+   the criteria for whatever type it is) ?
+  CQ:z : Is the respondent's ad hominem a strong one ( according to the criteria
+   for whatever type it is) ?
+  CQr I f the proponent's a d hominem argument i s strong, how much credihilit}·
+   should be given to the respondent as an honest arguer who can be trusted
+   to make such an allegation?
+
+The poin t to be stressed here is that the lu quoque and the two wrongs
+types of arguments can both i nvolve replies in kind to various types of
+prior moves. However, some of the most common kinds of cases stressed
+by logic textbooks are those where one ad hominem attack is used to
+reply to a prior one. The danger is that the chain of ad hominem attacks
+can con tinue. Thus a persuasion dialogue can degenerate into an e ristic
+dialogue or quarrel in which each party simply attacks the other as a bad
+person. The problem is that the origi nal conflict of opinions on the given
+issue will never be resolved. The issue may not even be discussed at all.
+

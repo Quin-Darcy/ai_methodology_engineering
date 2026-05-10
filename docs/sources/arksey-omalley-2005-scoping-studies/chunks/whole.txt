@@ -1,0 +1,660 @@
+=== chunk: arksey-omalley-2005-scoping-studies/whole ===
+title: Scoping Studies: Towards a Methodological Framework
+source_pdf: docs/sources/arksey-omalley-2005-scoping-studies/full.pdf
+pdf_pages: 1-15
+page_scheme: pdf
+plan_page_start: 1
+plan_page_end: 15
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 1 ===
+
+This article was downloaded by: [University of California, San Francisco]
+On: 13 December 2014, At: 05:33
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House,
+37-41 Mortimer Street, London W1T 3JH, UK
+
+                                 International Journal of Social Research Methodology
+                                 Publication details, including instructions for authors and subscription information:
+                                 http://www.tandfonline.com/loi/tsrm20
+
+                                 Scoping studies: towards a methodological framework
+                                 Hilary Arksey & Lisa O'Malley
+                                 Published online: 23 Feb 2007.
+
+To cite this article: Hilary Arksey & Lisa O'Malley (2005) Scoping studies: towards a methodological framework, International
+Journal of Social Research Methodology, 8:1, 19-32, DOI: 10.1080/1364557032000119616
+
+To link to this article: http://dx.doi.org/10.1080/1364557032000119616
+
+PLEASE SCROLL DOWN FOR ARTICLE
+
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained
+in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no
+representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the
+Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and
+are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon and
+should be independently verified with primary sources of information. Taylor and Francis shall not be liable for
+any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever
+or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of
+the Content.
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic
+reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any
+form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http://
+www.tandfonline.com/page/terms-and-conditions
+
+=== p. 2 ===
+
+                                                                                                Int. J. Social Research Methodology
+                                                                                                Vol. 8, No. 1, February 2005, pp. 19–32
+
+                                                                                                Scoping Studies: Towards a
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                Hilary Arksey & Lisa O’Malley
+
+                                                                                                Received 10 September 2002; accepted 11 March 2003
+                                                                                                tsrm100233.sgm
+                                                                                                Taylor and Francis Ltd
+
+                                                                                                This paper focuses on scoping studies, an approach to reviewing the literature which to date
+                                                                                                Social
+                                                                                                Taylor
+                                                                                                Original
+                                                                                                802004  Policy
+                                                                                                        &   (print)
+                                                                                                           Francis
+                                                                                                          Article
+                                                                                                  10.1080/1364557032000119616
+                                                                                                ha4@york.ac.uk.
+                                                                                                HilaryArksey
+                                                                                                International
+                                                                                                1364-5579      Journal
+                                                                                                                Research
+                                                                                                                   Ltdof Social
+                                                                                                                         UnitUni of
+                                                                                                                                Research Methodology
+                                                                                                                                    YorkHeslingtonYorkY010 5DD
+
+                                                                                                has received little attention in the research methods literature. We distinguish between
+                                                                                                different types of scoping studies and indicate where these stand in relation to full systematic reviews. We outline a framework for conducting a scoping study based on our recent
+                                                                                                experiences of reviewing the literature on services for carers for people with mental health
+                                                                                                problems. Where appropriate, our approach to scoping the field is contrasted with the
+                                                                                                procedures followed in systematic reviews. We emphasize how including a consultation
+                                                                                                exercise in this sort of study may enhance the results, making them more useful to policy
+                                                                                                makers, practitioners and service users. Finally, we consider the advantages and limitations
+                                                                                                of the approach and suggest that a wider debate is called for about the role of the scoping
+                                                                                                study in relation to other types of literature reviews.
+
+                                                                                                Introduction
+                                                                                                As the drive towards evidence-based practice has gathered pace, increasing numbers of
+                                                                                                systematic reviews reporting on the effectiveness of treatments and procedures have
+                                                                                                been published by, for example, the Cochrane Collaboration, an international body
+                                                                                                supported in the UK by the UK Cochrane Centre based in Oxford, and the NHS Centre
+                                                                                                for Reviews and Dissemination (CRD) at the University of York. The methodology for
+                                                                                                conducting full systematic reviews in the area of health care, education and criminal
+
+                                                                                                Hilary Arksey is Research Fellow in the Social Policy Research Unit at the University of York, Heslington, York
+                                                                                                YO10 5DD, UK. Tel: +44 (0)1904 321950; Fax: +44 (0)1904 321953; Email: ha4@york.ac.uk. Her research interests include informal care, employment and disability and research methods. Her most recent book (co-authored
+                                                                                                with Peter Knight) is Interviewing for social scientists: an introductory resource with examples (Sage, 1999).
+                                                                                                Lisa O’Malley is a Research Fellow in the Centre for Housing Policy at the University of York, Heslington, York
+                                                                                                YO10 5DD; UK. Tel: +44 (0)1904 321480; Fax: +44 (0)1904 321481; Email: ljg104@york.ac.uk. Her research
+                                                                                                interests include research methods; the Internet, health and social policy; and the voluntary sector.
+
+                                                                                                ISSN 1364–5579 (print)/ISSN 1464–5300 (online) © 2005 Taylor & Francis Group Ltd
+                                                                                                DOI: 10.1080/1364557032000119616
+
+=== p. 3 ===
+
+                                                                                                 justice has progressed considerably, and guidelines for those conducting reviews are
+                                                                                                 now available (CCEPP, 1996; CRD, 2001). Currently, techniques are being developed
+                                                                                                 within the social policy and social care field by organizations such as the Campbell
+                                                                                                 Collaboration, the Evidence for Policy and Practice Information and Co-ordinating
+                                                                                                 Centre (EPPI Centre), and the ESRC UK Centre for Evidence Based Policy and Practice
+                                                                                                 (EBPP).
+                                                                                                     This rapid growth in undertaking reviews of the literature has resulted in a plethora
+                                                                                                 of terminology to describe approaches that, despite their different names, share certain
+                                                                                                 essential characteristics, namely, collecting, evaluating and presenting the available
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                 research evidence. The following lists some of the labels in current usage: (full) systematic review; meta-analysis; rapid review; (traditional) literature review; narrative
+                                                                                                 review; research synthesis; and structured review. There do not appear to be any
+                                                                                                 consistent definitions of these different review ‘animals’, with the result that researchers may use labels loosely. For instance, there is a risk that reviews defined by their
+                                                                                                 authors as ‘systematic’ may not all adopt the same high standards in terms of protection
+                                                                                                 against bias and the quality assessment for the selection of primary research. On this
+                                                                                                 basis the correct label would be ‘literature review’ and not ‘systematic review’.
+                                                                                                     The ‘scoping’ study comprises a further type of literature review, yet until recently
+                                                                                                 much less emphasis has been placed on the scoping study as a technique to ‘map’ relevant literature in the field of interest. So what might we consider to be the main differences between a systematic review and a scoping study? First, a systematic review might
+                                                                                                 typically focus on a well-defined question where appropriate study designs can be identified in advance, whilst a scoping study tends to address broader topics where many
+                                                                                                 different study designs might be applicable. Second, the systematic review aims to
+                                                                                                 provide answers to questions from a relatively narrow range of quality assessed studies,
+                                                                                                 whilst a scoping study is less likely to seek to address very specific research questions
+                                                                                                 nor, consequently, to assess the quality of included studies.
+                                                                                                     It is our contention that greater clarity regarding the terminology and methods that
+                                                                                                 surround literature reviews will assist researchers in identifying when and how such
+                                                                                                 reviews might be undertaken. Whilst criticisms have been levied at both ‘traditional’
+                                                                                                 and ‘systematic’ review methods we contend that there is no single ‘ideal type’ of literature review, but rather that all literature review methods offer a set of tools that
+                                                                                                 researchers need to use appropriately. To that end the scoping study is one method
+                                                                                                 amongst many that might be used to review literature. Our framework aims to clarify
+                                                                                                 when a scoping study might be an appropriate method to adopt and how we might go
+                                                                                                 about undertaking this kind of literature review.
+                                                                                                     To date, little information is available about how to undertake a scoping study, as
+                                                                                                 those scoping reviews that have been conducted tend not to provide detailed information (Hagell & Bourke Dowling, 1999; Jepson, Blasi, Wright, & Riet, 2001). This paper
+                                                                                                 attempts to address the current gap in knowledge about scoping studies. Where appropriate, comparisons are made with systematic review methods. We provide a model for
+                                                                                                 those wishing to scope the field of interest based on our experiences of scoping
+                                                                                                 published and unpublished literature for a study of services to support carers for people
+                                                                                                 with mental health problems.
+
+=== p. 4 ===
+
+                                                                                                   The paper is organized as follows. First, we present an overview of scoping studies,
+                                                                                                contrasting this approach to reviewing the literature with that of systematic reviews.
+                                                                                                We go on to outline the different stages of a framework for a scoping study, including
+                                                                                                discussion of the advantages of including a consultation exercise. We conclude by
+                                                                                                exploring some of the advantages and limitations of the scoping study approach to
+                                                                                                reviewing the literature.
+
+                                                                                                What is a Scoping Study?
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                Definitions of scoping studies are few and far between. At a general level, scoping studies might ‘aim to map rapidly the key concepts underpinning a research area and the
+                                                                                                main sources and types of evidence available, and can be undertaken as stand-alone
+                                                                                                projects in their own right, especially where an area is complex or has not been
+                                                                                                reviewed comprehensively before’ (Mays, Roberts, & Popay, 2001, p. 194; emphasis in
+                                                                                                original).
+                                                                                                   Whilst this definition draws attention to the need for comprehensive coverage
+                                                                                                (breadth) of the available literature, there may be quite different degrees of depth
+                                                                                                (amount of information extracted from studies and subsequently reported) covered in
+                                                                                                different kinds of scoping study. The extent to which a scoping study seeks to provide
+                                                                                                in-depth coverage of available literature depends on the purpose of the review itself. It
+                                                                                                is possible to identify at least four common reasons why a scoping study might be
+                                                                                                undertaken:
+
+                                                                                                1. To examine the extent, range and nature of research activity: this type of rapid
+                                                                                                   review might not describe research findings in any detail but is a useful way of
+                                                                                                   mapping fields of study where it is difficult to visualize the range of material that
+                                                                                                   might be available.
+                                                                                                2. To determine the value of undertaking a full systematic review: in these cases a
+                                                                                                   preliminary mapping of the literature might be undertaken to identify whether or
+                                                                                                   not a full systematic review is feasible (does any literature exist?) or relevant (have
+                                                                                                   systematic reviews already been conducted?) and the potential costs of conducting
+                                                                                                   a full systematic review.
+                                                                                                3. To summarize and disseminate research findings: this kind of scoping study might
+                                                                                                   describe in more detail the findings and range of research in particular areas of
+                                                                                                   study, thereby providing a mechanism for summarizing and disseminating research
+                                                                                                   findings to policy makers, practitioners and consumers who might otherwise lack
+                                                                                                   time or resources to undertake such work themselves (Antman, Lau, Kupeinick,
+                                                                                                   Mosteller, & Chalmers, 1992).
+                                                                                                4. To identify research gaps in the existing literature: this type of scoping study takes
+                                                                                                   the process of dissemination one step further by drawing conclusions from existing
+                                                                                                   literature regarding the overall state of research activity. Specifically designed to
+                                                                                                   identify gaps in the evidence base where no research has been conducted, the study
+                                                                                                   may also summarize and disseminate research findings as well as identify the relevance of full systematic review in specific areas of inquiry. However, it is important
+
+=== p. 5 ===
+
+                                                                                                      to note that identifying gaps in the literature through a scoping study will not necessarily identify research gaps where the research itself is of poor quality since quality
+                                                                                                      assessment does not form part of the scoping study remit.
+                                                                                                 Generally speaking, these four types suggest two different ways of thinking about the
+                                                                                                 role or purpose of a scoping study: the first two suggest that the scoping study might be
+                                                                                                 perceived as one part of an ongoing process of reviewing, the ultimate aim of which is
+                                                                                                 to produce a full systematic review. The second two types suggest that the scoping study
+                                                                                                 might be conceived as a method in its own right—leading to the publication and
+                                                                                                 dissemination of research findings in a particular field of enquiry. The aim of identify-
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                 ing gaps in the existing evidence base is clearly important, and may or may not lead ultimately to a full systematic review.
+                                                                                                    The remainder of this paper is concerned with the fourth type of scoping study,
+                                                                                                 aimed at identifying gaps in the existing research literature. We present one methodological framework based on our own experiences of conducting this sort of scoping
+                                                                                                 study; where appropriate, we identify how the processes we adopted might differ from
+                                                                                                 procedures followed for a systematic review.
+
+                                                                                                 Our framework for conducting a scoping study is underpinned by the view upheld by
+                                                                                                 proponents of systematic reviews that the methods used throughout the different stages
+                                                                                                 are conducted in a rigorous and transparent way (CRD, 2001; Mays et al., 2001). The
+                                                                                                 process should be documented in sufficient detail to enable the study to be replicated
+                                                                                                 by others. This explicit approach increases the reliability of the findings, and responds
+                                                                                                 to any suggestion that the study lacks methodological rigour (Mays et al., 2001).
+                                                                                                     The method adopted for identifying literature in a scoping study needs to achieve
+                                                                                                 in-depth and broad results. Rather than being guided by a highly focussed research
+                                                                                                 question that lends itself to searching for particular study designs (as might be the case
+                                                                                                 in a systematic review), the scoping study method is guided by a requirement to identify all relevant literature regardless of study design. It is likely that as familiarity with
+                                                                                                 the literature is increased, researchers will want to redefine search terms and undertake
+                                                                                                 more sensitive searches of the literature. To this end, the researcher may not wish to
+                                                                                                 place strict limitations on search terms, identification of relevant studies, or study
+                                                                                                 selection at the outset. The process is not linear but iterative, requiring researchers to
+                                                                                                 engage with each stage in a reflexive way and, where necessary, repeat steps to ensure
+                                                                                                 that the literature is covered in a comprehensive way.
+                                                                                                     With these differences in mind, we now go on to describe the stages of the framework we adopted for conducting a scoping study:
+                                                                                                      Stage 1: identifying the research question
+                                                                                                      Stage 2: identifying relevant studies
+                                                                                                      Stage 3: study selection
+                                                                                                      Stage 4: charting the data
+                                                                                                      Stage 5: collating, summarizing and reporting the results
+
+=== p. 6 ===
+
+                                                                                                An additional, parallel element is also described regarding the use of a ‘consultation
+                                                                                                exercise’ to inform and validate findings from the main scoping review. Whilst
+                                                                                                consultation might be viewed as an optional component of the scoping study framework, it greatly enhanced our work, a view confirmed by other researchers (Oliver,
+                                                                                                2001).
+
+                                                                                                Framework Stage 1: Identifying the Research Question
+                                                                                                As with systematic reviews, the starting point is to identify the research question to be
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                addressed as this guides the way that search strategies are built. Thus it is important to
+                                                                                                consider which aspects or ‘facets’ (CRD, 2001) of the research question are particularly
+                                                                                                important, for example, the study population, interventions or outcomes.
+                                                                                                   Our research question was: What is known from the existing literature about the effectiveness and cost-effectiveness of services to support carers of people with mental health
+                                                                                                problems? We were aware that ‘services to support carers’ was an ambiguous term that
+                                                                                                could include possible benefits deriving from services directed toward care recipients,
+                                                                                                such as day care, for example. We also had to determine what illnesses were to be
+                                                                                                included in the term ‘mental health problems’.
+                                                                                                   Defining these kinds of parameters, and considering the implications of adopting
+                                                                                                particular positions, is important at the outset of a scoping study. Very wide definitions
+                                                                                                of what might constitute services for carers, for example, might reduce the likelihood
+                                                                                                of missing relevant articles, but could also generate an unmanageably large number of
+                                                                                                references. Our recommendation would be to maintain a wide approach in order to
+                                                                                                generate breadth of coverage. Decisions about how to set parameters on large numbers
+                                                                                                of bibliographic references can be made once some sense of the volume and general
+                                                                                                scope of the field has been gained.
+
+                                                                                                Framework Stage 2: Identifying Relevant Studies
+                                                                                                As already indicated, the whole point of scoping the field is to be as comprehensive as
+                                                                                                possible in identifying primary studies (published and unpublished) and reviews suitable for answering the central research question. To achieve this, we adopted a strategy
+                                                                                                that involved searching for research evidence via different sources:
+
+                                                                                                    electronic databases
+                                                                                                    reference lists
+                                                                                                    hand-searching of key journals
+                                                                                                    existing networks, relevant organizations and conferences
+
+                                                                                                From a practical point of view, decisions have to be made at the outset about the coverage of the review in terms of time span and language. Reflecting time and budget
+                                                                                                constraints, we included only those studies published between January 1985 and Octo-ber 2001. The start date of 1985 was chosen because it was felt that this covered major
+                                                                                                policy changes in the UK and because support for carers is relatively recent. Foreign
+
+=== p. 7 ===
+
+                                                                                                 language material was excluded because of the cost and time involved in translating
+                                                                                                 material. Whilst we had to adopt these limits for practical reasons, it is worth pointing
+                                                                                                 out that potentially relevant papers could have been missed.
+
+                                                                                                 Electronic databases, the Internet and research registers
+                                                                                                 Electronic databases usually contain bibliographic details and abstracts of published
+                                                                                                 material. There are a number of issues researchers need to consider before undertaking
+                                                                                                 this important stage of the process such as: which databases to search; what kinds of
+                                                                                                 related terms might be appropriate to search for, in addition to key concepts; piloting
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                 the search strategy to allow for refinement; whether any technical searching skills are
+                                                                                                 available to assist with the searches; and what the potential costs are of online access to
+                                                                                                 electronic databases, inter-library loans and photocopying full articles that are available
+                                                                                                 locally.
+                                                                                                    The search strategy for electronic databases is developed from the research question
+                                                                                                 and definitions of key concepts. Researchers may not have the skills necessary for
+                                                                                                 designing and executing sensitive search strategies that qualified librarians have. An
+                                                                                                 Information Officer1 from CRD worked with us to identify the relevant keywords
+                                                                                                 (which may differ from one database to another); she also advised on what databases
+                                                                                                 were most likely to produce the type of studies we were seeking. She then devised an
+                                                                                                 initial search strategy, which was later refined in the light of early results. The final
+                                                                                                 version was first used on the MEDLINE database and then converted for each subsequent database.
+                                                                                                    For our study, searches were made on 12 databases available from CD-ROMs, and
+                                                                                                 four via the Internet. There were huge variations in the number of references generated
+                                                                                                 by each database with four databases producing less than 10 hits each and two
+                                                                                                 (MEDLINE and EMBASE) producing 1,565 and 1,589, respectively. It is not known
+                                                                                                 how effective the different databases were in generating the 204 articles that were eventually included in the final selection. Such information could be useful for any similar
+                                                                                                 work likely to be undertaken in the future.
+
+                                                                                                 Reference lists
+                                                                                                 We found it valuable to check the bibliographies of studies found through the database
+                                                                                                 searches—especially systematic reviews and traditional literature reviews—to ensure
+                                                                                                 they had been included in the scoping exercise. This process did identify further references, although a saturation point was reached where no new ones were being identified. Citation searches might have also yielded new studies, although we did not utilize
+                                                                                                 this technique.
+
+                                                                                                 Hand-searching of key journal
+                                                                                                 It is important that key journals are hand-searched to identify articles that have been
+                                                                                                 missed in database and reference list searches. This can occur because electronic databases may be incomplete, not up to date or because abstracting services can vary in
+
+=== p. 8 ===
+
+                                                                                                coverage, indexing and depth of information. Although most databases contain a
+                                                                                                proportion of British journals, they all tend to have a Western and particularly US bias.
+                                                                                                   We identified four common journal titles that we felt required hand-searching.
+                                                                                                Unfortunately, not all of the journals were available at the University of York which
+                                                                                                meant travelling some distance to the nearest library that subscribed to the journal(s)
+                                                                                                in question, an unanticipated activity that added to the pressure on time and resources.
+
+                                                                                                Existing networks, relevant organizations and conferences
+                                                                                                As other researchers undertaking reviews have found (Badger, Nursten, Williams, &
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                Woodward, 2000), using existing knowledge and networks can generate information
+                                                                                                about primary research. So, too, can contacting relevant national or local organizations
+                                                                                                working in the field, with a view to hand-searching libraries and/or identifying unpublished work. We contacted a number of relevant organizations including Carers UK,
+                                                                                                the Sainsbury Centre for Mental Health, the Mental Health Foundation, the King’s
+                                                                                                Fund, and the National Schizophrenia Fellowship.
+                                                                                                    The search can generate many thousands of bibliographic references which then
+                                                                                                need appraising to see whether or not they should be included in the final study selection. Bibliographic software packages such as Reference Manager or Endnote, and
+                                                                                                general text retrieval databases such as Idealist, are useful data management tools. We
+                                                                                                used an Endnote library which proved invaluable for managing records, keeping track
+                                                                                                of articles and making requests for inter-library loans. The Endnote software was
+                                                                                                compatible with the word processing package we were using, and it was a relatively
+                                                                                                quick and easy task to produce lists of references for inclusion in the final literature
+                                                                                                review report. The Information Officer recorded each database searched, the years it
+                                                                                                covered, and the date it was searched for each set of results when they were imported
+                                                                                                into Endnote. Knowing what databases were searched and from what date is important,
+                                                                                                especially if there is any likelihood of having to update the searches in the future.
+                                                                                                    The various mechanisms for searching in our scoping study generated a total of
+                                                                                                3,867 references, some 112 of which were identified as the study progressed (these were
+                                                                                                treated in the same way as those generated in the main electronic bibliographic database search). The majority of references (3,755) were found on the electronic bibliographic databases, which further emphasizes the importance of developing skills in this
+                                                                                                area.
+
+                                                                                                Framework Stage 3: Study Selection
+                                                                                                Our initial perusal of the citations indicated that the search strategy had picked up a
+                                                                                                large number of irrelevant studies. This links to the importance of defining terminology at the outset of a scoping study, and in our case reflects some specific difficulties
+                                                                                                such as different country’s terminology to describe carers, and the fact that we had
+                                                                                                sought breadth rather than depth.
+                                                                                                   We needed a mechanism to help us eliminate studies that did not address our central
+                                                                                                research question. Systematic review methods develop inclusion and exclusion criteria,
+                                                                                                based on a specific research question, at the outset of the project to ensure consistency
+
+=== p. 9 ===
+
+                                                                                                 in decision-making. Our scoping study adopted similar methods, although criteria
+                                                                                                 were devised post hoc, based on increasing familiarity with the literature, that we could
+                                                                                                 then apply to all the citations to determine their relevance. The inclusion criteria used
+                                                                                                 in our scoping study related to the: type of study; type of intervention; care recipient
+                                                                                                 group; and carer group.
+                                                                                                     Two reviewers then applied the inclusion and exclusion criteria to all the citations.
+                                                                                                 Copies of the full article were obtained for those studies that appeared to represent a
+                                                                                                 ‘best fit’ with the research question. If the relevance of a study was unclear from the
+                                                                                                 abstract, then the full article was ordered. A deadline was set, after which it was agreed
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                 that we would not include any more studies in the analysis. This is an important decision to make when time is limited, although it is good practice to indicate in an appendix any articles that have not been reviewed but which may be of interest to other
+                                                                                                 researchers. The next stage requires reviewers to read the full articles to make the final
+                                                                                                 decision about whether they should be chosen for inclusion in the review. As Badger et
+                                                                                                 al. (2000) note, abstracts cannot be assumed to be representative of the full article that
+                                                                                                 follows, or to capture the full scope of an article.
+                                                                                                     Out of our original 3,867 references, 453 were ordered through inter-library loans;
+                                                                                                 some 30 or so were available locally for photocopying. Having read the articles in full,
+                                                                                                 204 articles were selected for inclusion in the review.
+
+                                                                                                 Framework Stage 4: Charting the Data
+                                                                                                 The next stage of the work involved ‘charting’ key items of information obtained from
+                                                                                                 the primary research reports being reviewed. ‘Charting’ (Ritchie and Spencer, 1994)
+                                                                                                 describes a technique for synthesizing and interpreting qualitative data by sifting,
+                                                                                                 charting and sorting material according to key issues and themes, a similar process to
+                                                                                                 the one we adopted hence we have borrowed the term. In a systematic review, this process would be called ‘data extraction’ and, in the case of meta-analysis, might involve
+                                                                                                 specific statistical techniques.
+                                                                                                    Our charting approach was akin to a ‘narrative review’ (Pawson, 2002, p. 171),
+                                                                                                 which takes a broader view that can include, for example, recording information about
+                                                                                                 the ‘process’ of each programme or intervention included in the review so that its
+                                                                                                 ‘outcome’ is contextualized and more understandable to readers. Decisions have to be
+                                                                                                 taken about what information should be recorded from the primary studies, and it is
+                                                                                                 important to consider how comparisons between different interventions can be
+                                                                                                 achieved. Simply producing a short summary or profile of each study does not guarantee helping those readers who might have to make important decisions based on the
+                                                                                                 study findings (Pawson, 2002). The ‘descriptive-analytical’ method within the narrative tradition, which involves applying a common analytical framework to all the
+                                                                                                 primary research reports and collecting standard information on each study, stands
+                                                                                                 more chance of being useful.
+                                                                                                    The data that we charted were entered onto a ‘data charting form’ using the database
+                                                                                                 programme Excel. What should the content of data charting forms include? Generally
+                                                                                                 speaking, this will be a mixture of general information about the study and specific
+
+=== p. 10 ===
+
+                                                                                                information relating to, for instance, the study population, the type of intervention,
+                                                                                                outcome measures employed and the study design. We recorded information as
+                                                                                                follows:
+
+                                                                                                ● Author(s), year of publication, study location
+                                                                                                ● Intervention type, and comparator (if any); duration of the intervention
+                                                                                                ● Study populations (carer group; care recipient group)
+                                                                                                ● Aims of the study
+                                                                                                ● Methodology
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                ● Outcome measures
+                                                                                                ● Important results
+
+                                                                                                Additional standardized data were extrapolated from those studies with an economic
+                                                                                                component. Together, these data formed the basis of the analysis.
+                                                                                                   We sought a uniform approach to all 204 studies included in the review, although in
+                                                                                                practice it was often impossible to extract all the information required where research
+                                                                                                reports failed to include relevant material. As others have noted (Badger et al., 2000),
+                                                                                                data are not always presented in the most accessible of formats.
+
+                                                                                                Framework Stage 5: Collating, Summarizing and Reporting the Results
+                                                                                                This stage of a scoping study involves collating, summarizing and reporting the results.
+                                                                                                Again, we can make useful comparisons between the scoping study and the full systematic review. Whilst the process of collecting and reviewing studies for a full systematic
+                                                                                                review may require researchers to read and review a large number of studies, only a
+                                                                                                small percentage may be included in the final report. Evidence or findings from studies
+                                                                                                not included in the final review may consequently remain hidden from publication. In
+                                                                                                contrast, the scoping study seeks to present an overview of all material reviewed and
+                                                                                                consequently issues of how best to present this potentially large body of material are
+                                                                                                critical.
+                                                                                                   Moreover, unlike a systematic review the scoping study does not seek to ‘synthesize’
+                                                                                                evidence or to aggregate findings from different studies. Whilst a scoping study will
+                                                                                                need some analytic framework or thematic construction in order to present a narrative
+                                                                                                account of existing literature, there is no attempt made to present a view regarding the
+                                                                                                ‘weight’ of evidence in relation to particular interventions or policies. This is because
+                                                                                                the scoping study does not seek to assess quality of evidence and consequently cannot
+                                                                                                determine whether particular studies provide robust or generalizable findings.
+                                                                                                   Having ‘charted’ information from studies, we were able to present our narrative
+                                                                                                account of findings in two ways. First, attention was given to basic numerical analysis
+                                                                                                of the extent, nature and distribution of the studies included in the review. We
+                                                                                                produced tables and charts mapping: the distribution of studies geographically and for
+                                                                                                the different care recipient groups; the range of interventions included in the review;
+                                                                                                the research methods adopted and the measures of effectiveness used. This part of the
+                                                                                                analysis shed light on the dominant areas of research in terms of intervention type,
+
+=== p. 11 ===
+
+                                                                                                 research methods and geographical location. We could very quickly get a flavour of the
+                                                                                                 main areas of interest, and consequently where the significant gaps were.
+                                                                                                     Second, the literature was organized thematically according to 11 different intervention types. This was another difficult and time-consuming activity since there was great
+                                                                                                 diversity and/or overlaps among reports; descriptions of some interventions were
+                                                                                                 insufficient; and authors’ definitions did not always appear justifiable or consistent.
+                                                                                                 The intervention type became the primary unit of analysis and our final literature
+                                                                                                 review report was organized around these 11 categories (see Arksey, O’Malley,
+                                                                                                 Baldwin, & Harris, 2002).
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                     In developing a framework for collating and summarizing results, the scoping study
+                                                                                                 does force researchers to prioritize certain aspects of the literature. By adopting an
+                                                                                                 approach based on intervention type, our findings tended to subsume theoretical or
+                                                                                                 conceptual positions adopted by authors. An alternative approach may have been to
+                                                                                                 base our analysis on competing theories of carer interventions (such as ‘family therapy’
+                                                                                                 or ‘cognitive behavioural therapy). To this extent it is crucial that the scoping study
+                                                                                                 method retains a clarity of reporting strategy so that the reader can determine any
+                                                                                                 potential bias in reporting or recommendations. As with any good quality research, the
+                                                                                                 position, or potential bias, of any work must be identified and potentially subjective
+                                                                                                 decisions regarding data analysis made clear.
+                                                                                                     With this in mind, we sought to provide a consistent approach to reporting our findings and developed a ‘template’ that we applied to each intervention group. The
+                                                                                                 template began with a small table summarizing basic characteristics of all the studies
+                                                                                                 included in that particular intervention group, and was followed by commentary written under the following nine headings: interventions; sample sizes; participants;
+                                                                                                 research methods; outcomes; evidence relating to effectiveness; economic aspects; UK
+                                                                                                 studies; gaps in the research.
+                                                                                                     By applying a consistent approach to reporting the findings we were able to make
+                                                                                                 comparisons across intervention types; identify contradictory evidence regarding
+                                                                                                 specific interventions; identify gaps in the evidence base about individual interventions
+                                                                                                 and across interventions as well as consider possible ‘new frontiers’ (such as the Internet). Of itself, the literature review (Arksey et al., 2002) provided a comprehensive and
+                                                                                                 thorough review of available literature and identified numerous gaps in the evidence
+                                                                                                 base.
+                                                                                                     The identification of research gaps in our study relied on two main sources: the literature review, which was confined to identifying areas of overall weakness within the
+                                                                                                 field by comparing across intervention types and study designs; and the consultation
+                                                                                                 exercise which proved invaluable for identifying current issues facing practitioners and
+                                                                                                 carers themselves that remained under-researched. It is to this final, and optional, stage
+                                                                                                 of the framework that we now turn.
+
+                                                                                                 Framework Optional Stage: Consultation Exercise
+                                                                                                 Evidence (Oliver, 2001) suggests that systematic reviews can be enhanced, and the
+                                                                                                 results made more useful, if practitioners and consumers contribute to the work
+
+=== p. 12 ===
+
+                                                                                                (Oliver, 2001). Indeed, there now exists a Cochrane Collaboration Consumer Network
+                                                                                                that includes individuals and community organizations worldwide. The Network
+                                                                                                supports and develops consumer participation in the Collaboration, and helps make
+                                                                                                the information available to consumers.
+                                                                                                   In the light of our experiences of the scoping study, we would certainly endorse this
+                                                                                                approach. As indicated at the start, in addition to the literature review, the scoping
+                                                                                                study also included a consultation element (see Newbronner & Hare, 2002). This
+                                                                                                involved three groups of stakeholders: representatives from national statutory and
+                                                                                                voluntary bodies; managers and practitioners from local organizations; and ‘key
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                informant’ carers.
+                                                                                                   Contributors to the consultation provided additional references about potential
+                                                                                                studies to include in the review as well as valuable insights about issues relating to the
+                                                                                                effectiveness and cost-effectiveness of services that the scoping review alone would not
+                                                                                                have alerted us to. For instance, whereas primary research reports tended to focus on
+                                                                                                changes in levels of carer burden, stress or knowledge as a measure of effectiveness,
+                                                                                                contributors approached the concept in a more rounded and holistic way that encompassed five related dimensions: benefits for the carer; benefits for the care recipient;
+                                                                                                benefits for the family as a whole; the impact of service usage; and, long term outcomes
+                                                                                                for society. This perspective prompted the research team to question the predominance
+                                                                                                of the use of standard outcome measures. When reporting the findings, we suggested
+                                                                                                that alternative approaches to determining the effectiveness of interventions alongside
+                                                                                                standard outcome measures should be developed and applied. Although this element
+                                                                                                of our approach to a scoping study may be considered an ‘optional extra’, the consultation exercise did indeed provide ‘added value’ to the literature review.
+
+                                                                                                Resource Implications
+                                                                                                Although scoping studies are often linked to ‘rapid’ appraisal, it would be wrong to
+                                                                                                assume that this method represents either a ‘quick’ or ‘cheap’ option. Our review
+                                                                                                employed three full-time equivalent staff members for six months as well as the services
+                                                                                                of an information officer to conduct literature searches. The cost implications for
+                                                                                                retrieving documents through inter-library loans and the time implications that go
+                                                                                                along with this retrieval mean that the scoping study should not be seen as a cheap
+                                                                                                alternative to the systematic review, and consequently we would urge funders and
+                                                                                                researchers to be cautious in assuming that a scoping study has significantly fewer
+                                                                                                resource implications than a systematic review.
+
+                                                                                                Discussion and Conclusion
+                                                                                                The scoping study framework we have presented in this paper comprises five stages,
+                                                                                                together with an optional consultation exercise. It is based on our experiences of, and
+                                                                                                learning from, undertaking such a study. As we said at the outset, there is no definitive
+                                                                                                procedure for scoping the literature, and we are not suggesting that the framework
+                                                                                                presented above is the only ‘right’ methodological approach to take. On reflection, and
+
+=== p. 13 ===
+
+                                                                                                 in the light of comments from colleagues in CRD, it is probably fair to say that our
+                                                                                                 model of conducting a scoping study shared a number of processes associated with
+                                                                                                 systematic reviews.
+                                                                                                     The proposed framework includes a role for key stakeholder groups, in the belief
+                                                                                                 that including the perspectives of others with knowledge of, and a vested interest in, the
+                                                                                                 area under examination gives an important additional dimension to the reviewing
+                                                                                                 process. The framework also reflects the importance of technological developments
+                                                                                                 and expertise required to retrieve and manage data. To that extent, scoping study methods may represent a shift in methodological focus away from expert knowledge of a
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                 particular field associated with the traditional literature review, towards an approach
+                                                                                                 that emphasizes skills associated with technical knowledge.
+                                                                                                     A key strength of the scoping study is that it can provide a rigorous and transparent
+                                                                                                 method for mapping areas of research. In a relatively short space of time (compared
+                                                                                                 with full systematic review), reviewers are in a position to illustrate the field of interest
+                                                                                                 in terms of the volume, nature and characteristics of the primary research. This analysis
+                                                                                                 in turn makes it possible to identify the gaps in the evidence base, as well as summarizing and disseminating research findings. By presenting the results in an accessible and
+                                                                                                 summarized format, policy makers, practitioners and consumers are better placed to
+                                                                                                 make effective use of the findings.
+                                                                                                     It would be misleading of us not to acknowledge the limitations of scoping studies.
+                                                                                                 They do not, for example, appraise the quality of evidence in the primary research
+                                                                                                 reports in any formal sense. The quantity of data generated can be considerable. This
+                                                                                                 can lead to difficult decisions about how far breadth (covering all available material) is
+                                                                                                 more important than depth (providing a detailed analysis and appraisal of a smaller
+                                                                                                 number of studies). The scoping study does not address the issue of ‘synthesis’, that is
+                                                                                                 the relative weight of evidence in favour of the effectiveness of any particular intervention. Consequently, scoping studies provide a narrative or descriptive account of available research. Many of these difficulties are addressed by systematic review methods
+                                                                                                 that do require quality appraisal, thereby (mostly) reducing the quantity of studies
+                                                                                                 included in the review and placing an emphasis on synthesizing data. However, the
+                                                                                                 systematic review process can be very lengthy, a key disadvantage when policy makers
+                                                                                                 want information about existing research evidence sooner rather than later.
+                                                                                                     It would be wrong to view the scoping study method as an easy option simply
+                                                                                                 because hard questions about quality appraisal and synthesis are avoided. Conducting
+                                                                                                 a scoping study requires reviewers to have high degrees of analytic skill in order to
+                                                                                                 develop frameworks through which large numbers of studies can be described.
+                                                                                                 Furthermore, by not addressing issues of quality appraisal, the scoping study potentially has to deal with a greater range of study designs and methodologies than the
+                                                                                                 systematic review, which has tended to focus on the randomized control trial as the
+                                                                                                 gold standard of research design (CRD, 2001). Although efforts are being made to
+                                                                                                 develop techniques for the appraisal and synthesis of qualitative data within the
+                                                                                                 systematic review community (see, for example, Dixon-Woods, Fitzpatrick, &
+                                                                                                 Roberts, 2001), it remains the case that the scoping study is more likely to include and
+                                                                                                 disseminate findings from a range of different methods and study designs. Yet at the
+
+=== p. 14 ===
+
+                                                                                                same time the scoping study does not offer any clear means of synthesizing findings
+                                                                                                from different kinds of study design. These issues require further attention if scoping
+                                                                                                studies are to develop and have a future in advancing the evidence base in health and
+                                                                                                social care.
+                                                                                                   One of the purposes of the present paper is to stimulate discussion about the merits
+                                                                                                of scoping studies, and help develop appropriate methods for conducting such
+                                                                                                reviews. An additional aim for this paper is to provide the starting point for a wider
+                                                                                                debate about the role of the scoping study in relation to other types of literature
+                                                                                                reviews: where does one end and the other start? We look forward to seeing how the
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                debate progresses.
+
+                                                                                                Acknowledgements
+                                                                                                This paper is based on a study funded by a grant from the UK NHS Service Delivery
+                                                                                                & Organization (SDO) Research and Development Programme. The views expressed
+                                                                                                are those of the authors and not necessarily shared by any individual, government or
+                                                                                                agency. We wish to thank our colleagues on this project: Sally Baldwin (Department
+                                                                                                of Social Policy and Social Work, University of York) and Jennifer Harris (SPRU,
+                                                                                                University of York); Anne Mason (Centre for Health Economics, University of
+                                                                                                York); Su Golder (NHS Centre for Reviews and Dissemination, University of York);
+                                                                                                Elizabeth Newbronner and Philippa Hare (Acton.Shapiro). Sally Baldwin died tragically in October 2003. Sally was a key member of the research team, and we greatly
+                                                                                                valued her input to the project and this article. We are grateful to Julie Glanville,
+                                                                                                Su Golder, Rachel Peto, Gill Ritchie, Mark Rodgers, Amanda Sowden, Alison
+                                                                                                Wallace and Kath Wright for comments on an earlier draft of this paper. We would
+                                                                                                also like to acknowledge the referees’ comments which have been incorporated into
+                                                                                                the paper.
+
+                                                                                                Note
+                                                                                                [1]    We would like to acknowledge Su Golder’s valuable support and contribution to the scoping
+                                                                                                1.
+
+                                                                                                       study.
+
+                                                                                                References
+                                                                                                Antman, E., Lau, J., Kupeinick, B., Mosteller, F., & Chalmers, T. (1992). A comparison of results of
+                                                                                                      meta-analysis of RCTs and recommendations of clinical experts. Journal of American Medical
+                                                                                                      Association, 268, 240–248.
+                                                                                                Arksey, H., O’Malley, L., Baldwin, S., & Harris, J. (2002). Services to support carers of people with
+                                                                                                      mental health problems: Literature review report. York: Social Policy Research Unit, University
+                                                                                                      of York; available online at: www.sdo.lshtm.ac.uk/mentalhealthcarers.htm.
+                                                                                                Badger, D., Nursten, J., Williams, P., & Woodward, M. (2000). Should all literature reviews be
+                                                                                                      systematic? Evaluation and Research in Education, 14, 220–230.
+                                                                                                Centre for Reviews and Dissemination (CRD) (2001). Undertaking systematic reviews of research on
+                                                                                                      effectiveness: CRD’s guidance for those carrying out or commissioning reviews, CRD Report 4
+                                                                                                      (2nd ed.). York: NHS Centre for Reviews and Dissemination, University of York.
+
+=== p. 15 ===
+
+                                                                                                 Cochrane Collaboration on Effective Professional Practice Unit (CCEPP) (1996). The data collection
+                                                                                                        checklist. York: Cochrane Collaboration on Effective Professional Practice Unit.
+                                                                                                 Dixon-Woods, M., Fitzpatrick, R., & Roberts, K. (2001). Including qualitative research in systematic
+                                                                                                        reviews: opportunities and problems. Journal of Evaluation in Clinical Practice, 7, 125–133.
+                                                                                                 Hagell, A., & Bourke Dowling, S. (1999). Scoping review of literature on the health and care of mentally
+                                                                                                        disordered offenders, CRD Report 16. York: NHS Centre for Reviews and Dissemination,
+                                                                                                        University of York.
+                                                                                                 Jepson, R., Blasi, Z. D., Wright, K., & Riet, G. T. (2001). Scoping review of the effectiveness of mental
+                                                                                                        health services, CRD Report 21. York: NHS Centre for Reviews and Dissemination, University
+                                                                                                        of York.
+                                                                                                 Mays, N., Roberts, E., & Popay, J. (2001). Synthesising research evidence. In N. Fulop, P. Allen, A.
+
+Downloaded by [University of California, San Francisco] at 05:33 13 December 2014
+                                                                                                        Clarke, & N. Black (Eds.), Studying the organisation and delivery of health services: Research
+                                                                                                        methods. London: Routledge.
+                                                                                                 Newbronner, E., & Hare, P. (2002). Services to support carers of people with mental health problems:
+                                                                                                        Consultation report. York: Social Policy Research Unit, University of York; available online at:
+                                                                                                        www.sdo.lshtm.ac.uk/mentalhealthcarers.htm.
+                                                                                                 Oliver, S. (2001). Marking research more useful: Integrating different perspectives and different
+                                                                                                        methods. In S. Oliver & G. Peersman (Eds.), Using research for effective health promotion.
+                                                                                                        Buckingham: Open University Press.
+                                                                                                 Pawson, R. (2002). Evidence-based policy: in search of a method. Evaluation, 8, 157–181.
+                                                                                                 Ritchie, J., & Spencer, L. (1994). Qualitative data analysis for applied policy research. In A. Bryman
+                                                                                                        & R. G. Burgess (Eds.), Analysing qualitative data. London: Routledge.
+

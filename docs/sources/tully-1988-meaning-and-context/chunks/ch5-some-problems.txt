@@ -1,0 +1,987 @@
+=== chunk: tully-1988-meaning-and-context/ch5-some-problems ===
+title: Some problems in the analysis of political thought and action
+source_pdf: docs/sources/tully-1988-meaning-and-context/full.pdf
+pdf_pages: 111-132
+page_scheme: book
+plan_page_start: 97
+plan_page_end: 118
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 97 ===
+
+                                      5                    ;
+     Some problems in the analysis of
+       political thought and action
+
+I am most grateful to Professors Schochet and Wiener not just for
+their generosity in commenting on my work, but also for their accuracy
+in reporting my arguments and their perceptiveness as critics.! It seems
+possible to respond to their remarks in one of two ways. One would
+be to pursue the implications of Wiener’s article and try to provide
+some more historical information about the context of Hobbes’ political
+thought. This strikes me as an attractive alternative, especially since I agree
+with his suggestion that I ought to devote more attention to analysing
+the nature of the social pressures which helped to prompt Hobbes and
+his sympathizers to espouse their peculiar brand of absolutism. (He does
+not mention, however, that this theme has already been brilliantly explored
+                                                                                  Sreck os
+by K. V. Thomas.)* The other alternative is to say something more
+about my general approach to the study of political theory, of which              Mis .
+my work on Hobbes (as Schochet and Wiener both acknowledge) has
+mainly been intended to serve as an example. This strikes me as even
+more attractive, and it is this line of argument which I shall pursue.
+   There are two main reasons for this choice. One is my wish to defend
+myself against a number of attacks which have recently been mounted on the
+methodological and philosophical essays in which I have tried to formulate
+my approach to studying the history of political thought. The first of these
+was published in 1970 by Dr Leslie in Political Studies. This was followed by
+more technical criticism by Dr Mew in the Philosophical Quarterly. Two
+further critical articles appeared in 1973, one by Dr Parekh and Dr Berki
+in the Journal of the History of Ideas, the other by Professor Tarlton in
+History and Theory. And now Professor Schochet has added a further series
+
+=== p. 98 ===
+
+of criticisms as the conclusion to the account he has given of my work.?
+   My first aim in what follows will be to discuss these critics, some of
+whom, I cannot help feeling, have sometimes misstated my case. Parekh
+and Berki, for example, begin by promising what they call a detailed critical
+appreciation, but they then go on to concentrate on a single methodological
+article (for which they give the wrong reference) without ever indicating that
+it was presented as one of a series or that it was underpinned by a number
+of historical examples. Although most of my critics have been much more
+scrupulous, I still feel that what is needed is not the abandonment of my
+approach (as they all suggest) and still less the acknowledgement of its
+impossibility (as Schochet in particular demands), but simply an attempt
+to provide a more careful and less polemical statement of my central
+claims. I hope this will serve to remove a number of misconceptions,
+as well as to show that my argument in fact emerges more or less
+unscathed from the criticisms which have so far been directed against it.
+   My chief reason, however, for concentrating on these methodological
+questions is my hope that this may also serve to uncover two implications
+of my approach, both of which perhaps deserve to be more fully pursued.
+The first of these (which I shall consider in section I) concerns the question
+of what precisely ought to be studied in the history of political thought —
+whether we ought mainly to focus on the traditional canon of so-called
+‘classic texts’, on the leading traditions of political analysis, or perhaps on
+the entire ‘language’ of-politics at a given time. The other implication I wish
+to examine (to which I shall turn in section II) is concerned with the intractably large but crucial question of how to analyse the relations between the
+professed principles and the actual practices of political life. My main aim
+in what follows is to avoid merely repeating myself in a clearer voice, and
+to move on — however sketchily — to a consideration of these further points.
+
+The aims of my earliest methodological essays, in 1966 and 1969, were
+avowedly polemical, with the result — which I now mildly regret — that
+they were written in a tone of ‘enthusiasm’ for which I have recently
+been rebuked.+ My primary concern was to expose the weaknesses of two
+prevailing assumptions about the study of the classic texts in the history of
+political thought. One of these, to which Parekh and Berki unrepentantly
+return, was the belief that ‘in some cases the source of a text’s intelligibility
+lies within itself and its understanding does not require the commentator to
+consider its context’.’ The other was the belief that a satisfactory history
+
+=== p. 99 ===
+
+can be constructed out of the ‘unit ideas’ contained in such texts, or else
+out of linking such texts together in a chain of alleged influences. As
+Wiener has indicated, my reason for attacking these methodologies was
+my sense that they had given rise to a number of exegetically plausible
+but historically incredible interpretations of the classic texts. I took the
+case of Hobbes’ Leviathan and tried to show that this applied both
+to Warrender’s and Hood’s interpretations, as well as to Strauss’s and
+Macpherson’s accounts of Hobbes’ place in seventeenth-century thought.®
+   Although this was intended to be revisionist, there was at least one
+crucial point at which the assumptions governing my approach were of
+a wholly conventional kind. As Schochet observes, | assumed throughout
+that the classic texts were worthy of study in themselves, and that the
+attempt to understand them ought to be treated as one of the leading
+aims in any history of political thought. This makes it unfair of Tarlton
+to claim that the objects of analysis in my proposed methodology remained
+‘vaguely and arbitrarily specified’.? My concern was in fact with the same
+objects which had always been analysed — the ‘select few books’, as a
+recent author has called them, which, for whatever reasons, ‘have been
+raised to the status of “classics”’.8 My original aim was merely to analyse
+the nature of the conditions which are necessary and perhaps sufficient for
+an understanding of any one of these texts. As Wiener points out, I tried
+to establish that one of the necessary conditions must be the recovery of
+the historical meaning of the text. I thus concluded that it can never be
+sufficient in itself (pace Parekh and Berki) to be able to supply even
+the most plausible and coherent internal analysis of their arguments.
+    This approach has been assailed, however, both for being excessively historical and for not being historical enough. The latter criticism, as Schochet
+notes, is one which I suggested myself in my earliest methodological article.
+I should now be more inclined to emphasize it. We can hardly claim to be
+concerned with the history of political theory unless we are prepare to write
+it as real history — that is, as the record of an actual activity, and in particular
+as the history of ideologies. Such a history would have many values, quite
+apart from providing us for the first time with a realistic picture of how
+political thinking in all its various forms was carried on in the past. It would
+enable us to illuminate the varying roles played by intellectual factors in
+political life. It would thus enable us to begin to establish the connections
+between the world of ideology and the world of           political action. And this
+
+history which seems at the moment to be missing even in the work of its most
+distinguished practitioners. (It has become a commonplace, for example,
+that this is the major weakness of Braudel’s attempt to write ‘total history’.)
+It is clear, however, that the chief obstacle to writing such a history of social
+and political ideas is constituted by our continuing tendency to concentrate
+
+=== p. 100 ===
+
+on the received canon of classic texts. They impose a distorting perspective
+when we try to write historically about the development of social and political ideas. And they encourage the adoption of a naive diffusionist account
+of the relations between the work of leading social theorists and the popular
+acceptance of new social and political attitudes. As an example of the first
+danger, consider the attempt of Professor C. B. Macpherson to write the history of ‘possessive individualism’, and the unhistorical level of abstraction
+at which the whole work proceeds.? As an example of the second, consider
+the attempts which have recently been made to vindicate the influence of
+Bentham’s ideas on the development of nineteenth-century social policies.!°
+    It is possible, however, to endorse this line of criticism (as I do) and
+still feel that a caveat needs to be entered against the over-enthusiastic
+adoption of a completely sociological approach, through which the object
+of analysis becomes nothing less than the whole gamut of ‘languages’ in
+which a nation articulates its political experience over time.!! There is a
+danger that this new sociology, when writ large, will turn out to be nothing
+more than the most discredited form of inductivism in fashionable disguise.
+This danger has already become apparent in the recent historiography of
+the history of scientific ideas, in which the old, ‘internal’ history of rational
+discoveries has tended to be superseded in favour of the attempt to gain ‘a
+full picture of the new science’.!2 The problems this is likely to generate
+are strictly analogous to those in the history of political ideas, and have
+recently been excellently discussed.!3 If we try to produce ‘the full picture’,
+we are bound sooner rather than later to be reduced merely to colouring-in
+the most boring and trivial details. We are-in any case bound to fail. For the
+facts are infinite in number, and unless we have some ideas about where to
+begin and why to begin there, we may literally condemn ourselves to going
+on for ever. It follows that we must be prepared to make some crucial
+decisions at the outset about what deserves to be studied and what is
+best ignored. It will not do, moreover, to accept the solution proposed
+by Butterfield and the other opponents of ‘whig’ history, who have argued
+that, even if we proceed in this way, we must be careful to ‘adopt the
+outlook’ and apply only those criteria of significance which were current
+ and accepted at the relevant historical time.14 It is highly implausible to
+ suppose that there will ever be such an agreement about what matters in
+ any historical period. But even if there happens to be complete agreement
+ amongst their contemporaries that certain writers do not matter, we can
+ scarcely hope to write satisfactory history if we are content merely to
+ endorse such judgements. This would be to leave us, for example, with
+ a history of seventeenth-century ethical theory in which Spinoza is totally
+ ignored, a history of nineteenth-century logical theory in which Frege is
+ barely mentioned, and so on. It seems essential, in short, to place a very
+ strong emphasis on what seems a very obvious point: that the decisions we
+
+=== p. 101 ===
+
+have to make about what to study must be our own decisions, arrived at
+by applying our own criteria for judging what is rational and significant.
+   Once this insight is restored to its rightful status as a commonplace,
+however, it begins to seem possible both to endorse the value of a strictl
+historical approach to the study     of political thought, and yet to allow that
+a_certain primacy still deserves to be assigned to studying the traditional
+canon of classic texts. This assumes, of course (as I have always assumed),
+that to speak of a text as a classic is to imply that there may be special
+reasons for wishing to understand it.           The degree of primacy which this
+assigns to the classic texts is simply that they become one obvious focus
+around which it might seem appropriate to organize some of our historical
+researches. I do not say that they represent the sole or even the most
+interesting focus we might choose. As I have already hinted, and hope
+by the end of this article to make clear, I believe that the question of
+the relations between political ideology and action suggests a wide and
+more fruitful field for new research. I certainly agree, however, that the
+classic texts continue to provide us with one potential answer to the
+inescapable question of where our historical researches ought to begin,
+and one potential means of investing them with their point.
+   It may seem, however, that this conclusion merely serves to underline the
+alternative criticism, to the effect that this represents an excessively historical approach for a political scientist to endorse. This is the main criticism
+which Leslie makes. My approach is said to involve a paradoxical commitment, since it begins by presupposing the value of seeking to understand the
+classic texts, but ends by proposing a method of studying which ‘threatens
+to destroy the very treasure we seek, leaving only the dust of scholarship’.!5
+Tarlton has repeated the same fear and expressed it as a certainty. My plea
+for ‘strict historicity’ is said to make it ‘difficult to see how, even if it were
+workable, anything might issue that would be of any more than the dustiest
+antiquarian interest’.!6 I fail to see, however, why it should be thought to
+follow from questioning the immediate relevance of the classic texts that we
+are bound to be left with nothing but antiquarian scholarship. To proffer
+these as exhaustive alternatives is simply to discount the point I have been
+seeking to emphasize: that if we are interested in such issues as the process
+of ideological formation and change, we cannot avoid involving ourselves
+in extensive historical enquiries; and if we are genuinely concerned to
+understand such issues, it seems only sensible to demand that these enquiries
+should be conducted with as much care and exactitude as possible.
+   My reply to this second line of criticism is thus the same as before.
+Although the analysis of political ideology is inescapably a historical
+subject, it is the merest parochialism to imply that this constitutes a
+reason for refusing to assign it the place which it clearly deserves in any
+academic study of politics. It is true that Tarlton professes to find this
+
+=== p. 102 ===
+
+type of answer ‘too thin to be considered an’authentic confrontation of the
+problem’.!7 He gives no grounds for this judgement, however, and in the
+absence of any such argument I still cannot see whatsis so unsatisfactory
+about this conclusion. I originally felt encouraged in reaching it by
+the fact that a number of social philosophers (for example, Professor
+MacIntyre) had already made use of a similar set of assumptions in
+producing some important contributions to ethical and political thought.!8
+Since then, I have been heartened to find some congenial arguments
+presented by a number of political theorists who have no connections with
+the ‘school’ which Tarlton castigates for its alleged absorption with itself.!?
+   All this brings me to what is obviously the main question: How
+is the recovery of the historical meaning of a_text_to_be achieved?
+As Schochet implies, it may be that the polemical organization of my
+original articles prevented me from stating my positive answer to this
+question with sufficient clarity. My original answer, however, was a very
+simple one. I argued that the key to excluding unhistorical meanings must
+lie in limiting our range of descriptions of any          given text to those
+which the author himself might in principle have avowed and that
+
+lie in recovering the complex intentions of the author in writing it.
+   I should now like to make three qualifying remarks about this doctrine, in
+the hope of removing a number of misunderstandings of my present views.
+The first is that its application was always intended to be limited in two ways
+which I tried to spell out. These are perhaps worth stressing, since some of
+my critics have chosen to ignore them and have, in consequence, devoted
+themselves to the demolition of a position which I have never wished to
+defend. I have been criticized (by Parekh and Berki) for assuming that we can
+speak as though the author of a complex work had ‘a definite “intention”
+in performing a single action to bring about a definite result’.2° But I have
+never made such an assumption. I have rejected it as explicitly as possible,
+in the hope that this misunderstanding might be avoided (4:86). Second,
+I have been criticized (again by Parekh and Berki, and also by Tarlton) for
+assuming that the tasks of recovering and stating an author’s intentions
+may be ‘sufficient in themselves for a proper understanding of the work
+in question’.2! But again I have never made such an assumption. I have
+tried to prevent precisely this misunderstanding by insisting as strongly as
+possible (the italics are in the original) that ‘I have been concerned only’
+to argue ‘that amongst the interpreter’s tasks must be the recovery of the
+author’s intentions’. I have sought to distinguish this argument ‘from the
+much stronger claim which is often advanced’ to the effect that ‘the recovery
+of these intentions’ must ‘form the whole of the interpreter’s task’ (3:76).
+   My second remark is that I have never been concerned to suggest that
+there is anything particularly dramatic or original about my argument.
+
+=== p. 103 ===
+
+Tarlton is quite correct to speak of my debt to Mr Dunn’s and Professor
+Pocock’s recent writings, and all three of us have in turn acknowledged the
+influence which R. G. Collingwood has exercised over our methodological
+studies. It is worth stressing this important common source, for Parekh
+and Berki have devoted much of their space to ‘explaining’ how I have
+come to occupy my present intellectual position, and they allege that the
+‘most conspicuous tradition’ on which I have drawn is ‘closely linked
+with logical positivism’.2? The fact that I have explicitly pointed to
+Collingwood as a major intellectual influence, coupled with the fact
+that Collingwood is unquestionably the leading anti-positivist Idealist
+in recent English philosophy, is perhaps enough to suggest the preposterousness of their argument at this point.
+   My final qualification is that | now feel this original statement of my
+position — on which it happens that most of my critics have concentrated
+— to have been defective in at least two respects. First, it relied on the idea
+that every agent has a privileged access to his own intentions, as a way of
+‘closing the context’ on the historical meaning of a text. | now accept that
+I may have applied this notion too rigidly, as Dr J. W. Burrow has since
+implied.23 I have also become more convinced about certain difficulties
+in the theory itself, which a number of philosophers have more recently
+explored.?4 I have since become clearer, moreover, that I have no real need
+to rely on this theory in order to establish my own case, and I have gone on
+to restate this aspect of my argument in such a way as to leave it free of this
+fault. The other defect in my original presentation was that I misused the
+argument which I borrowed from J. L. Austin about the ‘illocutionary force’
+of utterances. I tried to employ it in the course of an attack on the idea that
+political theories are merely derivations from political practices, an attack
+which I now feel completely misfired (2:56 — 63). Since then I believe I
+have made use of this argument in a more satisfactory way (3; 4). I        do
+not feel, however, tl         ve ever managed to provide a satisfactory repl
+to the epiphenomenalist case, and for this reason I should like to address
+myself again to this task in the second half of these present remarks.
+   Several of my critics (notably Parekh and Berki) write as though I
+had never made any attempt to repair these defects or to refine and
+extend the original presentation of my case. As Tarlton very fairly
+indicates, however, I have since moved on to focus on the concept of a
+convention, and especially the conventions surrounding the performance of
+complex linguistic acts, in an attempt to provide a more effective though
+closely related means of ‘closing the context’ on the historical meanings
+of texts. I have sought in particular to ask questions about what a given
+writer may have been doing, and to answer them by appealing to the
+extent to which his intentions must necessarily have been conventional
+if they included the intention to communicate and_be_ understood (3). I
+
+=== p. 104 ===
+
+have also tried to strengthen these purely methodological considerations
+by locating their foundations in the logic of explanation. I have tried, that
+is, to show how the recovery of an agent’s intentions and the conventions
+surrounding them can serve to provide a valid (though not a causal)
+form of explanation for at least some of his voluntary actions (4).7°
+   I do not wish to pretend that this somewhat ambitious extension of my
+original argument has left it entirely free of difficulties. I accept the criticism
+which Mew has made, by means of some ingenious counter-examples, of
+my attempt to argue that it must invariably be necessary to invoke a set of
+social as well as linguistic conventions in order to decode the intended force
+of certain utterances.26 I am also grateful to acknowledge the refinements
+which have since been suggested by Dr Close and Professor Hancher in
+the course of the generally congenial comments which both of them have
+made about my recent accounts of authorial intentionality.2” And I should
+like to emphasize my feeling that before anyone can hope to argue with
+confidence about these issues, a great deal more work will have to be done
+on the analysis of the concept of a convention, especially in relation to
+the idea of someone’s meaning something by saying or doing something.28
+   Nevertheless, I see no reason to doubt that my argument in its revised
+and extended form is capable of sustaining both the main conclusions on
+which I have sought to insist: that the recovery of the historical meanin
+of any given text is a necessary condition of understanding it, and that this
+process can never be achieved simply by studying the text itself. Even Parekh
+and Berki seem prepared to concede that this is sometimes true, though
+they insist that in other cases ‘the context is negligible and the audience
+Mote                                        They go on to argue that ‘perhaps
+the most obvious case’ of a classic text which ‘makes eminent sense on its
+own’ and ‘has no specific context and no limited and identifiable audience’ is
+the case of Hobbes’ Leviathan.2? | agree that Leviathan is probably the most
+plausible candidate, but one of the main purposes of my historical articles
+about Hobbes has been to establish that even in this case such an assumption
+would in fact be misplaced. Unless we are prepared to ask questions about
+what Hobbes is doing in Leviathan, and to seek the answers by relating his
+work to the prevailing conventions of political argument at the time, we can
+never hope to elucidate the precise character of his counter-revolutionary
+theory of political obligation, nor can we hope to understand the precise role
+of his epistemology in relation to his political thought. If we are prepared,
+however, to consider Leviathan in relation to its appropriate intellectual
+and ideological context, we can readily begin to answer these questions,
+and in this way to add to our understanding of the work. We can also
+begin to see the extent to which, even if Hobbes may have had the ambition
+to_speak ‘transhistorically’ (which I have never soughtght to deny),
+                                                              deny), his work
+                                                                          work
+was addressed to a strictly limited and precisely identifiable audience,
+
+=== p. 105 ===
+
+   My reasons for insisting on these conclusions have been very fairly
+paraphrased by Wiener, and there is no need to rehearse them here.
+Since Parekh and Berki evidently reject them outright, I can only conclude
+that they find my historical arguments in some way grossly defective.
+It is a disappointing feature of their critique, however, that they offer
+no comments on the new information which I have sought to present
+about the context of Hobbes’ thought, and in consequence give no
+reasons for their flat rejection of my claims. They simply insist, on the
+contrary, that I have never made any attempt to corroborate my general
+methodological claims by any ‘detailed investigation of past thinkers’.3°
+   I am prepared to admit, however, that my alleged discoveries about
+Hobbes may well be controversial in some way, so I shall revert instead to
+a simpler example, which I have considered before and which can equally
+well be used to substantiate both my central claims. Locke, in his Two
+Treatises, makes no appeal to the prescriptive force of the ancient English
+constitution. An examination of the prevailing conventions of debate about
+political obligation at the time reveals that this was an extremely unusual
+lacuna for him to have left in his argument. This may well lead us to ask
+what Locke may have been doing here. We are bound to answer that he
+was rejecting and repudiating one of the most widespread and prestigious
+forms of political argument at the time. We may also be led to question
+whether he may not have had the intention to shift the discussion of political
+obligation onto a more abstract level at this point, by ignoring the claims of
+prescription and arguing entirely in terms of the concepts of natural law and
+natural rights. This seems to substantiate both my central claims. We can
+scarcely be said to have understood Locke’s text until we have considered
+what he was doing at this crucial stage in his argument. But we can never
+hope to attain such an understanding simply be reading the text itself
+‘over and over again’ in the way that some commentators have urged.3!
+   It is not difficult, moreover, to defend this basic methodological commitment against the chief accusation which has been levelled against it.
+According to Parekh and Berki, it ‘means the denial of the possibility of
+new insights and experience’.32 According to Tarlton, it involves denying
+that some writers ‘operate at or beyond the boundaries of established
+“languages”’.33 And, according to Schochet, we may become ‘blinded to
+such goals’ as innovation and ‘creativity’ if we follow this approach. This
+                                                                          ————~
+
+accusation seems to rest on a confusion between the unexceptionable claim
+that any agent who is engaged in an intended act of communication must
+be limited by the prevailing conventions of discourse, eeand ee    further claim
+                                                              theBOE  PEPE Pe
+
+that he must be limited only to following these conventions. I have obviously
+never intended to commit myself to the absurdity of denying that it is open
+fo any writer to indicate that his aim is to extend, to subvert, or in some
+other way   to alter a prevailing set of accepted        tions
+                                                  conventions   and   attitudes.I
+                                                                                Jf
+
+=== p. 106 ===
+
+am astonished to be told that my approach would make it impossible to map
+out this kind of innovation and change. It seems to me, on the contrary, that
+I am providing the means — the only sure means — 0 exhibiting the precise
+character of these changes, and of indicating the precise moment at which
+they actually took place. This can readily be seen if I revert to the example
+T have just cited from Locke’s Two Treatises. It is only if and when we have
+mapped out all the prevailing conventions of political discussion that we
+can begin to observe the points at which, and the extent to which, Locke
+may be concerned to breach or repudiate them. So far from denying such
+moments of creativity, my approach seems in this way to provide the only
+means of recognizing and illuminating them in a genuinely historical way.
+   I should like finally to claim one special merit for my approach which I
+have not previously discussed. I believe it provides a means of avoiding a
+weakness which otherwise seems endemic in any attempt to take the idea
+of a ‘language’ or a tradition as a unit of study in the history of political
+thought. I am not, of course, hostile to these aims themselves, for my own
+attempt to focus on the conventions of political argument obviously tends
+to culminate in a study of genres and traditions of discourse. It would hardly
+seem necessary to offer this reassurance, were it not that Parekh and Berki
+have reported me as saying that it can never be justifiable for an intellectual
+historian to write ‘in terms of traditions, periods, schools of thought and
+the like’.34 It is hard to see how they have gained this impression. As
+I have tried to make*clear, I share the enthusiasm which they register
+for attempts such as those of Professor Greenleaf to write about leading
+traditions of political analysis, even though I cannot entirely endorse their
+claim (for reasons which | have given at length elsewhere) that Greenleaf
+has in fact achieved this result ‘without any distortion’.35 (I also find it
+surprising that they give the wrong title for a book which they single out as
+so well known.) I do feel, however, that if Greenleaf’s stress on traditions
+or Pocock’s on languages are treated as methodologies in themselves, they
+are prone to generate at least two difficulties. There is an obvious danger
+that if we merely focus on the relations between the vocabulary used by
+a given writer and the traditions to which he may appear connected by
+his use of this vocabulary, we may become insensitive to instances of
+irony, obliquity, and other cases in which the writer may seem to be
+saying something other than what he means. The chief danger, however,
+is that if we merely concentrate on the language of a given writer, we may
+run the risk of assimilating him to a completely alien intellectual tradition,
+and thus of misunderstanding the whole aim of his political works.
+   An obvious example of the first danger is provided by the work of
+Bayle, as I have sought to illustrate elsewhere      (2:51 — 3). An obvious
+example of the second is provided by the recent discussions of Bolingbroke’s
+political works. It happens to be Bolingbroke, the arch-enemy of the whigs,
+
+=== p. 107 ===
+
+who supplies in his main political works the clearest summary of a number
+of radically whig and especially Harringtonian political beliefs. It is, of
+course, necessary to focus on the political traditions which Bolingbroke
+was exploiting in order to be able to expose this paradox, and this
+has been the great strength of the recent commentaries. Their great
+weakness, however, has been their incapacity to go on to explain or
+even to comment on this puzzle. They have merely left us with the
+question-begging observation that ‘Bolingbroke, the tory, shows whiggish
+traits’ and with the potentially misleading characterization of Bolingbroke
+as ‘the most spectacular of the neo-Harringtonians’.3¢
+   I am suggesting that what is needed, in order to be able to carry the
+argument beyond this rather unsatisfactory point, is not merely to indicate
+the traditions of discourse to which a given writer may be appealing, but
+also to ask what he may be doing when he appeals to the language of
+those particular traditions. Since many different things can always be done
+by different writers with a given ‘language’, the focus ought not, I think, to
+be on the language or the traditions in themselves, but rather on the range
+of things which can in principle be done with them (and to them) at any
+given time. To cite the prevailing jargon, what we need to go on to ask is
+what range of speech-acts can standardly be performed by a given writer
+when he makes use of a given set of concepts or terms. If this further
+question had been asked in the case of Bolingbroke, for example, I believe
+it could have been shown that one of his main aims in his political works
+may not so much have been to articulate a set of political principles in
+which he necessarily believed himself, but rather to remind his opponents
+of the principles which they professed to believe. (I have recently sought
+to demonstrate this conclusion.)37 If we merely focus on the language of
+Bolingbroke’s political works and the traditions with which he appears to
+align himself, this level of analysis will remain closed off. If we go on to
+engage with it, however, we may be able to answer the questions which
+are currently being begged, and so to reach a new level of understanding in
+our study of these and many other historically important political works.
+
+                                      I
+
+The final outcome of my approach, according to several of my critics,
+is a refusal to assign any causal role to political ideas or principles in
+relation to the explanation of political actions and events. It is true that
+they have sometimes confused this with the rather different accusation
+which I have already considered, to the effect that my approach is
+incapable of accommodating the novel insights which are characteristically
+found in the most creative political works. It is clear, however, that when
+
+=== p. 108 ===
+
+        Parekh and Berki accuse me of ‘not seeing anything else in politics
+        beyond its immediate, pragmatic aspects’, what they have in mind is my
+        alleged failure to recognize the influence of general ideological structures
+        upon the world of political events.38 And Tarlton appears to have
+        the same criticism in mind when he eventually insists on aligning me
+        with those who believe that the world of thought ‘merely reflects an
+nasty   underlying and somehow more real world of non-linguistic activity’         .>?
+           I feel somewhat aggrieved by these criticisms, since one of my main hopes,
+        in proposing a more ideological subject matter for the history of political
+        thought, was that this might enable us more readily to exhibit the dynamic
+        nature of the relationship which I believe to exist between the professed
+        principles and the actual practices of political life (2:56 — 9). I still feel that
+        the suggestion I originally made about the way in which this relationship
+        might be analysed was correct as far as it went — the suggestion that it
+        might be possible to make use of the approach and the insights afforded by
+        the theory of speech-acts. It may well be, however, that I have brought this
+        particular misunderstanding upon myself. For, as I have already conceded,
+        the first attempt I made to formulate and apply this theory was undoubtedly
+        a failure. It is for this reason that I should now like to revert to my
+        original suggestion and attempt to explore it in an entirely new direction.
+           There seem to be two main types of situation in which a professed
+        principle is capable of making a difference to a social or political action,
+        and a fortiori needs to be cited in order to explain it. The most obvious
+        case is where the principle serves as the motive for the action. To explain
+        a voluntary action is normally to cite the end which the agent desires to
+        bring about — corresponding to his motive for acting — together with
+        his belief that the performance of the given action will conduce to the
+        attainment of the desired end. If the agent professes to be acting for
+        the sake of a principle, and if the principle he cites is genuinely his
+        motive for acting, it is obvious that the principle makes a difference
+        to the action and thus needs to be cited to explain it.
+           The question is whether this simple structure of concepts can ever be
+        applied to analyse the relations between an ideology and a complex course
+        of social or political action. One recent attempt to apply it in this way has
+        been made by a number of historians and political scientists who have
+        been anxious to repudiate the influential scepticism expressed by Sir Lewis
+        Namier and his followers about the role of ideological factors in political
+        life. Professor Holmes, for example, has attempted to construct his massive
+        account of British Politics in the Age of Anne around the belief that the
+        political conflicts of the age were not merely concerned with ‘power and
+        the quest for office’, as all the Namierites have alleged, but were ‘concerned
+        with real issues, involving the conflict of sincerely-held principles’.49 And
+        Professor Kramnick has similarly attempted to analyse the politics of the
+
+=== p. 109 ===
+
+Opposition parties in early eighteenth-century England in terms of the
+assumption that the protagonists were genuinely motivated by ‘political
+ideals and principles’ and not just by ‘the common interest of the outsider’.4!
+   Despite such recent examples, however, it still seems a safe generalization
+to say that this sort of attempt to treat principles as sufficient conditions of
+actions has by now been fairly generally abandoned. One reason might seem
+to be the doubts which a number of philosophers (particularly some of the
+followers of Wittgenstein) have expressed about the underlying assumption
+that motives are causes. I do not myself feel, however, that there is any
+reason to quarrel with this assumption, the difficulties of which seem to
+have been somewhat exaggerated (4:86 — 9). The most obvious reason
+is simply that a number of the most powerful currents in modern social
+theory have converged in rejecting this way of analysing the direction of
+the causality between principles and actions. This applies not merely to the
+Namierites, but even more clearly to the Marxists (at least in certain moods)
+and more recently to behaviourists. They have all insisted, for different rea—_______—                    .   .                   .   .          .
+
+sons, on the same two claims. First, that the principles professed in political
+life arecommonly the merest rationalizations of quite different motives and
+
+common claim, such principles are usually invented _ex post facto, merely
+in order to invest political behaviour with a quite spurious ‘appearance of
+logic and rationality’.4? Second, that it follows from this that such principles
+play no causal role in political life, and scarcely even need to figure in
+eonsequence/invexplanations’
+                 efpolitical: behaviour, sAs/Namier/again’ puts
+the point, such ‘party names and cant’ provide _us with no guide at all
+when we are trying to explain ‘the underlying realities’ of political life.45
+   It is often implied, moreover, that this is the end of the story. This is
+due to the fact that even those who have sought to oppose these claims
+have generally accepted the same basic assumption about the nature of the
+causal relation between political thought and action. They have tended,
+that is, to concede that what they must show, in order to vindicate the
+relevance of someone’s professed principles in explaining their social and
+political actions, is that many political agents (as Butterfield insists in his
+polemic against the Namierites) are in fact ‘sincerely attached to the ideals’
+for the sake of which they characteristically profess to act.44 But this is
+simply to endorse their opponents’ basic assumption, which amounts to
+the claim (as Namier’s account sufficiently indicates) that the question
+of the relationship between political thought and action is equivalent to
+the empirical question of whether an agent’s professed political principles
+ever serve as the motives of his political actions. The result has been to
+make it seem obvious that political principles have no role to play in the
+explanation of political behaviour. For as soon as this basic assumption
+is accepted by the opponents of this sort of epiphenomenalism, they are
+
+=== p. 110 ===
+
+committed to sustaining the empirical claim (which intuitively may seem
+rather implausible) that the sincere attachment of political agents to their
+professed principles actually constitutes their standard motive for political
+action. And this, in turn, allows their opponents (such as the Namierites)
+to present the epiphenomenalist case in the form of a simple appeal to
+realism and common experience. All they have to do is to take their
+stand on the alternative empirical claim (which is usually taken to be far
+more plausible) that ‘political ideals’, as one of Namier’s disciples has put
+it, are ‘rarely in themselves the determinants of human action’.*> Since it
+is agreed that a principle can only make a difference if it is a motive, and
+since it is intuitively clear that principles are rarely motives, it is obvious,
+they conclude, that we do not usually have to refer to an agent’s professed
+principles when we come to explain his actual political behaviour.
+   It_is this shared assumption, however, which seems to be mistaken.
+Even if we concede that an agent’s professed principles are never his real
+motives, we are still left with at least one type of situation in which they
+are nevertheless capable of making a difference to his behaviour. This is
+the situation in which the agent is engaged in a form of social or political
+action that is (as I shall put it) in some way untoward, and also possesses a
+strong motive for attempting (in Weberian phrase) to legitimate it. Suppose
+— to take an example in which Weber himself was interested — the agent
+is a merchant engaged in some highly profitable commercial enterprise in
+England at the turn of the sixteenth century. His expected profits supply
+him with a recognizable and powerful motive for wanting to ensure that
+he is able to continue with his enterprise. But the social and religious
+standards of the age ensure that the enterprise itself is bound to appear in a
+morally and perhaps even a legally dubious light. It is evident that in these
+circumstances it becomes desirable, perhaps even essential, for the agent to
+be able to describe his behaviour in such a way as to defeat or at least to
+override any hostile appraisals of it, and in this way to legitimate what he
+is doing to those who may have doubts about the morality of his actions.
+   The suggestion I now wish to explore is that, if we concentrate on
+the means by which an agent in this type of situation can hope to
+legitimate his behaviour, we may be able to uncover a further type
+of causal connection between the principles for the sake of which he
+professes to act and his actual social or political actions. As a preface to
+this discussion, however, it is vital to concede that I have characterized the
+situation in an artificially simple way. I have implied that the sole motive
+for offering an ideological description of one’s untoward social actions will
+normally be to legitimate them to others who may have doubts about their
+legality or morality. I have thus implied that there is no reason to suppose
+that the agent ever needs to offer these descriptions for his own benefit, or
+even needs to believe in them at all. Ihave adopted this tactic, however, only
+
+=== p. 111 ===
+
+                   Analysis ofpolitical thought and action                  tii
+in order to avoid having to raise some highly complex and purely empirical
+questions which in no way affect the validity of my general argument. It
+is obvious that an agent’s motives in this situation will usually be mixed
+and complicated, and it is arguable that the need to attain an appropriate
+self-image by legitimating his behaviour to himself and his sympathizers
+may often be of paramount importance. To preserve the simplicity of the
+argument, however, I am willing in what follows to concede what is from
+my point of view the hardest case: the situation of an imagined agent who
+never actually believes in any of the principles he professes, and whose
+principles never serve in consequence as the main motives of his actions.
+My aim is to show that even in this case it still does not follow (as the
+Namierites, for example, have supposed) that we have no need to refer
+to this agent’s professed principles if we wish to explain his behaviour.
+   If we now turn to ask how this central task of an innovating ideologist
+— that of legitimating untoward social actions — can actually be performed,
+the theory of speech-acts immediately seems to provide an important clue to
+the answer. A number of recent philosophers of language — having thrown
+out as an old piece of positivist bric-a-brac the alleged logical distinction
+between factual and evaluative statements — have been able to concentrate
+on a group of terms which perform an evaluative as well as a descriptive
+function in the language.4¢ They are standardly used to describe individual
+actions or states of affairs, and to characterize the motives for the sake of
+which these actions can be performed. But if the criteria for applying one
+of these terms can be plausibly claimed to be present in a given set of
+circumstances, this not only serves to describe the given action or state of
+affairs, but also to evaluate it in a certain way. The special characteristic of
+this range of descriptive terms is thus that they have a standard application
+to perform one of two contrasting ranges of speech-acts. They are standardly
+used, that is, to perform such acts as commending (and expressing
+approval, etc.) or else of condemning (and expressing disapproval, etc.)
+the actions or states of affairs which they are also employed to describe.47
+   To focus on this group of terms is to take over an insight developed
+by the so-called emotivists in ethical theory, who contrasted the ‘emotive’
+with the ‘descriptive’ components of the meaning of ethical terms.48 But
+as Urmson has pointed out in applying Austin’s theory of speech-acts to
+clarify their account, the emotivists in effect confused what Austin dubbed
+the ‘illocutionary’ with the ‘perlocutionary’ sense in which an agent may
+succeed in doing something in or by using one of these terms. (Henceforth
+I shall inelegantly refer to them as ‘evaluative—descriptive terms’.) The sorts
+of perlocutionary effects which an agent may hope to achieve by using these
+terms are effects such as inciting or persuading his hearers or readers to
+adopt a particular point of view. But the question of whether he succeeds in
+realizing such hopes is not primarily a linguistic matter, but simply a matter
+
+=== p. 112 ===
+
+for empirical investigation. The sorts of illocutionary effects, however,
+which it is open to an agent to achieve in using these terms, are effects
+such as evincing, expressing, and soliciting approval er disapproval of the
+actions or states of affairs which he uses them to describe. The question
+of whether he succeeds in realizing this sort of intention is essentially
+a linguistic matter, a matter of applying the relevant terms correctly.
+And it is this fact which gives them their great analytical significance.4?
+   It is essentially by manipulating this set of terms that any society
+succeeds in establishing and altering its moral identity. It is by describing
+and thereby commending certain courses of action as (say) courageous or
+honest, while describing and condemning others as treacherous or disloyal,
+that we sustain our picture of the actions and states of affairs which we wish
+either to disavow or to legitimate. This being so, the task of the innovating
+ideologist is a hard but an obvious one. His concern, by definition, is to
+legitimate a new range of social actions which, in terms of the existing
+ways of applying the moral vocabulary prevailing in his society, are
+currently regarded as in some way untoward or illegitimate. His aim
+must therefore be to show that a number of existing and favourable
+evaluative—descriptive terms can somehow be applied to his apparently
+untoward actions. If he can somehow perform this trick, he can thereby
+hope to argue that the condemnatory descriptions which are otherwise
+liable to be applied to his actions can in consequence be discounted.
+   Two footnotes need to be added at this stage of the argument, one
+emphatic, the other concessive. The point which perhaps needs to be
+emphasized is that, however revolutionary the ideologist concerned _may
+be, he will nevertheless be committed, once he has accepted the need
+to legitimate his behaviour, to attempting to show that some of the
+existing range of favourable evaluative—descriptive terms can somehow be
+
+revolutionary is to this extent obliged to march backwards into battle.
+To legitimate his behaviour, he is committed to showing that it can be
+described in such a way that those who currently disapprove of it can
+somehow be brought to see that they ought to withhold this disapproval
+after all. And to achieve this end, he has no option but to show that at
+least some of the terms which his ideological opponents use when they
+are describing the actions and states of affairs of which they approve can
+be applied to include and thus legitimate his own untoward behaviour.
+   The concessive point is that the situation in the real world is in at
+least one important respect more complicated than my model has so far
+implied. It is not simply that the agent tries to apply to his own behaviour
+whatever favourable evaluative—descriptive terms are in fact best adapted
+to legitimating it. It is rather that he applies those he happens to believe
+are best adapted to this purpose. And it is obvious that he may always
+
+=== p. 113 ===
+
+                   Analysis of political thought and action                 it
+make a mistake or even an irrational choice in assessing the best means
+to attain this desired end. Nevertheless, it still seems correct to begin by
+assuming that the agent will have acted in a rational way. I say this not
+merely to preserve the simplicity of my general discussion, but also as a
+methodological precept when it comes to the discussion of actual examples.
+If we begin by assuming the agent’s rationality and find this assumption
+borne out, this will provide us with an explanation for the agent’s apparent
+belief that he was acting rationally. It will in fact provide us with the best
+possible explanation — namely, that he was acting rationally. Conversely,
+unless we begin by assuming the agent’s rationality, we leave ourselves with
+no means of explaining his behaviour, or even of seeing exactly what there
+is to explain about it, if it should happen that he is not acting rationally.
+To adopt this methodology is thus to remind ourselves of two important
+lessons. Oneis that to exhibit a social action as rational is to explain it. The
+other is that to explain why an agent acts as he does must always involve the
+capacity to SSE TET
+                  y he
+                     EET
+                       evidently believed
+                                     TEit was rational
+                                              ee       for him to perform a particular action when it was not in fact rational for him to do so.
+   These points can readily be underlined if we revert to the example
+of those who were concerned in early seventeenth-century England to
+legitimate their novel commercial and capitalist enterprises. They chose
+to attempt to legitimate this untoward behaviour in part by seeking to
+describe it in terms of the concepts normally used to commend an
+ideal of the religious life. It is clear that this was in fact a rational
+choice. If they could somehow plausibly apply these concepts to describe
+their own behaviour, this would obviously provide them with a most
+powerful legitimating device. It was, moreover, plausible to make such
+an attempt, since there was a certain element of structural similarity —
+which they eagerly exploited — between the specifically Protestant ideal
+of individual service and devotion (to God) and the alleged commercial
+ideals of service (to one’s customers) and dedication (to one’s work).
+   This brings me to the practical question: how_is it possible (in the
+above or in any other case) actually to manipulate an existing normative
+vocabulary in such a way as to legitimate such new and untoward courses
+of action? There may be said to be two distinct_methods, though they
+are often confused. (They are systematically confused, for example, by
+the writers of dictionaries.) The first consists in effect of manipulating
+the standard speech-act potential of an existing set of descriptive terms,
+The agent’s aim in this case is to describe his own actions in such a
+way as to make it clear (from the context) to his ideological opponents
+that even though he may be using a set of terms which are standardly
+applied to express disapproval, he is nevertheless using them to express
+approval or at least neutrality on this particular occasion. The point
+of this strategy is, of course, to challenge his opponents to reconsider
+
+=== p. 114 ===
+
+the feelings of disapproval or even of meré-neutrality which they are
+standardly expressing when they use these particular terms.
+   There are two main tactics available to the innovating ideologist in
+attempting to bring off this first strategy. He may try to introduce some
+wholly new_and favourable evaluative—descriptive terms into the language.
+There are two     possibilities here. One is simply to coin new_terms_as
+the descriptions of alleged new principles, and then to apply them _as
+
+see_commended. This seems to be the tactic which most commentators
+have had in mind when they have discussed the phenomenon of ‘altered
+meanings and new words’ in political debate.5° This is obviously an
+extremely crude device, however, and it is comparatively rare to find
+it employed in ideological debate. There is, however, one important
+instance of it in the case of the ideology I have mentioned.
+                                                         The concept
+                                                                   pt
+of frugality provides an example of an entirely new term which became
+widely used for the first time at the end of the sixteenth century in order
+to describe a motive and a form of social action for which approval wa
+beginning to be widely sought. The other and far commoner version of this
+tactic, however, consists of turning a neutral description into a favourable
+evaluative—descriptive term (usually by means of a metaphorical extension
+of its uses) and then applying it in virtue of this extended meaning to describe
+some course of action which one wishes to see commended. There are many
+cases of this sort of transformation in the ideology I have mentioned. The
+metaphorical (and, hence, evaluative) uses of such terms as discerning and
+penetrating, for example, make their first appearance in the language at
+the relevant time in order to describe a range of talents which many
+people had come to have a special reason for wishing to see commended.
+   The second and bolder tactic consists of varying the range of speech-acts
+which are standardly performed with an existing set of unfavourable
+evaluative—descriptive terms. Again there are two possibilities here. The
+more usual is to apply a term normally used to express disapproval in
+such a way as to neutralize this speech-act potential. The agent thus makes
+it clear that he intends the action which the term is being used to describe
+to be appraised on this occasion in a wholly neutral way. One clear and
+ultimately successful instance of this tactic is provided by the concept of
+ambition. It was only at the start of the seventeenth century that this term
+began to acquire its current neutral uses. It had previously been applied
+exclusively to express the strongest possible disapproval of whatever courses
+of action it was used to describe. The other and more dramatic possibility
+is actually to reverse the standard speech-act potential of the existing and
+unfavourable evaluative—descriptive term. An equally clear and successful
+example of this tactic, again from the same ideology, is provided by
+the concept of shrewdness. Again, before the start of the seventeenth
+
+=== p. 115 ===
+
+century, this term had been used exclusively to express disapproval.
+During the ensuing generation, its potential was completely reversed,
+giving it the standard use which it still fulfils as a term of approbation.
+   It is, of course, conceptually possible, though it seems to be empirically
+less usual, to employ a mirror-image of both these tactics as a means of
+trying to bring off this first strategy. It is possible in the first place to
+coin new and unfavourable evaluative—descriptive terms, and apply them
+to describe familiar forms of social behaviour which one may have come
+to wish to see condemned. This happened in the case of the ideology I have
+been citing with the concept of squandering and of being a spendthrift. Both
+these terms became widely used for the first time at the end of the sixteenth
+century in order to describe and express a new disapproval of the aristocratic
+ideal of conspicuous consumption. It is also possible to turn existing neutral
+descriptive terms into unfavourable evaluative—descriptive terms by means
+of a metaphorical extension of their uses. Two examples from the same
+ideology are provided by the concepts of errant and exorbitant behaviour,
+both of which first attained their metaphorical (and hence evaluative)
+meanings at the start of the seventeenth century. And, finally, the standard
+application of an existing evaluative—descriptive term to express approval
+can also be reversed — as happened with the concept of acting obsequiously.
+The term was standardly used until the end of the sixteenth century
+to express approval and only afterward became a term of disapprobation.
+   I now turn to the second strategy, which is both much simpler and of
+far greater significance as a legitimating device. This consists, in effect, of
+manipulating the criteria for the application of an existing set of favourable
+evaluative—descriptive terms. The ideologist’s aim in this case is to insist,
+with as much plausibility as he can muster, that, in_spite of any contrary
+appearances, a number of favourable evaluative—descriptive terms can in
+fact be applied as apt descriptions of his own apparently untoward social
+actions. The point of this strategy is to challenge his ideological opponents
+to reconsider whether they may not be making an empirical mistake (and
+may thus be socially insensitive) in failing to see that the ordinary criteria for
+applying an existing range of favourable evaluative—descriptive terms may
+be present in the very actions they have been condemning as illegitimate.
+   The attempt to make this move is, of course, ideological in the most
+pejorative sense, since it depends on the performance of a linguistic
+sleight-of-hand. The aim is to argue that a favourable evaluative—descriptive
+term is being applied in the ordinary way, while trying at the same time
+to drop some of the criteria for applying it, thereby extending the range
+of the actions which it can properly be used to describe and commend.
+(Again, the mirror-image of this strategy is to try to limit the application
+of existing unfavourable evaluative—descriptive terms.) This will fail if too
+many of the criteria are dropped, for in this case the fact that the
+
+=== p. 116 ===
+
+term has undergone a ‘change of meaning’ will become too obvious.
+But it will also fail if not enough are dropped, for in this case the
+capacity of the term to cover and thus to legitimate new forms of
+social action will not have been extended after all.
+   Despite these difficulties, this probably represents the most widespread
+and important form of ideological argument. It was extensively employed
+in the case of the ideology I have been citing: by means of it an attempt was
+made to connect the principles of Protestant Christianity with the practices
+of commercial life. Consider, for example, the use of the two most important
+evaluative—descriptive terms in the religious vocabulary of the age, the term
+‘providence’ and the term ‘religious’ itself. By the end of the sixteenth
+century, it began to be suggested by those who wished to legitimate the
+characteristic interestof the commercial classes in being foresightful in monetary affairs that this apparently miserly (and, hence, untoward) pattern of
+behaviour ought really to be seen as a commendable working of providence
+and thus as a provident form of action. They also began to suggest that their
+characteristic interest in punctuality and exactitude ought not to be con-
+
+and thus commended as a genuinely religious form of commitment. The best
+proof of the ideological motives at work in these new patterns of social
+description and evaluation is provided by the fact that the meanings of
+these key evaluative—descriptive terms soon became stretched and confused.
+The concept of providence began to be used in good faith (as it is still used)
+to refer simply to acting with foresight about monetary affairs, while the
+concept of acting religiously came to be used simply to refer to cases of
+exact and punctual behaviour. The standardization of these new meanings
+both date, as one might expect, from the start of the seventeenth century.
+  My main conclusion, which these examples serve to underline, is that
+all those who have argued about the relations between social and political
+thought and action in the manner of Namierites or the behaviourists have
+in effect been involved in a non sequitur. It does not, as they have tended
+to suppose, follow from the fact that an agent’s professed principles may be
+ex post facto rationalizations that they have no role to play in explaining
+his behaviour. As I have sought to emphasize, this argument ignores the
+implications of the fact that any agent possesses a standard motive for
+attempting to legitimate his untoward social or political actions. This
+implies first of all that he will be committed to claiming that his apparently
+untoward actions were in fact motivated by some accepted set of social or
+political principles. And this in turn implies that, even if the agent is not in
+fact moti               of the principles he professes, he will nevertheless be
+obliged to behave in such a way that his actions remain compatible with
+the claim that these principles genuinely motivated him. To recognize these
+implications is to accept that the courses of action open to any rational
+
+=== p. 117 ===
+
+agent in this type of situation must in part be determined by the range of
+principles which he can profess with plausibility. There is both a general
+and more specific conclusion to be drawn out here. The general conclusion
+derives from the fact that any course of action is inhibited from occurring
+if it cannot be legitimated. It follows that any principle which helps to
+legitimate a course of action must also be amongst the enabling conditions
+of its occurrence. The more specific conclusion derives from the fact that
+the nature and range of the evaluative concepts which any agent can hope
+to apply in order to legitimate his behaviour can in no case be set by the
+agent himself. Their availability is a question about the prevailing morality
+of the society in which the agent is acting; their_applicability is a question
+about the standard meaning and use of the terms involved, and about how
+far these can be plausibly stretched. These factors serve as rather specific
+constraints and directives to the agent about what precise lines of conduct
+afford him the best means of bringing his untoward actions in line with some
+accepted principle, and thereby legitimating what he does while still gaining
+what he wants. He cannot hope to stretch the application of the existing
+principles indefinitely; correspondingly, he can only hope to legitimate a
+restricted range of actions. It follows that to study the principles which
+the agent finally chooses to profess must be to study one of the key determinants of his decision to follow out any one particular line of action.
+   Even if these conclusions seem acceptable, however, it may still be felt that
+I have chosen to illustrate them with an unfortunate example. It has become
+a commonplace amongst historians to repudiate any suggestion that the
+principles of Protestant Christianity played a causal role in the development
+of capitalist practices. As Trevor-Roper has put it, any such theory ‘is
+exploded by the simple fact’ that ‘large scale industrial capitalism’ already
+existed before the Protestant reformation.®! It is true that if Weber imagined
+that a pre-existing Protestant ethic later helped in such a direct way to cause
+the rise of capitalism, then his theory   is refuted b   showing   that the emergence of capitalism predated the rise of Protestantism, It is hard to believe,
+however, that he intended only to suggest such a crude and easily discredited
+eRe
+connection. It seems more plausible to construe hi          aving intended to
+argue that the Protestant ethic was particularly well adjusted to legitimatin
+the rise of capitalism, and in this way helped it to develop and flourish. My
+own argument can thus be read as an attempt to reinterpret what I take to
+have been Weber’s real meaning. I do not wish, however, to press this point
+of interpretation here. I only wish to emphasize that even if Trevor-Roper’s
+criticism can be shown to point to a real weakness in Weber’s argument, it
+cannot be shown to point to any weakness in the argument I have myself
+been concerned to advance. My suggestion that the role of Protestantism
+was to legitimate the rise of capitalism is obviously based not on ignorin
+but_on_ assuming the fact that capitalism predated Protestantism. What I
+
+=== p. 118 ===
+
+      rks                            Quentin Skinner                                       |
+
+      ave tried to Show, however, is that it does not follow from this fact, as
+      TrevorRoper and others appear to conclude, that Protestantism had no
+      causal role to play i the development of capitalism.As I have sought to
+      argue, this ignores the fact that the earliest capitalists lacked any legitimacy
+      ww the moral climate  tn which they at first found themselv             es,
+                                                                         and so needed
+
+              eS the ROFMative Vocabulary of the                             greatly to.
+            NETO, wethas case, of all sincerely rehigt
+poe                     Yb Seed                      ck.   But there isno doubtthatthe
+RSS                                ry of Protestantism not only                :
+                                         t      arguably     to   ch:    its dev
+      BRENT WS                       icular
+                   She WAYS — im partic         towards an ethic of industriousness.
+
+      at Bs _Neology,      even if                  :           never provided the
+      camtahsts with any of their real motives, it is still essential to refer to the ~._
+      Wology im onder to be able toexplain how and why the system developed.
+

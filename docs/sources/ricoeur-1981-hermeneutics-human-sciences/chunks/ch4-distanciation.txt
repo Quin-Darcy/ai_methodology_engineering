@@ -1,0 +1,538 @@
+=== chunk: ricoeur-1981-hermeneutics-human-sciences/ch4-distanciation ===
+title: The hermeneutical function of distanciation
+source_pdf: docs/sources/ricoeur-1981-hermeneutics-human-sciences/full.pdf
+pdf_pages: 144-157
+page_scheme: book
+plan_page_start: 93
+plan_page_end: 106
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 93 ===
+
+           The hermeneutical function
+                of distanciation
+
+                                  B
+In previous studies, I have described the background against which I shall
+try to elaborate the hermeneutical problem in a way that will be significant
+for the dialogue between hermeneutics and the semiological and exegetical disciplines. The description has led us to an antinomy which seems to
+me to be the mainspring of Gadamer’s work, namely the opposition
+between alienating distanciation and belonging. This opposition is an
+antinomy because it establishes an untenable alternative: on the one hand,
+alienating distanciation is the attitude that renders possible the objectification which reigns in the human sciences; but on the other hand, this
+distanciation, which is the condition of the scientific status of the sciences,
+is at the same time the fall that destroys the fundamental and primordial
+relation whereby we belong to and participate in the historical reality
+which we claim to construct as an object. Whence the alternative underlying the very title of Gadamer’s work Truth and Method: either we adopt
+the methodological attitude and lose the ontological density of the reality
+we study, or we adopt the attitude of truth and must then renounce the
+objectivity of the human sciences.
+   My own reflection stems from a rejection of this alternative and an
+attempt to overcome it. The first expression of this attempt consists in
+the choice of a dominant problematic which seems to me to escape from
+the alternative between alienating distanciation and participatory
+belonging. The dominant problematic is that of the text, which reintroduces a positive and, if I may say so, productive notion of distanciation. In
+my view, the text is much more than a particular case of intersubjective
+communication: it is the paradigm of distanciation in communication. As
+such, it displays a fundamental characteristic of the very historicity of
+human experience, namely that it is communication in and through
+distance.
+   In what follows, I shall elaborate the notion of the text in view of that to
+which it testifies, the positive and productive function of distanciation at
+the heart of the historicity of human experience. I propose to organise
+
+=== p. 94 ===
+
+this problematic around five themes: (1) the realisation of language as
+discourse; (2) the realisation of discourse as a structured work; (3) the
+relation of speaking to writing in discourse and in the works of discourse;
+(4) the work of discourse as the projection of a world; (5) discourse and the
+work of discourse as the mediation of self-understanding. Taken together,
+these features constitute the criteria of textuality.
+   We shall see that the question of writing, when placed at the centre of
+this network of criteria, in no way constitutes the unique problematic of
+the text. The text cannot, therefore, be purely and simply identified with
+writing. There are several reasons for this. First, it is not writing as such
+which gives rise to the hermeneutical problem, but the dialectic of speaking and writing. Second, this dialectic is constructed upon a dialectic of
+distanciation which is more primitive than the opposition of writing to
+speaking and which is already part of oral discourse qua discourse; we
+must therefore search in discourse itself for the roots of all subsequent
+dialectics. Finally, between the realisation of language as discourse and the
+dialectic of speaking and writing, it seems necessary to insert the fundamental notion of the realisation of discourse as a structured work. It seems
+to me that the objectification of language in works of discourse constitutes
+the proximate condition of the inscription of discourse in writing; literature consists of written works, hence above all of works. But that is not all:
+the triad discourse–work–writing still only constitutes the tripod which
+supports the decisive problematic, that of the projection of a world, which
+I shall call the world of the work, and where I see the centre of gravity of
+the hermeneutical question. The whole preliminary discussion will serve
+only to prepare the way for the displacement of the problem of the text
+towards that of the world which it opens up. At the same time, the question
+of self-understanding, which had occupied the foreground in Romantic
+hermeneutics, is postponed until the end, appearing as a terminal point
+and not as an introductory theme or even less as the centre of gravity.
+
+I.   The realisation of language as discourse
+Discourse, even in an oral form, displays a primitive type of distanciation
+which is the condition of possibility of all the characteristics we shall
+consider later. This primitive type of distanciation can be discussed under
+the heading of the dialectic of event and meaning.
+  Discourse is given as an event: something happens when someone
+speaks. The notion of discourse as event is essential when we take into
+consideration the passage from a linguistics of language or codes to a
+
+=== p. 95 ===
+
+linguistics of discourse or messages. The distinction comes, as we know,
+from Ferdinand de Saussure1 and Louis Hjelmslev;2 the first distinguished
+‘language’ [langue] and ‘speech’ [parole], the second ‘schema’ and ‘use’.
+The theory of discourse draws all the epistemological consequences of this
+duality. Whereas structural linguistics simply places speech and use in
+parentheses, the theory of discourse removes the parentheses and proclaims the existence of two linguistics resting upon different principles.
+The French linguist Emile Benveniste3 has gone the furthest in this direction. For him, the linguistics of discourse and the linguistics of language
+are constructed upon different units. If the ‘sign’ (phonological and lexical)
+is the basic unit of language, the ‘sentence’ is the basic unit of discourse.
+The linguistics of the sentence underlies the dialectic of event and meaning, which forms the starting point for our theory of the text.
+   What are we to understand by ‘event’? To say that discourse is an event
+is to say, first, that discourse is realised temporally and in the present,
+whereas the system of language is virtual and outside of time. In this
+sense, we can speak with Benveniste of the ‘instance of discourse’, in order
+to designate the emergence of discourse itself as an event. Moreover,
+whereas language has no subject insofar as the question ‘who speaks?’
+does not apply at this level, discourse refers back to its speaker by means
+of a complex set of indicators, such as personal pronouns. We can say, in
+this sense, that the instance of discourse is self-referential. The eventful
+character is now linked to the person who speaks; the event consists in the
+fact that someone speaks, someone expresses himself in taking up speech.
+Discourse is an event in yet a third way: the signs of language refer only to
+other signs in the interior of the same system so that language no more has
+a world than it has a time and a subject, whereas discourse is always about
+something. Discourse refers to a world which it claims to describe, express
+or represent. The event, in this third sense, is the advent of a world in
+language [langage] by means of discourse. Finally, while language is only a
+prior condition of communication for which it provides the codes, it is in
+discourse that all messages are exchanged. So discourse not only has a
+
+1   Ferdinand de Saussure, Cours de linguistique générale (Paris: Edition critique T. de Mauro,
+    1973), pp. 30ff., 36ff., 112, 227 [English translation: Course in General Linguistics, translated
+    by Wade Baskin (London: Fontana/Collins, 1974), pp. 13ff., 17ff., 77, 165].
+2   Louis Hjelmslev, Essais linguistiques (Copenhague: Cercle linguistique de Copenhague,
+    1959).
+3   Emile Benveniste, Problèmes de linguistique générale (Paris: Gallimard, 1966) [English translation: Problems in General Linguistics, translated by Mary Elizabeth Meek (Florida: University of Miami Press, 1971)].
+
+=== p. 96 ===
+
+world, but it has an other, another person, an interlocutor to whom it is
+addressed. The event, in this last sense, is the temporal phenomenon of
+exchange, the establishment of a dialogue which can be started, continued
+or interrupted. All of these features, taken together, constitute discourse as
+an event. It is notable that they appear only in the realisation of language
+in discourse, in the actualisation of our linguistic competence in
+performance.
+   However, in thus accentuating the eventful character of discourse, we
+have brought out only one of the two constitutive poles of discourse. Now
+we must clarify the second pole, that of meaning. For it is the tension
+between the two poles which gives rise to the production of discourse as a
+work, the dialectic of speaking and writing, and all the other features of
+the text which enrich the notion of distanciation.
+   In order to introduce the dialectic of event and meaning, I propose to
+say that, if all discourse is realised as an event, all discourse is understood
+as meaning. What we wish to understand is not the fleeting event, but
+rather the meaning which endures. This point demands the greatest clarification, for it may seem that we are reverting from the linguistics of
+discourse to the linguistics of language. But that is not so; it is in the
+linguistics of discourse that event and meaning are articulated. This
+articulation is the core of the whole hermeneutical problem. Just as language, by being actualised in discourse, surpasses itself as system and
+realises itself as event, so too discourse, by entering the process of understanding, surpasses itself as event and becomes meaning. The surpassing
+of the event by the meaning is characteristic of discourse as such. It attests
+to the very intentionality of language, to the relation within the latter of
+the noema and the noesis. If language is a meinen, a meaningful intention,
+it is precisely in virtue of the surpassing of the event by the meaning. The
+very first distanciation is thus the distanciation of the saying in the said.
+   But what is said? To clarify more completely this problem, hermeneutics
+must appeal not only to linguistics – even when this is understood as the
+linguistics of discourse as opposed to the linguistics of language – but also
+to the theory of speech-acts, as found in the work of Austin4 and Searle.5
+According to these authors, the act of discourse is constituted by a hierarchy of subordinate acts distributed on three levels: (1) the level of the
+locutionary or propositional act, the act of saying; (2) the level of the
+
+4    J.L. Austin, How to do Things with Words (Oxford: Oxford University Press, 1962).
+5    John R. Searle, Speech Acts: An Essay in the Philosophy of Language (Cambridge: Cambridge
+     University Press, 1969).
+
+=== p. 97 ===
+
+illocutionary act (or force), what we do in saying; (3) the level of the
+perlocutionary act, what we do by the fact that we speak. If I tell you to
+close the door, I do three things. First, I relate the action predicate (to close)
+to two variables (you and the door): this is the act of saying. Second, I tell
+you this with the force of an order rather than a statement, wish or
+promise: this is the illocutionary act. Finally, I can provoke certain consequences, such as fear, by the fact that I give you an order; hence discourse
+is a sort of stimulus which produces certain results: this is the perlocutionary act.
+   What are the implications of these distinctions for our problem of the
+intentional exteriorisation by which the event is surpassed in the meaning?
+The locutionary act is exteriorised in the sentence qua proposition. For it is
+as such and such proposition that the sentence can be identified and
+reidentified as the same. A sentence thus appears as an ut-terance (Aussage), capable of being conveyed to others with such and such a meaning.
+What is identified is the predicative structure itself, as the above example
+reveals. An action sentence can be identified, therefore, by its specific
+predicate (the action) and by its two variables (the agent and the object).
+The illocutionary act can also be exteriorised by means of grammatical
+paradigms (the moods: indicative, imperative, etc.) and other procedures
+which ‘mark’ the illocutionary force of a sentence and thus enable it to be
+identified and reidentified. It is true that, in oral discourse, the illocutionary force can be identified by gestures and gesticulations as well as by
+properly linguistic features; it is also true that the least articulated aspects
+of discourse, the aspects we call prosody, provide the most compelling
+indices. Nevertheless, the properly syntactic marks constitute a system of
+inscription which makes possible in principle the fixation by writing of
+these indications of illocutionary force. It must be conceded that the
+perlocutionary act, being primarily a characteristic of oral discourse, is
+the least inscribable element. But the perlocutionary action is also the least
+discursive aspect of discourse: it is discourse qua stimulus. Here discourse
+operates, not through the recognition of my intention by the interlocutor,
+but in an energetic mode, as it were, by direct influence upon the emotions
+and affective attitudes of the interlocutor. Thus the propositional act, the
+illocutionary force and the perlocutionary action are susceptible, in
+decreasing degrees, to the intentional exteriorisation which renders
+inscription by writing possible.
+   Thus, by the meaning of the act of discourse, or the noema of the saying,
+we must understand not only the correlate of the sentence, in the narrow
+sense of the propositional act, but also the correlate of the illocutionary
+
+=== p. 98 ===
+
+force and even that of the perlocutionary action, insofar as these three
+aspects of the act of discourse are codified and regulated according to
+paradigms, and hence insofar as they can be identified and reidentified as
+having the same meaning. I therefore give the word ‘meaning’ a very
+broad connotation that covers all the aspects and levels of the intentional
+exteriorisation which, in turn, renders possible the exteriorisation of discourse in writing and in the work.
+
+II.     Discourse as a work
+I shall propose three distinctive features of the notion of a work. First, a
+work is a sequence longer than the sentence; it raises a new problem of
+understanding, relative to the finite and closed totality which constitutes
+the work as such. Second, the work is submitted to a form of codification
+which is applied to the composition itself, and which transforms discourse
+into a story, a poem, an essay, etc. This codification is known as a literary
+genre; a work, in other words, is characteristically subsumed to a literary
+genre. Finally, a work is given a unique configuration which likens it to an
+individual and which may be called its style.
+   Composition, belonging to a genre and individual style characterise
+discourse as a work. The very word ‘work’ reveals the nature of these
+new categories; they are categories of production and of labour. To impose
+a form upon material, to submit production to genres, to produce an
+individual: these are so many ways of treating language as a material to
+be worked upon and formed. Discourse thereby becomes the object of a
+praxis and a techne. In this respect, there is not a sharp opposition between
+mental and manual labour. We may recall what Aristotle says about
+practice and production: ‘All practice and all production concern the
+individual. For it is not man that medicine cures, except by accident; rather
+it is Callias or Socrates or some other individual, thus designated, who at
+the same time happens to be a man’ (Metaphysics A, 91a, a15). In a similar
+vein, G.-G. Granger writes in his Essai d’une philosophie du style: ‘Practice is
+activity considered together with its complex context and in particular
+with the social conditions which give it meaning in a world actually
+experienced.’6 Labour is thus one, if not the principal, structure of practice;
+it is ‘practical activity objectifying itself in works’.7 In the same way, the
+literary work is the result of a labour which organises language. In
+
+6     G.-G. Granger, Essai d’une philosophie du style (Paris: A. Colin, 1968), p. 6.   7   Ibid.
+
+=== p. 99 ===
+
+labouring upon discourse, man effects the practical determination of a
+category of individuals: the works of discourse. Here the notion of meaning receives a new specification, linking it to the level of the individual
+work. There is thus a problem of the interpretation of works, a problem
+irreducible to the step by step understanding of sentences. The phenomenon of the work globally signifying qua work is underlined by the fact of
+style. The problem of literature can then be situated within a general
+stylistics, conceived as a ‘meditation on human works’8 and specified by
+the notion of labour, for which it seeks the conditions of possibility: ‘To
+investigate the most general conditions of inserting structures in individual practices would be the task of a stylistics.’9
+   In the light of these principles, what happens to the features of discourse
+outlined at the beginning of this study? Let us recall the initial paradox of
+event and meaning: discourse, we said, is realised as event but understood
+as meaning. How does the notion of work fit into this paradox? By
+introducing the categories of production and labour into the dimension
+of discourse, the notion of work appears as a practical mediation between
+the irrationality of the event and the rationality of meaning. The event is
+stylisation itself, but this stylisation is in dialectical relation with a complex, concrete situation presenting conflictual tendencies. Stylisation
+occurs at the heart of an experience which is already structured but which
+is nevertheless characterised by openings, possibilities, indeterminacies.
+To grasp a work as an event is to grasp the relation between the situation
+and the project in the process of restructuration. The work of stylisation
+takes the peculiar form of an interplay between an anterior situation which
+appears suddenly undone, unresolved, open, and a conduct or strategy
+which reorganises the residues left over from the anterior structuration. At
+the same time, the paradox of the fleeting event and the identifiable and
+repeatable meaning, which is at the origin of our meditation on distancia-tion in discourse, finds a remarkable mediation in the notion of work. The
+two aspects of event and meaning are drawn together by the notion of
+style. Style, we said, is expressed temporally as an individual work and in
+this respect concerns the irrational moment of taking a stand [parti pris],
+but its inscription in the materials of language give it the appearance of a
+sensible idea, a concrete universal, as W.K. Wimsatt says in The Verbal
+Icon.10 A style is the promotion of a particular standpoint in a work which,
+
+ 8 Ibid., p. 11.   9 Ibid., p. 12.
+10 W.K. Wimsatt, The Verbal Icon: Studies in the Meaning of Poetry (Kentucky: University of
+   Kentucky Press, 1954).
+
+=== p. 100 ===
+
+by its singularity, illustrates and exalts the eventful character of discourse;
+but this event is not to be sought elsewhere than in the very form of the
+work. If the individual work cannot be grasped theoretically, it can be
+recognised as the singularity of a process, a construction, in response to a
+determinate situation.
+   The concept of the subject of discourse receives a new status when
+discourse becomes a work. The notion of style permits a new approach
+to the question of the subject of the literary work. The key is in the
+categories of production and labour; in this respect, the model of the
+artisan is particularly instructive (the stamp on furniture in the eighteenth
+century, the signature of the artist, etc.). For the concept of author, which
+qualifies that of the speaking subject on this level, appears as the correlate
+of the individuality of the work. The most striking proof is provided by the
+example which is least literary, namely the style of the construction of the
+mathematical object such as Granger describes it in the first part of his
+Essai d’une philosophie du style. Even the construction of an abstract model
+of phenomena, insofar as it is a practical activity immanent in a process of
+structuration, bears a proper name. A given mode of structuration necessarily appears to be chosen instead of some other mode. Since style is
+labour which individuates, that is, which produces an individual, so it
+designates retroactively its author. Thus the word ‘author’ belongs to
+stylistics. Author says more than speaker: the author is the artisan of a
+work of language. But the category of author is equally a category of
+interpretation, in the sense that it is contemporaneous with the meaning
+of the work as a whole. The singular configuration of the work and the
+singular configuration of the author are strictly correlative. Man individuates himself in producing individual works. The signature is the mark of
+this relation.
+   The most important consequence of introducing the category of work
+pertains to the notion of composition. For the work of discourse presents
+the characteristics of organisation and structure which enable structural
+methods to be applied to discourse itself, methods which were first successfully applied to linguistic entities shorter than the sentence in phonology and semantics. The objectification of discourse in the work and the
+structural character of composition, to which we shall add distanciation by
+writing, compel us to place in question the Diltheyan opposition between
+‘understanding’ and ‘explanation’. A new phase of hermeneutics is
+opened by the success of structural analysis; henceforth explanation is
+the obligatory path of understanding. This does not mean, I hasten to
+say, that explanation can eliminate understanding. The objectification of
+
+=== p. 101 ===
+
+discourse in a structured work does not abolish the first and fundamental
+feature of discourse, namely that it is constituted by a series of sentences
+whereby someone says something to someone about something. Hermeneutics, I shall say, remains the art of discerning the discourse in the work;
+but this discourse is only given in and through the structures of the work.
+Thus interpretation is the reply to the fundamental distanciation constituted by the objectification of man in works of discourse, an objectification
+comparable to that expressed in the products of his labour and his art.
+
+III.   The relation of speaking and writing
+What happens to discourse when it passes from speaking to writing? At
+first sight, writing seems only to introduce a purely external and material
+factor: fixation, which shelters the event of discourse from destruction. In
+fact, fixation is only the external appearance of a problem which is much
+more important, and which affects all the properties of discourse that we
+have enumerated above. To begin with, writing renders the text autonomous with respect to the intention of the author. What the text signifies no
+longer coincides with what the author meant; henceforth, textual meaning
+and psychological meaning have different destinies.
+   This first modality of autonomy encourages us to recognise a positive
+significance in Verfremdung, a significance which cannot be reduced to the
+nuance of decline which Gadamer tends to give to it. The autonomy of the
+text already contains the possibility that what Gadamer calls the ‘matter’
+of the text may escape from the finite intentional horizon of its author; in
+other words, thanks to writing, the ‘world’ of the text may explode the
+world of the author.
+   What is true of the psychological conditions holds also for the sociological conditions of the production of the text. An essential characteristic
+of a literary work, and of a work of art in general, is that it transcends its
+own psycho-sociological conditions of production and thereby opens itself
+to an unlimited series of readings, themselves situated in different sociocultural conditions. In short, the text must be able, from the sociological as
+well as the psychological point of view, to ‘decontextualise’ itself in such a
+way that it can be ‘recontextualised’ in a new situation – as accomplished,
+precisely, by the act of reading.
+   The emancipation with respect to the author has a parallel on the side of
+those who receive the text. In contrast to the dialogical situation, where the
+vis-à-vis is determined by the very situation of discourse, written discourse
+creates an audience which extends in principle to anyone who can read.
+
+=== p. 102 ===
+
+The freeing of the written material with respect to the dialogical condition
+of discourse is the most significant effect of writing. It implies that the
+relation between writing and reading is no longer a particular case of the
+relation between speaking and hearing.
+   The first important hermeneutical consequence of the autonomy of the
+text is this: distanciation is not the product of methodology and hence
+something superfluous and parasitical; rather it is constitutive of the
+phenomenon of the text as writing. At the same time, it is the condition
+of interpretation; Verfremdung is not only what understanding must overcome, but also what conditions it. We are thus prepared to discover a
+relation between objectification and interpretation which is much less dichotomous, and consequently much more complementary, than that established by the Romantic tradition. The passage from speaking to writing
+affects discourse in several other ways. In particular, the functioning of
+reference is profoundly altered when it is no longer possible to identify the
+thing spoken about as part of the common situation of the interlocutors.
+We shall offer a separate analysis of this phenomenon under the title of
+‘the world of the text’.
+
+IV.   The world of the text
+The feature which we have placed under this title is going to lead us
+further from the position of Romantic hermeneutics, including the work
+of Dilthey, as well as towards the antipodes of structuralism, which
+I confront here as the simple contrary of Romanticism.
+   We may recall that Romantic hermeneutics placed the emphasis on the
+expression of genius; to liken oneself to this genius, to render it contemporary, such was the task of hermeneutics. Dilthey, still close in this sense
+to Romantic hermeneutics, based his concept of interpretation on that of
+‘understanding’, that is, on grasping an alien life which expresses itself
+through the objectifications of writing. Whence the psychologising and
+historicising character of Romantic and Diltheyan hermeneutics. This
+route is no longer open to us, once we take distanciation by writing and
+objectification by structure seriously. But is this to say that, renouncing
+any attempt to grasp the soul of an author, we shall restrict ourselves to
+reconstructing the structure of a work?
+   The answer to this question distances us as much from structuralism as
+from Romanticism. The principal task of hermeneutics eludes the alternative of genius or structure; I shall link it to the notion of ‘the world of the
+text’. This notion extends what we earlier called the reference or denotation
+
+=== p. 103 ===
+
+of discourse. Following Frege, we can distinguish between the sense
+and the reference of any proposition.11 The sense is the ideal object which
+the proposition intends, and hence is purely immanent in discourse. The
+reference is the truth value of the proposition, its claim to reach reality.
+Reference thus distinguishes discourse from language [langue]; the latter
+has no relation with reality, its words returning to other words in the
+endless circle of the dictionary. Only discourse, we shall say, intends things,
+applies itself to reality, expresses the world.
+    The new question which arises is this: what happens to reference when
+discourse becomes a text? Here we find that writing, and above all the
+structure of the work, modify reference to the point of rendering it entirely
+problematic. In oral discourse, the problem is ultimately resolved by the
+ostensive function of discourse; in other words, reference is determined by
+the ability to point to a reality common to the interlocutors. If we cannot
+point to the thing about which we speak, at least we can situate it in
+relation to the unique spatio-temporal network which is shared by the
+interlocutors. It is the ‘here’ and ‘now’, determined by the situation of
+discourse, which provides the ultimate reference of all discourse. With
+writing, things already begin to change. For there is no longer a situation
+common to the writer and the reader, and the concrete conditions of the
+act of pointing no longer exist. This abolition of the ostensive character of
+reference is no doubt what makes possible the phenomenon we call
+‘literature’, which may abolish all reference to a given reality. However,
+the abolition of ostensive reference is taken to its most extreme conditions
+only with the appearance of certain literary genres, which are generally
+linked to but not necessarily dependent upon writing. The role of most our
+literature is, it seems, to destroy the world. That is true of fictional literature – folktales, myths, novels, plays – but also of all literature which could
+be called poetic, where language seems to glorify itself at the expense of
+the referential function of ordinary discourse.
+    Nevertheless, there is no discourse so fictional that it does not connect
+up with reality. But such discourse refers to another level, more fundamental than that attained by the descriptive, constative, didactic discourse
+which we call ordinary language. My thesis here is that the abolition of a
+first order reference, an abolition effected by fiction and poetry, is the
+condition of possibility for the freeing of a second order reference, which
+reaches the world not only at the level of manipulable objects, but at the
+
+11 G. Frege, ‘On sense and reference’ in Translations from the Philosophical Writings of Gottlob
+   Frege, edited by Peter Geach and Max Black (Oxford: Basil Blackwell, 1960).
+
+=== p. 104 ===
+
+level that Husserl designated by the expression Lebenswelt [life-world] and
+Heidegger by the expression ‘being-in-the-world’.
+   The unique referential dimension of the work of fiction and poetry
+raises, in my view, the most fundamental hermeneutical problem. If we
+can no longer define hermeneutics in terms of the search for the psychological intentions of another person which are concealed behind the text,
+and if we do not want to reduce interpretation to the dismantling of
+structures, then what remains to be interpreted? I shall say: to interpret
+is to explicate the type of being-in-the-world unfolded in front of the text.
+   Here we rejoin one of Heidegger’s suggestions concerning the notion of
+Verstehen. Recall that, in Being and Time, the theory of ‘understanding’ is no
+longer tied to the understanding of others, but becomes a structure of
+being-in-the-world. More precisely, it is a structure which is explored after
+the examination of Befindlichkeit [state-of-mind]. The moment of ‘understanding’ corresponds dialectically to being in a situation: it is the projection of our ownmost possibilities at the very heart of the situations in
+which we find ourselves. I want to retain from this analysis the idea of ‘the
+projection of our ownmost possibilities’, applying it to the theory of the
+text. For what must be interpreted in a text is a proposed world which
+I could inhabit and wherein I could project one of my ownmost possibilities. That is what I call the world of the text, the world proper to this
+unique text.
+   The world of the text is therefore not the world of everyday language. In
+this sense, it constitutes a new sort of distanciation which could be called a
+distanciation of the real from itself. It is this distanciation which fiction
+introduces into our apprehension of reality. We said that narratives,
+folktales and poems are not without a referent; but this referent is discontinuous with that of everyday language. Through fiction and poetry, new
+possibilities of being-in-the-world are opened up within everyday reality.
+Fiction and poetry intend being, not under the modality of being-given,
+but under the modality of power-to-be. Everyday reality is thereby meta-morphised by what could be called the imaginative variations which
+literature carries out on the real.
+   I have shown elsewhere, with the example of metaphorical language,12
+that fiction is the privileged path for the redescription of reality; and that
+poetic language is par excellence that which effects what Aristotle, reflecting
+on tragedy, called the mimesis of reality. For tragedy imitates reality only
+
+12 See ‘Metaphor and the central problem of hermeneutics’, in this volume.
+
+=== p. 105 ===
+
+because it recreates it by means of a mythos, a ‘fable’, which reaches the
+profoundest essence of reality.
+  Such is the third sort of distanciation which the hermeneutic experience
+must incorporate.
+
+V.   Self-understanding in front of the work
+I should like to consider a fourth and final dimension of the notion of
+the text. I announced it in the introduction by saying that the text is the
+medium through which we understand ourselves. This fourth theme
+marks the appearance of the subjectivity of the reader. It extends the
+fundamental characteristic of all discourse whereby the latter is addressed
+to someone. But in contrast to dialogue, this vis-à-vis is not given in the
+situation of discourse; it is, if I may say so, created or instituted by the
+work itself. A work opens up its readers and thus creates its own subjective vis-à-vis.
+   It may be said that this problem is well known in traditional hermeneutics: it is the problem of the appropriation (Aneignung) of the text, its
+application (Anwendung) to the present situation of the reader. Indeed,
+I also understand it in this way; but I should like to underline how this
+theme is transformed when it is introduced after the preceding points.
+   To begin with, appropriation is dialectically linked to the distanciation
+characteristic of writing. Distanciation is not abolished by appropriation,
+but is rather the counterpart of it. Thanks to distanciation by writing,
+appropriation no longer has any trace of affective affinity with the intention of an author. Appropriation is quite the contrary of contemporaneousness and congeniality: it is understanding at and through distance.
+   In the second place, appropriation is dialectically linked to the objectification characteristic of the work. It is mediated by all the structural objectifications of the text; insofar as appropriation does not respond to the
+author, it responds to the sense. Perhaps it is at this level that the mediation effected by the text can be best understood. In contrast to the
+tradition of the cogito and to the pretension of the subject to know itself
+by immediate intuition, it must be said that we understand ourselves only
+by the long detour of the signs of humanity deposited in cultural works.
+What would we know of love and hate, of moral feelings and, in general,
+of all that we call the self, if these had not been brought to language and
+articulated by literature? Thus what seems most contrary to subjectivity,
+and what structural analysis discloses as the texture of the text, is the very
+medium within which we can understand ourselves.
+
+=== p. 106 ===
+
+   Above all, the vis-à-vis of appropriation is what Gadamer calls ‘the
+matter of the text’ and what I call here ‘the world of the work’. Ultimately,
+what I appropriate is a proposed world. The latter is not behind the text, as
+a hidden intention would be, but in front of it, as that which the work
+unfolds, discovers, reveals. Henceforth, to understand is to understand
+oneself in front of the text. It is not a question of imposing upon the text
+our finite capacity of understanding, but of exposing ourselves to the text
+and receiving from it an enlarged self, which would be the proposed
+existence corresponding in the most suitable way to the world proposed.
+So understanding is quite different from a constitution of which the
+subject would possess the key. In this respect, it would be more correct
+to say that the self is constituted by the ‘matter’ of the text.
+   It is undoubtedly necessary to go still further: just as the world of the
+text is real only insofar as it is imaginary, so too it must be said that the
+subjectivity of the reader comes to itself only insofar as it is placed in
+suspense, unrealised, potentialised. In other words, if fiction is a fundamental dimension of the reference of the text, it is no less a fundamental
+dimension of the subjectivity of the reader. As reader, I find myself only by
+losing myself. Reading introduces me into the imaginative variations of
+the ego. The metamorphosis of the world in play is also the playful
+metamorphosis of the ego.
+   If that is true, then the concept of ‘appropriation’, to the extent that it is
+directed against Verfremdung, demands an internal critique. For the metamorphosis of the ego, of which we have just spoken, implies a moment of
+distanciation in the relation of self to itself; hence understanding is as
+much disappropriation as appropriation. A critique of the illusions of the
+subject, in a Marxist or Freudian manner, therefore can and must be
+incorporated into self-understanding. The consequence for hermeneutics
+is important: we can no longer oppose hermeneutics and the critique of
+ideology. The critique of ideology is the necessary detour which self-understanding must take, if the latter is to be formed by the matter of
+the text and not by the prejudices of the reader.
+   Thus we must place at the very heart of self-understanding that dialectic
+of objectification and understanding which we first perceived at the level
+of the text, its structures, its sense and its reference. At all these levels of
+analysis, distanciation is the condition of understanding.
+

@@ -1,0 +1,866 @@
+=== chunk: tully-1988-meaning-and-context/ch9-femia-historicist-critique ===
+title: An historicist critique of revisionist methods
+source_pdf: docs/sources/tully-1988-meaning-and-context/full.pdf
+pdf_pages: 170-189
+page_scheme: book
+plan_page_start: 156
+plan_page_end: 175
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 156 ===
+
+                                    9                   ~
+
+An historicist critique of ‘revisionist’
+  methods for studying the history
+               of ideas
+                      Joseph V. Femia
+
+  Man, bound and determined by the reality of life, is set free not
+  only through art — as has often been set forth — but also through
+  the understanding of history.
+                                                                 Dilthey
+  We must use the criterion that a philosophical position should be
+  criticized and evaluated not for what it pretends to be, but for what
+  itreallyiisey
+                                                                 Gramsci
+
+                                     I
+
+What are the correct procedures to adopt in the attempt to arrive at an
+understanding of a past work of philosophy or political thought? In the
+past decade or so traditional approaches to the history of ideas have been
+subjected to severe and fundamental criticism by a handful of scholars
+who, while not agreeing on all particulars, generally laud one another’s
+work, depict themselves as methodological innovators, and constitute what
+we might loosely call a ‘revisionist school’ within the field of intellectual
+history. The nucleus of this school — Quentin Skinner, J. G. A. Pocock and
+John Dunn — all complain about the lack of historicity in the treatment of
+linguistic artefacts from the past. Their béte noire is the prevalent notion
+that the whole point of studying ‘great’ works of philosophy is to extract
+the ‘timeless elements’ or ‘dateless ideas’ with universal (and therefore
+
+=== p. 157 ===
+
+                 Historicist critique of ‘revisionist’ methods               U7,
+contemporary) application. In striving to appropriate the ‘classical texts’ to
+the present, the orthodox historians of ideas, it is contended, have generated
+both mistaken empirical claims and conceptual confusion; they have ignored
+the uniquely historical question of what the various thinkers intended to say,
+and have, instead, deployed interpretative techniques which are not properly
+historical. As an alternative, say the revisionists, it is necessary to develop
+‘a truly autonomous method, one which offers a means of treating the
+phenomena of political thought strictly as historical phenomena and — since
+history is about things happening — even as historical events: as things happening in a context which defines the kind of events they were’.! In essence
+the alternative urges a theory of interpretation which stresses the recovery
+of an author’s intention to mean a particular thing in writing what he wrote
+at a particular time. The ‘intentional’ approach, it is said, offers the best
+hope of restoring the study of past thought to a sound historical footing.
+   In what follows, I shall challenge some basic assumptions of this recent
+critique and methodology. The revisionists have, of course, been attacked
+before, but not from the perspective I adopt — the ‘absolute historicism’2
+expounded by Antonio Gramsci. Rejection of the conventional ‘timeless
+approach’, I shall argue, by no means commits us to the arbitrary brand
+of historicism espoused by the revisionists. For reasons of economy and
+convenience, my criticism will concentrate on Skinner’s famous article,
+‘Meaning    and understanding     in the history of ideas’ (2), the classic of
+the genre which established its author as the foremost representative of the
+methodological point of view I am concerned to assess. It has not escaped
+my notice that Skinner has, in subsequent papers, sought to refine and
+develop his position, but, since he has never repudiated the basic points
+made in the 1969 article,‘ it is perfectly fair to use this as our focal point.
+Anyhow, it is not my aim to trace the development of Skinner’s thought
+but to examine the work which most forcefully articulates a specific
+(and, in my view, grotesquely mistaken) approach to the history of ideas.
+   As will be seen, Skinner (and others like him) advance the following
+propositions: (1) In the sphere of political/social reality, there are no universal truths or perennial questions; all systems of ideas correspond to specific
+phases and orders of experience. (2) Past thought must be completely dissolved into its precise context (culture, situation, and so forth); it possesses
+no capacity for independent life. (3) The intellectual historian should not
+concern himself with the validity or present significance of past ideas; texts
+must not be regarded as vehicles for the exercise of the analyst’s own
+preoccupations. (4) Historicity demands that we focus on what an author
+consciously intended to say. And (5), no subsequent account of a thinker’s
+enterprise could survive the demonstration that it is itself dependent upon
+the use of anachronistic criteria of description and classification — criteria
+which, in other terms, would have been unintelligible to the thinker himself.
+
+=== p. 158 ===
+
+     Historicism, I hope to show, only commits us’ to proposition (1) (and that
+     only in modified form). Skinner apparently believes that propositions (2) —
+     (5) follow logically from proposition (1), but he is wrong. Indeed, propositions (2) — (5), if taken seriously, would reduce the history of thought to little
+     more than a sterile celebration of intellectual pedigree. Following Gramsci,
+     I argue that: (a) ideas may enshrine much that is of permanent value, even
+     though they are themselves untrue or obsolete; (b) thinkers do indeed work
+     within intellectual traditions, which — to some extent — transcend particular
+     contexts; (c) all history is ‘contemporary history’, dictated by the interests
+     of the historian; study of the past is valuable only in so far as it throws
+     light on present problems or needs; and (d) it is neither necessary nor
+     desirable, from an historicist perspective, to understand a body of thought
+     purely or even primarily in terms of the author’s conscious designs.
+
+                                             I
+     Let us now take a closer look at the new ‘intentional’ approach. The
+     revisionists’ debt to the historicist tradition has never received the attention
+     it deserves. While historicism traces its origins back to Vico’s seminal, but
+     indigestible and long-ignored writings, it was only in the nineteenth century
+     that we witnessed the triumphant emergence of history as a distinct manner
+     of understanding and explaining events. The historicist outlook, though
+     hardly uniform, characteristically comprises four logically interconnected
+     features: (1) Men transform themselves by their.own efforts to understand
+     the world and adapt it to their needs, both physical and spiritual; there is,
+     then, no fixed, unchanging human nature, common to all men everywhere
+     at all times, no static psychological structure from which universal goals
+
+oA
+     and principles can be logically deduced. (2) Truth and goodness are not
+     universal and immutable Platonic forms existing in some super-sensible,
+     timeless heaven; consequently, there are no absolute standards in terms
+     of which things and persons can finally be evaluated; ‘the historical
+     consciousness lives in the comprehension of all ages’, writes Dilthey,
+     ‘and it observes in all creativity of individuals, the accompanying relativity
+     and transience’.5 (3) All ideas and values are products of a given historical
+     epoch, of a specific civilization, or even of definite national collectivity;
+     every philosopher is a child of his time; he uses the symbols or language
+     at his disposal and deals with the problems unique to his age. (4) Forms
+     of human experience, including works of art or philosophy, must be
+     understood and assessed not in terms of eternal principles, valid for all men
+     in all circumstances, but (essentially) in relation to the scales of values and
+     rules of thought appropriate to their own specific time and environment;
+     human achievements must always be interpreted with reference to the particular network of practices and institutions in which they are embedded.¢
+
+=== p. 159 ===
+
+  While Skinner scarcely acknowledges his debt to the historicist tradition,
+his affinity with it (or with an extreme variant of it) clearly underlines his
+methodology (2:64):
+   [I]t has I think become clear that any attempt to justify the study
+   of [the history of ideas] in terms of the ‘perennial problems’ and
+   ‘universal truths’ to be learned from the classic texts must amount
+   to the purchase of justification at the expense of making the subject
+   itself foolishly and needlessly naive.
+‘Great’ texts, he believes, do not highlight any universal political predicament; they are not to be viewed as perennially important attempts to set
+down universal propositions about political or social reality (2:64 — 5).
+   Any statement ... is inescapably the embodiment of a particular
+   intention, on a particular occasion, addressed to the solution of a
+   particular problem, and thus specific to its situation in a way that
+   it can only be naive to try to transcend ... there simply are no
+   perennial problems in philosophy: there are only individual answers
+   to individual questions, with as many different answers as there are
+   questions, and as many different questions as there are questioners.
+Since the authors of the ‘classics’ were not discussing eternal questions
+in an eternal language, but writing in a particular situation, addressing
+their arguments for particular purposes to a particular audience, it must
+be mistaken to read them as though they were speaking to our present
+concerns — in even the most oblique manner.
+   Having dismissed the possibility that past ideas can survive translation
+into the language of disparate cultures, long after their own worlds have
+passed away, Skinner can treat the ideas of our ancestors as purely
+historical phenomena, forever locked into their determinate contexts. Does
+this amount to the sort of determinism which seeks to reduce linguistic acts
+to an underlying, more ‘real’ world of production or social reality? Not
+at all. The revisionists, especially Skinner, are infatuated by what Husserl
+called the ‘intentionality of experience’. The ‘essential aim’ in any attempt
+to understand past texts, must be to ascertain the ‘complex intention on the
+part of the author’ (2:63). As Dunn puts it: “The problem of interpretation
+is always the problem of closing the context. What closes the context
+in actuality is the intention (and, much more broadly, the experiences)
+of the speaker.’? Priority is very much accorded to what the writer in
+question consciously wished to communicate to his listeners or readers.
+Herein lies the key to discovering the actual historical meaning of a text.®
+Once again, the similarity to (at least certain strands of) historicist thought
+is striking. Dilthey, for example, maintained that historical understanding
+must be firmly based in a reconstruction of the subjective experience of
+
+=== p. 160 ===
+
+historical actors. Human beings — unlike stones and trees — reflect on
+what they do; they interpret the situations they are in, set themselves
+deliberate goals and plans for the future. On this view, any study of
+man’s behaviour which ignores intentionality and purposiveness thereby
+leaves out of account the most important features of the human condition.
+   How, then, do we go about recovering the intentions of past thinkers?
+How can we decode what they meant to convey? What are the criteria
+for evaluating alternative interpretations? As the quotation frorm Dunn
+indicates, it is necessary to examine the context in which a writer
+formulated his thought, in order to specify the range of meanings which
+his words could have had for him. For Skinner, the relevant context is the
+prevailing set of linguistic conventions, the stock of concepts and symbols
+available to a writer and his audience. This linguistic context should be
+‘treated as an ultimate framework for helping to decide what conventionally
+recognizable meanings, in a society of that kind, it might in principle have
+been possible for someone to have intended to communicate’ (2:64). In
+urging us to immerse ourselves in the historical context (however defined),
+the revisionists express their distaste for the textualist orthodoxy, insisting
+as it does ‘on the autonomy of the text itself as the sole necessary key to
+its own meaning’ (2:29, 51). In demanding that the historical meaning of a
+statement be identified with (or reduced to) the intention of the writer in
+uttering the statement, they also join issue with the so-called ‘contextual
+methodology’   (2:59), which    holds   that ‘it is the context   “of religious,
+political, and economic factors” which determines the meaning of any given
+text? (2:29). The core assumption of this approach, ‘that the ideas of a
+given text should be understood in terms ofits social context’, is — according
+to Skinner — fundamentally erroneous. Knowledge of the antecedent causal
+conditions of an action is not equivalent to understanding the action, for
+such understanding presupposes ‘a grasp of the point of the action for the
+agent who performed it’ (2:59). For Skinner, ‘real understanding’ of
+any statement is tantamount to uncovering its ‘intended illocutionary force’
+(2:61). Indeed, any characterization of past utterances that goes beyond
+subjective intentions is, to use his word, ‘meaningless’. If historical studies
+are not to be studies of what genuine historical agents did think ‘then they
+might as well be turned into fiction by intention, for they must certainly be
+fiction by attainment’. It cannot be a correct appraisal of any agent’s action
+to say that he did (or failed to do) something ‘unless it is first clear that he
+did have, and even could have had, the intention to try to perform that
+action’ (2:48). For example, we cannot, a la Macpherson,’ describe Locke
+as a defender of unlimited capital accumulation unless we can establish that
+this is actually how he viewed himself when enunciating certain propositions
+at particular points in his work.!° With its presumption that philosophical
+systems can be understood primarily in terms of underlying economic forces
+
+=== p. 161 ===
+
+or constraints rather than conscious designs, Marxist discourse particularly
+offends Skinner’s sensibilities. But Marxism is only the most obvious villain.
+Any form of historical interpretation predicated on a distinction between the
+‘manifest’ and ‘latent’ content of a body of thought is dismissed as ‘fiction’.
+No thinker can be said to have meant or done something which he himself
+would not accept as a correct description of what he had meant or done.
+   Failure to reduce the meaning of a text to authorial intentions can only
+breed what Skinner calls ‘historical absurdity’ (2:32, 35). This absurdity
+is ultimately caused by the historian’s foolish habit of projecting his own
+interests, views and preoccupations onto the author he is discussing. In so
+doing, he employs a number of misguided strategies, inexorably producing
+a succession of fantastic claims about what the thinker in question
+was doing. What strategies, then, raise the ire of Skinner and _ his
+friends?!! The list is extensive. Here I shall mention only those relevant
+to my subsequent argument.
+   First, there is the ‘mythology of coherence’ (2:38), the assumption
+that it is the historian’s business ‘to furnish his author with a degree
+of coherence he did not in fact achieve’.!2 If there is no coherent system
+readily accessible to the exegete, his duty, by this ‘mythology’, is to find
+one — even if this forces him to rummage through one work after another,
+imposing a high degree of consistency on the whole corpus. Because of
+this tendency, laments Dunn, ‘it is often extremely unclear whether the
+history of ideas is the history of anything which ever did actually exist
+in the past’. Instead, it becomes ‘a history of fictions — of rationalist
+constructs out of the thought processes of individuals, not of plausible
+abridgements of these thought processes’. !3
+   Closely connected with the ‘mythology of coherence’ is the ‘mythology
+of doctrines’, the main form of which consists of ‘converting scattered or
+quite incidental remarks by a classic theorist into his “doctrine”’ on a theme
+close to the heart of the analyst. This leads to ‘sheer anachronism’, whereby
+a given writer is ‘discovered’ to have held a view, because of some chance
+similarity of terminology, on a subject to which he either did not or could
+not have meant to contribute. For example, on the basis of some typically
+Aristotelian remarks concerning the executive role of a ruler compared
+with the legislative role of a sovereign people, Marsilius of Padua is
+often said to have possessed a ‘doctrine’ of the separation of powers,
+even though the ideas and suggestions making up this doctrine were ‘first
+canvassed some two centuries’ after his death. Marsilius himself ‘was not
+even concerned with the issue of political freedom’ — which issue is central
+to the ‘separation of powers’ thesis. It is improper, Skinner concludes, to
+suppose that the Paduan ‘could have meant to contribute to a debate the
+terms of which were unavailable to him, and the point of which would
+have been lost on him’ (2:32 — 3). Even ‘more insidious’ is the danger
+
+=== p. 162 ===
+
+of ‘“reading in” a doctrine which a given writer might in principle have
+meant to state, but in fact had no intention to convey’. An example here
+is J. W. Gough’s inflation of Locke’s scattered remarks on trusteeship
+into nothing less than Locke’s doctrine of ‘the political trust’(2:34).
+   Skinner is also resolutely opposed to all attempts to praise or fault past
+theorists on the basis of our own standards or interests.!+ As historians it is
+our duty only to relate and explain, not to pronounce verdicts: the historian
+is not a judge but a detective. Indeed, Skinner conveys the distinct impression
+that all evaluative judgements of past works are ludicrous — regardless of
+whether or not the ‘judge’ purports to be engaged in the activity of writing
+history. Commentators, we are warned, must refrain from criticizing, say,
+Plato’s Republic for omitting the influence of public opinion or Hobbes’
+Leviathan for overlooking the social basis of political power or Locke’s
+Second Treatise for failing to set out a clear position on universal suffrage.
+These alleged ‘failures’ are illusory. Since ‘failing presupposes trying’, and
+since neither Plato nor Hobbes nor Locke had any intention of dealing
+with the subjects mentioned here, it is simply illogical to castigate them in
+this way.!5 But this is not all. Neither should we, like Leo Strauss, presume
+to condemn Machiavelli’s teaching as evil and irreligious, a disastrous
+deviation from true ethical standards. Such a tone of moral disapproval
+has no place in historical investigation (2:36). Conversely, it makes no
+sense at all to praise past thinkers for either their moral insights or their
+analytical innovations. It is therefore absurd, for example, to applaud
+Montesquieu for sowing the seeds of the welfare state or Machiavelli for
+destroying medieval illusions about the actual conduct of politics (2:35).
+  Another (related) ‘absurdity’ which draws Skinner’s fire is the tendency to
+point out earlier anticipations of later doctrines and to credit each writer in
+terms of this ‘clairvoyance’. Thus, it is false to maintain, as does one observer, that ‘Locke’s theory of signs is notable “as an anticipation of Berkeley’s
+metaphysics”’. Such statements are, in fact, literally ‘meaningless’ (not just
+unhistorical) because ‘it can scarcely have been Locke’s intention to anticipate Berkeley’s metaphysics’ (2:35, 49). Unless Skinner is simply making
+a pedantic point about the ‘misuse’ of the verb ‘to anticipate’, we must
+assume that he is also against all transhistorical comparisons (for example,
+comparing Locke and Berkeley on various metaphysical and epistemological
+questions). Such purism would, in any case, seem to follow from his
+notion that philosophical statements can in no way transcend their specific
+contexts, as well as from his unrelenting focus on intentions. (Locke cannot
+have intended his work to resemble Berkeley’s in X, Y and Z respects.)
+   All these erroneous strategies and tendencies, in Skinner’s opinion,
+ignore a fundamental consideration: namely, no ‘acceptable account of
+an agent’s behaviour could ever survive the demonstration that it was
+itself dependent on the use of criteria of description and classification
+
+=== p. 163 ===
+
+not available to the agent himself’ (2:48). There would be no temptation to
+deviate from this criterion if it were realized that past texts are completely
+without modern relevance: the ‘classic texts cannot be concerned with our
+questions and answers, but only with their own’ (2:65). Interpreters are
+driven to anachronism and absurdity by the hope that, through reflection on
+the worth or significance of past ideas, they can arrive at a clearer
+understanding of our present predicament. To Skinner, at least, this hope is
+vain: ‘We must learn to do our thinking for ourselves’ (2:66). This, then, is
+the basic assumption of his purification exercise.
+
+                                       Ill
+
+Earlier   I enumerated   five propositions   advanced    by Skinner,   four of
+which, it was contended,     are not necessarily entailed by the historicist
+perspective — which I| take to be essentially correct. Using Gramsci as
+our point of departure, let us examine these propositions in turn.
+   According to proposition (1), in the sphere of political/social reality,
+there are no universal truths or perennial questions; all systems of
+ideas correspond to specific phases and orders of experience. On this
+point Gramsci was adamant:
+   [I]t is necessary to deny the existence of ‘absolute philosophy’,
+   abstract and speculative; that is, philosophy which ‘emerges’ out
+   of preceding philosophy and inherits from it so-called ‘supreme
+   problems’ ... Precedence passes to practice, to the real history
+   of changes in social relations, from which ... emerge (or are
+   presented) the problems that philosophy resolves and elaborates.'¢
+Ideas do not fall from heaven — like all products of human activity, they are
+formed in given circumstances through the action of definite needs. Conceptions of the world are responses ‘to specific problems posed by reality’.!7 As
+such, ‘every “truth” believed to be eternal and absolute has had practical
+origins and has represented a “provisional” value’.!8 Gramsci’s desire to
+‘historicize’ or ‘relativize’ all philosophies or systems of thought (including
+Marxism) was explicitly derived from Croce, one of his early mentors, who
+rejected the notion of a static, transcendent conception of ultimate truth,
+corresponding to an ideal model outside the human mind. Philosophies,
+along with the problems they attempt to solve, are — to Croce — expressive
+of nothing but the historical reality in which they are produced. Without the
+historical conditions which call it forth, no set of ideas would be what it is:
+
+   The Kantian philosophy was impossible at the time of Pericles, because
+   it presupposes, for instance, exact natural science, which developed
+   from the Renaissance onward. And this presupposes geographical
+
+=== p. 164 ===
+
+  discoveries, industry, capitalist or civil society, and so on. It presupposes the scepticism of David Hume, which‘in its turn presupposes the
+  deism of the beginning of the eighteenth century, which in its turn is
+  connected with the religious struggles in England andin all Europe in
+  the sixteenth and seventeenth centuries, and so on. On the other hand,
+  if Kant were to live again in our time, he could not write the Critique
+  of Pure Reason without modifications so profound as to make
+  of it, not only a new book, but an altogether new philosophy . . .!?
+
+But does not the historicist approach go too far? Surely, some problems are
+perennial, in the sense of always underlying thought about certain ranges
+of concrete particulars, and such problems do tend to recur as explicit
+focuses of concern. Acceptance of this point does not, I think, require
+us to abandon the historicist framework — provided certain distinctions
+are maintained. Vico himself conceded that we could abstract what is
+common to various phases of culture — parallels and correspondences
+of psychological and social structure common to individuals remote from
+one another in space and time, race and outlook. Accordingly, he refers to
+‘uniform ideas originating among entire peoples unknown to each other’,
+ideas transcending ‘variations of detail’; to ‘the universal and eternal
+principles ... on which all nations were founded and still preserve
+themselves’; and to ‘the human necessities or utilities of social life’, upon
+which the science of human affairs can be established.2° Exactly what Vico
+means is not spelled out but reasonable inferences can be drawn. Men have
+physical needs and sexual impulses, suffer from fear, are capable of using
+symbols, must work together in groups to satisfy mutual needs, and so forth.
+Human beings at all times become aware of needing such things as food,
+shelter, security, language, sexual satisfaction, and human companionship.
+Thus, any group of people living in a defined territory and interacting with
+one another must devise social forms and cultural products to meet these
+basic requirements. This is the permanent substratum of all philosophizing
+and political thinking. It is this substratum, I submit, that accounts for the
+recurrence of certain questions in the history of political thought; questions
+such as who should rule, why and in what manner. Likewise, the problems
+of social order and social change have been enduring preoccupations. On a
+deeper level, all major political or social theorists in the Western tradition
+have been concerned, implicitly or explicitly, with the nature of man and
+of the good life. But, it may be asked, does not a given problem receive its
+true meaning only in relation to its surrounding context? In relations to the
+criteria of rationality, systems of values and social structures in which it is
+embedded? The historicist need not answer in the affirmative: crucial here is
+the level of abstraction at which we pitch our discourse. When we claim that
+there are no ‘permanent problems’ in philosophy, we mean that the forms
+
+=== p. 165 ===
+
+taken by certain abiding (assuming they are abstractly framed) questions
+will be determined by the particular culture or period. Formulating the
+position in this way is not merely an exercise in semantic hair-splitting. For
+to accept that there are universal ‘necessities or utilities of social life’ is to
+concede that past institutions, customs, works of art and philosophies will
+speak to us — and may have some bearing on the present. It seems, then,
+that we must reject proposition (2) — past thought must be completely
+dissolved into its precise context. Gramsci, it is evident, does just this.
+   While he never directly discusses any permanent substratum of human
+needs and concerns,?! much of what he says becomes incomprehensible
+and self-contradictory unless we attribute to him some such conception. For
+while he insisted that past ideas be firmly located in their socio-historical
+contexts, and not uncritically applied in divergent circumstances, he never
+attempted to dissolve these ideas into the historical process. In the final
+analysis, social practice determines what is thought; it does not follow,
+however, that what is thought cannot, in some senses and in varying
+degrees, transcend its context. In this connection, Gramsci makes two
+separate points. First, he notes that particular authors usually think and
+write in a way that they regard as relevant to what their predecessors wrote;
+they seek, in other words, to elaborate, reshape, or rebut their predecessors:
+‘each philosopher cannot ignore the philosophers who have preceded him
+and, indeed, usually acts as if his philosophy were a polemic against or a
+development of preceding philosophies’.2? It need scarcely be pointed out
+here that Gramsci is right. To take one obvious example, Marsilius of Padua
+plainly borrows arguments from Aristotle when countering papal claims
+to secular authority (for example, the self-sufficient nature of the political
+community and its possession of all necessary means for the maintenance
+of internal peace and order). Gramsci goes on to draw the following
+conclusion: once we eliminate what is ‘social’ from a work of philosophy,
+there still remains a ‘residue’ — to use his word — which cannot be explained
+by the historical context. Although philosophies are ‘expressions of real
+historical development’,23 social exigencies are conceived by particular
+philosophers in ‘an individual and personal manner’, and the ‘importance’
+of this is not to be denied.24 Elsewhere, he refers to this ‘individual’ element
+as the ‘ahistorical’ part of a philosophical system, in the sense that it does
+not correspond to ‘contemporary conditions of life’.2> It is also true, says
+Gramsci (and this is the second way in which theoretical products may
+transcend their historical contexts), that the ‘actuality’ or ‘fecundity’ of
+certain ideas survives the demise of their social precipitants; but the extent
+to which this is so can only be established by empirical investigation:
+
+  The question arises whether a theoretical ‘truth’ discovered in
+  correspondence with a specific practice can be generalized and
+
+=== p. 166 ===
+
+166                           Joseph V. Femta
+
+  deemed universal ... The proof of its universality consists precisely
+  in that which it can become: (a) a stimulus to know better the
+  concrete reality of a situation different from the one in which
+  it was discovered (this is the prime measure of its fecundity);
+  (b) when it has stimulated and helped this better understanding
+  of concrete reality as if it were originally an expression of it.76
+
+In keeping with this approach, he declaims against those who hold
+‘that the whole heritage of the past must be rejected’. On the contrary,
+there exist certain ‘instrumental values’, capable of being ‘elaborated and
+refined’,27 and these must be distinguished from ‘the transient philosophical
+values that have to be rejected outright’.28 What are these ‘instrumental
+values’? Among them, Gramsci includes concepts or ideas like natural
+rights, the ‘intrinsic value’ of which is ‘limited’ by their historicity, ‘but
+not negated’.29 He was, in fact, intrigued by the possibility of using the
+splendid ideals of the French Revolution to undermine the bourgeois
+hegemony. Such ideals were clearly capable of rising above the social
+order and social classes which spawned them:
+
+  The ideas of quality, of fraternity, of liberty excite passions among
+  those strata of men who see themselves neither equal, nor brothers of
+  other men, nor free in their social interactions. Thus it happens that in
+  every radical movement of the multitude, in one manner or another,
+  in the mould of particular ideologies, these claims are put forward.3°
+
+Needless to say, Gramsci, as a good Marxist, was not suggesting that
+Enlightenment ideals could be taken over in their original form, still less
+that we could accept the underlying conceptual framework from which
+they arose. This framework, as is well known, conceived man in abstract
+fashion; that is, individuals were emancipated by logical abstraction from
+their historic connections and from every social necessity; the concept of
+society was reduced to its atomic constituents, to the sum of the individuals
+composing it. Abstract categories of individual psychology, it was thought,
+sufficed for the explanation of all human facts. It is hardly surprising that
+this notion of the individual as prior in some sense to the society originated
+in the early bourgeois epoch, because seeing oneself in this manner is a
+necessary part of the form of life of the entrepreneur in a regime of free
+enterprise. For the entrepreneur the rest of society is an agglomeration of
+individuals with whom he must interact in such a way as to realize a profit,
+and with whom he can enter into contractual relations. Society, according
+to this view, is created by the voluntary agreement of free and independent
+individuals to protect their property. Here we find the foundation of modern
+concepts of ‘rights’ and ‘freedom’. As the economy became more integrated,
+nationally and internationally, as work situations became more socialized,
+
+=== p. 167 ===
+
+and as new discoveries in the social sciences pointed to the profound effects
+of environmental conditioning, the underlying assumptions of classical liberal theory lost much of their force. To present them as eternal verities is to fail
+to realize that ways of looking at the world are organically linked to concrete
+modes of activity. And yet, as Gramsci indicates, ideas and values integral
+to this theory represent an advance for mankind and still carry conviction.
+Even if Hobbes and Locke did provide.a political doctrine corresponding
+to (and sanctioning) incipient capitalist economic relations, as well as the
+state structures necessary to maintain these, much of what they said is
+still valuable and worthy of being ‘absorbed’ into modern theorizing.3!
+    Let me add an example of my own to help illustrate this general
+point. Consider Aristotle. The system he constructed was determined in
+its most essential characteristics by the conditions prevailing within the
+confines of ancient Greek society. The postulates of his thought were: the
+general superiority of the Greeks, the natural justice of slavery as a basis of
+social organization, and the incompatibility of bread-winning pursuits with
+the moral and intellectual attributes of good citizenship. All these ideas now
+strike us as outmoded, if not patently ridiculous. Yet Aristotle also enunciated principles which, justifiably, are still features of political analysis: for
+instance, his notion that social stability is most to be found where extremes
+of wealth and poverty are unknown and the middle class is strongest; his
+analytical distinction between the underlying causes of revolution and the
+immediate factors which trigger it. Interestingly enough, the one example
+Skinner offers to ‘prove’ that past thought is irrelevant to our own culture
+and period is based on a gross simplification of Plato, whose views
+on democracy and participation are ‘historicized’ as follows (2:66):
+   As soon as we begin to study Plato’s actual arguments, however,
+   the sense in which the issue of participation is the same for himself
+   and ourselves dissolves into absurdity. What we are most likely to
+   learn from Plato is that the cook should not participate because
+   he is a slave. It is hard to see what problems of participation
+   in modern representative democracies are likely to be advanced
+   by the application of this particular piece of perennial wisdom.
+Regardless of what Plato said about cooks and slaves, and notwithstanding
+the strange myth about people being born with different ‘metals’ in their
+souls, the fact remains that his justification of hierarchy embraces
+arguments that still enjoy currency: the need for expertise, the tendency for democracy to produce cultural mediocrity, the conception
+of society as a system of interlocking needs and functions requiring
+a strict division of labour. Whether or not we agree with Plato, we
+must allow that at least some of his concerns and arguments are neither
+alien to us nor impossible to incorporate into our own political thinking.
+
+=== p. 168 ===
+
+   The goal of historicism, properly conceived, is not to devastate the entire
+philosophical legacy of mankind, but (primarily) to ensure that positions of
+the past are not arbitrarily detached from their explanatory context and simply reproduced in the present, without due regard for subsequent intellectual
+discoveries or changed social conditions. For example, no historicist would,
+like Nozick in Anarchy, State and Utopia, try to revive wholesale modes
+of theorizing appropriate to the seventeenth century. What is ‘dead’ in the
+thought of our ancestors must always be presumed to outweigh the part
+which is ‘living’. But the historicist need not operate on the facile assumption
+that past ideas are entirely and inextricably bound up in a straitjacket
+of particular circumstances, particular questions and particular intentions.
+Skinner writes of the history of political thought as if it were merely a
+series of disconnected intellectual events. But if every historical utterance
+and action is a unique event, historical inquiry itself becomes impossible.
+The historian must, unavoidably, pursue analogies, make comparisons,
+identify regularities, and use general concepts. If all historical events are
+sui generis, then we cannot write history; we can only pile up documents.
+But this argument raises a tricky question the centrality of which to the
+whole debate does not prevent it from being curiously ignored: namely,
+what is history? The revisionists refuse to recognize this as a matter open
+to dispute: history is what they assume it is, and that is the end of it. Thus
+they can issue solemn pronouncements on what is ‘historically correct’ and
+what is ‘historically illegitimate’32 in the absence of any serious examination
+of the concept of history itself. What is its nature? Its purposes? We shall
+briefly consider these questions next, in the course of our consideration
+of proposition (3) — the intellectual historian should not concern himself
+with the validity or present significance of past ideas; texts must not
+be treated as vehicles for the exercise of the analyst’s own preoccupations.
+   The positivist theory of knowledge rests on a complete disjunction of subject and object. Facts, like sense impressions, impinge on the observer from
+outside and are independent of his consciousness. The process of reception
+is passive: the external world of fact ‘speaks for itself’, and man’s knowledge
+only translates, or reflects, what takes place in the primary world of ‘given’
+things. While it was once fashionable to base historical research on such
+epistemological suppositions, they have, with good reason, fallen into general disrepute. To speak plainly, purely descriptive history is impossible. More
+than one construction can always be placed on a given collection of data.
+From the welter of perceptible things, we must choose, and this requires
+abstraction. The historical observer never confronts a bare and simple fact,
+unrelated to a broader context. Every fact has significance for him only
+because it fits into a system of ideas he has already formed. The historian
+must organize historical phenomena according to categories. But whence
+does he derive these categories? His practical preferences and attitudes
+
+=== p. 169 ===
+
+will inevitably influence the questions he asks, the facts he selects and the
+connections he perceives; and such preferences and attitudes will ultimately
+mirror the historian’s own culture. Historical narrative is always dependent
+on the culture in which and from which it springs. This conception of the
+historian’s enterprise seems compatible with the historicist endeavour to
+discover the unique features of any given event or utterance — those that can
+be comprehended only with reference to the specific historical context. Even
+Dilthey realized that the historian’s understanding is necessarily limited by
+his own experience, his own ‘customs, habits, political circumstances and
+religious processes’.33 The point is, as Croce rightly notes, ‘that only an
+interest in the life of the present can move one to investigate past fact’.
+Therefore, ‘this past fact does not answer to a past interest, but to a present
+interest’. This is the reasoning behind his famous dictum: ‘every true history
+is contemporary history’. History, that is to say, ‘if it means something and is
+not an empty echo’, responds to problems that ‘come forth from the bosom
+of life’.34 Historical enquiry, in contrast to mere chronicle, must be governed
+‘by the practical and scientific needs of a definite moment or epoch’.35
+An event conceived as having no relation to present life would have no
+historical value. True, a full understanding of worlds remote from our own
+can never be achieved through the myopic application of our own ideas and
+valuations; on the other hand, the historian can view the past only through
+the ideas of the present. And, if he is practising ‘true history’, he brings
+the past into relation with our contemporary life not merely as an act of
+comparison, but as an actual widening of our apprehension of the present.
+   Gramsci accepted all of this. For him, as for Croce, ‘history is always
+contemporary history’, guided by the practical interests of the historian.3¢
+History, as opposed to dead chronicle or source material, is always relevant
+to our present needs and situations. The story of the past, he declares,
+‘cannot but be written with and for present interests’.37 In fact, Gramsci
+attacks all claims for a ‘disinterested’ historiography; that is, an historiography purporting to exemplify an ‘external “objectivity”’°* Such
+claims are found wanting on two counts. In the first place, they presuppose
+the notion that such objectivity is possible. But, according to Gramsci, the
+analysis of reality must be filtered through a priori theoretical assumptions —
+a set of categories and a hierarchy of values, which are culturally determined.
+
+  An investigation into a series of facts to discover the relations
+  between them presupposes a ‘concept’ that permits one to distinguish
+  that series of facts from other possible ones. How can there occur a
+  choice of facts to be adduced as proof of the truth of one’s own
+  assumptions if one does not possess a pre-existent criterion of choice?
+  But what will this criterion of choice be, if not something superior to
+  each single fact under investigation? An intuition, a conception, which
+
+=== p. 170 ===
+
+  must be regarded as having a complex history, a process that is to
+  be connected with the whole process of the development of culture.3?
+
+Even if it were possible, argues Gramsci, ‘external’ or ‘disinterested’
+history would be undesirable. The purpose of history should be to make
+men more self-conscious and effective as political actors. Knowledge of
+the past is of use only in so far as it illuminates the present.4° Gramsci
+is not, of course, saying that historical reality authoritatively prescribes
+solutions to practical problems; it simply serves to make action more
+rational by clarifying the historical origins of contemporary dilemmas,
+by indicating the range of realistic choice, and by providing a treasure
+trove of ideas and insights, models and analogies.
+   But if interpretation always emerges from an encounter with the
+practical concerns of the interpreter, does it not to become a matter
+of political taste or even whim? The answer is no. To argue that the
+study of history is axiological, an enterprise wherein facts are selected and
+questions formulated from the standpoint of values, is not to offer a license
+for anarchy. The influence, however profound, of theories or perspectives
+on men’s perception and understanding is one thing; the (extreme relativist)
+claim that historical facts are purely the product of theory and therefore
+incapable of distinguishing reality from fiction, truth from falsehood, is
+quite another. Gramsci, despite his rejection of empiricism, was animated
+by the spirit of empirical inquiry; for him, generalizations and theoretical
+constructs are worthless unless tested against the real world of observed
+experience, of ‘hard’ facts.41 While (on his view) the interpretation of the
+past is always a practical endeavour, conducted from within the horizon
+of the present, by no means does it follow that the interpreter is justified
+in mutilating the evidence to suit his preconceptions or political passions.
+   In the prison notebooks, Gramsci’s attitude towards history is well
+revealed in those pages he devotes to an interpretation of Machiavelli.42 The
+Sardinian felt that his own situation was in a sense parallel to Machiavelli’s,
+and, as one commentator has perceptively observed, ‘meditation upon this
+historical connection helped him to formulate his own position’.43 What
+is the ‘connection’? Machiavelli was concerned with the seizure of power
+by Renaissance princes and the unification of Italy; Gramsci with the
+revolutionary activities of the Marxist Party and the building of socialism.
+Both men wanted to mobilize the Italian people for a common purpose
+and develop a theory (and technique) of politics enabling the ‘outsiders’
+to overturn the established order. Gramsci’s own thought certainly bears
+the imprint of various Machiavellian ideas: among them, the belief that
+fortuna can yield to men bold enough to conquer her, and the ‘principled
+realism’ which fuses concern for ‘what ought to be’ with clear-eyed
+appreciation of the limits imposed by the extant constellation of forces.
+
+=== p. 171 ===
+
+                 Historicist critique of ‘revisionist’ methods             Wye
+Does this dialogue with the Florentine’s ghost constitute a deviation from
+historicist principles? Not in Gramsci’s eyes. While ‘Machiavelli is a man
+wholly of his period’, whose ‘political science represents the philosophy of
+his time’,#4 it is nevertheless possible to use his observations and precepts
+as a reference point for reflection on contemporary society. To Gramsci,
+then, it is perfectly legitimate for the intellectual historian to treat the
+great texts as vehicles for the exercise of his own preoccupations — so
+long as this does not result in outright distortion or disregard for historical
+‘conditions and exigencies’.45 (In any case, the particular interpretations
+he arrives at will inescapably be influenced by these very preoccupations.)
+   There is nothing unhistorical about this contemporary approach. To
+preach otherwise is to misconceive the character of historical inquiry.
+To repeat, we cannot understand the human past save in terms of its
+relation to ourselves and our world, unless we trace it backwards from
+the present. Skinner himself shows some recognition of this necessity:
+‘We must classify in order to understand, and we can only classify
+the unfamiliar in terms of the familar’ (2:31). The full implications of this
+statement, however, apparently elude him.
+   We are now in a position to consider propositions (4) and (5) together.
+They are, respectively: historicity demands that we focus on what an author
+consciously intended to say; and no subsequent account of a thinker’s enterprise could survive the demonstration that it is itself dependent upon the
+use of anachronistic criteria of description and classification. Once all the
+above points are recognized, the case for these two propositions vanishes;
+and many of the methods or practices Skinner and other revisionists hope
+to banish from the sphere of historical explanation appear perfectly proper
+— indeed necessary. A quasi-religious fixation on intentions can only
+impoverish our approach to the history of ideas, diminishing our capacity
+to learn from our forebears (and let it be noted that we can learn from their
+failings as well as their successes). Consider the ‘mythology of coherence’.
+Sometimes intellectual historians do seem determined to inflict a coherence
+‘at all costs’ (2:39) on the object(s) of their study. Many are loath to admit
+that the theorists they have chosen for analysis may have contradicted
+themselves or simply changed their minds over time. Such admissions make
+it difficult to enclose a thinker within a tidy and exciting formula. But this
+pursuit of a spurious coherence is only the diseased variant of two related
+(and quite healthy) interpretative strategies, both of which are arbitrarily
+rejected by the revisionists. The first is the attempt to impose system or
+order on a disjointed body of thought. Some thinkers just never got around
+to arranging their ideas in logical sequences or coherent wholes, and if we
+are to expound or assess their respective contributions, the ordering process
+is left to us. The end products may be ‘rationalist constructs’, which never
+did actually exist in the form we have given them, but so what? How,
+
+=== p. 172 ===
+
+IOs                            Joseph V. Femia
+
+for example, could we even begin to comprehend Gramsci’s fragmented
+and disorganized Quaderni if we did not endeavour to elaborate his notes
+‘to a degree of formal intellectual articulation which there is no evidence
+that they ever attained’?46 The second strategy is to ‘search for an ‘inner
+coherence’ underlying (and perhaps explaining) apparent contradictions.
+Skinner is especially scathing about all such attempts, which he dismisses
+as ‘metaphysical’   (2:40 — 3). Now      (as noted above), in certain cases,
+the desire to detect an inner coherence has degenerated into a misguided
+attempt to iron out even genuine inconsistencies in the name of some higher
+unity. But the fact that such misguided attempts exists does not mean, pace
+Skinner, that all attempts to find hidden consistency must be misguided.
+This apparent flaw in his logic is explained by his failure to accept that
+what an agent is in fact doing in performing an action may have little or no
+connection with his actual intentions. There is a crucial difference between
+an idea and the bout of thinking it reflects.’ Although an idea is the product
+of the thinking which went into it, it also transcends that thinking. There
+may be logical relations between a person’s ideas which do not correspond
+to any psychological relations between the thought processes which led
+respectively to those ideas — logical relations of which he may be unaware.
+Which brings us to a general observation: not all thinkers understand the
+full theoretical or logical implications of what they say. Assume, for the
+sake of argument, that Locke did not imtend to furnish an ideological
+justification of capitalism. If the historian lets the matter rest there, he has
+not succeeded in telling the whole story. For, by removing all natural-law
+limitations on the private appropriation of property, Locke necessarily
+conferred moral legitimacy upon the emergent capitalist order — an order
+incompatible with such limitations and founded on massive concentrations
+of private wealth. Otherwise stated, a defence of capitalist economic
+relations is inherent in his doctrine of property rights. If he was unconscious
+of this fact, then he, quite literally, did not know what he was doing.
+   That a thinker might misconstrue or simply remain blind to the logic of
+his own ideas is, one would think, intuitively obvious; but Skinner and his
+disciples are advocating a form of historical analysis which is contrary to
+common sense and ordinary experience. In everyday conversation we leap
+from expression to expression, filling gaps, removing apparent inconsistencies, drawing inferences, and so develop an intellectually elaborated result,
+which is our understanding of what the other person has said. Moreover,
+when we try to understand an individual as such — his character, his
+thoughts, and so on — it never occurs to us to confine ourselves to his
+own self-image; on the contrary, we strive to uncover the hidden premises
+(psychological or social) as well as the consequences (logical or practical)
+of his behaviour and statements. What the revisionists never do is to
+explain why the procedures needed to gain an understanding of historical
+
+=== p. 173 ===
+
+actors must so diverge from the procedures we manifestly use to acquire
+an understanding of our contemporaries. To be sure, an historian may be
+able to give an explanation of unconscious influences on a thinker which
+illuminates his ideas in a way he himself did not understand. This, of course,
+is a commonplace of Marxist historiography, but is by no means confined to
+it. Built into Dilthey’s concept of hermeneutic exegesis, for example, is the
+idea that we should seek to understand an author better than he understood
+himself. Because expressions may contain more than the agent is aware of,
+the analyst can never, in his quest for understanding, concentrate exclusively
+on a reconstruction of conscious purposes.47 Furthermore, a thinker can
+fail to grasp the potentialities of his thought. For example, many who
+have contributed to the shaping of the modern secular consciousness had
+no intention of doing so. The Reformation thinkers (who helped to shift
+the focus of religious thought from contemplation of the divine to man’s
+temporal needs and concerns) are a case in point. Now Skinner does not
+deny that we can be legitimately interested in the retrospective significance
+of a philosophical work; he only wishes to claim that this significance has
+nothing to do with the historical meaning of the work and is therefore
+a peripheral (if not actually extraneous) object of historical investigation
+(2:43 — 5). But this is merely an arbitrary assertion. Dilthey’s approach
+to ‘meaning’ (and the tasks of the historian) seems much more plausible.
+For him, a particular act ‘gains meaning from its relationship with the
+whole, from the connection between past and future, between individual
+and mankind’.48 Unearthing the historical meaning of an action, on this
+conception, is not equivalent to discovering its ‘intended illocutionary force’
+(though this is a valid starting point); it involves, above all, an apprehension
+of the importance or impact (at various levels) of the action in question.4?
+    All the above considerations point to this: what an author is doing
+in composing a text or set of utterances cannot be understood solely
+or even mainly in terms of his intention(s). Thus (assuming sufficient
+textual evidence can be found) there is no historical impropriety in saying
+that Rousseau’s Social Contract amounts to a theoretical justification of
+totalitarianism, or that Locke’s Second Treatise embodies a defence of
+exploitation and unlimited capital accumulation, or that Machiavelli’s
+Prince — and here we quote Gramsci — contains ‘in nuce both the
+separation of powers and parliamentarism’.°° Although such statements
+disregard subjective intentions, they may nevertheless be accurate and help
+us to assess the limitations or strengths of the works in question. Of
+course, in Skinner’s opinion, attempts to evaluate past ideas are pointless,
+if not literally meaningless. But he overlooks an important consideration
+emphasized by Gramsci: the intellectual historian ignores the mistakes of
+past philosophies only at our peril, for these mistakes ‘although made in
+the past’, have a nasty habit of being ‘reproduced in the present’.5! World
+
+=== p. 174 ===
+
+views that correspond to previous phases of historical development have
+‘left stratified deposits in popular philosophy’, and for this reason, the
+evaluation of past thought is much more than an academic exercise:
+it becomes a voyage of self-discovery, in which the*historian/critic lays
+bare the deeply rooted assumptions of his own (and his culture’s) mode
+of thought. ‘To criticize one’s own conception of the world’, Gramsci
+tells us, ‘means criticism of all hitherto existing philosophy.’ He then adds,
+  The point of departure of critical elaboration is the consciousness
+  of what one really is; it is ‘knowing thyself? as a product of the
+  historical process, which has deposited in each of us an infinity
+  of traces, without leaving an inventory ... Philosophy cannot be
+  separated from the history of philosophy.>2
+   If we follow Skinner’s instructions, we can never produce “contemporary
+history’ — historical knowledge that has as its sounding-board and measuring rod contemporary preoccupations and concerns. The methods and practices denounced by Skinner are precisely the methods and practices which
+enable us to separate what is valuable from what is erroneous or transient
+(tied to a determinate social form) in the philosophical works of the past.
+How, it may be asked, can we ever learn from past thought unless we allow
+historians to criticize, to examine historical trends, to make transhistorcal
+comparisons, to impose system where there is none, to uncover subterranean
+or unconscious assumptions, to pose artificial questions — our questions —
+to draw out implications? For Skinner, as we have seen, this is a pseudo-problem, because he simply assumes that the ideas of our ancestors are, for
+all intents and purposes, extinct. Each generation, he seems to be saying,
+must begin over again all the work done since the childhood of humanity.
+But political ideas cannot be created ex nihilo: we are crucially dependent
+on our philosophical tradition. Innovation in political thought rarely, if ever,
+consists of unprecedented originality. Rather, it is a matter of extending and
+rearranging old ideas, shifting emphasis among them, playing variations on
+them and so forth. We expand our range of vision and crystallize our
+own political thinking by meditating on our philosophical predecessors.
+If Skinner really believes that we can ‘do our thinking for ourselves’,
+then he entertains an implausible view of political conceptualization.
+
+                                      IV
+
+Skinner’s exhortation to students of past philosophy to practise austerities
+so that they might be delivered from all temptations to violate his canons
+of historicity is to render intellectual history gratuitously barren. It is,
+I would contend, one of the functions of history ‘to cast’, in E. H.
+
+=== p. 175 ===
+
+                   Historictst critique of ‘revisionist’ methods                175
+
+Carr’s    words,   ‘a beam    of the past over         the issues which   dominate
+present   and future’.   Revisionist   intellectual    history can, at best, issue
+in what     Labriola   called ‘the empiricism         of a boundless   erudition’.53
+At the conclusion of his famous article, Skinner remarks (2:67):
+   [I]t is a commonplace — we are all Marxists to this extent — that our
+   own society places unrecognized constraints upon our imaginations. It
+   deserves, then, to become a commonplace that the historical study of
+   the ideas of other societies should be undertaken as the indispensable
+   and the irreplaceable means of placing limits on those constraints.
+But it is precisely this estimable goal which is rendered unattainable by his
+curious methodological strictures.
+

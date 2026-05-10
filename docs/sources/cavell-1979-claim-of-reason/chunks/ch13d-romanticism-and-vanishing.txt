@@ -1,0 +1,1280 @@
+=== chunk: cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing ===
+title: Romanticism, narcissism, vanishing of the human
+source_pdf: docs/sources/cavell-1979-claim-of-reason/full.pdf
+pdf_pages: 490-523
+page_scheme: book
+plan_page_start: 463
+plan_page_end: 496
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 463 ===
+
+   One in this condition does not feel unknown for the reason that the
+fact of his or her sentience is taken to be unknown. Why should a dog, a
+horse, a rat, have life, and be known to have it, and others not? Expertise
+cannot be required to know of this life, but then what appreciation is
+wanted, what sentiment or sensibility would be fine enough to vibrate to
+one's originality? Human beings do not naturally desire isolation and incomprehension, but union or reunion, call it community. It is in faithfulness to that desire that one declares oneself unknown. (And of course
+the faithfulness, the desire, and the declaration may all be based on illusion. The conceptual connection, however, would remain as real as ever.)
+The wish to be extraordinary, exceptional, unique, thus reveals the wish
+to be ordinary, everyday. (One does not, after all, wish to become a monster, even though the realization of one's wish for uniqueness would make
+one a monster.) So both the wish for the exceptional and for the everyday
+are foci of romanticism. One can think of romanticism as the discovery
+that the everyday is an exceptional achievement. Call it the achievement
+of the human. — I believe I know something of the impatience such
+ideas can inspire. Think of the spectacle of the likes of Rousseau and
+Thoreau and Kierkegaard and Tolstoy and Wittgenstein going around
+hoping to be ordinary, preaching the everyday as the locale of the sublime! Only the madness of their egotism, the monstrousness of it, requires
+such vaults of relief! Only sinners so crave sanctity! — Quite right. Quite
+right. The everyday is everyday, the ordinary is ordinary, or you haven't
+found it. — How true that is. How very true. And yet if what those monsters of egotism and of vision saw is there, then your assurance is as egotistical as theirs, merely less instructive; or else you are as cynical as you
+evidently are complacent. (My caution against believing the monster can
+only make sense to someone who knows his or her own human capacities
+well enough to be moved to believe him. I would not waste my spirit
+preaching hardness to a stone.)
+
+   The only way to prove that someone is not mad — or otherwise dismissible — in claiming epistemological exemption for himself, the singling
+out for unknownness, is to describe some cases, some versions of a type.
+We might think of them as versions of narcissism, a concept that might
+prove increasingly useful in studying (passive) skepticism, since it covers
+both a primary development in childhood and the foundation of a particular direction of madness in adulthood. Some again will think of them
+as versions of adolescence. The only reason I would have for objecting to
+
+=== p. 464 ===
+
+this thought is the naughty implication that such a one just ought to
+grow up. If Rousseau can be said to have discovered the fact of childhood
+in human growth, and Wordsworth the loss of childhood, then romanticism generally may be said to have discovered the fact of adolescence, the
+task of wanting and choosing adulthood, along with the impossibility of
+this task. The necessity of the task is the choice of finitude, which for us
+(even after God) means the acknowledgment of the existence of finite
+others, which is to say, the choice of community, of autonomous moral
+existence. The impossibility lies in the options of community that the
+older grownups have left, which no one could want, not with a whole
+heart. So romantics dream revolution, and break their hearts. And so adolescents and adults agree on this one point, that to become adult is to
+grow up from your dreams. You needn't be Martin Heidegger to count
+the achievement of modern individual existence as beginning with its
+eclipse in modern society and then graduating in its increasingly distant
+refinement of singularity. John Stuart Mill a hundred years earlier, and
+for the sake of similar perceptions, accepts the fact, or fate, that the only
+proof of liberty lies in idiosyncrasy. The problem completes itself when
+we no longer know whether we are idiosyncratic or not, which differences
+between us count, whether we have others. — After such community,
+what privacy?
+   I find one version of such a type in the life of Rousseau, who thus becomes for me a significant case in the modern history of our concept of
+the knowledge, and ignorance, of other minds — as I suppose he was for
+himself. So I am taking it that his sense of rejection, of others as refusing
+to know him, as denying him, is — well, not normal exactly, but, let us
+say, composed of equal parts of abnormality and of validity. Then the
+writing of his Confessions should be regarded as an effort to create the individual other who would be in a position, and who would care, to accept him. But if the Confessions is of his whole life, then he can only be
+known posthumously. People who know themselves to be masters of this
+species of communication, and of no other, are likely to welcome the
+hereafter.
+   A different version of one who regards himself as unknowable would
+give up the effort to create his knower, even posthumously. He has become a virtuoso of confession, an entertainer with his suffering. The
+point of his recitals is not to reveal himself, even when everything he
+says about himself is true. For him the thing of self-revelation is quite
+impossible — those who care cannot know, those who know cannot care
+enough. The virtuosity beguiles his anonymity and the other's boredom.
+
+=== p. 465 ===
+
+Here the very capacity for intimacy measures the fact of isolation; measures the depth of privacy unshared, i.e., refused.
+   That types of the passive skeptic should naturally present themselves
+as typical figures of romanticism registers (whatever else romantic self-assertion shows) the apprehension that human subjectivity, the concept
+of human selfhood, is threatened; that it must be found and may be lost;
+that if one's existence is to be proven it can be proven only from oneself;
+and that upon that proof turns what proof there is in the continued existence of the human as such. This is what happens to the Renaissance
+project of the humanization of the world by the time the project is taken
+up in romanticism. It is not to be expected that everyone will adopt, nor
+so much as credit, such a project. Some will even find it arrogant to offer
+oneself as the exemplar, or fate, of humanity. Presumably such a one will
+regard it as modest to offer proofs for the existence of others.
+   Here are two romantic ways to understand the project of proving the
+existence of the human.
+   Suppose that after the onslaughts of Hume and Kant, no self-respecting
+thinker will any longer seek a proof for the existence of God as our creator. If anything, the reverse seems undeniably the case. But the consequences of such a reversal cannot be obvious at once. In particular, we
+are apt to be stuck with the idea of the human being as a creature, meaning a living thing, something procreated; but meaning equally something
+created. Then we seem to have the following choice. Either we attempt to
+give up the idea of the human being as created, in which case we attempt
+to naturalize the human being, to understand this being in relation to
+(non-human) nature, an attempt sometimes described as locating the human being's place in nature; or else we retain the idea of ourselves as
+created and attempt further to humanize this creation, identifying ourselves now as the creators of ourselves, since obviously no other being
+could be eligible for such a role. — One might undertake to show that
+there is no such choice, or rather that the choices come to the same point,
+call it the return of the human, as of the repressed. But these approaches
+to this return seem slated for disappointment. In the former case, that of
+relocating ourselves in nature, human beings keep discovering themselves
+in opposition to nature, whether for Descartes's reasons or for Rousseau's
+or for Kant's or for Blake's or for Wordsworth's or for Marx's or for
+Thoreau's. In the latter case, that of accepting ourselves as our creator,
+we would have to accept responsibility for ourselves, in particular have
+to consent to our present state as something we desire, or anyway desire
+more than we desire change; and this could drive us mad, as Rousseau
+
+=== p. 466 ===
+
+was mad, or Nietzsche, or as Marx and Thoreau were. We are apt to turn
+upon our creation in anger, as, according to us — and who knows this better? — the Creator did.
+   Or suppose that romanticism can be thought of as the discovery, or one
+rediscovery, of the subjective; the subjective as the exceptional; or the
+discovery of freedom as a state in which each subject claims its right to
+recognition, or acknowledgment; the right to name and assess its own satisfaction. I take as paradigmatic of this discovery the complex moment in
+Essay on the Origin of Languages at which Rousseau establishes the context — it is not exactly the formulation of a language-game — in which the
+human being gives a name to his semblable, his other, calls him human,
+hence has a name for himself.
+
+Upon meeting others, a savage man will initially be frightened. Because of his
+fear he sees the others as bigger and stronger than himself. He calls them giants.
+After many experiences, he recognizes that these so-called giants are neither
+bigger nor stronger than he. Their stature does not approach the idea he had
+initially attached to the word giant. So he invents another name common to
+them and to him, such as the name man, for example, and leaves giant to the
+fictitious object that had impressed him during his illusion. That is how the
+figurative word is born before the literal word, when our gaze is held in passionate fascination; and how it is that the first idea it conveys to us is not that
+of the truth. ["That the First Language Had To Be Figurative"]
+
+All I ask attention to here is that the first naming of the other is characterized by Rousseau in such a way as to encourage imagining it as taking
+the form of an exclamation: upon meeting others, the savage man has an
+experience on the basis of which he calls something out, something is
+called forth from him. (". . . Both the report and the exclamation are
+expressions of perception and of visual experience. But the exclamation is
+so in a different sense from the report: it is forced from us. — It is related to the experience as a cry is to pain" (Investigation, p. 197).) When
+subsequently, on the basis of noticing the empirical analogies between
+himself and others, he displaces the first name called forth from him in
+favor of another, he does not, according to my reading of the passage,
+displace the experience that brought forth the name; he rather, as it
+were, displaces his explanation of the feeling. Fright (anyway, the experience of others as fearful) remains the basis of the knowledge of the existence of others; only now we no longer interpret the threat as a function
+of the other's bulk or body. We seem left with the other's sheer otherness,
+ the fact that he, too, is an I, hence can name and know us. One can regard
+ this moment in Rousseau as an effort to answer the question of others
+
+=== p. 467 ===
+
+formed in Wittgenstein's Investigations — or, removing the surface anachronism, one can regard Wittgenstein's question as a rediscovery of the
+moment discovered in Rousseau: "What gives us so much as the idea that
+living beings — things — can feel?" (Investigations, §283).
+   I do not ask that Rousseau's answer be accepted — that the idea, anyway
+about human things, comes as an interpretation of one's fear of their presence, which perhaps means a fear at the recognition, the objedification, or
+engraving, of one's own image, its theft from us. Behind my suggestion
+here is a certain understanding of what the savage man is initially frightened by in being frightened by an other. A natural reading of Rousseau's
+scene is to take the savage man to be frightened by one who is frightened
+upon meeting him. (It is of the essence of this passage of initial human confrontation to see that everything said about either the one or the other is
+true of both.) Does he therefore understand himself as fearful? Or isn't it
+rather that, since he is frightened, he cannot regard himself as the object
+of the other's fear? In either case he is frightened by an expression of fright.
+When, "after many experiences . . . he invents a name common to them
+and to him", he will interpret that expression of the other's fright and recognize himself as an object of fear; it is then possible for him to be afraid
+of himself and to shun his company. But before this time, how does he
+understand that expression of fright to be directed to him, on the part
+of one who cannot be frightened of him? It would make sense for him to
+take it as an imitation of himself, showing him how he looks, the image
+of himself in the presence of others. Quite as if he were the giant, or anyway
+possessed of some form of the monstrous. It will have to be hidden.
+   I ask merely that the level of Rousseau's answer be considered as a
+datum in the problem of other minds, indeed that the Essay on the Origin
+of Languages, and the companion Discourse on Inequality, be recognized
+as studies of the problem of others. Then a twin datum would be that
+romanticism opens with the discovery of the problem of other minds, or
+with the discovery that the other is a problem, an opening of philosophy.
+I mean truly that I ask this to be considered, not that I engage this consideration, for I am so far in a position merely to rummage among such
+texts, not to possess them.
+   In the same spirit, I wish to put this moment of the beginning of romanticism together with a moment plausibly taken as its end, the moment
+of Hegel's Philosophy of Right. In that work Hegel refers to "the right
+of the subject's particularity, his right to be satisfied, or in other words
+ the right of subjective freedom", as "the pivot and center of the difference
+ between antiquity and modern times". And he continues: "This right in
+
+=== p. 468 ===
+
+its infinity is given expression in Christianity and it has become the universal effective principle of a new form of civilization". The rest of history
+is the working out, the concrete expressions, shapings, of this right (section
+124, addition). Then I might put the question "Is there such a thing as
+soul-blindness?" in the following way: Is this new form of civilization
+being replaced by another? In particular, is it being replaced by one in
+which nothing that happens any longer strikes us as the objectification of
+subjectivity, as the act of an answerable agent, as the expression and satisfaction of human freedom, of human intention and desire? What has a
+beginning can have an end. If this future (civilization?) were effected its
+members would not be dissatisfied. They would have lost the concept of
+satisfaction. Then nothing would (any longer) give them the idea that
+living beings, human things, could feel. So they would not (any longer)
+be human. They would not, for example, be frightened upon meeting
+others — except in the sense, or under circumstances, in which they would
+be frightened upon encountering bears or storms, circumstances under
+which bears would be frightened. And of course particular forms of
+laughter and of amazement would also no longer be possible, ones which
+depend upon clear breaks between, say, machines and creatures. — Would
+ the vanishing of the human betoken the absolute success of the scientific
+ Weltanschauung? It would betoken the success of the picture of science,
+ of knowledge, as subjugation — not now as that by which the human
+ being subjugates the world, and overcomes superstition and magic, but
+ now as that by which the human being is subjugated. So science falls back,
+ or forward, into magic.
+
+  This fantasy of the vanishing of the human — it would contain the
+fantasy in which empathic projection becomes "seamless", or ceases, and
+we no longer recognize, or take an interest in, the difference between
+things and beings (the difference!) — is a reassertion of the idea that the
+problem of other minds is a problem of human history (the problem of
+modern human history; the modern problem of human history); that the
+problem is lived, and that this life has an origin and a progress. The idea is
+that the problem of the other is discovered through telling its history.
+Then how could this history be recounted; what would it be a recounting
+of? If it is true, if the idea is sound, that skepticism with respect to others, in
+both its active and its passive forms, is lived and has a history, then what
+that history contains, what it must recount, can only be determined from
+within the life, or perspective, of that skepticism itself, as a discovery of its
+
+=== p. 469 ===
+
+own problems and of the shapes taken in its solutions to its problems. The
+extent to which I have uncovered the perspective of skepticism concerning
+other minds leads me to expect that its history will contain an account of
+its origins in the following developments.
+   i. Most obviously, it will wish an account of the particular insanity
+required, or caused, or threatened, in the very conceiving of the problem.
+The kinds of insanity — or folly — Descartes imagines his case may be
+compared with in undertaking to initiate his skeptical perspective, are
+ones arising from his undertaking to doubt that his ("these") hands and
+his ("this") body are his. The instances of folly he imagines are, accordingly, ones in which human beings do not know that they are flesh (but
+suppose themselves made of clay or glass) or do not know their identities
+or their true circumstances (but suppose themselves kings when they are
+actually paupers, or clothed when they are naked). (If Descartes's intuitions, or fantasies, of knowledge and of doubt are to be followed, then the
+interpretation of skeptical doubt as neurotic is evidently hopeless.) The
+insanity of which Rousseau is accused is not of this kind. It is called
+(loosely, I believe) a form of paranoia. But what creates this impression
+of him? Here are two of his ideas that may encourage it: first, that he has
+become unknowable — private — because to know him would be to know
+the sentiments of his heart — in particular, his pity for others and his fears
+of them — and the sentiments of the heart have become unintelligible to
+(inexpressible by) other human beings (as a result of what they perceive
+as human progress); second, that our social bonds are not the realization
+but the betrayal of the social contract, in a word, conspiracies, so that
+there is among us no public thing at all. But are these ideas signs of madness? They would be if Rousseau believed, as perhaps from time to time
+he did think, that he alone was thus denied acknowledgment, and that the
+conspiracy of society was directed specifically against him. I am not now
+interested in asserting that these ideas may be sane, but rather in suggesting that not every form of madness is possible, and certainly not typical,
+in every period; that madness has its history, and that it may be part of
+Rousseau's originality to have discovered an original shape of madness.
+He would have borrowed elements of this shape from the fates of Cas-sandra and Phedre, figures earlier maddened through an isolation, an
+unknownness, caused by their possession of incommunicable knowledge.
+Thinking of Nietzsche as a later avatar in this line, it strikes me as especially brave of Thoreau to have refused derangement; that is, to have
+recognized the achievement of sanity as the goal, or ratification, of his
+arrangements. But then of course he was free of European quarrels, and,
+
+=== p. 470 ===
+
+in effect, or in the fiction of Walden (i.e., of America), free of intellectual
+competitors (i.e., companions) altogether. Some freedom.
+    2. The life of skepticism with respect to (other) minds will next require
+a history of its imagined overcomings, particularly of its idea that to
+know or be known by another is to penetrate or be penetrated by another,
+to occupy or be occupied. This idea would be prepared by the idea, or
+creation, of the self as private (hence, as said, as guilty). Hence its overcoming will take the form of violating that privacy. Doubtless Descartes
+is working also here: "We are now in a position to see the precise nature
+of Descartes's innovation in philosophy of mind. The introduction of
+cogitatio as the defining characteristic of mind is tantamount to the substitution of privacy for rationality as the mark of the mental. For somebody like Aquinas, human beings were distinguished from animals by
+such things as their capacity to understand geometry and to desire riches.
+Neither . . . is a specially private state . . ." (Kenny, "Cartesian Privacy", p, 360). It should be considered also that an initiating form for the
+achievement of privacy would be the convulsion of sensibility we call the
+rise of Protestantism. From then on, one manages one's relation to God
+alone, in particular one bears the brunt alone of being known to God.
+ Here nothing that could be told in confession could be confession enough,
+since what I possess is no longer merely secrets, but an existence essentially
+unknowable to myself, namely, whether I am of the elect, or faithful.
+    As long as God exists, I am not alone. And couldn't the other suffer
+ the fate of God? It strikes me that it was out of the terror of this possibility
+ that Luther promoted the individual human voice in the religious life. I
+ wish to understand how the other now bears the weight of God, shows me
+ that I am not alone in the universe. This requires understanding the
+ philosophical problem of the other as the trace or scar of the departure
+ of God. This descent, or ascent, of the problem of the other is the key way
+ I can grasp the alternative process of secularization called romanticism.
+ And it may explain why the process of humanization can become a monstrous undertaking, placing infinite demands upon finite resources. It is
+ an image of what living our skepticism comes to.
+    It is to be expected that the idea of knowledge as the violation of privacy (or punishment for it) will be eroticized, enacted in forms of sexual
+ life. So our history will have to account for the romantic obsession, or
+ theatricalization, of what we used to think of as sexual perversion, in particular with sadism and masochism; at any rate, with the wish for absolute
+ activeness and absolute passiveness; which is to say, for absolute recognition of and by another. ("Absolute" here arises as it did miles ago when I
+
+=== p. 471 ===
+
+was discussing how one got taken "outside language games". I want my
+existence proven by evidence that I cannot supply, and need not. And
+the same goes for the existence of others.) That this sexualization of
+knowledge should take the form of a theatricalization of the relation between master and slave should be seen in the light of Hegel's notion that
+the taking possession of oneself — the, as it were, subjugation of the self
+by the self as a declaration of individual freedom, hence as a stage in the
+achievement of human freedom as such (in the State) — begins in what he
+calls "the fight for recognition and the relationship of master and slave"
+(Philosophy of Right, section 57). Taking this together with the occurrence of the topic in the Phenomenology of Mind, we should ask: What
+happens to individuals if they tire of history, can take no further mediation, become lost or captivated on the path of self-realization and inter-subjectivity — if they become "reified" rather than "concretized"? If we
+speak of perversions of human existence, this will encompass disturbances
+of satisfaction no more sexual than epistemological, and no more these
+than political. (Subsidiary topics here will accordingly be the eroticization
+of seeing and hearing, as well as of political subjugation.)
+   3. Then we will, accordingly, want in our history an account of our
+attitudes toward the human body. This will consist importantly of libels
+and of attempts to undo certain libels against the body, sometimes by directly discrediting them (Nietzsche could not praise Luther too highly for
+his efforts here), sometimes by enacting or literalizing them (so that de
+Sade, for example, would be seen to be enacting the dictates of nature, if
+you like, only under a Christian interpretation of nature, of human nature
+as requiring mortification). My own choice as the hero of this particular
+piece of history is William Blake, who can ask and answer questions
+this way:
+                     What is it men in women do require
+                     The lineaments of Gratified Desire
+                     What is it women do in men require
+                     The lineaments of Gratified Desire
+Here is a brave acceptance of the sufficiency of human finitude, an
+achievement of the complete disappearance of its disappointment, in oneself and in others, an acknowledgment of satisfaction and of reciprocity.
+   More or less obviously, in writers from Blake and Hegel to Thoreau
+and Nietzsche, the working through of secularization requires the constructing of a mythology to rival that of Christianity, which in practice
+means to reinterpret Christianity, bone by bone. But nothing is obvious
+about "secularization", especially not whether in a given case it looks like,
+
+=== p. 472 ===
+
+as one might call it, eternalization. The progressive dissociation of spirit
+and nature (hence the possible disappearance of both) is more commonly
+thought of, I believe, in spatial rather than in these temporal terms, i.e.,
+as a process of the progressive internalization and externalization of human interests. The guiding thought in either case is that each is a function
+of the other, that these are sides of some progressing bilateralization of
+the human, entailing some further fearful symmetries. One symptom or
+perception of this progress is Mill's familiar division or attribution of his
+intellectual inheritance, hence of that of the world of mind generally,
+equally between Bentham and Coleridge. Emerson knew in himself a division between what he called Materialism and Idealism (in "Transcendentalism"); it is just such division, say between the "real" and the "ideal",
+that a philosopher like John Dewey meant to put a stop to, with his kit
+of pre-Marxian and pre-Freudian tools. This polar sense or fantasy is of
+the mind unmoored, say unhinged, leaving itself without material in
+which to realize and communicate itself; it is an anxiety of progressive
+inexpressiveness, named as such in Coleridge's "Dejection", some lines
+from which Mill quotes in his Autobiography as describing exactly the
+case of his mental crisis. His case of depression becomes fully representative, historical, when he characterizes "the general tone of [his] mind at
+ this period" as one in which he was "seriously tormented by the thought
+ of the exhaustibility of musical combinations", calculating in a premature, uncanny premonition that the twelve tones of the octave must have
+ about yielded all their usable combinations up, so that "there could not
+ be room for a long succession of Mozarts and Webers to strike out, as these
+ had done, entirely new and surprisingly rich veins of musical beauty".
+ The concept of inexpressiveness, related to a sense of negative uniqueness,
+ or depressed privacy, abutting the concept of the exhaustion of the medium of an art, leaving no room for anything new or original to be said
+ in it, is what I am calling representative, or historical, in Mill's case. It is
+ a historical enactment of the lie of concepts I found excavated by the
+ "private language argument".
+    (I ask attention to this conjunction again here not to continue it now
+ but merely to mark one place from which I hope a continuation of the
+ work of these pages might take its bearings, and to permit myself reference to places in other writings of mine in which it is a little continued:
+  in The Senses of Walden, as, e.g., the "theme of outsideness" (pp. 54-60);
+  and in "More of The World Viewed", under the title "secular mysteries",
+  forms which explore "the distance between the depth to which an ordinary human life requires expression, and the surface of ordinary means
+
+=== p. 473 ===
+
+through which that life must, if it will, express itself" (p. 587, and pp.
+606-7, note). I should like to mention here W. J. Bate's The Burden of
+the Past and the English Poet as containing, among other things, a set of
+texts showing the progressive fear of artistic exhaustion, and proof that
+the romantic poets' mission of originality does not separate them from
+the earlier eighteenth century, but joins them with it. If John Stuart Mill
+can experience such things, no later writer can be free of them; then no
+later man or woman can be.)
+   A beautiful and sufficiently explicit statement of "secularization" concerning our relation to nature, occurs, to my ear, in some lines from the
+Boy of Winander passage in Book V of Wordworth's Prelude. The Boy
+has been hooting "to the silent owls that they might answer him" and they
+respond with "concourse wild". (Some forty years later, by waters just
+outside Concord, Thoreau will speak for a cat-owl that produced a "thrilling discord" in which he claims there could be discriminated an unseen
+and unheard concord.)
+                                          And when it chanced
+              That pauses of deep silence mock'd his skill,
+              Then sometimes, in that silence, while he hung
+              Listening, a gentle shock of mild surprize
+              Has carried far into his heart the voice
+              Of mountain torrents; or the visible scene
+              Would enter unawares into his mind
+              With all its solemn imagery, its rocks,
+              Its woods, and that uncertain Heaven, receiv'd
+              Into the bosom of the steady Lake.
+"Receiv'd into the bosom" suggests death. Heaven, become uncertain,
+died; and what happened to it is that it became nature. One absorbs both
+this uncertainty and this steadiness in coming to know both how to elicit
+nature's response and how to be surprised by its silent and independent
+existence. (How to be surprised that there is a world.) Is this knowledge?
+Is it produced by poetry or by history or by philosophy? Or preserved?
+  4. The historical period we are directly interested in, one origin of
+which is Rousseau's discovery of the naming of the human, is one in which
+a "science" of the human was being called for. Whatever Hume meant
+by the subtitle of his Treatise of Human Nature — "an attempt to introduce the experimental method of reasoning into moral subjects" — its
+implication is that we so far do not, but we are about to, know ourselves
+for what we are — as, since Newton, we know the inanimate universe. Now
+a special feature of the skepticism whose history we request will concern
+the fact that we still do not know whether this science of the human has
+
+=== p. 474 ===
+
+been established or not. It remains an issue of academic as well as of
+newspaper debate, and sometimes of inner conflict: Is Freudian psychology a science? Is Behaviorism? Is Marxism? It is essential to our history that the subject — call it psychology — was explicitly called for as an
+imitation of an undoubted science; a call that, so far as I hear, continues
+unabated; so the subject remains without the authority, or autonomy, to
+call itself knowledge. Hume remarks in his Introduction that " 'Tis no
+astonishing reflection to consider, that the application of experimental
+philosophy to moral subjects should come after that to natural at the distance of above a whole century", since a comparable lag can be seen in
+Greece a couple of millennia ago. Then is it not astonishing that Hume
+does not consider, or note as a curiosity, that the "application of experimental philosophy" to nature also came at a distance, that natural science
+itself has origins, that it, too, is a part of human history?
+    Suppose what one thinks is that the science of the human has not been
+established. Is such a one, therefore, to consider that we are still living in
+ a pre-scientific era with respect to the knowledge of humanity — so that,
+ for example, what we think of as psychology will bear to some future, real
+ body of knowledge, call it psychonomy, the relation that astrology bore
+ to astronomy? The implication of the question is that our state is not
+merely one of ignorance, which can be overcome through experience (or
+ "experiment"), but of magic (infected with what we will come to see as
+ fanaticism and superstition), a kind of psychic savagery, which can only
+ be overcome through a change of our natural reactions, through a certain
+ continuation of the motivations and observations of that very magic. If,
+ for example, one is convinced that one is known through the concepts and
+ procedures of Freudian psychology, that Freud's insights precipitate
+ shapes of thought in which the human is, if still without sufficient refinement, genuinely known — that the human being must be whatever it is
+ required to be if those shapes of thought are valid (in particular that the
+  human individual, to win freedom, must be something that can fight for
+ recognition, which now means, vie with its incorporated interpretations
+  of itself for a voice, for the leading voice, in its history) — then it is pointless to discuss learnedly with the unconvinced whether this psychology is
+  "scientific" (though courtesy might require conversation; and so might
+  some as yet undefined form of intellectual shame). Anyway, the question
+  is whether it is knowledge; and the problem for one whose stake is to deny
+  that one is captured by this knowledge turns on one's ability to compete
+  successfully against it, i.e., to give alternative interpretations of the phenomena, and the relations among the phenomena, of dreams and laughter
+
+=== p. 475 ===
+
+and accidents and repetitions, etc., and, more generally, an alternative to
+the vision of behavior as a hieroglyph of the soul. (The simplest alternative, I guess the most common, is to say that our behavior and our dreams
+mean nothing. And this might be true. I mean, someone might be living
+this. We might all come to.) To one convinced of his capture by this mode
+of knowledge, the origins of psychoanalysis among the mists of hypnosis
+and, a bit more archaically, among the visions of mesmerists and physi-ognomists, can seem a reassuring recapitulation of the rise of science out
+of, or in overcoming, magic. To one unconvinced, this will be oppositely
+reassuring, for surely nothing born in such circumstances could be legitimate science!
+   What motives and intuitions of the magic concerning the mind should
+be overcome, hence faced, in a science of mind? One intuition is that we
+are subject to "influences" from one another, to mutual "magnetisms", to
+certain chemical-like "affinities". Such properties, as in the case of an
+analogous intuition with respect to nature, must remain occult apart from
+developments analogous with the discovery of the magnet. Is it possible
+that psychonomy, or rather certain psychonomers, already exist, and have
+existed, on the basis of such a discovery? Could such knowledge be possessed by just a few — call it the discovery of the social bonds, or bondage;
+of the (outer) laws of association, let us say — who for some reason cannot
+communicate them to the rest of us?
+   Consider the following observation:
+
+Instead of the injured party, the injured universal now comes on the scene, and
+. . . takes over the pursuit and the avenging of crime, and this pursuit consequently ceases to be the subjective and contingent retribution of revenge and is
+transformed into the genuine reconciliation of right with itself, i.e., into punishment. Objectively, this is the reconciliation of the law with itself; by the annulment of the crime, the law is restored and its authority is thereby actualized.
+Subjectively, it is the reconciliation of the criminal with himself, i.e., with the
+law known by him as his own and as valid for him and his protection; when this
+law is executed upon him, he himself finds in this process the satisfaction of
+justice and nothing save his own act. [Hegel, Philosophy of Right, section 220]
+
+How shall we characterize this as a mode of thought? In its personifications (e.g., "the injured universal now comes on the scene") it sounds like
+allegory and mythology, hence like some depasse' literary mode. It also
+sounds like history, sort of; anyway, as if opening itself to historical evidence. It would sound more like history if history were regarded as the
+anthropology of our pasts, of the presents of the distant tribes whose
+present we are. It also sounds like psychology, sort of; anyway, as if open-
+
+=== p. 476 ===
+
+ing itself to psychological evidence. But if one applied what we are likely
+to consider psychology to this passage, especially to its concluding sentence
+(". . . it is the reconciliation of the criminal with himself . . ."), we are
+more than likely to understand it as a social piety, either perfectly proper
+(an attempt to elicit soul-saving repentance) or perfectly tyrannical (a
+soul-destroying attempt to mortify the criminal into bringing peace to
+those who destroy him). Here is a remark of Nietzsche's that I understand
+as a comment on this passage, and to be seeking a perspective from which
+to rationalize it, i.e., to show that the cultural stance it depicts has not
+achieved rationality:
+
+You do not want to kill, O judges and sacrificers, until the animal has nodded?
+Behold, the pale criminal has nodded: out of his eyes speaks the great contempt.
+[Thus Spoke Zarathustra, "On the Pale Criminal"]
+
+If your practices require the separate consent of those who suffer from
+them, then you must consider that the thing you read as affirmation (the
+nodding) is itself produced by the suffering (perhaps a lowering of the
+head, which may mean defeat or may signal attack).
+   5. I have said that the perspective I seek in these histories is present
+not only in philosophical allegories and mythologies (perhaps concerning
+the human body seeking its original unity, before its division into individual males and females; or the one about being able to doubt whether
+my body is mine but not whether my mind is mine; or the one about my
+not being able to have your feelings and so not knowing whether you
+have them) but also in various literary structures, especially in those we
+call tragedies (hence doubtless in comedies as well) and more recently,
+perhaps, also in tales of the fantastic and of horror. This is a claim, in
+effect, that these structures provide us with the knowledge of the Outsider.
+ All and only what the Outsider can know of us is what the history of
+ these literary forms would show.
+   That I am pushed to pieces of literature to discover the problem of
+ the other, that I find the problem largely undiscovered for philosophy, for
+ philosophy as it commands English and hence was carried unawares into
+ my mind, is a fact I might think of this way. The problem of the other
+ was always known, or surmised, not to be a problem of knowledge, or
+ rather to result not from a disappointment over a failure of knowledge
+ but from a disappointment over its success (even, from a horror of its
+ success). When most recently we retraced the matter of our disappointment with criteria (which we might as well stick to calling our disappointment with human knowledge) we found what I called two old possibilities
+
+=== p. 477 ===
+
+in view, that I fail to manifest our criteria accurately or that the other
+fails to read them accurately. Now if the problem of the other is a problem of the victory of knowledge, then it is equally a problem of this victory over myself, determining the nature of my self-consciousness. Then
+two things happen: I try avoiding further knowledge for myself by taking
+the problem of other minds solely from the passive side; and I thus find a
+new possibility for disappointment with knowledge, that my self-consciousness comes between my consciousness and my expression of it, so that
+my expressions are embarrassed, are no longer natural. But if my expressions are no longer natural they are no longer the foundation of certainty
+about my (inner) life, no longer criterial. And if no longer natural then
+they are artificial, merely conventional. I theatricalize myself. The problem of the other now, the problem in being known, is not that the other
+does not see me as human, but rather that the other (only) sees me, and
+always as a human something or other. So, consequently, do I take myself.
+My existence is proven, but at the price of not knowing what it is in itself.
+And the existence of others is proven, but at the price of their being
+spectators of my existence, not participants in it.
+    One text from which to decipher the significance of our suffocating
+from the half-swallowed apple of knowledge is Kleist's "Marionette Theater". Is being human exactly to be incapable either of swallowing it or
+spitting it out? Is the gasping of the human voice, say sobbing or laughing,
+the best proof of the human? or best picture, i.e., mask? To swallow once
+for all would be to live always within ordinary language-games, within
+the everyday; to spit once for all would be to exist apart from just that
+life, to live without. In particular, to live without the human voice (e.g.,
+without appeal, without protest). — Is the temptation to knowledge a
+product of the prohibition of knowledge, or the other way around, the
+prohibition a projection or explanation of the temptation? (The decisive
+moment in the conjuring trick.)
+    — For you the claim that the Outsider's knowledge of us is the study
+of literature is as safe as it is obscure. Since you read the problem of the
+other as the problem of acknowledging one's relation to the other; and
+since you claim that the history of the failures of these relations is a history of skepticism and of attempts to overcome skepticism; then since
+fiction can safely be said to be "about" human relationships, sure enough
+ fiction is about acknowledgment and its limitations; and then if one accepts your characterization of tragedy as the failure of the best case of
+ acknowledgment, one has already accepted it as your characterization of
+skepticism. And indeed, aren't your "best cases" really just cases of love?
+
+=== p. 478 ===
+
+And everyone will concede that dramatic fictions tend to be dramas of
+love, and of course, if you like, dramas of the avoidances of love, even of
+the horrors of it. — But then what I have said should contribute to an
+understanding of why dramas are about love, and what it is they provide
+us with a knowledge of, and why this knowledge takes the form it does, viz.,
+of acknowledgment, or of its impossibility. And of course I am counting
+on what I have said to raise the question of whether, and of how, we know
+differences between the writing of literature and the writing of philosophy.
+   Since I shall say no more in defense of such ideas here, I surface with
+two or three Shakespearean texts, further instances in which skepticism
+with respect to other minds is more or less explicitly under investigation,
+to illustrate not merely that tragedy is the story and study of a failure of
+acknowledgment, of what goes before it and after it — i.e., that the form of
+tragedy is the public form of the life of skepticism with respect to other
+minds — but specifically to illustrate, or to prompt the study of, the element in the problem of others that my perspective upon the problem has
+kept leading back to, namely, the idea and fate of the human body in these
+histories.
+
+   The most explicit passage is the most famous of Shylock's speeches,
+which directly takes the look of an argument from analogy, mounted
+from the passive side. Shy lock has just listed his abuses at the hands of
+Antonio and asks the reason for them. Shylock gives his answer: "I am
+a Jew."
+
+Hath not a Jew eyes? hath not a Jew hands, organs, dimensions, senses, affections, passions? fed with the same food, hurt with the same weapons, subject to
+the same diseases, healed by the same means, warmed and cooled by the same
+winter and summer as a Christian is? — if you prick us do we not bleed? if you
+tickle us do we not laugh? if you poison us do we not die? and if you wrong us
+shall we not revenge? — if we are like you in the rest, we will resemble you in
+that. If a Jew wrong a Christian, what is his humility? revenge! If a Christian
+wrong a Jew, what should his sufferance be by Christian example? — why revenge!
+The villainy you teach me I will execute, and it shall go hard but I will better
+the instruction. [The Merchant of Venice, III, i]
+
+That is, for present purposes: My body, and its fates, the visible part of
+me, is the same as the Christian's. —And then the philosophical conclusion one would expect Shylock to draw, or ask to be drawn, is that the
+invisible part is the same as well; reason is compelled to admit as much.
+It is true that Shylock includes more in his premisses of "the visible part"
+
+=== p. 479 ===
+
+of himself than a purer philosopher would; he includes things that the
+philosopher would regard as part of the conclusion of the argument from
+analogy, e.g., senses, affections, passions; and hence seems to beg the
+question. But though less pure, Shylock is more knowing. He knows, what
+any sensible person knows, that the purer argument must fail, that one
+who does not already know that the other's body "is connected with"
+sentience cannot be convinced by this argument, or rather cannot understand what it is an argument about, the existence of others. So Shylock,
+in noting his points of identity with other human beings in a series of
+rhetorical questions, is allowing that others of course do know all of these
+things about Jews — for example, about him; but he is denying (or further
+reminding us not to conclude) that knowing such things about him is
+knowing of his existence as a (an other) human being. Instead of asking
+the others to conclude, on the basis of analogy, that he exists as a human
+being, he is accusing them of using just this basis for just this purpose. He
+is turning upon the condition of analogy itself. (Hume's Philo, in his
+exasperation at the use, not at the invalidity, of an argument from analogy, does the same: "Why not become a perfect anthropomorphite? Why
+not assert the deity or deities to be corporeal, and to have eyes, a nose,
+mouth, ears, etc.?" (Dialogues, part V).) Shylock is saying: You people
+think I am like you. So then you think I am also different. And what is
+the difference? That my body is not associated with your sentience, that
+is, not with a sentience of Christ. If it were, what would you have found?
+That I am another you, made in your image. Well and good. I'll force you
+to be a perfect narcissist. I will perfect the analogy of my image with
+yours. I will take upon myself your sentience. — He, in effect, here prepares his punishment by conversion.
+   It seems undeniable that the play rehearses the confrontation, or replacement, of the Old Law by the New. (So far as I know, Nevill Coghill
+best expresses the idea in "The Basis of Shakesperean Comedy".) But
+Shylock's claim, as befits a Jew, is that the replacement never took effect,
+that the Christian's humility is merely a parody, or disguise, of the Jew's
+Law, Christian mercy merely vengeance disguised with passiveness; hence
+the Christian does not exist, Christianity never happened; the Messiah,
+which the Christian learned from the Jew to expect, has not yet come, or
+came to no effect. It is against the implication of this charge that punishment by conversion may be understood as specifically called for, used as
+specific refutation.
+   Shylock's speech upon analogy was prompted by the question, half
+rhetorical, whether he will demand his promised pound of flesh. So his
+
+=== p. 480 ===
+
+speech, in affirming that he will, and in naming just this to be his revenge,
+and in claiming revenge to perfect his analogy, or identification, with
+Antonio, declares that he will be doing what has been done him. So he
+is telling us that he perceives Antonio's refusal of acknowledgment as
+mutilation — the denial, the destruction, of his intactness. His revenge
+thus speaks: You think my sentience can be at best merely like yours; you
+hedge mine. I'll show you that you can have exactly mine. And there is
+also the suggestion: There is no proof for you that I am a man, that I am
+flesh, until you know that you are flesh. For you to learn this will be my
+better instruction.
+    Of course it need not succeed. To Shylock's assertion "I say my daughter is my flesh and my blood", there is an answer: "There is more difference between thy flesh and hers, than between jet and ivory, more between
+ your bloods, than there is between red wine and Rhenish" (III, i, 33-6).
+And the last clause helps suggest that there is an answer to this answer:
+ Then I'll make the flesh mine by using it for food (". . . it will feed my
+ revenge"). I do not see that imagining a literal incorporation of the other
+ is madder than attempting to literalize, as in a more academic overcoming
+ of skepticism one is impelled to try to imagine doing, the having of another's feelings, the direction to which is not imagining incorporating
+ them (which seems just a way of imagining having them, which you can
+ certainly do, in an everyday sense) but rather allowing yourself to be
+  (re)incorporated, to be the other.
+     This is not, I think, as mad as things really get for Shylock. For where
+ is the pound of flesh to come from? Where does Shylock wish it from?
+ The question is pressed by the mysterious change from Shylock's original
+  demand, to which Antonio agrees, that the forfeit be "cut off and taken/
+  In which part of your body pleaseth me" (I, iii, 146-47), to the bond as
+  read by Portia before the court, that the flesh "be by him cut off/ Nearest
+  the merchant's heart" (IV, i, 228-29). I do not insist that Shylock's proof
+  — his better instruction — that Antonio is his semblable was (and psychically remains) to carve Antonio into a Jew, i.e., to do to him what
+  circumcision, in certain frames of mind, is imagined to do, i.e., to castrate.
+  I insist merely that the question rouses our horrified wonder that a pound,
+  wherever it be cut from, would result in so complete a disfigurement,
+  amounting to metamorphosis; and that this should not, as part of the
+   anxiety in experiencing this revenge satire, be glossed (over) by the presumption that the change of the pound's location must have been "[stipulated] when the bond was prepared" (Arden edition, note at IV, i, 229).
+  We need not assume that any such change has been agreed upon if we
+
+=== p. 481 ===
+
+allow that a confusion of identities persists. For which merchant (of
+Venice) is picked out by the phrase "nearest the merchant's heart"? If this
+can be read as picking out Shylock, then it is equivalent to Shylock's
+original demand for the part that "pleases" him. (Though the ambiguity
+of the phrase may just be present even if a confusion of identities is not
+raised.) I do not say that this is the correct reading; I ask that a spiritual
+passage be conceived in which it is not known, especially in which Shylock
+does not know, what is being asked, what his satisfaction requires (what
+would constitute his "[having] the heart of him" (III, i, 117)); hence a passage in which the certainty of the others' professed knowledge of him is a
+measure of his invisibility to them.
+
+  A second, and an extended final illustration I choose, from which to
+study the imagination of the body's fate under skepticism, are equally
+familiar moments, and more or less familiar as a pair. I ask how it is
+that we are to understand, at the height of The Winter's Tale, Hermione's
+reappearance as a statue. Specifically I ask how it is that we are to understand Leontes's acceptance of the "magic" that returns her to flesh and
+blood, and hence to him. This is a most specific form of resurrection.
+Accepting it means accepting the idea that she had been turned to stone;
+that that was the right fate for her disappearance from life. So I am asking
+for the source of Leontes's conviction in the Tightness of that fate. Giving
+the question that form, the form of my answer is by now predictable: for
+her to return to him is for him to recognize her; and for him to recognize
+her is for him to recognize his relation to her; in particular to recognize
+what his denial of her has done to her, hence to him. So Leontes recognizes the fate of stone to be the consequence of his particular skepticism.
+One can see this as the projection of his own sense of numbness, of living
+death. But then why was this his fate? It is a most specific form of remorse
+or of (self-)punishment.
+   Its environment is a tale of harrowing by jealousy, and a consequent
+accusation of adultery, an accusation known by every outsider, everyone
+but the accuser, to be insanely false. Hence Leontes is inevitably paired
+with Othello. I call attention to two further ways in which The Winter's
+Tale is a commentary upon Othello, and therefore contrariwise. First,
+both plays involve a harrowing of the power of knowing the existence of
+another (as chaste, intact, as what the knower knows his other to be).
+Leontes refuses to believe a true oracle, Othello insists upon believing a
+false one. Second, in both plays the consequence for the man's refusal of
+
+=== p. 482 ===
+
+4°2              SKEPTICISM AND THE PROBLEM OF OTHERS
+
+knowledge of his other is an imagination of stone. It is not merely an
+appetite for beauty that produces Othello's most famous image of his
+victim, as a piece of cold and carved marble (". . . whiter skin of hers
+than snow,/ And smooth, as monumental alabaster" (V, ii, 4-5)). Where
+does his image come from?
+   To introduce what I have to say about Othello, I want to give a final
+source for thinking of tragedy as a kind of epistemological problem, or
+as the outcome of the problem of knowledge — of the dominance of
+modern philosophical thought by it. (Cf. "The Avoidance of Love", pp.
+320-26.) When I said just now that I wished "to understand how the
+other now bears the weight of God, shows me that I am not alone in the
+universe", I was claiming to be giving a certain derivation for the problem of the other. But I was also echoing one formulation Descartes gives
+his motive in wanting to find what is beyond doubt, viz., to know beyond
+doubt that he is not alone in the world (third Meditation). Now I ask, in
+ passing but explicitly, why it is Descartes does not try to defeat that possibility of isolation in what would seem (to whom?) the most direct and
+ the surest way, by locating the existence of one other finite being.
+    He says simply that he can easily imagine that ideas "which represent
+men similar to myself" could be "formed by the combination of my other
+ideas, of myself, of corporeal objects, and of God, even though outside of
+ me there were no other men in the world . . .". He is setting up, of
+ course, a powerful move toward God. And we can gather from this, something that seems borne out in the sequel of his Meditations, that the
+ problem of others (other finite beings) is not discovered, or derived, by
+ Descartes to be a special problem of knowledge; this is surely one reason
+ it would not have been discovered to be such in subsequent epistemology.
+ But the more one meditates upon the unique place Descartes makes for
+ his relation to his own body, the less clear and distinct it is that he has
+ available to himself the formulation of the idea of another body as having
+ a unique relation to its mind in that special quasi-substantial way that he
+ asserts is not like the way a ship is related to its pilot. But without such
+ an idea what is the content of the idea of "men similar to myself"? I do
+ not conceive of Descartes's appealing to the route of analogy here, since
+ he must be far surer that other human bodies go with minds than any
+ sureness he can extract by inferring from another body's behavior alone.
+ After all, the body has essentially nothing to do with the soul! I might express his difficulty as follows. His sense of himself as composed of his contrary natures (of what he means by mind and body, the one characterized
+ in opposition to the other, each essentially what the other is not) is the
+
+=== p. 483 ===
+
+idea of a double nature, symbolized centrally in the culture we share with
+him (but perhaps now only in literature) as the figure of Christ. So the
+thing of incarnation, the mysterious meeting of heaven and earth, occurs
+in Descartes's thought not alone in the inspirer of Christianity but in each
+individual human being. From here you may conclude that the human
+problem in recognizing other human beings is the problem of recognizing
+another to be Christ for oneself. (What is the significance of the charge
+that Descartes proves the existence at best of a philosopher's God?)
+   In the light of this passing of the question of the other, a change is noticeable in the coda Descartes supplies his argument at the end of this
+third Meditation:
+The whole force of the argument I have here used to prove the existence of God
+consists in the fact that I recognize that it would not be possible for my nature
+to be what it is, possessing the idea of a God, unless God really existed — the
+same God, I say, the idea of whom I possess, the God who possesses all these
+high perfections . . . [who] cannot be a deceiver. . . .
+The main point of summary is that I could not have produced the idea I
+have of God, for it can have come from nothing less than God himself.
+But a new note of necessity is also struck, that without the presence of
+this idea in myself, and (hence) the presence of the fact of which it is
+the imprint, my own nature would necessarily not be what it is. (Nietzsche's idea of the death of God can be understood to begin by saying
+roughly or generally as much: the idea of God is part of (the idea of)
+human nature. If that idea dies, the idea of human nature equally dies.)
+So not only the fact, as it were, of my existence, but the integrity of it,
+depends upon this idea. And so these meditations are about the finding of
+self-knowledge after all; of the knowledge of a human self by a human
+self.
+   That the integrity of my (human, finite) existence may depend on the
+fact and on the idea of another being's existence, and on the possibility
+of proving that existence; an existence conceived from my very dependence and incompleteness, hence conceived as perfect, and conceived as
+producing me "in some sense, in [its] own image"; these are thoughts that
+take me to a study of Othello.
+   Briefly, to begin with, we have the logic, the emotion, and the scene of
+skepticism epitomized. The logic: "My life upon her faith" (I, iii, 294)
+and ". . . when I love thee not/ Chaos is come again" (III, iii, 91-92)
+set up the stake necessary to best cases; the sense I expressed by the imaginary major premiss, "If I know anything, I know this". One standing
+issue about the rhythm of Othello's plot is that the progress from the
+
+=== p. 484 ===
+
+completeness of Othello's love to the perfection of his doubt is too precipitous for the fictional time of the play. But such precipitousness is just
+the rhythm of skepticism; all that is necessary is the stake. The emotion:
+Here I mean not Othello's emotion toward Desdemona, call it jealousy;
+but the structure of his emotion as he is hauled back and forth across the
+keel of his love. Othello's enactment, or sufferance, of that torture is the
+most extraordinary representation known to me of the "astonishment" in
+skeptical doubt. In Descartes's first Meditation: "I realize so clearly that
+there are no conclusive indications by which waking life can be distinguished from sleep that I am quite astonished, and my bewilderment is
+such that it is almost able to convince me that I am sleeping." (It does not
+follow that one is convinced that one is awake.) When Othello loses consciousness ("Is't possible? —Confess? —Handkerchief? — O devil!"
+(IV, i, 42-43)), it is not from conviction in a piece of knowledge but in an
+effort to stave the knowledge off. The scene: Here I have in mind the
+pervasive air of the language and the action of this play as one in which
+Othello's mind continuously outstrips reality, dissolves it in trance or
+dream or in the beauty or ugliness of his incantatory imagination; in
+which he visualizes possibilities that reason, unaided, cannot rule out.
+Why is he beyond aid? Why are the ear and the eye in him disjoined? We
+know that by the time he formulates his condition this way:
+
+                                                       By the world,
+              I think my wife be honest, and think she is not,
+              I think that thou are just, and think thou are not;
+              I'll have some proof . . .
+
+he is lost. Two dozen lines earlier he had demanded of lago "the ocular
+proof", a demand which was no purer a threat than it was a command, as
+if he does indeed wish for this outcome, as if he has a use for lago's suspicions, hence a use for lago that reciprocates lago's use of him. Nothing
+I claim about the play here will depend on an understanding of the relation between lago and Othello, so I will simply assert what is suggested
+by what I have just said, that such a question as "Why does Othello
+believe lago?" is badly formed. It is not conceivable that Othello believes
+lago and not Desdemona. lago, we might say, offers Othello an opportunity to believe something, something to oppose to something else he
+knows. What does he know? Why does it require opposition? — What
+do we know?
+   We have known (say since G. Wilson Knight's "The Othello Music")
+
+=== p. 485 ===
+
+that Othello's language, call it his imagination, is at once his, and the
+play's, glory, and his shame, the source of his power and of his impotence;
+or we should have known (since Bradley's Shakespearean Tragedy) that
+Othello is the most romantic of Shakespeare's heros, which may be a way
+of summarizing the same facts. And we ought to attend to the perception
+that Othello is the most Christian of the tragic heros (expressed in
+Norman Rabkin's Shakespeare and the Common Understanding). Nor is
+there any longer any argument against our knowledge that Othello is
+black; and there can be no argument with the fact that he has just married, nor with the description, compared with the cases of Shakespeare's
+other tragedies, that this one is not political but domestic.
+   We know more specifically, I take it, that Othello's blackness means
+something. But what specifically does it mean? Mean, I mean, to him —
+for otherwise it is not Othello's color that we are interested in but some
+generalized blackness, meaning perhaps "sooty" or "filthy", as elsewhere
+in the play. This difference may show in the way one takes Desdemona's
+early statement: "I saw Othello's visage in his mind" (I, iii, 252). I think
+it is commonly felt that she means she overlooked his blackness in favor
+of his inner brilliance; and perhaps further felt that this is a piece of
+deception, at least of herself. But what the line more naturally says is that
+she saw his visage as he sees it, that she understands his blackness as he
+understands it, as the expression (or in his word, his manifestation) of his
+mind — which is not overlooking it. Then how does he understand it?
+   As the color of a romantic hero. For he, as he was and is, manifested by
+his parts, his title, and his "perfect soul" (I, ii, 31), is the hero of the tales
+of romance he tells, some ones of which he wooed and won Desdemona
+with, others of which he will die upon. It is accordingly the color of one
+of enchanted powers and of magical protection, but above all it is the
+color of one of purity, of a perfect soul. Desdemona, in entering his life,
+hence in entering his story of his life, enters as a fit companion for such a
+ hero; his perfection is now opened toward hers. His absolute stake in his
+ purity, and its confirmation in hers, is shown in what he feels he has lost
+ in losing Desdemona's confirmation:
+
+                                . . . my name, that was as fresh
+                   As Dian's visage, is now begrim'd, and black
+                   As mine own face. . . .
+
+Diana's is a name for the visage Desdemona saw to be in Othello's mind.
+He loses its application to his own name, his charmed self, when he no
+
+=== p. 486 ===
+
+longer sees his visage in Desdemona's mind but in lago's, say in the
+world's capacity for rumor. To say he loses Desdemona's power to confirm
+his image of himself is to say that he loses his old power of imagination.
+And this is to say that he loses his grasp of his own nature; he no longer
+has the same voice in his history. So then the question becomes: How has
+he come to displace Desdemona's imagination by lago's? However terrible
+the exchange, it must be less terrible than some other. Then we need to
+ask not so much how lago gained his power as how Desdemona lost hers.
+    We know — do we not? — that Desdemona has lost her virginity, the
+protection of Diana, by the time she appears to us. And surely Othello
+knows this! But this change in her condition, while a big enough fact to
+hatch millennia of plots, is not what Othello accuses her of. (Though
+would that accusation have been much more unfair than the unfaithfulness he does accuse her of?) I emphasize that I am assuming in Othello's
+mind the theme and condition of virginity to carry their full weight
+within a romantic universe. Here is some recent Northrop Frye on the
+subject: "Deep within the stock convention of virgin-baiting is a vision
+of human integrity imprisoned in a world it is in but not of, often forced
+by weakness into all kinds of ruses and stratagems, yet always managing
+ to avoid the one fate which really is worse than death, the annihilation
+of one's identity. . . . What is symbolized as a virgin is actually a human
+conviction, however expressed, that there is something at the core of one's
+infinitely fragile being which is not only immortal but has discovered the
+secret of invulnerability that eludes the tragic hero" (The Secular Scripture, p. 86).
+    Now let us consolidate what we know on this sketch so far. We have to
+ think in this play not merely about marriage but about the marriage of a
+ romantic hero and of a Christian man; one whose imagination has to
+ incorporate the idea of two becoming one in marriage and the idea that
+ it is better to marry than to burn. It is a play, though it is thought of as
+ domestic, in which not a marriage but an idea of marriage, or let us say
+ an imagination of marriage, is worked out. "Why did I marry?" is the
+ first question Othello asks himself to express his first raid of suspicion
+ (III, iii, 246). The question has never been from his mind. lago's first
+ question to him is "Are you fast married?", and Othello's first set speech
+ ends with something less than an answer: "But that I love the gentle
+ Desdemona,/ I would not my unhoused free condition/ Put into circumscription and confine/ For the sea's worth." Love is at most a necessary
+ not a sufficient condition for marrying. And for some minds, a certain idea
+
+=== p. 487 ===
+
+of love may compromise as much as validate the idea of marriage. It may
+be better, but it is not perfect to marry, as St. Paul implies.
+  We have, further, to think in this play not merely generally of marriage
+but specifically of the wedding night. It is with this that the play opens.
+The central of the facts we know is that the whole beginning scene takes
+place while Othello and Desdemona are in their bridal bed. The simultaneity is marked: "Even now, very now, an old black ram/ Is tupping
+your white ewe . . ." (I, i, 88). And the scene is one of treachery, alarms,
+of shouts, of armed men running through a sleeping city. The conjunction
+of the bridal chamber with a scene of emergency is again insisted on by
+Othello's reappearance from his bedroom to stop a brawl with his single
+presence; a reappearance repeated the first night in Cyprus. As though an
+appearance from his place of sex and dreams is what gives him the power
+to stop an armed fight with a word and a gesture. — Or is this more than
+we know? Perhaps the conjunction is to imply that their "hour of love"
+(I, iii, 298-99), or their two hours, have each been interrupted. There is
+reason to believe that the marriage has not been consummated, anyway
+reason to believe that Othello does not know whether it has. What is
+lago's "Are you fast married?" asking? Whether a public, legal ceremony
+has taken place or whether a private act; or whether the public and the
+private have ratified one another? Othello answers by speaking of his
+nobility and his love. But apart from anything else this seems to assume
+that lago's "you" was singular, not plural. And what does Othello mean
+in Cyprus by these apparently public words?:
+
+                                      . . . come, my dear love,
+                 The purchase made, the fruits are to ensue,
+                 The profit's yet to come 'twixt me and you.
+                                                  [II, iii, 8-10]
+
+What is the purchase and what the fruits or profit? Othello has just had
+proclaimed a general celebration at once of the perdition of the Turkish
+fleet and of his nuptials (II, ii). If the fruits and profit are the resumption
+of their privacy then the purchase was the successful discharge of his
+public office and his entry into Cyprus. But this success was not his doing;
+it was provided by a tempest. Is the purchase their (public) marriage?
+Then the fruits and profit are their conjugal love. Then he is saying that
+this is yet to come. It seems to me possible that the purchase, or price, was
+her virginity, and the fruits or profit their pleasure. There could hardly
+be greater emphasis on their having had just one shortened night to-
+
+=== p. 488 ===
+
+gather, isolated from this second night by a tempest (always in these matters symbolic, perhaps here of a memory, perhaps of an anticipation). Or
+is it, quite simply, that this is something he wishes to say publicly, whatever the truth between them? (How we imagine Desdemona's reaction to
+this would then become all important.)
+    I do not think that we must, nor that we can, choose among these
+possibilities in Othello's mind. On the contrary, I think Othello cannot
+choose among them. My guiding hypothesis about the structure of the
+play is that the thing denied our sight throughout the opening scene; the
+thing, the scene, that lago takes Othello back to again and again, retouching it for Othello's enchafed imagination; is what we are shown in the
+final scene, the scene of murder. This becomes our ocular proof of
+Othello's understanding of his two nights of married love. (It has been
+ felt from Thomas Rymer to G. B. Shaw that the play obeys the rhythm
+ of farce, not of tragedy. One might say that in beginning with a sexual
+ scene denied our sight, this play opens exactly as a normal comedy closes,
+ as if turning comedy inside out.) I will follow out this hypothesis here
+ only to the extent of commenting on that final scene.
+     However one seeks to interpret the meaning of the great entering speech
+ of the scene ("It is the cause, it is the cause, my soul. . . . Put out the
+ light, and then put out the light" . . .), I cannot take its mysteries, its
+ privacies, its magniloquence, as separate from some massive denial to
+ which these must be in service. Othello must mean that he is acting impersonally, but the words are those of a man in a trance, in a dream-state,
+ fighting not to awaken; willing for anything but light. By "denial" I do
+ not initially mean something requiring psychoanalytical, or any other,
+  theory. I mean merely to ask that we not, conventionally but insufferably,
+assume that we know this woman better than this man knows her — making Othello some kind of exotic, gorgeous, superstitious lunkhead; which
+ is about what lago thinks. However much Othello deserves each of these
+  titles, however far he believes lago's tidings, he cannot just believe them;
+ somewhere he also knows them to be false. This is registered in the rapidity
+  with which he is brought to the truth, with no further real evidence, with
+  only a counter-story (about the handkerchief) that bursts over him, or
+  from him, as the truth. Shall we say he recognizes the truth too late? The
+  fact is, he recognizes it when he is ready to, as one alone can; in this case,
+  when its burden is dead. I am not claiming that he is trying not to believe
+  lago, or wants not to believe what lago has told him. (This might describe
+  someone who, say, had a good opinion of Desdemona, not someone whose
+  life is staked upon hers.) I am claiming that we must understand Othello,
+
+=== p. 489 ===
+
+on the contrary, to want to believe lago, to be trying, against his knowledge, to believe him. Othello's eager insistence on lago's honesty, his eager
+slaking of his thirst for knowledge with that poison, is not a sign of his
+stupidity in the presence of poison but of his devouring need of it. I do
+not quite say that he could not have accepted slander about Desdemona
+so quickly, to the quick, unless he already believed it; but rather that it is
+a thing he would rather believe than something yet more terrible to his
+mind; that the idea of Desdemona as an adulterous whore is more convenient to him than the idea of her as chaste. But what could be more
+terrible than Desdemona's faithlessness? Evidently her faithfulness. But
+how?
+   Note that in taking Othello's entering speech as part of a ritual of
+denial, in the context of taking the murder scene as a whole to be a
+dream-enactment of the invisible opening of the play, we have an answer
+implied to our original question about this play, concerning Othello's
+turning of Desdemona to stone. His image denies that he scarred her and
+shed her blood. It is a denial at once that he has taken her virginity and
+that she has died of him. (But it is at the same time evidence that in suffering the replacement of the problem of God by the problem of the other
+this man has turned both objects into stone, so that we might at this moment understand his self-interpretation to be that of an idolater, hence religiously as well as socially to be cast out.) The whole scene of murder is
+built on the concept of sexual intercourse or orgasm as a dying. There is
+a dangerously explicit quibble to this effect in the exchange,
+
+                       Oth. Thou art on thy death bed.
+                       Des. Ay, but not yet to die.
+
+The possible quibble only heightens the already heartbreaking poignance
+of the wish to die in her marriage bed after a long life.
+   Though Desdemona no more understands Othello's accusation of her
+than, in his darkness to himself, he does, she obediently shares his sense
+that this is their final night and that it is to be some dream-like recapitulation of their former two nights. This shows in her premonitions of
+death (the Willow Song, and the request that one of the wedding sheets
+be her shroud) and in her mysterious request to Emilia, ". . . tonight/
+Lay on my bed our wedding sheets" (IV, ii, 106-07), as if knowing, and
+faithful to, Othello's private dream of her, herself preparing the scene of
+her death as Othello, utilizing lago's stage directions, imagines it must
+happen ("Do it not with poison, strangle her in her bed, even the bed
+
+=== p. 490 ===
+
+she hath contaminated." "Good, good, the justice of it pleases, very good"
+(IV, i, 203-5)); as if knowing that only with these sheets on their bed
+can his dream of her be contested. The dream is of contamination. The
+fact the dream works upon is the act of deflowering. Othello is reasonably
+literal about this, as reasonable as a man in a trance can be:
+
+                               . . . when I have pluck'd the rose,
+                I cannot give it vital growth again,
+                It must needs wither; I'll smell it on the tree,
+                A balmy breath, that doth almost persuade
+                Justice herself to break her sword: once more:
+                Be thus, when thou art dead, and I will kill thee,
+                And love thee after. . . .
+
+(Necrophilia is an apt fate for a mind whose reason is suffocating in its
+sumptuous capacity for figuration, and which takes the dying into love
+literally to entail killing. "That death's unnatural, that kills for loving"
+(V, ii, 41); or that turns its object to live stone. It is apt as well that Des-demona sense death, or the figure of death, as the impending cause of
+death. And at the very end, facing himself, he will not recover from this.
+"I kissed thee ere I killed thee." And after too. And not just now when
+you died from me, but on our previous nights as well.)
+   The exhibition of wedding sheets in this romantic, superstitious, conventional environment, can only refer to the practice of proving purity
+by staining. — I mention in passing that this provides a satisfactory
+weight for the importance Othello attaches to his charmed (or farcical)
+handkerchief, the fact that it is spotted, spotted with strawberries.
+    Well, were the sheets stained or not? Was she a virgin or not? The answers seem as ambiguous as to our earlier question whether they are fast
+married. Is the final, fatal reenactment of their wedding night a clear
+denial of what really happened, so that we can just read off, by negation,
+what really happened? Or is it a straight reenactment, without negation,
+and the flower was still on the tree, as far as he knew? In that case, who
+was reluctant to see it plucked, he or she? On such issues, farce and
+ tragedy are separated by the thickness of a membrane.
+    We of course have no answer to such questions. But what matters is
+that Othello has no answer; or rather he can give none, for any answer to
+ the questions, granted that I am right in taking the questions to be his, is
+intolerable. The torture of logic in his mind we might represent as follows: Either I shed her blood and scarred her or I did not. If I did not
+
+=== p. 491 ===
+
+then she was not a virgin and this is a stain upon me. If I did then
+she is no longer a virgin and this is a stain upon me. Either way I am
+contaminated. (I do not say that the sides of this dilemma are of equal significance for Othello.)
+   But this much logic anyone but a lunkhead might have mastered apart
+from actually getting married. (He himself may say as much when he asks
+himself, too late, why he married.) Then what quickens this logic for
+him? Call whatever it is lago. What is lago?
+   He is everything, we know, Othello is not. Critical and witty, for example, where Othello is commanding and eloquent; retentive where the
+other is lavish; concealed where the other is open; cynical where the
+other is romantic; conventional where the other is original; imagines
+flesh where the other imagines spirit; the imaginer and manager of the
+human guise; the bottom end of the world. And so on. A Christian has to
+call him devil. The single fact between Othello and lago I focus on here
+is that Othello fails twice at the end to kill lago, knowing he cannot kill
+him. This all but all-powerful chieftain is stopped at this nobody. It is
+the point of his impotence, and the meaning of it. lago is everything
+Othello must deny, and which, denied, is not killed but works on, like
+poison, like Furies.
+   In speaking of the point and meaning of Othello's impotence, I do not
+think of Othello as having been in an everyday sense impotent with Des-demona. I think of him, rather, as having been surprised by her, at what
+he has elicited from her; at, so to speak, a success rather than a failure. It
+is the dimension of her that shows itself in that difficult and dirty banter
+between her and lago as they await Othello on Cyprus. Rather than imagine himself to have elicited that, or solicited it, Othello would imagine it
+elicited by anyone and everyone else. —Surprised, let me say, to find
+that she is flesh and blood. It was the one thing he could not imagine for
+himself. For if she is flesh and blood then, since they are one, so is he. But
+then although his potency of imagination can command the imagination
+of this child who is everything he is not, so that she sees his visage in his
+mind, she also sees that he is not identical with his mind, he is more than
+his imagination, black with desire, which she desires. lago knows it, and
+Othello cannot bear what lago knows, so he cannot outface the way in
+which he knows it, or knows anything. He cannot forgive Desdemona for
+existing, for being separate from him, outside, beyond command, commanding, her captain's captain.
+   It is an unstable frame of mind which compounds figurative with literal
+dying in love; and Othello unstably projects upon her, as he blames her:
+
+=== p. 492 ===
+
+                 O perjur'd woman, thou dost stone thy heart
+                 And makest me call what I intend to do
+                 A murder, which I thought a sacrifice.
+As he is the one who gives out lies about her, so he is the one who will
+give her a stone heart for her stone body, as if in his words of stone which
+confound the figurative and the literal there is the confounding of the incantations of poetry and of magic. He makes of her the thing he feels
+(". . . my heart is turned to stone" (IV, i, 178)), but covers the ugliness of
+his thought with the beauty of his imagery — a debasement of himself
+and of his art of words. But what produces the idea of sacrifice? How did
+he manage the thought of her death as a sacrifice? To what was he to
+sacrifice her? To his image of himself and of her, to keep his image intact,
+uncontaminated; as if this were his protection from slander's image of
+him, say from a conventional view of his blackness. So he becomes conventional, sacrificing love to convention. But this was unstable; it could
+not be said. Yet better thought than the truth, which was that the central
+sacrifice of romance has already been made by them: her virginity, her intactness, her perfection, had been gladly forgone by her for him, for the
+sake of their union, for the seaming of it. It is the sacrifice he could not
+accept, for then he was not himself perfect. It must be displaced. The
+scar is the mark of finitude, of separateness; it must be borne whatever
+one's anatomical condition, or color. It is the sin or the sign of refusing
+ imperfection that produces, or justifies, the visions and torments of devils
+ that inhabit the region of this play.
+    If such a man as Othello is rendered impotent and murderous by
+ aroused, or by having aroused, female sexuality; or let us say: if this man
+ is horrified by human sexuality, in himself and in others; then no human
+ being is free of this possibility. What I have wished to bring out is the
+ nature of this possibility, or the possibility of this nature, the way human
+ sexuality is the field in which the fantasy of finitude, of its acceptance and
+ its repetitious overcoming, is worked out; the way human separateness is
+turned equally toward splendor and toward horror, mixing beauty and
+ ugliness; turned toward before and after; toward flesh and blood.
+    — But Othello certainly knows that Desdemona exists! So what has his
+ more or less interesting condition to do with skepticism? — [I knew you
+ were still there. This is the last time we can meet like this.] In what
+ spirit do you ask that question? I too am raising it. I wish to keep suspicion cast on what it is we take to express skepticism, and here especially
+ by casting suspicion on whether we know what it means to know that an-
+
+=== p. 493 ===
+
+other exists. Nothing could be more certain to Othello than that Des-demona exists; is flesh and blood; is separate from him; other. This is
+precisely the possibility that tortures him. The content of his torture is the
+premonition of the existence of another, hence of his own, his own as dependent, as partial. According to me further, his professions of skepticism
+over her faithfulness is a cover story for a deeper conviction; a terrible
+doubt covering a yet more terrible certainty, an unstatable certainty. But
+then this is what I have throughout kept arriving at as the cause of skepticism — the attempt to convert the human condition, the condition of
+humanity, into an intellectual difficulty, a riddle. (To interpret "a metaphysical finitude as an intellectual lack" ("Knowing and Acknowledging",
+p. 263).)
+   Tragedy is the place we are not allowed to escape the consequences, or
+price, of this cover: that the failure to acknowledge a best case of the
+other is a denial of that other, presaging the death of the other, say by
+stoning, or by hanging; and the death of our capacity to acknowledge as
+such, the turning of our hearts to stone, or their bursting. The necessary
+reflexiveness of spiritual torture. — But at any rate Othello is hardly in
+doubt that he can ever know whether Desdemona is, for example, in pain
+(perhaps suffering heartache), and for that reason in doubt that she exists;
+so again his problem cannot match the skeptical one. — But I ask again:
+Do we know what it is to be in such a doubt? and know this better than
+we know how to think of Othello's doubt? Moreover, is it even clear
+what it would mean to say that Othello does not doubt matters of Des-demona's consciousness such as that she has, or may have, some easily
+describable pain? If what he imagines is that she is stone, then can he imagine that she is in pain? ("Gould one imagine a stone's having consciousness? And if anyone can do so — why should that not merely prove that
+such image-mongery is of no interest to us?" (Investigations, §390).)
+    Is the cover of skepticism — the conversion of metaphysical finitude
+into intellectual lack — a denial of the human or an expression of it? For
+ of course there are those for whom the denial of the human is the human.
+ (Cf. "Aesthetic Problems of Modern Philosophy", p. 96.) Call this the
+ Christian view. It would be why Nietzsche undertook to identify the task
+ of overcoming the human with the task of overcoming the denial of the
+ human; which implies overcoming the human not through mortification
+ but through joy, say ecstasy. If the former can be thought of as the denial
+ of the body then the latter may be thought of as the affirmation of the
+ body. Then those who are pushed, in attempting to counter a dualistic
+ view of mind and body, to assert the identity of body and mind, are again
+
+=== p. 494 ===
+
+skipping or converting the problem. For suppose my identity with my
+body is something that exists only in my affirmation of my body. (As
+friendship may exist only in loyalty to it.) Then the question is: What
+would the body become under affirmation? What would become of me?
+Perhaps I would know myself as, take myself for, a kind of machine; perhaps as a universe.
+   I conclude with two thoughts, or perspectives, from which to survey
+one's space of conviction in the reading I have started of Othello, and
+from which perhaps to guide it further.
+   First, what you might call the philosophy or the moral of the play
+seems all but contained in the essay Montaigne entitles "On some verses
+of Virgil", in such a remark as: "What a monstrous animal to be a horror
+to himself, to be burdened by his pleasures, to regard himself as a misfortune!" The essay concerns the compatibility of sex with marriage, of
+sex with age; it remarks upon, and upon the relations among, jealousy,
+chastity, imagination, doubts about virginity; upon the strength of language and the honesty of language; and includes mention of a Turk and
+of certain instances of necrophilia. One just about runs through the topics
+of Othello if to this essay one adds Montaigne's early essay "Of the power
+of imagination", which contains a Moor and speaks of a king of Egypt
+who, finding himself impotent with his bride threatened to kill her, thinking it was some sort of sorcery. The moral would be what might have
+been contained in Othello's ". . . one that lov'd not wisely, but too well",
+that all these topics should be food for thought and moderation, not for
+ torture and murder; as fit for rue and laughter as for pity and terror;
+ that they are not tragic unless one makes them so, takes them so; that we
+are tragic in what we take to be tragic; that one must take one's imperfections with a "gay and sociable wisdom" (in "Of experience", Montaigne's
+ final essay) not with a somber and isolating eloquence. It is advice to accept one's humanity, and one can almost see lago as the slanderer of human nature (this would be his diabolism) braced with Othello as the en-acter of the slander — the one thinking to escape human nature from
+ below, the other from above. But to whom is the advice usable? And how
+ do we understand why it cannot be taken by those in directest need of it?
+ The urging of moderation is valuable only to the extent that it results
+ from a knowledge of the human possibilities beyond its urging. Is Mon-taigne's attitude fully earned, itself without a tint of the wish for exemption from the human? Or is Shakespeare's topic of the sheets and the
+ handkerchief understandable as a rebuke to Montaigne, for refusing a
+ further nook of honesty? A bizarre question, I suppose; but meant only
+
+=== p. 495 ===
+
+to indicate how one might, and why one should, test whether my emphasis on the stain is necessary to give sufficient weight to one's experience of
+the horror and the darkness of these words and actions, or whether it is
+imposed.
+   My second concluding thought is more purely speculative, and arises in
+response to my having spoken just now of "the refusal of imperfection"
+as producing "the visions and torments of devils that inhabit the region
+of this play". I do not wish to dispute the evidence marshalled by Bernard
+Spivack in his Shakespeare and the A llegory of Evil showing lago to be a
+descendent of the late morality figure of the Vice. I mean rather to help
+explain further the appearance of that figure in this particular play, and,
+I guess, to suggest its humanizing, or human splitting off (the sort of interpretation Spivack's book seems to deplore). It is against the tradition
+of the morality play that I now go on to call attention — I cannot think I
+am the first to say it out loud — to the hell and the demon staring out of
+the names of Othello and Desdemona. I mention this curiosity to prepare
+something meant as a nearly pure conjecture, wishing others to prove it
+one way or another, namely that underlying and shaping the events
+of this play are certain events of witch trials. Phrases such as "the ocular proof" and ". . . cords, or knives/ Poison, or fire, or suffocating
+streams . . ." (Ill, iii, 394-95) seem to me to call for location in a setting of judicial torture. And I confess to finding myself thinking of Desde-mona's haunting characterization of a certain conception of her as "a
+moth of peace" when I read, from an 1834 study called Folk-lore of the
+NE of Scotland, "In some parts of Scotland moths are called 'witches' "
+(quoted in Kittredge, Witchcraft in Old and New England). But what
+prompts my thought primarily is the crazed logic Othello's rage for proof
+and for "satisfaction" seems to require (like testing for a woman's witchcraft by seeing whether she will drown, declaring that if she does she was
+innocent but if she does not she is to be put to death for a witch): What
+happened on our wedding night is that I killed her; but she is not dead;
+therefore she is not human; therefore she must die. ("Yet she must die,
+else she'll betray more men" (V, ii, 6).) Again he claims not to be acting
+personally, but by authority; here he has delivered a sentence. I recall
+that the biblical justification for the trial of witches was familiarly from
+the punishments in Exodus: "Thou shall not suffer a witch to live."
+Othello seems to be babbling the crazed logic as he falls into his explicit
+faint or trance: "First, to be hanged, and then to confess; I tremble at it"
+(IV, i, 38-39), not knowing whether he is torturer or victim.
+   I introduced the idea of the trial for witchcraft as a conjecture, mean-
+
+=== p. 496 ===
+
+ing immediately that it is not meant as a hypothesis: I do not require it
+for any interpretative alignment of my senses with the world of this play.
+It is enough, without supposing Shakespeare to have used literal subtexts
+of this sort, that the play opens with a public accusation of witchcraft,
+and an abbreviated trial, and is then succeeded with punctuating thoughts
+of hell and by fatal scenes of psychological torture, and concludes with
+death as the proof of mortality, i.e., of innocence (cf. "If that thou be'st
+a devil, I cannot kill thee" (V, ii, 383)). Enough, I mean, to stir the same
+depths of superstition — of a horror that proposes our lack of certain access to other minds — that under prompting institutions caused trials for
+witchcraft. Othello is at once, as we would expect of what we call Shake-speare's humanity, an examination of the madness and bewitchment of
+inquisitors, as well as of the tortures of love; of those tortures of which
+ both victim and torturer are victims.
+    So they are there, on their bridal and death sheets. A statue, a stone, is
+ something whose existence is fundamentally open to the ocular proof. A
+ human being is not. The two bodies lying together form an emblem of
+ this fact, the truth of skepticism. What this man lacked was not certainty.
+ He knew everything, but he could not yield to what he knew, be commanded by it. He found out too much for his mind, not too little. Their
+ differences from one another — the one everything the other is not —
+ form an emblem of human separation, which can be accepted, and granted,
+ or not. Like the separation from God; everything we are not.
+    So we are here, knowing they are "gone to burning hell", she with a lie
+ on her lips, protecting him, he with her blood on him. Perhaps Blake has
+ what he calls songs to win them back with, to make room for hell in a
+ juster city. But can philosophy accept them back at the hands of poetry?
+ Certainly not so long as philosophy continues, as it has from the first, to
+ demand the banishment of poetry from its republic. Perhaps it could if it
+ could itself become literature. But can philosophy become literature and
+ still know itself?
+

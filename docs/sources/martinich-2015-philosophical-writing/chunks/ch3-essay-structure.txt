@@ -1,0 +1,679 @@
+=== chunk: martinich-2015-philosophical-writing/ch3-essay-structure ===
+title: The Structure of a Philosophical Essay
+source_pdf: docs/sources/martinich-2015-philosophical-writing/full.pdf
+pdf_pages: 72-91
+page_scheme: pdf
+plan_page_start: 72
+plan_page_end: 91
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 72 ===
+
+1 An Outline of the Structure of a Philosophical
+Essay
+Socrates was no friend of rhetoric, as he understood it. Still, he was
+willing to concede this much: “Any discourse ought to be constructed
+like a living creature, with its own body, as it were; it must not lack
+either head or feet; it must have a middle and extremities so composed
+as to suit each other and the whole work” (Phaedrus 264C). To extend
+the metaphor, just as body parts have different shapes and functions –
+arms, legs, wings, and horns – essay parts have different forms and
+functions. Further, just as different animals have different anatomies,
+philosophical essays have different anatomies. Some are more
+complex and unusual than others; yet all evolve from a basic form.
+In this book, the most basic form and its immediate evolutionary
+descendants will be discussed. These forms all have a head, trunk, and
+tail. In prosaic terms, every essay should have three parts: a beginning,
+a middle, and an end. It was Winston Churchill, I believe, who put it
+this way: say what you are going to do; do it; say what you have done.
+You may have heard this before, for a good reason: it is true. Further,
+as a first shot at specifying the structure of an essay, it is a valuable
+remark. Yet, this truism would be objectionable if more were not said
+about what goes into the structure of an essay and how a writer might
+construct one. What is needed is a more informative guide (given
+below) to writing.
+In the more informative guide, the first element, “Say what you are
+going to do,” and the third, “Say what you have done,” are
+substantially unchanged. They appear below as segments I and V. The
+second element, “Do it,” however, divides into three segments: II–IV.
+
+=== p. 73 ===
+
+                            A Simple One
+     I     State the proposition to be proved.
+     II    Give the argument for that proposition.
+     V     State the upshot of what has been proven.
+
+Segment I, stating the proposition to be proved, is the beginning of the
+essay. The statement to be proved is often called “the thesis sentence,”
+or, more simply, the thesis. The thesis might be a statement like
+“Justice is rendering each person what is due to him,” or it might be a
+historical thesis like “Descartes’s method of doubt is the same as
+Sextus’s skepticism.”
+Aristotle said, “A speech has two parts: you must state your thesis; and
+you must prove it.” Although an essay is not exactly a written speech,
+what Aristotle says about a speech can be applied to an essay. The
+most basic division of an essay is into a statement of the thesis and its
+proof. The statement of the thesis comes before the proof. If you begin
+your essay with your first premise, rather than with a statement of
+your thesis, the reader will have great difficulty in understanding the
+relevance of the premise. One reason for this is that from any
+proposition, an infinite number of propositions follows. (It is easy, but
+not relevant here, to prove this. Anyone who has taken a course in
+logic should be able to do it. Those without a course in logic might ask
+their professor, some rainy day, to do it.) Although virtually all of the
+infinite possible propositions will have an absurdly low probability of
+being drawn by the author, often there will still be a relatively large
+number of propositions that have a relatively high probability of being
+drawn; and it is unfair and irrational for an author to expect the reader
+to anticipate which of these she might draw.
+Compare writing an essay with riding in an automobile. If a passenger
+does not know the destination, it will be difficult for him to remember
+the roads he has taken. If, on the other hand, the destination is known,
+
+=== p. 74 ===
+
+then every left and right turn, every sign and traffic signal, is organized
+in relation to that destination. Since philosophy can be difficult, it is
+important to make as clear as possible what you are trying to prove in
+your essay. There should be no surprises in philosophy, except those
+caused by an insight, expressed with brilliant clarity. Do not confuse
+rhetorical pyrotechnics for philosophical light.
+Of course, your principal purpose in writing a philosophical essay is
+Truth for Truth’s sake (Veritas gratia Veritatis). Another purpose,
+however, may be to show your professor that you know the material.
+Before reading your essay, your professor will assume neither that you
+do nor that you do not know the material; but once he does begin
+reading it the burden of proof is on you to show that you do know the
+material. An unclear essay is evidence of unclear thought.
+Segments II–IV constitute the middle of the essay. Concerning
+segment II, it is good practice to get out all of your premises as soon as
+possible. This gives the reader the opportunity to see the general
+structure of your argument. The reader has a chance to see the overall
+picture of how you are going to get to your thesis. Then, in segment
+III, show your argument to be valid, i.e. that the premises you have set
+out will in fact get you to your conclusion. Explain how your premises
+entail your conclusion. Since a valid argument guarantees a true
+conclusion only if all the premises are true, the next step in your essay
+(segment IV) is to prove that your premises are true. First, state your
+evidence for your premises. This is the most direct and
+straightforward way of pressing your case. Typically, your audience
+will be more or less dubious about one or more of your premises.
+Raising the objections that you anticipate your reader might have will
+help clear the air of that doubt if you can answer those objections.
+More, answering the objections will solidify your case and make it
+more compelling for your reader.
+Segment V is the end of your essay. There are several ways to end an
+essay. One way is to summarize your argument. This is in line with the
+notion “say what you have done.” Because it comes at the end of your
+careful explication, your summary can assume a lot. You may use
+technical terms freely and assume that the meanings of your
+propositions are clear. Another way to end an essay is to explain what
+
+=== p. 75 ===
+
+further implication it has; or you might say what the next step in your
+research is. This last conclusion is ill-advised if you are submitting
+your final essay for a course.
+Still another way to end an essay is to explain why your results are
+important, if their importance could not be appreciated by stating
+them earlier in the essay. Typically, you should explain why your
+results are important near the beginning of your essay in order to
+pique your reader’s interest. Sometimes, however, the importance
+cannot be appreciated before one goes through the argument, or the
+relation between the results and the importance is implausible without
+the argument. In these cases it is both justified and advisable to
+explain the importance of your results at the end.
+I have briefly described the simplest structure a philosophical essay
+can have. Typically, the structure of a philosophical essay will be much
+more complicated. To help reflect this additional complication, let’s
+look at a more complicated outline of the structure of a philosophical
+
+                   A Slightly More Complex One
+     I Beginning: state the proposition to be proved.
+        B. State what is to be proved; state the thesis.
+        C. Motivation: Explain why this thesis or topic is interesting
+           or important.
+        D. State what you will assume in your essay without
+
+=== p. 76 ===
+
+      argument.
+  A. Explain the general force of the argument.
+  B. Explain what the premises mean.
+  A. Explain those terms that are used in a technical sense, or
+     which are ambiguous; resolve the ambiguity.
+  B. Explain how the conclusion follows from the premises.
+      1. The inference to intermediate conclusions will have to
+         be explained as part of the complete explanation.
+      2. Sometimes one can explain the inferences by citing
+         rules from a natural deduction system, e.g. modus
+         ponens or modus tollens. More often the explanation
+         concerns explaining the conceptual relations between
+         the concepts expressed in the premises.
+  C. Give the rules that justify the inferences that are not
+     apparent from the initial statement of the argument.
+  A. Give the evidence for the premises.
+      1. Explain the premises; and explain the meaning of
+         those terms that might be misunderstood and which
+         bear upon the truth of your premises.
+      2. Adduce the intuitions of the audience; supply
+         examples and subsidiary arguments that lend support
+         to the truth of your premises.
+  B. Raise objections.
+      1. Raise objections that have actually been raised
+         against your position.
+         a. Raise the objections that historically significant
+
+=== p. 77 ===
+
+                   philosophers have already raised to that problem.
+               b. Raise the objections that your professor or fellow
+                  students have raised.
+            2. Raise objections that no one else has raised and
+               which, when answered, further explicate and shore up
+               your thesis.
+        C. Answer the objections.
+     V Conclusion:
+        A. State the upshot of what you have proven.
+        B. Indicate further results that one might try to get.
+
+The outline is in large part self-explanatory. Still, other things need to
+be said about it, since it is an abstract and schematic entity. First, not
+every essay will contain every element of the outline. Second, not every
+essay will contain these elements in the order in which they are given
+here. The order given is a standard order, but it should not be
+considered invariable. Your material should dictate the order. Third,
+some items in the outline are roughly the same, e.g. I.A.2. and I.B.1.
+One reason for this is that essays typically unfold one step at a time. It
+is often rhetorically more effective to follow this procedure: provide
+some general background, then state your own position, then provide
+more detailed background, and so on. Another reason why the same
+general topic is listed in more than one place in the outline is, again,
+that your material should dictate your order, and sometimes that
+means discussing a topic in one place and sometimes in another.
+Finally, parts of this outline – even the whole of it – can be embedded
+as subordinate elements within other parts of the outline. For
+example, at the beginning of an essay, in the course of explaining what
+previous philosophers have thought about this problem, you might
+want to introduce the argument that some other philosopher gives for
+his position. In other words, you would want to introduce segments
+II–IV of the “Outline” as an element subordinate to I.A.2. If you were
+to do this, then the outline for the early part of your essay would
+contain embedded elements. (See the accompanying box on p. 56.)
+
+=== p. 78 ===
+
+Of course, this kind of embedding can occur at almost any other place
+in your essay, and it can occur an indefinite number of times, even
+with one embedding within another. For example, for segment IV
+“Show that the premises are true,” the truth of some premise may
+depend upon some argument that contains a premise that itself
+depends upon some argument that needs to be explained, so one will
+need to revert to segments II–IV as many times as is necessary to
+explicate each premise. Although it may seem complicated to have
+several embeddings, in fact, it is not. The human brain is quite capable
+of multiple embeddings of diverse types. If you signal each successive
+embedding for your readers, they will not be confused by the apparent
+complexity. The “basic” outline suggests that a philosophical essay
+contains only one argument. This is not correct, as we just saw in
+discussing the need for embedded arguments in supporting one’s
+premises. Furthermore, though an essay might have one main
+argument, most essays contain other subordinate arguments which
+will relate to the thesis in various ways. The author will subscribe to
+some of these arguments; but in many cases she will merely be
+reporting arguments of those opposed to her view or “flawed”
+arguments made by those who will have supported her main thesis. In
+writing your own essay, you should attempt to show your opponents’
+views to be faulty while overcoming the problems of previous
+arguments in support of your thesis.
+
+     I Beginning: State the proposition to be proved.
+
+=== p. 79 ===
+
+        B. State what is to be proved; state your thesis.
+        C. Motivation: Explain why this thesis is interesting or
+           important.
+     V Conclusion.
+
+2 Anatomy of an Essay
+Printed below is a sample essay, “Hobbes’s Divine Command Theory
+of Morality,” which illustrates most items in the structure of a
+philosophical essay discussed in the previous section. Passages within
+the text have been numbered [1]–[22] as references to the
+commentary provided below the text of the essay. For best results in
+using the commentary, skim the entire essay first (it is quite brief).
+Then return to the beginning of the essay; read each numbered item
+and the accompanying footnote.
+
+   [1] Hobbes’s Divine Command Theory of Morality
+
+=== p. 80 ===
+
+[2] The central problem in Thomas Hobbes’s moral philosophy is
+answering the question, “Why are humans obligated to follow the
+moral laws?”
+[3] There are two basic ways of interpreting Hobbes’s answer to
+this question. [4] One interpretation is that humans must obey
+moral laws because God commands them to obey. [5] This is
+generally known as the Taylor–Warrender Thesis. [6] The other
+interpretation is that humans must obey moral laws because these
+laws are rational, in the sense that they are deducible by reason. [7]
+This might be called the Secular Thesis.
+[8] In this essay, I present an interpretation that is a version of the
+Taylor–Warrender Thesis.
+[9] Its claim is that, according to Hobbes, an action is moral when
+God commands it. [10] But my interpretation also incorporates the
+main feature of the Secular Thesis, since what God commands is
+[11] Hobbes often asserts that moral laws, which he identifies with
+dictates of reason, are divine laws (Leviathan, ed. C. B.
+Macpherson, Penguin Books, 1962, c. 31, p. 399). He also says “The
+Word of God, is then also to be taken for the Dictates of reason,
+and equity” (Leviathan, p. 456; see also De Cive 4.1). From the
+many passages that could be cited, it is clear that Hobbes’s
+adherence to this doctrine is genuine; it was not asserted only once
+or half-heartedly
+[12] The view that the moral laws must be obeyed because they are
+commanded by God can also be proven by an argument that
+Hobbes has to accept. Moral laws are laws. All laws require a
+lawgiver. There is no lawgiver for moral law other than God.
+Therefore, God is the lawgiver of moral law.
+[13] One objection to my thesis is that Hobbes makes no appeal to
+God when he deduces the moral laws. [14] My reply to this
+objection is that it is not necessary for Hobbes to mention God in
+the deduction of the moral laws. [15] The first step in
+understanding why this is so is to draw a distinction between the
+
+=== p. 81 ===
+
+ form and the content of a law. [16] For Hobbes, as for any
+ command theorist, a law has two parts: there is its content, which
+ expresses what is to be done, and there is its form, which expresses
+ the authority that obliges that it be done. [17] For example, the
+ sentence, “I command that anyone who borrows something returns
+ that thing in the same condition that it was lent,” is properly used
+ to express a law, when it is uttered by a sovereign. [18] It is
+ divisible into two parts. [19] The phrase, “I command,” expresses
+ the form of the law; or, as Hobbes says, “The stile of a Law is, We
+ command” (Leviathan, p. 588; see also p. 317). [20] The rest of the
+ sentence expresses its content.
+ [21] Although the form of moral laws is immediately clear (“I, God,
+ command”), the content is not. For humans have no direct access
+ to God, since He is invisible and otherwise unable to be sensed.
+ Nonetheless, humans do know some things about God, such as
+ that He is rational. Further, laws must be rational. An irrational or
+ contradictory law is an impossibility. Now, since whatever is
+ rational is deducible by reason, the content of the moral law is
+ [22] The upshot of this discussion is that the content of the moral
+ law is deducible by reason but not from our knowledge of the
+ nature of God; and God’s command is what makes this content a
+ law and hence obligatory.
+
+3 Another Essay
+There is no need to follow the outline structure that I have given.
+Here’s a well-structured essay that does not tightly fit “The Structure
+of a Philosophical Essay.” Comments are in footnotes, in order to
+avoid having them confused with the numbered propositions in the
+
+        The Great Fear and Ignorance Argument1
+ The single most impressive argument in the philosophy of Thomas
+
+=== p. 82 ===
+
+Hobbes is what I shall call “The Great Fear and Ignorance
+Argument.”2 It is a crucial part of his argument that human beings
+need an absolute sovereign to govern them.3
+  (1) Some people in the state of nature are dangerous.
+  (2) It is very difficult to know who these people are.
+  Therefore, (3) It is necessary to be afraid of everyone.4
+The argument occurs in De Cive, the second of Hobbes’s three
+books on political philosophy.5 The argument is impressive
+because it is very brief and yet cogent. It begins with an
+indisputable6 premise. The state of nature is the condition human
+beings are in when there are no laws.
+In addition to its importance for proving the necessity of
+government,7 another reason for holding that the argument is
+powerful is that it is easily adapted to explain the reasoning of
+other social phenomena. Every schoolchild is instructed in the
+program “Stranger Danger.” Here is its underlying argument:
+  (SD-1) Some strangers are dangerous.
+  (SD-2) You, child, cannot be sure which strangers are
+  Therefore, (SD-3) You must be afraid of all strangers.
+
+Notice its similarity to the Great Fear and Ignorance Argument.8
+The Stranger Danger Argument may be even more forceful than
+the original argument because children are more vulnerable in our
+society than adults are.
+But the general argument form has many more applications. Here
+are two that may be called “The Policeman’s Argument” and “The
+Feminists’ Argument.”9
+  (PA-1) Some motorists who are stopped for a traffic violation
+  are dangerous.
+  (PA-2) A policeman cannot be sure which motorists are
+
+=== p. 83 ===
+
+  Therefore, (PA-3) A policeman must be afraid of all motorists.
+  (WA-1) Some males are rapists.
+  (WA-2) A woman cannot be sure which males are rapists.
+  Therefore, (WA-3) A woman must be afraid of all males.
+Other forms are easily constructed using the fears that African
+Americans have about White Racists.10
+Let’s now introduce an additional aspect of Hobbes’s Great Fear
+and Ignorance Argument.11 Each person I in the state of nature is
+intelligent enough to construct the argument for himself and will
+know that every other person is constructing the same argument
+with respect to I. That is, every person thinks that I is dangerous.
+So each person has a good reason to launch a preemptive strike
+against I. Knowing this, I also has a good reason to launch a
+preemptive strike against everyone else. But this is the same as
+being in a state of war with everyone else, for, as Hobbes said, war
+does not require actual fighting, but any tendency to fight. That is
+why the relations between the United States and the Soviet Union
+during the second half of the twentieth century were called a Cold
+War. It was a war with little actual fighting.
+The Policeman’s Argument invites introducing another aspect of
+Hobbes’s original argument.12 What attitude will a motorist take
+when she realizes that the policeman is suspicious of her behavior?
+It will be negative and probably something that includes anger and
+resentment. This will make relations between the policeman and
+motorists worse.
+The point of Hobbes’s argument is to get people to see that
+unrestricted freedom is not a good thing and that government is
+necessary for a decent life. Government reduces the number of
+dangerous people and the occasions when they can act. But the
+power of government is always limited; and even within civil
+societies, children, women, some minorities, and even policemen
+have reason to be afraid.13
+
+=== p. 84 ===
+
+1 Titles are important. They should always be informative, and
+sometimes they can be catchy too, as this one is supposed to be. How
+could fear and ignorance be the topic of an interesting argument in
+philosophy? Perhaps the word “ignorance” indicates that the essay has
+something to do with skepticism. Is the argument about great fear or is
+it a great argument? The essay itself will show that the author intends
+both. At this point the title is simply provocative.
+Trying to be provocative is dangerous; it might offend or reveal
+callowness. A less catchy title might have done just as well, say,
+“Thomas Hobbes’s Argument about Fear in the State of Nature.”
+2 This first sentence orients the reader by giving him background
+information. The essay will be about an important argument in the
+philosophy of Thomas Hobbes.
+3 This second sentence continues to orient the reader by giving
+information about the immediate context of Hobbes’s argument.
+4 The author is not wasting any time in presenting the argument. She
+is confident that this brief argument is intriguing and will incline the
+reader to continue reading. It also gives the reader the opportunity to
+stop reading if he thinks that there is no hope of this argument being
+interesting.
+5 A student author provides this kind of information in order to show
+her professor that she has some wider knowledge of Hobbes’s
+philosophy than just the argument of De Cive and also to provide
+context.
+6 The author was tempted to write “incontrovertible.” That would
+have been a very good word to use in the seventeenth century, but since
+“indisputable” is more familiar and does the same work, it is better.
+Don’t use unfamiliar words unnecessarily.
+7 This opening phrase connects this paragraph with the earlier
+statement of the importance of Hobbes’s argument. So the phrase
+contributes to the coherence of the essay.
+8 This sentence contributes to both the logical and rhetorical
+coherence of the essay.
+9 The form of Hobbes’s argument is given wider application. Notice
+that the essay unfolds in stages: Hobbes’s argument, an argument of
+the same form about strangers, two arguments of the same form about
+policemen and feminists. Contrast this with giving all four arguments
+
+=== p. 85 ===
+
+     at once or Hobbes’s argument followed by the three others. Readers
+     need to be given time to process the information being presented.
+     10 It’s unnecessary to spell out the premises and conclusion for these
+     arguments since the form of the previous arguments makes it clear how
+     it should be done.
+     11 Another aspect of the original argument, or something related to it,
+     is now being presented. Uncover your argument step by step.
+     12 The essay concludes with a provocative question and a comment
+     about the practical implication of two of the arguments discussed. A
+     further generalization of that implication is straightforward.
+     13 The concluding paragraph repeats the main point of Hobbes’s
+     argument and describes the importance of the related arguments.
+
+Notes
+[1] The title is an extremely important part of an essay because, if it is
+   aptly formulated, it helps to satisfy the two most important parts of
+   the beginning of an essay. Since the title is always the first thing a
+   reader sees, even before the author’s name, it creates the first
+   impression. The title should convey a narrow range of topics from
+   which the actual topic is selected. This delimitation of the range
+   orients the reader. The title, “Hobbes’s Divine Command Theory of
+   Morality,” obviously indicates that the main topic of discussion will
+   not include elephants or geological ages. It restricts the topic to the
+   intersection of topics about Hobbes and the Divine Command
+   Theory of Morality. Of course, understanding the title also relies
+   upon a great deal of background information. The title is more
+   informative to someone who knows who Hobbes is and what the
+   divine command theory of morality is.
+[2] The first sentence must effect a transition from the abstractness
+   and sketchiness of the title to the concreteness and specificity of the
+   essay itself. The transition is very smooth in this essay since the
+   phrase, “Hobbes’s moral philosophy,” in the first sentence echoes
+   two of the key words in the title. Item [2] satisfies I.A.1: Specify
+   what general topic will be discussed. (The difference between I.A.1
+
+=== p. 86 ===
+
+  and I.B.1. and I.B.2 is solely in the relation the sentences have to
+  other parts of the essay. I.A.1 is a report of the history of the
+  problem without relating that history to the author’s own thesis;
+  I.B.1. and I.B.2 report that history in relation to the author’s own
+  thesis.)
+[3] This sentence introduces I.2: report what previous philosophers
+   have thought about this topic. Item [3] is also proleptic; that is, it
+   sets forth in a general way something that needs to be related in
+   detail. Proleptic sentences are like implicit promises to say more
+   about the topic. Such promises need to be kept as soon as possible.
+   In this case, the promise is kept in the sentences immediately
+   following: [4]–[7].
+[4] This sentence is the first part of specifying the claim made in [3].
+[5] This sentence names the interpretation referred to in [4]. It would
+   be appropriate to introduce a note here that would give references
+   to the scholarly work of Taylor, Warrender, and any other scholar
+   the author thinks provides relevant background to the issue. Such a
+   note is not provided here for simplicity’s sake.
+  Item [5] also marks the place where a discussion of the work of
+  Taylor and Warrender could be inserted, if the author wanted to
+  expand the essay. For example, sentence [5] could easily be
+  expanded into three:
+     [5] This is generally known as the Taylor–Warrender Thesis. [5a]
+     A. E. Taylor first presented the thesis in these words: “I can only
+     make Hobbes’s statements consistent with one another by
+     supposing that he meant quite seriously what he so often says,
+     that the ‘natural law’ is the command of God, and so to be
+     obeyed because it is God’s command” (A. E. Taylor, “The Ethical
+     Doctrine of Hobbes,” in Hobbes Studies, ed. Stuart Brown,
+     Oxford: Basil Blackwell, 1965, p. 49). [5b] Howard Warrender
+     later elaborated a variation of it in this way: “[According to
+     Hobbes] the reason why I ought to do my duty is that God
+     commands it” (H. Warrender, The Political Philosophy of
+     Hobbes, Oxford: Clarendon Press, 1957, p. 213).
+
+=== p. 87 ===
+
+   These three sentences ([5]–[5b]) could be further expanded into a
+   dozen or more if needed or desired, preferably by describing their
+   views rather than by quoting them.
+   Quoting or otherwise indicating what scholars have thought about
+   some philosophical view provides background for the ideal reader
+   and evidence for your professor that you have done research on and
+   are well-informed about your topic. There are many other places in
+   this essay that could be expanded in various ways. For example, see
+   the note to [11].
+[6] This and the next sentence complete the discussion of I.A.2. Notice
+   the parallel structure of [4], which begins “One interpretation” and
+   [6], which begins “The other interpretation.” This kind of structure
+   ties together different sentences and contributes to what is called
+   “coherence” or “cohesion” in an essay.
+[7] This sentence is co-ordinate with [5]. It completes the discussion of
+   I.A.2: “Report what previous philosophers have thought about this
+   topic.”
+[8] This sentence satisfies I.B: “State what is to be proved; state the
+   thesis.”
+[9] This sentence partially satisfies I.B. It further explains the thesis. It
+   slightly repeats the information given in [6], but the repetition is
+   worthwhile if the author thinks that the audience might not be very
+   familiar with Hobbesian scholarship. The repetition saves the
+   reader from looking back to see what the Taylor–Warrender Thesis
+   is.
+[10] This sentence continues to satisfy I.B. Like [9], it slightly repeats
+   earlier information.
+[11] The sentences of this segment satisfy both II: “Give the argument
+   for the proposition to be proved;” and IV: “Show that the premises
+   are true,” especially IV.A: “Give the evidence for the premises.” The
+   argument is so brief and simple that its premises are not even
+   stated in the essay. One consequence is that there is no need to
+   include in the essay anything that would satisfy item III: “Show that
+
+=== p. 88 ===
+
+the argument is valid.”
+  If the argument were spelled out, it would look like this:
+  If Hobbes says that laws of nature are divine laws, then
+    Hobbes believes that laws of nature are divine laws.
+  Hobbes says that laws of nature are divine laws.
+  _________________________________________
+  Hobbes believes that laws of nature are divine laws.
+(Some philosophers would claim that [11] does not express an
+argument but only a proposition and the evidence for its truth. I do
+not wish to argue the point here, and ask that it be accepted as an
+argument for the sake of exposition.)
+There is a good reason to spell out this simple argument here,
+though not in the essay itself. Some scholars think the argument is
+unsound; depending upon how “say” is defined, it is either the first
+or second premise that is false. For example, Leo Strauss thinks
+that for political reasons Hobbes, like many other philosophers,
+wrote words that he did not intend to be taken literally. In an essay
+as short as this one (two pages), there is no room to discuss
+Strauss’s interpretation or even to mention it.
+If the essay were expanded into a 10- or 20-page version, then it
+would be appropriate to introduce Strauss’s views at this point. (For
+further discussion of this issue, see chapter 4, section 5, “Successive
+Elaboration.”)
+Let’s now consider how [11] satisfies item IV. In the first sentence of
+[11], the author gives a reference to Leviathan, which purportedly
+substantiates her position. In the next sentence, the author actually
+quotes Hobbes’s own words as evidence for her view and also
+provides a further reference to Hobbes’s work. The last sentence of
+the paragraph claims that other evidence could be provided
+although it does not provide any of it. The author has presented a
+fair amount of evidence for the truth of the premise, “Hobbes says
+that the laws of nature are divine laws.” However, in a longer essay,
+more evidence and some discussion of the evidence would have to
+be provided.
+
+=== p. 89 ===
+
+[12] This paragraph develops a second argument for the author’s
+   thesis. Although in theory one sound argument for a proposition is
+   sufficient to prove it, in practice it is often necessary to develop
+   more than one sound argument in an essay in order for the author
+   to succeed in her purpose. There are at least two reasons for this.
+   First, an audience will often not recognize an argument as sound if
+   it is the only sound argument presented for the conclusion. It seems
+   to be a psychological fact about humans that it is easier for them to
+   see some argument as sound if there are several other arguments,
+   even logically independent of the first, that have the same
+   conclusion. Second, an author’s audience is diverse. Different
+   people will recognize different arguments as sound. One person
+   may be persuaded by one sound argument while another person by
+   another, depending upon each person’s previously held beliefs and
+   principles of evidence. Thus, in order to persuade a lot of people, it
+   is typically necessary to develop several arguments for the same
+   conclusion. To say this, however, is not to encourage an author to
+   present her arguments too briefly or with insufficient detail. It is
+   also not to encourage the author to present as many arguments as
+   she can, no matter how bad or seemingly bad. Presenting a bad
+   argument, or even one that appears to be bad, might be detrimental
+   to the author’s goal. Even though an unsound argument for a
+   proposition does not indicate that that proposition is false, it may
+   have the psychological effect of causing the audience to think that
+   the proposition is false. So far as the persuasiveness of an essay is
+   concerned, presenting 20 bad arguments for a thesis might do more
+   harm than simply presenting one sound argument. It should still be
+   emphasized that a conclusion is true if there is even one sound
+   argument for it; and the existence of a million bad arguments in
+   support does not prove that the conclusion is false. If the
+   argument of item [12] were made explicit, it would look like this:
+
+[13] This sentence introduces item IV.B: Raise objections. It is the
+   topic sentence of the paragraph. It invites the question, “Why
+
+=== p. 90 ===
+
+  doesn’t Hobbes mention God in his deduction of the moral law?”
+  The question is answered in the immediately following sentences.
+  The objection is a standard one raised by opponents of the Taylor–
+  Warrender Thesis. Thus, this objection fits more specifically under
+  section IV.B.1.a. In a longer essay, it would be appropriate to give a
+  reference to at least the most important of these opponents, and
+  even to describe their objection at some length. If this essay were a
+  draft of a longer essay that the author was composing by the
+  method of “Successive Elaboration,” then this would be an
+  appropriate place for expanding the essay in the way just described.
+  Because this essay is brief, even the references to the opponents of
+  Taylor and Warrender have been omitted. It expresses in an
+  unqualified way the general view of the author. This general view
+  needs elaboration, which is presented in the following sentences.
+[14] This sentence begins the answer to the objection expressed in
+   [13]. It thus begins to satisfy item IV.C.
+[15] This sentence continues item IV.C. Although it is not obvious –
+   and it needn’t be – from this sentence that the distinction between
+   form and content is a very important one, it will become obvious in
+   due course. It is important for an author not to rush her exposition.
+   She shouldn’t try to say everything that needs to be said in one or
+   two sentences; she needs to uncover her thought step by step in
+   neither a hurried nor a dawdling way.
+  The most important point of an essay should not be introduced as a
+  reply to an objection, for a reply is by its nature a subordinate part
+  of the essay. Nonetheless, it is often legitimate to introduce
+  somewhat important points as replies. If all the replies were
+  relatively unimportant, then the essay would be rather boring to
+  read.
+[16] This sentence continues item IV.C. Further, although it begins by
+   relating to Hobbes (“For Hobbes”), it immediately broadens its
+   importance by generalizing it (“as for any command theorist”). The
+   rest of the sentence then characterizes the difference between the
+   form and content of a law. A characterization is always general and
+
+=== p. 91 ===
+
+   abstract.
+   The next sentence makes the characterization clearer by illustrating
+   it with an example.
+[17] This sentence gives an example of what is characterized in [16]. It
+   makes the characterization less abstract.
+[18] This sentence begins an explanation of the example. It is proleptic
+   and finds its realization in the following two sentences, items [19]
+   and [20].
+[19] This sentence explains which part of the example concerns the
+   form of a law and relates it to Hobbes’s own words (“as Hobbes
+   says”). There is a certain redundancy in the information given in
+   [19], but it is justified, because the author’s point is not one that is
+   likely to be familiar to the reader and having it explained in two
+   different ways makes the reader’s burden lighter.
+[20] This sentence is co-ordinate with [19]. But [20] is much briefer
+   than [19]. More, it seems, needs to be said, and it is said in the next
+   paragraph.
+[21] The phrases, “the form of moral laws” and “the content” in the
+   first sentence of this paragraph tie this paragraph to the
+   immediately preceding one. Again, this creates cohesion. Most of
+   this paragraph presents a reconstruction of how Hobbes relates the
+   content of a moral law as rational (or deducible) to the form of a
+   moral law.
+   This completes the discussion of IV.C.
+[22] This paragraph satisfies V: Conclusion. It summarizes the
+   argument of the entire essay.
+

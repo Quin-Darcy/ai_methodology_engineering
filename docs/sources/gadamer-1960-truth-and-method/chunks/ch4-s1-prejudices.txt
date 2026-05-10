@@ -1,0 +1,1493 @@
+=== chunk: gadamer-1960-truth-and-method/ch4-s1-prejudices ===
+title: Ch. 4 §1 — Historicity of understanding; prejudices as conditions
+source_pdf: docs/sources/gadamer-1960-truth-and-method/full.pdf
+pdf_pages: 305-342
+page_scheme: book
+plan_page_start: 267
+plan_page_end: 304
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 267 ===
+
+               Elements of a Theory of Hermeneutic
+               Experience
+
+        1 THE ELEVATION OF THE HISTORICITY OF UNDERSTANDING TO
+                THE STATUS OF A HERMENEUTIC PRINCIPLE
+
+              (A) THE HERMENEUTIC CIRCLE AND THE PROBLEM OF PREJUDICES
+
+      (i) Heidegger's Disclosure of the Fore-Structure of Understanding
+
+      Heidegger entered into the problems of historical hermeneutics and
+      critique only in order to explicate the fore-structure of understanding for
+      the purposes of ontology.1 Our question, by contrast, is how hermeneutics,
+      once freed from the ontological obstructions of the scientific concept of
+      objectivity, can do justice to the historicity of understanding. Hermeneutics
+      has traditionally understood itself as an art or technique.2 This is true even
+      of Dilthey's expansion of hermeneutics into an organon of the human
+      sciences. One might wonder whether there is such an art or technique of
+      understanding—we shall come back to the point. But at any rate we can
+      inquire into the consequences for the hermeneutics of the human sciences
+      of the fact that Heidegger derives the circular structure of understanding
+      from the temporality of Dasein. These consequences do not need to be
+      such that a theory is applied to practice so that the latter is performed
+      differently—i.e., in a way that is technically correct. They could also consist
+      in correcting (and refining) the way in which constantly exercised
+      understanding understands itself—a process that would benefit the art of
+      understanding at most only indirectly.
+
+=== p. 268 ===
+
+   Hence we will once more examine Heidegger's description of the
+hermeneutical circle in order to make its new fundamental significance
+fruitful for our purposes. Heidegger writes, "It is not to be reduced to the
+level of a vicious circle, or even of a circle which is merely tolerated. In the
+circle is hidden a positive possibility of the most primordial kind of
+knowing, and we genuinely grasp this possibility only when we have
+understood that our first, last, and constant task in interpreting is never to
+allow our fore-having, fore-sight, and fore-conception to be presented to
+us by fancies and popular conceptions, but rather to make the scientific
+theme secure by working out these fore-structures in terms of the things
+themselves" (Being and Time, p. 153).
+   What Heidegger is working out here is not primarily a prescription for
+the practice of understanding, but a description of the way interpretive
+understanding is achieved. The point of Heidegger's hermeneutical reflection is not so much to prove that there is a circle as to show that this circle
+possesses an ontologically positive significance. The description as such will
+be obvious to every interpreter who knows what he is about.3 All correct
+interpretation must be on guard against arbitrary fancies and the limitations imposed by imperceptible habits of thought, and it must direct its
+gaze "on the things themselves" (which, in the case of the literary critic, are
+meaningful texts, which themselves are again concerned with objects). For
+the interpreter to let himself be guided by the things themselves is
+obviously not a matter of a single, "conscientious" decision, but is "the first,
+last, and constant task." For it is necessary to keep one's gaze fixed on the
+thing throughout all the constant distractions that originate in the interpreter himself. A person who is trying to understand a text is always
+projecting. He projects a meaning for the text as a whole as soon as some
+initial meaning emerges in the text. Again, the initial meaning emerges
+only because he is reading the text with particular expectations in regard
+to a certain meaning. Working out this fore-projection, which is constantly
+revised in terms of what emerges as he penetrates into the meaning, is
+understanding what is there.
+   This description is, of course, a rough abbreviation of the whole. The
+process that Heidegger describes is that every revision of the fore-projection is capable of projecting before itself a new projection of
+meaning; rival projects can emerge side by side until it becomes clearer
+what the unity of meaning is; interpretation begins with fore-conceptions
+that are replaced by more suitable ones. This constant process of new
+projection constitutes the movement of understanding and interpretation.
+
+=== p. 269 ===
+
+  A person who is trying to understand is exposed to distraction from fore-meanings that are not borne out by the things themselves. Working out
+  appropriate projections, anticipatory in nature, to be confirmed "by the
+  things" themselves, is the constant task of understanding. The only
+  "objectivity" here is the confirmation of a fore-meaning in its being worked
+  out. Indeed, what characterizes the arbitrariness of inappropriate fore-meanings if not that they come to nothing in being worked out? But
+  understanding realizes its full potential only when the fore-meanings that
+  it begins with are not arbitrary. Thus it is quite right for the interpreter not
+  to approach the text directly, relying solely on the fore-meaning already
+  available to him, but rather explicitly to examine the legitimacy—i.e., the
+  origin and validity—of the fore-meanings dwelling within him.
+     This basic requirement must be seen as the radicalization of a procedure
+  that we in fact exercise whenever we understand anything. Every text
+  presents the task of not simply leaving our own linguistic usage unexamined—or in the case of a foreign language the usage that we are familiar
+  with from writers or from daily intercourse. Rather, we regard our task as
+  deriving our understanding of the text from the linguistic usage of the time
+  or of the author. The question is, of course, how this general requirement
+  can be fulfilled. Especially in the field of semantics we are confronted with
+  the problem that our own use of language is unconscious. How do we
+  discover that there is a difference between our own customary usage and
+  that of the text?
+     I think we must say that generally we do so in the experience of being
+  pulled up short by the text. Either it does not yield any meaning at all or
+  its meaning is not compatible with what we had expected. This is what
+  brings us up short and alerts us to a possible difference in usage. Someone
+  who speaks the same language as I do uses the words in the sense familiar
+  to me—this is a general presupposition that can be questioned only in
+  particular cases. The same thing is true in the case of a foreign language:
+  we all think we have a standard knowledge of it and assume this standard
+  usage when we are reading a text.
+     What is true of fore-meanings that stem from usage, however, is equally
+  true of the fore-meanings concerning content with which we read texts,
+  and which make up our fore-understanding. Here too we may ask how we
+  can break the spell of our own fore-meanings. There can, of course, be a
+  general expectation that what the text says will fit perfectly with my own
+  meanings and expectations. But what another person tells me, whether in
+
+=== p. 270 ===
+
+conversation, letter, book, or whatever, is generally supposed to be his own
+and not my opinion; and this is what I am to take note of without
+necessarily having to share it. Yet this presupposition is not something that
+makes understanding easier, but harder, since the fore-meanings that
+determine my own understanding can go entirely unnoticed. If they give
+rise to misunderstandings, how can our misunderstandings of a text be
+perceived at all if there is nothing to contradict them? How can a text be
+protected against misunderstanding from the start?
+   If we examine the situation more closely, however, we find that
+meanings cannot be understood in an arbitrary way. Just as we cannot
+continually misunderstand the use of a word without its affecting the
+meaning of the whole, so we cannot stick blindly to our own fore-meaning
+about the thing if we want to understand the meaning of another. Of
+course this does not mean that when we listen to someone or read a book
+we must forget all our fore-meanings concerning the content and all our
+own ideas. All that is asked is that we remain open to the meaning of the
+other person or text. But this openness always includes our situating the
+other meaning in relation to the whole of our own meanings or ourselves
+in relation to it. Now, the fact is that meanings represent a fluid multiplicity
+of possibilities (in comparison to the agreement presented by a language
+and a vocabulary), but within this multiplicity of what can be
+thought—i.e., of what a reader can find meaningful and hence expect to
+find—not everything is possible; and if a person fails to hear what the other
+person is really saying, he will not be able to fit what he has misunderstood
+into the range of his own various expectations of meaning. Thus there is a
+criterion here also. The hermeneutical task becomes of itself a questioning of
+things and is always in part so defined. This places hermeneutical work on
+a firm basis. A person trying To understand something will not resign
+himself from the start to relying on his own accidental fore-meanings,
+ignoring as consistently and stubbornly as possible the actual meaning of
+the text until the latter becomes so persistently audible that it breaks
+through what the interpreter imagines it to be. Rather, a person trying to
+understand a text is prepared for it to tell him something. That is why a
+hermeneutically trained consciousness must be, from the start, sensitive to
+the text's alterity. But this kind of sensitivity involves neither "neutrality"
+with respect to content nor the extinction of one's self, but the foregrounding and appropriation of one's own fore-meanings and prejudices. The
+important thing is to be aware of one's own bias, so that the text can
+
+=== p. 271 ===
+
+  present itself in all its otherness and thus assert its own truth against one's
+  own fore-meanings.
+     When Heidegger disclosed the fore-structure of understanding in what is
+  considered merely "reading what is there," this was a completely correct
+  phenomenological description. He also exemplified the task that follows
+  from this. In Being and Time he gave the general hermeneutical problem a
+  concrete form in the question of being.4 In order to explain the hermeneutical situation of the question of being in terms of fore-having, foresight, and fore-conception, he critically tested his question, directed at
+  metaphysics, on important turning points in the history of metaphysics.
+  Here he was only doing what historical-hermeneutical consciousness
+  requires in every case. Methodologically conscious understanding will be
+  concerned not merely to form anticipatory ideas, but to make them
+  conscious, so as to check them and thus acquire right understanding from
+  the things themselves. This is what Heidegger means when he talks about
+  making our scientific theme "secure" by deriving our fore-having, foresight and fore-conception from the things themselves.
+     It is not at all a matter of securing ourselves against the tradition that
+  speaks out of the text then, but, on the contrary, of excluding everything
+  that could hinder us from understanding it in terms of the subject matter.
+  It is the tyranny of hidden prejudices that makes us deaf to what speaks to
+  us in tradition. Heidegger's demonstration that the concept of consciousness in Descartes and of spirit in Hegel is still influenced by Greek
+  substance ontology, which sees being in terms of what is present, undoubtedly surpasses the self-understanding of modern metaphysics, yet not in an
+  arbitrary, willful way, but on the basis of a "fore-having" that in fact makes
+  this tradition intelligible by revealing the ontological premises of the
+  concept of subjectivity. On the other hand, Heidegger discovers in Kant's
+  critique of "dogmatic" metaphysics the idea of a metaphysics of finitude
+  which is a challenge to his own ontological scheme. Thus he "secures" the
+  scientific theme by framing it within the understanding of tradition and so
+  putting it, in a sense, at risk. All of this is a concretization of the historical
+  consciousness involved in understanding.
+      The recognition that all understanding inevitably involves some prejudice gives the hermeneutical problem its real thrust. In light of this insight
+  it appears that historicism, despite its critique of rationalism and of natural law
+  philosophy, is based on the modern Enlightenment and unwittingly shares its
+  prejudices. And there is one prejudice of the Enlightenment that defines its
+
+=== p. 272 ===
+
+essence: the fundamental prejudice of the Enlightenment is the prejudice
+against prejudice itself, which denies tradition its power.
+   The history of ideas shows that not until the Enlightenment does the
+concept of prejudice acquire the negative connotation familiar today. Actually
+"prejudice" means a judgment that is rendered before all the elements that
+determine a situation have been finally examined. In German legal
+terminology a "prejudice" is a provisional legal verdict before the final
+verdict is reached. For someone involved in a legal dispute, this kind of
+judgment against him affects his chances adversely. Accordingly, the
+French prejudice, as well as the Latin praejudicium, means simply "adverse
+effect," "disadvantage," "harm." But this negative sense is only derivative.
+The negative consequence depends precisely on the positive validity, the
+value of the provisional decision as a prejudgment, like that of any precedent.
+   Thus "prejudice" certainly does not necessarily mean a false judgment,
+but part of the idea is that it can have either a positive or a negative value.
+This is clearly due to the influence of the Latin praejudicium. There are
+such things as prejuges legitimes. This seems a long way from our current
+use of the word. The German Vorurteil, like the English "prejudice" and
+even more than the French prejuge, seems to have been limited in its
+meaning by the Enlightenment critique of religion simply to the sense of
+an "unfounded judgment." 5 The only thing that gives a judgment dignity
+is its having a basis, a methodological justification (and not the fact that it
+may actually be correct). For the Enlightenment the absence of such a basis
+does not mean that there might be other kinds of certainty, but rather that
+the judgment has no foundation in the things themselves—i.e., that it is
+"unfounded." This conclusion follows only in the spirit of rationalism. It is
+the reason for discrediting prejudices and the reason scientific knowledge
+claims to exclude them completely.
+   In adopting this principle, modern science is following the rule of
+Cartesian doubt, accepting nothing as certain that can in any way be
+doubted, and adopting the idea of method that follows from this rule. In
+our introductory observations we have already pointed out how difficult it
+is to harmonize the historical knowledge that helps to shape our historical
+consciousness with this ideal and how difficult it is, for that reason, to
+comprehend its true nature on the basis of the modern conception of
+method. This is the place to turn those negative statements into positive
+ones. The concept of "prejudice" is where we can start.
+
+=== p. 273 ===
+
+      (ii) The Discrediting of Prejudice by the Enlightenment
+
+      If we consider the Enlightenment doctrine of prejudice, we find that it
+      makes the following division: we must make a basic distinction between
+      the prejudice due to human authority and that due to overhastiness.6 This
+      distinction is based on the origin of prejudices in the persons who have
+      them. Either the respect we have for others and their authority leads us
+      into error, or else an overhastiness in ourselves. That authority is a source
+      of prejudices accords with the well-known principle of the Enlightenment
+      that Kant formulated: Have the courage to make use of your own
+      understanding.7 Although this distinction is certainly not limited to the
+      role that prejudices play in understanding texts, its chief application is still
+      in the sphere of hermeneutics, for Enlightenment critique is primarily
+      directed against the religious tradition of Christianity—i.e., the Bible. By
+      treating the Bible as a historical document, biblical criticism endangers its
+      own dogmatic claims. This is the real radicality of the modern Enlightenment compared to all other movements of enlightenment: it must assert
+      itself against the Bible and dogmatic interpretation of it.8 It is therefore
+      particularly concerned with the hermeneutical problem. It wants to
+      understand tradition correctly—i.e., rationally and without prejudice. But
+      there is a special difficulty about this, since the sheer fact that something
+      is written down gives it special authority. It is not altogether easy to realize
+      that what is written down can be untrue. The written word has the
+      tangible quality of something that can be demonstrated and is like a proof.
+      It requires a special critical effort to free oneself from the prejudice in favor
+      of what is written down and to distinguish here also, no less than in the
+      case of oral assertions, between opinion and truth. 9 In general, the
+      Enlightenment tends to accept no authority and to decide everything
+      before the judgment seat of reason. Thus the written tradition of Scripture,
+      like any other historical document, can claim no absolute validity; the
+      possible truth of the tradition depends on the credibility that reason
+      accords it. It is not tradition but reason that constitutes the ultimate source
+      of all authority. What is written down is not necessarily true. We can know
+      better: this is the maxim with which the modern Enlightenment
+      approaches tradition and which ultimately leads it to undertake historical
+      research.10 It takes tradition as an object of critique, just as the natural
+      sciences do with the evidence of the senses. This does not necessarily mean
+      that the "prejudice against prejudices" was everywhere taken to the
+      extremes of free thinking and atheism, as in England and France. On the
+
+=== p. 274 ===
+
+contrary, the German Enlightenment recognized the "true prejudices" of
+the Christian religion. Since the human intellect is too weak to manage
+without prejudices, it is at least fortunate to have been educated with true
+prejudices.
+   It would be valuable to investigate to what extent this kind of modification and moderation of the Enlightenment 1 ' prepared the way for the rise
+of the romantic movement in Germany, as undoubtedly did the critique of
+the Enlightenment and the revolution by Edmund Burke. But none of this
+alters the fundamental fact. True prejudices must still finally be justified by
+rational knowledge, even though the task can never be fully completed.
+   Thus the criteria of the modern Enlightenment still determine the self-understanding of historicism. They do so not directly, but through a
+curious refraction caused by romanticism. This can be seen with particular
+clarity in the fundamental schema of the philosophy of history that
+romanticism shares with the Enlightenment and that precisely through the
+romantic reaction to the Enlightenment became an unshakable premise:
+the schema of the conquest of mythos by logos. What gives this schema its
+validity is the presupposition of the progressive retreat of magic in the
+world. It is supposed to represent progress in the history of the mind, and
+precisely because romanticism disparages this development, it takes over
+the schema itself as a self-evident truth. It shares the presupposition of the
+Enlightenment and only reverses its values, seeking to establish the
+validity of what is old simply on the fact that it is old: the "gothic" Middle
+Ages, the Christian European community of states, the permanent structure of society, but also the simplicity of peasant life and closeness to
+nature.
+   In contrast to the Enlightenment's faith in perfection, which thinks in
+terms of complete freedom from "superstition" and the prejudices of the
+past, we now find that olden times—the world of myth, unreflective life,
+not yet analyzed away by consciousness, in a "society close to nature," the
+world of Christian chivalry—all these acquire a romantic magic, even a
+priority over truth.12 Reversing the Enlightenment's presupposition results
+in the paradoxical tendency toward restoration—i.e., the tendency to
+reconstruct the old because it is old, the conscious return to the unconscious, culminating in the recognition of the superior wisdom of the
+primeval age of myth. But the romantic reversal of the Enlightenment's
+criteria of value actually perpetuates the abstract contrast between myth
+and reason. All criticism of the Enlightenment now proceeds via this
+romantic mirror image of the Enlightenment. Belief in the perfectibility of
+
+=== p. 275 ===
+
+  reason suddenly changes into the perfection of the "mythical" consciousness and finds itself reflected in a paradisiacal primal state before the "fall"
+  of thought.13
+     In fact the presupposition of a mysterious darkness in which there was
+  a mythical collective consciousness that preceded all thought is just as
+  dogmatic and abstract as that of a state of perfect enlightenment or of
+  absolute knowledge. Primeval wisdom is only the counterimage of "primeval stupidity." All mythical consciousness is still knowledge, and if it knows
+  about divine powers, then it has progressed beyond mere trembling before
+  power (if this is to be regarded as the primeval state), but also beyond a
+  collective life contained in magic rituals (as we find in the early Orient). It
+  knows about itself, and in this knowledge it is no longer simply outside
+  itself.14
+     There is the related point that even the contrast between genuine
+  mythical thinking and pseudomythical poetic thinking is a romantic
+  illusion based on a prejudice of the Enlightenment: namely that the poetic
+  act no longer shares the binding quality of myth because it is a creation of
+  the free imagination. It is the old quarrel between the poets and the
+  philosophers in the modern garb appropriate to the age of belief in science.
+  It is now said, not that poets tell lies, but that they are incapable of saying
+  anything true; they have only an aesthetic effect and, through their
+  imaginative creations, they merely seek to stimulate the imagination and
+  vitality of their hearers or readers.
+     Another case of romantic refraction is probably to be found in the
+  concept of an "organic society," which Ladendorf says was introduced by
+  H. Leo. 15 In Karl Marx it appears as a kind of relic of natural law that limits
+  the validity of his socio-economic theory of the class struggle.16 Does the
+  idea go back to Rousseau's description of society before the division of
+  labor and the introduction of property?17 At any rate, Plato had already
+  demonstrated the illusory nature of this political theory in his ironical
+  account of a state of nature in the third book of the Republic.13
+      These romantic revaluations give rise to historical science in the nineteenth century. It no longer measures the past by the standards of the
+  present, as if they were an absolute, but it ascribes to past ages a value of
+  their own and can even acknowledge their superiority in one respect or
+  another. The great achievements of romanticism—the revival of the past,
+  the discovery of the voices of the peoples in their songs, the collecting of
+  fairy tales and legends, the cultivation of ancient customs, the discovery of
+  the worldviews implicit in languages, the study of the "religion and
+
+=== p. 276 ===
+
+wisdom of India"—all contributed to the rise of historical research, which
+was slowly, step by step, transformed from intuitive revival into detached
+historical knowledge. The fact that it was romanticism that gave birth to
+the historical school confirms that the romantic retrieval of origins is itself
+based on the Enlightenment. Nineteenth-century historiography is its
+finest fruit and sees itself precisely as the fulfillment of the Enlightenment,
+as the last step in the liberation of the mind from the trammels of dogma,
+the step to objective knowledge of the historical world, which stands on a
+par with the knowledge of nature achieved by modern science.
+   The fact that the restorative tendency of romanticism could combine
+with the fundamental concerns of the Enlightenment to create the
+historical sciences simply indicates that the same break with the continuity
+of meaning in tradition lies behind both. If the Enlightenment considers it
+an established fact that all tradition that reason shows to be impossible
+(i.e., nonsense) can only be understood historically—i.e., by going back to
+the past's way of looking at things—then the historical consciousness that
+emerges in romanticism involves a radicalization of the Enlightenment.
+For nonsensical tradition, which had been the exception, has become the
+general rule for historical consciousness. Meaning that is generally accessible through reason is so little believed that the whole of the past—even,
+ultimately, all the thinking of one's contemporaries—is understood only
+"historically." Thus the romantic critique of the Enlightenment itself ends
+in Enlightenment, for it evolves as historical science and draws everything
+into the orbit of historicism. The basic discreditation of all prejudices,
+which unites the experimental fervor of the new natural sciences during
+the Enlightenment, is universalized and radicalized in the historical
+Enlightenment.
+   This is the point at which the attempt to critique historical hermeneutics
+has to start. The overcoming of all prejudices, this global demand of the
+Enlightenment, will itself prove to be a prejudice, and removing it opens
+the way to an appropriate understanding of the finitude which dominates
+not only our humanity but also our historical consciousness.
+   Does being situated within traditions really mean being subject to
+prejudices and limited in one's freedom? Is not, rather, all human
+existence, even the freest, limited and qualified in various ways? If this is
+true, the idea of an absolute reason is not a possibility for historical
+humanity. Reason exists for us only in concrete, historical terms—i.e., it is
+not its own master but remains constantly dependent on the given
+circumstances in which it operates. This is true not only in the sense in
+
+=== p. 277 ===
+
+   which Kant, under the influence of the skeptical critique of Hume, limited
+   the claims of rationalism to the a priori element in the knowledge of
+   nature; it is still truer of historical consciousness and the possibility of
+   historical knowledge. For that man is concerned here with himself and his
+   own creations (Vico) is only an apparent solution of the problem posed by
+   historical knowledge. Man is alien to himself and his historical fate in a
+   way quite different from the way nature, which knows nothing of him, is
+   alien to him.
+      The epistemological question must be asked here in a fundamentally
+   different way. We have shown above that Dilthey probably saw this, but he
+   was not able to escape his entanglement in traditional epistemology. Since
+   he started from the awareness of "experiences" (Erlebnisse), he was unable
+   to build a bridge to the historical realities, because the great historical
+   realities of society and state always have a predeterminate influence on
+   any "experience." Self-reflection and autobiography—Dilthey's starting
+   points—are not primary and are therefore not an adequate basis for the
+   hermeneutical problem, because through them history is made private
+   once more. In fact history does not belong to us; we belong to it. Long
+   before we understand ourselves through the process of self-examination,
+   we understand ourselves in a self-evident way in the family, society, and
+   state in which we live. The focus of subjectivity is a distorting mirror. The
+   self-awareness of the individual is only a flickering in the closed circuits of
+   historical life. That is why the prejudices of the individual, far more than his
+  judgments, constitute the historical reality of his being.
+
+                    (B) PREJUDICES AS CONDITIONS OF UNDERSTANDING
+
+      (i) The Rehabilitation of Authority and Tradition
+      Here is the point of departure for the hermeneutical problem. This is why
+      we examined the Enlightenment's discreditation of the concept of "prejudice." What appears to be a limiting prejudice from the viewpoint of the
+      absolute self-construction of reason in fact belongs to historical reality
+      itself. If we want to do justice to man's finite, historical mode of being, it
+      is necessary to fundamentally rehabilitate the concept of prejudice and
+      acknowledge the fact that there are legitimate prejudices. Thus we can
+      formulate the fundamental epistemological question for a truly historical
+      hermeneutics as follows: what is the ground of the legitimacy of prejudices? What distinguishes legitimate prejudices from the countless others
+      which it is the undeniable task of critical reason to overcome?
+
+=== p. 278 ===
+
+   We can approach this question by taking the Enlightenment's critical
+theory of prejudices, as set out above, and giving it. a positive value. The
+division of prejudices into those of "authority" and those of "overhastiness"
+is obviously based on the fundamental presupposition of the Enlightenment, namely that methodologically disciplined use of reason can
+safeguard us from all error. This was Descartes' idea of method. Overhastiness is the source of errors that arise in the use of one's own reason.
+Authority, however, is responsible for one's not using one's own reason at
+all. Thus the division is based on a mutually exclusive antithesis between
+authority and reason. The false prepossession in favor of what is old, in
+favor of authorities, is what has to be fought. Thus the Enlightenment
+attributes to Luther's reforms the fact that "the prejudice of human
+prestige, especially that of the philosophical [he means Aristotle] and the
+Roman pope, was greatly weakened."19 The Reformation, then, gives rise
+to a flourishing hermeneutics which teaches the right use of reason in
+understanding traditionary texts. Neither the doctrinal authority of the
+pope nor the appeal to tradition can obviate the work of hermeneutics,
+which can safeguard the reasonable meaning of a text against all imposition.
+   This kind of hermeneutics need not lead to the radical critique of religion
+that we found, for example, in Spinoza. Rather, the possibility of supernatural truth can remain entirely open. Thus especially in the field of German
+popular philosophy, the Enlightenment limited the claims of reason and
+acknowledged the authority of Bible and church. We read in Walch, for
+example, that he distinguishes between the two classes of prejudice—authority and overhastiness—but considers them two extremes, between
+which it is necessary to find the right middle path, namely a mediation
+between reason and biblical authority. Accordingly, he regards prejudices
+deriving from overhastiness as prejudices in favor of the new, a predisposition to the overhasty rejection of truths simply because they are old and
+attested by authorities.20 Thus he disputes the British free thinkers (such as
+Collins and others) and defends the historical faith against the norm of
+reason. Here the meaning of prejudice deriving from overhastiness is given
+a conservative reinterpretation.
+   There can be no doubt, however, that the real consequence of the
+Enlightenment is different: namely the subjection of all authority to
+reason. Accordingly, prejudice from overhastiness is to be understood as
+Descartes understood it—i.e., as the source of all error in the use of reason.
+This fits in with the fact that after the victory of the Enlightenment, when
+
+=== p. 279 ===
+
+  hermeneutics was freed from all dogmatic ties, the old division returns in
+  a new guise. Thus Schleiermacher distinguishes between partiality and
+  overhastiness as the causes of misunderstanding.21 To the lasting prejudices due to partiality he contrasts the momentary ones due to overhastiness, but only the former are of interest to those concerned with scientific
+  method. It no longer even occurs to Schleiermacher that among the
+  prejudices in favor of authorities there might be some that are true—yet
+  this was implied in the concept of authority in the first place. His alteration
+  of the traditional division of prejudices documents the victory of the
+  Enlightenment. Partiality now means only an individual limitation of
+  understanding: "The one-sided preference for what is close to one's own
+  sphere of ideas."
+     In fact, however, the decisive question is concealed behind the concept
+  of partiality. That the prejudices determining what I think are due to my
+  own partiality is a judgment based on the standpoint of their having been
+  dissolved and enlightened, and it holds only for unjustified prejudices. If,
+  on the other hand, there are justified prejudices productive of knowledge,
+  then we are back to the problem of authority. Hence the radical consequences of the Enlightenment, which are still to be found in Schleiermach-er's faith in method, are not tenable.
+     The Enlightenment's distinction between faith in authority and using
+  one's own reason is, in itself, legitimate. If the prestige of authority
+  displaces one's own judgment, then authority is in fact a source of
+  prejudices. But this does not preclude its being a source of truth, and that
+  is what the Enlightenment failed to see when it denigrated all authority. To
+  be convinced of this, we need only consider one of the greatest forerunners
+  of the European Enlightenment, namely Descartes. Despite the radicalness
+  of his methodological thinking, we know that Descartes excluded morality
+  from the total reconstruction of all truths by reason. This was what he
+  meant by his provisional morality. It seems to me symptomatic that he did
+  not in fact elaborate his definitive morality and that its principles, as far as
+  we can judge from his letters to Elizabeth, contain hardly anything new. It
+  is obviously unthinkable to defer morality until modern science has
+  progressed enough to provide a new basis for it. In fact the denigration of
+  authority is not the only prejudice established by the Enlightenment. It
+  also distorted the very concept of authority. Based on the Enlightenment
+  conception of reason and freedom, the concept of authority could be
+  viewed as diametrically opposed to reason and freedom: to be, in fact, blind
+
+=== p. 280 ===
+
+obedience. This is the meaning that we find in the language critical of
+modern dictatorships.
+   But this is not the essence of authority. Admittedly, it is primarily
+persons that have authority; but the authority of persons is ultimately
+based not on the subjection and abdication of reason but on an act of
+acknowledgment and knowledge—the knowledge, namely, that the other
+is superior to oneself in judgment and insight and that for this reason his
+judgment takes precedence—i.e., it has priority over one's own. This is
+connected with the fact that authority cannot actually be bestowed but is
+earned, and must be earned if someone is to lay claim to it. It rests on
+acknowledgment and hence on an act of reason itself which, aware of its
+own limitations, trusts to the better insight of others. Authority in this
+sense, properly understood, has nothing to do with blind obedience to
+commands. Indeed, authority has to do not with obedience but rather with
+knowledge. It is true that authority implies the capacity to command and
+be obeyed. But this proceeds only from the authority that a person has.
+Even the anonymous and impersonal authority of a superior which derives
+from his office is not ultimately based on this hierarchy, but is what makes
+it possible. Here also its true basis is an act of freedom and reason that
+grants the authority of a superior fundamentally because he has a wider
+view of things or is better informed—i.e., once again, because he knows
+more.22 Thus, acknowledging authority is always connected with the idea
+that what the authority says is not irrational and arbitrary but can, in
+principle, be discovered to be true. This is the essence of the authority
+claimed by the teacher, the superior, the expert. The prejudices that they
+implant are legitimized by the person who presents them. But in this way
+they become prejudices not just in favor of a person but a content, since
+they effect the same disposition to believe something that can be brought
+about in other ways—e.g., by good reasons. Thus the essence of authority
+belongs in the context of a theory of prejudices free from the extremism of
+the Enlightenment.
+   Here we can find support in the romantic criticism of the Enlightenment;
+for there is one form of authority particularly defended by romanticism,
+namely tradition. That which has been sanctioned by tradition and custom
+has an authority that is nameless, and our finite historical being is marked
+by the fact that the authority of what has been handed down to us—and
+not just what is clearly grounded—always has power over our attitudes
+and behavior. All education depends on this, and even though, in the case
+of education, the educator loses his function when his charge comes of age
+
+=== p. 281 ===
+
+      and sets his own insight and decisions in the place of the authority of the
+      educator, becoming mature does not mean that a person becomes his own
+      master in the sense that he is freed from all tradition. The real force of
+      morals, for example, is based on tradition. They are freely taken over but
+      by no means created by a free insight or grounded on reasons. This is
+      precisely what we call tradition: the ground of their validity. And in fact it
+      is to romanticism that we owe this correction of the Enlightenment: that
+      tradition has a justification that lies beyond rational grounding and in large
+      measure determines our institutions and attitudes. What makes classical
+      ethics superior to modern moral philosophy is that it grounds the
+      transition from ethics to "politics," the art of right legislation, on the
+      indispensability of tradition.23 By comparison, the modern Enlightenment
+      is abstract and revolutionary.
+         The concept of tradition, however, has become no less ambiguous than
+      that of authority, and for the same reason—namely that what determines
+      the romantic understanding of tradition is its abstract opposition to the
+      principle of enlightenment. Romanticism conceives of tradition as an
+      antithesis to the freedom of reason and regards it as something historically
+      given, like nature. And whether one wants to be revolutionary and oppose
+      it or preserve it, tradition is still viewed as the abstract opposite of free self-determination, since its validity does not require any reasons but conditions us without our questioning it. Of course, the romantic critique of the
+      Enlightenment is not an instance of tradition's automatic dominance of
+      tradition, of its persisting unaffected by doubt and criticism. Rather, a
+      particular critical attitude again addresses itself to the truth of tradition and
+      seeks to renew it. We can call it "traditionalism."
+         It seems to me, however, that there is no such unconditional antithesis
+      between tradition and reason. However problematical the conscious
+      restoration of old or the creation of new traditions may be, the romantic
+      faith in the "growth of tradition," before which all reason must remain
+      silent, is fundamentally like the Enlightenment, and just as prejudiced. The
+      fact is that in tradition there is always an element of freedom and of history
+      itself. Even the most genuine and pure tradition does not persist because of
+      the inertia of what once existed. It needs to be affirmed, embraced,
+      cultivated. It is, essentially, preservation, and it is active in all historical
+      change. But preservation is an act of reason, though an inconspicuous one.
+      For this reason, only innovation and planning appear to be the result of
+      reason. But this is an illusion. Even where life changes violently, as in ages
+
+=== p. 282 ===
+
+of revolution, far more of the old is preserved in the supposed transformation of everything than anyone knows, and it combines with the new to
+create a new value. At any rate, preservation is as much a freely chosen
+action as are revolution and renewal. That is why both the Enlightenment's critique of tradition and the romantic rehabilitation of it lag
+behind their true historical being.
+   These thoughts raise the question of whether in the hermeneutics of the
+human sciences the element of tradition should not be given its full value.
+Research in the human sciences cannot regard itself as in an absolute
+antithesis to the way in which we, as historical beings, relate to the past. At
+any rate, our usual relationship to the past is not characterized by
+distancing and freeing ourselves from tradition. Rather, we are always
+situated within traditions, and this is no objectifying process—i.e., we do
+not conceive of what tradition says as something other, something alien. It
+is always part of us, a model or exemplar, a kind of cognizance that our
+later historical judgment would hardly regard as a kind of knowledge but
+as the most ingenuous affinity with tradition.
+   Hence in regard to the dominant epistemological methodologism we
+must ask: has the rise of historical consciousness really divorced our
+scholarship from this natural relation to the past? Does understanding in
+the human sciences understand itself correctly when it relegates the whole
+of its own historicality to the position of prejudices from which we must
+free ourselves? Or does "unprejudiced scholarship" share more than it
+realizes with that naive openness and reflection in which traditions live
+and the past is present?
+   In any case, understanding in the human sciences shares one fundamental condition with the life of tradition: it lets itself be addressed by
+tradition. Is it not true of the objects that the human sciences investigate,
+just as for the contents of tradition, that what they are really about can be
+experienced only when one is addressed by them? However mediated this
+significance may be, and though it may proceed from a historical interest
+that appears to bear no relation to the present—even in the extreme case
+of "objective" historical research—the real fulfillment of the historical task
+is to determine anew the significance of what is examined. But the
+significance exists at the beginning of any such research as well as at the
+end: in choosing the theme to be investigated, awakening the desire to
+investigate, gaining a new problematic.
+   At the beginning of all historical hermeneutics, then, the abstract antithesis
+between tradition and historical research, between history and the knowledge of it.
+
+=== p. 283 ===
+
+      must be discarded. The effect (Wirkung) of a living tradition and the effect of
+      historical study must constitute a unity of effect, the analysis of which
+      would reveal only a texture of reciprocal effects.24 Hence we would do well
+      not to regard historical consciousness as something radically new—as it
+      seems at first—but as a new element in what has always constituted the
+      human relation to the past. In other words, we have to recognize the
+      element of tradition in historical research and inquire into its hermeneutic
+      productivity.
+         That an element of tradition affects the human sciences despite the
+      methodological purity of their procedures, an element that constitutes
+      their real nature and distinguishing mark, is immediately clear if we
+      examine the history of research and note the difference between the
+      human and natural sciences with regard to their history. Of course none of
+      man's finite historical endeavors can completely erase the traces of this
+      finitude. The history of mathematics or of the natural sciences is also a part
+      of the history of the human spirit and reflects its destinies. Nevertheless, it
+      is not just historical naivete when the natural scientist writes the history of
+      his subject in terms of the present state of knowledge. For him errors and
+      wrong turnings are of historical interest only, because the progress of
+      research is the self-evident standard of examination. Thus it is only of
+      secondary interest to see how advances in the natural sciences or in
+      mathematics belong to the moment in history at which they took place.
+      This interest does not affect the epistemic value of discoveries in those
+      fields.
+         There is, then, no need to deny that elements of tradition can also affect
+      the natural sciences—e.g., particular lines of research are preferred at
+      particular places. But scientific research as such derives the law of its
+      development not from these circumstances but from the law of the object
+      it is investigating, which conceals its methodical efforts.25
+         It is clear that the human sciences cannot be adequately described in
+      terms of this conception of research and progress. Of course it is possible to
+      write a history of the solution of a problem—e.g., the deciphering of barely
+      legible inscriptions—in which the only interest is in ultimately reaching
+      the final result. Were this not so, it would have been impossible for the
+      human sciences to have borrowed the methodology of the natural ones, as
+      happened in the last century. But what the human sciences share with the
+      natural is only a subordinate element of the work done in the human
+      sciences.
+
+=== p. 284 ===
+
+   This is shown by the fact that the great achievements in the human
+sciences almost never become outdated. A modern reader can easily make
+allowances for the fact that, a hundred years ago, less knowledge was
+available to a historian, and he therefore made judgments that were
+incorrect in some details. On the whole, he would still rather read Droysen
+or Mommsen than the latest account of the subject from the pen of a
+historian living today. What is the criterion here? Obviously the value and
+importance of research cannot be measured by a criterion based in the
+subject matter. Rather, the subject matter appears truly significant only
+when it is properly portrayed for us. Thus we are certainly interested in the
+subject matter, but it acquires its life only from the light in which it is
+presented to us. We accept the fact that the subject presents different
+aspects of itself at different times or from different standpoints. We accept
+the fact that these aspects do not simply cancel one another out as research
+proceeds, but are like mutually exclusive conditions that exist by themselves and combine only in us. Our historical consciousness is always filled
+with a variety of voices in which the echo of the past is heard. Only in the
+multifariousness of such voices does it exist: this constitutes the nature of
+the tradition in which we want to share and have a part. Modern historical
+research itself is not only research, but the handing down of tradition. We
+do not see it only in terms of progress and verified results; in it we have,
+as it were, a new experience of history whenever the past resounds in a
+new voice.
+   Why is this so? Obviously, in the human sciences we cannot speak of an
+object of research in the same sense as in the natural sciences, where
+research penetrates more and more deeply into nature. Rather, in the
+human sciences the particular research questions concerning tradition that
+we are interested in pursuing are motivated in a special way by the present
+and its interests. The theme and object of research are actually constituted
+by the motivation of the inquiry.26 Hence historical research is carried
+along by the historical movement of life itself and cannot be understood
+teleologically in terms of the object into which it is inquiring. Such an
+"object in itself" clearly does not exist at all. This is precisely what
+distinguishes the human sciences from the natural sciences. Whereas the
+object of the natural sciences can be described idealiter as what would be
+known in the perfect knowledge of nature, it is senseless to speak of a
+perfect knowledge of history, and for this reason it is not possible to speak
+of an "object in itself" toward which its research is directed.27
+
+=== p. 285 ===
+
+      (ii) The Example of the Classical23
+
+      Of course it is a lot to ask that the self-understanding of the human
+      sciences detach itself, in the whole of its activity, from the model of the
+      natural sciences and regard the historical movement of the things they are
+      concerned with not simply as an impairment of their objectivity, but as
+      something of positive value. In the recent development of the human
+      sciences, however, there are starting points for a reflection that would
+      really do justice to the problem. The naive schema of history-as-research
+      no longer dominates the way the human sciences conceive of themselves.
+      The advancement of inquiry is no longer universally conceived of as an
+      expansion or penetration into new fields or material, but instead as raising
+      the inquiry to a higher stage of reflection. But even where this happens,
+      one is still thinking Ideologically, from the viewpoint of progressive
+      research, in a way appropriate to a research scientist. But a hermeneutical
+      consciousness is gradually growing that is infusing research with a spirit of
+      self-reflection; this is true, above all, in those human sciences that have the
+      oldest tradition. Thus the study of classical antiquity, after it had worked
+      over the whole extent of the available transmitted texts, continually
+      applied itself again, with more subtle questions, to its favorite objects of
+      study. This introduced something of an element of self-criticism by inviting
+      reflection on what constituted the real merit of its favorite objects. The
+      concept of the classical, which since Droysen's discovery of Hellenism had
+      been reduced by historical thinking to a mere stylistic concept, now
+      acquired a new scholarly legitimacy.
+        It requires hermeneutical reflection of some sophistication to discover
+      how it is possible for a normative concept such as the classical to acquire
+      or regain its scholarly legitimacy. For it follows from the self-understanding
+      of historical consciousness that all of the past's normative significance has
+      been finally dissolved by sovereign historical reason. Only at the beginnings of historicism, as for example in Winckelmann's epoch-making
+      work, had the normative element been a real motive of historical
+      research.
+         The concept of classical antiquity and of the classical—which dominated
+      pedagogical thought in particular since the days of German classicism
+      —combined both a normative and a historical side. A particular stage in
+      the historical development of humanity was thought to have produced a
+      mature and perfect form of the human. This mediation between the
+      normative and historical senses of the concept goes back to Herder. But
+
+=== p. 286 ===
+
+Hegel still preserved this mediation, even though he gave it a different
+emphasis, namely in terms of the history of philosophy. For him classical
+art retained its special distinction by being regarded as the "religion of art."
+Since this form of spirit is past, it is exemplary only in a qualified sense. The
+fact that it is a past art testifies to the "past" character of art in general. In
+this way Hegel systematically justified the historicization of the concept of
+the classical, and he began the process of development that finally changed
+the classical into a descriptive stylistic concept—one that describes the
+short lived harmony of measure and fullness that comes between archaic
+rigidity and baroque dissolution. Since it became part of the aesthetic
+vocabulary of historical studies, the concept of the classical retains the
+sense of a normative content only in an unacknowledged way.29
+   Symptomatic of renewed historical self-criticism was that after the First
+World War classical philology started to examine itself under the banner of
+a new humanism, and hesitantly again acknowledged the combination of
+normative and historical elements in "the classical."30 In so doing, it proved
+impossible (however one tried) to interpret the concept of the classical
+—which arose in antiquity and canonized certain writers—as if it
+expressed the unity of a stylistic ideal.31 On the contrary, as a stylistic term
+the ancient concept was wholly ambiguous. Today when we use classical as
+a historical stylistic concept whose clear meaning is defined by its being set
+against what came before and after, this concept has become quite
+detached from the ancient one. The concept of the classical now signifies
+a period of time, a phase of historical development but not a suprahistor-ical value.
+   In fact, however, the normative element in the concept of the classical
+has never completely disappeared. Even today it is still the basis of the idea
+of liberal education. The philologist is rightly dissatisfied with simply
+applying to his texts the historical stylistic concept that developed through
+the history of the plastic arts. The question whether Homer too is
+"classical" shatters the notion that the classical is merely a historical
+category of style analogous to categories of style used in the history of
+art—an instance of the fact that historical consciousness always includes
+more than it admits of itself.
+   If we try to see what this implies, we might say that the classical is a truly
+historical category, precisely because it is more than a concept of a period
+or of a historical style, and yet it nevertheless does not try to be the concept
+of a suprahistorical value. It does not refer to a quality that we ascribe to
+particular historical phenomena but to a notable mode of being historical:
+
+=== p. 287 ===
+
+  the historical process of preservation (Bewahrung) that, through constantly proving itself (Bewahrung), allows something true (ein Wahres) to
+  come into being. It is not at all the case, as the historical mode of thought
+  would have us believe, that the value judgment which accords something
+  the status of a classic was in fact destroyed by historical reflection and its
+  criticism of all ideological construals of the process of history. Rather,
+  through this criticism the value judgment implicit in the concept of the
+  classical acquires a new, special legitimacy. The classical is something that
+  resists historical criticism because its historical dominion, the binding
+  power of the validity that is preserved and handed down, precedes all
+  historical reflection and continues in it.
+     To take the key example of the blanket concept of "classical antiquity,"
+  it is, of course, unhistorical to devalue Hellenism as an age of the decline
+  and fall of classicism, and Droysen has rightly emphasized its place in the
+  continuity of world history and stressed the importance of Hellenism for
+  the birth and spread of Christianity. But he would not have needed to
+  undertake this historical theodicy if there had not always been a prejudice
+  in favor of the classical and if the culture of "humanism" had not held on
+  to "classical antiquity" and preserved it within Western culture as the
+  heritage of the past. The classical is fundamentally something quite
+  different from a descriptive concept used by an objectivizing historical
+  consciousness. It is a historical reality to which historical consciousness
+  belongs and is subordinate. The "classical" is something raised above the
+  vicissitudes of changing times and changing tastes. It is immediately
+  accessible, not through that shock of recognition, as it were, that sometimes characterizes a work of art for its contemporaries and in which the
+  beholder experiences a fulfilled apprehension of meaning that surpasses all
+  conscious expectations. Rather, when we call something classical, there is
+  a consciousness of something enduring, of significance that cannot be lost
+  and that is independent of all the circumstances of time—a kind of timeless
+  present that is contemporaneous with every other present.
+      So the most important thing about the concept of the classical (and this
+  is wholly true of both the ancient and the modern use of the word) is the
+  normative sense. But insofar as this norm is related retrospectively to a
+  past greatness that fulfilled and embodied it, it always contains a temporal
+  quality that articulates it historically. So it is not surprising that, with the
+  rise of historical reflection in Germany which took Winckelmann's classicism as its standard, a historical concept of a time or period detached itself
+  from what was regarded as classical in Winckelmann's sense. It denoted a
+
+=== p. 288 ===
+
+quite specific stylistic ideal and, in a historically descriptive way, also a time
+or period that fulfilled this ideal. From the distance of the epigones who set
+up the criterion, this stylistic ideal seemed to designate a historic moment
+that belonged to the past. Accordingly, the concept of the classical came to
+be used in modern thought to describe the whole of "classical antiquity"
+when humanism again proclaimed the exemplarity of this antiquity. It was
+reviving an ancient usage, and with some justification, for those ancient
+authors who were "discovered" by humanism were the same ones who in
+late antiquity comprised the canon of classics.
+   They were preserved in the history of Western culture precisely because
+they became canonical as the writers of the "school." But it is easy to see
+how the historical stylistic concept was able to adopt this usage. For
+although there is a normative consciousness behind this concept, there is
+still a retrospective element. What gives birth to the classical norm is an
+awareness of decline and distance. It is not by accident that the concept of
+the classical and of classical style emerges in late periods. Callimachus and
+Tacitus' Dialogue on Oratory played a decisive role in this connection.32 But
+there is something else. The authors regarded as classical are, as we know,
+always the representatives of particular literary genres. They were considered the culmination of the norm of that literary genre, an ideal that
+literary criticism makes plain in retrospect. If we now examine these
+generic norms historically—i.e., if we consider their history—then the
+classical is seen as a stylistic phase, a climax that articulates the history of
+the genre in terms of before and after. Insofar as the climactic points in the
+history of genres belong largely within the same brief period of time,
+within the totality of the historical development of classical antiquity, the
+classical refers to such a period and thus also becomes a concept denoting
+a period and fuses with a concept of style.
+   As such a historical stylistic concept, the concept of the classical is
+capable of being extended to any "development" to which an immanent
+telos gives unity. And in fact all cultures have high periods, when a
+particular civilization is marked by special achievements in all fields. Thus,
+via its particular historical fulfillment, the classical as a general concept of
+value again becomes a general historical stylistic concept.
+   Although this is an understandable development, the historicization of
+the concept also involves its uprooting, and that is why when historical
+consciousness started to engage in self-criticism, it reinstated the normative element in the concept of the classical as well as the historical
+uniqueness of its fulfillment. Every "new humanism" shares with the first
+
+=== p. 289 ===
+
+  and oldest the consciousness of belonging in an immediate way and being
+  bound to its model—which, as something past, is unattainable and yet
+  present. Thus the classical epitomizes a general characteristic of historical
+  being: preservation amid the ruins of time. The general nature of tradition
+  is such that only the part of the past that is not past offers the possibility of
+  historical knowledge. The classical, however, as Hegel says, is "that which
+  is self-significant (selbst bedeutende) and hence also self-interpretive
+  (selber Deutende)."33 But that ultimately means that the classical preserves
+  itself precisely because it is significant in itself and interprets itself; i.e., it
+  speaks in such a way that it is not a statement about what is past—documentary evidence that still needs to be interpreted—rather, it says something to the present as if it were said specifically to it. What we call
+  "classical" does not first require the overcoming of historical distance, for in
+  its own constant mediation it overcomes this distance by itself. The
+  classical, then, is certainly "timeless," but this timelessness is a mode of
+  historical being.
+     Of course this is not to deny that works regarded as classical present
+  tasks of historical understanding to a developed historical consciousness,
+  one that is aware of historical distance. The aim of historical consciousness
+  is not to use the classical model in the direct way, like Palladio or Corneille,
+  but to know it as a historical phenomenon that can be understood solely
+  in terms of its own time. But understanding it will always involve more
+  than merely historically reconstructing the past "world" to which the work
+  belongs. Our understanding will always retain the consciousness that we
+  too belong to that world, and correlatively, that the work too belongs to
+  our world.
+     This is just what the word "classical" means: that the duration of a work's
+  power to speak directly is fundamentally unlimited.34 However much the
+  concept of the classical expresses distance and unattainability and is part of
+  cultural consciousness, the phrase "classical culture" still implies something of the continuing validity of the classical. Cultural consciousness
+  manifests an ultimate community and sharing with the world from which
+  a classical work speaks.
+     This discussion of the concept of the classical claims no independent
+  significance, but serves only to evoke a general question, namely: Does the
+  kind of historical mediation between the past and the present that
+  characterizes the classical ultimately underlie all historical activity as its
+  effective substratum? Whereas romantic hermeneutics had taken homogeneous human nature as the unhistorical substratum of its theory of
+
+=== p. 290 ===
+
+understanding and hence had freed the con-genial interpreter from all
+historical conditions, the self-criticism of historical consciousness leads
+finally to recognizing historical movement not only in events but also in
+understanding itself. Understanding is to be thought of less as a subjective act
+than as participating in an event of tradition, a process of transmission in
+which past and present are constantly mediated. This is what must be
+validated by hermeneutic theory, which is far too dominated by the idea of
+a procedure, a method.
+
+(Hi) The Hermeneutic Significance of Temporal Distance^
+
+Let us next consider how hermeneutics goes about its work. What
+consequences for understanding follow from the fact that belonging to a
+tradition is a condition of hermeneutics? We recall the hermeneutical rule
+that we must understand the whole in terms of the detail and the detail in
+terms of the whole. This principle stems from ancient rhetoric, and modern
+hermeneutics has transferred it to the art of understanding. It is a circular
+relationship in both cases. The anticipation of meaning in which the whole
+is envisaged becomes actual understanding when the parts that are
+determined by the whole themselves also determine this whole.
+   We know this from learning ancient languages. We learn that we must
+"construe" a sentence before we attempt to understand the linguistic
+meaning of the individual parts of the sentence. But the process of
+construal is itself already governed by an expectation of meaning that
+follows from the context of what has gone before. It is of course necessary
+for this expectation to be adjusted if the text calls for it. This means, then,
+that the expectation changes and that the text unifies its meaning around
+another expectation. Thus the movement of understanding is constantly
+from the whole to the part and back to the whole. Our task is to expand the
+unity of the understood meaning centrifugally. The harmony of all the
+details with the whole is the criterion of correct understanding. The failure
+to achieve this harmony means that understanding has failed.
+   Schleiermacher elaborated this hermeneutic circle of part and whole in
+both its objective and its subjective aspects. As the single word belongs in
+the total context of the sentence, so the single text belongs in the total
+context of a writer's work, and the latter in the whole of the literary genre
+or of literature. At the same time, however, the same text, as a manifestation of a creative moment, belongs to the whole of its author's inner life.
+Full understanding can take place only within this objective and subjective
+
+=== p. 291 ===
+
+      whole. Following this theory, Dilthey speaks of "structure" and of the
+      "centering in a mid-point," which permits one to understand the whole. In
+      this (as we have already said above36) he is applying to the historical world
+      what has always been a principle of all textual interpretation: namely that
+      a text must be understood in its own terms.
+         The question is, however, whether this is an adequate account of the
+      circular movement of understanding. Here we must return to what we
+      concluded from our analysis of Schleiermacher's hermeneutics. We can set
+      aside Schleiermacher's ideas on subjective interpretation. When we try to
+      understand a text, we do not try to transpose ourselves into the author's
+      mind but, if one wants to use this terminology, we try to transpose
+      ourselves into the perspective within which he has formed his views. But
+      this simply means that we try to understand how what he is saying could
+      be right. If we want to understand, we will try to make his arguments even
+      stronger. This happens even in conversation, and it is a fortiori true of
+      understanding what is written down that we are moving in a dimension of
+      meaning that is intelligible in itself and as such offers no reason for going
+      back to the subjectivity of the author. The task of hermeneutics is to clarify
+      this miracle of understanding, which is not a mysterious communion of
+      souls, but sharing in a common meaning.
+         But even Schleiermacher's description of the objective side of this circle
+      does not get to the heart of the matter. We have seen that the goal of all
+      attempts to reach an understanding is agreement concerning the subject
+      matter. Hence the task of hermeneutics has always been to establish
+      agreement where there was none or where it had been disturbed in some
+      way. The history of hermeneutics confirms this if, for example, we think of
+      Augustine, who sought to mediate the Gospel with the Old Testament37; or
+      early Protestantism, which faced the same problem;38 or, finally, the
+      Enlightenment, when (almost as if renouncing the possibility of agreement) it was supposed that a text could be "fully understood" only by
+      means of historical interpretation. It is something qualitatively new when
+      romanticism and Schleiermacher universalize historical consciousness by
+      denying that the binding form of the tradition from which they come and
+      in which they are situated provides a solid basis for all hermeneutic
+      endeavor.
+         One of the immediate predecessors of Schleiermacher, the philologist
+      Friedrich Ast, still had a view of hermeneutical work that was markedly
+      concerned with content, since for him its purpose was to establish
+      harmony between the worlds of classical antiquity and Christianity,
+
+=== p. 292 ===
+
+between a newly discovered genuine antiquity and the Christian tradition.
+This is something new. In contrast to the Enlightenment, this hermeneutics no longer evaluates and rejects tradition according to the criterion
+of natural reason. But in its attempt to bring about a meaningful
+agreement between the two traditions to which it sees itself as belonging,
+this kind of hermeneutics is still pursuing the task of all preceding
+hermeneutics, namely to bring about agreement in content.
+    In going beyond the "particularity" of this reconciliation of the ancient
+ classical world and Christianity, Schleiermacher and, following him, nineteenth-century science conceive the task of hermeneutics in a way that is
+formally universal. They were able to harmonize it with the natural
+ sciences' ideal of objectivity, but only by ignoring the concretion of
+historical consciousness in hermeneutical theory.
+    Heidegger's description and existential grounding of the hermeneutic
+ circle, by contrast, constitute a decisive turning point. Nineteenth-century
+ hermeneutic theory often discussed the circular structure of understanding, but always within the framework of a formal relation between
+ part and whole—or its subjective reflex, the intuitive anticipation of the
+ whole and its subsequent articulation in the parts. According to this
+theory, the circular movement of understanding runs backward and
+ forward along the text, and ceases when the text is perfectly understood.
+This view of understanding came to its logical culmination in Schleier-macher's theory of the divinatory act, by means of which one places
+ oneself entirely within the writer's mind and from there resolves all that is
+ strange and alien about the text. In contrast to this approach, Heidegger
+ describes the circle in such a way that the understanding of the text
+remains permanently determined by the anticipatory movement of fore-understanding. The circle of whole and part is not dissolved in perfect
+ understanding but, on the contrary, is most fully realized.
+    The circle, then, is not formal in nature. It is neither subjective nor
+ objective, but describes understanding as the interplay of the movement of
+ tradition and the movement of the interpreter. The anticipation of meaning that governs our understanding of a text is not an act of subjectivity,
+but proceeds from the commonality that binds us to the tradition. But this
+ commonality is constantly being formed in our relation to tradition.
+Tradition is not simply a permanent precondition; rather, we produce it
+ ourselves inasmuch as we understand, participate in the evolution of
+tradition, and hence further determine it ourselves. Thus the circle of
+
+=== p. 293 ===
+
+      understanding is not a "methodological" circle, but describes an element of
+      the ontological structure of understanding.
+         The circle, which is fundamental to all understanding, has a further
+      hermeneutic implication which I call the "fore-conception of completeness." But this, too, is obviously a formal condition of all understanding. It
+      states that only what really constitutes a unity of meaning is intelligible. So
+      when we read a text we always assume its completeness, and only when
+      this assumption proves mistaken—i.e., the text is not intelligible—do we
+      begin to suspect the text and try to discover how it can be remedied. The
+      rules of such textual criticism can be left aside, for the important thing to
+      note is that applying them properly depends on understanding the content.
+         The fore-conception of completeness that guides all our understanding
+      is, then, always determined by the specific content. Not only does the
+      reader assume an immanent unity of meaning, but his understanding is
+      likewise guided by the constant transcendent expectations of meaning that
+      proceed from the relation to the truth of what is being said. Just as the
+      recipient of a letter understands the news that it contains and first sees
+      things with the eyes of the person who wrote the letter—i.e., considers
+      what he writes as true, and is not trying to understand the writer's peculiar
+      opinions as such—so also do we understand traditionary texts on the basis
+      of expectations of meaning drawn from our own prior relation to the
+      subject matter. And just as we believe the news reported by a correspondent because he was present or is better informed, so too are we
+      fundamentally open to the possibility that the writer of a transmitted text
+      is better informed than we are, with our prior opinion. It is only when the
+      attempt to accept what is said as true fails that we try to "understand" the
+      text, psychologically or historically, as another's opinion.39 The prejudice of
+      completeness, then, implies not only this formal element—that a text
+      should completely express its meaning—but also that what it says should
+      be the complete truth.
+         Here again we see that understanding means, primarily, to understand
+      the content of what is said, and only secondarily to isolate and understand
+      another's meaning as such. Hence the most basic of all hermeneutic
+      preconditions remains one's own fore-understanding, which comes from
+      being concerned with the same subject. This is what determines what can
+      be realized as unified meaning and thus determines how the fore-conception of completeness is applied.40
+
+=== p. 294 ===
+
+   Thus the meaning of "belonging"—i.e., the element of tradition in our
+historical-hermeneutical activity—is fulfilled in the commonality of fundamental, enabling prejudices. Hermeneutics must start from the position
+that a person seeking to understand something has a bond to the subject
+matter that comes into language through the traditionary text and has, or
+acquires, a connection with the tradition from which the text speaks. On
+the other hand, hermeneutical consciousness is aware that its bond to this
+subject matter does not consist in some self-evident, unquestioned unanimity, as is the case with the unbroken stream of tradition. Hermeneutic
+work is based on a polarity of familiarity and strangeness; but this polarity
+is not to be regarded psychologically, with Schleiermacher, as the range
+that covers the mystery of individuality, but truly hermeneutically—i.e., in
+regard to what has been said: the language in which the text addresses us,
+the story that it tells us. Here too there is a tension. It is in the play between
+the traditionary text's strangeness and familiarity to us, between being a
+historically intended, distanced object and belonging to a tradition. The true
+locus of hermeneutics is this in-between.
+   Given the intermediate position in which hermeneutics operates, it
+follows that its work is not to develop a procedure of understanding, but to
+clarify the conditions in which understanding takes place. But these
+conditions do not amount to a "procedure" or method which the interpreter must of himself bring to bear on the text; rather, they must be given.
+The prejudices and fore-meanings that occupy the interpreter's consciousness are not at his free disposal. He cannot separate in advance the
+productive prejudices that enable understanding from the prejudices that
+hinder it and lead to misunderstandings.
+   Rather, this separation must take place in the process of understanding
+itself, and hence hermeneutics must ask how that happens. But that means
+it must foreground what has remained entirely peripheral in previous
+hermeneutics: temporal distance and its significance for understanding.
+   This point can be clarified by comparing it with the hermeneutic theory
+of romanticism. We recall that the latter conceived of understanding as the
+reproduction of an original production. Hence it was possible to say that
+one should be able to understand an author better than he understood
+himself. We examined the origin of this statement and its connection with
+the aesthetics of genius, but must now come back to it, since our present
+inquiry lends it a new importance.
+   That subsequent understanding is superior to the original production
+and hence can be described as superior understanding does not depend so
+
+=== p. 295 ===
+
+      much on the conscious realization that places the interpreter on the same
+      level as the author (as Schleiermacher said) but instead denotes an
+      insuperable difference between the interpreter and the author that is
+      created by historical distance. Every age has to understand a transmitted
+      text in its own way, for the text belongs to the whole tradition whose
+      content interests the age and in which it seeks to understand itself. The real
+      meaning of a text, as it speaks to the interpreter, does not depend on the
+      contingencies of the author and his original audience. It certainly is not
+      identical with them, for it is always co-determined also by the historical
+      situation of the interpreter and hence by the totality of the objective course
+      of history. A writer like Chladenius,41 who does not yet view understanding in terms of history, is saying the same thing in a naive, ingenuous
+      way when he says that an author does not need to know the real meaning
+      of what he has written; and hence the interpreter can, and must, often
+      understand more than he. But this is of fundamental importance. Not just
+      occasionally but always, the meaning of a text goes beyond its author. That
+      is why understanding is not merely a reproductive but always a productive
+      activity as well. Perhaps it is not correct to refer to this productive element
+      in understanding as "better understanding." For this phrase is, as we have
+      shown, a principle of criticism taken from the Enlightenment and revised
+      on the basis of the aesthetics of genius. Understanding is not, in fact,
+      understanding better, either in the sense of superior knowledge of the
+      subject because of clearer ideas or in the sense of fundamental superiority
+      of conscious over unconscious production. It is enough to say that we
+      understand in a different way, if we understand at all.
+         Such a conception of understanding breaks right through the circle
+      drawn by romantic hermeneutics. Since we are now concerned not with
+      individuality and what it thinks but with the truth of what is said, a text is
+      not understood as a mere expression of life but is taken seriously in its
+      claim to truth. That this is what is meant by "understanding" was once self-evident (we need only recall Chladenius).42 But this dimension of the
+      hermeneutical problem was discredited by historical consciousness and the
+      psychological turn that Schleiermacher gave to hermeneutics, and could
+      only be regained when the aporias of historicism came to light and led
+      finally to the fundamentally new development to which Heidegger, in my
+      view, gave the decisive impetus. For the hermeneutic productivity of
+      temporal distance could be understood only when Heidegger gave understanding an ontological orientation by interpreting it as an "existential"
+      and when he interpreted Dasein's mode of being in terms of time.
+
+=== p. 296 ===
+
+   Time is no longer primarily a gulf to be bridged because it separates; it is
+actually the supportive ground of the course of events in which the present
+is rooted. Hence temporal distance is not something that must be overcome. This was, rather, the naive assumption of historicism, namely that
+we must transpose ourselves into the spirit of the age, think with its ideas
+and its thoughts, not with our own, and thus advance toward historical
+objectivity. In fact the important thing is to recognize temporal distance as
+a positive and productive condition enabling understanding. It is not a
+yawning abyss but is filled with the continuity of custom and tradition, in
+the light of which everything handed down presents itself to us. Here it is
+not too much to speak of the genuine productivity of the course of events.
+Everyone is familiar with the curious impotence of our judgment where
+temporal distance has not given us sure criteria. Thus the judgment of
+contemporary works of art is desperately uncertain for the scholarly
+consciousness. Obviously we approach such creations with unverifiable
+prejudices, presuppositions that have too great an influence over us for us
+to know about them; these can give contemporary creations an extra
+resonance that does not correspond to their true content and significance.
+Only when all their relations to the present time have faded away can their
+real nature appear, so that the understanding of what is said in them can
+claim to be authoritative and universal.
+   In historical studies this experience has led to the idea that objective
+knowledge can be achieved only if there has been a certain historical
+distance. It is true that what a thing has to say, its intrinsic content, first
+appears only after it is divorced from the fleeting circumstances that gave
+rise to it. The positive conditions of historical understanding include the
+relative closure of a historical event, which allows us to view it as a whole,
+and its distance from contemporary opinions concerning its import. The
+implicit presupposition of historical method, then, is that the permanent
+significance of something can first be known objectively only when it
+belongs to a closed context—in other words, when it is dead enough to
+have only historical interest. Only then does it seem possible to exclude the
+subjective involvement of the observer. This is, in fact, a paradox, the
+epistemological counterpart to the old moral problem of whether anyone
+can be called happy before his death. Just as Aristotle showed how this
+kind of problem can serve to sharpen the powers of human judgment, 43 so
+hermeneutical reflection cannot fail to find here a sharpening of the
+methodological self-consciousness of science. It is true that certain hermeneutic requirements are automatically fulfilled when a historical context
+
+=== p. 297 ===
+
+      has come to be of only historical interest. Certain sources of error are
+      automatically excluded. But it is questionable whether this is the end of
+      the hermeneutical problem. Temporal distance obviously means something other than the extinction of our interest in the object. It lets the true
+      meaning of the object emerge fully. But the discovery of the true meaning
+      of a text or a work of art is never finished; it is in fact an infinite process.
+      Not only are fresh sources of error constantly excluded, so that all kinds of
+      things are filtered out that obscure the true meaning; but new sources of
+      understanding are continually emerging that reveal unsuspected elements
+      of meaning. The temporal distance that performs the filtering process is not
+      fixed, but is itself undergoing constant movement and extension. And
+      along with the negative side of the filtering process brought about by
+      temporal distance there is also the positive side, namely the value it has for
+      understanding. It not only lets local and limited prejudices die away, but
+      allows those that bring about genuine understanding to emerge clearly as
+      such.
+         Often temporal distance44 can solve question of critique in hermeneutics, namely how to distinguish the true prejudices, by which we
+      understand, from the false ones, by which we misunderstand. Hence the
+      hermeneutically trained mind will also include historical consciousness. It
+      will make conscious the prejudices governing our own understanding, so
+      that the text, as another's meaning, can be isolated and valued on its own.
+      Foregrounding (abheben) a prejudice clearly requires suspending its
+      validity for us. For as long as our mind is influenced by a prejudice, we do
+      not consider it a judgment. How then can we foreground it? It is impossible
+      to make ourselves aware of a prejudice while it is constantly operating
+      unnoticed, but only when it is, so to speak, provoked. The encounter with
+      a traditionary text can provide this provocation. For what leads to
+      understanding must be something that has already asserted itself in its own
+      separate validity. Understanding begins, as we have already said above,45
+      when something addresses us. This is the first condition of hermeneutics.
+      We now know what this requires, namely the fundamental suspension of
+      our own prejudices. But all suspension of judgments and hence, a fortiori,
+      of prejudices, has the logical structure of a question.
+         The essence of the question is to open up possibilities and keep them
+      open. If a prejudice becomes questionable in view of what another person
+      or a text says to us, this does not mean that it is simply set aside and the
+      text or the other person accepted as valid in its place. Rather, historical
+      objectivism shows its naivete in accepting this disregarding of ourselves as
+
+=== p. 298 ===
+
+what actually happens. In fact our own prejudice is properly brought into
+play by being put at risk. Only by being given full play is it able to
+experience the other's claim to truth and make it possible for him to have
+full play himself.
+   The naivete of so-called historicism consists in the fact that it does not
+undertake this reflection, and in trusting to the fact that its procedure is
+methodical, it forgets its own historicity. We must here appeal from a badly
+understood historical thinking to one that can better perform the task of
+understanding. Real historical thinking must take account of its own
+historicity. Only then will it cease to chase the phantom of a historical
+object that is the object of progressive research, and learn to view the
+object as the counterpart of itself and hence understand both. The true
+historical object is not an object at all, but the unity of the one and the
+other, a relationship that constitutes both the reality of history and the
+reality of historical understanding.46 A hermeneutics adequate to the
+subject matter would have to demonstrate the reality and efficacy of
+history within understanding itself. I shall refer to this as "history of effect."
+Understanding is, essentially, a historically effected event.
+
+(iv) The Principle of History of Effect   (Wirkungsgeschichte)
+Historical interest is directed not only toward the historical phenomenon
+and the traditionary work but also, secondarily, toward their effect in
+history (which also includes the history of research); the history of effect is
+generally regarded as a mere supplement to historical inquiry, from
+Hermann Grimm's Raffael to Gundolf and beyond—though it has occasioned many valuable insights. To this extent, history of effect is not new.
+But to require an inquiry into history of effect every time a work of art or
+an aspect of the tradition is led out of the twilight region between tradition
+and history so that it can be seen clearly and openly in terms of its own
+meaning—this is a new demand (addressed not to research, but to its
+methodological consciousness) that proceeds inevitably from thinking
+historical consciousness through.
+   It is not, of course, a hermeneutical requirement in the sense of the
+traditional conception of hermeneutics. I am not saying that historical
+inquiry should develop inquiry into the history of effect as a kind of
+inquiry separate from understanding the work itself. The requirement is of
+a more theoretical kind. Historical consciousness must become conscious
+that in the apparent immediacy with which it approaches a work of art or
+
+=== p. 299 ===
+
+  a traditionary text, there is also another kind of inquiry in play, albeit
+  unrecognized and unregulated. If we are trying to understand a historical
+  phenomenon from the historical distance that is characteristic of our
+  hermeneutical situation, we are always already affected by history. It
+  determines in advance both what seems to us worth inquiring about and
+  what will appear as an object of investigation, and we more or less forget
+  half of what is really there—in fact, we miss the whole truth of the
+  phenomenon—when we take its immediate appearance as the whole
+  truth.
+    In our understanding, which we imagine is so innocent because its
+  results seem so self-evident, the other presents itself so much in terms of
+  our own selves that there is no longer a question of self and other. In
+  relying on its critical method, historical objectivism conceals the fact that
+  historical consciousness is itself situated in the web of historical effects. By
+  means of methodical critique it does away with the arbitrariness of
+  "relevant" appropriations of the past, but it preserves its good conscience
+  by failing to recognize the presuppositions—certainly not arbitrary, but still
+  fundamental—that govern its own understanding, and hence falls short of
+  reaching that truth which, despite the finite nature of our understanding,
+  could be reached. In this respect, historical objectivism resembles statistics,
+  which are such excellent means of propaganda because they let the "facts"
+  speak and hence simulate an objectivity that in reality depends on the
+  legitimacy of the questions asked.
+    We are not saying, then, that history of effect must be developed as a
+  new independent discipline ancillary to the human sciences, but that we
+  should learn to understand ourselves better and recognize that in all
+  understanding, whether we are expressly aware of it or not, the efficacy of
+  history is at work. When a naive faith in scientific method denies the
+  existence of effective history, there can be an actual deformation of
+  knowledge. We are familiar with this from the history of science, where it
+  appears as the irrefutable proof of something that is obviously false. But on
+  the whole the power of effective history does not depend on its being
+  recognized. This, precisely, is the power of history over finite human
+  consciousness, namely that it prevails even where faith in method leads
+  one to deny one's own historicity. Our need to become conscious of
+  effective history is urgent because it is necessary for scientific consciousness. But this does not mean it can ever be absolutely fulfilled. That we
+  should become completely aware of effective history is just as hybrid a
+  statement as when Hegel speaks of absolute knowledge, in which history
+
+=== p. 300 ===
+
+would become completely transparent to itself and hence be raised to the
+level of a concept. Rather, historically effected consciousness (wirkungsgeschichtliches Bewufttsein) is an element in the act of understanding
+itself and, as we shall see, is already effectual in finding the right questions to
+ask.
+   Consciousness of being affected by history (wirkungsgeschichtliches
+Bewufttsein) is primarily consciousness of the hermeneutical situation. To
+acquire an awareness of a situation is, however, always a task of peculiar
+difficulty. The very idea of a situation means that we are not standing
+outside it and hence are unable to have any objective knowledge of it.47
+We always find ourselves within a situation, and throwing light on it is a
+task that is never entirely finished. This is also true of the hermeneutic
+situation—i.e., the situation in which we find ourselves with regard to the
+tradition that we are trying to understand. The illumination of this
+situation—reflection on effective history—can never be completely
+achieved; yet the fact that it cannot be completed is due not to a deficiency
+in reflection but to the essence of the historical being that we are. To be
+historically means that knowledge of oneself can never be complete. All self-knowledge arises from what is historically pregiven, what with Hegel we
+call "substance," because it underlies all subjective intentions and actions,
+and hence both prescribes and limits every possibility for understanding
+any tradition whatsoever in its historical alterity. This almost defines the
+aim of philosophical hermeneutics: its task is to retrace the path of Hegel's
+phenomenology of mind until we discover in all that is subjective the
+substantiality that determines it.
+   Every finite present has its limitations. We define the concept of
+"situation" by saying that it represents a standpoint that limits the
+possibility of vision. Hence essential to the concept of situation is the
+concept of "horizon." The horizon is the range of vision that includes
+everything that can be seen from a particular vantage point. Applying this
+to the thinking mind, we speak of narrowness of horizon, of the possible
+expansion of horizon, of the opening up of new horizons, and so forth.
+Since Nietzsche and Husserl,48 the word has been used in philosophy to
+characterize the way in which thought is tied to its finite determinacy, and
+the way one's range of vision is gradually expanded. A person who has no
+horizon does not see far enough and hence over-values what is nearest to
+him. On the other hand, "to have a horizon" means not being limited to
+what is nearby but being able to see beyond it. A person who has an
+horizon knows the relative significance of everything within this horizon,
+
+=== p. 301 ===
+
+  whether it is near or far, great or small. Similarly, working out the
+  hermeneutical situation means acquiring the right horizon of inquiry for
+  the questions evoked by the encounter with tradition.
+     In the sphere of historical understanding, too, we speak of horizons,
+  especially when referring to the claim of historical consciousness to see the
+  past in its own terms, not in terms of our contemporary criteria and
+  prejudices but within its own historical horizon. The task of historical
+  understanding also involves acquiring an appropriate historical horizon, so
+  that what we are trying to understand can be seen in its true dimensions.
+  If we fail to transpose ourselves into the historical horizon from which the
+  traditionary text speaks, we will misunderstand the significance of what it
+  has to say to us. To that extent this seems a legitimate hermeneutical
+  requirement: we must place ourselves in the other situation in order to
+  understand it. We may wonder, however, whether this phrase is adequate
+  to describe the understanding that is required of us. The same is true of a
+  conversation that we have with someone simply in order to get to know
+  him—i.e., to discover where he is coming from and his horizon. This is not
+  a true conversation—that is, we are not seeking agreement on some
+  subject—because the specific contents of the conversation are only a
+  means to get to know the horizon of the other person. Examples are oral
+  examinations and certain kinds of conversation between doctor and
+  patient. Historical consciousness is clearly doing something similar when it
+  transposes itself into the situation of the past and thereby claims to have
+  acquired the right historical horizon. In a conversation, when we have
+  discovered the other person's standpoint and horizon, his ideas become
+  intelligible without our necessarily having to agree with him; so also when
+  someone thinks historically, he comes to understand the meaning of what
+  has been handed down without necessarily agreeing with it or seeing
+  himself in it.
+     In both cases, the person understanding has, as it were, stopped trying to
+  reach an agreement. He himself cannot be reached. By factoring the other
+  person's standpoint into what he is claiming to say, we are making our own
+  standpoint safely unattainable.49 In considering the origin of historical
+  thinking, we have seen that in fact it makes this ambiguous transition from
+  means to ends—i.e., it makes an end of what is only a means. The text that
+  is understood historically is forced to abandon its claim to be saying
+  something true. We think we understand when we see the past from a
+  historical standpoint—i.e., transpose ourselves into the historical situation
+  and try to reconstruct the historical horizon. In fact, however, we have
+
+=== p. 302 ===
+
+given up the claim to find in the past any truth that is valid and intelligible
+for ourselves. Acknowledging the otherness of the other in this way,
+making him the object of objective knowledge, involves the fundamental
+suspension of his claim to truth.
+   However, the question is whether this description really fits the hermeneutical phenomenon. Are there really two different horizons here—the
+horizon in which the person seeking to understand lives and the historical
+horizon within which he places himself? Is it a correct description of the art
+of historical understanding to say that we learn to transpose ourselves into
+alien horizons? Are there such things as closed horizons, in this sense? We
+recall Nietzsche's complaint against historicism that it destroyed the
+horizon bounded by myth in which alone a culture is able to live.50 Is the
+horizon of one's own present time ever closed in this way, and can a
+historical situation be imagined that has this kind of closed horizon?
+   Or is this a romantic refraction, a kind of Robinson Crusoe dream of
+historical enlightenment, the fiction of an unattainable island, as artificial
+as Crusoe himself—i.e., as the alleged primacy of the solus ipse? Just as the
+individual is never simply an individual because he is always in understanding with others, so too the closed horizon that is supposed to enclose
+a culture is an abstraction. The historical movement of human life consists
+in the fact that it is never absolutely bound to any one standpoint, and
+hence can never have a truly closed horizon. The horizon is, rather,
+something into which we move and that moves with us. Horizons change
+for a person who is moving. Thus the horizon of the past, out of which all
+human life lives and which exists in the form of tradition, is always in
+motion. The surrounding horizon is not set in motion by historical
+consciousness. But in it this motion becomes aware of itself.
+   When our historical consciousness transposes itself into historical horizons, this does not entail passing into alien worlds unconnected in any way
+with our own; instead, they together constitute the one great horizon that
+moves from within and that, beyond the frontiers of the present, embraces
+the historical depths of our self-consciousness. Everything contained in
+historical consciousness is in fact embraced by a single historical horizon.
+Our own past and that other past toward which our historical consciousness is directed help to shape this moving horizon out of which human life
+always lives and which determines it as heritage and tradition.
+   Understanding tradition undoubtedly requires a historical horizon, then.
+But it is not the case that we acquire this horizon by transposing ourselves
+into a historical situation. Rather, we must always already have a horizon
+
+=== p. 303 ===
+
+  in order to be able to transpose ourselves into a situation. For what do we
+  mean by "transposing ourselves"? Certainly not just disregarding ourselves. This is necessary, of course, insofar as we must imagine the other
+  situation. But into this other situation we must bring, precisely, ourselves.
+  Only this is the full meaning of "transposing ourselves." If we put ourselves
+  in someone else's shoes, for example, then we will understand him—i.e.,
+  become aware of the otherness, the indissoluble individuality of the other
+  person—by putting ourselves in his position.
+     Transposing ourselves consists neither in the empathy of one individual
+  for another nor in subordinating another person to our own standards;
+  rather, it always involves rising to a higher universality that overcomes not
+  only our own particularity but also that of the other. The concept of
+  "horizon" suggests itself because it expresses the superior breadth of vision
+  that the person who is trying to understand must have. To acquire a
+  horizon means that one learns to look beyond what is close at hand—not
+  in order to look away from it but to see it better, within a larger whole and
+  in truer proportion. To speak, with Nietzsche, of the many changing
+  horizons into which historical consciousness teaches us to place ourselves
+  is not a correct description. If we disregard ourselves in this way, we have
+  no historical horizon. Nietzsche's view that historical study is deleterious to
+  life is not, in fact, directed against historical consciousness as such, but
+  against the self-alienation it undergoes when it regards the method of
+  modern historical science as its own true nature. We have already pointed
+  out that a truly historical consciousness always sees its own present in such
+  a way that it sees itself, as well as the historically other, within the right
+  relationships. It requires a special effort to acquire a historical horizon. We
+  are always affected, in hope and fear, by what is nearest to us, and hence
+  we approach the testimony of the past under its influence. Thus it is
+  constantly necessary to guard against overhastily assimilating the past to
+  our own expectations of meaning. Only then can we listen to tradition in
+  a way that permits it to make its own meaning heard.
+      We have shown above that this is a process of foregrounding (abheben).
+  Let us consider what this idea of foregrounding involves. It is always
+  reciprocal. Whatever is being foregrounded must be foregrounded from
+  something else, which, in turn, must be foregrounded from it. Thus all
+  foregrounding also makes visible that from which something is foregrounded. We have described this above as the way prejudices are brought
+  into play. We started by saying that a hermeneutical situation is determined by the prejudices that we bring with us. They constitute, then, the
+
+=== p. 304 ===
+
+horizon of a particular present, for they represent that beyond which it is
+impossible to see. But now it is important to avoid the error of thinking
+that the horizon of the present consists of a fixed set of opinions and
+valuations, and that the otherness of the past can be foregrounded from it
+as from a fixed ground.
+    In fact the horizon of the present is continually in the process of being
+formed because we are continually having to test all our prejudices. An
+important part of this testing occurs in encountering the past and in
+understanding the tradition from which we come. Hence the horizon of
+the present cannot be formed without the past. There is no more an
+isolated horizon of the present in itself than there are historical horizons
+which have to be acquired. Rather, understanding is always the fusion of these
+horizons supposedly existing by themselves. We are familiar with the power of
+this kind of fusion chiefly from earlier times and their naivete about
+themselves and their heritage. In a tradition this process of fusion is
+continually going on, for there old and new are always combining into
+something of living value, without either being explicitly foregrounded
+from the other.
+    If, however, there is no such thing as these distinct horizons, why do we
+speak of the fusion of horizons and not simply of the formation of the one
+horizon, whose bounds are set in the depths of tradition? To ask the
+question means that we are recognizing that understanding becomes a
+scholarly task only under special circumstances and that it is necessary to
+work out these circumstances as a hermeneutical situation. Every encounter with tradition that takes place within historical consciousness involves
+the experience of a tension between the text and the present. The
+hermeneutic task consists in not covering up this tension by attempting a
+naive assimilation of the two but in consciously bringing it out. This is why
+it is part of the hermeneutic approach to project a historical horizon that is
+different from the horizon of the present. Historical consciousness is aware
+of its own otherness and hence foregrounds the horizon of the past from
+its own. On the other hand, it is itself, as we are trying to show, only
+something superimposed upon continuing tradition, and hence it immediately recombines with what it has foregrounded itself from in order to
+become one with itself again in the unity of the historical horizon that it
+thus acquires.
+    Projecting a historical horizon, then, is only one phase in the process of
+understanding; it does not become solidified into the self-alienation of a
+past consciousness, but is overtaken by our own present horizon of
+

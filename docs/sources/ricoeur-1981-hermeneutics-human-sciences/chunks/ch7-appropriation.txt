@@ -1,0 +1,478 @@
+=== chunk: ricoeur-1981-hermeneutics-human-sciences/ch7-appropriation ===
+title: Appropriation
+source_pdf: docs/sources/ricoeur-1981-hermeneutics-human-sciences/full.pdf
+pdf_pages: 195-207
+page_scheme: book
+plan_page_start: 144
+plan_page_end: 156
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 144 ===
+
+                              Appropriation
+
+                                        B
+This essay will attempt to explicate a key idea which governs the methodology of interpretation. It concerns the way in which a text is addressed to
+someone. Elsewhere1 we have noted that the writing–reading relation is
+distinguished from the speaking–hearing relation not only in terms of the
+relation to the speaker, but also in terms of the relation to the audience.
+We have asked: for whom does one write? and we have answered: for
+anyone who can read. We have also spoken of the ‘potentialisation’ of the
+audience, which is no longer the partner in dialogue but the unknown
+reader that the text procures. The culmination of reading in a concrete reader
+who appropriates the meaning will thus constitute the theme of this essay.
+   It is obvious that we shall rediscover the old problem of the role of
+subjectivity in understanding and, therefore, the problem of the hermeneutical circle. But this problem is presented in new terms, as a result of the
+fact that it has been postponed for so long. Instead of considering it as
+the first problem, we have pushed it back to the end of our investigation.
+What we have said in other essays about the notion of interpretation is, in
+this respect, decisive. If it is true that interpretation concerns essentially the
+power of the work to disclose a world, then the relation of the reader to the
+text is essentially his relation to the kind of world which the text presents.
+The theory of appropriation which will now be sketched follows from the
+displacement undergone by the whole problematic of interpretation: it will
+be less an intersubjective relation of mutual understanding than a relation
+of apprehension applied to the world conveyed by the work. A new theory
+of subjectivity follows from this relation. In general we may say that
+appropriation is no longer to be understood in the tradition of philosophies
+of the subject, as a constitution of which the subject would possess the key.
+To understand is not to project oneself into the text; it is to receive an
+enlarged self from the apprehension of proposed worlds which are the
+
+1   See ‘The hermeneutical function of distanciation’, in this volume.
+
+=== p. 145 ===
+
+genuine object of interpretation. Such is the general line of this essay, which
+will be pursued in detail as follows.
+(1) To begin with, the necessity of the concept of appropriation will be
+shown. It will be introduced as the counterpart of a concept of distancia-tion which is linked to any objective and objectifying study of a text.
+Hence the first section: ‘distanciation and appropriation’.
+(2) Then we shall take up the relation between the concept of appropriation and that of the revelation of a world. Following Gadamer’s analysis
+in Truth and Method, we shall introduce the theme of ‘play’. This theme
+will serve to characterise the metamorphosis which, in the work of art, is
+undergone not only by reality but also by the author (writer and artist), and
+above all (since this is the point of our analysis) by the reader or the subject
+of appropriation. Appropriation will thus appear as the ‘playful’ transposition of the text, and play itself will appear as the modality appropriate to
+the reader potentialis, that is, to anyone who can read.
+(3) Next we shall identify the illusions and errors which the concept of
+appropriation must overcome. Here the critique of the illusions of the
+subject will be the necessary path to the sound appreciation of the concept
+of appropriation. Appropriation will be the complement not only of the
+distanciation of the text, but also of the relinquishment of the self.
+   The conclusion will sketch the place of hermeneutic philosophy in relation
+to the reflective Kantian tradition on the one hand, and the speculative
+Hegelian tradition on the other. It will be shown why a hermeneutic philosophy must situate itself at an equal distance from both.
+
+I.   Distanciation and appropriation
+The dialectic of distanciation and appropriation is the final figure which
+the dialectic of explanation and understanding must assume. It concerns
+the way in which the text is addressed to someone.
+  The potentialisation of the audience implies two ways of reconnecting
+the discourse of the reader to that of the writer. These possibilities pertain
+to the status of history in the whole process of interpretation. The general
+tendency of literary and biblical criticism since the mid-nineteenth century
+has been to link the contents of literary works, and in general of cultural
+documents, to the social conditions of the community in which these
+works were produced or to which they were directed. To explain a text
+was essentially to consider it as the expression of certain socio-cultural
+
+=== p. 146 ===
+
+needs and as a response to certain perplexities localised in space and time.
+In contrast to this trend, which was subsequently called ‘historicism’, an
+alternative tendency arose, stemming from Frege and from the Husserl of
+the Logical Investigations. According to these thinkers, meaning (they were
+interested in the meaning of a proposition rather than that of a text) is not
+an idea which someone has in mind; it is not a mental content but an ideal
+object which can be identified and reidentified, by different individuals
+in different periods, as being one and the same object. By ‘ideality’, they
+understood that the meaning of a proposition is neither a physical nor
+a mental reality. In Frege’s terms, Sinn is not Vorstellung, if Vorstellung
+(idea, representation) is the mental event linked to the actualisation of
+meaning by a given speaker in a given situation. The identity of ‘sense’ in
+the infinite series of its mental actualisations constitutes the ideal dimension of the proposition. In a similar way, Husserl described the contents of
+all intentional acts as the ‘noematic’ object, irreducible to the mental aspect
+of the acts themselves. The notion of ideal ‘sense’, borrowed from Frege,
+was thus extended by Husserl to all mental operations – not just logical
+acts but also perceptual acts, volitional acts, affective acts, etc. For a
+phenomenology ‘turned towards the object’, all intentional acts without
+exception must be described in terms of their noematic side, understood as
+the ‘correlate’ of the corresponding noetic acts.
+   The inversion in the theory of propositional acts has an important
+implication for hermeneutics, insofar as this discipline is conceived as
+the theory of the fixation of life expressions by writing. After 1900, Dilthey
+himself made a great effort to incorporate into his theory of meaning the
+kind of ideality which he found in Husserl’s Logical Investigations. In
+Dilthey’s later works, the interconnection (Zusammenhang) which gives a
+text, a work of art or a document its power to be understood by another
+and to be fixed by writing is somewhat similar to the ideality that Frege
+and Husserl discerned at the basis of all propositions. If this comparison
+holds, then the act of ‘understanding’ is less ‘historical’ and more ‘logical’
+than the famous article of 1900 declares.2 The whole theory of the ‘human
+sciences’ is affected by this important shift.
+   A comparable change in the domain of literary criticism, in America and
+on the Continent, can be related to the turn from history to logicity in the
+
+2     W. Dilthey, ‘Origine et développement de l’herméneutique’ (1900) in Le Monde de l’Esprit i
+      (Paris: Aubier, 1947) [English translation: ‘The development of hermeneutics’ in Selected
+      Writings, edited and translated by H.P. Rickman (Cambridge: Cambridge University
+      Press, 1976)].
+
+=== p. 147 ===
+
+explanation of cultural expressions. A wave of ‘anti-historicism’ followed
+the earlier excesses of psychologism and sociologism. For this new attitude,
+a text is not primarily a message addressed to a specific range of readers; in
+this sense, it is not a segment of an historical chain. Insofar as it is a text, it is
+a kind of atemporal object which has, as it were, broken its moorings with
+all historical development. The rise to writing implies the ‘suspension’ of the
+historical process, the transference of discourse to a sphere of ideality which
+permits an indefinite expansion of the sphere of communication.
+   I must say that I take this ‘anti-historicist’ trend into account and that
+I accept its principal presupposition concerning the objectivity of meanings in general. It is because I concur with the project and the method of
+this sort of literary criticism that I am ready to define, in new terms, the
+dialectic between explanation and understanding which results from the
+recognition of the specificity of the literary object.
+   Let us develop this new dialectic: the objectification of meaning is a necessary mediation between the writer and the reader. But as mediation, it calls
+for a complementary act of a more existential character which I shall call the
+appropriation of meaning. ‘Appropriation’ is my translation of the German
+term Aneignung. Aneignen means ‘to make one’s own’ what was initially
+‘alien’. According to the intention of the word, the aim of all hermeneutics
+is to struggle against cultural distance and historical alienation. Interpretation
+brings together, equalises, renders contemporary and similar. This goal is
+attained only insofar as interpretation actualises the meaning of the text for
+the present reader. Appropriation is the concept which is suitable for the
+actualisation of meaning as addressed to someone. It takes the place of the
+answer in the dialogical situation, in the same way that ‘revelation’ or
+‘disclosure’ takes the place of ostensive reference in the dialogical situation.
+The interpretation is complete when the reading releases something like an
+event, an event of discourse, an event in the present time. As appropriation,
+the interpretation becomes an event. Appropriation is thus a dialectical
+concept: the counterpart of the timeless distanciation implied by any literary
+or textual criticism of an anti-historicist character.
+
+II.    ‘Play’ as the mode of being of appropriation
+The following theme was suggested by reading Gadamer;3 but it is also
+called for by the theory of the heuristic fiction. I should like to show that it is
+
+3     Hans-Georg Gadamer, Wahrheit und Methode (Tübingen: J.C.B. Mohr, 1960) [English
+      translation: Truth and Method (London: Sheed and Ward, 1975)].
+
+=== p. 148 ===
+
+not only reality which is metamorphosed by the heuristic fiction, but also
+the author and the reader. Thus the metamorphosis of the reading subject
+results initially from the metamorphosis of the world, and then from the
+metamorphosis of the author.
+
+1. The heuristic fiction as play
+Gadamer develops his conception of play in the course of a meditation on
+the work of art. This meditation is wholly directed against the subjectivism
+of the aesthetic consciousness which stems from the Kantian theory of the
+‘judgement of taste’, itself linked to the theory of ‘reflecting judgement’.
+Play is not determined by the consciousness which plays; play has its own
+way of being. Play is an experience which transforms those who participate in it. It seems that the subject of aesthetic experience is not the player
+himself, but rather what ‘takes place’ in play. In a similar way we speak of
+the play of waves, of light, of parts of a machine and even of words. We
+play with a project, with an idea; we can equally ‘be played’. What is
+essential is the ‘to and fro’ (Hin und Her) of play. Play is thereby close to
+dance, which is a movement that carries away the dancer. Thus we say
+that the part ‘is played’, or again that something ‘is in play’ between . . . All
+of these expressions betray that play is something other than the activity of
+a subject. The to and fro of play occurs as if by itself, that is, without effort
+or applied intention. This ‘in-itself’ of play is such that, even in solitary
+play, there must be something with which or against which one plays
+(with luck as one’s partner in times of success!). In this risk of an unknown
+partner lies the ‘charm’ of play. Whoever plays is also played: the rules of
+the game impose themselves upon the player, prescribing the to and fro
+and delimiting the field where everything ‘is played’. Hence play shatters
+the seriousness of a utilitarian preoccupation where the self-presence of
+the subject is too secure. In play, subjectivity forgets itself; in seriousness,
+subjectivity is regained.
+   In what respects does this analysis, which we have briefly recalled,
+clarify our problem of hermeneutic understanding? In the first place, the
+presentation of a world in a work of art, and in general in a work of
+discourse, is a playful presentation. Worlds are proposed in the mode of
+play. The analysis of play thus enables us to recover in a new way the
+dialectic between the suspension of didactic reference and the manifestation of another sort of reference, beyond the epoché of the former. Play
+displays the same dialectic, developing a serious side of its own – what
+Gadamer calls ‘presentation’ (Darstellung). In play, nothing is serious, but
+something is presented, produced, given in representation. There is thus
+
+=== p. 149 ===
+
+an interesting relation between play and the presentation of a world. This
+relation is, moreover, absolutely reciprocal: on the one hand, the presentation of the world in a poem is a heuristic fiction and in this sense ‘playful’;
+but on the other hand, all play reveals something true, precisely because it
+is play. To play, says Gadamer, is to play at something. In entering a game
+we hand ourselves over, we abandon ourselves to the space of meaning
+which holds sway over the reader.
+   In play there occurs what Gadamer calls a ‘metamorphosis’ (Verwandlung), that is, both an imaginary transposition marked by the reign of
+‘figures’ (Gebilde), and the transformation of everything into its true being.
+Everyday reality is abolished and yet everyone becomes himself. Thus the
+child who disguises himself as another expresses his profoundest truth.
+The player is metamorphosed ‘in the true’; in playful representation, ‘what
+is emerges’. But ‘what is’ is no longer what we call everyday reality; or
+rather, reality truly becomes reality, that is, something which comprises
+a future horizon of undecided possibilities, something to fear or to hope
+for, something unsettled. Art only abolishes non-metamorphosed reality.
+Whence the true mimesis: a metamorphosis according to the truth. In this
+sense, we shall speak of recognition rather than cognition. In a theatrical
+representation, we recognise characters and roles. Therein lies the paradox: the most imaginary creation elicits recognition. ‘As recognised, the
+presented being is what is retained in its essence, what is detached from its
+haphazard aspects’,4 stripped of all that is fortuitous and accidental. This
+is the sense in which Aristotle could dare to say that poetry (he was
+thinking of tragedy) is more philosophical than history. For poetry proceeds to the essential, whereas history remains content with the anecdotal.
+Such is the significant link between fiction, figuration and recognition of
+the essential.
+
+2. The author as playful figure
+A second implication emerges which is no less interesting than the first.
+It is not only the presentation of the world which is ‘playful’, but also the
+position of the author who ‘puts himself on stage’ and hence gives himself
+in representation. Is this not the key to what we have called the potentia-lisation of the reader? Is he not also ‘metamorphosed’ by the play upon the
+world which unfolds in the work of art? The hypothesis of a playful
+relation between the author and his work is supported by diverse analyses
+
+4   Ibid., p. 109 [p. 102].†
+
+=== p. 150 ===
+
+which come from quite a different perspective, in particular from German
+and Anglo-Saxon literary criticism.5 The discussion in this critical literature was polarised, above all, by the problem of the relation between the
+novelist and his characters. The term ‘point of view’ was used to describe
+the various possible solutions contributed by novelists of the past to this
+difficult problem: a total view of the characters by an omniscient author,
+the identification with one of the characters through whose eyes the
+author sees everything that is shown, the annihilation of the author in a
+story which tells itself all alone, and so on.
+   How can this debate be clarified by our earlier reflections on play? The
+very fact that there have been numerous solutions to this technical problem results, in my opinion, from the playful character of the relation itself.
+The author is rendered fictitious; and the different modalities of the relation of author to narration are like so many rules of this playful relation.
+The solutions classified by Norman Friedman and F.K. Stanzel may be
+reconsidered from this point of view.6 That these solutions constitute so
+many fictions of the author seems to me confirmed by the remark of one of
+the critics: ‘The author can, to a certain extent, choose to disguise himself,
+but he can never choose to disappear.’7 To disguise oneself, to assume
+different ‘voices’, is this not to play?
+   For their part the French, more affected by the structuralist concern
+to cut the links between the text and the author, emphasise the non-coincidence of the ‘psychological’ author and the ‘narrator’, where the
+latter is ‘marked’ by the signs of the narrator in the text. But this non-coincidence cannot imply the elimination of the author; just as Benveniste
+spoke of split reference with respect to poetic language, so too we must
+introduce the idea of a ‘split speaker’. This splitting marks the irruption
+of the playful relation into the very subjectivity of the author. We are
+no longer very far from Dilthey when he speaks of ‘the position of the
+poet’s imagination before the world of experiences’.8 In the same sense,
+Wolfgang Kayser speaks of the ‘mythical creator’ in order to designate the
+situation of the narrator. The narrator is the one who abstracts from his
+personality so that a voice other than his is heard. Thus the very
+
+5     See F. van Rossum-Guyon, ‘Point de vue ou perspective narrative’; Wolfgang Kayser, ‘Qui
+      raconte le roman?’; and Wayne C. Booth, ‘Distance et point de vue’; all in Poétique, iv
+      (1970). In France a related problem was posed by J. Pouillon in his work Temps et roman
+      (Paris: Gallimard, 1946).
+6     Cf. F. van Rossum-Guyon, ‘Point de vue ou perspective narrative’, pp. 481–2 and 485–90.
+7     W.C. Booth, quoted in F. van Rossum-Guyon, ibid., p. 482.
+8     W. Dilthey, quoted in F. van Rossum-Guyon, ibid., p. 486.
+
+=== p. 151 ===
+
+disappearance of the subject is still an imaginative variation of the
+writer’s ego. The imaginative variation then consists in being part of the
+narrative, in disguising oneself according to the narrative. In any case, it
+is still a matter of a role assumed by the narrator. For the omniscient
+narrator is just as much a fiction of the subject as the narrator identified
+with a character or as the narrator dispersed among the characters who
+appear to speak and to act all alone. The omniscient narrator is also an
+‘autonomous figure created by the author in the same way as the characters’;9 even more so if the narrator is identified with a character or hidden
+behind all. The objective and Olympian narrator may well disappear:
+play is displaced towards the partial and restricted viewpoints of the
+characters; or, as in The Sorrows of Young Werther, it is hidden in an
+imaginary character inserted between the character and ourselves, such
+that this third person is sensed to have put together the words of the poor
+Werther, addressing us in the preface and engaging us in a pseudo-dialogue.
+   It makes little difference, therefore, whether a text is written in third or
+in first person. In every case, the distanciation is the same and the variety
+of solutions proves that we have not gone beyond rule-governed play.
+Thus the novelist may change his perspective and become suddenly
+omniscient when he reads the thoughts of his characters. So while it is
+true to say that the narrator is never the author, nevertheless the narrator
+is always the one who is metamorphosed in a fictional character which is
+the author. Even the death of the author is a game that the author plays.
+In all cases he remains, according to Kayser’s expression, a ‘creator of
+the universe’.10
+
+3. The reader as playful figure
+It is now possible to transfer the remarks on the author to the reader, and
+to treat the reader in turn as a fictive or playful figure. For the author’s
+subjectivity, submitted to imaginative variations, becomes a model offered
+by the narrator to the subjectivity of his reader. The reader as well is
+invited to undergo an imaginative variation of his ego. When the fictive
+author of the preface of Werther addresses us, ‘and you, good soul . . .’, this
+‘you’ is not the prosaic man who knows that Werther did not exist, but is
+the ‘me’ who believes in fiction. As Kayser says, ‘the reader is a fictive
+
+ 9 F.K. Stanzel, quoted in F. van Rossum-Guyon, ibid., p. 490.
+10 Wolfgang Kayser, ‘Qui raconte le roman?’, p. 510.
+
+=== p. 152 ===
+
+creation, a role which we can assume in order to look at ourselves’.11 In
+this sense we may speak of metamorphosis, as Gadamer speaks of the
+metamorphosis of reality in play. The reader is this imaginary ‘me’,
+created by the poem and participating in the poetic universe.
+  We may still speak of a relation of congeniality, but it is exercised from
+the playful author to the playful reader. For the work itself has constructed
+the reader in his role. So the congeniality does not signify anything other
+than the double metamorphosis of the author and the reader: ‘Assuming
+the role of reader corresponds to the mysterious metamorphosis which the
+audience undergoes in the theatre when the lights go out and the curtains
+are drawn.’12
+  It is easy, therefore, to generalise beyond the novel or the story: even
+when we read a philosophical work, it is always a question of entering into
+an alien work, of divesting oneself of the earlier ‘me’ in order to receive,
+as in play, the self conferred by the work itself.
+
+III.   The illusions of the subject
+The concept of appropriation has hardly been introduced when it becomes
+the victim of errors linked to the primacy of the subject in modern
+philosophy, insofar as the latter originates in the writings of Descartes,
+Kant and Husserl. The role of the subject seems to imply that appropriation is a form of the constitution of objectivity in and by the subject.
+This inference results in a series of errors about the very meaning of
+appropriation. The first of these errors is a surreptitious return to the
+Romantic pretension of recovering, by congenial coincidence, the genius
+of the author: from genius to genius! Another error is to conceive of
+appropriation in terms of the primacy of the original audience with
+which one seeks to coincide: to discover to whom a text was addressed
+and to identify oneself with that original audience, such would be the
+task of hermeneutics. Or more bluntly, appropriation would consist in
+subsuming interpretation to the finite capacities of understanding of the
+present reader.
+   This way of conceiving of appropriation, ensnared in these various errors,
+is responsible for the distrust which scientific minds display towards hermeneutics, understood as a form of subjectivism or of subjectivist existentialism. Even Heidegger has been read this way: his ‘pre-understanding’
+
+11 Ibid., p. 502.   12 Ibid., p. 510.
+
+=== p. 153 ===
+
+(Vorverständnis) is taken as indistinguishable from a simple projection of
+the prejudices of the reader into his reading. The same could be said of
+Bultmann’s hermeneutical circle: ‘to believe in order to understand’, is this
+not to project the reading self into the text read?
+   Here I shall say that the notion of subject must be submitted to a critique
+parallel to that which the theory of metaphor exercises on the notion of
+object. In fact, it is the same philosophical error which must be taken by
+its two extremities: objectivity as confronting the subject, the subject as
+reigning over objectivity.
+   At this stage, everything gained from the critique of the illusions of the
+subject must be integrated into hermeneutics. This critique, which I see
+conducted in either a Freudian or a Marxist tradition, constitutes the
+modern form of the critique of ‘prejudice’.
+   According to the Marxist tradition, the critique of the subject is one aspect
+of the general theory of ideology. Our understanding is based on prejudices
+which are linked to our position in the relations of force of society, a position
+which is partially unknown to us. Moreover, we are propelled to act by
+hidden interests. Whence the falsification of reality. Thus the critique of
+‘false consciousness’ becomes an integral part of hermeneutics. Here I see
+the place for a necessary dialogue between hermeneutics and the theory of
+ideology as developed, for instance, by Habermas.13
+   According to the Freudian tradition, the critique of the subject is one
+part of the critique of ‘illusions’. Here I am interested in psychoanalysis,
+not as a grid for reading a text, but as the self-criticism of the reader, as the
+purification of the act of appropriation. In Freud and Philosophy, I spoke of
+an effect of self-analysis which I called the relinquishment of the subject.
+As Freud said, the subject is not master in his own house. This critique is
+addressed to what could be called the ‘narcissism of the reader’: to find
+only oneself in a text, to impose and rediscover oneself.
+   Relinquishment is a fundamental moment of appropriation and distinguishes it from any form of ‘taking possession’. Appropriation is also and
+primarily a ‘letting-go’. Reading is an appropriation-divestiture. How can
+this letting-go, this relinquishment, be incorporated into appropriation?
+Essentially by linking appropriation to the revelatory power of the text
+which we have described as its referential dimension. It is in allowing itself
+to be carried off towards the reference of the text that the ego divests itself
+of itself. [. . .]
+
+13 See ‘Hermeneutics and the critique of ideology’, in this volume.
+
+=== p. 154 ===
+
+   The link between appropriation and revelation is, in my view, the
+cornerstone of a hermeneutics which seeks both to overcome the failures
+of historicism and to remain faithful to the original intention of Schleier-macher’s hermeneutics. To understand an author better than he understood himself is to unfold the revelatory power implicit in his discourse,
+beyond the limited horizon of his own existential situation.
+   On this basis, it is possible to refute fallacious views about the concept of
+interpretation. In the first place, appropriation does not imply any direct
+congeniality of one soul with another. Nothing is less inter-subjective or
+dialogical than the encounter with a text; what Gadamer calls the ‘fusion
+of horizons’ expresses the convergence of the world horizons of the writer
+and the reader. The ideality of the text remains the mediator in this process
+of the fusion of horizons.
+   According to another fallacious view, the hermeneutical task would be
+governed by the original audience’s understanding of the text. As Gada-mer has firmly demonstrated, this is a complete mistake: the Letters of
+Saint Paul are no less addressed to me than to the Romans, the Galatians,
+the Corinthians, etc. Only dialogue has a ‘you’, whose identification proceeds from the dialogue itself. If the meaning of a text is open to anyone
+who can read, then it is the omni-temporality of meaning which opens it to
+unknown readers; and the historicity of reading is the counterpart of this
+specific omni-temporality. From the moment that the text escapes from its
+author and from his situation, it also escapes from its original audience.
+Hence it can procure new readers for itself.
+   According to a third fallacious view, the appropriation of the meaning
+of a text would subsume interpretation to the finite capacities of understanding of a present reader. The English and French translation of
+Aneignung by ‘appropriation’ reinforces this suspicion. Do we not place
+the meaning of the text under the domination of the subject who interprets? This objection can be dismissed by observing that what is ‘made our
+own’ is not something mental, not the intention of another subject, nor
+some design supposedly hidden behind the text; rather, it is the projection
+of a world, the proposal of a mode of being-in-the-world, which the text
+discloses in front of itself by means of its non-ostensive references. Far
+from saying that a subject, who already masters his own being-in-theworld, projects the a priori of his own understanding and interpolates this
+a priori in the text, I shall say that appropriation is the process by which
+the revelation of new modes of being – or, if you prefer Wittgenstein
+to Heidegger, new ‘forms of life’ – gives the subject new capacities for
+knowing himself. If the reference of a text is the projection of a world, then
+
+=== p. 155 ===
+
+it is not in the first instance the reader who projects himself. The reader is
+rather broadened in his capacity to project himself by receiving a new
+mode of being from the text itself.
+   Thus appropriation ceases to appear as a kind of possession, as a way of
+taking hold of . . . It implies instead a moment of dispossession of the
+narcissistic ego. This process of dispossession is the work of the sort of
+universality and atemporality implied by the explanatory procedures.
+Only the interpretation which satisfies the injunction of the text, which
+follows the ‘arrow’ of meaning and endeavours to ‘think in accordance
+with’ it, engenders a new self-understanding. By the expression ‘self-understanding’, I should like to contrast the self which emerges from the understanding of the text to the ego which claims to precede this understanding.
+It is the text, with its universal power of unveiling, which gives a self to
+the ego.
+   It would require, at the end of this excursion, a long explanation in order
+to situate hermeneutic philosophy in relation to the reflective Kantian
+tradition on the one hand, and the speculative Hegelian tradition on the
+other. We shall restrict ourselves here to offering a few remarks in support
+of the thesis that hermeneutic philosophy must place itself at equal distance from both traditions, accepting as much from one tradition as from
+the other but opposing each with equal force.
+   By its concern to secure the link between understanding meaning and
+self-understanding, hermeneutic philosophy is a continuation of reflective
+philosophy. But the critique of the illusions of the subject and the permanent recourse to the great detour of signs distances it decisively from the
+primacy of the cogito. Above all, the subordination of the theme of appropriation to that of manifestation turns more towards a hermeneutics of the
+I am than a hermeneutics of the I think.14
+   It may be thought that what distances hermeneutic philosophy from
+reflective philosophy brings it nearer to speculative philosophy. That is
+largely true. Thus Gadamer can say that his hermeneutics revives Hegel
+insofar as it breaks with Schleiermacher. Fundamentally, the concept of
+manifestation of a world, around which all other hermeneutical concepts
+are organised, is closer to the idea of the ‘self-presentation’ (Selbstdarstellung) of the true, following the preface to The Phenomenology of Mind, than
+to the Husserlian idea of constitution. But the permanent return of this
+
+14 See Paul Ricoeur, ‘The question of the subject: the challenge of semiology’, translated by
+   Kathleen McLaughlin, in The Conflict of Interpretations: Essays in Hermeneutics, edited by
+   Don Ihde (Evanston: Northwestern University Press, 1974), pp. 236–66.
+
+=== p. 156 ===
+
+self-presentation to the event of speech in which, ultimately, interpretation
+is accomplished signifies that philosophy mourns the loss of absolute
+knowledge. It is because absolute knowledge is impossible that the conflict
+of interpretations is insurmountable and inescapable.
+   Between absolute knowledge and hermeneutics, it is necessary to choose.
+

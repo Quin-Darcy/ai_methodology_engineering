@@ -1,0 +1,772 @@
+=== chunk: gendler-2010-intuition-imagination-philosophical-methodology/ch6-cognitive-equilibrium ===
+title: Philosophical Thought Experiments, Intuitions, and Cognitive Equilibrium
+source_pdf: docs/sources/gendler-2010-intuition-imagination-philosophical-methodology/full.pdf
+pdf_pages: 127-143
+page_scheme: book
+plan_page_start: 116
+plan_page_end: 134
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 116 ===
+
+      Philosophical Thought Experiments,
+      Intuitions, and Cognitive Equilibrium
+
+It is well known that contemplation of an imaginary particular may have cognitive and
+motivational effects different from those evoked by an abstract description of the same
+content. This essay explores some of the philosophical implications of this commonplace.
+In particular, it looks at the extent to which the effectiveness of thought experiments is
+due to the engagement of cognitive mechanisms associated with vivid imagining.
+   The essay makes three main claims. First, that by presenting content in a suitably concrete
+or abstract way, thought experiments recruit representational schemas that were otherwise
+inactive, thereby evoking responses that may run counter to those evoked by alternative
+presentations of relevantly similar content. Second, that exactly because they recruit heretofore uninvolved processing mechanisms, thought experiments can be expected to produce
+responses to the target material that remain in disequilibrium with responses to the same
+material under alternative presentations, so that a true sense of cognitive equilibrium will,
+in many cases, prove elusive. And finally, that when thought experiments succeed as devices
+of persuasion, it is because the evoked response becomes dominant, so that the subject
+comes (either reflectively or unreflectively) to represent relevant non-thought-experimental
+content in light of the thought-experimental conclusion.
+   This essay—which is more expository and less tightly argued than most of the others in
+this volume—is best read in conjunction with two successor papers: “Alief and Belief”
+(2008a; Ch. 13) and “Alief in Action (and Reaction)” (2008b; Ch. 14). For those who lack
+the time to read all three, it might be useful to know that the two later essays offer a more
+sophisticated and nuanced account of the central insight underlying this one, although
+they do not address the issue of philosophical thought experiments so directly.
+
+                                             ***
+This essay was first published in Midwest Studies in Philosophy: Philosophy and the Empirical,
+31 (2007), 68–89 and is reprinted with the kind permission of Wiley-Blackwell. The text
+that appears here has been shortened considerably: several extended quotations that
+appeared in the original version have been omitted, and superfluous passages have been
+eliminated throughout. In addition, a number of references have been updated or added.
+As a result of reformatting, several footnote numbers have changed. The original number
+of each footnote is noted in [square brackets].
+
+=== p. 117 ===
+
+1. Introduction
+
+It is a commonplace that contemplation of an imaginary particular may have
+cognitive and motivational effects that differ from those evoked by an abstract
+description of an otherwise similar state of affairs.1 In his Treatise on Human
+Nature, Hume (1739/1978) writes forcefully of this. He speaks of “a noted
+passage in the history of Greece” where Themistocles tells the Athenians that
+he is prepared to carry out a military action that will benefit them enormously,
+but whose details must remain secret for the plan to be effective. The Athenians
+ask Themistocles to describe his plan to the highly trusted Aristedes, who will
+report back to the assembled citizens about its advisability.
+   After learning of the plan—which was to set fire to the assembled fleets of all
+their enemies—Aristedes reports to the Athenians “that nothing cou’d be more
+advantageous than the design of Themistocles but at the same time that nothing cou’d be more unjust.” The response of the Athenians is to reject the project
+unanimously (Treatise II. iii. 6. 3).
+   Hume reports that this anecdote produced great consternation among some
+of his contemporaries, including French historian Charles Rollin, who expressed astonishment that the Athenians would reject such an advantageous
+strategy merely because it was unjust. But Hume is unimpressed. He writes:
+
+For my part I see nothing so extraordinary in this proceeding of the Athenians. . . . [T]ho’
+in the present case the advantage was immediate to the Athenians, yet as it was known
+only under the general notion of advantage, without being conceiv’d by any particular
+idea, it must have had a less considerable influence on their imaginations, and have been
+a less violent temptation, than if they had been acquainted with all its circumstances:
+Otherwise ’tis difficult to conceive, that a whole people, unjust and violent as men
+commonly are, shou’d so unanimously have adher’d to justice, and rejected any considerable advantage. (Treatise II. iii. 6. 4)
+
+Hume’s diagnosis has a straightforward corollary. When two options are presented abstractly, the choice made between them may go one way; presented
+under some “particular idea” that “influence[s]” the “imagination,” the choice
+made between them may go the other. Engagement of the cognitive mechanisms associated with vivid imagining may lead a subject to reverse a prior
+commitment, selecting as preferable the option previously rejected, and shunning the option previously embraced.
+  Many philosophical thought experiments, I will suggest, exploit exactly the
+discrepancy that led to Rollin’s perplexity and Hume’s insight. In the remainder
+of this essay, I will explore three corollaries of this central suggestion. First, that
+
+  1
+    [Note added in 2009: In the original version of this essay, an extended quotation from Hume
+appears at this point. The full quotation can be found in this volume in }4 of “Alief and Belief”
+(Ch. 13 p. 280).]
+
+=== p. 118 ===
+
+by presenting content in a suitably concrete or abstract way, these thought
+experiments recruit representational schemas that were otherwise inactive,
+thereby evoking responses that may run counter to those evoked by alternative
+presentations of relevantly similar content. Second, that exactly because they
+recruit heretofore uninvolved processing mechanisms, such thought experiments can be expected to produce responses to the target material that remain
+in disequilibrium with responses to the same material under alternative presentations, so that a true sense of cognitive equilibrium will, in many cases,
+prove elusive. And finally, that when these thought experiments succeed as
+devices of persuasion, it is because the evoked response becomes dominant, so
+that the subject comes (either reflectively or unreflectively) to represent relevant non-thought-experimental content in light of the thought-experimental
+conclusion. In each case, I will present some recent results from psychology and
+related disciplines that support the interpretation I am advancing.
+
+2. Cognitive Underpinnings
+
+Nearly a century of empirical investigation has confirmed the extent to which
+tasks with the same formal structure but different contents may prompt different rates of success, presumably because the alternative framings activate different processing mechanisms. These cases provide a useful foil to the
+philosophical examples to be discussed in the remainder of the essay, since it
+is straightforward to isolate their formal from their contentful properties, and
+straightforward to ascertain what a correct response amounts to. In this section,
+I will review some of the literature that has been taken by psychologists to
+establish this claim decisively. The survey is intended to be suggestive, not
+comprehensive, and for those even moderately familiar with the literature,
+there is unlikely to be anything of novelty. Its main purpose is to make vivid
+to those unfamiliar with this research program some of the striking ways that
+content effects can enable or inhibit reasoning skill.
+   Though tacit recognition of such effects goes back millennia (see }4 for a
+3,000-year-old example) and explicit recognition goes back at least centuries
+(see the passage from Hume above), modern study of the phenomenon can be
+dated to the work by E. L. Thorndike and his students in the third decade of the
+last century. In 1922, Thorndike published an article entitled “The effect of
+Changed Data on Reasoning” in which he described a series of studies that
+involved presenting students with familiar algebra problems. Across subjects,
+the structures of the problems were held constant; the only differences were in
+the embedded symbols. So, for instance, one group confronted equations
+whose variables were indicated by x and y, while those in the second group
+faced structurally identical equations whose variables were indicated by b1 and
+b2. The results of these small changes were dramatic; error rates in tasks
+
+=== p. 119 ===
+
+presented with complicated symbols were up to five times greater than in those
+with simple symbols (Thorndike 1922: 36).2
+   Six years later, his student Minna Cheves Wilkins undertook a dissertation-length study that presented subjects with a range of syllogistic tasks, asking
+them to judge whether certain conclusions followed from certain pairs of
+premises. Some involved terms that were “familiar and concrete” (“Some of
+the girls in the chorus wear their hair braided; all the girls in the chorus wear
+their hair bobbed; therefore . . .”); others involved symbols (“All x’s are z’s; all x’s
+are y’s; therefore . . .”). Yet others involved complicated nonsense terms (“No
+juritobians are cantabilians; no cantixianti are cantabilians; therefore . . .”) or
+terms for which the subjects had antecedent views about their relations (“If
+New York is to the right of Detroit; and Chicago is to the left of New York;
+then . . .”). Across subjects, results were quite consistent:3 “Most items increase
+in difficulty as the material is changed from familiar to symbolic, etc., but a few
+items representing very common fallacies are much less difficult in symbolic
+material than in familiar” (Wilkins 1928: 52–77).
+   In the eight decades following Wilkins’s and Thorndike’s pioneering work,
+much has been learned about which sorts of embeddings tend to facilitate or
+impede reasoning. Though the nuances are many, Wilkins’s fundamental observation—that subjects’ tendency to reason validly is typically improved when
+materials are presented with familiar content, though there are also cases where
+familiar content may interfere with their ability to identify valid structures—
+has been borne out. In particular, in cases where subjects are asked to attend to
+formal properties alone, the presence of certain sorts of content seems to
+enhance or inhibit their ability to draw appropriate conclusions on the basis
+of structural features.
+   Much of the research demonstrating these sorts of interference effects has
+made great use of two well-known paradigms: syllogism tasks (described in this
+paragraph) and Wason selection tasks (described below). In the first, subjects are
+presented with a set of premises, and asked to determine whether a particular
+conclusion follows logically from them. Stimuli vary along two dimensions:
+
+  2
+     [1, modified ] Thorndike’s conclusion was sweeping. He maintained that “any disturbance
+whatsoever in the concrete particulars reasoned with will interfere somewhat with the
+reasoning, making it less correct or slower or both” (Thorndike 1922: 33). Thorndike
+explained these results in strictly associationist terms: he held that “the mind is ruled by
+habit throughout” with reasoning being no more than “the organization and cooperation of
+habits” (Thorndike 1922: 33). Though the heirs of this research program have tended to reject
+Thorndike’s explanation of the mechanisms, the phenomenon he identified has withstood the
+test of time.
+  3
+     [2, modified ] Wilkins was careful to note that there were individual differences among her
+subjects: some provided correct answers in (nearly) all cases. (She did not measure reaction
+time.) In recent years, these differences have been explored in detail in by Keith Stanovich and
+Richard West (see e.g. Stanovich and West 2000 [added 2009: Stanovich and West 2008]; cf. also
+Epstein et al. 1996).
+
+=== p. 120 ===
+
+some of the reasoning patterns are valid whereas others are invalid; and some of
+the conclusions are independently plausible whereas others are independently
+implausible. Presented with such stimuli, subjects consistently exhibit belief-bias: structurally identical valid inferences are far less likely to be judged valid
+when their conclusions are implausible (“some vitamin tablets are not nutritional”) than when their conclusions are plausible (“some highly trained dogs
+are not police dogs”); structurally identical invalid inferences are far less likely
+to be judged invalid when their conclusions are plausible than when their
+conclusions are implausible. (Cf. Evans et al. 1983, reviewed in Evans 2003;
+for suggestive work about the associated functional neuroanatomy, see Goel
+and Dolan 2003; Goel et al. 2000).
+   In the second, the Wason selection task (Wason 1966), subjects are presented
+with four cards and told that each card has an F-type feature (say, a number) on
+one side and a G-type feature (say, a letter) on the other. The subject is then
+presented with a (material) conditional statement that takes the following
+form: “If a card’s F-feature is x, then its G-feature is y” and asked which cards
+she would need to turn over to verify the statement’s truth. The first card shows
+an instance of an F-feature which is x (F/x); the second shows an instance of an
+F-feature which is not x (F/not-x); the third shows an instance of a G-feature
+which is y (G/y); the fourth shows an instance of a G-feature which is not y (G/
+not-y). The appropriate response to such a question is to turn over exactly two
+cards: the first (F/x) card and the fourth (G/not-y) card.
+   Presented with certain abstract versions of the task, subjects tend to perform
+poorly. If, for example, subjects are asked to verify the (material conditional)
+statement: “if there is an A on one side, there is a 3 on the other” for the set of
+cards pictured below, fewer than 10% correctly turn over exactly the “A” and
+the “7”; instead, they typically turn over the “A” and the “3,” or the “A” only.
+
+A                              D                               3                              7
+
+  If the task is altered slightly, however, so that subjects are presented with the
+same set of four cards, but with the instruction “if there is an A on one side,
+there is not a 7 on the other” subjects nearly universally turn over the correct
+pair of cards. This tendency to match response to cue (in the first case the
+consequent mentioned “3,” whereas in the second case, it mentioned “7”)
+goes by the name matching bias.4
+
+   4
+     [4] For an overview of the enormous body of research conducted using this paradigm, see
+Evans 1998 and relevant articles mentioned in its bibliography. For discussion of a process of
+training subjects to inhibit matching bias, along with intriguing data about its possible neural
+underpinnings, see Houdé et al. 2000.
+
+=== p. 121 ===
+
+  Interestingly, certain tasks seem not to induce this sort of matching bias.5 So,
+for example, success rates are extremely high when the sentences to be verified
+resemble this one: “if a person is drinking beer, then the person must be at least
+21 years of age.” In such cases, a vast majority of subjects (correctly) turn over
+the “beer” and the “16” (and not, as would parallel the previous case, the “beer”
+and the “21”) (cf. Griggs and Cox 1982).6
+
+Beer                        Coke                         21 years                         16 years
+
+  Related content-based effects can be found in a wide range of forced-choice
+tasks. In a 1994 study, for example, Veronika Denes-Raj and Seymour Epstein
+presented subjects with pairs of bowls containing varying numbers of red and
+white jelly beans. Subjects were told that they would win $1 for each trial in
+which they drew a red jelly bean, and then given a choice about which of the two
+bowls they would prefer to draw from blindly. The first bowl always contained 1
+red jelly bean and 9 white beans, while the other contained 100 beans total, with
+the proportion of red to white ranging from 9:100 (9 red and 91 white) to 5:100
+(5 red and 95 white). Each bowl was labeled with an index card clearly indicating
+the percentage of red jelly beans that it contained (10%, 9%, 8%, etc.).
+  Despite the presence of the monetary incentive and the explicit information
+about relative likelihood of success, well over half the subjects chose the 9:100
+(9%) and 8:100 (8%) bowls over the 1:10 (10%) bowl and more than a quarter
+chose the 5:100 (5%) bowl over the 1:10 (10%). Overall, more than 80% of
+subjects made at least one non-optimal choice in the five trials each faced.
+
+  5
+     [5] There are at least five features that seem consistently to produce increased speed and
+accuracy in Wason-style tasks: (a) using concrete and meaningful terms in articulating the rule
+and describing the cards; (b) presenting the task as one of determining a rule-violation rather
+than the truth or falsity of a statement; (c) embedding the task within the context of a scenario
+where the subject is given a particular role to play; (d) providing the subject with a rationale or
+justification for the rule; and (e) relating the two rule components in a meaningful way
+(Dominowski 1995: 45).
+  Numerous hypotheses have been offered to explain these patterns of response, among them
+that certain embedded tasks trigger a pragmatic reasoning schema (cf. e.g. Cheng and Holyoak
+1985; Cheng, Holyoak, Nisbett, and Oliver 1986), that they trigger a modular social exchange
+algorithm (cf. e.g. Cosmides 1989; Gigerenzer and Hug 1992) and that different mental models
+are activated by different presentations of conditional content (cf. e.g. Johnson-Laird and
+Byrne 2002). Others have argued on Bayesian grounds that typical reasoning patterns on
+Wason-style tasks are actually rational (cf. e.g. Oaksford and Chater 1994, 1996). None of these
+accounts has been universally accepted, and it seems likely that the full story will turn out to
+be quite complicated.
+  6
+     [6] Interestingly, the effect is reduced in cases where the pairing is judged as unlikely: fewer
+subjects turn over the final card if it reads “12 years” and fewer still if it reads “4 years” (Kirby
+1994).
+
+=== p. 122 ===
+
+When asked about their selections, “subjects reported that although they knew
+the probabilities were against them, they felt they had a better chance when
+there were more red beans . . . They made statements such as, ‘I picked the ones
+with more red jelly beans because it looked like there were more ways to get a
+winner, even though I knew there were also more whites, and that the percents
+were against me’ ”7 (Denes-Raj and Epstein 1994: 819, 823).
+  The literature on heuristics and biases is replete with such examples.8 Readers
+are presumably familiar with many of Daniel Kahneman and Amos Tversky’s
+famous cases. In the Linda-the-bank-teller case, for example, subjects are presented with a description of an imaginary character, Linda, that reads as follows:
+
+  Linda is 31 years old, single, outspoken and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and
+  social justice, and also participated in anti-nuclear demonstrations (Tversky and
+  Kahneman 1983: 297).
+
+Subjects are then presented with a set of eight statements about Linda, and are
+asked to rank them in order of likelihood. Among the statements are the following:
+
+  Linda is a bank Teller. (T)
+  Linda is a bank Teller and is active in the Feminist movement. (TþF)
+
+Even when subjects are highly educated, even when they are graduate students
+in a decision science program, even when they are asked to bet money on their
+choice, even when they are explicitly reminded that “bank teller” does not
+mean “mere bank teller,” even when the logical relations between the two
+statements are made transparent—even in all these cases, there is a striking
+tendency for subjects to choose TþF (Teller and Feminist) as more probable
+than T (Teller) (Crandall and Greenfield 1986; Epstein et al. 1999; cf. Tversky
+and Kahneman 1983). As Stephen Jay Gould remarks in his own reminiscence
+about encountering the case: “I know that [TþF] is least probable, yet a little
+homunculus in my head continues to jump up and down, shouting at me—‘but
+she can’t just be a bank teller; read the description’” (Gould 1991: 469).
+   The same goes for each of the cases discussed above. Even subjects who
+regularly provide correct answers to abstract match-violating Wason tasks are
+consistently faster (and consistently more accurate under conditions of cognitive load) at solving suitably matched or embedded tasks. Likewise in the case of
+
+  7
+    [Note added in 2009: I would now diagnose this as a case where the subject believes that she
+has a better chance of picking a red bean if she goes for the 1:10 plate, but she has an alief with
+the content “lots of red stuff over there in the 8:100 bowl; red means win-a-prize; choose the
+bowl with all the nice red things in it.” For further discussion, see Gendler 2008a, 2008b; Chs.
+13 and 14 below.]
+  8
+    [7] Three classic collections are Gilovich et al. 2002; Kahneman et al. 1982; and Kahneman
+and Tversky 2000.
+
+=== p. 123 ===
+
+belief-matched (as opposed to belief-mismatched) syllogisms, and in tasks like
+Denes-Raj and Epstein’s number/proportion task. Everyone—even those who
+are ultimately able to override (or endorse for the right reasons) the inclination
+that leads to error (or success) in the cases under consideration—feels the pull of
+the competing response.9
+   One promising framework for explaining these patterns of response is the
+family of theories that have come to be known as dual systems accounts.10
+According to such accounts, there are at least two clusters of subsystems
+involved in mental processing—one associative and instinctive, operating rapidly and automatically; the other rule-based and regulated, operating in a
+relatively slow and controlled fashion. Numerous formulations of this distinction have been proposed—diverging in important details that matter a great
+deal for a number of important debates. But for our purposes, their commonalities are more important than their differences.11
+   A typical such account is Steven Sloman’s Two Systems model, according to
+which human reasoning can be usefully thought of as involving both an
+Associative and a Rule-Based System. The Associative System (sometimes called
+“System I”) operates on principles of similarity and contiguity; takes personal
+experience as its source of knowledge; operates on concrete and generic concepts, images, stereotypes, and feature sets; makes use of relations of association
+that serve as soft constraints; exhibits processing that is reproductive but
+
+    9
+      [Note added in 2009: This phenomenon appears to be quite general. Indeed, Adele
+Diamond and Natasha Kirkham have suggested that perhaps “adults do not fully grow out of
+any of the cognitive or perceptual biases of infancy and early childhood” and that although “in
+adults, these biases are surely more subtle,” there is reason to think that using sufficiently
+nuanced measures (such as reaction time, eyetracking, and neuroimaging), “all biases found in
+young children can be found in adults” (Diamond and Kirkham 2005: 296). A number of recent
+studies support this hypothesis. ERP work by Daurignac et al., for example, suggests that “adult
+subjects still must inhibit the length-equals-number heuristic, an automatic visuospatial bias
+from early childhood, to perform analytical processes and succeed in [simple] numerical
+[matching] task[s]” (Daurignac et al. 2006: 734; for related fMRI work, see Leroux et al. 2009).
+And eyetracking and reaction-time work by Epley, Morewedge, and Keyser suggests that
+“childlike egocentrism”—the failure to recognize that another’s perspective may differ from
+one’s own—“isn’t outgrown so much as it is overcome each time a person attempts to adopt
+another’s perspective” (Epley et al. 2004: 765).]
+   10
+      [Note added in 2009: My encounter with this literature—beginning with my exposure to
+the work of Kahneman and Tversky in 1991, and continuing for the subsequent two decades—
+has profoundly influenced my thought about nearly all of the issues addressed in this volume.
+In particular, it underpins my views about the role of concrete cases in philosophical reasoning,
+particularly the role of thought experiments (Chs. 1–6), and it lies at the core of my more recent
+work on alief (Chs. 13 and 14).]
+   11
+      [8] For additional representative discussions, see the essays collected in Chaiken and Trope
+1999; as well as Evans 2003, 2008; Evans and Over 1996; Gigerenzer and Regier 1996; Hinton
+1990; Smolensky 1988; Stanovich 1999; Stanovich and West 2000. For intriguing early
+discussions, see James 1890/1950; Piaget 1929; Neisser 1963. [Added in 2009: For a more
+recent collection of discussions, see Evans and Frankish 2009, which includes a helpful
+introductory chapter that provides historical context for contemporary work on dual
+processing.]
+
+=== p. 124 ===
+
+capable of similarity-based generalization; uses overall feature computation and
+constraint satisfaction; is automatic; and is exemplified by functions such as
+intuition, fantasy, creativity, imagination, visual recognition, and associative
+memory. By contrast, the Rule-Based System (sometimes called “System II”)
+operates on principles of symbol manipulation; takes language, culture, and
+formal systems as its sources of knowledge; operates on concrete, generic, and
+abstract concepts, abstracted features, and compositional symbols; makes use of
+causal, logical, and hierarchical relations that serve as hard constraints; exhibits
+processing that is productive and systematic; uses abstractions of relevant
+features; is strategic; and is exemplified by functions such as deliberation,
+explanation, formal analysis, verification, ascription of purpose, and strategic
+memory (Sloman 1996: 7).12
+  As Daniel Gilbert points out, however, there is nothing sacred about the
+“dual” in dual processing. He writes:
+the neuroscientist who says that a particular phenomenon is the result of two processes
+usually means to say something unambiguous [about] . . . the activities of two different
+brain regions . . . [but] dry psychologists who champion dual-process models are not
+usually stuck on two. Few would come undone if their models were recast in terms of
+three processes, or four, or even five . . . claims about dual processes in dry psychology are
+not so much claims about how many processes there are, but claims about how many
+processes there aren’t. And the claim is this: There aren’t one. (Gilbert 1999: 3–4)13
+
+   For our purposes, the moral is simply this. Decades of research in cognitive
+psychology have demonstrated that when content is presented in a suitably
+concrete or abstract way, this may result in the activation or fortification of a
+representational schema that was otherwise inactive or subordinate. The result
+of this may be to evoke responses that run counter to those evoked by alternative presentations of relevantly similar content. So, far from being an anomalous or idiosyncratic feature of arcane or unusual cases, the discrepancy noted
+in our opening story is—in fact—a central feature of our mental lives.
+
+3. Thought Experiments and Elusive Equilibrium
+
+So far, we have been considering cases where it is clear what the right answer is,
+and where (at least in some cases) we have a fairly systematic understanding of
+the sorts of factors that lead subjects astray. When subjects turn over the A and
+the 3 in the A–D–3–7 task described above, they make a mistake; when they
+
+   12
+      [Note added in 2009 (with some text taken from the original 2007 paper): There are
+numerous other accounts as well. One that has been particularly influential for my own work
+is that of Seymour Epstein; cf. Denes-Raj and Epstein 1994; Epstein 1990.]
+   13
+      [Note added in 2009: Indeed, Keith Stanovich has recently suggested a tripartite theory; cf.
+Stanovich 2009.]
+
+=== p. 125 ===
+
+turn over the A and the 7, they do not. When the sentence to be confirmed is:
+“if there is an A on one side, there is a 3 on the other,” even subjects who
+ultimately respond correctly are somewhat drawn to the card with the 3; when
+the sentence to be confirmed is: “if there is an A on one side, there is not a 7 on
+the other,” even subjects who face persistent difficulties with the A–3 formulation are easily able to turn over the correct cards. Likewise with the syllogism
+tasks: When subjects conclude that an invalid inference with a true conclusion
+is valid, they err—and when they err, it tends to be because an independent
+judgment about the truth or falsity of the conclusion interferes with their
+judgment concerning the inference’s validity. Like optical illusions, these cognitive illusions seem to be artifacts of deep features of our cognitive architecture: the “little homunculus in [our] head” will continue to “jump up and
+down,” whether or not we can train ourselves to discount its cries when non-homuncular reasoning is called for. Just as we cannot simply talk ourselves out
+of seeing Müller-Lyer lines as different in length, we cannot simply talk ourselves out of feeling drawn towards turning over the 3.14
+   What implications does this have for philosophical methodology? It seems to
+me that the implications are both liberating and disturbing—and that these are
+two sides of the same coin. For if something akin to dual processing lies at the
+root of most human reasoning, then a philosophical theory may be correct
+even if we consistently and resiliently react to specific cases in ways that run
+counter to the theory’s predictions. But this introduction of an additional
+degree of freedom into the enterprise of philosophical explanation may introduce a feeling of vertigo.15
+   Recent neuroimaging work on moral reasoning has brought this challenge to
+the fore in the context of the “trolley problem” (Thomson 1985). According to
+these accounts, contemplating the original trolley case16 appears to produce
+increased neural activity in what are sometimes referred to as the “higher
+
+   14
+      [9] Habits of attention may mitigate the effects somewhat; one can learn to approach
+questions of validity by automatically mentally substituting content-neutral expressions for
+content-distracting ones. I discuss this in more detail in the context of philosophical thought
+experiments in }4 below.
+   15
+      [10, abbreviated ] For a related discussion of these matters that comes to somewhat similar
+conclusions, see Sunstein 2005. [Added in 2009: See also Sinnott-Armstrong 2008a, 2008c.]
+   16
+      [In main text in published version] The classic presentation of the case (which Thomson
+attributes to Philippa Foot) can be found in Thomson 1985: “Suppose you are the driver of a
+trolley. The trolley rounds a bend, and there come into view ahead five track workmen, who
+have been repairing the track. The track goes through a bit of a valley at that point, and the sides
+are steep, so you must stop the trolley if you are to avoid running the five men down. You step
+on the brakes, but alas they don’t work. Now you suddenly see a spur of track leading off to the
+right. You can turn the trolley onto it, and thus save the five men on the straight track ahead.
+Unfortunately, Mrs. Foot has arranged that there is one track workman on that spur of track. He
+can no more get off the track in time than the five can, so you will kill him if you turn the trolley
+onto him. Is it morally permissible for you to turn the trolley?— Everyone to whom I have put
+this hypothetical case says, Yes, it is” (Thomson 1985: 1395).
+
+=== p. 126 ===
+
+cognitive” regions of the brain, contemplating cases such as “fat man”17 (where
+the imagined action is “up close and personal”) appears to produce increased
+neural activity in “emotional/social” regions (cf. Greene et al. 2001). Intriguing
+confirmation of this suggestion can be found in subsequent work by Antonio
+Damasio et al. suggesting that subjects with ventromedial prefrontal cortex
+damage (damage associated, among other things, with impaired emotional
+processing) are more than twice as likely as controls to consider it morally
+acceptable to push the fat man (or to suffocate a crying baby in order to save
+a group of people who are hiding) (Koenigs et al. 2007).
+   Of course, all of this is fully compatible with there being a genuine deep
+moral difference between the two acts—deep enough to render the one morally
+mandatory and the other morally prohibited. Nothing that I have said here or
+elsewhere should be taken to deny the possibility that—as Mill writes at the
+beginning of Utilitarianism—“whatever steadiness and consistency our moral
+beliefs have attained has been mainly due to the tacit influence of a standard
+not yet recognized” (Mill 1861/2001: 3).
+   That said, it is worth taking seriously other work that suggests that intuitions
+about such cases may vary along dimensions that are (presumably) morally
+irrelevant. Psychologist David Pizarro, for example, presented subjects with “fat
+man” trolley cases that differed only in the nature of the sacrifice involved: in
+the one case, a man named Chip Ellsworth III could be thrown off a bridge to
+stop a trolley hurtling towards 100 members of the Harlem Jazz Orchestra; in
+the other, a man named Tyrone Peyton could be thrown off to save 100
+members of the New York Philharmonic.18 Politically liberal subjects were
+significantly more likely to consider it morally acceptable to sacrifice Chip to
+save the Harlem Jazz Orchestra than to sacrifice Tyrone to save the New York
+Philharmonic (presumably an overcorrection of an initial instinctively racist
+response) (Uhlmann, Pizarro et al. 2009: 482–3).
+
+  17
+       [In main text in published version] The “fat man” case, again in Thomson’s 1985 version, is as
+follows: “Consider a case—which I shall call Fat Man—in which you are standing on a
+footbridge over the trolley track. You can see a trolley hurtling down the track, out of control.
+You turn around to see where the trolley is headed, and there are five workmen on the track
+where it exits from under the footbridge. What to do? Being an expert on trolleys, you know of
+one certain way to stop an out-of-control trolley: Drop a really heavy weight in its path. But
+where to find one? It just so happens that standing next to you on the footbridge is a fat man, a
+really fat man. He is leaning over the railing, watching the trolley; all you have to do is give him
+a little shove, and over the railing he will go, onto the track in the path of the trolley. Would it
+be permissible for you to do this? Everyone to whom I have put this case says it would not be”
+(Thomson 1985: 1409).
+   18
+       [11] Non-American readers may be helped by learning that the name “Chip Ellsworth III”
+evokes images of a wealthy white man, whereas “Tyrone Peyton” evokes images of a man of
+African descent; likewise, the New York Philharmonic is an elite, largely white and Asian,
+orchestra, whereas the Harlem Jazz Orchestra is associated with the African American
+community.
+
+=== p. 127 ===
+
+   Whether or not there is a moral difference between the original trolley case
+and the fat man case, it seems clear that there is no moral difference between
+sacrificing Tyrone and sacrificing Chip.19 But if our only basis for thinking that
+there is a moral difference between the fat man and original trolley cases is that
+subjects tend to respond differently to them, we should be disturbed to discover
+that parallel differences can be evoked by what seem clearly to be morally
+irrelevant variables.20
+   Even more disturbingly, subjects’ responses to moral dilemmas can be varied
+through deliberate unconscious priming. It is not surprising to learn that when
+presented with otherwise identical scenarios in which American (or Iraqi)
+troops cause anticipated but unintentional collateral damage to Iraqi (or Amer-ican) civilians, politically conservative subjects are significantly more likely to
+judge the American-on-Iraqi damage to be morally acceptable than the other
+way around, whereas politically liberal subjects make precisely the opposite
+judgment. The more surprising result is that these effects can be induced
+regardless of political conviction—simply by prompting subjects to unscramble
+sentences containing terms associated either with patriotism or multiculturalism:21 Subjects primed with patriotic terms tend to assess the scenarios as
+conservatives do, whereas subjects primed with multiculturalist terms respond
+much like liberals22 (Uhlman, Pizarro et al. 2009: 486–9).
+   Nor is there anything special about moral intuitions in this regard. In epistemology, for example, Jonathan Weinberg and colleagues have discovered that
+subjects’ willingness to attribute knowledge in ambiguous cases “increases after
+being presented with a clear case of non-knowledge, and . . . decreases after
+being presented with a clear case of knowledge” (Swain et al. 2008: 138). John
+Hawthorne and I demonstrate related sorts of shiftiness in fake barn cases
+(Gendler and Hawthorne 2005; Ch. 5 above).23 And Joshua Knobe and Shaun
+Nichols have found presentation-dependent differences in judgments of free
+will and moral responsibility depending on whether examples are presented
+abstractly or concretely (Nichols and Knobe 2007).
+
+  19
+     [12] Of course, this judgment is itself grounded in some sort of intuitive reaction. For
+discussion of the unavoidability of appeal to intuition in philosophical reasoning, see Bealer
+1998; Goldman 2007; Pust 2000; Sosa 2007a, 2007b; Williamson 2005.
+  20
+     [13] Admittedly, the differences that Pizarro observes are less extreme than those evoked
+by the original trolley/fat man contrast. (But there are good naturalistic reasons to expect this.)
+  21
+     [14] “Scrambled sentence” tasks—in which subjects are presented with a series of word
+clusters that they are asked to form into sentences (e.g. “flies high the flag” or “very dogs loyal
+are”)—are a standard technique in social psychology for “priming” unconscious associations.
+  22
+     [15] The work of Pizarro cited here is representative of a large research program in
+contemporary psychology exploring the status and source of moral intuition. For
+representative examples, see de Waal 1996; Haidt 2001; Haidt and Joseph 2004; Hauser 2006
+and sources cited therein.
+  23
+     [16] For an overview of the issue of intuitions and epistemology, see Alexander and
+Weinberg 2007; [added 2009: see also J. Nagel 2008, J. Nagel forthcoming].
+
+=== p. 128 ===
+
+   Though specific stories can be told about any given case, the accumulated
+implications can seem dizzying.24 If intuitions cannot serve as a fixed point for
+philosophical theorizing, then much that has been widely taken as philosophical orthodoxy may be up for grabs.25 Of course, careful work regarding particular examples may allow the reclaiming of some aspects of traditional intuition-based methodology.26 But the accumulated evidence reviewed in }}2 and 3
+suggests that at least some of the utility of philosophical thought experiments
+may lie in another direction. It is to this issue that I turn in the final section.
+
+4. Thought Experiments as Devices of Framing and Persuasion
+
+A common insight lies at the heart of both Kantian and utilitarian moral theorizing: that to reason in accord with the dictates of morality is to view oneself as
+unexceptional. Immanuel Kant’s Categorical Imperative requires that “I should
+never act except in such a way that I can also will that my maxim should become a
+universal law” (Kant 1785/1981: 402). That is, morality requires that personal
+desires be filtered through a universalizing lens: my own desires may serve as bases
+for willed action only if I can at the same time coherently will that others in similar
+circumstances would act in the way that I am choosing to act. Despite important
+differences between the views, a similar core insight lies at the heart of Jeremy
+Bentham’s famous utilitarian formulation that “everybody [is] to count for one,
+nobody for more than one” (Bentham 1789/1961, cited by Mill 1861/2001: 62).
+
+  24
+      [17] In addition to concerns about intrasubjective variation, there are also grounds for
+unease about intersubjective variation. Widely touted work by Jonathan Weinberg, Stephen
+Stich, and Shaun Nichols seems to suggest that there are important cultural differences in how
+college-aged subjects respond to some of the central examples in the epistemological literature
+(Weinberg, Nichols, and Stich 2001). Similar worries are raised in an intracultural context by
+Robert Cummins, who notes: “It is commonplace for researchers in the current Theory of
+Content to proceed as if [Twin Earth] intuitions were undisputed . . . Nor is the reason for this
+practice far to seek. The Putnamian . . . take on these cases is widely enough shared to allow for a
+range of thriving intramural sports among believers. Those who do not share the intuitions are
+simply not invited to the games . . . [I]t is all too easy for insiders to suppose that dissenters just
+do not understand the case. If we are honest with ourselves, I think we will have to confront the
+fact that selection effects . . . are likely to be pretty widespread in contemporary philosophy”
+(Cummins 1998).
+  25
+      [In main text in published version] On the basis of related considerations, for example, Brian
+Weatherson writes: “Intuitively, Gettier cases are instances of justified true beliefs that are not
+cases of knowledge. Should we therefore conclude that knowledge is not justified true belief?
+Only if we have reason to trust intuition here. But intuitions are unreliable in a wide range of
+cases. And it can be argued that Gettier intuitions have a greater resemblance to unreliable
+intuitions than to reliable intuitions. What’s distinctive about the faulty intuitions, I argue, is
+that respecting them would mean abandoning a simple, systematic and largely successful
+theory in favour of a complicated, disjunctive and idiosyncratic theory. So maybe respecting
+the Gettier intuitions was the wrong reaction, we should instead have been explaining why we
+are so easily misled by these kinds of cases” (Weatherson 2003b: 1).
+  26
+      [18] For some reflections on this issue, see Weinberg et al. (MS) and sources cited therein.
+
+=== p. 129 ===
+
+Here, too, one’s own interests may legitimately enter into decision-making only
+insofar as they are weighed equally alongside the interests of others: first-person
+exceptionalism is morally prohibited.
+   For the purposes of discussion in this section, let’s use the term moral stance
+for stances that prohibit first-person exceptionalism. And let’s consider the
+question: How might one make this stance cognitively available to the subject
+at moments of moral decision-making?
+   In answering this question, it is worth reminding ourselves that among the
+most resilient of our cognitive tendencies is exactly the tendency to hold
+ourselves to different standards than those to which we hold others. So, for
+example, as Emily Pronin notes in a review article, summarizing a wide range of
+recent work, study after study has shown that “people overestimate the extent
+to which they personally are influenced by ‘objective’ concerns and/or overestimate the extent to which others are influenced by ‘self-serving’ concerns”
+(Pronin et al. 2004). “They assume that people who work hard at their jobs are
+motivated by external incentives such as money, whereas they claim that they
+personally are motivated by internal incentives” (Pronin 2007: 37–8); they
+consistently overestimate the likelihood that they will act generously or selflessly, while accurately predicting the ungenerosity and selfishness of others
+(whom they most likely turn out to resemble). Repeated studies have shown
+that “people on average tend to think they are more charitable, cooperative,
+considerate, fair, kind, loyal, and sincere than the typical person but less
+belligerent, deceitful, gullible, lazy, impolite, mean, and unethical.” The same
+holds for specific predictions of behavior: “people generally think they are more
+likely than their peers to rebel in the Milgram obedience studies, cooperate in a
+prisoner’s dilemma game, distribute collective funds equitably, and give up
+their seat on a crowded bus to a pregnant woman . . . [they] tend to believe
+they will resolve moral dilemmas by selecting the saintly course of action but
+that others will behave more selfishly” (Epley and Dunning 2000). And they
+“tend to see their futures as overly rosy, to see their traits as overly positive, to
+take too much credit for successful outcomes and to disregard evidence that
+threatens their self esteem” (Pronin 2007: 37). It is no exaggeration to say that
+the tendency towards first-person exceptionalism is among the most widespread and pervasive of our tendencies towards bias.
+   This tendency finds powerful voice in the biblical story of David and Bath-sheba (2 Samuel: 11–12).27 David, who is King of Israel, is walking along the
+roof of his palace when he catches sight of an attractive woman—Bathsheba—
+washing herself nearby. Taken by her beauty, he has her brought to the palace,
+where he proceeds to lie with her, though she is married to another man. She
+becomes pregnant, and David arranges to have her husband Uriah sent to fight
+
+  27
+      [19] Thanks to Tim Crane for pointing out to me the philosophical potential of this story
+in a related context.
+
+=== p. 130 ===
+
+“in the forefront of the hottest battle . . . that he may be smitten and die.” Uriah
+is killed, and David proceeds to take Bathsheba as his wife.
+   God is (understandably enough) rather displeased by David’s behavior, and
+seeks to help him see the ways in which it is problematic. But God recognizes
+the deep human tendency towards first-person exceptionalism, and seeks a way
+to speak to David that will circumvent this tendency. So “the Lord sent Nathan
+unto David,” and Nathan proceeds to tell David the following story:
+There were two men in one city; the one rich, and the other poor. The rich man had
+exceeding many flocks and herds: But the poor man had nothing, save one little ewe
+lamb, which . . . grew up together with him, and . . . was unto him as a daughter. And there
+came a traveler unto the rich man, and he spared to take of his own flock . . . but took the
+poor man’s lamb, and dressed it for the man that was come to him.
+
+When David hears this story, his “anger [is] greatly kindled against the man.”
+He holds the man to be deserving of disapprobation and punishment, and says
+to Nathan: “As the Lord liveth, the man that hath done this thing shall surely
+die. And he shall restore the lamb fourfold, because he did this thing, and
+because he had no pity.”
+   At this point, the circumstances have been set for the delivery of the punchline. Nathan says famously to David:
+Thou art the man . . . thou hast killed Uriah the Hittite with the sword, and hast taken his
+wife to be thy wife, and hast slain him with the sword of the children of Ammon . . .
+
+With a shock of recognition, David reframes his understanding of the circumstances in which he has placed himself, and says to Nathan: “I have sinned
+against the Lord.”
+  By presenting the story in a way that prevents David from exhibiting first-person bias with respect to what turn out to be his own actions, Nathan has
+enabled David to acknowledge a moral commitment that he holds in principle,
+but has failed to apply in this particular case.28 There is no ambiguity here about
+which commitment, on reflection, David endorses: the story he has been told is
+fully effective; it reshapes his cognitive frame, and brings him to view his own
+previous actions in its light.
+  Despite being relatively schematic, the narrative is a vivid one, engaging the
+reader’s imagination as she hears about David’s and Nathan’s actions, and
+David’s imagination as he hears of the behavior of the imaginary rich man
+who slays the poor man’s sheep. Within the domain of philosophy, broadly
+construed, there is a tradition that emphasizes the capacity of the literary form
+to appropriately represent moral complexity, contrasting this with the tradition
+of austere philosophical theorizing. Martha Nussbaum maintains that “there
+
+  28
+     [Note added in 2009: For related discussion of the effects of overcoming first-person
+exceptionalism, see }4.2 of “Self-Deception as Pretense” (2008c; Ch. 8 below).]
+
+=== p. 131 ===
+
+may be some views of the world and how one should live in it . . . that cannot be
+fully and adequately stated in the language of conventional philosophical
+prose . . . but only in a language and in forms themselves more complex, more
+allusive, more attentive to particulars” (Nussbaum 1990: 3). Noting that there
+has been a “predominant tendency in contemporary Anglo-American philosophy . . . to ignore the relation between form and content . . . or . . . [to] treat[ ] style
+as largely decorative—as irrelevant to the stating of content,” she emphasizes
+instead the “importance of taking style seriously in its expressive and statement-making functions” (Nussbaum 1990: 8).
+   While Nussbaum is surely right that the dominant tendency in Western
+philosophical theorizing has been one that holds form and content to be
+isolable in these ways, there is also an important strand—even among the
+most austere of philosophical writers—that explicitly or tacitly acknowledges
+the force that presentational features can play. Even Kant, who held that “worse
+service cannot be rendered morality than that an attempt be made to derive it
+from examples” (Kant 1785/1981: 408), gives some weight to this perspective.
+In the course of the Grounding for the Metaphysics of Morals, he famously formulates the Categorical Imperative in a number of different ways. Though he
+maintains that these “ways of representing the principle of morality are at
+bottom only so many formulas of the very same law,” he remarks that “nevertheless there is a difference in them which is subjectively rather than objectively practical, viz., it is intended to bring an idea of reason closer to intuition (in
+accordance with a certain analogy) and thereby closer to feeling” (Kant 1785/
+1981: 436).
+   Viewed in this light, moral and political philosophy have a secondary task
+that runs alongside the task of ascertaining what morality demands, namely,
+that of providing the reader with resources that enable her to make the perspective shift that the moral stance requires at the moment of moral decision-making. In this regard, one of the tasks of such philosophical inquiry is to
+identify images that can play the role that Nathan’s story did with respect to
+David: images that will bring the reader to reframe her experience of some
+morally valenced situation, in such a way that her apprehension of the morally
+relevant features of it are re-experienced in light of the scenario presented. It is
+this role, I want to suggest, that is played by some of the most famous thought
+experiments in moral and political theorizing.
+   Take, for example, one of the most widely discussed aspects of John Rawls’s
+enormously influential A Theory of Justice—his “device of representation” for
+thinking about the principles that would govern the basic structure of a just
+society. In the first chapter of the book, he introduces the famous example of
+the “original position”—a “purely hypothetical” situation where “no one
+knows his place in society, his class position or social status, nor does any one
+know his fortune in the distribution of natural assets and abilities, his intelligence, strength and the like.” From behind this “veil of ignorance,” principles
+
+=== p. 132 ===
+
+are chosen that will regulate “the kinds of social cooperation that can be
+entered into and the forms of government that can be established.” The principles governing a just society will be those that “free and rational persons
+concerned to further their own interests would accept in [such] an initial
+position of equality as defining the terms of their association” (Rawls 1971/
+1999: }3).29
+   My suggestion is that, to the extent that Rawls’s “device of representation” is
+effective, it is because it plays the same role as Nathan’s story of the rich man
+and the sheep: it provides the subject with a powerful frame through which the
+target material—decisions about the appropriate structure for resource-distribution in society—can be reconceptualized. It seeks to make the moral stance
+cognitively available at a moment of moral decision-making. Much like some of
+the framings discussed in }2 above, it directs the attention towards (what Rawls
+holds to be) morally relevant aspects of the decision-making situation, and
+away from those that are (held to be) morally irrelevant.
+   With these examples in place, it is time to return to the themes of the
+opening section. What I have suggested is that by presenting content in a
+suitably concrete or abstract way, thought experiments may recruit representational schemas that were previously inactive. As a result, they may evoke
+responses that run counter to those evoked by alternative presentations of
+relevantly similar content. But exactly because of this, these responses may
+well remain in disequilibrium with responses evoked in alternative ways. When
+thought experiments succeed as devices of persuasion, it is because the evoked
+response becomes dominant, so that the subject comes (either reflectively or
+unreflectively) to represent relevant non-thought-experimental content in
+light of the thought-experimental conclusion.30
+
+  29
+     [Note added in 2009: For a similar example, discussed in some detail in the original (2007)
+version of this essay, see Anderson 2006. The 2007 version of the essay also includes a brief
+discussion of Judith Jarvis Thomson’s violinist example (Thomson 1971).]
+  30
+     [20] Acknowledgements: For comments on talks that served as distant predecessors to this
+essay, I am grateful to audiences at the Conference on Intuitions, Fribourg, Switzerland (2004);
+Bergen Community College (2005); Union College (2005); Cornell University (2006); the
+University of North Carolina at Chapel Hill (2006); and the CUNY Graduate Center (2006).
+For comments on a more recent incarnation, I am grateful to an audience at the University of
+Toronto Workshop on Thought Experiments (2007), organized by James Robert Brown. For
+comments on previous written versions of this essay, I thank Carolyn Caine and Zoltán Gendler
+Szabó. [Added in 2009: For suggestions concerning the most recent abbreviated draft, I am
+grateful to Aaron Norby.]
+

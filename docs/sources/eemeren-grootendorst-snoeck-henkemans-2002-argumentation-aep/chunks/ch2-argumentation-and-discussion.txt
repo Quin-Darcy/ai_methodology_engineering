@@ -1,0 +1,481 @@
+=== chunk: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch2-argumentation-and-discussion ===
+title: Argumentation and Discussion
+source_pdf: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.ocr.pdf
+pdf_pages: 38-51
+page_scheme: book
+plan_page_start: 23
+plan_page_end: 36
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 23 ===
+
+                  Argumentation
+                  and Discussion
+
+                                    &
+
+ESSENTIALS
+
+           critical discussion is an ideal of argumentative discourse aimed
+           at resolving a difference of opinion by determining whether the
+           standpoints at issue ought to be accepted or not. A critical discussion proceeds through four stages: the confrontation, opening, argumentation, and concluding stages. In practice, argumentative discourse
+corresponds only partly with this ideal model and it may also be the case that
+only one of the parties expresses its view, so that the discussion remains implicit. An analysis of arqumentative discourse must examine to what extent
+the discourse can be reconstructed as a critical discussion.
+
+2.1   RESOLVING A DIFFERENCE OF OPINION
+
+A difference of opinion is said to be resolved as soon as one of the two
+parties revise their original position. If the difference of opinionis an
+elementary one, resolution is reached when the doubting party abandons his or her doubts, or when the other party retreats from his or
+her standpoint:
+
+=== p. 24 ===
+
+         At first   Iwasn’t sure whether I agreed with you, but I have to
+         admit you are right.
+         Now that I've heard all of your reservations, I've come to
+         think my standpoint isn’t so strong after all.
+
+     The end of active disagreement does not necessarily mean that
+the difference of opinion has truly been resolved. It is important to
+distinguish between resolving a difference of opinion and merely
+settling it. Settling a disagreement means that it is simply set aside.
+This can be achieved in an uncivilized manner by intimidating or
+forcing the other party into submission. A civilized, but arbitrary,
+way of settling a disagreement is to lay the matter before a third
+party who serves as judge and decides who is right. Another civilized way of settling a disagreement is to decide the winner by
+drawing lots. Still another way is to put the matter to a vote and let
+the majority decide:
+
+         During the health care debate, the Italian Prime Minister got
+         his way by forcing the issue to a vote, which the socialist
+         party lost. Clearly, however, not all of the socialist members
+         of the Cabinet are convinced of the desirability of the new
+         policy measures.
+
+     In such cases, the difference of opinion has not really been resolved. True resolution is reached only if both parties come to hold
+the same position on the grounds of rational argumentation. Either
+both parties adopt the same standpoint (positive or negative) or else
+both parties begin to question the standpoint.
+
+2.2     A MODEL OF A CRITICAL DISCUSSION
+
+To be able to deal with a difference of opinion in a rational way, there
+needs to be an argumentative discussion. This is a discussion in which
+argumentation is used to try to determine to what extent a given
+standpoint is defensible. The purpose of an argumentative discussion is different from that of an informative discussion, which serves
+primarily to convey information.
+     In real-life discussions, informative and argumentative elements
+are often combined. Once the participants realize that their viewpoints differ, it is usually not long before they decide to attempt to
+find out which view is the most tenable, and this, in turn, requires a
+thorough knowledge of each other’s viewpoints. When the discus-
+
+=== p. 25 ===
+
+sionis not simply aimed at informing someone about something, it is
+best to view it as an argumentative discussion.
+  Ideally, an argumentative discussion is a critical discussion aimed
+at resolving a difference of opinion. A critical discussion takes place
+between a party who defends a certain (positive or negative) standpoint, the protagonist, and a party who challenges this standpoint, the
+antagonist. Only when an antagonist counters the standpoint of the
+protagonist with an opposing standpoint is this antagonist also the
+protagonist of a standpoint. During the discussion, protagonists try
+to convince antagonists of the acceptability of their standpoints,
+while the antagonists keep raising doubts or objections.
+  A critical discussion aimed at resolving a difference of opinion
+proceeds through four stages, which are distinguished analytically
+in the following model:
+
+  1.   In the confrontation stage the parties establish that they have a
+       difference of opinion. In a nonmixed difference of opinion, this
+       simply means that one party’s standpoint is not immediately
+       accepted by the other party, but is met with doubt or criticism.
+       In a mixed difference of opinion, the other party advances the
+       opposite standpoint.
+  2.   Intheopening stage the parties decide to try toresolve the difference of opinion. They assign the roles of protagonist and antagonist (in a mixed difference, there are two protagonists and two
+       antagonists). They also agree on the rules for the discussion
+       and on the starting points.
+  3.   In the argqumentation stage the protagonist defends his or her
+       standpoint against the sometimes persistent criticism of the
+       antagonist by putting forward arguments to counter the antagonist’s objections or to remove the antagonist’s doubts.
+  4.   In the concluding stage the parties assess the extent to which
+       the difference of opinion has been resolved and in whose favor. If the protagonist withdraws the standpoint, the difference of opinion is resolved in favor of the antagonist; if the
+       antagonist abandons his or her doubts, it is resolved in favor
+       of the protagonist.
+
+2.3    THE IDEAL MODEL AND ARGUMENTATIVE PRACTICE
+
+Of course an ideal model does not describe reality. And yet, real-life
+argumentative discussions do sometimes approach the model. In an
+
+=== p. 26 ===
+
+article in a Dutch sports magazine, the author’s contribution to the
+discussion comes very close to following the model:
+
+          The Light Athletic Association leadership recently met to discuss
+          the future of athletics. This is undoubtedly a praiseworthy effort.
+          Dick Loman gave an enthusiastic report of this meeting and invited
+          anyone not present to join in the discussion. I am answering his call
+          by expressing my opinion in this article.
+          Part of the discussion concerns whether or not to further
+          centralize the training of athletes. And this is the point I
+          would like to speak to.
+          For years, centralized training has bothered me ... Not
+          because of ... but primarily because ...
+          And so, I repeat: do away with centralized training.
+
+In the italicized introduction, the author announces her status as protagonist. Apart from this announcement, there is no reference to the
+opening stage. The author proceeds with the confrontation by putting
+forward the standpoint that centralized training should be done away
+with. The argumentation stage is complete. (To save space it has not
+been repeated here.) The concluding stage is also explicit, even though
+the author, in giving the conclusion, of course speaks only for herself.
+     Itis quite common for little time to be spent on the opening of a discussion. Discussionrules and other starting points are often taken for
+granted and do not require explicit mention. This is not entirely correct, however. It is precisely the lack of “proper procedure” in a discussion—the lack of explicit rules—that causes many discussions to
+run into difficulty.
+     The conclusion of a discussion is more often explicit, though seldom as explicitly expressed as in the following newspaper column:
+
+          A discussion about the relationship between parliament and
+          public opinion could be fascinating, but not with Polly
+          Toynbee. I hereby declare that I have won the discussion and
+          will now go on to more important matters.
+
+Polly Toynbee, in her reply, seems to have no expectation that the discussion can be concluded with agreement on both sides:
+
+          Letmebe frank: if have a debate with someone, I never have
+          the illusion that my opponent will say at the end: “Polly
+          Toynbee, you are right; I have made a mistake; from now on1
+          shall defend your standpoint.”
+
+=== p. 27 ===
+
+This is taking things too far. And yet, it is highly desirable that both
+parties should reach agreement on the outcome of the discussion.
+Fortunately, many discussions do end in agreement on the outcome,
+or at least come close to it. Note that even in the case of discussions
+decided by voting, it is desirable that both parties reach agreement
+on the outcome:
+
+        It was gratifying that the membership of the party, after thorough consideration, decided unanimously in favor of proposition 102.
+
+  Most argumentative discussions, then, depart considerably from
+the model. The parties often donot go through all four of the discussion stages or not in the same order. Sometimes one party declares
+that the difference of opinion has been decided in its favor before
+the argumentation stage has even been completed. Sometimes, in
+the course of the discussion, the parties realize they have failed to
+clearly identify what exactly they disagree on, so that it becomes
+necessary to go back to the confrontation stage. Elements of the different stages may be missing that are indispensable for the resolution of the difference of opinion. The discussion may also contain a
+great many elements (e.g., expressions of courtesy, jokes, and anecdotes) that, without directly contributing to the resolution, help to
+make the discussion go more smoothly.
+  Such discrepancies between theory and practice do not diminish
+the usefulness of the model. By definition, an ideal differs from reality.
+The idealized model has an important critical function: It can be a tool
+for identifying where a real-life argumentative discussion goes
+wrong. It makes it possible to identify what necessary elements are
+missing or inadequately represented. For example, comparison with
+the model makes it possible to say that, in one instance, the discussion
+fails because the difference of opinion has not been clearly identified,
+whereas in another instance it fails because roles have not been properly assigned or because discussion rules have not been agreed on.
+  The model of a critical discussion is more than a tool for evaluating whether the discussion has proceeded correctly. Itis also anin-strument for analyzing a discussion (whether simple or complex)
+in a constructive manner. In this regard it has a heuristic function:
+Elements that are only implicitly present in the discussion can
+more easily be identified, and the various elements of the discussion can be analyzed in a way that clarifies their role in the resolution process.
+
+=== p. 28 ===
+
+2.4     ARGUMENTATION IN AN IMPLICIT CRITICAL DISCUSSION
+
+Most peopleregard the argumentation stage as the “real” discussion.
+It does in fact largely determine the outcome. Taken together, the arguments used by the protagonist in the argumentation stage to make
+a case are what constitute a discursive text. In other words, a discursive text, or case, is the sum total of all argumentation brought forward to defend a standpoint.
+     In a nonmixed difference of opinion, there is always just one party
+who presents a case, however simple or complex this argument may
+be. The antagonist simply asks questions and does not adopt a standpoint. In a mixed difference of opinion, each party has a standpoint
+that requires defending; therefore, each party presents a case.
+
+      Paula:   It seems to me it’s to my advantage that I have never
+               done anything like this before.
+      Jack:    That’s not an advantage if you ask me.
+      Paula:   Why not?
+      Jack:    You first explain why you think it’s an advantage, and
+               then I'll tell you why I think it’s not.
+      Paula:   Well, as far as I'm concerned, it’s pretty simple: the fact
+               that I have no experience means that I approach it with
+               no preconceived notions. And for a screen test that’s important.
+
+      Jack:    It’snotatall anadvantage to do a screen test with no experience, because you havenoidea whatto do to present
+               yourself in the most favorable light. And that’s really
+               tricky.
+
+During the latter part of this discussion, Paula and Jack each present
+a case for their standpoint. Here their arguments are part of an ex-plicitdiscussion, but more often than notarguments are part of an implicit discussion. Animplicit discussion is one in which only one of the
+parties participates.
+     Even if the other party does not explicitly participate, however,
+this party’s point of view is still taken into account. This may, for instance, become apparent when the protagonist explicitly refers to the
+potential objections of a real or imagined antagonist:
+
+          There’s no other country in the world where women are as
+          well integrated into the army as in Norway—and don’t go
+          bringing up the case of Israel, because in Israel women don't
+
+=== p. 29 ===
+
+       fight in the front lines. Have you ever seen women soldiers in
+       one of those intifadah photos?
+
+  A practical complication is that argumentation sometimes takes
+the form of a monologue and it is hard to recognize any of the elements of a discussion. Even so, a monologue defending a standpoint
+should be viewed as a one-way dialogue. Such monologues are so
+common that people don’t evenrealize that argumentative discourse
+always presumes a discussion or dialogue situation, even though it
+may be implicit. Argumentation always has the aim of convincing
+potential critics, whether or not they are actually present.
+  If the discussion remains implicit, parties putting forward their
+case as a rule need to do more than just present their argumentation.
+They need to incorporate the other stages of the discussion process in
+their case as well, and perhaps point out potential doubts and known
+objections. At the outset they need to establish that a difference of
+opinion exists or threatens to arise (confrontation stage). Next, they
+have to make it clear that they are prepared to resolve the difference
+by following certain rules for argumentative discussions; they may
+briefly mention these rules and any starting points (opening stage).
+Then of course they present their own argumentation, perhaps referring to the views of an opposing party (argumentation stage). Finally,
+they need to assess to what extent the difference of opinion has been
+resolved by their argumentation (concluding stage). This is more or
+less what happens in the following case:
+
+       A lot of people have been saying recently that penalties for
+       criminals should be stiffer. I don’t agree with this and I will
+       explain why. First I will review all the arguments I’ve heard
+       in favor of stiffer penalties and show why they are unsound.
+       [...]
+       I believe I have conclusively shown that stiffer penalties for
+       criminals don’t make any sense. This is a matter on which
+       reasonable people need no longer disagree.
+
+  There are instances in which the antagonist at whom the case is directed is not specified; it may be entirely unclear who the potential
+antagonist might be. But when argumentation is analyzed, we proceed from the assumption that it is an attempt by the speaker to convince someone who does not yet agree with the speaker’s
+standpoint. After all, if everyone already agreed, there would be no
+reason to go to the trouble to argue the case.
+
+=== p. 30 ===
+
+FURTHER READING
+
+In theories of critical discussion, informal as well as formal models have
+been developed. The informal model which constitutes the basis for this
+book can be found in E. H. van Eemeren and R. Grootendorst, Speech
+Acts in Argumentative Discussions, Dordrecht/Berlin: Foris/Walter de
+Gruyter, 1984, and Argumentation, Communication, and Fallacies: A
+Pragma-Dialectical Perspective, Hillsdale, NJ: Lawrence Erlbaum Associates, 1992. Formal models of argumentative discussions aimed at resolving a dispute are studied in “dialogue logic.” See, for instance, E. M.
+Barth and E. C. W. Krabbe, From Axiom to Dialogue: A Philosophical Study
+of Logics and Argumentation, Berlin: Walter de Gruyter, 1982, and D. N.
+Walton and E. C. W. Krabbe, Commitment in Dialogue, Albany, NY: State
+University of New York Press, 1995. In “Disputation by design,” Arqu-mentation, 1998, vol. 12, no. 2, pp. 183-198, S. Jackson discusses the use
+of models of argumentative discussions for localizing problems in discussions on the World Wide Web.
+
+=== p. 31 ===
+
+EXERCISES
+
+  1.   Each of the following passages is part of an argumentative discussion. Indicate to which discussion stage or stages itbelongs.
+       a.   Ithinkitwould be very interesting to see whether I can convince you of the opposite point of view. But you should first
+            let me finish my argument before you respond. And we
+            should not resort to any kind of cheap trick such as constantly quoting important people who share our views.
+       b.   In the end I have to admit that Johnson’s last argument is
+            convincing enough to make me doubt whether the solution
+            I proposed is really so desirable.
+       c.   Prison director: “It is just fashionable nonsense to think that
+            it doesn’t make any difference whether you work in a
+            prison orin a car factory. Itis this strange tension in a prison
+            that appeals to me. In prison, no two days are alike. Say
+            what you like about the people I'm dealing with, but they
+            are never dull or predictable.”
+       d. As a practicing psychotherapist, I found much to disagree
+            with in your article “Child abuse memories.” Your claims
+            aboutthe advantages of hypnosis are wrong. I have seen the
+            process of false memory produced by hypnosis and suggestion.   Iwould notrely onany “memory recovery technique.”
+            To encourage someone to believe they were abused is unlikely to make their lives better. It might even be harmful.
+            The psychotherapist or psychiatristis not an investigator or
+            detective. The psychiatrist is in no position to decide who is
+            telling the truth. This is the opinion of many professional
+            psychotherapists and you should know better.
+       e.   Robert Buderi’s thesis is that the invention and development of radar in the Second World War changed the
+            post-war world. Specifically, Dr. Buderi asserts that many
+            of the devices that govern lives today—computers, microwaves, lasers, rockets, commercial and military activities
+            in space—are a direct result of the concentration of many
+            scientists onradar during the war. The propositionis interesting, but not supported by the miscellaneous collection
+            of chapters in this book, with their heavy bias towards
+            American scientists and technology. In the following I will
+            show why.
+       f.   Letter to the editor:
+            Speak for yourself, Kate Figes, about how motherhood
+
+=== p. 32 ===
+
+         turns intelligent women into fearful, watchful, exhausted,
+         children’s-TV-watching mommy blobs. I was determined
+         to avoid this stuff—and did.
+             When my children were younger, I kept all my childless
+         friends, had some evenings out, read books, took fitness
+         classes, held a demanding job and still had time to spend
+         with the tots. And if you have a reasonable partner, there’s
+         no reason that each of you can’t go away on your own for a
+         few days from time to time. Sure, having children is a big
+         job, but this kind of wallowing in earth-mother self-indulgence makes it even harder for mothers to take full part in
+         the workforce and society; such an article makes childless
+         women and most men regard women as self-absorbed,
+         helpless homebodies who aren’t fit for the mainstream.
+     .   Which parts of the contributions of Andy, Brian and Colin
+         canberegarded as part of (1) the confrontation stage, (2) the
+         opening stage, (3) the argumentation stage, and (4) the concluding stage?
+     .   Which parts of the discussion are not relevant to the resolution of the dispute?
+         A    Andy: Now that I've got you for a moment—have you
+                       got round to thinking about your birthday yet?
+                       Are you having people over or not?
+         B    Brian: 1was thinking of having a party, actually. Not a
+                       badideaitseems tome. Whatdo you think? Why
+                       don’t we get straight down to it and work out
+                       who I'm going to invite—I mean, am I going to
+                       ask Christine or not?
+         C   Andy:     Christine? Of course you'll ask her. You must!
+         D    Brian:   Actually, I don’t think I ought to.
+         (Enter Colin. He joins Andy and Brian.)
+         E    Colin:   What’s new?
+         F    Brian:   Whatdoyoumeannew? Hey, have some coffee.
+         G   Andy:     Hi,Colin. Dropped in attheright momentagain,
+                       didn’t you?
+         H Colin:      This coffee is much too strong again. What were
+                       you talking about?
+         I   Brian:    Whether I ought to ask Christine to my party.
+         J   Colin:    Course you should.
+         K Andy:       You keep out of this Colin. Let Brian decide that
+                       for himself in peace. I'd just like to know, Brian,
+                       exactly why you object to Christine coming.
+
+=== p. 33 ===
+
+                    Colin:   She can come as far as I'm concerned!
+          L         Andy: I'm sure your girlfriend would like to hear that.
+                             But I just happen to be talking to Brian. If you
+                             don’t mind: what'’s the objection of her coming?
+                             It’s your birthday, so you decide.
+          N         Brian: But you're the one who’s so interested in inviting her. I think you should start by telling us why
+                             it’s so important that she should come.
+          O         Andy: I'vetold you, it’s your birthday, so it’s up to you
+                             to say why she isn’t welcome.
+          P         Brian: That’sall very well, butl have the strongimpres-sion that you’ve some reason of your own. So
+                             you’ve got to say why, too.
+          Q         Colin:   Are you two managing to work things out? Just
+                             invite her, will you? Stop going on aboutitall the
+                             time.
+          R         Andy:    Do you want it to be another one of those awful
+                             drags? ... Christine is the nicest woman I've met
+                             in a long time.
+          9]        Brian:   And you wanted me to stay away, did you? I can’t
+                             ask Christine: Michael would come too, the creep!
+                    Andy:    Okay then: exit Christine.
+                    Colin: Figured it out, have we?
+                    Andy: Just give me a beer.
+
+          X s <cH
+                    Brian: Okay, so what are we doing? Asking her?
+                    Andy: No, no I said you were right, didn’t I? Have it
+                             your own way. Don’t bother.
+3.   The adult education center in London offers courses in “conversation and discussion techniques.” In one of these courses, a
+     role play was performed that takes place in the board room of
+     Harrods department store. The following is an excerpt from
+     this role play.
+     a.   Which parts of the contributions to the discussion by the
+          chairman and by Mrs. Hans can be assigned to (1) the confrontation stage, (2) the opening stage, (3) the argumentation stage, and (4) the concluding stage?
+     b.   Explain why the contributions to the discussion by Mrs.
+          Hans in F and S are not part of a critical discussion aimed at
+          resolving a disagreement.
+     c.   Has the main dispute in this discussion been resolved or
+          merely settled?
+          A         Chairman: If everyone is present then I would like to wel-
+
+=== p. 34 ===
+
+                      come everyone to the meeting. I believe the
+                      problem is clear. We have a shortage of personnel and new workers cannot be found.
+                      We have received an offer from an organization for job placement of discharged prisoners that would make ex-prisoners
+                      available to us as employees. Mrs. Foster is
+                      present as an expert to tell us more about
+                      this.   Iwould then like to open up the matter
+                      for discussion.   would also like to mention
+                      that, if at all possible, this meeting ought to
+                      be concluded within twenty minutes.
+     (The explanation by Mrs. Foster follows.)
+     B   Chairman:    If all of thisis clear, then I would like to hear
+                      the opinion of those involved.
+     C   Mrs. Hans: Well, in my view it is sheer madness to employ a bunch of discharged prisoners, and
+                      that twenty per cent of my staff members
+                      are tobereplaced by criminals. Thave to put
+                      them next to a cash register and they cannot
+                      be trusted, because, in my view, normal
+                      people do not end up in prison; so I think
+                      it’s an absurd idea to employ discharged
+                      prisoners at Harrods. This company has a
+                      good name and you just cannot put these
+                      people there!
+     D   Mr. Jones:   Well, I would very much like to know who
+                      exactly is to come. If these are people who
+                      have committed minor offenses, then
+                      that’s all right. I would rather have someone who has committed a traffic offense
+                      than someone who has stolen something.
+                      Afterall, once a thief, always a thief. That’s
+                      my opinion!
+     E   Mrs. Foster: Now, I understand that Mrs. Hans believes
+                      the entire situation to be rather absurd.
+                      That’s a shame. Statistics show that others—
+                      including the management of Woolworth'’s
+                      —are really quite satisfied with the employment of discharged prisoners. In terms of
+                      percentage, there is no risk whatsoever. The
+                      percentage of repeat offenders is the same as
+
+=== p. 35 ===
+
+                  the percentage of the population that steals
+                  for the first time.
+F   Mrs. Hans:    Well, if that’s the case, then I can’t really say
+                  anything more against it. But I still can’t
+                  agree to it.
+G Mr. Bowers:     I think that they ought to be put to work in
+                  the administrative department; a stolen paper-clip isn’t so bad.
+H    Mr. Jones:   Yes, but the administrative department
+                  contains personal details of staff members.
+                  It is, after all, not so very wise to let thieves
+                  have access to that information.
+I   Myr. Bowers: Well, that’s true.
+]   Mrs. Hans:    It’s simply insane. A bunch of thieves in the
+                  sales department.
+K   Mr. Jones:    But after all, that’s not to say they will all
+                  start stealing again, is it?
+L   Mrs. Hans:    Well, once a thief, always a thief, that’s
+                  what you just said yourself!
+M    Mr. Jones:   You're probably right. Are there any financial guarantees?
+N Mrs. Foster: Yes, indeed there are. Any damage that
+                  might be caused by these discharged prisoners will be compensated for.
+O    Mr. Jones:   Well, in that case, I can’t see any real objections any more. We ought to give these people a chance.
+P Mr. Bowers:     We are notasocial institution, we are a commercial company!
+Q Mrs. Hans:      Exactly! No criminals in my department!
+R   Mr. Jones:    Well, well, what arguments do you have for
+                  the proposition that you can still regard them
+                  as criminals?
+S   Mrs. Hans:    Well, I don’t know. They simply are, that’s all.
+T   Chairman:     Well, it seems to me it’s time to make a decision. Are there still people who have insurmountable objections to the employment of
+                  discharged prisoners in our company?
+U   Mrs. Hans:    Yes, me!
+V    Chairman:    Good. No one else? Then I think we are decided. Only one vote against. Going on the
+                  statistics, we conclude that it is a responsi-
+
+=== p. 36 ===
+
+                 ble decision to employ these people in the
+                 company. Mrs. Foster, thank you for your
+                 information. Thanks to everyone for taking part in this discussion, and have a safe
+                 trip home.
+

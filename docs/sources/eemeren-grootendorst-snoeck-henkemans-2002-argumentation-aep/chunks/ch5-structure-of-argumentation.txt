@@ -1,0 +1,915 @@
+=== chunk: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch5-structure-of-argumentation ===
+title: The Structure of Argumentation
+source_pdf: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.ocr.pdf
+pdf_pages: 78-105
+page_scheme: book
+plan_page_start: 63
+plan_page_end: 90
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 63 ===
+
+                                    S
+                 The Structure
+               of Argumentation
+
+                                   &
+
+ESSENTIALS
+
+          he simplest arqgumentation consists of just one single argument,
+          but the structure of argumentation can also be much more complex. Multiple argumentation, for instance, consists of more
+than one alternative defense of the same standpoint. And in coordinative
+argumentation, several arguments taken together constitute the defense of
+the standpoint. Another complex argumentation is subordinative argumentation, with arguments supporting arguments. Through the use of indicators, the verbal presentation sometimes provides evidence to the
+analyst as to whether the arqumentation is multiple, coordinative, or subordinative. Quite often, however, there are no such indicators; then it may
+be difficult to tell coordinative and multiple argumentation apart. When
+in doubt, for the sake of reasonableness, the analyst should opt for a maximally argumentative analysis and analyze the argumentation as multiple.
+By relying on a well-considered reconstruction of subordinative argumentation, it is sometimes possible, in a well-defined context, to arrive at a
+more specific formulation of elements that are left unexpressed than would
+otherwise be justified.
+
+=== p. 64 ===
+
+5.1     SINGLE ARGUMENTS
+
+The defense of a standpoint often consists of more than a single argument. Several single arguments can be combined and arranged in a
+number of different ways to form the defense of a standpoint. Argumentation can be evaluated only after it is clear how the arguments
+fit together. And it can only be determined what the structure of the
+argumentation is whenitis understood how complex argumentation
+can be broken down into single arguments.
+     In the simplest case, a defense consists of one single argument, that
+is, an argument that in fully explicit form consists of two and only two
+premises. Usually, one of these is unexpressed, so that the single argument appears to consist of only one premise. A defense consisting of
+only one single argument is very common. The argument is often embedded in a larger discourse that is not primarily argumentative:
+
+          In concluding this review of your accomplishments here over
+          the years, Petrewsky, I would like to congratulate you on behalf of all of us on your 35 years with the company. We hope
+          you will enjoy the rest of the day, together with your wife and
+          children. You have earned a substantial gift, and we are
+          proud to offer you this trip to Hawaii, because you have worked
+          very hard for it. Bon voyage!
+
+When the defense amounts to one single argument, the problem is
+not so much how tobreak it down into components as to identify that
+there is an argument in the first place. The argument has the simplest
+structure possible.
+     Nonetheless, in order to get a more complete picture of the argument, which will be necessary for the evaluation, it may be helpful to
+make explicit the premise that is so often left unexpressed in a single
+argument. This is especially true if the unexpressed premise is pursued later in the discussion. In the example just given, the unexpressed premiseis something like “Hard work should be rewarded.”
+
+5.2     MULTIPLE, COORDINATIVE,
+AND SUBORDINATIVE ARGUMENTATION
+
+The first type of complex argumentation is multiple argumentation. It
+consists of alternative defenses of the same standpoint, presented
+one after another. These defenses donot depend on each other to support the standpoint and are, in principle, of equal weight. Each de-
+
+=== p. 65 ===
+
+fense could theoretically stand alone and is presented as if it were
+sufficient to defend the standpoint:
+
+        You can’t possibly have met my mother in Marks & Spencer’s in
+        Sheringham last week, because Sheringham doesn’t have a Marks
+        & Spencer’s, and as a matter of fact she died two years ago.
+
+  In the second type of complex argumentation, coordinative argumentation, the arguments do not form a series of alternative defenses.
+Coordinative argumentation is one single attempt at defending the
+standpoint that consists of a combination of arguments that must be
+taken together to constitute a conclusive defense. The component
+parts of coordinative argumentation are dependent on each other for
+the defense of the standpoint. They can be dependent on each other
+in several ways. Sometimes they are dependent because each argument by itself is too weak to conclusively support the standpoint:
+
+        The dinner was organized perfectly, for the room was exactly
+        the right size for the number of guests, the arrangement of tables was well thought out, and the service was excellent.
+
+Another way they can be dependent is when a second argument rules
+out possible objections to the first argument, thereby reinforcing it:
+
+        We had no choice but to go out to eat, because there was nothing to eat at home and all the stores were closed.
+
+One possible objection to the first argument, “There was nothing to
+eat at home,” is that food could have been bought at a store. Putting
+forward the second argument, “All the stores were closed,” prevents
+this objection from being raised.
+  Characteristic of the third type of complex argumentation, subordinative argumentation, is that arguments are given for arguments. The
+defense of the initial standpointis made layer after layer, as it were. If
+the supporting argument for the initial standpoint cannot stand on
+its own, then it is supported by another argument, and if that argument needs support, then a further argumentis added, and so on, until the defense seems conclusive. Subordinative argumentation may
+consist of many layers:
+
+        I can’t help you paint your room next week,
+        I have no time next week,
+
+=== p. 66 ===
+
+         I have to study for an exam,
+         otherwise I will lose my scholarship,
+         I'm not making good progress in my studies,
+         I've already been at it for more than five years.
+
+In subordinative argumentation, the speaker anticipates that certain
+parts of the argumentation will need further defense. The part to be
+defended then becomes a substandpoint, which is defended by means
+of subargqumentation. This subargumentation, in turn, can contain a
+subsubstandpoint, which needs to be defended by means of
+subsubargumentation, and so on. Subordinative argumentation can be
+seen as a chain of reasoning where the weakest link determines the
+strength of the whole, regardless of the strength of the other links.
+
+5.3    THE COMPLEXITY OF THE ARGUMENTATION STRUCTURE
+
+Argumentation can be of greater or lesser complexity, depending on
+the number of single arguments it consists of and the relation between
+these arguments. The number of arguments that need to be advanced
+depends, among other things, on the nature of the difference of opinion that the argumentation is intended to resolve. Resolving a multiple difference of opinion naturally requires more than one single
+argument (albeit not necessarily complex argumentation). Each proposition to be defended or refuted requires at least one single argument,
+so if there are several propositions being defended or refuted, then in
+principle several single arguments have to be put forward:
+
+         Although you maynotagree, I thought Dickinson was a good
+         president and Sanford was not, because Sanford was just a
+         skilled bureaucrat, while Dickinson was a really creative politician.
+
+If the difference of opinion is a mixed one, then more than one party
+must present a defense, each of which may consist of a single argument or of more complex argumentation:
+
+      Max:    Sanford was a good president.
+
+=== p. 67 ===
+
+   Ellen:    I entirely disagree.
+   Max:      He managed to push a huge budget cut through Congress and satisfy all objections, while at the same time
+             the whole educational system got reorganized.
+   Ellen:    Allhe did was to carry out other people’sideas in an unimaginative way, without adding a single original idea
+             of his own. He made a mess of secondary school education, not to mention the damage he inflicted on university education—it hardly deserves the name any more.
+
+The complexity of the structure of the argumentation depends on
+what objections it addresses or anticipates. If protagonists meet with
+or anticipate objections to certain parts of their argument, then they
+need to come up with argumentation to defend those parts with still
+more arguments, thereby creating subordinative argumentation:
+
+   Jacobs:   Petrewsky could be let go, because he already has 35
+             years of service and he wouldn’t mind.
+   Peters:   What do you mean, he wouldn’t mind?
+   Jacobs:   Well, for quite a while now he has been talking about
+             wanting to take it easy and this way he will get the
+             chance to do that!
+   Peters:   Butis it really true that he wants to take it easy?
+   Jacobs:   Yes, because he told me so himself.
+
+The criticism or anticipated criticism being countered by argumentation does not always involve the content of the premises (as in the
+Petrewsky example), but may also relate to their justificatory power.
+The antagonist may accept a given premise, but still doubt whether it
+lends sufficient support to the standpoint. To counter such criticism,
+the protagonist may supplement the original argumentation with
+other arguments that directly support the standpoint, thus creating
+coordinative argumentation:
+
+   William: This is a lousy vacation house; there’s not even a corkscrew here.
+   Ellen:     Don’t you think you're exaggerating a bit?
+   William: Yes, but there aren’t any wine glasses either, the chairs
+              aren’t comfortable, and there’s no fireplace.
+
+The antagonist’s responses or anticipated responses may lead the protagonist to put forward not only subordinative or coordinative argu-
+
+=== p. 68 ===
+
+mentation, but also multiple argumentation. Because multiple
+argumentation consists of several alternative defenses of the same
+standpoint, each of which by itself should be sufficient, it might look
+like “overkill.” One reason for giving additional arguments is if the
+protagonist anticipates that one or more of the attempts to defend the
+standpoint might be unsuccessful. If the argumentation is directed toward a large group of people, for instance, their responses may be
+quite diverse. That seems to have been taken into consideration by the
+Society Against Profanity in composing the text for a poster campaign:
+
+          When we designed the poster for train stations, we thought
+          we might need more than just the main slogan: “Missed the
+          train? Don’t swear!” Lots of people might wonder why they
+          shouldn’t swear. In response to this question, we gave three
+          arguments that we thought most people would see something in. Naturally, we don’t expect each of these reasons in itself
+          to be equally convincing to everyone.
+
+     Acceptability is always a matter of degree: people accept things to
+a greater or lesser degree. This is another reason multiple arguments
+are given. The additional arguments may raise the level of acceptance. Too many arguments may of course have the opposite effect:
+
+          I am not seeing her, because I hardly even know her. I'm not
+          attracted to blonde women anyway. Besides, with all the budget cuts at work, I'm way too busy these days for affairs like
+          that. And don’t forget that I still love you very much.
+
+     When all is said and done, the structure of argumentation is determined by the choices of the protagonist. In some cases a protagonist
+may put forward one single argument, while in other cases the protagonist may use a whole series of single arguments. The way in
+which the various single arguments relate to each other and to the
+standpoint is reflected in the argumentation structure.
+
+5.4     REPRESENTING THE ARGUMENTATION STRUCTURE
+SCHEMATICALLY
+
+Complex argumentation can always be broken down into a number
+of single arguments. And that is exactly what happens when the argumentation structure is analyzed. To present the results of the analysis in a clear and concise way, use can be made of the schematic
+overviews in Figures 5.1, 5.2, 5.3, and 5.4.
+
+=== p. 69 ===
+
+                         a         Single argumentation
+
+                      Petrewsky has earned the gift
+
+                             A
+
+               1.1                                         (1.1°)
+  Petrewsky has worked                           (Hard work should be
+            hard for it                                 rewarded)
+
+FIG. 5.1.   Single argumentation.
+
+                     b            Multiple argumentation
+
+                     You can’t possibly have met my
+                      mother at Marks & Spencer’s
+                             in Sheringham last week
+
+                             Vi                     L
+
+                     1.1                                 1.2
+      Sheringham doesn’t have                   My mother died two
+        a Marks & Spencer’s                         years ago
+
+FIG. 5.2.    Multiple argumentation.
+
+=== p. 70 ===
+
+     Asingle argument is first assigned the number of the standpoint to
+whichitrefers (e.g., number 2), followed by anumber of its own (e.g.,
+2.1). An unexpressed premise that has been made explicit is given in
+parentheses and is assigned a number followed by an apostrophe (’)
+(e.g.,2.1"). The two parts constituting the single argument are joined
+by a horizontal line and an ampersand (&), and an arrow links the explicit premise to the standpoint advocated.
+     To show clearly that the arguments that form part of multiple argumentation all support the same standpoint, each argument is assigned the number of the standpoint followed by a number of its
+own: 2.1, 2.2, 2.3, and so on. Each separate argument has an arrow
+leading to the standpoint.
+     To show that the single arguments in coordinative argumentation
+have to be taken together in order to defend the standpoint, they are
+joined together with a brace and there is one single arrow linking the
+whole group to the standpoint. The relatedness of the single arguments
+is emphasized by linking them with horizontal lines and by assigning
+them all the same number, followed by a letter (2.2a, 2.2b, 2.2¢, etc.).
+     Subordinative argumentation is indicated by the use of decimal
+points. An argument that has just one point (2.1 or 2.1a or 2.1") cannot
+yet be called subordinative. Subarguments are indicated by two
+points (2.1.1 or 2.1.1a or 2.1.1"); subsubarguments have three points
+(2.1.1.1), and so on. To emphasize that subordinative argumentation
+
+                      c          Coordinative argumentation
+
+                                 We had to go out to eat
+
+                             |                              |
+                      1.1a                                  1.1b
+           There was nothing to                   All the stores were
+                 eat at home                               closed
+
+     FIG. 5.3.   Coordinative argumentation.
+
+=== p. 71 ===
+
+              d        Subordinative argumentation
+
+                  | can’t help you paint your room
+                               next week
+
+                                    1.1
+                      | have no time next week
+
+                                  1.1.1
+                     | have to study for an exam
+
+                                    i\
+                                 1.1.1.1
+                  Otherwise I'll lose my scholarship
+
+                                    i\
+                               1.1.1.1.1
+                   I’'m not making good progress
+                             in my studies
+
+                               1.1.1.1.1.1
+                    I've already been at it for more
+                            than five years
+
+FIG. 5.4.   Subordinative argumentation.
+
+=== p. 72 ===
+
+consists of a chain of arguments that are dependent on each other,
+they are represented in the schematic overview as a series of “vertically connected” arguments, linked with arrows.
+     Multiplicity, coordination, and subordination can also occur in
+combination, as is illustrated in Figure 5.5.
+
+                         | can’t attend the big peace demonstration
+
+                     7                 1                             N
+                                                           |                     I
+     1.1                       1.2                  1.3a                  1.3b
+     | have                    I’'m going            | don’t entirely || The slogan
+     problems                  to be out of | | agree with the            should be
+     with my feet              the country |         |slogan they         such that
+                               that day              are using            everybody
+                                                                          agrees
+
+                 N                      4                       4
+        I                I
+     1.1.1a      H1.1.1b        2.1                     1.3a.1
+     | spent         | was       My sister              The slogan
+  time in            beaten      in London              is biased
+     a concen-                   is getting
+  tration                        married
+     camp                                                      1‘
+
+                                      1.3a.1.1a                     1.3a.1.1b
+                                      They make it             —1 World peace is
+                                      sound like                    threatened from
+                                      world peace                   many sides
+                                      is being threatened
+                                      from only one side
+
+     FIG. 5.5.   Combinations of various types of complex argumentation.
+
+=== p. 73 ===
+
+5.5   THE PRESENTATION OF COMPLEX ARGUMENTATION
+
+In order to arrive at a reasonable evaluation of argumentation, its
+structure must be carefully identified: Is it single, multiple,
+coordinative, or subordinative, or even more complex?
+  The protagonist almost never explicitly indicates how the argumentation is structured. The following example is an exception to
+this; here the writer makes it immediately clear that the argumentation is not to be viewed as multiple but as coordinative:
+
+          Why is the capital letter larger than the lower-case letter?
+          There are six reasons for this, none of them conclusive in itself.
+
+There are, however, certain words and expressions that may serve as
+indicators of the different types of structure. Indicators of multiple argumentation include needless to say, in fact, apart from, not to mention,
+another reason for this is, one argument
+                                      for this is, in thefirst place, secondly, by the way, incidentally, quite apart from, and aside from. The following arguments use some of these indicators:
+
+      a    Idon’tseehow youcould have expected me to pick you up.
+           In the first place, you have never even told me where you
+           live. In the second place we didn’t make any arrangement.
+           Not to mention the fact that   Twould have had to leave work at
+           least an hour earlier.
+      b    There’s no way to decide whether winning a gold medal is
+           due to talent or to training. Aside from the fact that talentis a
+           very hard concept to define, some champions train a whole
+           lot and others train very little. Quite another argument is that
+           nobody has ever managed to say anything meaningful on
+           this subject. Apart from all this, I would like to point out that
+           the issue is wrongly put.
+
+Indicators of coordinative argumentation include as well as thefact that,
+in addition (to thefact that), on top of that, and don’t forget that, especially
+because, even, plus, not only ... but also, and more importantly.
+  The following samples of argumentation use some of these indicators:
+
+      a    Youshould give me an allowance. In addition to the fact that 1
+           would like to buy lunch in the cafeteria, like all the other
+           kids, it’s a pain to always have to ask you for money for
+
+=== p. 74 ===
+
+           school supplies. And don't forget that Thave to save for entertainment and presents for my friends.
+      b    You’dbebetter off studying English than French. Not only is
+           English more closely related to Dutch than French is, and
+           therefore easier to learn, but you also already know quite a
+           bit. Plus the fact that you hear English a lot more on television, so you know what it should sound like.
+
+In subordinative argumentation, one argument is supported by another one, so that each supporting argument is really the beginning
+of a new round of argumentation. The various arguments that form
+part of subordinative argumentation may therefore be preceded by
+any of the standard indicators of argumentation: because, for that reason, therefore, after all, that is why, since, in view of, and so on. If each of
+the components of subordinative argumentation is marked by one of
+these indicators, the argumentation structure is made much clearer:
+
+          The Youth Center performs an important service for the community. It fills the vital need for a place where young people
+          can stay, because some young people don’t have a home to go
+          to, because their parents don’t want them around, since they
+          refuse to adapt their behavior to what their parents want, because they find it suffocating.
+
+Whereas there are very few indicators that are used exclusively in
+subordinative argumentation, there are certain combinations of general indicators of argumentation that only occur with subordination,
+for example, for because, because because, because in view of. These combinations occur surprisingly often in everyday speech:
+
+      a    I’d better not stay any longer, for because I'm so tired you
+           must find me boring company.
+      b    I think it is cool, because because the color is so bright it is
+           flashing.
+      ¢    Unfortunately you can’tstay overnight at our place. Because
+           in view of the fact that my mother is staying with us, there’s
+           not enough room in the house.
+
+There are certain expressions for rounding off a complex argument
+that tend to be used only with coordinative or subordinative argumentation, for example, I conclude that, this follows from, in conclusion,
+it follows from this that, taking everything into consideration, all things
+considered I believe I am justified in saying that, ergo. These expressions
+
+=== p. 75 ===
+
+are a little too pompous to be used for concluding a single argument,
+and they are not used with multiple argumentation.
+  One point of confusion is that some words—even some very common ones—are used to mark both multiple and coordinative argumentation. Examples include and, also, and also, furthermore, and moreover.
+
+5.6   A MAXIMALLY ARGUMENTATIVE ANALYSIS
+
+Coordinative and multiple argumentation are not always easy to distinguish from each other. Speakers rarely state which type of complex argumentation they are using, and indicators cannot always be
+relied on for clues either.
+  Sometimes the only way to tell whether the argumentation is
+coordinative or multiple is to go by the content of the arguments and
+the standpoint. In the following example, the content of a is clearly
+coordinative and that of b is clearly multiple:
+
+      a    I think we ought to buy this scarf, because it’s nice and
+           warm and we can always exchange it.
+      b    Ofcourse youshould buy thatlaptop.It'snotall that expensive, and it’s OK to be a little extravagant on something you
+           work with every day, don’t you think?
+
+In g, the fact that the scarf can be exchanged is not in itself sufficient
+reason for buying it. Therefore, the two arguments clearly have to be
+taken together. In b, on the other hand, the two not altogether consistent arguments are easily seen to be alternatives, as the second argument obviously takes into account that the first argument (“It’s not
+all that expensive”) might not be accepted.
+  In some instances, itis not at all obvious whether each argument is
+intended as a separate defense of the standpoint or whether the arguments are intended to be conclusive only when taken together, as in
+the following example:
+
+          The book was severely damaged during transport. There are
+          scratches on the cover, and the first five pages are dog-eared.
+
+If one of the single arguments in complex argumentation turns out to
+be unsound, then the consequences for evaluating the argumentation as a whole are quite different depending on whether the structure is coordinative or multiple. In multiple argumentation there is
+more than one line of defense so that if one is undermined, the others
+still stand and may still provide conclusive defense of the stand-
+
+=== p. 76 ===
+
+point. In coordinative argumentation, there is only one line of defense so that if any part of it is eliminated, the whole defense is
+weakened or even destroyed.
+     Because it affects the rest of the analysis, it is important to determine
+as carefully as possible whether the argumentation is coordinative or
+multiple. In doing this, one must consider not only the verbal presentation with possible indicators and any other clues, but also the Communication Principle and the assumption that the speaker is making a
+serious attempt to resolve the difference of opinion.
+     In truly ambiguous cases, where there is just as much reason to
+choose the coordinative as the multiple analysis, it is preferable to
+opt for an analysis as multiple argumentation. This ensures that each
+part of the argumentation is judged on its own merits and that the
+strength of each single argument is duly examined. If each of several
+single arguments by itself is sufficient to defend the standpoint, then
+argumentation consisting of two or more such arguments must be
+unassailable. And if one of these arguments is undermined, it does
+not do irreparable damage to the defense. This approach—choosing
+to analyze the argumentation as multiple in case of ambiguity—is
+called (on the analogy of the strategy of maximally argumentative interpretation) the strategy of maximally arqumentative analysis.
+     Coordinative and multiple argumentation are quite commonly
+found side by side:
+
+            I'm not very satisfied with this book, because the price is way
+            too high. Secondly, it’s in French, whereas a lot more people
+            could read it if it were in English. In the third place, I wasn’t
+            allowed to work on it.
+
+This argumentation has the following structure:
+
+     1       I'm not very satisfied with this book.
+     1.1     The price is way too high.
+     1.2a    It’s a French-language book.
+     1.2b    If it were in English, more people would be able to read it.
+     1.3     I wasn’t allowed to work on it.
+
+5.7        UNEXPRESSED PREMISES AND COMPLEX ARGUMENTATION
+
+As explained in chapter 4, for argumentation that does not have a
+well-defined context, it is preferable when making unexpressed pre-
+
+=== p. 77 ===
+
+mises explicit to assume that for every incomplete single argument
+there is one unexpressed premise. When the context is well-defined,
+it is usually possible to further specify the unexpressed premise. It
+may even turn out that a whole chain of subordinative arguments
+was implied and can now be reconstructed.
+  Suppose that the popular singer Madonna is in a TV ad, surrounded by a group of attractive members of the jet set, and confides
+to the audience the following message:
+
+           You should use Wonder skin lotion. I use it myself!
+
+Clearly, something is unexpressed here. If we knew nothing further
+about the context of these utterances, we could let it go at assuming
+that the unexpressed premise has to be something like “Whatever
+Madonna does you should do too.” But in this particular context we
+can do better. We know that Madonna is appearing in a TV ad and
+that she belongs to the jet set, some members of which we have just
+glimpsed. This background information allows us to come up with a
+more specific (and more complex) formulation of the unexpressed
+premise, leading to the following reconstruction of Madonna’s argumentation:
+
+   1           You should use Wonder skin lotion.
+   1.1         Madonna uses Wonder skin lotion.
+  (1.17)       (Whatever Madonna does, you should do too.)
+  (1.1’.1)     (Madonna belongs to the jet set.)
+  (1.1".1")    (Everything the jet set does, you should imitate.)
+
+“Everything the jet set does, you should imitate” is the unexpressed
+premise that connects the unexpressed premise “Madonna belongs
+to the jet set” with the unexpressed substandpoint “Whatever Ma-donna does, you should do too.” This is indicated by means of the
+two apostrophes () following the numbering of this premise.
+  A person who had forgotten that Madonna belonged to the jet set
+(1.1".1) would be reminded of it by theimages in the TV ad. The TV ad
+provides a well-defined context. Without this context, the formulation of the unexpressed premise as “Whatever Madonna does, you
+should do too” (1.1") would be too free an interpretation. And without supplementing this unexpressed argument with the unexpressed subordinative argumentation needed to support it, the total
+argumentation would be robbed of the justification that this well-defined context provides.
+
+=== p. 78 ===
+
+     In this example, the context is well defined because the TV ad in
+which the argumentation is set provides a clear background and because Madonna is a well-known personality. In other words, the
+clues are found outside the verbal presentation. But in other instances, it may be the verbal presentation (everything that is said)
+that provides clues, in which case we speak of a well-defined verbal
+context. In either case, when analyzing argumentation, all the clues
+in the context should be used. Generally speaking, the better defined
+the context is, the more specific the commitments that can be attributed to the speaker.
+     In this same way, unexpressed standpoints can sometimes be more
+specifically formulated. A variation on Madonna’s example, in the
+same context, will illustrate this:
+
+              I use Wonder skin lotion.
+
+In an analysis of this utterance, the argumentation can be reconstructed as follows:
+
+     (1)            (You should buy Wonder skin lotion.)
+     (1.1)          (You should use Wonder skin lotion.)
+     (1.17)         (In order to use skin lotion you first have to buy it.)
+     1.1.1           Madonna uses Wonder skin lotion.
+     (1.1.17)       (Whatever Madonna does, you should do too.)
+     (1.1.1.1)      (Madonna belongs to the jet set.)
+     (1.1.1".1")    (Everything the jet set does, you should imitate.)
+
+FURTHER READING
+
+For more elaborated treatments of problems concerning the structure of
+argumentation, see F. H. van Eemeren and R. Grootendorst, Arqumenta-tion, Communication, and Fallacies: A Pragma-Dialectical Perspective,
+Hillsdale, NJ: Lawrence Erlbaum Associates, 1992, chapter 7, J. B. Freeman, Dialectics and the Macrostructure of Arquments, Berlin: Foris / Walter
+de Gruyter, 1991, A. F. Snoeck Henkemans, Analysing complex argumentation, Amsterdam: Sic Sat, 1992, and D. Walton, Argument Structure: A
+Pragmatic Theory, Toronto: University of Toronto Press, 1996. An overview of the state of the artin the study of complex argumentation is provided in “Argumentation structures” by A. F. Snoeck Henkemans in F.
+H.van Eemeren (Ed.), Crucial Concepts in Argumentation Theory, Amster-dam: Amsterdam University Press, 2001, chapter 5.
+
+=== p. 79 ===
+
+EXERCISES
+
+  1.   Is the argumentation in the following examples coordinative,
+       subordinative, or multiple?
+       a.   There are two reasons why Dutch drama is practically unknown internationally. In the first place, the subject matter
+            of Dutch playsis not of universal interest, and in the second
+            place, Dutch is not a widely spoken language.
+            I must have made a pathetic impression on him. First I followed him to Central Africa, and after that, [ even accompanied him on a six-month hiking trip.
+            It is a remarkable country. There is no sunlight to speak of;
+            nevertheless, there are 15 million inhabitants.
+            Aunt Agatha thought the house should be condemned. It
+            smelled like rotten fish everywhere and the staircase had
+            collapsed.
+            The team uniform has become a recurring theme in our
+            meetings. In my opinion it is time to stop arguing about the
+            team uniform and do away with it altogether for games we
+            play away. For those matches it doesn’t serve any purpose,
+            since the team members wear numbers anyway.
+ 2.    Identify the structure of the argumentation given for the standpoints in italics in the following texts.
+       a.   The criterion of Boultbee:
+            If the reverse of a statement is absurd, then the original
+            statement is an insult to the intelligence and ought never to
+            have been made. (Standpoint: A statement, the reverse of
+            which is absurd, must not be made.)
+            All the talk you hear about language deficiency is wholly
+            based on social prejudices. In this lecture, I shall defend the
+            proposition that there is no language deficiency in children from
+            the working class, because language deficiency does not exist
+            at all—not in anyone—and it even could not exist, neither
+            here nor anywhere else.
+            He thought that she had acted wrongly: she ought to have admitted that he was right, or ought to have said that she had
+            not understood him.
+            Newspaper article on the murder of Billie—Jo Jenkins:
+            The foster father of Billie-Jo Jenkins was jailed for life last
+            night after being convicted of her “horrendous” murder
+            with an 18-inch tent peg, on what the trial judge described as
+            compelling evidence.
+
+=== p. 80 ===
+
+                  Sion Jenkins, aged 40, the deputy headmaster, was found
+               guilty of the 13-year-old’s savage killing at the end of a 2-day
+               trial. There were shouts of “you monster” and “bastard”
+               from the school-girl’s natural family seated in the public gallery. Two female jurors burst into tears. Billie—Jo’s relatives
+               hurled abuse and spat.
+                  The schoolgirl’s natural mother, Deborah Harry, sobbed
+               quietly while her father Bill jumped to his feet and punched
+               the air.
+                  The judge, Mr. Justice Gage, told Jenkins: “It was a furious attack, the motive for which only you now know. That
+               girl was in your care as a foster child. You yourself were a
+               deputy headmaster at the time, a man in a position of trust
+               and authority in respect of children. These base facts are
+               sufficient to show what a horrendous crime this was.”
+     3.   Analyze the argumentation structure of the following argumentative texts.
+          a.   Health education authority:
+               It’s never easy trying to find the right moment to tell your
+               partner you want to use a condom. No matter how long the
+               relationship. But leave it too late and it becomes almost impossible.
+                  Once you're completely naked you can become so physically and emotionally involved that you run the risk of not
+               using a condom at all.
+                  Which means not only running the risk of an unwanted
+               pregnancy, but also of contracting one of the many sexually
+               transmitted diseases. Like chlamydia, gonorrhea and, of
+               course, HIV, the virus which leads to AIDS.
+                  So why not say you want to use a condom while you’'ve
+               still got your underwear on?
+                  You're still in control of your emotions, yet it’s now become clear to both of you that you want to have sex.
+                  What if your partner doesn’t have one? Then carry some
+               on you, just in case.
+                  Because if there’s only one thing that’s going to be worn
+               in bed, make sure it’s a condom.
+           .   Letter to the editor:
+               Polly Toynbee says child benefit can “be universally paid to
+               all mothers, taxing it back from high-earning fathers.”
+               While this may perhaps be technically feasible, it would be
+               thoroughly undesirable.
+
+=== p. 81 ===
+
+    It would increase stress—where the mother lives with a
+ man who is not the father of her child(ren) the tax would
+ presumably be levied on the stepfather, who may already
+ contribute more than he thinks fair to the upkeep of another
+ man’s child(ren).
+    Would it be levied only on husbands or on unmarried
+ partners, too? If the former, it would penalize marriage; if
+ the latter, is Polly Toynbee recommending that the Inland
+ Revenue dispatch bedsheet and DNA inspectors to see who
+ is living with whom?
+    Would it be levied only on top-rate taxpayers, or at all tax
+ rates? If the former, it would severely penalize single-earning couples, whose joint income may be as low as half that
+ of dual-earner couples where each partner is taxed only at
+ the 23 per cent rate; if the latter, it would also magnify the
+ unemployment and poverty traps.
+    Thereis a very simple solution: tax child benefit as the income of the recipient. According to the Inland Revenue, this
+ would yield £700 a year, a figure which would rise insofar
+ as mother’s income rose.
+ Parks and Plazas, the Urban Backyard
+ To the Editor:
+ Re “New York Still Needs Patches of Green,” by Thomas
+ Balsley (Op-Ed, July 22):
+    As a cultural anthropologist who has spent 25 years
+ studying the psychological, social and cultural importance
+ of parks and plazas, I would like to offer even more evidence that we should be redesigning, not eliminating, urban public space.
+    From a 15-year study of Latin American plazas, I discovered that well-planned public space increases social tolerance through informal cross-class and cross-gender contact.
+ Urban public spaces, in New York as well as in Mexico and
+ Costa Rica, provide an important forum for ideas and values
+ to be expressed and worked out.
+    In addition, many neighborhood parks serve as backyards for people of modest means. Reducing the opportunities for relaxation and solace makes very little sense when
+ their needs are so great.
+. A Tax That Seems to Hit a Nerve
+ To the Editor:
+ Re “The Moral Sense in Estate Tax Repeal,” by Alan Wolfe
+ (Op-Ed, July 24):
+
+=== p. 82 ===
+
+                It is surely true, as Mr. Wolfe suggests, that most
+             American parents, like most parents everywhere, have
+             a deep desire to help their children flourish. It is also
+             true that Congressional Republicans have been trying
+             to exploit that desire as a way of generating support for
+             repeal of the estate tax.
+                Yet repeal would primarily benefit those who are already in an unusually good position to assist their children, even with the tax in place. And it would do
+             nothing for those Americans who have not taken partin
+             the recent prosperity, and who have no wealth to leave
+             their children.
+                Thatis why many people—including many parents—
+             oppose repeal of the estate tax. And it is why we should
+             be wary of concluding, as Mr. Wolfe does, that repeal of
+             the tax truly “corresponds to the basic moral instincts of
+             most Americans.”
+     e.   Letter to the editor:
+          Your City Comment supporting the abolition of duty-free
+          shopping is out of tune with majority politics and consumer
+          opinion and ignores the facts.
+             Duty-free costs the taxpayer nothing and abolition
+          would not in fact lead to any additional revenue for the
+          Treasury—indeed, a detailed study by National Economic
+          Research Associates (NERA) concludes that net government receipts could fall by £18 million a year. Other studies
+          have produced similar results for the Netherlands, Ireland
+          and France.
+             Duty-free is an internationally successful business; to
+          abolish it within the EU only would leave EU operators at a
+          competitive disadvantage.
+             Why should City Comment rely on an emotional viewpoint rather than face the facts about a successful industry
+          which creates revenue, employs more than 140,000 people
+          and benefits both the traveler and the economy as a whole?
+          The Internet Can’t Free China
+          By JAMES C. LUH
+          While the Senate holds back from voting on normal trade
+          with China because of hesitation about Chinese nuclear
+          help to Pakistan, the senators should take another look at
+          another issue in the trade debate: the questionable argu-
+
+=== p. 83 ===
+
+ment that modern technology will force China to liberalize its political system.
+  As the Chinese expand trade with the West and
+make greater use of computers and the Internet, the
+thinking goes, an unstoppable current of ideas will       10
+spur political reform. “When over 100 million people
+in China can get on the Net,” President Clinton has
+argued, “it will be impossible to maintain a closed
+political and economic society.” But will it?
+  The Chinese government will never squelch all dis-      15
+sident voices on the Web, but because Internet communication relies on each person or computer having
+a unique, traceable address, the authorities can find
+ways to locate users and punish activities they don’t
+like. There is an active debate in the United States,     20
+where political freedom is sacrosanct and individuals
+are guaranteed due process of law, about the clash between citizens’ civil liberties and corporations’ innovations for protecting security or profits. Imagine the
+implications in an authoritarian state.                   25
+  China is already monitoring what goes out over
+the Internet and identifying where messages come
+from. Ask Huang Q)i, if you can: authorities have detained him since June 3 for operating a Web site about
+human-rights abuses. Or ask Lin Hai, who served           30
+prison time for sending some 30,000 Chinese e-mail
+addresses to a dissident information service.
+  Even those who only read dissident sites, rather
+than contributing to them, cannot be sure of safety.
+Surfing the Internet appears untraceable on the sur- 35
+face, but users unwittingly leave behind detailed
+footprints, as evidenced by privacy concerns among
+Internet users in this country. Chinese computer experts have plenty of tools and techniques at their disposal to follow these footprints.                         40
+  Then there is blocking and filtering technology. A
+user can’t get a single bit of digital information from
+the Internet without connecting his computer to it, and
+services that provide the connections can interpose
+equipment or software that blocks certain types of traf- 45
+fic or keeps users from reaching certain Web sites.
+
+=== p. 84 ===
+
+                     The Chinese government has already blocked disagreeable Western sites like The Washington Post
+     50            and Amnesty International, but the censors have had
+                   difficulty identifying offending sites fast enough to
+                   block them all. It could solve that problem by adopting a strategy used by a number of American-based
+                   systems, like America Online’s AOL@School service:
+                   Block access to any Internet services not on a pre-ap55            proved list.
+                     Business trends within China could also end up
+                   limiting the Internet’s power there as a liberalizing
+                   force. Analysts of the industry think many Chinese
+                   will eventually connect to the Internet not with per-60            sonal computers, as Americans typically do, but
+                   through devices like set-top boxes and mobile
+                   phones, which have cumbersome keyboards. Chi-nese who went online this way could shop or get government messages, but might find it difficult to send
+     65            e-mail or post opinions to a Web bulletin board.
+                     As Western companies work to protect copyrights
+                   and enhance the security of information they collect,
+                   new techniques for control of Internet communication
+                   are being developed every day. Even if American com-70            panies do not sell their innovations to China directly,
+                   the Chinese will be able to develop them on their own
+                   or buy them from other nations. The Internet won’t be
+                   free in China until other influences force the country to
+                   lift its most insidious trade barrier: the ban on ideas
+     75            that threaten Communist Party rule.
+
+              a.   Search for examples of multiple, coordinative, and
+                   subordinative argumentation in recent newspapers,
+                   journals and magazines.
+               .   Before the next meeting, students compare their examples in discussion groups. They try to reach an
+                   agreement on which of the examples presented by
+                   their fellow-students can indeed be considered as
+                   clear examples of the intended structures. They
+                   should mark those cases that they cannotagree upon,
+
+=== p. 85 ===
+
+           or that they find doubtful, so that they can present
+           these examples for further discussion in the following class meeting.
+
+      a.   Formulate a standpoint on an issue of your own
+           choice, and make a case for this standpoint in which
+           all three forms of complex argumentation occur.
+           Give a representation of your argumentation in the
+           way that has been explained in chapter 5.
+      b.   Submit a copy of the representation of the argumentation to the instructor at the next class meeting.
+
+Analyze the structure of the following text by making a schematic overview. Submit the overview to the instructor at the
+next class meeting.
+  Inhis article “Plagiarism: Arich tradition in science,” editor
+John Lowell argues, referring to an article by Dr. P. Smith, that
+Copernicus was also guilty of plagiarism: it appears that he
+“forgot” to mention that Aristarchos of Samos (310-230 BC)
+had already arrived at a heliocentric theory. It is, however,
+doubtful that Copernicus knew of this.
+  Kant spoke of heliocentricity as a Copernican revolution:itis
+directly contrary to “common sense” (after all, we can see that
+the sun rises in the east and sets in the west), and more importantly, to a centuries-old geocentric, Christian-Scientific tradi-   10
+tion. Copernicus needed all the support he could muster for his
+theory, and cited a great many classical writers to that end.
+  The fact that Copernicus did not refer to Aristarchos is not
+easy to understand, if he had, indeed, known him to be the intellectual author of heliocentricity. However, the best source       15
+for Aristarchos’ theory was Archimedes’ Sand reckoner, which
+did not “appear” until 1544, a year after Copernicus’ death.
+Another source, in which Aristarchos is vaguely cited, was
+possibly only consulted by Copernicus after he had already
+announced his hypothesis.                                            20
+  In conclusion, it can be said that the accusation that Coper-nicus committed plagiarismis at the very least doubtful and is
+
+=== p. 86 ===
+
+          probably incorrect. In order to avoid being justly accused of
+          something similar, I will mention now that my mostimportant
+     25   source was: O. Gingerich, “Did Copernicus owe a debt to
+          Aristarchos?” in Journal
+                                for the History of Astronomy 16, 1985.
+
+          Give an analysis of the text “Why Not Dutch?” by answering
+          questions 1-4. The assignment should be handed in at the next
+          class meeting. In the following class meeting, the instructor
+          will discuss the assignment; the students will receive individual comments on their assignments.
+
+            1.   Which proposition(s) is (are) the bone of contention in
+                 the text? Which roles do the parties in the dispute assume? Of which type is the dispute?
+            2.   State precisely (by referring to line numbers) how the dialectical stages are represented in the text.
+            3.   Give a schematic overview of the argumentation structure of paragraph 2-4. Explain why you think this is the
+                 correct analysis. N.B. Unexpressed premises need only
+                 be made explicit if they are supported by the author.
+            4.   Make the unexpressed premise explicit in the following
+                 argument:
+            The proper place for acquiring knowledge of languages is at
+          secondary school. After all, this is where a thorough instruction in foreign languages ought to be provided.
+
+          WHY NOT DUTCH?
+          Céline van Lier
+
+          The University of Amsterdam has recently revealed a plan to
+          give a quarter of all lectures in foreign languages. The university gives two reasons for this in its Public Development Plan
+          IX: on the one hand, the opportunity is created for foreign students to follow a well-rounded programme in each of the Am-sterdam faculties and, on the other hand, it provides a
+          broadening of education for Dutch students at the University
+          of Amsterdam, as a result of which, their position on the international labor market will be strengthened. I do not believe,
+
+=== p. 87 ===
+
+however, that giving lectures in a foreign language is wise. I 10
+think I can show that I have a strong case.
+  Firstly, I am of the opinion that it is neither desirable nor
+even necessary to make education more attractive to foreign
+students. After all, it goes without saying that by attracting
+large numbers of foreign students, the quality of education             15
+will decline. The accessibility of education will be reduced
+when this is followed (and given) in a language that is not the
+native tongue of students and teachers. No one commands a
+language quite as well as he does his native language and,
+therefore, the transfer of knowledge will be impeded. In addi- 20
+tion, most faculties already have to contend with an enormous
+surplus of students.
+  In addition to the question as to whether or not this will be
+to the detriment of the quality of education, there is also the
+question as to whether it is not possible at the moment for for- 25
+eign students to follow a well-rounded programme. The answer to this question is yes; if, at least, they first follow a Dutch
+course (provided entirely by the University of Amsterdam).
+And it is better to maintain this situation. For what is more
+just; that thousands of Dutch students have to put up with lec- 30
+tures in a foreign language, or that a handful of foreign students have to take the trouble to learn the language of their
+country of residence?
+  Secondly, I believe that it is better to improve the competitive position of Dutch students in a different way. The proper 35
+place for acquiring knowledge of languages is at secondary
+school. After all, this is where a thorough instruction in foreign languages ought to be provided. If the universities start
+teaching such basic skills, then the next obvious step is that
+arithmetic and writing will also form part of the curriculum.           40
+  To summarize, it can be said that giving lectures in foreign
+languages will be to the advantage of no one. It is not
+far-fetched to suppose that this plan is nothing more than a
+prestige object for the University of Amsterdam. The fact that
+no one hesitates to exclude our own Dutch language from the 45
+university may be called astonishing. Did not Simon Stevin'
+once say that the Dutch language in particular was eminently
+suited to academic work?
+
+  'Simon Stevin is a famous Dutch 16th-century mathematician.
+
+=== p. 88 ===
+
+
+
+=== p. 89 ===
+
+Evaluation
+    @
+
+=== p. 90 ===
+
+
+

@@ -1,0 +1,476 @@
+=== chunk: gendler-2010-intuition-imagination-philosophical-methodology/ch2-rethought-reperceived ===
+title: Thought Experiments Rethought — and Reperceived
+source_pdf: docs/sources/gendler-2010-intuition-imagination-philosophical-methodology/full.pdf
+pdf_pages: 53-63
+page_scheme: book
+plan_page_start: 42
+plan_page_end: 52
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 42 ===
+
+      Thought Experiments Rethought—and
+      Reperceived
+
+In this essay, I explore the question of how contemplation of an imaginary scenario can
+lead to new knowledge about contingent features of the natural world—that is, how it can
+provide us with relevant beliefs about contingent matters that are simultaneously new and
+justified. I trace the source of both novelty and justification to the ways in which focusing
+one’s attention on a specific scenario (as opposed to a general schema) may evoke quasi-sensory intuitions that then serve as a basis for novel justified true beliefs.
+   This essay and its predecessor—“Galileo and the Indispensability of Scientific Thought
+Experiment” (Ch. 1)—form a natural pair. For those who prefer to read only one of them,
+the previous paper, which is more substantive and detailed than this one, can be read as a
+self-standing piece.
+
+                                              ***
+This essay was first published in Philosophy of Science, 71 (2004), 1152–64 and is reprinted
+with the kind permission of the University of Chicago Press. The essay was originally
+presented at a panel on thought experiments at the 2002 Philosophy of Science Association
+Meetings, with co-symposiasts James Robert Brown, James McAllister, and John Norton,
+and chair Nancy Nersessian. Their essays appear alongside this one in the aforementioned
+issue of Philosophy of Science. Though the bulk of the text is as originally published, minor
+changes have been made to render the piece self-standing; in addition, references to pieces
+then unpublished have been brought up to date. As a result, several footnote numbers have
+changed. The original number of each footnote is noted in [square brackets].
+
+1. Introduction
+
+The central puzzle surrounding scientific thought experiment is how contemplation of an imaginary scenario can lead to new knowledge about contingent
+features of the natural world. This puzzle is a special case of a more general one,
+namely how any nonperceptual capacity can lead to new knowledge about
+(nonstipulated) contingent features of reality.
+
+=== p. 43 ===
+
+   Assuming for the sake of simplicity that the classical tripartite characterization of knowledge is adequate to the purposes at hand, the more specific worry
+can be put in the following way: how can the contemplation of an imaginary
+scenario provide one with new true beliefs about contingent matters, and,
+assuming that it can do so, how are those new beliefs justified?1
+   It is common ground among many who have considered the puzzle both that
+thought experiments can provide us with new knowledge, and that the process
+by which such beliefs are formed does not feel like inference from known
+premises to inductively or deductively implied conclusions. Nonetheless,
+there is a sharp divide among the major participants in the debate that can be
+traced to the following two questions:
+
+1. Are the new beliefs that we form on the basis of the contemplation of
+   imaginary scenarios actually formed as the result of inference from known
+   premises to inductively or deductively implied conclusions?
+2. To the extent that the new beliefs are not so formed, are they justified?
+
+In a series of papers and discussions, John Norton has contended that the
+answer to (1) is “yes” and the answer to (2) is “no”: the epistemic role played
+by the contemplation of imaginary scenarios in providing us with new knowledge of the natural world is traceable to the fact that “the actual conduct of a
+thought experiment consists of the execution of an argument” (Norton 2004a:
+1142; cf. also Norton 1991, 1996). James Robert Brown, by contrast, has contended that the answer to (1) is “no” and the answer to (2) is “yes”: “Thought
+experiments are telescopes into the abstract realm,” he writes; through them,
+we come to have “intuition[s] of law[s] of nature” (Brown 2004a: 1131; cf. also
+Brown 1991a, 1991b, 1993b, 2004b).
+  Taken in full, both positions seem to require rather implausible commitments: Brown’s view requires accepting a Platonistic picture of laws of
+nature as “abstract entities, outside of space and time, that somehow necessitate
+the regularities we experience in the empirical world” (Brown 2004a: 1131);
+Norton’s requires accepting that something that feels like the contemplation
+of an imaginary scenario is actually the execution of an argument.2 But the
+central insight of each can be adopted without taking on board these further
+
+  1
+     [1] In framing things this way, I am also assuming (1) that the contemplation of imaginary
+scenarios does not bring about relevant new truths about contingent features of the natural
+world, and (2) that the contemplation of imaginary scenarios—at least in certain cases—does
+more than merely provide us with new justification for previously held beliefs (though their
+ability to do this may itself be epistemically puzzling).
+  2
+     [4] He writes: “Is the claim merely that thought experiments can do no more than
+argumentation when it comes to justifying claims? Or is it in addition that actual execution
+of a thought experiment is just the execution of an argument? . . . I intend the stronger
+version . . . (Context of discovery) The actual conduct of a thought experiment consists of the
+execution of an argument, although this may not be obvious” (Norton 2004b: 9).
+
+=== p. 44 ===
+
+commitments: the contemplation of an imaginary scenario may lead us to new
+knowledge not because it provides us with quasi-observational knowledge of
+abstracta, nor because it is actually an act of argumentative rehearsal. Rather, I
+will suggest, in the case of imaginary scenarios that evoke certain sorts of quasi-sensory intuitions, their contemplation may bring us to new beliefs about
+contingent features of the natural world that are produced not inferentially,
+but quasi-observationally; the presence of a mental image may play a crucial
+cognitive role in the formation of the belief in question. And this, albeit fallible,
+quasi-observational belief-forming mechanism, may, in certain contexts, be
+sufficiently reliable to count as a source of justification.
+  Since it is fairly clear what the denial of Brown’s Platonism amounts to, I will
+devote the bulk of my discussion to differentiating my position from Norton’s.
+I will explain what it means to say that the psychological mechanisms employed in the contemplation of specific scenarios (as opposed to the consideration of general schemata) allow us to gain information about the natural world
+in a distinctly nonargumentative way. And, having done so, I will contend that
+the specificity of the cases that thought experiments invoke may, in some cases,
+play a vital role in providing their epistemic force.
+
+2. Clarifications
+
+Before going on, it is worth pausing for a moment for a few clarifications. In the
+discussion that follows, I will assume that to perform a thought experiment is to
+reason about an imaginary scenario with the aim of confirming or disconfirm-ing some hypothesis or theory, and that to perform a scientific thought experiment
+is to reason about an imaginary scenario with the aim of confirming or dis-confirming some hypothesis or theory about the physical world.3 (I Thus take the
+fundamental notion to be that of performing a thought experiment, with the
+notion of being a thought experiment derivative therefrom.)4
+   Such a characterization allows us to isolate four crucial features in the performance of scientific thought experiments (the first three shared by thought
+
+   3
+     [5] By parity, then, we might then say that to perform a conceptual thought experiment is to
+reason about an imaginary scenario with the aim of confirming or disconfirming some
+hypothesis or theory about the proper use of our concepts; that to perform a mathematical
+thought experiment is to reason about an imaginary scenario with the aim of confirming or
+disconfirming some hypothesis or theory about mathematics; and so on.
+   4
+     [6] How one goes about individuating thought experiments is a question on which I will
+allow myself to remain neutral: Is Einstein’s clock-in-the-box thought experiment (which
+assumes classical spacetime) the same thought experiment as Bohr’s (which assumes
+relativistic spacetime)? (See Bishop 1999; Norton 2004b: 25–6.) Is the thought experiment
+that I perform when I read Galileo’s text the same as the thought experiment Galileo
+performed when he wrote it? Nothing of what I will go on to say will turn on how one settles
+these questions (to which it seems difficult to find principled answers).
+
+=== p. 45 ===
+
+experiments in general, the fourth specific to this form of thought experimentation):
+
+  a. Thought-experimental reasoning involves reasoning about a particular set
+     of circumstances (which may be specified in more or less detail), described
+     at a greater level of specificity than that of the conclusion. (To perform a
+     thought experiment is to reason about a scenario . . .)
+  b. The reasoner’s mode of access to the scenario is via imagination rather
+     than via observation. (. . . which is imaginary . . .)
+  c. Contemplation of the scenario takes place with a specific purpose: the
+     confirmation or disconfirmation of some hypothesis or theory. (. . . with
+     the aim of confirming or disconfirming some hypothesis or theory . . .)
+
+and—in the case of scientific thought experiments—
+
+  d. The hypothesis or theory in question concerns features of the physical
+     world. (. . . about the physical world )
+
+Using this characterization, we can identify some common ground. Both Nor-ton and Brown understand (b) in the same way: each accepts that scientific
+thought-experimental reasoning does not provide us with new observational
+information about the natural world. And—modulo certain issues concerning
+(d ) that I will raise in a minute—both understand (c) in roughly the same way:
+each accepts that scientific thought-experimental reasoning is (paradigmatically) intended to confirm or disconfirm fairly general hypotheses or theories
+about the natural world, and each agrees roughly with the other about what
+sorts of candidate-hypotheses and theories merit consideration, and, among
+those, which are true.
+   Where Norton and Brown disagree is in their understanding of (d ) and (a).
+The dispute concerning (d ) is a dispute about metaphysics: Norton and Brown
+disagree about what sort of thing laws of nature are, and, consequently, about
+the range of facts to which scientific thought-experimental reasoning could, in
+principle, give access. Whereas Brown is committed to the view that the features of the physical world to which (scientific) thought-experimental
+reasoning gives us access are abstract laws that “necessitate the regularities
+that we experience” (Brown 2004a: 1131), Norton is committed to the view
+that the regularities to which (scientific) thought-experimental reasoning
+gives us access are contingent. The dispute concerning (a), by contrast, can be
+understood as a dispute about epistemology: Norton and Brown disagree about
+which sorts of mental undertakings carry justificatory force, and, consequently,
+about the range of ways in which scientific thought-experimental reasoning
+could, in principle, give knowledge. Whereas Brown is committed to the
+view that the particularity of the scenarios involved in (scientific) thought-experimental reasoning (specifically, their ability to engage our quasi-sensory
+
+=== p. 46 ===
+
+faculty of intuition) plays some role in providing thought experiments with
+their epistemic force, Norton denies that “this picturesque clothing” does more
+than “give them special rhetorical powers” (2004a: 1139).
+  Brown’s understanding of (d ) and his understanding of (a) are interconnected: Platonist metaphysics cries out for some sort of corresponding
+epistemology, and what Brown’s understanding of (d ) demands, Brown’s understanding of (a) provides. But the other direction of implication is not so
+clear. It seems plausible to endorse a view according to which the particularity
+of the scenarios involved in thought-experimental reasoning supplies some
+epistemic force, while also accepting that the regularities to which scientific
+thought-experimental reasoning gives us access are contingent features of the
+natural world. It is this position—siding with Norton concerning the metaphysical question, and (roughly) with Brown concerning the epistemic question—
+that I will defend.
+
+3. The Elephant Constraint
+
+I begin with some mundane cases that involve the sort of imagistic reasoning
+that plays a role in certain scientific thought experiments. Think about your
+next-door neighbor’s living room, and ask yourself the following questions: If
+you painted its walls bright green, would that clash with the current carpet, or
+complement it? If you removed all its furniture, could four elephants fit comfortably inside? If you removed all but one of the elephants, would there be
+enough space to ride a bicycle without tipping as you turned?
+   Let’s assume for the sake of argument that you had not, prior to my instructions, contemplated any of these particular questions. And let’s also assume
+that, having contemplated them, you now truly believe that green paint would
+clash with the carpet, that four elephants in the room would be a tight squeeze,
+and that a bike ride around the room with one elephant remaining would be
+quite a challenge. What should we say about these true beliefs? Are they new?
+Are they justified? And, if so, what is the source of their novelty, and of their
+justification?
+   Start with novelty. There is an obvious sense in which your belief that four
+elephants would not fit comfortably in your neighbor’s living room is, presumably, new: until quite recently, it simply hadn’t occurred to you to think
+about the question and, when I raised it initially, your answer had neither the
+immediacy of simple recall, nor the simplicity of straightforward calculation or
+deduction.5 Likewise, there’s an obvious sense in which the belief is also
+
+  5
+    [7] Of course, in some sense the process involved drawing implications from beliefs that
+you already had. After all, there is no new empirical input. But if the only thing that counts as
+new knowledge is new observational knowledge, then clause (b) rules out thought experiment as
+
+=== p. 47 ===
+
+justified. It was formed by making use of a reliable (though fallible) process,
+rather than as the result of a lucky guess or wishful thinking or a hunch. We
+feel little hesitation in saying that you now know that four elephants wouldn’t
+fit comfortably in your neighbor’s living room, whereas you didn’t know
+it before.
+   Now, think about the reasoning process involved. Presumably, you did
+something like the following: you called up an image of the room, made
+some sort of mental representation of its size (perhaps after mentally emptying
+it of its furniture), called up proportionately sized images of four elephants,
+mentally arrayed them in the room, and tried to ascertain whether there was
+space for the four elephants within the confines of the room’s four walls. Of
+course, in many ways, the mental image you formed was unspecified: most
+likely, you simply “blocked” the space that the elephants would take up,
+without attending to details about exactly how they were to be arrayed or
+oriented. And, of course, your image may well have misrepresented what you
+took it to represent, or your underspecification may have omitted some relevant details. But these potential errors are not sufficient to impugn the process
+itself: that we can err in employing a technique does not render the technique
+itself unreliable.
+   Similar processes allow you to answer the other two questions. When I asked
+you whether there would be space to ride a bicycle in the room if it were
+occupied by one elephant and no furniture, you presumably invoked a mental
+image of the room (using memory), and—holding constant your affordance-based sense of its dimensions—evoked a quasi-proprioceptive image of the
+experience of riding a bicycle in a space of that size; when you had done this,
+you made a judgment about the resulting situation. When I asked you about the
+rug and the walls, you presumably called up an image of the two colors
+juxtaposed, and made a judgment about whether they clashed.
+   Were the beliefs you formed on the basis of your reasoning in each of these
+cases formed as the result of inference from known premises to inductively or
+deductively implied conclusions? A “yes” answer is most plausible in the case
+of our four elephants. Arguably, even before engaging in the reasoning process described, you had the justified true belief that elephants are of thus-andsuch size, the justified true belief that the living room is of thus-and-such size,
+a set of justified true beliefs concerning the solidity and limited malleability of
+elephants and living-room walls, a set of justified true beliefs concerning the
+possible configuration of objects in spaces governed by Euclidean geometry,
+and so on. On the basis of these (perhaps tacit) beliefs, you engaged (again,
+
+a source of new knowledge tout court, and there is no phenomenon to be explained. Even if this
+particular case is unconvincing, I am taking it as common ground that something relevantly
+similar will count as a case of new non-observational knowledge.
+
+=== p. 48 ===
+
+perhaps tacitly) in a process of deductive reasoning which led you to the
+realization that four elephants would not, as a matter of fact, fit comfortably
+into your neighbor’s living room.6 But is that really what happened? My
+inclination is to think not. Rather, what happened is that you formed a
+judgment on the basis of your manipulation of your mental image, and—
+using that new information—went on to draw your conclusion about the more
+general statement for which you took it to be evidence.
+   If you are still unpersuaded, think about the following cases. Suppose that
+I had, instead, given you a piece of graph paper and a pencil, and asked you the
+same question, which you answered on the basis of a sketch that you made:
+would that be a case where you engaged in a process of deductive reasoning
+from known premises to a novel conclusion? Or suppose I had given you a
+three-dimensional scale-model of the room, along with four similarly scaled
+plastic elephants (and suppose it wasn’t immediately clear whether or not the
+elephants could be placed comfortably therein): wouldn’t you proceed by
+putting the elephants into the room, and seeing whether they fit? Suppose
+I took away the third and fourth elephants before you managed to place them
+in the room. Would your imaginary continuation of the process you had
+begun really be a process of deductive reasoning?
+   The diagnosis is even more plausible in the case of the other two scenarios.
+Take the bicycle case. While you may have believed, beforehand, that your
+room was of roughly thus-and-such dimensions, did you really believe—before
+thinking about it—that that isn’t enough space in which to ride a bike? Perhaps
+you believed (perhaps tacitly) that some indoor spaces are too small to ride a
+bike in (closets, for instance), and that others ( banquet halls, for instance) are
+certainly large enough—but did you have, even tacitly, beliefs about where the
+border between these lay, and, in particular, beliefs about where your neighbor’s
+living room stood with respect to that border? Didn’t you, instead, discover
+something about bikes and living rooms by imagining having a certain experience?
+Likewise with the color case. While you may have known beforehand that
+your neighbor’s rug looks like this, and that green looks like that, was it really
+a matter of deductive or inductive inference that led you to the conclusion
+that—were they adjacent—you would judge them to clash? Wasn’t it instead as
+if you performed an experiment-in-thought, on the basis of which you got some
+new information about your own judgments, which (perhaps because of tacit
+beliefs that you hold) you took to be relevant data in answering the question
+at hand?
+
+  6
+    [8] Cf. Norton: “In so far as they tell us about the world, thought experiments draw on what
+we already know about it, either explicitly or tacitly. They then transform that knowledge by
+disguised argumentation” (Norton 2004b: 2; italics added).
+
+=== p. 49 ===
+
+4. The Psychological Data
+
+Of course, all of this phenomenology may be misleading. It may be that
+everything that is going on in such cases is actually the transformation of old
+beliefs into new beliefs by means of inductive or deductive inference. It may be
+that what happens in all of these cases is that we manipulate premises we accept
+on independent grounds using inferential reasoning processes. But if so, it is
+hard to see what sort of mental activity wouldn’t involve the transformation of
+old beliefs into new ones by means of such inferences. It is hard to see what
+would count as a new nonperceptual belief that didn’t count as a belief so
+formed. If Norton is construing the terms in question this broadly, then my
+dispute with him may be largely terminological.
+   But I think there is a difference here that is not merely terminological.
+Empirical psychological research—along with commonsense observation—
+suggests that there is a difference between the sort of information-processing
+that goes on in the case of imaginative rehearsal, and the sort of information-processing that goes on in the case of purely hypothetical unengaged
+reasoning. Three examples—briefly presented—will suffice for my point.
+   First example. Research by Roger Shepard and others has shown that judgments about topological similarity are generally made after engaging in the
+mental manipulation of an image: the greater the degree of rotation required to
+project one onto the other, the longer it takes to judge whether two figures are
+isomorphic (Shepard and Metzler 1971; Shepard and Cooper 1982). Here, as
+above, it seems that the reasoning process is quasi-perceptual: I observe something, and on the basis of my observation conclude something. While this
+latter step may be construed as inductive reasoning, it is hard to see how the
+former step could be construed as either inductive or deductive. It’s true that
+the geometrical constraints which my reasoning process tracks deductively imply
+the conclusion I draw—but that doesn’t mean that what I did was to reason
+deductively from known premises.7
+   Second example. Research by Antonio Damasio and others (along with
+centuries of commonsense observation) has shown that our repertoire of
+emotional responses is engaged by imaginary as well as by real situations.
+These emotional responses are encoded physically in what Damasio calls
+“somatic markers,” on which our intuitive judgments about a hypothetical or
+actual situation—judgments of safety or danger, desirability or undesirability,
+
+  7
+    [Note added in 2009: Recent behavioral and neuroimaging studies seem to support the view
+that visual imagining makes use of (many of) the same mechanisms used for visual perception.
+For an overview of this work, see Farah 2000, ch. 9 (252–89); for defense of the view that there is
+a particularly tight connection between visual imagery and visual perception, see Kosslyn,
+Thompson, and Ganis 2006; for dissent, see Pylyshyn 2003. (For related work in the domain
+of auditory imagery, see Kraemer et al. 2005; Zatorre and Halpern 2005.)]
+
+=== p. 50 ===
+
+attractiveness or unattractiveness—are then based: if the somatic marker associated with a certain sort of scenario is negative, we will be inclined to avoid
+placing ourselves in it; if the somatic marker associated with a certain sort of
+scenario is positive, we will be inclined to seek it out. What this means is that
+imaginative rehearsal can bring us to new beliefs that may be unavailable to us
+if we reason in a disinterested purely hypothetical way (Damasio 1994, 1999).8
+   As a way of bringing out the difference, think about the therapy people
+engage in to overcome neuroses. People who are afraid of public speaking
+imagine themselves speaking before an audience over and over until they
+become comfortable with the idea; people who are afraid of flying in airplanes
+imagine themselves being safely able to do so until their adverse reactions begin
+to fade. Did they—prior to engaging in the imaginative rehearsal—believe that
+flying is not dangerous? By some tests yes: they were inclined to assent to the
+statement, to produce it cooperatively in response to inquiries, even to recommend that loved ones act on its basis—but by others, no: despite the previous,
+they were unwilling, themselves, to behave as if it were true that flying is not
+dangerous. Suppose that after many years of therapeutic engagement they find
+themselves able to fly on a plane fearlessly—and suppose, idealizing somewhat,
+that the therapy did not involve providing them with any new information. To
+the extent that we are willing to credit our patient with a new belief (as, on
+many dispositional accounts, we should be), do we really want to say that the
+belief was formed by deductive or inductive reasoning?9
+   Third example. Consider the following study by Daniel Reisberg, which
+simultaneously illustrates certain limitations in our capacities for mental imagery, and certain ways in which a “gestalt shift” can be introduced as the result of
+the sort of explicit instruction often given in the context of scientific thought
+experiments (Reisberg 1996). Reisberg’s subjects were told that they were participating in a study concerning “memory for abstract forms.” For each item,
+they were (a) shown an image of a form and (b) asked to memorize the form in
+question. The image was then removed, and immediately thereafter subjects
+were asked (c) to imagine the form rotated by some amount (e.g. 90 degrees)
+and then (d ) to draw a picture of the rotated form. As the tenth image in this
+otherwise nonrepresentational series, subjects were presented with an image of
+Texas rotated 90 degrees, and asked to perform (a) through (d ) as above.
+   The result reveals something important about the nature of mental imagery.
+For even when they were told that a 90-degree rotation would result in “a
+
+  8
+     [Note added in 2009: I return to this theme in a number of other papers, especially “The
+Puzzle of Imaginative Resistance” (2000a; Ch. 9) and “Philosophical Thought Experiments,
+Intuitions, and Cognitive Equilibrium” (2007; Ch. 6); see also “Genuine Rational Fictional
+Emotions” (Gendler and Kovakovich 2005; Ch. 11).]
+  9
+     [Note added in 2009: The issues discussed in this paragraph are discussed in somewhat
+different language and much greater detail in “Imaginative Contagion” (2006a; Ch. 12) and
+the two Alief essays (2008a, 2008b; Chs. 13 and 14).]
+
+=== p. 51 ===
+
+familiar geographic form,” Reisberg reports that “no subjects succeeded in
+discovering Texas in their image [at step (c)], although, moments later [at step
+(d )], many subjects were able to recognize Texas in their own drawing” (Reisberg 1996: 128). What could explain this divergence? Reisberg’s diagnosis
+(confirmed experimentally in later studies) was that subjects in step (c) failed
+to alter their reference frame when they undertook the mental rotation (that is,
+they took the initial “top” to be the “top” in the rotated case, and thus failed to
+recognize the image as an image of Texas, even when the image was rotated).
+For, it turns out, if (c)—which asks subjects to mentally rotate the image a
+certain number of degrees—is replaced by (c’)—which asks them to “think of
+the left-hand side of the shape as being the figure’s top”—results change dramatically; indeed, when this alternative instruction was given, “approximately
+half the subjects succeeded in identifying Texas in their image” (Reisberg 1996:
+129). As before, it’s hard to see why we would want to say that this new justified
+true belief (that the rotated image resembles Texas) was formed by inductive or
+deductive reasoning from known premises.
+
+5. Scientific Thought Experiments
+
+I think that what’s true for these simpler cases of imagistic reasoning is true for
+the more complicated cases of imagistic reasoning involved in scientific
+thought experiment. This is not to say that all scientific thought experiment
+involves such imagistic reasoning—just that some does.10 There will, no doubt,
+be many cases where the role of the imagery is simply heuristic. But there will
+also be cases where the role of the imagery is—as in the cases above—epistemically crucial.
+   Take, for example, Mach’s original example of a thought experiment (see
+Mach 1926/1976, Mach 1883/1960): the process of reasoning by which Simon
+Stevin established the amount of force required to prevent an object from sliding
+down a frictionless inclined plane, which involves the contemplation of a
+particular configuration of physical objects—a circular string of fourteen balls
+laid atop a triangular prism (see Fig. 2.1). Consideration of this imaginary set-up
+convinces Stevin that the balls are in a state of equilibrium—that is, that the
+chain moves neither to the left nor to the right. (Otherwise, it seems, the system
+would be in a state of perpetual motion.) He next imagines cutting the string at
+the two lower corners, such that two balls remain along the side with the sharper
+incline, and four along the side with the shallower incline. And, he recognizes,
+since the balls were in equilibrium prior to the cutting, they remain so
+
+  10
+     [9] Indeed, the fact that Norton’s primary stable of examples concerns thought
+experiments in relativity theory (see e.g. Norton 1991), whereas Brown’s concerns thought
+experiments in early modern science, may explain some of their divergence in analysis.
+
+=== p. 52 ===
+
+                                                                   T
+                                                       D
+                                              R                            E
+                                                               B
+                                       Q
+                               P                                               F
+                       S
+                                                                                   V
+                               A                                           C
+                      O                                                            G
+
+                           N                                                   H
+
+                                                                       I
+                                   M
+                                                           K
+                                             L
+
+Fig. 2.1. From <http://en.wikipedia.org/wiki/File:StevinEquilibrium.svg>
+
+afterwards: the shorter and the longer string of balls are in balance. On the basis
+of these considerations, Stevin concludes that the force required to hold a ball in
+place along an inclined plane is inversely proportional to the length of the plane
+(Stevin 1955).
+  Now, presumably there’s a way of reconstructing this reasoning process as an
+argument: I will leave that task to others. What’s important for my purposes is
+the extent to which this case resembles those described above. Contemplation
+of an imaginary scenario (the cut string laid atop the prism) evokes certain
+quasi-sensory intuitions, and on the basis of these intuitions, we form a new
+belief about contingent features of the natural world (that the weight of four
+balls offsets the weight of two balls). This belief is produced not inferentially,
+but quasi-observationally: the presence of the mental image plays a crucial
+cognitive role in its formation.11/12
+
+  11
+     [Note added in 2009: For recent discussion of the scientific issues raised in the final sections
+of this essay, see Byrne 2005; Byrne and Johnson-Laird n.d.; see also Kosslyn, Thomson and
+Ganis 2006; Pylyshyn 2003.]
+  12
+     [{] Acknowledgements: For comments and discussion, I am grateful to John Hawthorne,
+Ishani Maitra, Zoltán Gendler Szabó, and to my co-symposiasts and chair at the 2002 PSA
+Meetings, James Robert Brown, James McAllister, Nancy Nersessian, and John Norton.
+

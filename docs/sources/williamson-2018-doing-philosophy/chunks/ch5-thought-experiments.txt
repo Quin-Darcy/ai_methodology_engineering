@@ -1,0 +1,472 @@
+=== chunk: williamson-2018-doing-philosophy/ch5-thought-experiments ===
+title: Doing Thought Experiments
+source_pdf: docs/sources/williamson-2018-doing-philosophy/full.pdf
+pdf_pages: 61-76
+page_scheme: book
+plan_page_start: 50
+plan_page_end: 65
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 50 ===
+
+                                 
+  Doing Thought Experiments
+
+                    Use Your Imagination
+Imagine someone seeing what looks just like smoke in the distance. He thinks: “There’s a fire over there”. He’s right: there is a
+fire over there. But there’s a catch. The fire hasn’t yet started to
+smoke. It’s just been lit to cook some meat. What he sees is really
+a cloud of flies, which have gathered because they smell the
+meat. Does he know there’s a fire over there? He believes there’s a
+fire over there, and he believes truly, because there is a fire over
+there. He also believes reasonably, in the sense that most reasonable
+people in his position, with his evidence, would form the same
+belief. But he doesn’t seem to know that there’s a fire over there.
+After all, he’s right by luck. Perhaps the flies had gathered even
+before the fire was lit. So a belief can be both reasonable and true
+without amounting to knowledge.
+  That case was given by Dharmottara (around –), a
+Buddhist philosopher who worked in Kashmir. He used it to
+show something important about the nature of knowledge. But his
+
+=== p. 51 ===
+
+                                     Doing Thought Experiments 
+
+writings were unknown to philosophers in Europe and America.
+In the s, the standard analysis of knowledge was as justified
+(reasonable) true belief. Then, quite independently of Dharmot-tara, the American philosopher Edmund Gettier came up with
+similar cases. In a short article published in , he used them
+to refute the standard analysis of knowledge. The result was a
+revolution in epistemology, the theory of knowledge. The big
+question became: since knowledge is not mere justified true belief,
+what more is it? Dozens of alternative answers were proposed.
+One after another, they too fell victim to such counterexamples.
+The attempted analyses of knowledge had to become more and
+more complicated, as did the counterexamples to them. Perhaps
+we shouldn’t try to analyse knowledge in terms of belief plus truth
+plus other factors, because knowledge is somehow more basic
+than belief.
+   Such episodes show how far philosophy can be inspired and
+guided by examples. A theory can sound plausible, even compelling, on first hearing, or even to generations of intelligent, highly
+trained thinkers, yet collapse when faced with an apt counterexample. If we don’t confront them with difficult examples, we
+are not testing our theories properly. We are accepting them
+uncritically, making life too easy for ourselves.
+   A striking feature of many examples in philosophy is that they
+are imaginary. I don’t know whether Dharmottara ever witnessed
+or heard of a real-life case like the one described. The point is: it
+doesn’t matter. We have to imagine it, even if he didn’t. If such a
+case never happened, still it clearly could have happened, which is
+all we need to show that reasonable true belief is not sufficient for
+knowledge: reasonable true belief without knowledge is possible.
+
+=== p. 52 ===
+
+ Doing Thought Experiments
+
+If someone applied for a large grant to set up Dharmottara-style
+cases in real life and trick people into thinking “There’s a fire over
+there”, it would be a waste of money, because the lesson of the
+case is already clear. You don’t always have to make something
+actual to show that it is possible. I’ve never given a lecture holding
+a banana in my hand throughout, but I know I’m physically
+capable of doing it.
+   Dharmottara’s example is a thought experiment. We imagine a
+trick case of reasonable true belief. The target philosophical theory predicts that it will be a case of knowledge. But, independently
+of the theory, it is clearly not a case of knowledge. Therefore, the
+theory is false.
+   Thought experiments have also played a major role in the
+development of recent moral philosophy. For instance, Judith
+Jarvis Thomson at the Massachusetts Institute of Technology
+devised a famous one to challenge the argument that if the foetus
+is a person, then it has a right to life and abortion is wrong. In a
+ article, she compared the situation of a pregnant woman to
+this imaginary case: you wake up to find yourself back to back
+with a great violinist whose circulatory system has been plugged
+into yours so your kidneys purify his blood as well as your own.
+The Society of Music Lovers kidnapped you for this purpose
+because it was the only way to save the great violinist’s life from
+a terrible kidney disease; no one else has exactly the right blood
+type. If he stays plugged into you for long enough (perhaps years),
+he will recover. Otherwise, he will die. The violinist is unquestionably a person, and so has a right to life. But does that mean
+you are morally obliged to let him stay plugged into you for as
+long as it takes him to recover? Although an exceptionally selfless
+
+=== p. 53 ===
+
+                                       Doing Thought Experiments      
+
+person might agree to do that, don’t you have a right to say, “I’m
+very sorry, but I have my own life to live, and I’m not willing to
+sacrifice a large chunk of it like this to save your life, so I’ll get the
+doctor to unplug you”? If that response is permissible, despite the
+violinist’s right to life, why isn’t it permissible for a mother to have
+an abortion despite the foetus’s right to life? Of course, other
+philosophers have looked for morally significant differences
+between Thomson’s case and abortion, but her thought experiment took the debate forward by showing that just granting that
+the foetus is a person does not settle the issue about the morality
+of abortion. As with Dharmottara’s example, the fact that Thom-son’s case is imaginary does not undermine her point. Not only
+would replicating it in real life be unethical, it wouldn’t clarify the
+moral issues.
+
+   Thought Experiments and Real-Life Experiments
+Although thought experiments are in widespread use, they can be
+made to sound like cheating. After all, physicists have to do their
+experiments, and observe the results. It’s not enough for them just
+to imagine doing their experiment, and imagine observing the
+result. How come philosophers get away with just sitting in
+their armchairs and imagining it all?
+   Part of the answer is that philosophical theories typically claim
+that some generalization is necessary: it holds in all possible cases,
+not just in all actual ones. For instance, Gettier was criticizing
+philosophers who meant that there is no possible case of knowwithout knowledge. If he had been up against more modest
+
+=== p. 54 ===
+
+ Doing Thought Experiments
+
+philosophers who just said that there is no actual case of knowwithout knowledge, then to refute them he might indeed have
+needed to produce a real person who really had a reasonable true
+belief without knowledge. Philosophically, claims about all possible cases tend to be more revealing than claims restricted to
+actual cases, since the former show more about the underlying
+nature of what is at issue, such as knowledge. By contrast, a
+generalization about actual cases may be true just by misleading
+lucky coincidence. A fair coin may come up heads on all actual
+tosses, but not on all possible tosses.
+   Another part of the answer is that physicists as well as philosophers use thought experiments. In criticizing the theory that
+heavy things fall faster than light ones, Galileo challenges it with a
+thought experiment in which a heavy object and a light one are
+joined by a string and dropped from a tower: when the string
+pulls taut, the lighter object should retard the heavier one, yet
+together they form a still heavier object, which according to the
+theory should fall faster than either. Einstein too was inspired by
+a thought experiment: if he rode on a beam of light, what would
+he see?
+   We can go deeper by reflecting on how a theory is tested—any
+theory, in philosophy, physics, whatever. To test it properly, we
+have to work out its consequences, what it predicts about various
+possible situations. But there are infinitely many such scenarios—
+for instance, infinitely many possible arrangements of particles
+for a physicist to worry about, infinitely many possible morally
+relevant complexities for a philosopher to worry about, and so
+on. Obviously, no one can think about each possible case
+
+=== p. 55 ===
+
+                                    Doing Thought Experiments   
+
+separately. Many of them will be unrewarding as tests of the
+theory, because it predicts nothing of interest about them. It’s a
+tricky art to think up a scenario that makes a good test of the
+theory, because it predicts something of interest about that scenario. If the theory’s prediction about the scenario turns out to be
+correct, that is serious evidence for the theory. If its prediction
+turns out to be incorrect, that is serious evidence against the
+theory. To think up the possible situation and work out what
+the theory predicts about it is already a thought experiment. It is
+easy to underestimate the difficulty of identifying appropriate
+scenarios, for once they are pointed out, they may be quite easy
+to understand. Often, the skill is in coming up with them in the
+first place.
+   A further step is to check whether the theory’s prediction about
+the imagined scenario is correct. In natural science, that is famously done by actualizing the possible situation and observing the
+result—in other words, by doing a real-life experiment. It may
+be a myth that Galileo dropped balls of different masses from the
+Leaning Tower of Pisa to see whether they landed at the same
+time, but other scientists soon did similar experiments. However,
+actualizing the scenario is not the only way of testing a theory’s
+prediction about it. What is needed is some reliable way, independent of the theory, to judge whether its prediction is correct.
+That may even be quite easy once we imagine the relevant scenario. For instance, without relying on any philosophical theory of
+knowledge, humans have some ability to recognize the difference
+between knowledge and ignorance in down-to-earth cases—for
+instance, who knows when you got up this morning and who
+doesn’t. We can apply that ability to Dharmottara’s down-to-earth
+
+=== p. 56 ===
+
+ Doing Thought Experiments
+
+thought experiment to recognize it as not a case of knowledge.
+Actualizing his possible situation is unnecessary.
+   Some thought experiments are easier to actualize than others.
+Galileo’s is very easy to perform. Dharmottara’s involves a more
+elaborate scenario, but is still realistic. Thomson’s would require
+advances in medical science. Einstein’s is physically impossible:
+one can’t ride on a beam of light.
+   Some philosophers’ thought experiments are much more far-out than Dharmottara’s and Thomson’s. The mythical ring of
+Gyges enables its wearer to become invisible whenever he
+wants; Plato uses it to explore how people would behave if they
+had no fear of being caught and punished for their crimes. In his
+attempt to show that mind cannot be reduced to matter, the
+contemporary Australian philosopher David Chalmers argues
+for the possibility of zombies, molecule-for-molecule replicas of
+us which nevertheless differ from us by having no conscious
+experience: all is dark within. There is a difference between
+them and us, but not a physical difference.
+   If a thought experiment is used only as a stimulating mental
+exercise, the impossibility of the scenario may do no harm.
+Perhaps Plato’s ring of invisibility and Einstein’s ride on the light
+beam are like that. But when a thought experiment is used as a
+serious objection to a theory, it matters whether the scenario is
+possible. For instance, if some inconsistency were hidden in
+Dharmottara’s story, it would not refute the theory that reasonable true belief is knowledge. If zombies are totally impossible,
+Chalmers cannot use them against theories that reduce mind
+to matter.
+
+=== p. 57 ===
+
+                                        Doing Thought Experiments   
+
+. David Chalmers’ zombie twin is the one on the left.
+
+                     Knowing by Imagining
+How do we know whether a scenario is possible? When I read
+Dharmottara’s story, I imagined the look of smoke in the distance,
+then closer up the meat sizzling over the newly lit fire, the flies
+buzzing round, and so on. Such events could obviously happen.
+What about zombies? Of course, I can imagine something that
+looks from the outside exactly like Dave Chalmers, sitting at a
+computer writing a book called The Conscious Mind. But to make
+it Chalmers’ zombie twin, not Chalmers himself, I must also
+imagine that it has no conscious experience. I can’t imagine that
+from the inside, for a zombie has no inside in that sense; it
+has grey matter in its head, but no conscious point of view. If
+I imagine darkness, am I not imagining having a conscious
+experience of darkness, which by definition a zombie lacks?
+From the outside, I just have to say to myself, “It has no conscious
+
+=== p. 58 ===
+
+ Doing Thought Experiments
+
+experience”, a rather minimal kind of imagining. Indeed, many
+philosophers deny that zombies are possible. They hold that a
+molecule-for-molecule replica of Chalmers would be just as conscious as the original. Although the definition of a zombie may be
+logically consistent, that is not enough to make zombies genuinely possible. There is no purely logical contradiction in the
+hypothesis that you are the number , but it is still impossible.
+No number could have been you. Perhaps there is a similar
+non-logical impossibility in the hypothesis of zombies.
+   Sometimes it’s hard to tell which hypotheses are possible, which
+impossible. That is a problem for some thought experiments—but
+not for all. The possibility of Dharmottara’s scenario is beyond
+reasonable doubt. Through imagining it properly, we know that it
+is possible. Also through our imagination, we can learn more
+about it. Crucially, we can come to know that, in such a scenario,
+the person who reasonably and rightly believes there’s a fire over
+there doesn’t know there’s a fire over there.
+   At first, the idea of knowing by imagining may sound crazy.
+Isn’t knowledge to do with fact, imagination with fiction? But that
+stereotype of the imagination is too simple. The human species
+did not evolve such an elaborate psychological capacity just so we
+can indulge our fantasies. When you think about it, you realize
+that a good imagination brings all sorts of practical rewards. For
+instance, it alerts us to future possibilities, so we can prepare for
+them in advance—guard against dangers, be prepared to take
+advantage of opportunities. As you enter a forest, it tells you
+there may be wolves, but also edible berries, to be on the lookout for. If you have a problem, your imagination may suggest
+
+=== p. 59 ===
+
+                                     Doing Thought Experiments 
+
+possible solutions, such as different ways to cross the river that
+separates you from your destination.
+   We often use our imagination when choosing between several
+courses of action. For instance, if you have to choose between
+several places where you might spend the night, you may imagine
+what it would be like to spend the night in each of them, and
+decide on that basis. The imagination is especially useful when
+trial and error is too risky. Suppose that a broken cliff blocks your
+direction of travel. The cautious option is to take the long way
+round; that would be fairly safe, but add an extra day to your
+journey. Best would be to climb the cliff, if you can, since that
+would take much less time and energy. Worst would be to try to
+climb the cliff but fail: with luck, you would be back where you
+started; with no luck, you would fall and be badly injured or
+killed. To resolve your dilemma, you may examine the cliff
+from a distance, to see whether you can imagine a possible
+route to the top: step by step, move by move, you try to imagine
+yourself climbing up, to see whether you would always encounter
+an obstacle you couldn’t overcome. Of course, you could imagine
+a comfortable ladder miraculously appearing, but that would
+be pointless, since you know that in the circumstances no such
+ladder will appear. Instead, we are capable of a much more
+realistic sort of imagining, which is sensitive to what genuinely
+could happen in the circumstances. Through such realistic imagining you may learn whether you can climb the cliff, and
+whether if you tried you would succeed. You need such knowledge to make a wise choice between going round the long way
+and trying the cliff.
+
+=== p. 60 ===
+
+ Doing Thought Experiments
+
+   For practical purposes, a good imagination doesn’t generate
+lots of possibilities; too many for you to think about. Instead, it
+generates a few possibilities; those it’s most useful for you to think
+about—practical possibilities. Such an imagination improves your
+chances of survival. It is closely linked to the ability to predict the
+future. If you see someone starting across a rickety bridge, you
+may predict that it will collapse. Even if no one is starting across it,
+you may imagine yourself doing so, predict that it would collapse,
+decide not to try, and so save your life. In the long run, evolutionary pressures are likely to improve the accuracy and reliability
+of such imaginative exercises.
+   Imagining is our most basic way of learning about hypothetical
+possibilities. No wonder we use it in doing thought experiments.
+They are not some weird, self-indulgent thing only philosophers
+and a few other eccentrics do. Only the dumbest of animals would
+not think about hypothetical possibilities. When we do it, we
+usually do it in the normal human way, by using our imagination.
+Thought experimentation is just a slightly more elaborate, careful,
+and reflective version of that process, in the service of some
+theoretical investigation. Without it, human thought would be
+severely impoverished.
+
+                             Intuition?
+Unfortunately, some philosophers have described philosophical
+thought experiments in ways which make them sound much
+more exceptional and mysterious than they really are. When we
+judge that the man in Dharmottara’s story doesn’t know there’s a
+
+=== p. 61 ===
+
+                                     Doing Thought Experiments    
+
+fire over there, they say we are relying on an intuition that he
+doesn’t know there’s a fire over there. ‘Intuition’ sounds like some
+strange inner oracle, guiding or misguiding us from the depths.
+   To get clear about all this, the first step is to notice that such
+‘intuitions’ are not confined to the imagination. As we saw, it
+makes little difference whether we judge “He doesn’t know” when
+imagining a hypothetical scenario or when observing a real-life
+scenario of the same kind; the philosophical upshot is the same.
+According to fans of ‘intuition’, we are relying on an intuition that
+he doesn’t know even when we make the judgement about a real-life case. What’s more, on their view, we don’t just use intuition
+for tricky cases; we use it in boringly straightforward, everyday
+cases too, for instance when you judge that a stranger you pass in
+the street knows whether you are walking but doesn’t know
+whether you have coins in your pocket. It is also not supposed
+to matter whether the terms of the judgement happen to be ones
+philosophers are interested in. When you judge that the stranger
+you see is smartly dressed, you are still relying on intuition.
+   Do all judgements rely on intuition? That might make the
+category of intuition too broad and indiscriminate to be useful.
+Some philosophers try to narrow down the category by specifying
+that intuitive judgements (those based on intuition) are not inferred
+from evidence. But that restriction risks narrowing down the
+category too much. In a real-life Dharmottara case, the supposedly
+intuitive judgement “He doesn’t know there’s a fire over there” is
+based on evidence, such as the fact that he mistook a cloud of flies
+for smoke. In the corresponding imagined case, the same judge-ment made within the process of imagining has a similar basis. If
+
+=== p. 62 ===
+
+   Doing Thought Experiments
+
+basing a judgement in that way counts as inferring it from the
+evidence, then the key judgements in thought experiments are
+inferred from evidence, and so would not count as intuitive.
+   More promisingly, fans of intuition could narrow down the
+category by specifying that intuitive thinking is not based on a
+conscious process of inference. Thus, when I immediately judge “He
+doesn’t know” in Dharmottara’s story, my judgement counts as
+intuitive, for if there is a process of inference, I am not aware of it.
+By contrast, when I do a long mathematical calculation with pen
+and paper, I am aware of the process, so my answer does not count
+as intuitive. Drawing the line between intuitive and non-intuitive
+judgements in that way has a significant result: all non-intuitive
+thinking relies on intuitive thinking. For if non-intuitive thinking is
+traced back and back through the conscious processes of inference
+on which it was based, sooner or later one always comes to some
+thinking not itself based on a conscious process of inference, which
+therefore counts as intuitive thinking. Consequently, philosophy’s
+reliance on intuitive thinking shows nothing special about philosophy, because all thinking relies on intuitive thinking. When physicists go through a conscious process of rigorous inference, making
+calculations and using observations, they are still relying on intuitive thinking, because even their thinking has to start somewhere.
+That does not make their thinking irrational; it just means that at
+least some intuitive thinking is part of rational thinking.
+   Recently, some philosophers have argued that philosophers
+shouldn’t rely on intuitions. Others have argued that philosophers
+don’t rely on intuitions. The debate rests on confusion about what
+‘intuitions’ are supposed to be. However, most people agree that if
+philosophers rely on intuitions, they do so when giving verdicts
+
+=== p. 63 ===
+
+                                    Doing Thought Experiments 
+
+on thought experiments, such as “He doesn’t know”. But when
+they try to say what is special about those verdicts, they come up
+with a kind of thinking on which all human thinking relies, as we
+just saw, so both the idea that philosophers shouldn’t rely on it
+and the idea that they don’t are non-starters.
+   Of course, none of this means that all ‘intuitive’ thinking is
+rational. Some of it is bigoted, dogmatic, and utterly wrong. If
+people’s judgements of real-life cases are warped by prejudice, that
+prejudice is likely to warp their judgements of thought experiments too. For instance, someone who is indifferent to the suffering of animals in real life will probably manifest the same attitude
+when considering thought experiments about animal suffering.
+
+                              Biases
+Much recent scepticism about the reliability of philosophical
+thought experiments goes back to real-life experiments done by
+philosophers early in the century. They gave lots of non-philosophers some standard thought experiments and asked for
+their judgements. The results appeared to indicate that, for some
+thought experiments, people with East Asian cultural origins
+responded differently from people with European cultural origins,
+and women responded differently from men. In the philosophical
+tradition heavily reliant on thought experiments, they had mainly
+been judged by white males, but why should whites be any better
+than non-whites at judging thought experiments, or males any
+better than females?
+   More recently, however, such experiments have been redone
+many times, more carefully, with more involvement of fully
+
+=== p. 64 ===
+
+ Doing Thought Experiments
+
+trained psychologists, and the picture is now very different. The
+statistical differences between people of different ethnicities or
+genders have tended to disappear. The differences found earlier
+seem to have been the result of very subtle distortions in how
+people were selected for the experiments, which scenarios they
+were given, and so on—the sorts of easily overlooked confounding factors psychologists are trained to be on the
+lookout for, but philosophers are not. On the picture now
+emerging from the new evidence, the patterns underlying our
+reactions to philosophical thought experiments have far more
+to do with the cognitive capacities we humans share, irrespective of our ethnicity and gender. This is illustrated by the thought
+experiments with which I began the chapter. Dharmottara
+was a Buddhist in eighth-century Kashmir; I am non-religious
+in twenty-first-century Britain. Judith Jarvis Thomson is a
+woman; I am a man. Nevertheless, I find their thought experiments compelling.
+   That’s not the end of the story. After all, even if all humans
+agree on something, that doesn’t make it true. For example, if all
+humans agree that humans are the smartest creatures in the
+universe, it doesn’t follow that we are the smartest creatures in
+the universe. What if we all give the same verdict on a thought
+experiment, but that verdict is wrong? Although the way we use
+our imaginations in evaluating thought experiments will tend to
+be reliable, for reasons discussed earlier, there is no reason to
+expect it to be  per cent reliable—quite the opposite. We often
+make mistakes in judging real-life cases; why should we be
+immune to them in judging thought experiments? This isn’t a
+reason for not using thought experiments, for all human faculties
+
+=== p. 65 ===
+
+                                      Doing Thought Experiments 
+
+are fallible. Rather, it’s a reason for spreading our bets, not relying
+exclusively on thought experiments. If we use other methods too,
+they may help us catch our occasional mistakes in judging
+thought experiments, even if those mistakes are species-wide.
+Developing systematic general theories, supported by the evidence, is a good way of doing that. If we develop a systematic
+general theory about the possibilities for life to develop on any
+planet, supported by the evidence, we may come to realize how
+unlikely we are to be the smartest creatures in the universe.
+   In the long run, cognitive science, including the movement
+known as ‘X-phi’ (experimental philosophy), may cast light on
+inherent biases in human thinking, and so help us resist them, in
+ourselves as well as others. That hope is not restricted to biases in
+philosophy. Thinking in philosophy is too like thinking in other
+fields. It is not remotely plausible that we have any inherent bias
+whose distorting effects manifest themselves in philosophy but
+not in any other field of inquiry.
+

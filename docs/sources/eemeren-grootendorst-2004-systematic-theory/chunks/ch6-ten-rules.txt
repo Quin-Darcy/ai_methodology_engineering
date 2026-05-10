@@ -1,0 +1,1226 @@
+=== chunk: eemeren-grootendorst-2004-systematic-theory/ch6-ten-rules ===
+title: Rules for a Critical Discussion (the ten rules)
+source_pdf: docs/sources/eemeren-grootendorst-2004-systematic-theory/full.pdf
+pdf_pages: 133-167
+page_scheme: book
+plan_page_start: 123
+plan_page_end: 157
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 123 ===
+
+                Rules for a Critical Discussion
+
+             A critical-rationalistic view of reasonableness
+Words like “rational” and “reasonable” are used in and out of season in ordinary language. It is often unclear exactly what they are
+supposed to mean, and even if it is clear, the meaning is not always
+consistent. An extra difficulty is that the senses in which these words
+are used are not so precisely defined either. For ordinary usage, this
+is usually not necessary, but if we are to use these terms technically,
+we have to decide what they mean. This is particularly the case in the
+study of argumentation, where a systematic attempt is made to indicate whether or not an argumentation is valid (in the informal sense
+of problem valid and intersubjectively valid discussed in Chapter 2).
+The terms reasonable and rational play a crucial role here, since the
+evaluation of validity is put in the hands of a “rational critic who judges
+reasonably.”1
+   To start with the dictionary definitions, the Oxford English Dictionary
+distinguishes the following meanings of “reasonable”:
+
+   1.   Endowed with the faculty of reason; rational
+   2.   In accordance with reason; not irrational or absurd
+   3.   Proportionate
+   4.   Having sound judgement; ready to listen to reason, sensible
+
+1 Forthe role of a rational critic who judges reasonably, see Chapter 2 of this
+ volume.
+
+=== p. 124 ===
+
+  5. Within the limits of reason; not greatly less or more than might
+     be thought likely or appropriate; moderate; of a fair, average, or
+     considerable amount, size, etc.
+  6. Articulate
+  7. Requiring the use of reason
+
+The meanings “proportionate” (3), “articulate” (6), and “requiring
+the use of reason” (7) are not so relevant here, nor is (5) in the sense
+of “The weather was reasonable” or “My English is reasonable.” We
+shall therefore limit our attention to the other meanings (described
+in 1, 2, and 4).
+   Excluding now obsolete meanings and those that are confined
+to special disciplines such as physics and mathematics, the same
+dictionary distinguishes the following meanings of the epithet
+“rational”:
+
+  1. Having the faculty of reasoning; endowed with reason
+  2. Of, pertaining to, or based on reason or reasoning
+  3. In accordance with reason; not foolish, absurd, or extreme.
+
+   Leaving aside some subtle differences, clear correspondences can
+be seen to exist between the relevant meanings of the word “reasonable,” on the one hand, and the word “rational,” on the other. The
+main difference between “rational” and “reasonable” is generally that
+between “the use of the faculty of reasoning” and “the sound use of the
+faculty of reasoning.” In line with this, we shall use the term rational
+for the use of the faculty of reasoning and the term reasonable for the
+sound use of the faculty of reasoning. Although this terminology is
+derived from ordinary language usage, at the same time we pin down,
+in a regulatory fashion, the meanings of the two terms by stipulative
+definitions. After all, the difference in meaning between the two words
+in ordinary language is more diffuse, and the words are often used
+interchangeably.
+   By distinguishing in this way between rational and reasonable, we
+adhere to a traditional philosophical distinction that is often indicated
+by the German terms verständig and vernünftig. Unfortunately, even
+many scientific writers sometimes confuse the meanings of Verstand
+and Vernunft, but we shall try to distinguish consistently between rational in the sense of “based on reasoning” and reasonable in the sense
+
+=== p. 125 ===
+
+of “making sound use of the faculty of reasoning.”2 As we use these
+terms, rationality is a necessary condition of reasonableness, but not
+automatically a sufficient condition.3
+    The question now is that of the exact content of reasonableness
+in the sense of the sound use of reasoning. The process of scientific
+research is often regarded as the paragon of reasonableness. Even
+though it is pointed out nowadays that irrational elements play an
+important role in devising scientific theories,4 many epistemologists
+still regard the process of scientific research as the prototype of a
+purposive rational discussion and the most pronounced form of a
+reasonable exchange of ideas. It is therefore natural to begin to answer
+our question by examining how philosophers of science who have
+given much thought to it define reasonableness. This, however, proves
+to raise more problems than one might have expected. We shall discuss
+only a few of them that are most pertinent to us.
+    Various philosophers of science who are concerned with research
+methodology have tried to give the term reasonableness more substance
+by indicating which rules and criteria must be observed in the resolution of a scientific problem. In doing so, they often assume that
+the process of resolving a scientific problem can be regarded as conducting a scientific discussion. According to Habermas (1971), the
+purpose of a scientific discussion of this kind is to arrive at intellectual
+consensus.5 The rules that must be observed in a scientific discussion
+are based on the conventions of scientific tradition and intersubjective
+agreement. De Groot (1984) locates the reasonableness of the scientific method in the fact that an attempt is made to arrive at consensus
+by means of argumentation in a critical discussion. The consensus
+has to be reached in what de Groot calls the “forum” of scientists or
+scholars. The problems that confront researchers cannot be resolved
+by the application of precisely defined and infallible methodological
+
+2 Cf. Perelman (1979: 117–123).
+3 Reasonableness may, for instance, mean that in certain cases, not only verbal elements
+
+  are to be taken into account, but also visual elements that play a part in the argumentation process, such as supporting images. Reasonableness may sometimes even include
+  the incorporation of emotional factors in the analysis of an argumentative discourse
+  or text.
+4 See Kuhn (1962) and Feyerabend (1975).
+5 For a useful overview in English of Habermas’s insights, see Habermas (1998).
+
+=== p. 126 ===
+
+rules and criteria, because such rules and criteria simply do not exist.
+Of course, rules and criteria can be laid down to a certain point, but
+they are never sufficient. According to de Groot, the researchers will
+eventually still have to come up with arguments that are convincing
+for the forum and arguments are convincing only if they satisfy the
+idea of reasonableness shared by the scientific forum.
+   It is regrettable that, according to de Groot, it is impossible to indicate precisely who belongs to the forum. Although in itself this looks
+like a purely practical problem, it is in fact a major stumbling block
+because the normative-theoretical construction of a forum implies total openness. All relevant experts must be enabled to take part in the
+discussion, and a process of self-selection should guarantee the quality
+of its participants. The identity of the members of this discussion community can be determined in practice only to a certain extent. Some
+philosophers consider it necessary to distinguish between more than
+one forum: Each forum is connected with a specific sort of scientific
+problem or way of raising a question. In fact, a better way of solving
+the problem of the membership of the scientific forum seems to be
+to approach it from the opposite direction by first determining which
+discussion rules apply and then examining which researchers observe
+these rules.
+   In taking this approach, the problem of reasonableness is, of course,
+by no means solved. In modern philosophy of science, it is often
+assumed that there is more than one scientific methodology. Many
+oppose the suggestion that it is possible to draw up a single body
+of methodological rules that is absolutely reasonable. Ideologically,
+this suggestion is generally connected with a form of teleological
+thinking that assumes that there is an objective scale of reasonableness with an absolute and final limit. These days, such speculations
+are only rarely formulated by philosophers anymore, but instead it
+is often too easily assumed that the problems are solved once they
+are shifted from the methodological criteria and rules to the criteria for sound argumentation and the discussion rules of the forum. A glance at the study of argumentation is enough to make it
+clear that shifting the problem in this way does not solve it just like
+that. Philosophers of science who think otherwise have an exaggerated confidence in the problem-solving capacity of argumentation
+theory.
+
+=== p. 127 ===
+
+   The situation is, in fact, rather complicated, because, on the other
+hand, there are also philosophers of science who underestimate the
+scope and range of argumentation theory. They have a parti pris that
+a principal distinction must be made between descriptive and normative claims and that normative statements can never be the object of
+a reasonable discussion. It is often thought that wishes, preferences,
+and value judgments are based only on subjective preferences. By restricting reasonableness in this way, positivists and others adhering to
+this view relegate discussions about wishes, preferences, and so on to
+second place: They are discussions that do not satisfy the norm of
+reasonableness. This limitation of the notion of reasonableness gives
+free rein to those in politics, for example, who are not interested in
+maintaining reasonableness. It even provides them with an alibi for not
+using argumentation and immunizes their standpoints for criticism. In
+our view, there is no a priori justification for pronouncing wishes, aims
+and other choices of position that imply a value judgment unsuitable,
+for a reasonable discussion.6 It is the task of argumentation theorists
+to explain how in all these cases the general norm of reasonableness
+can be satisfied in a critical discussion.
+
+   Conceptions of reasonableness in the study of argumentation
+The dominant conceptions of reasonableness in the study of argumentation can best be characterized on the basis of two older works
+that, despite new ideas that have been developed in the last couple of
+decades, have so far been most influential in this discipline: Toulmin’s
+The Uses of Argument (1958) and Perelman’s and Olbrechts-Tyteca’s
+La nouvelle rhétorique (1958).7 The conceptions of reasonableness espoused in both these works are immediately directed against formal
+
+6 Our vision is not new. Apart from “cognitive reasonableness,” which is what scientists
+
+  usually concentrate upon, the analytic tradition distinguishes also “desiderative reasonableness,” which bears on wishes, aims, and norms, and “practical reasonableness,”
+  which relates to actions. Following in the philosophical footsteps of Popper, critical-rationalists have been emphasizing for years that any subject about which a critical
+  discussion can be conducted lends itself to a reasonable treatment, irrespective of
+  whether the difference concerns facts, ideas, judgments, attitudes, or actions.
+7 For a fuller discussion of the works of Toulmin and Perelman and Olbrechts-Tyteca, see
+
+  van Eemeren et al. (1996: chapter 5 and chapter 4, respectively). See also Chapter 2
+  of this volume.
+
+=== p. 128 ===
+
+logic. These authors credit logicians – in Toulmin’s later terminology –
+with a “geometrical” approach to reasonableness:
+
+We ‘know’ something (in the full and strict sense of the term) if-and-only-if we
+have a well-founded belief in it; our belief in it is well-founded if-and-only-if we can
+produce good reasons in its support; and our reasons are really ‘good’ (by the
+strictest philosophical standards) if-and-only-if we can produce a ‘conclusive’,
+or formally-valid argument, linking that belief back to an unchallenged (and
+preferably unchallengeable) starting point (1976:89).
+
+From the fact that formal logicians apply a formal criterion of validity, it cannot be concluded, however, that they automatically share a
+geometrical conception of reasonableness according to which the concept of “reasonableness” is only applicable to artificial arguments in a
+formal argumentation. Logicians do not simply equate the soundness
+of argumentation with the validity of the reasoning expressed in the
+argumentation. Although they usually do not pay much attention to
+this problem, some logicians, for example, emphasize the fact that the
+argumentation must also be relevant to the point defended. Because
+of their “formal orientation,” logicians nowadays concern themselves
+only with the truth of the premises of an argument to the extent that
+the truth of the premises structurally influences the validity of the argument. An argument is only logically valid if it has a form that rules
+out the possibility that it has true premises and a false conclusion.
+Logicians are not interested in “truth values” in themselves, let alone
+that they jointly adhere to the epistemological ideal of the “Eternal
+City of well-founded truth” that Toulmin holds to be characteristic of
+the geometrical approach.
+    Generally, neither do logicians opt for an “anthropological” approach to reasonableness, which implies that human knowledge is
+produced just by following shared procedures on which there is a consensus in a particular community (see Chapter 2). On this view, the validity of arguments does not depend on the formal, quasi-geometrical
+structure of the argument, but on this consensus. According to the
+anthropological concept of reasonableness, the validity criterion is
+determined on purely empirical grounds. In the past, it was not uncommon to regard logic as a descriptive science, but this conception has been in disgrace since Frege delivered his devastating critique of the psychological approach to logical principles as “laws of
+
+=== p. 129 ===
+
+thinking.”8 If one were to opt for an anthropological approach, one
+of the extreme consequences would be that formal fallacies that
+the discussants do not recognize as such must be regarded as valid
+arguments.9
+   There are also logicians – and we will follow them here – who prefer
+to adopt a “critical” view of reasonableness by attributing value both
+to the formal properties of arguments and to the shared knowledge
+that is necessary to achieve consensus. If these two different aspects
+are connected, it becomes possible to regard arguments as parts of
+a functionally “formal” argumentative procedure that is “intersubjectively” acceptable. In the critical approach to reasonableness, there is
+not only scrutiny of the effectiveness of the argumentative procedure,
+but also reflection on the advantages and disadvantages of following
+this procedure for the potential parties in a disagreement (Toulmin
+1976: 207–261). Logicians who have a critical ideal of reasonableness
+consider, just as Toulmin does, that a geometrical and an anthropological approach to argument eventually lead both to an impasse. In
+the geometrical case, it results in skepticism; in the anthropological
+case, in relativism. Logicians, however, usually give a somewhat different interpretation to “critical” than Toulmin. Unlike Toulmin, they
+do not link arguments exclusively with the justification of standpoints.
+Toulmin ignores the fact that logic can also be seen as a theory of
+criticism.10
+
+In both Toulmin’s model and the new rhetoric of Perelman and
+Olbrechts-Tyteca, the soundness of argumentation, as is customary
+in argumentation theory, is linked to specific judges, but they part
+company when it comes to identifying these judges. Perelman and
+Olbrechts-Tyteca regard argumentation as sound if its target audience
+accepts it. They thereby choose a sociological perspective, and adopt
+an anthropological norm of reasonableness, which implies that they ultimately equate the soundness of argumentation with its effectiveness
+on those who act in a particular case as the judges. The consequence is
+
+8 See Haack (1978: 238).
+9 On the other hand, the anthropological approach does justice to factors that formal
+
+   logic abstracts from, but that are all the same relevant to the evaluation of argumentation, such as the contextual circumstances in which the argumentation is advanced.
+10 See Jarvie (1976: 329).
+
+=== p. 130 ===
+
+that argumentation that is sound in one case need not be sound in the
+other case. The soundness of argumentation then depends essentially
+on the evaluation criteria of a more or less arbitrary group of people,
+who are selected by the speaker or writer. This means that the norm of
+reasonableness is potentially relativistic to a high degree: Potentially,
+there are as many kinds of reasonableness as there are judges – or even
+more, if one bears in mind that judges may change their mind and in
+the course of time come to apply other evaluation criteria. Perelman’s
+introduction of the restriction that argumentation is only reasonable
+when the “universal audience” considers it to be reasonable does in the
+end not entail any restriction: Each individual is free to determine who
+or what he considers to belong to the universal audience. Ultimately,
+this boils down to the fact that whoever puts forward an argument can
+also decide whether this argumentation is sound or not. After all, a
+speaker or writer can always imagine a reasonable audience that follows the same norm of reasonableness, and declare that public to be
+the universal audience.
+    Toulmin’s model indicates less clearly which norm of reasonableness is applied. At any rate, this norm is not geometrical. In his later
+books, Human Understanding (1972) and Knowing and Acting (1976),
+Toulmin rejects both the geometrical and the anthropological conception of reasonableness, but in The Uses of Argument, first published
+in 1958, his conception of reasonableness appears to have primarily
+anthropological characteristics. Toulmin thinks that the soundness of
+argumentation depends in the end on the specific evaluation criteria
+of a particular group of people. Unlike in Perelman and Olbrechts-Tyteca’s case, this group is in Toulmin’s case not arbitrary: It comprises
+representatives of the “field” – whatever this exactly means – to which
+the argumentation in question belongs. In our view, there is a striking
+resemblance between Toulmin’s group of judges and de Groot’s scientific forum. This is why it is all the more remarkable that Toulmin
+later usually also uses the term forum to refer to his experts (Toulmin,
+Rieke, and Janik 1979).
+    The crucial role played by experts in a field is, according to Toulmin,
+connected with the central position that is occupied in his model by
+the “warrant,” the legitimizing of the step from the premises (“data”)
+to the conclusion (“claim”). Only people who are familiar with the field
+of argumentation concerned can decide whether the “backing” of the
+
+=== p. 131 ===
+
+warrant is sufficient in a particular case. It is this “field-dependent” evaluation that gives Toulmin’s conception of reasonableness a relativistic
+character.11
+
+                  A dialectical notion of reasonableness
+A crucial objection that applies to both the geometrical and the anthropological norm of reasonableness is that they are both based on “justificationism”: Both approaches assume that reasonableness is concerned
+exclusively with legitimizing standpoints definitively. Justificationism
+of any kind, however, can never escape the so-called Münchhausen
+trilemma, because in the last resort the justification has to choose from
+the following three alternatives: (1) ending up in an infinite regress
+of new justifications (regressus in infinitum); (2) going round in a circle
+of mutually supporting arguments; (3) breaking off the justificatory
+process at an arbitrary point. None of these three alternatives is really
+satisfactory.12
+    Justificationists generally adopt the last alternative. They usually
+stop the process of justification at a certain point. The assertion where
+the justification is broken off is then declared to be axiomatic or
+is in some way or other elevated beyond further discussion. Sometimes, that assertion is retrospectively even raised to the status of a
+premise because its truth is taken to be evident on the basis of intuition or experience. In this way, a premise is created that is immune
+to criticism. It can function as an a priori truth or perhaps even as a
+dogma.
+    In our view, it is necessary to depart radically from the justifica-tionism of the geometrical and anthropological approaches to reasonableness and to replace these conceptions of reasonableness with a
+different one. We do so by adopting the view of a critical rationalist
+who proceeds on the basis of the fundamental fallibility of all human
+thought. To critical rationalists, the idea of a systematic critical scrutiny
+of all fields of human thought and activity is the principle that serves
+as the starting point for the resolution of problems. In this approach,
+conducting a critical discussion is made the point of departure for
+
+11 See also Burleson (1979: 115).
+12 See Albert (1975: 13).
+
+=== p. 132 ===
+
+the conception of reasonableness – which implies the adoption of a
+dialectical approach. As we have indicated, argumentation in a dialectical approach is regarded as part of a procedure for resolving a
+difference of opinion on the acceptability of one or more standpoints
+by means of a critical discussion. In this procedure, a certain role
+is played by critical insights from dialectics, by geometrical insights
+from logic, and by anthropological insights from rhetoric. The reasonableness of the procedure is derived from the possibility it creates
+to resolve differences of opinion (its problem validity) in combination
+with its acceptability to the discussants (its conventional validity). In this
+connection, the rules of discussion and argumentation developed in
+a dialectical theory of argumentation must be scrutinized in terms
+of both their problem-solving effectiveness and their intersubjective
+acceptability.13
+   The logical starting point that an assertion and its denial cannot
+both be true at the same time has as consequence for the discussion
+that one of the two assertions has to be withdrawn. Critical-rationalists
+conclude from this predicament that the dialectical scrutiny of claims
+in a critical discussion boils down to the exposure of (logical and pragmatic) inconsistencies. Barth and Krabbe (1982), for instance, have
+developed a dialectical method for detecting logical contradictions.
+Their method entails examining whether a particular thesis does not
+lead to contractions with certain concessions – that is, is tenable in the
+light of these concessions. If simultaneously maintaining the standpoint and the concessions leads to contradictions, either the standpoint or one or more of the concessions must be abandoned.14
+   In Barth and Krabbe’s formal dialectical theory, a discussion situation is assumed that differs substantially from the discussion situation
+that is normal in argumentative practice. The initial situation assumed
+in the regulated dialogues of formal dialectics appears in attempts to
+resolve a difference of opinion only in an argumentative discussion
+
+13 See Barth and Krabbe (1982: 21–22). For an extensive empirical research project
+
+   investigating the extent to which the pragma-dialectical procedure corresponds to
+   the norms of reasonableness of ordinary discussants and can claim conventional
+   validity, see van Eemeren, Meuffels, and Verburg (2000).
+14 Strictly speaking, in the system of Barth and Krabbe contradictions are not ruled
+
+   out. All that is prohibited is to call into question at a later stage an assertion that one
+   advanced earlier in the discussion.
+
+=== p. 133 ===
+
+or text when the protagonist has advanced his arguments in defense
+of a standpoint and then decides to check together with the antagonist
+whether this standpoint is indeed tenable in the light of the arguments
+that have been advanced. In fact, in such a case they are jointly examining if the standpoint is a conclusion that follows logically from the
+arguments that serve as premises. The antagonist should then be prepared to assume the role of opponent and to add the protagonist’s
+argumentation to his commitments. In ordinary discourse or texts,
+this rather artificial situation will not so easily occur, though the discussion partners are naturally entirely free to add a scrutiny of this
+kind if they want to.
+   Because a theory of argumentation must, in our view, deal in the
+first place with ordinary argumentative exchanges in ordinary language, in pragma-dialectics the general starting-point is a different
+one: A speaker or writer advances a standpoint and acts as protagonist, and a listener or writer expresses doubt with regard to the standpoint and acts as antagonist. (If this antagonist advances the opposite
+standpoint, the situation is already more complicated.) In a critical
+discussion that proceeds in accordance with pragma-dialectical rules,
+the protagonist and the antagonist try to find out whether the protagonist’s standpoint is capable of withstanding the antagonist’s criticism.
+After the antagonist has expressed doubt or criticism, the protagonist puts forward argumentation in defense of the standpoint. If a
+positive standpoint is defended, the protagonist attempts to justify
+the proposition(s) expressed in the standpoint; if a negative standpoint is defended, the protagonist attempts to refute this proposition
+(or these propositions). If there is reason to do so, in both cases the
+antagonist reacts critically to the protagonist’s argumentation. If the
+protagonist is confronted with new critical reactions on the part of
+the antagonist, the attempts at legitimizing or refuting the standpoint
+may be continued by putting forward new argumentation, to which
+the antagonist can react in turn, and so on. The difference of opinion is resolved when the arguments advanced lead the antagonist to
+accept the standpoint defended, or when the protagonist retracts his
+standpoint as a consequence of the critical reactions of the antagonist. In this way, there is an interaction between the speech acts of
+the protagonist and the speech acts of the antagonist that is typical
+of the dialectical process of convincing in a critical discussion. This
+
+=== p. 134 ===
+
+interaction can, of course, only lead to the resolution of a difference
+of opinion if it proceeds in an adequate fashion. This requires a regulation of the interaction that is in accordance with certain rules of
+critical discussion. It is the task of dialectical argumentation theorists
+to formulate these rules of critical discussion in such a way that together they constitute a problem-valid as well as a conventionally valid
+discussion procedure.
+   A procedure that promotes the resolution of differences of opinion cannot be exclusively confined to the logical relations by which
+conclusions are inferred from premises. It must consist of a system of
+regulations that cover all speech acts that need to be carried out in a
+critical discussion to resolve a difference of opinion. This means that
+the procedure should relate to all the stages that are to be distinguished
+in a critical discussion aimed at resolving a difference of opinion: the
+confrontation stage in which the difference of opinion is developed,
+the opening stage in which the procedural and other starting points
+are established, the argumentation stage in which the argumentation
+is put forward and subjected to critical reaction, and the concluding
+stage in which the outcome of the discussion is determined.
+   Following our basic model of the distribution of speech acts in the
+different stages of a critical discussion as described in Chapter 3, we
+developed in Speech Acts in Argumentative Discussions (1984) a pragma-dialectical theory of argumentation that includes a discussion procedure that in our view satisfies the criterion of problem-validity. The
+rules of procedure that apply to the different stages of a critical discussion are problem-valid because each of them makes a specific contribution to solving certain problems that are inherent in the various
+stages of the process of resolving a difference of opinion.15 Of course,
+the rules cannot offer any guarantee that discussants who abide by
+these rules will always be able to resolve their differences of opinion.
+They will not automatically constitute a sufficient condition for the
+resolution of differences of opinion, but they are at any rate necessary
+for achieving this purpose.
+
+15 In fact, the pragma-dialectical rules aspire to comply with the more specific norms
+
+  implicitly posed by Barth and Krabbe (1982) such as systematicity, realism, thoroughness, orderliness, and dynamism.
+
+=== p. 135 ===
+
+            The pragma-dialectical discussion procedure
+The rules of the pragma-dialectical discussion procedure pertain to the
+behavior of people who want to resolve their differences of opinion
+by means of a critical discussion. Because we are here concerned with
+deliberate behavior, or “acting,” for which the actors carry a certain
+responsibility, the rules apply to the acts that the discussants perform.
+In the externalized discussions we are concerned with, these acts consist primarily of speech acts. In Chapter 3, we have indicated which
+speech acts may occur in the successive stages of a critical discussion.
+For the sake of simplicity, we start in presenting our discussion procedure from a consistently non-mixed, single discussion, in which one
+and no more than one standpoint is defended. The rules must specify
+in which cases the performance of certain speech acts contributes to
+the resolution of the difference of opinion. This makes it necessary to
+indicate for each discussion stage when exactly the parties are entitled
+to perform a particular kind of speech act, and if and when they are
+even obliged to do so.
+    In the confrontation stage of an argumentative discourse or text
+dealing with a non-mixed, single difference, a standpoint is externalized (by discussant 1), and this standpoint is called into question
+(by discussant 2). If there is no difference of opinion, there is nothing to resolve, and the argumentative discussion is superfluous. A
+difference of opinion that is only partly externalized, or not externalized at all, does not make having a discussion superfluous, but
+it does make it difficult. A dialectically regulated discussion, at any
+rate, is ruled out. After all, rules for a critical discussion bear on the
+speech acts performed by the discussants involved in the difference
+and the ensuing commitments. The importance of the externalization of differences of opinion is therefore evident. One of the first
+tasks in the formulation of rules for a critical discussion is thus to
+promote an optimal externalization. This means that the discussants
+must be able to put forward every standpoint and to call every standpoint into question. The guarantee that this is possible can be obtained by explicitly granting every discussant the unconditional right to
+put forward or call into question every standpoint vis-à-vis every other
+discussant.
+
+=== p. 136 ===
+
+In principle, standpoints are expressed by means of assertives. The fundamental ability to put forward or to call into question any standpoint
+has the consequence that no special conditions apply to the propositional content of these assertives. The same is true of the propositional
+content of the negation of the commissive with which a standpoint
+is called into question. The unconditional right of discussants to put
+forward standpoints and to call them into question also means that no
+special preparatory conditions apply regarding the status or position of
+the speaker or writer and the listener or reader. It is not the might
+of the strongest that is decisive in a critical discussion, but the quality of
+the argumentation and criticism.
+    That differences of opinion may concern any standpoint and that
+all discussants have the unconditional right to put forward or call into
+question every standpoint is expressed in the following rule:
+
+a. Special conditions apply neither to the propositional content of the assertives
+by which a standpoint is expressed, nor to the propositional content of the negation of the commissive by means of which a standpoint is called into question.
+
+b. In the performance of these assertives and negative commissives, no special
+preparatory conditions apply to the position or status of the speaker or writer
+and listener or reader.
+
+Rule 1 applies to all the discussants who take part in a discussion.
+By virtue of this rule, discussants themselves are not only entitled to
+put forward and to call into doubt any standpoint, but they may also
+in no way prevent other discussants from doing the same either. It
+is perhaps superfluous to point out that rule 1 gives the discussants
+an unconditional right, but does not impose any obligation on them.
+Generally speaking, it is advisable to make use of the rights granted
+by virtue of rule 1. Anyone who wants a difference of opinion to be
+resolved will have to cooperate on the externalization of that difference.
+   A consequence of the unconditional rights that are granted the
+discussants under rule 1 is, for example, that a discussant who has just
+lost a discussion in which he defended a particular standpoint against
+another discussant reserves the right to put forward the same standpoint
+
+=== p. 137 ===
+
+to the same discussant again. This even applies to a discussant who has
+first successfully defended a particular standpoint and then proceeds
+to call it into question or to defend the opposite standpoint. Of course,
+it is debatable whether the other discussant will be prepared to begin a
+new discussion with such an idiosyncratic or unpredictable discussant,
+and also whether it is reasonable to expect him to do so. We shall return
+to the latter question in discussing the rules of the opening stage.
+
+In the opening stage, after discussant 1 has accepted discussant 2’s challenge to defend his standpoint, the discussants decide to hold a discussion, and they come to agreements on the allocation of roles and
+the discussion rules. The rules for a critical discussion must indicate
+when discussant 2 is entitled to challenge discussant 1, when discussant 1 is obliged to take up this challenge, who assumes the role of the
+protagonist, who assumes the role of the antagonist, what the shared
+premises are, which rules apply in the argumentation stage, and how the
+discussion is to be concluded in the concluding stage.
+
+The right to challenge
+We propose to grant the right to challenge a discussant to defend
+his standpoint unconditionally to any discussant who has called this
+standpoint into question in the confrontation stage. Since, by virtue
+of rule 1, every discussant also has the unconditional right to call every
+standpoint of every other discussant into question, this means that in
+principle there is no restriction on challenging any discussant on any
+standpoint by any discussant. This unconditional right is laid down in
+rule 2:
+
+The discussant who has called the standpoint of the other discussant into question in the confrontation stage is always entitled to challenge this discussant to
+defend his standpoint.
+
+The right enshrined in rule 2 may be an unconditional right of a
+discussant who has called a particular standpoint into question, but
+it is never an obligation. Challenging the other discussant to defend
+his standpoint, after all, must be regarded as a challenge to enter
+into discussion of this standpoint; if the other discussant accepts this
+
+=== p. 138 ===
+
+invitation, the challenger is bound by it. However, it is possible to imagine cases in which a discussant has good reasons not to enter into a
+discussion with this other discussant even though he does not accept
+the standpoint. One can think here of the idiosyncratic and unpredictable discussant whom we mentioned in our explanatory comments
+on rule 1. It therefore suffices to grant discussants the unconditional
+right to do this by virtue of rule 2, whether they are prepared to make
+use of this right or not.
+
+The obligation to defend
+It follows from the preparatory conditions of the assertive with which a
+discussant has expressed a standpoint that he is obliged to put forward
+proof or argumentation in defense of this standpoint when asked to
+do so. It should immediately be added, however, that it is debatable
+whether this obligation should apply under all circumstances, in all situations, and to every challenger. As a rule, a discussant who has been
+challenged is always obliged to defend the standpoint, and this obligation can only be removed by a successful defense of the standpoint
+or by retraction of the standpoint. A discussant who has successfully
+defended a standpoint is not subsequently obliged to defend the same
+standpoint again according to the same discussion rules and with the same
+premises against the same discussant. This would only lead to a repetition
+of the discussion that has already been conducted. It therefore seems
+reasonable to us to apply the legal principle of non bis in idem to a
+critical discussion too.
+    This principle does not apply to discussions either with a different
+challenger, or with the same challenger but with different premises, or
+different discussion rules. In any of those cases, the challenged discussant is obliged to defend the same standpoint again. Unlike a legal
+dispute, an argumentative dispute can in principle never be settled
+once and for all. The discussion can always be reopened. After all,
+it is quite possible (and very normal in practice) that new light can
+be thrown on the case, for example, on the basis of other premises.
+The rules for a critical discussion must encourage this, not rule
+it out.
+    It should be noted that the cessation of the obligation to defend
+through a successful defense does not affect the unconditional right
+to challenge a discussant as laid down in rule 2. Anyone who puts
+
+=== p. 139 ===
+
+forward a standpoint can be challenged to defend this standpoint, even
+if he has already successfully done so. The obligation of the challenged
+discussant to accept the challenge is nullified only if he has successfully
+defended the same standpoint against the same discussant with the
+same premises and the same discussion rules. It is not unreasonable
+to keep on challenging somebody, but it is not unreasonable to refuse
+to accept every challenge either.
+    As a long as a discussant has not yet successfully defended his standpoint (against any other discussant whatsoever), the obligation to defend it holds fully (assuming that he has not retracted the standpoint
+in the meantime). There is only one exception to this general rule. A
+critical discussion is impossible without certain shared premises and
+without shared discussion rules. Discussants who cannot agree on the
+premises and the discussion rules are not in a position to resolve a difference of opinion, and are therefore advised not to start a discussion.
+A challenged discussant cannot be obliged to defend a standpoint
+against a discussant who is not prepared to accept any premises and
+discussion rules.
+    The general obligation to defend and its crucial exception are laid
+down in rule 3:
+
+The discussant who is challenged by the other discussant to defend the standpoint
+that he has put forward in the confrontation stage is always obliged to accept
+this challenge, unless the other discussant is not prepared to accept any shared
+premises and discussion rules; the discussant remains obliged to defend the
+standpoint as long as he does not retract it and as long as he has not successfully
+defended it against the other discussant on the basis of the agreed premises and
+discussion rules.
+
+The obligation to defend as formulated in rule 3 is a (conditional)
+obligation to defend in principle. This means that the obligation to defend always applies (provided the conditions laid down are satisfied).
+However, there may be reasons or causes that make it impossible to
+comply with this obligation immediately in practice. For example, the
+discussant who is obliged to defend may not have the time to engage
+in a discussion with the challenger, or it may be the case that upon
+reflection he wants to document or prepare his case more thoroughly
+
+=== p. 140 ===
+
+first. However, this at most may lead to a postponement of the discussion
+(although in practice this can sometimes lead to its cancellation), but
+it does not alter the obligation to defend. This obligation holds fully
+until the discussant concerned has complied with it or has retracted
+his standpoint.
+    By recognizing the obligation to defend as laid down in rule 3,
+and by accepting the challenge of the other discussant, the discussant
+who has put forward the standpoint indicates his preparedness to discuss.
+The discussant who has challenged him can in turn indicate his preparedness to discuss by agreeing to shared premises and discussion
+rules. Rule 3 is thus aimed at externalizing the willingness to engage
+in discussion that may be expected of discussants who are involved in
+a dispute.
+
+Allocation of the burden of proof
+Rule 3 also regulates how the onus of proof with regard to a standpoint is distributed. Whoever puts forward a standpoint and does not
+retract it again bears the onus of proof for this standpoint once he is
+challenged (in accordance with the conditions as specified in rule 3)
+to defend this standpoint. The onus of proof in a discussion thus lies
+with the discussant who has the obligation to defend a standpoint in
+accordance with rule 3. In the case of non-mixed differences of opinion, which is what we are assuming here, the problem of allocating
+the onus of proof is dealt with by rule 3. In the case of mixed differences of opinion, which are common in practice, the situation is more
+complicated. Each party may have called the other’s standpoint into
+question and challenged the other party. In this case, however, the
+question of who bears the onus of proof is, in principle, not problematic either. The answer is simply that both discussants are obliged to
+defend their own standpoint in accordance with rule 3, and therefore
+each discussant bears the onus of proof for his respective standpoint.
+The question is thus not that of who bears “the” onus of proof in the
+discussion, but of who defends his standpoint first.16 The allocation
+
+16 In the case of a mixed dispute, it is thus not the case that the onus of proof has to be
+
+   conferred on one of the two discussants; both discussants bear a particular onus of
+   proof.
+
+=== p. 141 ===
+
+of the onus of proof in a mixed discussion does not raise problems of
+choice, but instead a problem of order.17
+   The discussants will have to consult among themselves to reach
+agreement on who defends his standpoint first. If they are unable to
+do so, the discussion will probably not take place, but the obligation
+to defend remains in force in relation to both standpoints. In the
+traditional view of the allocation of the onus of proof, a decision in a
+dilemma of this kind is forced by proposing that the person who attacks
+an established opinion or an existing state of affairs must begin the
+defense (if he is not the only person to bear the onus of proof according
+to this view). The conservative character of this view has been pointed
+out from various perspectives. Moreover, it is often problematic to
+determine what “the established standpoint” is.18
+
+Allocation of the discussion roles
+The first agreement that the discussants must make before they begin the argumentation stage concerns the allocation of roles in the
+discussion. The question is: Who will assume the role of protagonist,
+and who the role of antagonist? The answer to this question seems
+fairly obvious: The discussant who has put forward a standpoint in the
+confrontation stage must assume the role of the protagonist, and the
+discussant who has called this standpoint into question must assume
+the role of the antagonist. This is how things will normally proceed in
+practice, but it is not necessarily the case. It is quite possible for the
+roles to be reversed.
+   Although in practice the discussants will often pass over the question of the allocation of roles in silence, the discussant who has put
+forward a standpoint will almost automatically act as protagonist, and
+the discussant who has called this standpoint into question will do
+the same for the role of antagonist. We propose to leave it up to the
+discussants themselves to act otherwise if they prefer to do so. One
+condition is that both discussants agree to the allocation of roles and
+that they maintain the agreed allocation of roles throughout the whole
+discussion.
+
+17 See Hamblin (1970) and van Eemeren and Houtlosser (2002c).
+18 See van Eemeren and Houtlosser (2003).
+
+=== p. 142 ===
+
+The discussant who in the opening stage has accepted the other discussant’s
+challenge to defend his standpoint will fulfill the role of protagonist in the
+argumentation stage, and the other discussant will fulfill the role of antagonist,
+unless they agree otherwise; the distribution of roles is maintained until the end
+
+In the argumentation stage, the discussant who has assumed the role of
+protagonist tries to defend the initial standpoint against the discussant
+who has assumed the role of antagonist. The question is how the protagonist can defend the standpoint and how the antagonist can attack
+the standpoint. A further question is when are these attempts at defense and attack successful – in other words, when has the protagonist
+successfully defended the initial standpoint and when has the antagonist
+successfully attacked the initial standpoint.
+
+Agreements concerning the discussion rules
+Attacking and defending a standpoint take place in a critical discussion in accordance with shared rules of discussion. We shall discuss
+a number of these discussion rules for the argumentation stage. As
+mentioned earlier, these discussion rules must be understood as proposals that only come into force in a discussion once they have been
+accepted by the discussants who fulfill the roles of protagonist and
+antagonist. This means that the discussants in question have declared
+their readiness to conduct the discussion in accordance with shared
+rules. If the discussants who take part in a discussion have done this, the
+rules acquire the status of conventions by which the parties are bound
+during the discussion and to which they hold one another. In fully
+externalized discussions, this agreement on the discussion rules takes
+place explicitly. In practice, however, discussants often tacitly assume
+that they accept more or less the same discussion rules. Unlike in the
+case of explicitly agreed rules, the discussants in this case assume that
+they are bound by conventions.
+   The difference between explicit agreements and conventions need
+not necessarily have serious consequences for the course of the discussion. If both parties consistently abide by the rules, there is not
+even any difference between the two at all. The advantage of explicitly
+agreed rules only emerges if there is disagreement on the force of a
+rule applied by the other party or on the correctness of the application
+
+=== p. 143 ===
+
+of a rule in force. Explicit formulation makes it easier to reach a decision both on the force and on the application of the rule that is at
+issue.
+   As mentioned earlier, one consequence of explicit agreement on
+the discussion rules is that the discussants are bound by these rules (at
+least for the duration of the discussion). This implies that the discussion rules themselves may no longer be raised for discussion during
+the discussion itself. The rules apply as long as this discussion between
+these discussants continues. The only question concerning the rules
+that may be raised during the discussion is whether they are correctly
+applied. Of course, this does not mean that the rules may not be raised
+for discussion after the discussion has taken place or before the start of
+a new discussion. It certainly does not mean that there are rules that
+may never be raised for discussion. Without any exception, all rules
+can be called into question by any discussant who sees fit to do so.
+The rule that is questioned then acquires the status of a proposition
+on which different standpoints can be adopted (cf. rule 1). The discussion that arises on the rule, if one does, is a meta-discussion.
+
+The discussants who will fulfill the roles of protagonist and antagonist in the
+argumentation stage agree before the start of the argumentation stage on the
+rules for the following: how the protagonist is to defend the initial standpoint
+and how the antagonist is to attack it, and in which case the protagonist
+has successfully defended the standpoint and in which case the antagonist
+has successfully attacked it. These rules apply throughout the duration of the
+discussion, and may not be called into question during the discussion itself by
+either of the parties.
+
+Attacking and defending standpoints
+Three types of speech acts are performed in the argumentation stage:
+By means of assertives, the protagonist performs exclusively the complex speech act of argumentation, while the antagonist accepts this argumentation by performing the commissive acceptance or declines this
+argumentation by performing the negation of this commissive; the antagonist can then perform the directive request to elicit a new argumentation. These are the only accepted ways of attacking or defending standpoints in a critical discussion. They represent a right of the protagonist
+and the antagonist that is in principle unrestricted. The antagonist
+
+=== p. 144 ===
+
+may attack every argumentation advanced by the protagonist in this
+way (and in no other way), and every argumentation that is called into
+question may be defended in this way (and in no other way).
+    Putting forward argumentation in defense of a standpoint is always
+a provisional defense. The protagonist has not defended a standpoint
+definitively until the antagonist has fully accepted the argumentation.
+The acceptance of an argumentation implies that the propositions expressed in the argumentation are accepted and that the constellation
+formed by the argumentative utterances is regarded as legitimizing
+(pro-argumentation) or refuting (contra-argumentation) the proposition to which the standpoint pertains. The antagonist who does not
+accept the argumentation of the protagonist can thus call its propositional content into question, but he can also call into question its force
+as a justification or refutation.
+
+a. The protagonist may always defend the standpoint that he adopts in the
+initial difference of opinion or in a sub-difference of opinion by performing
+a complex speech act of argumentation, which then counts as a provisional
+defense of this standpoint.
+
+b. The antagonist may always attack a standpoint by calling into question
+the propositional content or the justificatory or refutatory force of the argumentation.
+
+c. The protagonist and the antagonist may not defend or attack standpoints
+in any other way.
+
+The discussion rules for the argumentation stage must explicitly lay
+down in which case the defense of the protagonist is to be regarded
+as successful. The rules must indicate when the antagonist is obliged
+to accept the argumentation put forward by the protagonist as an
+adequate defense of the standpoint. Then and only then, when the
+protagonist has defended a standpoint in accordance with the rules
+and the antagonist is obliged to accept the defense in accordance with
+these rules, may the protagonist be said to have successfully defended
+his standpoint. If the protagonist fails to do so, the antagonist has
+successfully attacked the standpoint (assuming, of course, that he has
+observed the other discussion rules).
+
+=== p. 145 ===
+
+    We shall first concentrate on the regulations that apply when (part
+of ) the propositional content of an argumentation is called into question. By calling the propositional content of an argumentation into
+question, the antagonist creates a new point of contention. Since the
+protagonist has adduced the argumentation in support of the standpoint, he will adopt a positive standpoint with regard to this proposition and is obliged (by virtue of rules 3 and 4) to defend it again. Beside
+the initial dispute, bearing on the initial standpoint of the protagonist, a
+sub-dispute then arises, bearing on this positive sub-standpoint. A whole
+chain of sub-disputes, sub-sub-disputes, and so on can arise in this way.
+In this case, the argumentation of the protagonist is subordinatively
+compound.
+    In which case is the antagonist obliged to accept the propositional
+content of an argumentation? This question can only be answered if
+the discussants that are to fulfill the roles of protagonist and antagonist
+agree in the opening stage on how they will decide on the acceptability
+of the propositions advanced by the protagonist in his argumentation. To this end, they must explicitly spell out both which list of propositions they both accept and how they will decide together on the acceptability
+of other propositions.
+
+The intersubjective identification procedure
+The propositions that are accepted by both parties may concern facts,
+truths, norms, values, or value hierarchies. The discussants are completely free to draw up a list of propositions accepted by both parties.
+All the propositions they both accept may be included. The only restriction is that the list must be consistent. It may not contain any
+propositions that are inconsistent with other propositions. Otherwise
+it would always be possible to successfully defend any arbitrary standpoint against an attacker, which inevitably renders the resolution of a
+difference of opinion impossible. That a proposition is included in the
+list of accepted propositions means only that the discussants are agreed
+that the proposition in question may not be called into question during the discussion. In other words, for the purpose of this discussion
+they accept it, although they might not do so in other contexts. The
+list specifies which propositions have been accepted by the discussants
+for the duration of the discussion, and can therefore be regarded as
+their shared premises.
+
+=== p. 146 ===
+
+   How can the protagonist make use of the list of agreed propositions
+in defending the argumentation that he has advanced? If the antagonist only calls the propositional content of the argumentation into
+question, the protagonist can point out that, according to him, the
+proposition(s) in question appear(s) in the list. The protagonist and
+the antagonist must then check to determine whether this is actually the case. If so, the antagonist is obliged to retract his objection
+to the proposition(s) in question and to accept the argumentation.
+The protagonist has then successfully defended himself against the attack of the antagonist. This method of defense by the protagonist thus
+consists of participating in joint scrutiny, at his request, to determine
+whether the propositions that have been called into question really
+are identical to the propositions in the list of propositions accepted by
+both parties. We refer to this method as the intersubjective identification
+procedure. If the application of this procedure yields a positive result,
+the antagonist is obliged to accept the propositional content of the
+argumentation put forward by the protagonist. If the application of
+this procedure yields a negative result, the protagonist is obliged to
+retract this argumentation.
+   The earlier remarks on the conventional status of the rules for the
+argumentation stage also apply to the propositions accepted by both
+parties. In fully externalized discussions, it is explicitly determined
+in advance which propositions are accepted by both parties, but in
+practice, these propositions usually function as mutually presupposed
+shared background knowledge. As long as both parties are in tacit
+agreement that a particular proposition belongs to the shared background knowledge, it makes no difference. As soon as disagreement
+arises, however, neither of the parties can appeal to the other party’s
+commitment, and both parties can easily (rightly or wrongly) deny
+that they are committed to certain propositions.
+   Of course, the protagonist must also be allowed to make use of
+propositions on which no prior agreement has been reached. Otherwise
+the protagonist would only be able to defend a standpoint by making use of propositions that had already come up at the start of the
+discussion. This is an undesirable restriction. The protagonist must
+therefore be able to make use of new information in his defense.
+   In order to make use of new information in a critical discussion, it is
+necessary for the discussants to agree in the opening stage on how they
+
+=== p. 147 ===
+
+will determine whether a proposition should be accepted or not. The
+methods agreed on may consist of consulting oral or written sources
+(encyclopedias, dictionaries, reference works) or of joint perception
+(by way of experiment, or not). As in the case of the list of propositions
+accepted by both parties, both discussants must consider the method
+chosen to be adequate.
+
+In addition to carrying out the intersubjective identification procedure, the discussants can also decide in the opening stage to allow
+for a sub-discussion to be conducted in which it is determined whether
+the proposition on which agreement was first lacking can be accepted
+in the second instance. The protagonist will then have to take a positive sub-standpoint with regard to the proposition concerned, and
+defend it against possible objections and criticisms of the antagonist. This sub-discussion has to be conducted in accordance with the
+same premises and the same discussion rules accepted in the original
+discussion.19
+
+The consequences of the recommended regulations of the protagonist’s opportunities for defense are laid down in rule 7:
+
+a. The protagonist has successfully defended the propositional content of a
+complex speech act of argumentation against an attack by the antagonist if
+the application of the intersubjective identification procedure yields a positive result or if the propositional content is in the second instance accepted
+by both parties as a result of a sub-discussion in which the protagonist has successfully defended a positive sub-standpoint with regard to this propositional
+content.
+
+b. The antagonist has successfully attacked the propositional content of the
+complex speech act of argumentation if the application of the intersubjective
+identification procedure yields a negative result and the protagonist has not
+
+19 The following explanation might be didactically helpful. At this stage, the discussants
+
+   have not yet reached full agreement on all the premises that, apart from the premise
+   at issue, are to be accepted, and the discussion rules that are to be applied. The
+   sub-discussion that is required, of course, cannot be conducted effectively until such
+   an agreement has been reached.
+
+=== p. 148 ===
+
+successfully defended a positive sub-standpoint with regard to this propositional
+content in a sub-discussion.
+
+The intersubjective inference procedure
+As laid down in rule 6, the antagonist may call an argumentation into
+question not only for its propositional content, but also for its force of
+justification or refutation. How can the protagonist successfully defend
+himself against an attack on the force of justification or refutation of his
+argumentation, and in which case is the antagonist bound to accept?
+Before they embark on the argumentation stage, the discussants must
+agree in the opening stage on how this will be determined.
+    If the protagonist adopts a positive standpoint, the question can be
+raised of whether the reasoning “propositional content of the argumentation, thus proposition to which the standpoint refers” is valid as it stands. If
+the protagonist adopts a negative standpoint, it is necessary to determine whether the reasoning “propositional content of the argumentation,
+thus not proposition to which the standpoint refers” is valid as it is. The validity of the reasoning in the argumentation needs to be judged only if
+this reasoning is completely externalized and the protagonist can be
+regarded committed to the claim that the soundness of the argumentation depends on its logical validity.
+    Being able to check whether the arguments of the protagonist are
+logically valid calls for logical rules, such as the dialogue rules of the
+Erlangen School, to evaluate the validity of the arguments. This makes
+it possible to examine whether a contended proposition is defensible
+in relation to the premises (viewed as a concession) that constitute
+the argumentation. Since checking the validity of the arguments is
+a matter of determining whether the protagonist’s inferences are acceptable, we shall refer to this procedure as the intersubjective inference
+procedure.
+
+The intersubjective explicitization procedure
+If the reasoning in the argumentation is not completely externalized –
+and for that reason cannot be valid as it stands – the question will be
+whether the argumentation makes use of an argument scheme that is
+considered admissible by both parties and that has been correctly applied. As a rule, the argument scheme employed in an argumentation is
+not made explicit in the discourse or text, but has to be reconstructed.
+
+=== p. 149 ===
+
+To this end, the antagonist and the protagonist should jointly carry out
+an intersubjective explicitization procedure. This procedure can be based
+on similar principles as the procedure that we have developed for
+rendering unexpressed premises explicit. It must lead to agreement
+between the discussants on the kind of argument scheme that is used
+in the argumentation. When the reasoning in the argumentation of
+the protagonist is incomplete, and thus cannot be valid, it is in the
+interest of the protagonist that the intersubjective explicitization procedure be carried out. It must therefore be carried out at the request
+of the protagonist.
+
+The intersubjective testing procedure
+Once the argument scheme that is employed in the protagonist’s argumentation has been reconstructed by means of the intersubjective
+explicitization procedure, it must be determined whether this argument scheme can be considered admissible by both parties and has
+been correctly applied. In order to check that the argumentation of
+the protagonist is based on an argument scheme that is admissible, it
+is necessary that the protagonist and the antagonist have first jointly
+determined which argument schemes may and may not be used. In
+principle, the discussants are free to decide on this, provided the decision is based on mutual consent. In special cases, however, there
+may be specific institutional conditions in force that prohibit the
+use of certain schemes. For example, in some countries the use of
+argumentation by analogy is inadmissible in certain criminal law disputes. Of course, discussants may also conclude that it is better to
+exclude certain forms of argumentation without such conditions being in force. For instance, they might decide not to use argumentation
+based on authority because the subject under discussion does not lend
+itself to determination by authority, or they might decide not to draw
+any comparisons because as a rule comparisons do not constitute a
+decisive argument.
+   Only when agreement has been reached on the nature of the argument schemes to be used does it make sense to determine which
+applications of the schemes adopted are or are not admissible. For
+example, the discussants may appeal to certain conditions for making causal or other connections between different types of propositions. They may also determine which critical questions the different
+
+=== p. 150 ===
+
+argument schemes are expected to answer.20 In these cases, they
+may agree that although a comparison is in principle an admissible
+form of argumentation, argumentation of this kind will only be regarded as decisive if no single relevant difference can be demonstrated
+between the cases under comparison.
+    Since checking the overall acceptability of the argument scheme
+is concerned with determining how to scrutinize the contents of the
+step from the proposition that is expressed in the argumentation to
+the proposition that is expressed in the standpoint, we shall refer to
+this procedure as the intersubjective testing procedure.
+
+a. The protagonist has successfully defended a complex speech act of argumentation against an attack by the antagonist with regard to its force of justification
+or refutation if the application of the intersubjective inference procedure or (after
+application of the intersubjective explicitization procedure) the application of
+the intersubjective testing procedure yields a positive result.
+
+b. The antagonist has successfully attacked the force of justification or refutation of the argumentation if the application of the intersubjective inference
+procedure or (after application of the intersubjective explicitization procedure)
+the application of the intersubjective testing procedure yields a negative result.
+
+Attacking and defending standpoints conclusively
+On the basis of the discussion so far, and by virtue of rules 7 and 8,
+we can now indicate when the protagonist has conclusively defended
+an initial standpoint or a sub-standpoint by means of argumentation
+and when the antagonist has conclusively attacked this standpoint. For a
+conclusive defense of a standpoint, the protagonist must have defended
+both the propositional content of the argumentation (as prescribed in
+rule 7) and its force of justification or refutation with regard to the proposition on which the standpoint bears (as prescribed in rule 8). For a
+conclusive attack on a standpoint, the antagonist must have successfully
+attacked either the propositional content of the argumentation or its force
+of justification or refutation (as prescribed in rules 7 and 8). The antagonist may try to do both (by virtue of rule 6), but for a conclusive attack
+
+20 See van Eemeren and Grootendorst (1992: 92–102).
+
+=== p. 151 ===
+
+on the standpoint, it is sufficient to succeed in one of the two attempts.
+This is laid down in rule 9:
+
+a. The protagonist has conclusively defended an initial standpoint or sub-standpoint by means of a complex speech act of argumentation if he has successfully defended both the propositional content called into question by the
+antagonist and its force of justification or refutation called into question by the
+antagonist.
+
+b. The antagonist has conclusively attacked the standpoint of the protagonist
+if he has successfully attacked either the propositional content or the force of
+justification or refutation of the complex speech act of argumentation.
+
+If the protagonist manages to defend the initial standpoint in the
+prescribed manner, this standpoint is thereby at the same time conclusively defended. A conclusive defense of a sub-standpoint, however,
+does not automatically mean that the initial standpoint is thereby conclusively defended. To defend the initial standpoint conclusively, it is
+necessary by virtue of rule 9 that the force of justification or refutation
+of the first argumentation also be successfully defended (as prescribed
+in rule 8). The same applies, mutatis mutandis, to the defense of sub-standpoints with the help of sub-sub-standpoints, and so on.
+
+Optimal use of the right to attack
+Rules 7, 8, and 9 refer to attacking and defending standpoints, but
+the antagonist need not necessarily call into question everything that
+the protagonist puts forward in the discussion. By virtue of rule 6, the
+antagonist is entitled to call into question both the propositional
+content and the force of justification or refutation of each of the protagonist’s argumentations, but he is not obliged to do so. It is quite
+possible, however – and very common in practice too – that in the
+course of the discussion the antagonist may suddenly realize that he
+was wrong in accepting the whole argumentation without objection. It
+may also happen that he has in the first instance only called into question the propositional content of an argumentation, but not its force
+of justification or refutation, and regrets this upon reflection. The antagonist must be given the opportunity to exercise the rights that he
+passed up earlier. That opportunity can be given to the antagonist by
+
+=== p. 152 ===
+
+allowing him to make use of the right to which he is entitled by
+virtue of rule 6 throughout the entire discussion. This addition to rule 6
+thus offers the antagonist the opportunity to make optimal use of
+his right of attack, and it is therefore conducive to the resolution of a
+difference of opinion.
+
+The antagonist retains throughout the entire discussion the right to call into
+question both the propositional content and the force of justification or refutation
+of every complex speech act of argumentation of the protagonist that the latter
+has not yet successfully defended.
+
+Optimal use of the right to defend
+By virtue of rule 9, for a conclusive defense of the initial standpoint,
+the protagonist is obliged to defend himself against all attacks by the
+antagonist on an argumentation that he has put forward. However, it is
+possible that the antagonist has called into question both the propositional content of an argumentation and its force of justification or refutation, and that the protagonist has in the first instance only defended
+himself against the first attack by conducting a new argumentation.
+The antagonist may then call this new argumentation into question,
+and if the protagonist defends himself against this attack, this does
+not mean that the first argumentation has thereby been conclusively
+defended. The protagonist must be given the opportunity to defend
+it conclusively at this point. This opportunity can be offered by allowing him to defend every argumentation that is attacked throughout
+the whole discussion against the attacks of the antagonist. This gives
+the protagonist the opportunity to make optimal use of his right of
+defense, and this too, like the optimal use of the right of attack by the
+antagonist, is conducive to the resolution of a difference of opinion.
+
+The protagonist retains throughout the entire discussion the right to defend
+both the propositional content and the force of justification or refutation of
+every complex speech act of argumentation that he has performed and not yet
+successfully defended against every attack by the antagonist.
+
+Another way of enabling the protagonist to make optimal use of
+the right of defense is to give him the opportunity to retract an
+
+=== p. 153 ===
+
+argumentation that has already been put forward once. It may happen that the protagonist in the first instance considers that he can
+defend the initial standpoint or sub-standpoint conclusively by means
+of this argumentation, while later he realizes that this is not the case.
+By retracting an argumentation, the protagonist withdraws his commitment to it and thus also the obligation to defend it. In this way,
+the protagonist can correct himself in the course of the discussion.
+He may replace the retracted argumentation with another, which he
+considers able to be defended successfully. Protagonists should have
+the opportunity both to withdraw an argumentation on their own initiative without its being called into question by the antagonist, and if
+the antagonist has called the argumentation into question. Since the
+obligation to defend the argumentation ceases when it is retracted,
+protagonists may still be able to satisfy the requirement formulated in
+rule 9 for a conclusive defense of initial standpoints.
+
+The protagonist retains throughout the entire discussion the right to retract any
+complex speech act of argumentation that he has performed, and thereby to
+remove the obligation to defend it.
+
+The orderly conduct of the discussion
+The addition at the end of rules 10 and 11 means that the antagonist
+may not carry out attacks on an argumentation that the protagonist has
+already successfully defended and that the protagonist does not have
+to defend (and is not even allowed to defend!) himself against attacks
+that he has already successfully parried. These provisions prevent the
+discussion from being endlessly held up by repetitions of identical
+attacks or defenses. Such repetitions are pointless because they are in
+no way conducive to a resolution of the difference of opinion. The
+legal principle of non bis in idem – already mentioned in connection
+with rule 3 – is applicable here as well.
+    A critical discussion must not only not contain any pointless repetitions of identical speech acts; it must also proceed in an orderly fashion. This requires provisions that are conducive to the
+rapid and efficient resolution of differences of opinion. These provisions taken as a whole form a set of regulations for the orderly conduct
+of a critical discussion. The provisions contained in rule 13 can be
+
+=== p. 154 ===
+
+regarded as an important part of such a set of regulations on orderly
+conduct.
+
+a. The protagonist and the antagonist may perform the same speech act or the
+same complex speech act with the same role in the discussion only once.
+
+b. The protagonist and the antagonist must in turn make a move of (complex)
+speech acts with a particular role in the discussion.
+
+c. The protagonist and the antagonist may not perform more than one move of
+(complex) speech acts at one time.
+
+In the concluding stage, the discussant who has carried out the role of
+protagonist in the argumentation stage either does or does not retract
+the initial standpoint, and the discussant who has carried out the role of
+antagonist in the argumentation stage either does or does not maintain
+the calling into question of the initial standpoint. The discussants close
+the discussion together by determining the final outcome (that may
+or may not lead them to start a new discussion). The only point that
+calls for explicit regulation in the concluding stage is to determine in
+which case the protagonist is obliged to retract the initial standpoint
+on the basis of the attacks carried out by the antagonist during the
+argumentation stage, and in which case the antagonist is obliged to
+retract his calling the initial standpoint into question on the basis
+of the defense carried out by the protagonist. These regulations are
+embodied in rule 14:
+
+a. The protagonist is obliged to retract the initial standpoint if the antagonist has conclusively attacked it (in the manner prescribed in rule 9) in the
+argumentation stage (and has also observed the other discussion rules).
+
+b. The antagonist is obliged to retract the calling into question of the initial
+standpoint if the protagonist has conclusively defended it (in the manner prescribed in rule 9) in the argumentation stage (and has also observed the other
+discussion rules).
+
+c. In all other cases, the protagonist is not obliged to retract the initial standpoint, nor is the antagonist obliged to withdraw his calling into question the
+initial standpoint.
+
+=== p. 155 ===
+
+No rule is needed to determine in which case the protagonist may retract the initial standpoint or in which case the antagonist may retract
+his calling into question of the initial standpoint. Both the protagonist and the antagonist are entitled to do so at every stage of the
+discussion. If one of them makes use of this entitlement, the difference of opinion is thereby immediately removed and the discussion is
+over. Of course, this premature conclusion to the discussion cannot be
+regarded as a resolution of the difference of opinion that is the outcome
+    The reason for not laying down this right of retraction on the part of
+the protagonist and the antagonist in a discussion rule is that this right
+follows immediately from the premise on which all the discussion rules
+are based. After all, all discussion rules assume that the discussants can
+never be obliged or forced to put forward or to call into question a
+standpoint. On this premise, discussants who put forward standpoints
+or call them into question do so of their own free will, and this means
+that they are also entitled to withdraw these standpoints or expressions
+of doubt of their own free will as well.
+    Nor is a rule necessary to indicate in which case the protagonist
+may continue to maintain the initial standpoint and in which case the
+antagonist may continue to call that initial standpoint into question.
+The reason is that this is already implied by rule 14. If the antagonist is
+obliged to retract his calling the initial standpoint into question, then
+the protagonist automatically has the right to continue to maintain
+the initial standpoint, and if the protagonist is obliged to retract the
+initial standpoint, the antagonist automatically has the right to continue to call that initial standpoint into question. The protagonist and
+the antagonist must themselves decide whether they wish to make use
+of this right or not.
+    After the discussants have concluded the discussion by jointly determining who has won the discussion, in accordance with rule 14, they
+can decide to conduct a new discussion or not. This new discussion, for
+example, might concern a different initial standpoint with regard to
+the same proposition, a statement that formulates a proposition from
+the list of accepted propositions (that is, a premise of the previous
+discussion) or a previously accepted discussion rule (so that a meta-discussion arises). Of course, it is for the discussants to decide whether
+they want to begin a new discussion (and if so, what its subject is). If
+
+=== p. 156 ===
+
+they decide to do so, the rules for conducting a critical discussion will
+apply to the new discussion as well.
+
+Rights and obligations regarding usage declaratives
+In the confrontation stage of a critical discussion, it is very important
+that the discussants understand each other’s speech acts. This naturally
+holds for the other stages of the discussion as well. If a discussant is
+unclear in formulating his standpoint or in calling a standpoint into
+question, or if the other discussant misinterprets the formulations,
+there is a high probability that they will speak at cross-purposes. It
+is also conceivable that no discussion will arise at all, since in view
+of the formulation the other discussant sees no grounds for calling
+the standpoint into question. The rules for a critical discussion must
+therefore not only be conducive to the externalization of differences
+of opinion, but above all to the optimal externalization of the differences. To this end, discussants must formulate optimally and they must
+also interpret optimally. Although it is not easy to determine when a
+formulation or an interpretation is optimal, the formulations and interpretations must at least not obstruct the resolution of a difference of
+opinion in a critical discussion. The consequence of this requirement
+is that a discussant must choose formulations that are comprehensible to the other discussants, and that these other discussants must
+interpret the formulations in accordance with their well-considered
+assumptions about the first discussant’s intention. Moreover, where
+necessary, all discussants must be prepared to replace their formulations and interpretations with better ones.
+    Aiming for optimal formulations and optimal interpretations does
+not, unfortunately, mean that these aims are attained automatically.
+To be on the safe side, discussants who doubt the clarity of their formulation would do well to replace it by a formulation they consider to
+be clearer, and discussants who doubt their interpretation would do
+well, to be on the safe side, to put it to the other discussant and ask for
+an amplification, specification, or other usage declarative.
+    The resolution of differences is furthered if the discussants have
+the opportunity, either of their own accord or at the request of others,
+to provide an amplification, specification, explanation, or definition.
+If the discussants consider it desirable, they may therefore always perform such usage declaratives in a discussion and they may also always
+
+=== p. 157 ===
+
+request other discussants to perform a usage declarative. The latter
+right creates an obligation for the other discussant to accede to a request of this kind. The rights and obligations of discussants in relation
+to the performance of usage declaratives or to requesting the performance of usage declaratives are laid down in rule 15:
+
+a. The discussants have the right at every stage of the discussion to request the
+other discussant to perform a usage declarative and to perform one themselves.
+
+b. The discussant who is requested to perform a usage declarative by the other
+discussant is obliged to act accordingly.
+
+Our proposals for rules for a critical discussion come to an end with
+rule 15. Each of the rules formulated here makes it possible to satisfy
+a necessary condition for the resolution of a difference of opinion.
+As a whole, the rules are conducive to the resolution of a difference
+of opinion by means of argumentative discussions. The rules do not
+guarantee that differences of opinion can always be resolved in practice
+by means of these rules. That, naturally, requires more.21
+
+21 We refer here not only to further elaborations, specifications, and above all “oper-
+
+  ationalizations” that are called for, but also to the fulfillment of the “higher-order
+  conditions.” See van Eemeren, Grootendorst, Jackson, and Jacobs (1993: 30–34) and
+  Chapter 8 of this volume.
+

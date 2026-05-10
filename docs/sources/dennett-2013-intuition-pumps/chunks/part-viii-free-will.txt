@@ -1,0 +1,1594 @@
+=== chunk: dennett-2013-intuition-pumps/part-viii-free-will ===
+title: Part VIII — Tools for Thinking about Free Will (Chs. 65–73)
+source_pdf: docs/sources/dennett-2013-intuition-pumps/full.pdf
+pdf_pages: 311-359
+page_scheme: pdf
+plan_page_start: 311
+plan_page_end: 359
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 311 ===
+
+                                                VIII.
+                 TOOLS FOR THINKING ABOUT FREE WILL
+
+The chasm between the manifest image and the scientific image is at its
+most treacherous when the topic is free will. Like the questions of what
+color is, what it really is, and what dollars are, really, when you get right
+down to it the question of whether free will is an illusion or something we
+actually have invites us to use the scientific image to investigate this issue,
+which is posed in the traditional terms of the manifest image. And the
+invitation has been enthusiastically accepted in recent years. There has
+been quite a chorus of eminent scientists saying, point blank, that free will
+is an illusion: neuroscientists Wolf Singer, Chris Frith, and Patrick
+Haggard; psychologists Paul Bloom and Daniel Wegner; and a few rather
+well-regarded physicists, Stephen Hawking and Albert Einstein. Could so
+many brilliant scientists be wrong? Many—not all, and maybe not most—
+philosophers say yes. They say this is a job for philosophy! Are they right?
+I think so.
+   The scientists have typically been making a rookie mistake: confusing
+the manifest image with what we might call the folk ideology of the
+manifest image. The folk ideology of color is, let’s face it, bonkers; color
+just isn’t what most people think it is, but that doesn’t mean that the
+manifest world doesn’t really have any colors; it means that colors—real
+colors—are quite different from what most folks think they are. The folk
+ideology of consciousness is also bonkers—resolutely dualistic and
+mysterian; if that were what consciousness had to be, then Wright would be
+right (see p. 313): we’d have to say that consciousness doesn’t exist. But
+we don’t have to treat consciousness as “real magic”—the kind that doesn’t
+exist, made of wonder tissue; we can recognize the reality of
+consciousness as a phenomenon by acknowledging that folks don’t yet have
+a sound ideology about it. Similarly, free will isn’t what some of the folk
+ideology of the manifest image proclaims it to be, a sort of magical
+isolation from causation. I’ve compared free will in this sense to levitation,
+and one of the philosophical defenders of this bonkers vision has frankly
+
+=== p. 312 ===
+
+announced that a free choice is a “little miracle.” I wholeheartedly agree
+with the scientific chorus that that sort of free will is an illusion, but that
+doesn’t mean that free will is an illusion in any morally important sense. It
+is as real as colors, as real as dollars.
+   Unfortunately, some of the scientists who now declare that science has
+shown that free will is an illusion go on to say that this “discovery”
+matters, in a morally important sense. They think it has major implications
+for morality and the law: nobody is ever really responsible, for instance, so
+nobody ever deserves to be either punished or praised. They are making the
+mistake people make when they say that nothing is ever solid, not really.
+They are using an unreconstructed popular concept of free will, when they
+should be adjusting it first, the way they do with color and consciousness
+(and space and time and solidity and all the other things that the ideology
+of the manifest image gets wrong).
+   The intuition pumps in this part are designed to wean you from that
+ideology about free will and get you to see a better concept, the concept of
+real free will, practical free will, the phenomenon in the manifest image
+that matters. The controversies that have swirled around the topic of free
+will for several millennia are too many and too tangled to be settled in any
+one part or book, but we have to start somewhere, and these are thinking
+tools that work rather like crowbars, jimmying you out of well-worn ruts
+into rather new terrain with better perspectives. The first is designed to
+show why this is such an important task.
+
+=== p. 313 ===
+
+65. A TRULY NEFARIOUS NEUROSURGEON
+
+We are at the dawn of neurosurgical treatment of debilitating psychological
+conditions. Deep brain stimulation by implanted electrodes is showing
+striking effects in treating obsessive-compulsive disorder (OCD), for
+instance, as reported in a pioneering study by neuropsychiatrist Damiaan
+Denys and his colleagues (2010) in Amsterdam. That is fact, but this is
+fiction: One day a brilliant neurosurgeon said to a patient on whom she had
+just performed an implantation procedure in her shiny high-tech operating
+theater:
+          The device I’ve implanted doesn’t just control your OCD; it
+          controls your every decision, thanks to our master control system,
+          which maintains radio contact with your microchip twenty-four
+          hours a day. In other words, I’ve disabled your conscious will;
+          your sense of free will henceforth will be an illusion.
+In fact she had done no such thing; this was simply a lie she decided to tell
+her patient to see what would happen. It worked; the poor fellow went out
+into the world convinced that he was not a responsible agent, but rather a
+mere puppet, and his behavior began to show it: he became irresponsible,
+aggressive, and negligent, indulging his worst whims until he got caught
+and put on trial. Testifying in his own defense, he passionately protested his
+non-responsibility because of the implant in his brain, and the
+neuroscientist, when called to testify, admitted what she had said, and
+added, “But I was just messing with his head—a practical joke, that’s all. I
+never thought he’d believe me!”
+   It really doesn’t matter whether the court believed his testimony or hers,
+whether it sentenced him or her; either way she ruined his life with her ill-considered assertion, robbing him of his integrity and crippling his power
+to make decisions. In fact, her false “debriefing” of her patient actually
+accomplished nonsurgically much of what she claimed to accomplish
+surgically: she disabled him. But if she is responsible for this dire
+consequence, the neuroscientists currently filling the media with talk about
+how their science shows that free will is an illusion are risking mass-production of the same harm to all the people who take them at their word.1
+Neuroscientists, psychologists, and philosophers need to take seriously
+
+=== p. 314 ===
+
+their moral obligation to think through the presuppositions and
+implications of their public pronouncements on these issues with the same
+care that is demanded of people who hold forth on global warming or
+impending asteroid strikes. For just one example, consider the message that
+wily social critic and observer Tom Wolfe (2000 p. 100) finds in the
+pronouncements of these neuroscientists:
+            The conclusion people out beyond the laboratory walls are
+            drawing is:
+              The fix is in! We’re all hardwired! That, and: Don’t blame me!
+            I’m wired wrong!
+Wired wrong? What would it be, then, to be wired right—or have scientists
+“discovered” that nobody is, or could be, wired right for moral
+responsibility?
+
+1 If you doubt that instilling such a belief could have such consequences, see Vohs and Schooler
+(2008) and the subsequent literature for experimental evidence.
+
+=== p. 315 ===
+
+66. A DETERMINISTIC TOY: CONWAY’S GAME OF LIFE
+
+When physicist Richard Feynman found himself listening to a scientific
+talk in a field he didn’t know well, he had a favorite question to ask the
+speaker: Can you give me a really simple example of what you’re talking
+about? If the speaker couldn’t oblige, Feynman got suspicious, and rightly
+so. Did this person really have something to say, or was this just fancy
+technical talk parading as scientific wisdom? If you can’t make a hard
+problem relatively simple, you are probably not going about it the right
+way. Simplification is not just for beginners.
+   Biology has its “model organisms”—species that have been carefully
+chosen to ease the path of the experimenter; they reproduce swiftly in the
+lab, are relatively safe and easy to handle, and—once they have been
+studied by many teams—are well mapped and understood: the fruit fly, the
+laboratory rat, the zebra fish, the squid (for its giant nerve axon), the
+nematode worm Caenorhabditis elegans, and Arabidopsis thaliana, a hardy,
+fast-growing plant related to mustard, the first plant to have its entire
+genome sequenced. Artificial intelligence (AI) has its own simple cases,
+known as “toy problems,” which, as the name suggests, are deliberately
+oversimplified versions of “serious” real-world problems. Many of the
+most interesting programs devised in AI are solutions to toy problems—
+such as getting a computer program to build simple structures in the blocks
+world, a virtual world consisting of a tabletop with a bunch of movable
+children’s blocks on it. Playing chess is a toy problem; it is certainly much
+more tractable than driving a car from Maine to California, or solving the
+Arab–Israeli conflict, or even making a sandwich of appropriate ingredients
+found in a kitchen. Ethicists have their trolley problems: In the simplest
+version, a runaway trolley is heading down a track where if it is not
+diverted it will hit and kill five people who cannot get off the track; there is
+a switch that you can throw that will divert the trolley to a side track—
+where it will hit and kill a single person. Do you throw the switch?
+   Here is a toy world for helping people think about determinism, the idea
+that the facts at one moment in time—the location, mass, direction, and
+velocity of every particle—determine what happens in the next moment,
+
+=== p. 316 ===
+
+and so on, forever. Physicists and philosophers and others have argued for
+several millennia about whether our universe is deterministic, or whether
+there are some genuinely undetermined events: utterly unpredictable
+“random” events that just happen without anything causing them to happen.
+Even experienced thinkers may find new insights by playing around with
+Life, the breathtakingly simple model of a deterministic world created by
+the mathematician John Horton Conway and his graduate students in 1970.
+   Life is played on a two-dimensional grid, such as a checkerboard, using
+simple counters, such as pebbles or pennies—or one could also go high-tech and play it on a computer screen. It is not a game one plays to win; if
+it is a game at all, it is solitaire. The grid divides the plane into square
+cells, and each cell is either ON or OFF at each moment. (If it is ON, place
+a penny on the square; if it is OFF, leave the square empty.) Notice that
+each cell has eight neighbors: the four adjacent cells—north, south, east,
+and west—and the four diagonals—northeast, southeast, southwest, and
+northwest.
+
+Time in the Life world is discrete, not continuous; it advances in ticks, and
+the state of the world changes between each tick according to the following
+rule:
+         Life Physics: For each cell in the grid, count how many of its
+         eight neighbors are ON at the present instant. If the answer is
+         exactly two, the cell stays in its present state (ON or OFF) in the
+         next instant. If the answer is exactly three, the cell is ON in the
+
+=== p. 317 ===
+
+          next instant whatever its current state. Under all other conditions
+          the cell is OFF.
+   That’s the only rule of the game. You now know all there is to know
+about how to play Life. The entire physics of the Life world is captured in
+that single, unexceptioned law. While this is the fundamental law of the
+“physics” of the Life world, it helps at first to conceive this curious physics
+in biological terms: think of cells going ON as births, cells going OFF as
+deaths, and succeeding instants as generations. Either overcrowding (more
+than three inhabited neighbors) or isolation (less than two inhabited
+neighbors) leads to death. Consider a few simple cases.
+
+In the configuration in figure 2, only cells D and F have exactly three
+neighbors ON, so they will be the only birth cells in the next generation.
+Cells B and H each have only one neighbor ON, so they die in the next
+generation. Cell E has two neighbors ON, so it stays on. So the next
+“instant” will look like figure 3.
+
+=== p. 318 ===
+
+   Obviously, the configuration will revert back in the next instant, and this
+little pattern will flip-flop back and forth indefinitely, unless some new ON
+cells are brought onto the scene somehow. It is called a flasher or traffic
+light. What will happen to the configuration in figure 4?
+
+   Nothing. Each ON cell has three neighbors ON, so it is reborn just as it
+is. No OFF cell has three neighbors ON, so no other births happen. This
+configuration is called a still life.
+  By the scrupulous application of our single law, one can predict with
+perfect accuracy the next instant of any configuration of ON and OFF cells,
+and the instant after that, and so forth. In other words, the Life world is a
+
+=== p. 319 ===
+
+toy world that perfectly instantiates the determinism made famous by the
+early-nineteenth-century French scientist Pierre Laplace: given the state
+description of this world at an instant, we observers can perfectly predict
+the future instants by the simple application of our one law of physics. Or
+we could put it this way: when we adopt the physical stance toward a
+configuration in the Life world, our powers of prediction are perfect: there
+is no noise, no uncertainty, no probability less than one. Moreover, it
+follows from the two-dimensionality of the Life world that nothing is
+hidden from view. There is no backstage; there are no hidden variables; the
+unfolding of the physics of objects in the Life world is directly and
+completely visible.
+   If you find following the simple rule a tedious exercise, there are
+computer simulations of the Life world in which you can set up
+configurations on the screen and let the computer execute the algorithm for
+you, changing the configuration again and again according to the single
+rule. In the best simulations, the scale of both time and space can be
+changed, alternating between close-up and bird’s-eye views.
+   One soon discovers that some simple configurations are more interesting
+than others. Consider a diagonal line segment, such as the one shown in
+
+  This pattern is not a flasher; each generation, the two ON cells at either
+end of the row die of isolation and there are no birth cells. The whole
+segment soon evaporates. In addition to the configurations that never
+
+=== p. 320 ===
+
+change—the still lifes—and those that evaporate entirely, such as the
+diagonal line segment, there are configurations with all kinds of
+periodicity. The flasher, we saw, has a two-generation period that continues
+ad infinitum, unless some other configuration encroaches. Encroachment is
+what makes Life interesting: among the periodic configurations are some
+that swim, amoeba-like, across the plane. The simplest is the glider, the
+five-pixel configuration shown taking a single stroke to the southeast in
+
+   Then there are the eaters, the puffer trains and space rakes, and a host of
+other aptly named denizens of the Life world that emerge as recognizable
+objects at a new level (analogous to the design level). This level has its own
+language, a transparent foreshortening of the tedious descriptions one could
+give at the physical level. For instance:
+          An eater can eat a glider in four generations. Whatever is being
+          consumed, the basic process is the same. A bridge forms between
+          the eater and its prey. In the next generation, the bridge region
+          dies from overpopulation, taking a bite out of both eater and prey.
+          The eater then repairs itself. The prey usually cannot. If the
+          remainder of the prey dies out as with the glider, the prey is
+          consumed. [Poundstone, 1985, p. 38]
+
+=== p. 321 ===
+
+   Notice that something curious happens to our “ontology”—our catalogue
+of what exists—as we move between levels. At the physical level there is
+no motion, only ON and OFF, and the only individual things that exist,
+cells, are defined by their fixed spatial location. At the design level we
+suddenly have the motion of persisting objects; it is one and the same
+glider (though each generation is composed of different cells) that has
+moved southeast in figure 5, changing shape as it moves; and there is one
+less glider in the world after the eater has eaten it in figure 7.
+   Notice too that whereas at the physical level, there are absolutely no
+exceptions to the general law, at this level our generalizations have to be
+hedged: they require “usually” or “provided nothing encroaches” clauses.
+Stray bits of debris from earlier events can “break” or “kill” one of the
+objects in the ontology at this level. Their salience as real things is
+considerable, but not guaranteed. To say that their salience is considerable
+is to say that one can, with some small risk, ascend to this design level,
+adopt its ontology, and proceed to predict—sketchily and riskily—the
+behavior of larger configurations or systems of configurations, without
+bothering to compute the physical level. For instance, one can set oneself
+the task of designing some interesting super-system out of the “parts” that
+the design level makes available.
+   This is just what Conway and his students set out to do, and they
+succeeded majestically. They designed, and proved the viability of the
+design of, a self-reproducing entity composed entirely of Life cells.
+Grinding away deterministically on its infinite plane, it would copy itself
+perfectly, and then its copy would copy itself, and so forth. It was also (for
+good measure) a Universal Turing machine: a two-dimensional computer
+that in principle can compute any computable function! What on earth
+inspired Conway and his students to create first this world and then this
+amazing denizen of that world? They were trying to answer at a very
+abstract level one of the central questions of biology: What is the minimal
+complexity required for a self-reproducing thing? They were following up
+the brilliant early speculations of John von Neumann, who had been
+working on the question at the time of his death in 1957. Francis Crick and
+James Watson had discovered the structure of DNA in 1953, but how it
+worked was a mystery for many years. Von Neumann had imagined in some
+detail a sort of floating robot that picked up pieces of flotsam and jetsam
+that could be used to build a duplicate of itself, and that would then be able
+
+=== p. 322 ===
+
+to repeat the process. His description (posthumously published, 1966) of
+how an automaton would read its own blueprint and then copy it into its
+new creation anticipated in impressive detail many of the later discoveries
+about the mechanisms of DNA expression and replication, but in order to
+make his proof of the possibility of a self-reproducing automaton
+mathematically rigorous and tractable, von Neumann had switched to
+simple, two-dimensional abstractions, now known as cellular automata.
+Conway’s Life world cells are a particularly agreeable example of cellular
+automata.
+   Conway and his students wanted to confirm von Neumann’s proof in
+detail by actually creating a two-dimensional world with a simple physics
+in which such a self-replicating construction would be a stable, working
+structure. Like von Neumann, they wanted their answer to be as general as
+possible, and hence as independent as possible of actual (earthly? local?)
+physics and chemistry. They wanted something dead simple, easy to
+visualize and easy to calculate, so they not only dropped from three
+dimensions to two but also “digitized” both space and time: all times and
+distances, as we saw, are in whole numbers of “instants” and “cells.” It was
+von Neumann who had taken Alan Turing’s abstract conception of a
+mechanical computer (now called a Turing machine) and engineered it into
+the specification for a general-purpose stored-program serial-processing
+computer (now called a von Neumann machine), and in his brilliant
+explorations of the spatial and structural requirements for such a computer,
+he had realized—and proved—that a Universal Turing machine (see part
+IV) could in principle be “built” in a two-dimensional world.1 Conway and
+his students also set out to confirm this with their own exercise in two-dimensional engineering.2
+   It was far from easy, but they showed how they could “build” a working
+computer out of simpler Life forms. Glider streams can provide the input-output “tape,” for instance, and the tape-reader can be some huge assembly
+of eaters, gliders, and other bits and pieces. What does this machine look
+like? Poundstone (1985) calculated that the whole construction would be on
+the order of 1013 cells or pixels.
+         Displaying a 1013-pixel pattern would require a video screen
+         about 3 million pixels across at least. . . . [Imagine a screen with
+         the high resolution of your laptop or iPad, a half a mile wide.]
+         Perspective would shrink the pixels of a self-reproducing pattern
+
+=== p. 323 ===
+
+          to invisibility. If you got far enough away from the screen so that
+          the entire pattern was comfortably in view, the pixels (and even
+          the gliders, eaters and guns) would be too tiny to make out. A
+          self-reproducing pattern would be a hazy glow, like a galaxy. [pp.
+          227–288]
+
+   In other words, by the time you have built up enough pieces into
+something that can reproduce itself (in a two-dimensional world), it is
+roughly as much larger than its smallest bits as an organism is larger than
+its atoms. You probably can’t do it with anything much less complicated,
+though this has not been strictly proved.
+   The game of Life illustrates many important principles and can be used
+to construct many different arguments or thought experiments, but I will
+use it to illustrate just three points, leaving you to discover others for
+yourself: First, notice how the distinction between the physical stance and
+the design stance gets blurred here. Do gliders, for instance, count as
+designed things, or as natural objects—like atoms and molecules? The
+tape-reader that Conway and his students cobbled out of gliders and eaters
+and the like must count as designed if anything does, but its ingredients are
+quite raw materials—the simplest “things” in the Life world. Nobody had
+to design or invent the glider; it was discovered to be implied by the
+physics of the Life world. But that, of course, is actually true of everything
+in the Life world. Nothing happens in the Life world that isn’t strictly
+implied—logically deducible by straightforward theorem-proving—by the
+physics and the initial configuration of cells. Some of the things in the Life
+world are just more marvelous and unanticipated (by us, with our puny
+intellects) than others. There is a sense in which the Conway self-reproducing computer pixel-galaxy is “just” one more Life macromolecule
+with a very long and complicated periodicity in its behavior. This nicely
+illustrates a parallel point about biology and the origin of life: amino acids,
+one might say, just are; they didn’t have to be designed. But proteins,
+composed of nothing but amino acids, are too fancy; they are at least sorta
+designed. Darwin’s gradualism makes yet another appearance.
+   Second, the Life world, being deterministic, has a perfectly predictable
+future for every possible configuration, but, somewhat surprisingly, its past
+is often perfectly inscrutable! Consider the still life consisting of four ON
+pixels in a square. You can’t tell from looking at it, or even looking at it
+
+=== p. 324 ===
+
+and its neighborhood, what its past was. To see this, note that any three of
+the four pixels ON would lead, in the next generation, to this still life of
+four pixels ON. Whether any of those cells were OFF in the past is an inert
+historical fact.
+   Third, recall how important “noise” and collisions were in creating the
+mutations that evolution—like other creative processes—feeds on.
+Conway’s huge construction reproduced itself, but it couldn’t mutate. It
+would always make a perfect copy of itself, and in order to introduce
+mutations into the picture, the whole construction would have to be
+enlarged many fold. Why? Because the Life world is deterministic, so the
+only way a “random” mutation can occur is if some stray bit of stuff
+wanders (pseudo-randomly) onto the scene and breaks something. But the
+smallest moving thing is a glider, so think of it as like a single photon, or
+cosmic ray, moving at the speed of (Life physics) light. A single glider can
+do a lot of damage; if it must barely “tweak” something in the genome of
+the self-reproducing thing without destroying the genome, that genome is
+going to have to be very large, relative to the glider, and quite robust. It
+might well be provable that evolution could not occur in the Life world, no
+matter how large we made the entities, if it turned out that these galaxy-sized assemblages were just too fragile to survive an occasional rain of
+gliders.
+
+1 See Dennett, 1987, chapter 9, for more on the theoretical implications of this trade-off in space
+and time.
+2 For a completely different perspective on two-dimensional physics and engineering, see A. K.
+Dewdney’s Planiverse (1984), a vast improvement over Edwin A. Abbott’s Flatland (1884), and a
+magnificent thinking tool in its own right.
+
+=== p. 325 ===
+
+67. ROCK, PAPER, AND SCISSORS
+
+Probably every one of you knows the game of rock, paper, and scissors.
+Two people face each other, and count, “One, two, three, shoot!” and each,
+simultaneously, extends a hand either clenched in a fist (rock), with a pair
+of fingers extended (scissors), or with the palm flat open facing down
+(paper). Rock breaks (beats) scissors, scissors cut (beat) paper, and paper
+covers (beats) rock. Unless both players display the same hand symbol—a
+tie—one player wins and the other loses. It’s a tantalizing game because if
+you can outguess your opponent, you can seem to read her mind and come
+up with the right hand shape to win consistently. It’s unnerving when that
+happens. Can some people play the game better than others? Apparently,
+since there have been tournaments with large cash prizes in which national
+and international winners have emerged, and—this is important since every
+tournament has to be won by somebody even if there is no skill involved—
+the better players have a history of winning.
+   How do they do it? Perhaps by picking up subtle hints from the faces and
+postures of their opponents. Poker players speak of reading the “tell” of
+another player, sensing when they are bluffing and when they aren’t, while
+maintaining a “poker face” of their own. Perhaps most people who play
+rock, paper, and scissors have a tell that they can’t control and that the best
+players pick up at the last instant. So what is the best strategy to use to
+prevent your opponent from picking up a pattern from your outer
+demeanor? Playing absolutely randomly is the best, since if you play a
+random sequence of moves, there is simply no pattern for your opponent to
+detect. (While you are playing randomly, and breaking even, you can try to
+find a pattern in your opponent’s moves, and use that pattern to craft a
+nonrandom strategy, and then strike.)
+   People are notoriously bad at creating actually random series. They tend
+to switch too often, avoiding choosing the same move two or three times in
+a row, for instance (which ought to occur fairly often in a genuinely random
+series). Knowing that your casual effort to create a genuinely patternless
+series is apt to fail, you should consider a better strategy: get a table of
+random numbers from the library (or online). Put your finger “at random”
+
+=== p. 326 ===
+
+somewhere on the table, and copy down the next hundred digits. Throw out
+all the 0s (say), and then replace each 1, 2, or 3 with “R” (for rock), each 4,
+5, and 6, with “P” (for paper), and each 7, 8, and 9 with “S” (for scissors).
+This will give you a sequence of approximately ninety moves (since you
+threw out approximately ten 0s), which should be enough for a match.
+   Now you’re ready to play, and the cardinal rule is: keep your list secret.
+If your opponent gets to peek at it, you will be completely at her mercy. As
+the saying goes, she will turn you into a money pump. If she has no way of
+getting at your list, on the other hand, she will have to start trying to
+second-guess you, anticipating your line of thinking as best she can. (In
+short, she will have to treat you from the intentional stance and reason
+about your reasoning, instead of treating you as a simple mechanism whose
+behavior she can reliably read off your list.)
+   This simple principle of keeping your intended choices secret from your
+opponent turns out to be one of the central pivots in the long-standing
+controversies over free will. In fact, the invention of game theory by von
+Neumann and Morgenstern (1944) began with the recognition that while a
+solitary agent (or intentional system) trying to predict the future from the
+information it gathers can get by with a calculation of expected utility using
+probability theory (of one sort or another), as soon as there are two agents,
+two intentional systems in the environment, the circumstance is changed
+radically. Now each agent has to take into account the attempts at
+prediction by the other agent, and include the other agent’s observation of,
+and attempts to anticipate and exploit, its own behavior, creating feedback
+loops of indefinite complexity.1
+   This fundamental fog of inscrutability or unpredictability of agents by
+each other creates the conditions in which game theory flourishes.
+Evolution has discovered this, and many species can be seen to apply the
+principles of game theory (competence without comprehension!) in their
+interactions. Gazelle stotting is just one simple example. Another is the
+erratic flight of butterflies, whose trajectories are hard for insectivorous
+birds to predict, though evolution has helped the birds by giving them a
+faster “flicker fusion rate” than we have, for instance (they see more
+“frames per second” than we do—a movie would look like a slide show to
+them).
+   Be unpredictable, and look out for others following this advice!
+“Appreciation” of this principle can be seen in the widespread instinct
+
+=== p. 327 ===
+
+found in animals who, when confronted with any complicated moving
+entity, try to treat it as an agent—“Who goes there, and what do you want?”
+not just “What’s that?”—in order to be safe, because maybe it is an agent
+and it wants to eat the animal, or to mate with it, or to fight over some
+prize. This instinctual response is the source in evolution of the invention
+of all the invisible elves, goblins, leprechauns, fairies, ogres, and gods that
+eventually evolve into God, the ultimate invisible intentional system
+(Dennett, 2006a).
+   Like animals who adopt this strategy without having to know why, we
+human beings appreciate the tactic of preserving our unpredictability
+without having to understand why this is such a good idea. But it’s pretty
+obvious, most of the time. When you are shopping and spot an antique that
+you have to have, you know better than to gush over it before you’ve
+learned the selling price. You’ll get scalped by the seller if you don’t. When
+you advertise something for sale, you put a reasonable asking price on it—
+one you would be content to receive—because you can’t tell when a buyer
+would actually pay more, and you hope that the buyer can’t tell how much
+less you would accept than your asking price. (You can refuse to bargain, of
+course.) Auctions are ways of exploring this terra incognita, and if you trust
+the auctioneer with an advance bid, you are counting on his integrity not to
+reveal your maximum to the other bidders.
+   Similarly, when you fall head over heels in love at first sight of
+somebody, you do your best not to swoon and pant, keeping as reserved and
+casual as possible; you don’t want to scare this paragon off or,
+alternatively, let this delight have too much of the upper hand, wrapping
+you around her little finger. A poker face is not just for poker. In general,
+you improve your chances of getting what you want by keeping the
+competition—the other agents in the neighborhood—off balance, so they
+don’t have good enough hunches about which way you’re going to leap to
+prepare for your landing. (It’s costly to prepare another agent’s
+environment, so your opponents won’t try to anticipate you unless they
+have very good evidence of what you will do.)
+   Magicians know how to do a “psychological force” to get you to pick
+from the deck (“of your own free will”) the card they want you to take.
+There are many methods, all subtle and hard to detect, and a really good
+magician can do it most of the time. This is a genuine abridgement of your
+
+=== p. 328 ===
+
+agency, a manipulation that turns you into a tool, a pawn, an extension of
+the magician’s will, not a free agent.
+   Contrary to ancient ideology, we don’t want our free choices to be utterly
+uncaused. What we all want, and should want, is that when we act, we act
+based on good information about the best options available to us. If only
+the environment will cause us to have lots of relevant true beliefs about
+what’s out there, and also cause us to act on the most judicious assessment
+of that evidence we could achieve! That would give us almost everything
+we want as agents—except this: we wouldn’t want the environment to
+include a manipulative agent that usurps control from us, so we wouldn’t
+want the environment to make our best moves too obvious to all the other
+agents out there, for then they can exploit us, knowing too much about what
+we want and how much we want it. So add to our wish list the capacity to
+keep our thought processes and our decisions to ourselves, even if it means
+on occasion choosing our second-best option, just to keep the others off
+balance. (Clegg, 2012, provides a pioneering formal analysis of this.)
+   Some people, dimly appreciating the importance of this unpredictability,
+think that “just to be safe” they should hold out for absolute
+unpredictability, which can be achieved only if, down in the basement of
+our brains, matters are physically indeterministic. Here is how the
+philosopher Jerry Fodor (2003) once put it with characteristic vividness:
+         One wants to be what tradition has it that Eve was when she bit
+         the apple. Perfectly free to do otherwise. So perfectly free, in
+         fact, that even God couldn’t tell which way she’d jump. [p. 18]
+   But why does “one want” this? Is this absolute unpredictability any
+better, really, than practical unpredictability? Many philosophers, over
+several thousand years, have insisted on absolute unpredictability as a
+condition of genuine free will. Do they know something that we don’t
+know? If so, they are keeping it secret. To almost all of them, the idea that
+free will is incompatible with determinism has seemed too obvious to need
+an argument. I say that the burden of proof is on them. Show us why we
+ought to despair if we can’t have absolute unpredictability. I’ve shown why
+we—like evolution itself—are wise to arrange for as much practical
+unpredictability as we can. Tell us, please, why that is not enough.
+   I will give you one good reason: if you plan to play rock, paper, and
+scissors with God, for high stakes (salvation, maybe), then you have reason,
+just as Fodor says, to want “perfect” freedom. I, for one, don’t anticipate
+
+=== p. 329 ===
+
+that contest, so I am content with the practical freedom I have by just
+keeping my counsel and staying away from sleight-of-hand artists and
+other manipulators when the stakes are high.
+
+1 A delicious example of runaway higher-order second-guessing appears in the film The Princess
+Bride, in the scene in which Wallace Shawn as Vizzini tries to outwit Cary Elwes as Westley in the
+“Which cup has the poison?” encounter, and ends up outwitting himself. See http://www
+.dailymotion.com/video/xhr71a_never-go-in-against-a-sicilian-when-death-is-on-theline_shortfilms.
+
+=== p. 330 ===
+
+68. TWO LOTTERIES
+
+Compare the following two lotteries for fairness. In Lottery A—for
+“After”—all the tickets are sold, their stubs are placed in a suitable mixer
+and mixed, as randomly as you like, and then the winning ticket is blindly
+drawn. (Most lotteries we encounter are like this.) In Lottery B—for
+“Before”—the mixing of stubs and the blind drawing of the winner take
+place before the tickets are sold (and the winning stub is put in a safe), but
+otherwise the lotteries are conducted the same way. Someone might think
+the second lottery is unfair because the winning ticket is determined before
+people even buy their tickets. One of those tickets is already the winner
+(even if nobody knows which one); the other tickets are worthless paper,
+and selling them to unsuspecting people is some sort of fraud. But in fact
+both lotteries are equally fair. Everyone who buys a ticket has an equal
+chance of winning; the timing of the selection of the winner is an utterly
+inessential feature.
+   The drawing in most lotteries is postponed until after the sale of the
+tickets in order to provide the public with firsthand eyewitness evidence
+that there have been no shenanigans. No sneaky person with inside
+knowledge has manipulated the distribution of tickets, because the
+knowledge of the winning ticket did not (and could not) exist in any agent
+until after the tickets were sold. It is interesting that not all lotteries follow
+this practice. Publisher’s Clearing House used to mail out millions of
+envelopes each year that had written on them in bold letters “YOU MAY
+ALREADY HAVE WON”—a million dollars, or some other prize. (The
+organization now runs its lottery largely online.) These expensive
+campaigns are based on market research showing that in general people do
+think lotteries with preselected winners are fair so long as they are honestly
+conducted. But perhaps people go along with these lotteries
+uncomplainingly because they get their tickets for free. Would many people
+buy a ticket in a lottery in which the winning stub, sealed in a special
+envelope, was known to have been deposited in a bank vault from the
+outset? People buy scratch tickets by the millions, and whether or not any
+ticket is a winner is already determined when it is bought. Apparently these
+
+=== p. 331 ===
+
+people consider themselves to have a real opportunity to win. I think they
+are right, but whether they are right or wrong, their calm conviction that
+such lotteries are fair, and that they have a real opportunity to win, should
+undo the confidence of the philosophers (going back two millennia to
+Democritus and Lucretius) who have somehow convinced themselves that
+no opportunity is a real opportunity unless the outcome is undetermined up
+to the last instant. These philosophers have maintained that without a
+continuing supply of truly random, undetermined branch points to break up
+the fabric of causation, there is no possibility of free choices, no real
+chances to do the right thing.
+   The two lotteries give us a new perspective on the problem of
+determinism. If the world is determined, then we have pseudo-random
+number generators in us, not truly (quantum-mechanical) random
+randomizers. If our world is determined, all our lottery tickets were drawn
+at once, in effect, about fourteen billion years ago at the moment of the Big
+Bang, put in an envelope for us, and doled out as we needed them through
+life. Whenever you need to “flip a coin” or in some less ostentatious way
+make a chancy decision, your brain opens the envelope and takes out the
+next “random” number, letting its value determine what you do, just like
+the list of moves in “rock, paper, and scissors.” “But that is unfair,”
+someone may say, “for some people will have been dealt more winners than
+others.” Indeed, on any particular deal, some people have more high cards
+than others, but one should remember that in the long run the luck averages
+out. “But if all the drawings take place before we are born, some people are
+determined to get more luck than others!” That will be true, however, even
+if the drawings are not held before we are born, but periodically, on
+demand, throughout our lives. Even in a perfectly random and unbiased
+drawing, a genuinely undetermined drawing, it is still determined that some
+people will get more winners than others. Even in a perfectly fair, perfectly
+random, coin-tossing tournament, it is determined that someone—or other
+—will win, and everybody else in the tournament will lose. The winner
+cannot properly claim it was his “destiny” to win, but whatever advantages
+accrue to winning are his, destiny or not, and what could be fairer than
+that? Fairness does not consist in everybody winning.
+   Probably the most frequently cited reason for hoping for indeterminism
+is that without it, when we choose an act, “we could not have done
+otherwise,” and surely (ding!) that is something that should be important to
+
+=== p. 332 ===
+
+us. This, too, is not as obvious as it has often seemed, and in order to get a
+glimpse at how this familiar idea might be misleading us, consider the
+curious category of inert historical facts.
+
+=== p. 333 ===
+
+69. INERT HISTORICAL FACTS
+
+An inert historical fact is any fact about a perfectly ordinary arrangement
+of matter in the world at some point in the past that is no longer
+discernible, a fact that has left no footprints at all in the world today. My
+favorite example of an inert historical fact is this:
+          A. Some of the gold in my teeth once belonged to Julius Caesar.
+Or maybe this:
+          B. It is false that some of the gold in my teeth once belonged to
+          Julius Caesar.
+Now (logic tells us) one of these two must be a fact. (Hang on: Wasn’t the
+moral of the sorta operator chapter that we should distrust these “obvious”
+disjunctions? Let’s check this one out. How could it be the case that neither
+A nor B had a clear claim on truth? Well, what if ownership in Caesar’s day
+was either vague or ill defined so that Caesar only sorta owned some of his
+gold—perhaps the way the Queen of England to this day is the owner of all
+the swans in the land?1) Assuming that the relevant concept of ownership is
+nicely demarcated, the way the concept of gold is, one of the two sentences
+must express a fact, but which of the two is true is almost certainly not
+discoverable by any physical investigation, no matter how sophisticated it
+is and no matter how long it takes to conduct it.
+   Really? We can imagine cases where we could be almost certain that
+either A or B is the true alternative. If it turned out that, because of various
+well-recorded historical processes, the “provenance” of some of the gold in
+my teeth was scrupulously controlled and recorded through the millennia
+(like the “chain of custody” for exhibits of evidence in murder trials), we
+could be quite sure that A is true. Let’s say that my dentist purchased an
+ancient gold ring from a museum, the famous “Caesar’s pinky ring,” which
+a host of documents attest had been handed down over the centuries from
+monarch to monarch until it arrived in the museum, and there is a
+videotape showing the dentist melting the ring and pouring the molten gold
+into the plaster cast for my filling. Outlandish, sure, but clearly within the
+
+=== p. 334 ===
+
+bounds of physical possibility. Or alternatively, suppose that I am a gold-panning hobbyist and made a trip to the base of a receding glacier in Alaska
+that had covered the land for ten thousand years, where I carefully collected
+all the gold that subsequently went into my teeth. Then B would be even
+more certainly the truth. But if nothing like these extreme tales is well
+evidenced, then it is as good as certain that we could never know which of
+A or B is true. The true one, whichever it is, is an inert historical fact.
+   Quantum physics raises an interesting difficulty: even if the trajectory of
+each atom of gold in my teeth could be traced back through the centuries, if
+there were occasions when two or more gold atoms—one from the Caesar
+legacy and one from outside sources—collided (or just got very close to
+each other), it would be impossible in principle to tell which atom was
+which after the “collision.” Atoms and smaller particles don’t have
+anything like fingerprints or other distinguishing characteristics, and
+cannot be continuously tracked, so the continuing identity of particles does
+not always make sense, adding another barrier to knowing the facts about
+the gold.
+   Now whether or not the whole universe is deterministic, computers are
+designed to be deterministic in the face of submicroscopic noise and even
+quantum randomness, absorbing these fluctuations by being digital, not
+analog. (We saw a vivid example of that with Conway’s game of Life in
+chapter 66, but digital determinism is everywhere.) The fundamental idea
+behind digitizing in order to produce determinism is that we can create
+inert historical facts by design. Forcibly sorting all the pivotal events into
+two categories—high vs. low; ON vs. OFF; 0 vs. 1—guarantees that the
+micro-differences (between different high voltages, different flavors of
+being ON, different shades of 0) are ruthlessly discarded. Nothing is
+allowed to hinge on them, and they vanish without a trace, facts about
+actual historical variations that make no difference at all to the subsequent
+series of states through which the computer passes. For instance, your
+friend downloads a song from a website and burns it onto two CDs. These
+two unlabeled CDs—we’ll call them A and B, but we won’t write their
+names on them—will be digital duplicates, of course. Ask him to “copy”
+one of them onto your laptop in a pitch-black room. Don’t tell him which
+CD to use, and have him handle both CDs after completing the action
+(wiping out the possibility of using fingerprint evidence, or DNA traces)
+
+=== p. 335 ===
+
+before depositing them in a bag full of other CDs and shaking it vigorously.
+Now we have two candidate inert historical facts:
+          (a) Your laptop has a copy made from the A disc.
+          (b) Your laptop has a copy made from the B disc.
+   Any actual physical encoding of the bit stream of the song will have a
+microscopically fine structure that differs from the fine structure of any
+other encoding. And when you “copy” one of the CDs to RAM (randomaccess memory), the voltage patterns in RAM will also have a unique fine
+structure, and if we then “copy” the file from RAM to a hard disk or a flash
+drive, these too will contain microscopic differences that distinguish them.
+What is conveniently called copying is always the creation of yet another
+continuous or analog physical signal that has its own unique fine structure
+because that’s the way the world is way down among the electrons and
+protons. But the genius of digitization is that all this fine structure is
+“ignored,” wiped out in the “correction to the norm.” When you have
+norms, like an alphabet, it doesn’t make any difference wHat fLAvOr the
+individual symbols have; they all read the same. In a computer it’s all 0s
+and 1s.
+   So unless one of the CDs happens to have an “error” discernible at the
+level of the digital idealization (has a flipped bit, that is—a 0 instead of a 1,
+or vice versa), there will be no way of telling. The digitization prevents the
+propagation of the individuality of the two CDs to later versions, and
+ultimately to the digital-to-analog conversion that drives the speakers or
+ear buds. Some music lovers are reputed to be “golden eared,” able to tell
+vinyl records from the best digital CDs, and compressed (e.g., MPEG) from
+uncompressed digital files, but no music lover could do better than chance
+if asked whether two successive playings of some music were from the
+same, or different, CDs. That is an inert historical fact, undetectable not
+just by human ears but by electron microscopy of the fine structure of their
+“copies” in RAM. Any human being who could do this would be a strong
+candidate for having supernatural ESP, since digitization creates a physical
+barrier to the information transmission that would enable a guesser to do
+better than chance.
+   Because a computer is a digital device, it is trivial to get it to execute a
+few trillion steps, and then place it back in exactly the same (digital) state
+it was in before, and watch it execute exactly the same few trillion (digital)
+steps again, and again, and again.
+
+=== p. 336 ===
+
+         Wait a minute, comes an objection: You say computers are
+         deterministic? You can get them to replay exactly the same
+         trillion steps over and over? Gimme a break! Then why does my
+         laptop crash every so often? Why does my word processor freeze
+         on Tuesday when I was doing the very same thing that worked
+         just fine on Monday?
+You weren’t doing the very same thing. It froze not because it is
+indeterministic, but because it was not in exactly the same state on Tuesday
+that it was in on Monday. Your laptop must have done something in the
+interval that raised a hidden “flag” or called up some part of the word
+processor that had never before been activated by you, which flipped a bit
+somewhere that got saved in its new position when you shut down, and now
+the word processor has stubbed its toe on that tiny change and crashed. And
+if you somehow manage to put it back in exactly the same Tuesday-morning state a second time, it will crash again.
+         What about the “random-number generator”? I thought my
+         computer had a built-in device for creating randomness on
+         demand.
+   Every computer these days comes equipped with a built-in “random
+number” generator that can be consulted whenever needed by any program
+running on it. (Before there were computers you could buy a book that was
+nothing but a table of random numbers to use in your research, page after
+page of digits that had been scrupulously generated in such a way as to pass
+all the tests of randomness that mathematicians had devised. Of course
+each copy of a particular edition of such a book had exactly the same
+sequence of random numbers in it. RAND Corporation published one of the
+best books in 1955; it consisted of a million random digits.) The sequence
+of numbers generated by a so-called random-number generator isn’t really
+random, but just pseudo-random: it is “mathematically compressible” in
+the sense that this infinitely long sequence can be captured in a finitely
+specified mechanism that will crank it out. Suppose, for instance, your
+random-number generator is a program that can be specified in, say, a
+megabyte—eight million bits—but it generates a sequence (the same
+sequence every time) that is actually infinite. If you wanted to send
+somebody this infinite series, you wouldn’t have to do so in an infinitely
+long e-mail message recording the series verbatim. You could just send
+
+=== p. 337 ===
+
+them your megabyte-long algorithm and they’d have access to the entire
+infinite series. That is the fundamental idea of a pseudo-random-number
+generator. Whenever you start the random-number generator from a cold
+start—whenever you reboot your computer, for instance—it will always
+yield exactly the same sequence of digits, but a sequence that is as
+apparently patternless as if it were generated by genuinely random
+quantum fluctuations. It is a built-in “table of random numbers,” you might
+say, rather like what you would get on a very long loop of videotape,
+recording the history of a fair roulette wheel over millions of spins. The
+loop always returns to “the beginning” when you start up your computer.
+Sometimes this matters. Computer programs that avail themselves of
+randomness at various “choice” points will nevertheless spin out exactly
+the same sequence of states if run over and over again from a cold start,
+and sometimes, if you want to test a program for bugs, you will always test
+the same “random sample” of states, unless you take steps (easy enough) to
+jog the program to dip elsewhere, now and then, into the stream of digits
+for its next “random” number.
+
+1 According to the official royal website, “Today, the Crown retains the right to ownership of all
+unmarked mute swans in open water, but The Queen only exercises her ownership on certain
+stretches of the Thames and its surrounding tributaries. This ownership is shared with the
+Worshipful Company of Vintners and the Worshipful Company of Dyers, who were granted rights
+of ownership by the Crown in the fifteenth century. Nowadays, of course, the swans are no longer
+eaten.”
+
+=== p. 338 ===
+
+70. A COMPUTER CHESS MARATHON
+
+It is fiendishly difficult to think clearly about determinism and choice. If
+determinism is true, are there ever any real choices? If an agent that
+apparently has free will is actually deterministic, living in a deterministic
+world, does this remove all choice, all opportunity? Here is an intuition
+pump that explores the question by looking at a simplified world—chess
+playing—in an artificially constructed deterministic world: the world of
+activity performed by a computer.
+   Suppose you install two different chess-playing programs on your
+computer and yoke them together with a little supervisory program that pits
+them against each other, game after game, in a potentially endless series.
+Will they play the same game, over and over, until you turn off the
+computer? You could set it up like that, but then you wouldn’t learn
+anything interesting about the two programs, A and B. Suppose A beats B
+in this oft-repeated game. You couldn’t infer from this that A is a better
+program in general than B, or that A would beat B in a different game, and
+you wouldn’t be able to learn anything from the exact repetition about the
+strengths and weaknesses of the two different programs. Much more
+informative would be to set up the tournament so that A and B play a
+succession of different games. This can be readily arranged. If either chess
+program consults the random-number generator during its calculations (if,
+for instance, it periodically “flips a coin” to escape from situations where it
+has no handy reason for doing one thing versus another in the course of its
+searching for a good move), then in the following game the state of the
+random-number generator will have changed (unless you arrange to have it
+re-initialized), and hence different alternatives will be explored, in a
+different order, leading on occasion to different moves being “chosen.” A
+variant game will blossom, and the third game will be different in different
+ways, resulting in a series in which no two games, like no two snowflakes,
+are alike. Nevertheless, if you turned off the computer and then restarted it
+running the same program, exactly the same variegated series of games
+would spin out, because the same pseudo-random series of numbers would
+determine all the “coin flips” used by both programs.
+
+=== p. 339 ===
+
+   Suppose, then, we set up such a chess universe involving two programs,
+A and B, and study the results of a run of, say, a thousand games. We will
+find lots of highly reliable patterns. Suppose we find that A always beats B,
+in a thousand different games. That is a pattern that we will want to
+explain, and saying, “Since the program is deterministic, A was caused
+always to beat B,” would utterly fail to address our very reasonable
+curiosity. We will want to know what it is about the structure, the methods,
+the dispositions, of A that accounts for its superiority at chess. A has a
+competence or power that B lacks, and we need to isolate this interesting
+factor. It might be that the explanation lies at a low level; it might turn out,
+for instance, that program A and program B are actually the same program,
+identical chess-move evaluators at the source code level, but program A is
+more efficiently compiled than B so that it can explore the game further
+than program B can in the same number of machine cycles. In effect A
+“thinks exactly the same thoughts” about chess as B, and B “knows”
+everything about chess that A does, but A just thinks faster. (Serious chess,
+tournament chess, is always played with a time clock; if you run out of
+time before you’ve made all your moves, you lose.) More likely the
+superiority of A to B would require explanation at a higher-level
+perspective at which the everyday topics of chess decision-making appear:
+representations of board positions, evaluations of possible continuations,
+decisions about which continuations to pursue further, and so forth. Thus
+program A may adjust the relative value of its pieces as the game
+progresses, or have better evaluation functions of board positions, or decide
+to terminate certain sorts of explorations earlier or later. It doesn’t “think
+the same thoughts” as B; it “thinks better, more sophisticated thoughts.” (It
+sorta thinks these thoughts, of course. It isn’t a conscious person.)
+   It might actually be more telling if one program didn’t always win.
+Suppose A almost always beats B, and suppose A evaluates moves using a
+different set of principles. Then we would have something even more
+interesting to explain. To investigate this causal question, we would need to
+study the history of the thousand different games, looking for further
+patterns. We would be sure to find plenty of them. Some of them would be
+endemic to chess wherever it is played (e.g., the near certainty of B’s loss
+in any game where B falls a rook behind), and some of them would be
+peculiar to A and B as particular chess players (e.g., B’s penchant for
+getting its queen out too early). We would find the standard patterns of
+
+=== p. 340 ===
+
+chess strategy, such as the fact that when B’s time is running out, B
+searches less deeply in the remaining nodes of the game tree than it does
+when it has more time remaining and is in the same local position. In short,
+we would find a cornucopia of explanatory regularities, some exceptionless
+(in our run of a thousand games) and others statistical.
+   These recognizable chess-move patterns are salient moments in the
+unfolding of a deterministic pageant that, observed from the perspective of
+micro-causation, is pretty much all the same. What from one vantage point
+appear to us to be two chess programs in suspenseful combat can be seen
+through the “microscope” (as we watch instructions and data streaming
+through the computer’s CPU) to be a single deterministic automaton
+unfolding in the only way it can, its jumps already predictable by
+examining the precise state of the pseudo-random-number generator and
+the rest of the program and data. There are no “real” forks or branches in its
+future; all the “choices” made by A and B are already determined by the
+total state of the computer and its memory. Nothing, it seems, is really
+possible in this world other than what actually happens. Suppose, for
+instance, that an ominous mating net (a guaranteed win that might be hard
+to discern) looms over A at time t, but it collapses when B runs out of time
+and terminates its search for the key move one pulse too soon. That mating
+net was never going to happen. (This is something we could prove, if we
+doubted it, by running exactly the same tournament another day. At the
+same moment in the series, B would run out of time again and terminate its
+search at exactly the same point.)
+   So what are we to say? Is this toy world really a world without
+prevention or avoidance, without offense and defense, without lost
+opportunities, without the thrust and parry of genuine agency, without
+genuine possibilities? Admittedly, our chess programs, like insects and
+fish, are much too simple agents to be plausible candidates for morally
+significant free will, but the determinism of their world does not rob them
+of their different powers, their different abilities to avail themselves of the
+opportunities presented. If we want to understand what is happening in that
+world, we may, indeed must, talk about how their informed choices cause
+their circumstances to change, and about what they can and cannot do. If
+we want to uncover the causal regularities that account for the patterns we
+discover in those thousand games, we have to take seriously the perspective
+
+=== p. 341 ===
+
+that describes the world as containing two agents, A and B, trying to beat
+each other in chess.
+   Suppose we rig the tournament program so that whenever A wins, a bell
+rings, and whenever B wins, a buzzer sounds. We start the marathon and an
+observer who knows nothing about the program notes that the bell rings
+quite frequently, the buzzer hardly ever. What explains this regularity, she
+wants to know. The regularity with which A beats B can be discerned and
+described independently of adopting the intentional stance, but it stands in
+need of explanation. The only explanation—the right explanation—may be
+that A generates better “beliefs” about what B will do if . . . than B
+generates about what A will do if . . . In such a case, adopting the
+intentional stance is required for finding the explanation (see chapters 33
+and 42 for other examples of causal links that are utterly inexplicable until
+you adopt the intentional stance).
+   So far so good, but these “decisions” and “choices” seem to be only
+sorta decisions and choices. They lack something, it seems, that genuine
+choices have: “could have done otherwise.” But let’s look more closely at a
+specific example, since appearances can be deceiving. It will help to add a
+third chess-playing program, C, to our tournament program, and let’s
+suppose that C is better than A and B, beating them both almost all the
+time, and let’s suppose that the first twelve moves in a pair of these games
+are exactly the same, and that C wins both games, beating both A and B,
+though by somewhat different routes after those first twelve moves. The
+experts huddle in retrospect and figure out that at move 12, the last
+common move, if either A or B had castled, C would likely have lost.
+Castling at move 12 was the key to victory, missed by both A and B.
+   The designer of program A shrugs and says, “Well, A could have
+castled,” and the designer of B adds, “My program too; B could have
+castled.” But the designer of A was right and the designer of B was wrong!
+How could this be? The tournament program T is deterministic, and if we
+run through the games again, in exactly the same state, neither A nor B
+castles. Isn’t the designer of A kidding herself? Not necessarily. What are
+we trying to find out when we ask if A could have done otherwise? Looking
+at precisely the same case, again and again, is utterly uninformative, but
+looking at similar cases is in fact diagnostic. If we find that in many
+similar circumstances in other games, A does pursue the evaluation slightly
+
+=== p. 342 ===
+
+farther, discovering the virtues of such moves and making them, then we
+support the designer’s conviction that A could have castled then.
+   We might find, in the minimal case, that flipping a single bit in the
+(pseudo-)random-number generator would have resulted in A’s castling.
+Suppose A’s designer digs deep down into the actual execution of the
+program and shows that on this occasion A stopped “thinking” one pulse
+too early. (Every chess program, no matter how brilliant, has to truncate its
+searches arbitrarily at some point.) A considered castling, and had begun its
+analysis of that outcome, but since time was running out, it consulted its
+random-number generator, flipping a coin, in effect, and settled on the
+move it had so far identified as the best—and it wasn’t castling. But if the
+pseudo-random number had been a 1 instead of a 0, A would have gone on
+considering for a little while longer, and castled instead. “Just flip one bit
+in the random number and A wins!” says the designer. We would say that in
+this case A’s failure to castle was a fluke, bad luck with the random-number
+generator.
+   When we turn to the designer of B, no such story in support of the claim
+that B could have castled under the circumstances is forthcoming. It is true
+that B “knows” that castling is legal under these conditions, and perhaps
+actually briefly “considered” castling, but B was nowhere near choosing
+castling on this occasion. Castling was a deep move, the sort of move that
+is followed by “(!)” in the newspaper chess columns, and far beyond
+program B’s limited analytical powers. So here we have an entirely
+deterministic world—program T—in which A could have castled but B
+could not have castled. The difference between A and B is real and
+explanatory, a difference in competence or ability. One way we could put it
+is apparently paradoxical:
+          A could have castled at time t but the universe couldn’t have had
+          a castling event at time t.
+What could possibly license this way of describing the situation? Simply
+this: if we consider A divorced from its immediate environment—which
+includes the random-number generator—then whether A castles or not is
+undetermined. It depends on something that is strictly speaking outside A.
+Given the way the rest of the universe was arranged at t, castling was not
+possible for A, but that is “not A’s fault.” B, in contrast, could not have
+castled; it was not in B’s nature to castle. To imagine B castling would
+require too many alterations of reality.
+
+=== p. 343 ===
+
+   This is a useful discovery: a distinction between what A and B “could
+do” that does not depend on indeterminism. Even in a deterministic world
+we can see that A can do kinds of things that B cannot do, and this
+difference is part of the explanation of why A beats B. The fact that,
+because determinism is true in this world, A and B can only do what they
+actually do on the specific occasion (and would do it again and again if
+exactly the same circumstances were repeated) is simply not interesting,
+not relevant to the explanation we get of the perfectly objective and visible
+regularity: A beats B.
+   A chess-playing program is not a moral agent, and it is not morally
+responsible for the choices it makes—its world is entirely amoral, and
+violating one of the rules of chess is simply unthinkable for a chess
+program, and hence requires no penalties for violations. But as we have just
+seen, even in the simple deterministic world of computer chess we can
+make a real and important distinction between A and B. Sometimes when A
+does something stupid or clever we can say, “A could have done otherwise,
+but B could not have done otherwise.” If you think that this must be a
+mistake “because neither A nor B could ever have done otherwise since the
+world is deterministic,” it is you making the mistake.
+   A and B differ in chess competence, and “could have done otherwise”
+nicely captures an aspect of that difference, as we have just seen. What
+about moral competence? When people say of some human beings who act
+badly that “they could have done otherwise,” and use this as their
+justification for not excusing them, while agreeing that other human beings
+in similar circumstances could not have done otherwise, they are not
+making a mistake either—and this is independent of whether or not
+determinism is true. They are pointing to a real difference in moral
+competence that does not depend on either indeterminism or determinism,
+and that can ground a difference in our response.
+   To see this more clearly, take the perspective of the programmer who
+designed program B. She wants to know if she has uncovered a weakness in
+B. Here is a game in which not castling cost B the victory; could B have
+castled then? If all it would take for that to happen was the flip of a single
+bit in the random-number generator, then perhaps no design improvements
+are called for. As often as not, in similar circumstances, B will castle, and
+perhaps that’s as good as anyone could hope for. A program must always
+use random numbers now and then (as coin flips) to terminate search and
+
+=== p. 344 ===
+
+get on with the game, and hence there will always be cases where thanks to
+the flip, the search stops just this side of discovery. And notice that the
+situation is not improved if we give program B (or program A) a quantum
+random-number generator, say, a Geiger counter that spews out bits based
+on the undetermined trajectories of subatomic particles. Then consider
+what we would say about B in the case where B doesn’t castle because of a
+single 0 where a 1 might have been. If the quantum number generator
+yields a 0, B castles; if it yields a 1, B doesn’t castle. “B could have
+castled,” says an observer when the 1 comes up. Yes, but B is no freer for
+all that. In a series of games in which this sort of opportunity comes up,
+half the time B will castle and half the time B won’t, whether B’s random-number generator is “genuine” or “pseudo.” The philosopher David
+Wiggins (1973, p. 54) once wrote of the “cosmic unfairness” of
+determinism, but what our intuition pump about the computer chess
+tournament shows is the equal “cosmic unfairness” of indeterminism. B is
+“at the mercy of” its random-number generator or its pseudo-randomnumber generator. (So, of course, is A; so are we all.) There is no reason to
+prefer the genuinely random-number generator—unless of course you plan
+to play chess against an omniscient God who can see into your pseudorandom-number generator and plan accordingly!
+   So we’re still looking for a reason to want indeterminism to be true.
+Perhaps we can have all the free will worth wanting without indeterminism
+playing any role. Here’s another candidate reason:
+         I can’t change the past, but if indeterminism is true, I can change
+         the future!
+Nope. Change the future from what to what? From what it was going to be
+to what it is going to be? You can no more change the future than you can
+change the past. The concept is incoherent. So:
+         If determinism is true, I can’t change the future, and if
+         determinism is false, I can’t change the future. So it follows that I
+         can’t change the future.
+Why does it seem that we want to change the future? Because we want to
+be able to foresee disasters and do something so those disasters don’t
+happen. And we can do this, independently of indeterminism. If somebody
+throws a brick at you, and you see it and duck, you can avoid being hit by
+the brick. Good for you. Was the collision going to happen? In one sense
+
+=== p. 345 ===
+
+yes, since the brick was clearly on a trajectory right for your head, but since
+you saw it (since you were caused to see it by the light bouncing off of it
+into your eyes, where your brain calculated the risk and was caused to take
+action), you avoided it. Of course, if you had wanted to avoid avoiding it (if
+some reason had occurred to you for why you might actually do better by
+letting it hit you), you could do just that. Some observer might not be able
+to tell, right up to the last moment, whether you were going to take the hit
+or not. And if he was betting on you to duck, he’d lose. We’re back at our
+reason for wanting to be unpredictable, which does not require
+indeterminism.
+   What does this intuition pump accomplish? It takes the familiar phrase
+“could have done otherwise” and shows that contrary to widespread but ill-examined opinion, a valuable version of it does not depend on
+indeterminism. If there is a sense of “could have done otherwise” that is
+both incompatible with determinism and morally important—not merely a
+metaphysical curiosity, you might say—this has yet to be established, and
+the burden of proof lies with those who think so. One more “obvious” point
+exposed as not so obvious after all.
+
+=== p. 346 ===
+
+71. ULTIMATE RESPONSIBILITY
+
+So far, we’ve been looking at trivial choices, not involving moral
+responsibility at all: rock, paper, scissors; chess moves; and brick-ducking.
+Perhaps it is when we are specifically looking at our attempts to be moral
+agents, not just intentional systems like chess-playing computers and
+stotting gazelles, that indeterminism is truly desirable. Many thinkers have
+thought so. For them, these exercises are just so much distraction. Here is a
+nice clear version of what some thinkers take to be the decisive argument.
+It is due in this form to the philosopher Galen Strawson (2010):
+
+1. You do what you do, in any given situation, because of the way you are.
+2. So in order to be ultimately responsible for what you do, you have to be
+  ultimately responsible for the way you are—at least in certain crucial
+  mental respects.
+3. But you cannot be ultimately responsible for the way you are in any
+  respect at all.
+4. So you cannot be ultimately responsible for what you do.
+The first premise is undeniable: “the way you are” is meant to include your
+total state at the time, however you got into it. Whatever state it is, your
+action flows from it non-miraculously. The second premise observes that
+you couldn’t be “ultimately” responsible for what you do unless you were
+“ultimately” responsible for getting yourself into that state—at least in
+some regards. But according to step (3) this is impossible.
+   So step (4), the conclusion, does seem to follow logically. Several
+thinkers have found this argument decisive and important. But is it really?
+Let’s look more closely at step (3). Why can’t you be ultimately
+responsible for some respects, at least, of the way you are? In everyday life
+we make exactly this distinction, and it matters morally. Suppose you
+design and build a robot and send it out into the world unattended and
+unsupervised and knowing full well the sorts of activities it might engage
+in, and suppose it seriously injures somebody. Aren’t you responsible for
+this, at least in some respects? Most people would say so. You made it; you
+should have foreseen the dangers—indeed you did foresee some of the
+
+=== p. 347 ===
+
+dangers—and now you are to blame, at least in part, for the damage done.
+Few would have any sympathy for you if you insisted that you weren’t
+responsible at all for the harm done by your robot.
+   Now consider a slightly different case: you design and build a person
+(yourself at a later time) and send yourself out into the risky world
+knowing full well the possible dangers you would encounter. You get
+yourself drunk in a bar and then get in your car and drive off. Aren’t you
+responsible, at least in part, for the “way you were” when you crashed into
+a school bus? Common sense says of course. (The bartender, or your
+compliant host, may share the responsibility.) But how could this be, in the
+face of Strawson’s knockdown argument? Well, remember that Strawson
+says you can’t be absolutely responsible for the way you are. Okay, but so
+what? Who would think it was important to be absolutely responsible? That
+is indeed a state that is utterly impossible, even if indeterminism is true!
+(So much for the idea that this argument gives us a reason for hoping for
+indeterminism.) Here is what Strawson (2010) says:
+          To be absolutely responsible for what one does, one would have
+          to be causa sui, the cause of oneself, and this is impossible (it
+          certainly wouldn’t be more possible if we had immaterial souls
+          rather than being wholly material).
+Absolute responsibility is a red herring, a blessing nobody should hanker
+for. Strawson (2003) thinks otherwise, and criticizes me for neglecting it:
+          He doesn’t establish the kind of absolute free will and moral
+          responsibility that most people want to believe in and do believe
+          in. That can’t be done, and he knows it.
+He’s exactly right: I don’t establish the kind of free will most people want
+to believe in, and I know it. But I think they are wrong to want to believe in
+it, and wrong to believe in it if they do. The burden falls on Strawson and
+others to show why we ought to care about ultimate responsibility—or the
+determinism/indeterminism issue—in our lives. They can define a variety
+of free will that is incompatible with determinism, and show that lots of
+folks think that’s important, but they also need to show that those folks
+aren’t deceiving themselves. Why should anybody care? (Note my
+rhetorical question. I’m leading with my chin. I would be happy for
+Strawson or somebody else to step up to the plate and try to answer it, but
+so far there are no volunteers.)
+
+=== p. 348 ===
+
+  Before leaving Strawson’s argument, let me ask if you have noticed its
+uncanny resemblance to an earlier argument. I will revise the earlier
+argument into a form a little closer to Strawson’s to bring out the
+similarities.
+
+1. A mammal is a mammal, in any given context, because of the way it is.
+2. In order to be a mammal, you have to become the way you are by having
+  a mammal for a mother.
+3. But this must be true of your mother, and her mother, and so forth ad
+  infinitum, which is impossible.
+4. So you cannot be a mammal because mammals are utterly impossible.
+  You should always be leery of any such “ancestral” argument. It is
+almost certain to be a disguised instance of the ancient fallacy known as the
+sorites (or “heap”) argument:
+
+1. A single grain of wheat is not a heap.
+2. Adding a grain to a single grain does not make a heap.
+3. You can’t make a non-heap into a heap by adding a single grain.
+4. Therefore there are no such things as heaps!
+Philosophers have written about the sorites paradox and the problems of the
+vague boundaries of terms (which is what the paradox obviously depends
+on) for thousands of years, and there is still no resolution of just how to
+diagnose and avoid the fallacy. (See the Stanford Encyclopedia of
+Philosophy online for an excellent and up-to-the-minute survey.) There are
+even a few brave philosophers who declare the sorites to be valid, and they
+try to live with the “fact” that there are no bald men and no non-bald men
+either. Tough position to defend! But as chapter 43 showed, Darwin taught
+us how to turn our backs on the sorites; we don’t need to find “principled”
+dividing lines between categories ranked in ancestral order.
+   To my knowledge I am the first to point out the resemblance of
+Strawson’s argument—and the other arguments of this ilk in the free-will
+literature—to a sorites paradox, but there it is. I think it is just as obvious
+that people can gradually become morally responsible during their passage
+from infancy to adulthood as it is that lineages of reptiles and then
+therapsids can gradually become a lineage of mammals over the eons. You
+don’t have to be an absolute mammal to be a mammal, and you don’t have
+to be absolutely responsible to be responsible, or have absolute free will to
+
+=== p. 349 ===
+
+have a kind of free will worth wanting. In fact, since absolute free will
+would be miraculous, there really needs to be a powerful argument to show
+why anybody would covet such a thing. Do they want to be God? Too bad,
+they’re out of luck, but the next best thing is quite a good thing to be.
+
+=== p. 350 ===
+
+72. SPHEXISHNESS
+
+Doug Hofstadter (1982) coined the term “sphexishness” for a familiar sort
+of rigid, robotic mindlessness that is often mistaken for great cleverness.
+The defining example of sphexishness, and the source of the term, is a wasp
+with a curious behavior. Doug and I had independently been struck by a
+passage in a popular science book, The Machinery of the Brain, written by
+Dean Wooldridge (1963), who described the Sphex wasp thus:
+         When the time comes for egg-laying, the wasp Sphex builds a
+         burrow for the purpose and seeks out a cricket which she stings in
+         such a way as to paralyze but not kill it. She drags the cricket into
+         the burrow, lays her eggs alongside, closes the burrow, then flies
+         away, never to return. In due course, the eggs hatch and the wasp
+         grubs feed off the paralyzed cricket, which has not decayed,
+         having been kept in the wasp equivalent of deep freeze. To the
+         human mind, such an elaborately organized and seemingly
+         purposeful routine conveys a convincing flavor of logic and
+         thoughtfulness—until more details are examined. For example,
+         the wasp’s routine is to bring the paralyzed cricket to the burrow,
+         leave it on the threshold, go inside to see that all is well, emerge,
+         and then drag the cricket in. If the cricket is moved a few inches
+         away while the wasp is inside making her preliminary inspection,
+         the wasp, on emerging from the burrow, will bring the cricket
+         back to the threshold, but not inside, and will then repeat the
+         preparatory procedure of entering the burrow to see that
+         everything is all right. If again the cricket is removed a few
+         inches while the wasp is inside, once again she will move the
+         cricket up to the threshold and re-enter the burrow for a final
+         check. The wasp never thinks of pulling the cricket straight in. On
+         one occasion this procedure was repeated forty times, always
+         with the same result. [p. 82]
+A perfect example, it seems, of the imperfect, uncomprehending
+competence that we unmask when we expose the superficial, pseudo-
+
+=== p. 351 ===
+
+understanding of a second-rate computer program. We have recently
+learned, however, that Wooldridge gave us—as popular science writers so
+often do—an oversimplified sketch of the phenomenon. The psychologist
+Lars Chittka, in a note to me, quoted from the work of Jean-Henri Fabre (in
+1879), which had apparently been the source for Wooldridge, who, if he had
+read on in Fabre, would have found that in fact only some Sphex wasps are
+sphexish. In fact, Fabre was eager to make the point. If at first blush you
+thought Sphex was clever, and at second blush you thought Sphex was
+stupid, try third blush, and find that some Sphex wasps are not so sphexish
+after all. Chittka sent me the German translation of Fabre (I still haven’t
+located the French), which includes the following sentence: “Nach zwei
+oder drei Malen, . . . packt ihre Fuehler mit den Kieferzangen und schleift
+sie in die Hoehle. Wer war nun der Dummkopf?” (After two or three times,
+. . . she grabbed her [the prey’s] antennae with her pincers and slid it into
+the hole. Now who’s the dummy?)
+    So the adjective sphexish is a bit of a misnomer, but since it has caught
+on, the Sphex wasps will just have to endure the insult. They are lucky, in a
+way, to be in the limelight of nonspecialist attention, which probably has a
+nonnegligible fitness enhancement. (Which habitat would you vote to
+protect, Sphex habitat or Humdrumbeetle habitat?) Sphex wasps may not be
+“charismatic” like elephants and tigers and wolves, but they are rather well
+known—for their problematic sphexishness.
+    Sphexishness is an important property not so much because so many
+whole, simple animals—insects, worms, fish—exhibit it (though they do,
+in varying degrees), but because it gives us a term for the limited, robotic,
+myopic, competences out of which we can build fancier, more versatile,
+comprehending minds. The building blocks in any mind model had better
+be sphexish! Or, as I noted earlier, the building blocks should be sorta
+minds, pale shadows of our minds. Sphexishness is also useful to
+distinguish morally competent minds from morally incompetent minds. To
+the extent that a human being is sphexish, because of a brain tumor or brain
+injury or serious imbalance of neuromodulators or mental illness or sheer
+ignorance or immaturity, that human being could not have done otherwise
+in the relevant sense.
+    The persistent biologist interfering with the Sphex wasp in order to
+expose its sphexishness is the very model of the manipulative agent we
+rightly dread. Many philosophers’ thought experiments about free will
+
+=== p. 352 ===
+
+depend on invoking just such a puppeteer, or a nefarious neurosurgeon who
+has secretly wired someone up to do his bidding. Presumably the moral of
+these scary tales is that even if there is no actual puppeteer, the fact that our
+behavior is caused by various features of our environments, as processed
+through our perceptual systems and brains, shows that there might as well
+be a puppeteer. (The cover illustration of Sam Harris’s little book Free Will
+(2012) is a set of puppeteer control strings.) But this invited conclusion is a
+clear non sequitur. When the “control” by the environment runs through
+our well-working perceptual systems and our undeluded brains, it is
+nothing to dread; in fact, nothing is more desirable than our being caused
+by the things and events around us to generate true beliefs about them that
+we can then use in modulating our behavior to our advantage. Photons
+bouncing off air holes in the tidal flats into my eyes are apt to cause me to
+grab my clam rake and basket and start digging. If this is a case of being
+controlled by my environment, I’m all for it. And, like most people, I do
+not feel threatened or manipulated when my friends offer me sumptuous
+meals, knowing full well that I will be unable to resist the temptation to eat
+them.
+   Another thing you will notice about the puppeteer and neurosurgeon
+examples in the literature on free will is that the intervention is always—
+always—secret. Why should this be? Because it is only when we are
+unwittingly being caused to act or choose by some other, secret agent that
+the intuitions flood in to the effect that our will is not free. The reason for
+this is not far to seek, and harks back to the insight that inaugurated game
+theory: when an agent knows about the attempt at manipulation by another
+agent, it thereupon seeks countermeasures, and at the very least adjusts its
+behavior to better cope with this discovery. The competitive interactions
+between the two agents involve multiple levels of feedback, and hence
+diminishing “control” by the would-be manipulator. And if the intervention
+is not only not secret, but requested by the “puppet,” the tables are turned
+completely.
+   This we can demonstrate by simply altering the standard cases slightly,
+turning the knobs on the intuition pumps. The philosopher Harry Frankfurt
+(1969) invented an intuition pump in which a person is being monitored by
+secretly implanted neurostimulation gadgetry that is controlled by a
+neurosurgeon who makes sure that that person decides the way he wants
+that person to decide. If you, as that person, are faced with a dilemma and
+
+=== p. 353 ===
+
+choose option A rather than B, then if this is what the neurosurgeon wanted
+you to choose, he does nothing; if instead his gauges show that you are
+about to choose option B, he hits the button and prevents you from
+choosing option B, and you choose A after all. You don’t feel a thing. Did
+you choose freely in either case? Over the years philosophers have written
+hundreds of pages about “Frankfurt cases” with many variations, but one
+turning of the knobs that makes a huge difference has never to my
+knowledge been explored. Here it is:
+   Wanting to tame your profligate love of rich desserts, you have
+contracted with the good doctor to implant this device, and you are paying
+him a handsome fee to monitor your every meal, providing a safety net that
+keeps you from ordering the hot fudge sundaes and slices of cheese cake.
+Both of you hope he never has to deploy his button, and soon you almost
+forget that he or his assistant is electronically at your elbow; you are cured
+and the gadget has recorded an unbroken string of hundreds of A choices
+(“No thanks, just a cup of black coffee”). If those aren’t examples of you
+choosing responsibly and freely, why not? Wasn’t it wise of you to get help
+with your somewhat fragile willpower?
+
+=== p. 354 ===
+
+73. THE BOYS FROM BRAZIL: ANOTHER BOOM CRUTCH
+
+In 2004, the psychologists Joshua Greene and Jonathan Cohen co-authored
+“For the Law, Neuroscience Changes Everything and Nothing,” which was
+published in the prestigious journal Philosophical Transactions of the
+Royal Society. This influential article conjures up a revolution in the law,
+triggered by scientific discoveries.
+         [T]he law says that it presupposes nothing more than a
+         metaphysically modest notion of free will that is perfectly
+         compatible with determinism. However, we argue that the law’s
+         intuitive support is ultimately grounded in a metaphysically
+         overambitious, libertarian [indeterministic] notion of free will
+         that is threatened by determinism and, more pointedly, by
+         forthcoming cognitive neuroscience. [p. 1776]
+The case they make is subtle; it has to be, because they grant that there are
+a wealth of arguments in support of compatibilism (the view defended by
+me here), but they want to show that actually “we are all of two minds”
+about free will. They offer a thought experiment designed to reveal the
+dependence of everyday commonsense thinking on indeterminism. Note
+that this is pretty much what I’ve just been calling for: show us, please,
+both that and why we should care about indeterminism. Their thought
+experiment was inspired by the film The Boys from Brazil, about Nazi
+scientists who raise Hitler clones (thanks to some salvaged DNA). Here it
+is:
+         Let us suppose, then, that a group of scientists has managed to
+         create an individual—call him Mr Puppet—who, by design,
+         engages in some criminal behavior: say, a murder done during a
+         drug deal gone bad. [p. 1780]
+Here is what they say about their thought experiment:
+         Yes, he is as rational as other criminals, and, yes, it was his
+         desires and beliefs that produced his actions. But those beliefs
+         and desires were rigged by external forces, and that is why,
+
+=== p. 355 ===
+
+         intuitively, he deserves our pity more than our moral
+         condemnation. . . . what is the real difference between us and Mr
+         Puppet? One obvious difference is that Mr Puppet is the victim of
+         a diabolical plot whereas most people, we presume, are not. But
+         does this matter? The thought that Mr Puppet is not fully
+         responsible depends on the idea that his actions were externally
+         determined. . . . But the fact that these forces are connected to the
+         desires and intentions of evil scientists is irrelevant, is it not?
+         What matters is only that these forces are beyond Mr Puppet’s
+         control, that they’re not really his. [p. 1780]
+What do you think? Is this a good intuition pump for its purpose, or not?
+Amusingly, the authors note that this is a question worth considering:
+“Daniel Dennett might object that the story of Mr Puppet is just a
+misleading ‘intuition pump.’ ” Indeed I do. I say it’s a boom crutch. But
+they shrug off this hunch and carry on: “It seems to us that the more one
+knows about Mr Puppet and his life the less inclined one is to see him as
+truly responsible for his actions and consider our punishing him as a
+worthy end in itself.”
+   So let’s take a closer look, turning the knobs on this intuition pump to
+see what is actually doing the work. I propose to adjust four knobs. First,
+let’s get rid of the diabolical plot—which the authors themselves insist
+does not matter. I am surprised that they are so blithe about introducing a
+“nefarious neurosurgeon” and supposing that this is obviously innocent,
+since doubts have been expressed for years about such a move, but we can
+test their conviction by replacing “a group of scientists” with “an
+indifferent environment”:
+         BEFORE: Let us suppose, then, that a group of scientists has
+         managed to create an individual—call him Mr Puppet—who, by
+         design, engages in some criminal behavior: say, a murder done
+         managed to create an individual—call him Mr Puppet—who, by
+         design, engages in some criminal behavior: say, a murder done
+Second knob: With the plotters gone, we have to replace “by design” with
+“with high probability”:
+
+=== p. 356 ===
+
+          BEFORE: Let us suppose, then, that an indifferent environment
+          has managed to create an individual—call him Mr Puppet—who,
+          by design, engages in some criminal behavior: say, a murder done
+          managed to create an individual—call him Mr Puppet—who, with
+          high probability, engages in some criminal behavior: say, a
+          murder done during a drug deal gone bad.
+Third knob: I want to change the motivation of the crime—still a murder,
+but in a rather different setting. (That shouldn’t matter, should it?)
+          BEFORE: Let us suppose, then, that an indifferent environment
+          has managed to create an individual—call him Mr Puppet—who,
+          with high probability, engages in some criminal behavior: say, a
+          murder done during a drug deal gone bad.
+          managed to create an individual—call him Mr Puppet—who,
+          with high probability, engages in some criminal behavior: say, a
+          murder done to cover up an embezzlement.
+Fourth knob: Let’s change the culprit’s name. After all, it’s just a name.
+          BEFORE: Let us suppose, then, that an indifferent environment
+          has managed to create an individual—call him Mr Puppet—who,
+          with high probability, engages in some criminal behavior: say, a
+          murder done to cover up an embezzlement.
+          managed to create an individual—call him Captain Autonomy—
+          who, with high probability, engages in some criminal behavior:
+          say, a murder done to cover up an embezzlement.
+What intuitions does this pump for you now? The same intuitions? Are you
+more inclined to pity than condemnation? Maybe it would help if we
+fleshed out the details a little further. Here is my friendly amendment to
+Greene and Cohen’s intuition pump:
+          Captain Autonomy majored in economics at Harvard, and after
+          graduation he went to work at Lehman Brothers, where all around
+          him people were cheating and making fortunes in the process. He
+          fell in love with a gold-digging heartbreaker, who threatened to
+
+=== p. 357 ===
+
+         leave him if he didn’t get rich quick. He saw his chance, a
+         virtually undetectable embezzlement, almost surely an invisible
+         crime, and he knowingly took the risk, but, alas, against all the
+         odds a witness arose, who made the mistake of standing too close
+         to the railing on the penthouse garden, . . . a quick “stumble”—
+         Oops!—and the witness was sent to his death on the avenue
+         below. Suspicions were aroused, and soon enough Captain
+         Autonomy was under arrest.
+  Are you still inclined to think that because his actions were externally
+determined he is “not truly responsible”? Even if you are still tempted to
+see Captain Autonomy as a victim of his (posh) environment, I think you
+have to agree that the temptation is much diminished, and might even be a
+hangover of sorts from the earlier telling. (Or maybe I’ve just exploited
+your emotions in the opposite direction, counting on your bloodthirsty
+desire to punish the greedy Wall Street types for their role in our economic
+malaise.) I’m not claiming that my variations prove that people are or can
+be responsible in spite of being determined; I am just claiming that this
+particular intuition pump is not at all to be trusted, since the (available,
+permissible) knob settings are interfering so much with our judgments. It
+may not have been designed to blow smoke, but it certainly manages to
+hinder clear thinking.
+
+=== p. 358 ===
+
+SUMMARY
+
+People care deeply about having free will, but they also seem to have
+misguided ideas about what free will is or could be (like their misguided
+ideas about color and consciousness). Our decisions are not little miracles
+in the brain that violate the physics and chemistry that account for the rest
+of our bodies’ processes, even if many folk think this must be what happens
+if our decisions are to be truly free. We can’t conclude from this, however,
+that then we don’t have free will, because free will in this bonkers sense is
+not the only concept of free will. The law, according with common sense,
+contrasts signing a contract “of your own free will” with signing a contract
+under duress or under the influence of hallucination or other mental
+derangement. Here is a perfectly familiar sense of free will, a distinction
+presupposed by many of the practices and attitudes that comprise our
+manifest image, that has no demonstrated dependence on the bonkers sense.
+   For hundreds of years there have been philosophers who have insisted
+that this sense of free will is the important sense, the one we should care
+about, and it is compatible with determinism, with materialism, with
+physics and chemistry reigning unchallenged. The intuition pumps and
+other thinking tools in this part are designed to support and advance the
+understanding of this prospect, compatibilism. It has had many versions
+over the years, and is probably the consensus not only among philosophers
+but also among judges, lawyers, and others who have to make distinctions
+about who is responsible for what and who is excused because they didn’t
+have free will when they acted. Some scientists are now challenging this
+consensus, and they may of course be right to do so. Let’s take a hard look
+at the arguments.
+   Maybe science is teaching us something radical, even revolutionary: that
+nobody is ever responsible for anything they do, and there is no sound basis
+for distinguishing some acts as praiseworthy and others as blameworthy.
+But such a revolutionary conclusion needs a lot more conscientious
+attention to detail than it has so far received from the scientists declaring it.
+The nefarious neurosurgeon disabled her patient with nothing but a false
+idea; a mistaken view promulgated by influential scientists could rob
+people of a legitimate and life-enhancing variety of free will. Caution is
+called for, on all sides.
+
+=== p. 359 ===
+
+   Compatibilism, for all its popularity among philosophers, has always
+provoked suspicion. Immanuel Kant famously called it a “wretched
+subterfuge,” and writers today often express doubts about the sincerity of
+those of us who maintain it. This is as it should be, actually. Science
+teaches us to be especially on guard against wishful thinking, and many of
+the rules of scientific investigation are specifically designed to prevent us
+from being taken in by our hopes when we think we are being convinced by
+the evidence. Imagine that some astronomers announce that a giant asteroid
+is going to strike our planet in ten years, obliterating all life, and then
+another group of astronomers claim that their reanalysis of the data shows
+that we can all breathe easily; the asteroid will miss Earth by a narrow
+margin. Good news, but how do we know the second group of astronomers
+aren’t deceiving themselves—or just deceiving us with a benign lie? Check
+and recheck their calculations; mount an independent attempt at
+replication; don’t just gratefully accept their conclusion because it doesn’t
+contain any obvious errors and it appeals to you. But also never forget that
+it is possible that they are right. Don’t make the opposite mistake of
+discrediting—on “general principles”—something that seems “too good to
+be true.”
+   Is compatibilism too good to be true? I think not; I think it is true, and
+we can soundly and roundly dismiss the alarmists, at the same time
+reforming and revising our understanding of what underwrites our concept
+of moral responsibility. But that is a task for the future, and it should be the
+work of many hands. So far as I can see, it is both the most difficult and the
+most important philosophical problem confronting us today. The stakes are
+high, the issues thorny, and emotions tend to cloud our judgment. We will
+need all our thinking tools and more, which we will have to make as we go
+along.
+

@@ -1,0 +1,978 @@
+=== chunk: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch8-fallacies-2 ===
+title: Fallacies (2)
+source_pdf: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.ocr.pdf
+pdf_pages: 142-171
+page_scheme: book
+plan_page_start: 127
+plan_page_end: 156
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 127 ===
+
+                       Fallacies (2)
+
+                                    &
+
+ESSENTIALS
+
+           mong the fallacies that may occur in the argumentation stage are
+            (6) falsely treating a starting point as agreed on, or denying a
+           commitment to something that was an agreed-on starting point
+(violation of starting point rule), (7) using an inappropriate argument
+scheme or using an argument scheme incorrectly (violation of arqument
+scheme rule), and (8) using invalid reasoning (violation of validity rule). In
+the concluding stage of the discussion (9) unwarranted consequences may
+be attached to a successful defense or a failed defense (violation of closure
+rule). Finally (10), the resolution ofa difference of opinion can be obstructed
+during any stage of the discussion by the use of unclear or ambiguous language (violation of usage rule).
+
+8.1   VIOLATIONS OF THE STARTING POINT RULE
+
+To satisfactorily resolve a difference of opinion, the parties to a discussion must give each other the freedom to express the difference of
+opinion, must be prepared to accept the burden of proof for their
+standpoints by presenting argumentation in their defense, must not
+
+=== p. 128 ===
+
+falsely attribute standpoints or arguments to the other party, and
+must not try to dissociate themselves from the standpoints or arguments to which they have committed themselves. Althoughitisabig
+step forward if all these rules are followed, it is not sufficient. The arguments advanced should also meet several requirements.
+  A difference of opinion is resolved in favor of the protagonist if he
+conclusively defends his standpoint; otherwise, it is resolved in favor of the antagonist. The defense can be regarded as conclusive only
+if the arguments of the defense are directly acceptable to the opponent because they form part of the common starting points, or if they
+are acceptable because they are based on valid reasoning and appropriate argument schemes. If the parties fail to observe the rules for
+the conclusive defense of standpoints, their argumentation will contain fallacies that make their defense unacceptable.
+
+Rule 6: No Party May Falsely Present a Premise as an Accepted
+Starting Point, or Deny a Premise Representing an Accepted
+Starting Point
+
+Just as it is pointless to have a discussion with someone who refuses
+to abide by any discussion rules, it also makes no sense to have a discussion with someone who will not commit himself to any starting
+points. In order to resolve a difference of opinion, both parties must
+have in common some minimum of facts, beliefs, norms, and value
+hierarchies. If they cannot agree on any of these, they will never succeed in convincing each other of the acceptability of any standpoint.
+Ultimately, the defense of a standpoint rests on some set of statements that are acceptable to both parties.
+  Explicit agreements about common starting points are rare.
+Parties normally operate on the assumption that they share certain
+starting points. The better the parties know each other, the more
+likely it is that their assumptions about common starting points are
+accurate. Then it will sometimes be unnecessary to come to an explicit agreement about starting points.
+  The protagonist and antagonist do not actually have to believe
+that the propositions serving as common starting points are all true
+or acceptable, but they must conduct the discussion as if they believed this. Sometimes a proposition is temporarily accepted as true
+only in order to test its acceptability or even to demonstrate that it is
+unacceptable because it has untenable consequences. This would not
+be possible if both parties had to really believe in the acceptability of
+all of the starting points.
+
+=== p. 129 ===
+
+  Rule 6 is violated if a party falsely presents a premise as belonging to
+the common starting points or denies a premise that does in fact belong to
+the starting points.
+  The antagonist violates Rule 6 if he questions either a proposition
+that was agreed on as a common starting point or one that the protagonist, based on verifiable background information, may rightly assume the antagonist to be committed to. A proposition with the
+status of starting point may not be questioned in the discussion. Of
+course, the proposition can always be questioned later in a separate
+discussion. If all assumptions are open to question at the same time,
+there cannot be a meaningful discussion, and the difference of opinion will never be resolved. The same is true if an antagonist in the
+middle of the discussion suddenly starts questioning a previously
+agreed-on proposition for opportunistic reasons: “But did I ever say
+the earth is round?,” “But what is wrong with incest anyway?”
+  The protagonist violates Rule 6 if he acts as though a certain proposition was accepted as a starting point when that is not the case. A familiar trick for preventing a proposition from being attacked is to
+formulate something controversial in such an inconspicuous way
+thatitisnotnoticed. This can be done by presenting the controversial
+proposition as a presupposition (an assumption tacitly assumed by
+the speaker) of another statement; for example, instead of directly
+saying “Fred is addicted to gambling,” saying something like “I can’t
+understand why Fred doesn’t do something about that gambling addiction.” In the second formulation, Fred’s addiction to gambling is
+assumed, thus falsely giving the impression that the addiction is an
+established fact.
+  The protagonist can make unfair use of presuppositions not only
+in making assertions but also in asking questions:
+
+        Who have you quarreled with today?
+
+If it has not yet been established that any quarreling took place, then
+the formulation of this question is misleading because it creates the
+impression that it is a common starting point that there has been a
+quarrel. To go about it properly, the question would need to be split
+in two: “Have you quarreled with anyone today?” and “Who have
+you quarreled with?” Asking the question in its original form is an
+example of the fallacy of many questions.
+  Another way protagonists sometimes wrongly assume that a
+proposition belongs to the common starting points is when in defending their standpoints they use an argument that amounts to the
+
+=== p. 130 ===
+
+same thing as the standpoint. Because the standpointis precisely that
+which is being debated, they know very well that a statement that is
+identical to or synonymous with the standpoint cannot possibly belong to the common starting points. If they nevertheless act as
+though it does, they are committing the fallacy of circular reasoning
+(also called begging the question or petitio principii).
+  Here is a simple example of circular reasoning;:
+
+        Racial discrimination is a punishable offense because it’s
+        against the law.
+
+The circularity is perhaps not immediately obvious, until one realizes that “a punishable offense” implies violating the law. Thus, the
+argument and the standpoint in this example are nearly identical. A
+less obvious example of circular reasoning was challenged by Rudy
+Kousbroek (1970):
+
+        In a recent issue of Tirade, G. van het Reve berates someone
+        who took recourse to W.F. Hermans’s motto: “the human being is a chemical process just like any other.” Van het Reve attacked the motto by saying “I have never had a letter from a
+        chemical process.” This is a classic case of using that which
+        has not been proved as proof: assuming the motto is correct,
+        then Van het Reve will regularly and exclusively receive letters from chemical processes. (p. 37)
+
+8.2   VIOLATIONS OF THE ARGUMENT SCHEME RULE
+
+Rule 7: A Standpoint May Not Be Regarded as Conclusively
+Defended if the Defense Does Not Take Place by Means
+of an Appropriate Argument Scheme That Is Correctly Applied
+
+Even if all of the statements making up the argumentation are accepted by both parties, the defense cannot be considered successful if
+these statements do not adequately support the standpoint (or whatever part of the argumentation they were intended to support). Only
+if the protagonist uses an appropriate argument scheme for his defense and applies that scheme correctly can the defense be judged
+successful. If the protagonist uses an inappropriate argument scheme or
+applies a scheme in an incorrect way, then he or she violates Rule 7. Such
+violations occur during the argumentation stage.
+  Some argument schemes are rarely acknowledged to be sound.
+The odds are that the opponent will not accept these schemes, so that
+
+=== p. 131 ===
+
+a violation of Rule 7 occurs. One such scheme (a variant of argumentation based on a symptomatic relation) is the populist fallacy (argumentum ad populum). In the populist fallacy, the opinion of some
+number of people is used in arguing for the acceptance of the standpoint: It is claimed the standpoint should be accepted because so
+many people agree with it. However, in the following example it is
+pointed out that this is not true:
+
+        Hundreds of thousands of cheering readers, viewers, or listeners are no proof at all of the correctness of anidea, and it is
+        pure demagoguery to use their opinion as an argument.
+
+Another well-recognized unsound way of arguing is to appeal inappropriately to a causal relation. The mistake of confusing facts with
+value judgmentsis a fallacy thatis traditionally known as the arqumen-tum ad consequentiam. In support of a standpoint with a factual proposition, an argument is advanced that is normative because it points
+out undesirable effects of the standpoint: “It isn’t true, because I
+don’t want it to be true” or “It’s true, because I want it to be true.” An
+example of ad consequentiam is:
+
+        It can’t be raining, because that would mean we’d have to
+        cancel our picnic.
+
+Even if the argument scheme itself is appropriate, not all ways of applying it are correct. If an argument scheme is correctly applied, then
+all critical questions corresponding to this scheme can be satisfactorily
+answered. For example, in committing a fallacy of abuse of authority (argumentum ad verecundiam), a proposition is presented as acceptable because some person or written source that is inappropriately presented
+as an authority says thatitis so. This is a wrong application of a particular kind of argumentation based on a symptomatic relation.
+  Another example of improper use of an argument scheme based
+on a symptomatic relation is the fallacy of hasty generalization
+(secundum quid). The fallacy here is generalizing on the evidence of
+too few observations:
+
+        After having spent our 1991 vacation in Cuba, we went there
+        againin 1992, which shows thatit’s a great place for tourists.
+
+The fact that one tourist couple is prepared to visit Cuba twice in a
+row is no proof that it is a great place for tourists in general.
+  If the argumentation is based on a relation of analogy, then the
+analogy must be a sound one. The two things compared must really
+
+=== p. 132 ===
+
+be comparable and there mustbe no special circumstances thatinval-idate the comparison. If these requirements are not met, then we
+have the fallacy offalse analogy.
+  When establishing causal relations, using the third main category
+of argument schemes, the reasoning may also go astray. Sometimes a
+cause-and-effect relation is based on no more than the fact that the
+one thing preceded the other. This is the fallacy of post hoc ergo propter
+hoc (“after this, therefore, because of this”). A soccer coach commits
+this fallacy by suggesting that the rise in ticket sales was due to his
+taking on the job:
+
+        I like the Milan team. I like the way they play, their courage,
+        their drive to win. Since I came we have gone from 40 to 71
+        thousand season ticket holders. There must be a reason for
+        that.
+
+Another common way of using a causal argument scheme incorrectly
+has to do with pragmatic argumentation. The mistake here is to
+wrongly suggest that adopting a certain course of action will inevitably be going from bad to worse, when in fact there is no evidence that
+such an effect will occur. Because it has not been shown that the predicted negative consequences will really ensue, one of the critical
+questions appropriate to causal argumentation cannot be satisfactorily answered. This is the fallacy of the slippery slope. A slippery slope
+can be detected in Gerrit Komrij’s sketch of the consequences of government support of activities designed to protect women (but not homosexuals) from sexual violence:
+
+        Those who find sexual violence important only when it is
+        aimed at a limited and arbitrary group like girls and women
+        will end up, if their reasoning is carried to its logical conclusion, finding any form of violence acceptable as long as it is
+        aimed at an enemy specially marked out for that purpose.
+
+8.3   VIOLATIONS OF THE VALIDITY RULE
+
+Rule 8: The Reasoning in the Argumentation Must Be Logically
+Valid or Must Be Capable of Being Made Valid by Making
+Explicit One or More Unexpressed Premises
+
+Violations of Rule 8 have long been considered to be the most important of the fallacies. Nevertheless, invalid reasoning is certainly not
+
+=== p. 133 ===
+
+the mostimportant cause of failure to reach resolution of a difference
+of opinion—if for no other reason than that arguments in everyday
+language, which are so often incomplete, can easily be rendered
+valid by filling in one or more premises.
+   Rule 8 is violated only if the reasoning, after making explicit everything that was left unexpressed, is still invalid. Violations have to
+do with the logical form of the reasoning underlying the argument.
+   There are several forms of faulty reasoning that occur with some
+regularity during the argumentation stage. The two best-known
+ones are affirming the consequent and denying the antecedent; these are
+the invalid counterparts of the modus ponens and modus tollens types
+of reasoning. The mistake made in both of these forms of invalid reasoning is that a sufficient condition is treated as a necessary condition. Lines of reasoning that take the form of affirming the
+consequent or denying the antecedent have the following pattern:
+
+                If you eat spoiled fish (antecedent) you get sick. (consequent)
+                Anne is sick. (affirmation of the consequent)
+Therefore:   ~ Anne has eaten spoiled fish.
+
+                If you eat spoiled fish (antecedent) you get sick. (consequent)
+                Annehasn’t eaten any spoiled fish. (denial of the antecedent)
+Therefore:      Anne is not sick.
+
+Itis easy to see thatboth lines of reasoning are invalid when one stops
+to think that Anne could have got sick due to causes other than eating
+spoiled fish.
+   Another violation of Rule 8 is incorrectly attributing a property of
+the whole to the component parts or vice versa. The first is called the
+fallacy of division, the second the fallacy of composition. These fallacies
+involve treating the whole as a simple sum of the separate parts and
+assuming every property of the whole also applies to each of the component parts. But in fact, what is true for the parts is not necessarily
+true for the whole. If a stew is composed of ingredients each of which
+by itself is delicious, this is no guarantee that the stew will also be delicious. The following comment from the manager of the school cafeteria seems overly optimistic:
+
+        We use real butter, real cream, and fresh lettuce, so our meals
+        are always delicious!
+
+=== p. 134 ===
+
+Another example of the composition fallacy is:
+
+               The Catholic church is a church for poor people.
+Therefore:    ~ The Catholic church is poor.
+
+What exactly is wrong with this argumentation? In the first place, it
+does not take into consideration the fact that the term “poor” is a relative one: Standards of wealth are different for individuals than for
+churches. Whether the Catholic church is poor or not can only be established by comparing its wealth with that of other churches or similar institutions. In the second place, the impression is given that the
+wealth of the church is simply the sum of the income and property of
+individual members, whereas other factors are involved, for instance,
+what portion of their income members donate to the church.
+  An example of the division fallacy is:
+
+               The Cabinet is indecisive.
+Therefore:     The Ministers are indecisive.
+
+In this argumentation, it is wrongly assumed that if the Cabinet as a
+whole is indecisive, then all of the members of the Cabinet are necessarily also indecisive. In fact, it is entirely possible that each member
+individually is decisive, but that each Minister wants something different so that the Cabinet as a whole is unable to reach a decision.
+
+8.4   VIOLATIONS OF THE CLOSURE RULE
+
+Rule 9: A Failed Defense of a Standpoint Must Result in the
+Protagonist Retracting the Standpoint, and a Successful Defense
+of a Standpoint Must Result in the Antagonist Retracting His
+or Her Doubts
+
+Resolution can still be obstructed even in the last stage of the resolution process, when the argumentation is completed and the discussion only needs to be brought to a close. The concluding stage of the
+discussion must establish whether the difference of opinion has been
+resolved and in whose favor. If the parties do not succeed in coming
+to agreement on this, the difference of opinion persists. If the protagonist is convinced that the standpoint has been conclusively defended, but the antagonist insists that this is not so, then the
+discussion ends in a stalemate.
+
+=== p. 135 ===
+
+  If the protagonist and the antagonist agree on the outcome, then
+they must also accept the consequences. A protagonist who has not
+managed to successfully defend the standpoint must be prepared to
+give up this standpoint. Otherwise, the protagonist commits the fallacy of refusing to retract a standpoint that has not been successfully defended. If, on the contrary, the protagonist has succeeded, then the
+antagonist must be prepared to retract the criticism of the standpoint. Otherwise, the antagonist commits the fallacy of refusing to retract criticism ofa standpoint that has been successfully defended. Here is
+an example:
+
+        Well, if that’s the case, then I can’t think of any more objections. But I still don’t agree with it.
+
+Other violations of Rule 9 arise when inflated consequences are attached to the successful attack or defense. Successful protagonists
+are entitled to expect the other party to retract their doubts about the
+standpoint, but no more than that. Otherwise, these protagonists
+commit the fallacy of concluding that a standpoint is true because it has
+been defended successfully. If protagonists conclude that they have
+now proved that their standpoint is true, then they are going too far.
+The only thing they have shown is that their standpoint, based on the
+agreed-on starting points, can be successfully defended. This does
+not imply that the standpoint is necessarily true or acceptable in any
+broader sense. The acceptability of the starting points outside the
+context of the discussion, after all, has not been established. The protagonist and antagonist donot even need to believe in the truth or acceptability of their common starting points. Likewise, the failure of a
+defense doesnot warrant the conclusion that the standpoint hasbeen
+shown to be false or that the opposite standpoint is true. An antagonist who makes this claim is guilty of the fallacy of concluding that a
+standpoint is true because the opposite has not been successfully defended
+(arqumentum ad ignorantiam).
+  The first mistake made in this fallacy is to confuse the roles of protagonist and antagonist. In a nonmixed difference of opinion, only
+one of the parties is obliged to defend their position, namely, the protagonist. The antagonist has merely doubted the standpoint, so it is
+impossible for him or her to have successfully defended the opposite
+standpoint. Only in a mixed discussion are there two protagonists
+and two standpoints, so that both protagonists are obliged to defend
+their positions. But even then, one party’s defense failure does not
+cancel the other party’s burden of proof.
+
+=== p. 136 ===
+
+  The second mistake is to assume that the standpoint adopted in relation to a proposition must always be either positive or negative.
+This ignores the possibility of a “middle course,” that is, taking a
+neutral position with no standpoint. If protagonists fail in their defense of a standpoint, this certainly does not mean that they mustim-mediately accept the opposite standpoint. Anyone who acts as
+though this is a necessary consequence is committing the fallacy of
+argumentum ad ignorantiam. In the following example, both mistakes
+are made:
+      Mother:   You must never hit children, because then they lose
+                trust in society and ten years later they’ll be hitting everybody.
+      Father:   It hasnotin any way been proved that hitting children
+                leads to violence later. So a slap once in a while for a
+                good reason can’t do any harm.
+
+8.5    VIOLATIONS OF THE USAGE RULE
+
+Rule 10: Parties Must Not Use Any Formulations That
+Are Insufficiently Clear or Confusingly Ambiguous,
+and They Must Interpret the Formulations of the Other
+Party as Carefully and Accurately as Possible
+
+Unclear or ambiguous language can have direct negative consequences for the resolution of a difference of opinion. Lack of clarity
+during the confrontation stage can lead to a spurious disagreement,
+where the formulations chosen suggest a difference of opinion that
+does not exist. Lack of clarity can also lead to spurious agreement:
+The parties think they have reached agreement, when in fact their
+agreement is based on their having given different definitions to the
+terms used in the standpoint.
+  Ambiguity and lack of clarity in violation of Rule 10 can occur during any stage of the discussion. Any time a party makes use of unclear or ambiguous language to improve his or her own position in
+the discussion, they are guilty of the fallacy of unclarity or of the fallacy
+of ambiguity.
+  These fallacies occur not only by themselves, but also—even often—in combination with violations of other discussion rules. Lack
+of clarity sometimes accompanies a fallacy and enhances its effect.
+An argumentum ad baculum or an argumentum ad hominem is often
+more effective if the threat or accusation is made indirectly. Some-
+
+=== p. 137 ===
+
+times lack of clarity is inherent to a fallacy, for instance, the fallacy of
+magnifying an unexpressed premise. The antagonist can magnify an
+unexpressed premise precisely because it was not explicitly stated.
+  Some kinds of unclarity have to do with the structure of larger
+pieces of text; this is called structural unclarity at the textual level, resulting from “illogical” order, lack of coherence, obscure structure,
+and so on. Goudsblom describes the effect of such lack of clarity (in
+Folia, October 17, 1981):
+
+          In many discussions ... a capricious intermingling takes place
+          of descriptive, interpretive, explanatory and evaluative elements that results in an elusive combination of “sense” and
+          “nonsense” that can perhaps best be termed “unsense.” [...] It
+          is striking how many discussions about politics and morals—
+          that is, about society—are conducted by the grace of unsense.
+          The starting points, the terms, the conclusions, even the statement of the problem, together constitute a hopeless tangle of
+          description, interpretation, explanation and value judgment.
+          To take partin such a discussion is to poke about in a rhetorical
+          hornet’s nest. This realization renders us powerless and
+          speechless.
+
+Four main types of unclarity at sentence level can be distinguished:
+unclarity resulting from (1) implicitness, (2) indefiniteness, (3) unfamiliarity, and (4) vagueness. The best way of explaining these is to
+give examples. Suppose someone says “Charles is a kleptomaniac.”
+The listener may ask for clarification in any of a number of ways:
+
+      -    Are you warning me or just informing me?
+      N    Charles? Charles who?
+      W
+           A kleptomaniac? What's that?
+      =    What do youmean, he’s a kleptomaniac? Do you mean once
+           upon a time he stole something, or do you mean he makes a
+           habit of stealing things?
+
+Question 1 indicates the unclarity was due to implicitness: The listener is not sure what the communicative function of the speech act
+is because the context and situation allow for more than one interpretation.
+  Question 2 indicates the unclarity was due to indefiniteness; it seeks
+clarification of the propositional content. The listener cannot determine who the speaker is referring to; the reference is unclear.
+
+=== p. 138 ===
+
+  Question 3 also indicates unclarity in the propositional content,
+but this time it is the predication that is problematic: The listener does
+not understand exactly what the speaker is trying to say about
+Charles because he does not know the meaning of the word “kleptomaniac” and perhaps has not even heard of the illness it designates.
+So the unclarity here is due to unfamiliarity with the word or with the
+illness it refers to.
+  Question 4 is the listener’s attempt to obtain a clearer idea of what
+the speaker means by “kleptomaniac,” thereby reducing the vagueness of this term. Although the listener knows the meaning of the
+word, he or she does not yet know what criteria the speaker is using.
+How often must someone steal to earn the label of “kleptomaniac”?
+  Ambiguity has to do with the fact that words and phrases can have
+more than one meaning. For example, the sentence “That is
+Herman’s portrait” can be interpreted in three different ways: (1) the
+portrait was painted by Herman, (2) the portrait is owned by
+Herman, and (3) Herman is the subject of the portrait.
+  Questions can be ambiguous as well. There are, for instance, at
+least five possible interpretations of the question “Who is Tony?”:
+
+      =     Which of you three is Tony?
+      IN    Who in this picture is Tony?
+      W
+            Who is the actor that plays Tony?
+      =
+            What can you tell me about Tony?
+      Ol    Why the hell should we listen to Tony?
+
+Ambiguity includes ambiguity of reference, as in the following sentence, where it is not clear who her refers to, Carla or Sandra:
+
+           Carla gave Sandra the mail; it was her last day here.
+
+The following text offers a good example of a different kind of improper use of ambiguity:
+
+           Although Mr. Wylie claimed he would be open about everything, he started out by lighting up a large cigar and
+           promptly disappeared in a cloud of smoke.... Mr. Wylie is silent when he should be speaking as a liberal.... Mr. Wylie
+           smokes, and where there is smoke, there is fire.
+
+The expression “where there is smoke there is fire” is used here in
+two senses. It is used literally, in that “smoke” refers to the smoke
+from Wylie’s cigar, and it is used figuratively: Because Wylie himself
+
+=== p. 139 ===
+
+says nothing about them there must be some truth to all the rumors
+about him. This use of ambiguity serves to camouflage the fact that
+the standpoint “Wylie is notbeing open” is being supported by the irrelevant argument that he smokes cigars.
+
+FURTHER READING
+
+In-depth studies of the fallacies can be found in J. Woods and D.
+Walton, Fallacies: Selected Papers 1972-1982, Berlin: Foris/Walter de
+Gruyter, 1989, and H. V. Hansen in R. C. Pinto (Eds.), Fallacies: Classical
+and Contemporary Readings, University Park, PA: Pennsylvania State
+University Press, 1995. See also D. N. Walton, Informal Fallacies: Towards a Theory of Arqument Criticisms, Amsterdam-Philadelphia: John
+Benjamins, 1987, and A Pragmatic Theory of Fallacies, Tuscaloosa: University of Alabama Press, 1995. A discussion of Walton’s approach to
+fallacies can be found in C. W. Tindale, “Fallacies, blunder and dialogue shifts: Walton’s contributions to the fallacy debate,” Argumentation, 1997, vol. 11,no. 3, pp. 341-354. For a typology of arguments from
+authority, see J. Goodwin, “Forms of authority and the real ad
+verecundiam,” Argumentation, vol. 12, no. 2, pp. 267-280.
+
+=== p. 140 ===
+
+EXERCISES
+
+  1.   Are the following arguments valid?
+       a.   Pascal, quoted in an imaginary interview:
+            If you believe in God and he exists, then you are all right. If
+            you believe in God and he does not exist, you haven’t lost
+            anything. If you do not believe in God and he does indeed
+            exist, then you go to hell. And if you do not believe in God
+            and he does not exist, you again haven’t lost anything. It is,
+            therefore, always better to believe in God.
+            All of the parts of this chair are made of wood; therefore this
+            chair is made of wood.
+            All of the parts of this chair are cheap; therefore this chair is
+            cheap.
+            All of the players of the football team are world class; therefore the football team is world class.
+       e.   All of the parts of this figure are triangular; therefore this
+            figure is triangular.
+       f.   This bikini bottom is blue, the bikini top is blue; therefore
+            this bikini is blue.
+  2.   Inthefollowing cases, are there any fallacies of unclarity or ambiguity? If so, what are these caused by?
+       a.   Television presenter in interview with Mayor Koch of New York:
+            “Mr. Koch, you seem to have an endless source of income.
+            Does that fit in with your office, and what are you doing
+            with all that money?”
+              Reply by Ed Koch: I certainly am getting rich, and that gives
+            me enormous satisfaction. And I am extremely socially-minded with the money: the fact is, I pay a fortune in
+            taxes, and, allin all, the community ought to be grateful tome.”
+            Letter to the editor:
+            The Economist is known as a high-quality publication. Such
+            I can confirm, it is. During a recent solo ascent of a volcano
+            in El Salvador, I fell and was left stranded with a compound
+            fracture of my leftleg. To supportmylegsoIcould crawl for
+            help, I looked around for suitable materials. Ten minutes
+            later I set off with my lower leg surrounded by two sticks,
+            part of a cactus and a copy of your magazine thatI had been
+            carrying with me.
+              When I wasrescued several hours later, the sticks and the
+            cactus had succumbed to the rain and wear and tear. Only
+            the magazine did not need replacing.
+
+=== p. 141 ===
+
+3.   Inthe following excerpts, language use is discussed. Is the criticism justified? If so, which type of fallacy of unclarity or ambiguity, or other type of fallacy, has occurred?
+     a.   Frida Balk-Smit Duyzentkunst on natural language and the lan-qguage of arithmetic:
+          There is an enormous difference between “Two times two is
+          four” and “2 x 2 = 4.” In written form, the difference in appearance of the two sentences is clearly visible. However,
+          when reading it out loud, the distinction is not apparent. It
+          is probably partly because of this that we are inclined to ignore this crucial difference, which makes natural language
+          an inexhaustible source of new information. Manifestly absurd arguments can result from this.
+            Ahalf full bottle is equal to a half empty bottle. Let’s call
+          the full bottle x and the empty bottle y. Or ¥%2x = Y2y. Multiply
+          both sides of the equation by 2, that gives x = y. Thus, a full
+          bottle is equal to an empty bottle.
+     b.   Description of the method Kinsey used in order to learn about the
+          sexual behavior of interviewees:
+          The interviewer should not make it too easy for the interviewee to deny the practice of a certain form of sexual activity. Itis easy to say no when one is simply asked whether one
+          has ever done something like that. Thus, it is assumed, as it
+          were, that everyone has practiced every form of sexual activity. Interviewees are, therefore, asked when they did this
+          or that for the first time.
+4.   IsRule7violated in the following cases? If so, which party is responsible for this? Does the violation result from an incorrect
+     choice of argument scheme or an incorrect application of an argument scheme?
+     a.   Theworstantiquebook dealers are the ones with a personal
+          collection. They drive me crazy when they say, “I have a
+          book at home that you would love to have. Too bad I can’t
+          sell it to you, because it’s part of my private collection.”
+             If a book dealer collects for himself, he shouldn’t tell his
+          customers about it. It’s as if you were to go into a supermarket and there weren’t any steaks. You're looking at the
+          empty meat counter and the manager walks by. “No
+          steaks?” you ask. “No,” says the manager, “I have them all
+          in my freezer at home.”
+b.        From an advertisement by Black & Decker for a “dustbuster”:
+          No other hand-held vacuum cleaner will give you greater
+
+=== p. 142 ===
+
+              satisfaction than the one and only Dustbuster by Black &
+              Decker. We don’t say that without reason of course. We
+              know that one million British families agree with us; for this
+              is the number of Dustbusters used daily in the UK.
+              I was dead set against Darwinism. I had the feeling that it
+              made everything meaningless and vulgar. It simply couldn’t
+              be true. If it were true I didn’t want to go on living. I didn’t
+              want to have anything to do with a world like that.
+            . Letter to the editor:
+              Itisnot widely known that the sudden appearance of the “advisory” in weather forecasts is the beginning of a movement
+              to end the unacceptable noun domination of our language.
+                   Soon the “advisory” will be joined by other “admonitories” from the severe “alarming” down to humble “careful,” with a special category for weather systems that might
+              miss our shores altogether, the “hopefully.” The weather itself will become the “atmospherical” and a forecast will become a “before.”
+                   Once it has been demonstrated that other parts of speech
+              can do the job of any noun, we can look forward to anew age
+              of openness in language, when words, no longer constricted
+              by hidebound grammatical stereotyping, are free to fulfil
+              their true potential wherever in the sentence they choose.
+
+ MY POWERFUL BRAIN HAS       TUW WRITE ABOUT THE         NilcH SIPE j OH, T BELIENE
+ COME UP WiTH A TOPIC        DEBATE OVER TYRANNOSAURS.                THEY WERE
+ FOR MY   PAPER.         A   WERE THEY FEARSOME                        FEARSOME
+                             PREDATORS OR DISGUSTING                   PREDATORS,
+                             SCAVENGERS ?                              DEFIN(TELY,
+       .
+                                 \     N
+
+  Z.
+
+  5.   Inthe following two texts the prime minister accuses the interviewer of a fallacy. Do you think the accusations are correct?
+       a.     Interviewer:
+              What do you think of the national union leader?
+              PM: Ibelieve he is trying with perfect sincerity to do what
+
+=== p. 143 ===
+
+          he can in his members’ interests.
+          Interviewer: Praise indeed.
+          PM: Yes, well, praise ... that’s what you may call it.
+     b.   PM: Thesocialists never fulfil their promises, always break
+          agreements and are constantly contradicting themselves.
+          Interviewer: You think the socialists are undependable.
+          PM: That is your way of putting it.
+6.   Are discussion rules violated in the following excerpts? If so,
+     which fallacy has been committed?
+     a.   Waiters at Britain’s Indian restaurants have been branded
+          “miserable gits” by the editor-in-chief of the curry industry’s own bible, Igbal Wahhab. He says they make dining
+          out more like going to a funeral. At the moment, he complains, nothing typifies the Indian restaurant experience as
+          much as the surly, miserable waiter. “Walk into an Indian
+          restaurant, no matter how posh, and more likely than not
+          you will be greeted by a miserable git. It’s as if his day’s
+          been ruined by your arrival.”
+            Jim Ainsworth, editor of the Good Food Guide, accused Mr.
+          Wahhab of making “silly comments.” His article brought
+          mixed response from Indian waiters around the country,
+          one of them said Mr. Wahhab was the miserable git.
+            Wahed Ali, aged 22, from Bournemouth said: “The guy
+          must have had a bad experience but it’s nonsense to brand
+          everyone with the same label. There’s a miserable git in every kind of industry but you don’t have to put down everyone.” Igbal Chowdhury, 45, from York said: “Mr. Wahhab
+          just wants to show he is the Tandoori king and he should
+          stop criticizing others who just do their job.” Kuti Miah,
+          managing partner in a Southampton restaurant said: “I
+          went to a Thai restaurant the other night and the bloke who
+          served me was so unfriendly.”
+     b.   PM John Major: “They would not be privatizing in Latin
+          America today, if we had not first done it here. They would
+          not be cutting high tax rates in India today, if we had not
+          first done it here. They would not be planning to bring Eastern Europe into the Community today, if we had not first
+          suggested it here.”
+     c.   Textonabanner during a pro country side demonstration in London:
+          Eat British lamb
+          40,000 foxes can’t be wrong
+
+=== p. 144 ===
+
+             William Albright: “Every human group is born, grows, declines and dies, as it must if it is an aggregation of individual living beings.”
+            Miracles are impossible, for they cannot happen.
+            In case any of your readers take Beatrix Campbell seriously,
+            may I point out that I have never advocated that women
+            should “withdraw from the labor market.”
+                Instead, I have said that public policy should assist
+            women to choose whether to go out to work or look after
+            their children at home, rather than direct them into one
+            course or the other. And yes, it’s important that men should
+            both work and marry, since mothers—including working
+            mothers—and their children need committed fathers for financial, practical and emotional support.
+            Advertisement:
+            America loves Burger King.
+            Paul: Do you believe in immortality?
+            Ann: I'have not sufficient data not to believe it.
+            Joe McCarthy had 81 case histories of persons who he considered communists in the state department. Of one case he
+            said: “I do not have much information on this except the
+            general statement of the agency that there is nothing in the
+            files to disprove his communist connections.”
+            On hearing of the death of a neighbor, somebody exclaims,
+            “What else could you expect? A mirror was broken in that
+            house less than a year ago.”
+       k.
+
+  HELLO? YES, ID LKE TO SPEAK        HELLO, CWIEF? 1S 1T A LAW THAT
+  WITH THE- CHIEF -OF POLICEJ_—_/n YOUR SOKKS: HAVE TO MATCH-ANTWING.{. 22e=]   S00
+                                          ELSE YOURE WEARWG ?
+
+       1.   Rationality and analytical ability cannot be viewed as male
+            attributes. If we were to regard them as such, we would un-
+
+=== p. 145 ===
+
+     intentionally be giving men an advantage in job applications and promotions.
+m. Frank: “The damaging effects of pornography have not yet
+     been proved. So, pornography is not harmful.”
+n.   The consequences of that suggestion (that measures designed to curb sex tourism actually work to the disadvantage of the prostitutes themselves) are clear. Sex tourism
+     should not be discouraged but in fact even be promoted, because it creates employment opportunities in Third World
+     countries. Maybe we should allocate some of our development aid to this effort ...
+       And there’s no need to limit the application of this reasoning to the Third World. Here in Europe we have high unemployment too. Promoting prostitution is a way of
+     increasingjob opportunities. And to take it one step further:
+     the crime rate reduces employment opportunities for police, while measures to reduce child abuse take away the
+     jobs of social workers.
+0.   Some complaints about advertisements are ridiculous. For
+     instance, someone responded to the advertising slogan
+     “Modern people shop at Harrods” by saying: “I am offended, since I don’t shop at Harrods, and that must mean
+     that I am old-fashioned.”
+p. Millions of people watch David Letterman’s late night
+     show. Letterman gets extremely high ratings. So his show
+     must be very good.
+q.   Freedom of speech is good for the country, because it is in
+     the interest of the community that everyone has the right to
+     say what he or she wants to say.
+r.   Talk show host to one of his guests: “Now tell me, is it first or
+     second nature to you to tell lies?”
+Give an analysis and evaluation of the text “Exploring Space: A
+Human Need” by answering questions 1-7.
+1.   Which proposition is the bone of contention in the text?
+     Which roles do the parties in the dispute assume? Which
+     type of dispute is being confronted?
+2.   State precisely (by referring to line numbers) how the various dialectical stages are represented in the text.
+3.   State the main arguments the author puts forward for his
+     standpoint and the subarguments supporting these main
+     arguments directly. Represent the structure of the main ar-
+
+=== p. 146 ===
+
+                 guments and the subarguments schematically. Justify your analysis.
+            4.   Give an analysis of the argumentation structure of paragraph 6.
+            5.   Identify two different types of argument schemes
+                 Answer the appropriate critical questions.
+            6.   Identify three violations of the burden-of-proof rule
+                 (rule2). Indicate precisely (referring to line numbers)
+            7.   Identify four other fallacies. Indicate precisely where
+
+       Exploring Space:        A Human Need
+
+       Somewhere in the cold desolation near the south pole of Mars,
+       apparently oblivious to the frantic efforts of earthlings to contact it, there is a lost spacecraft. We may never know what
+       went wrong on the Mars Polar Lander, on Monday December
+       6. But what we do know is that we lost $165 million. The gloom
+       at NASA is thick because in September the lander’s companion craft, Mars Climate Orbiter, which cost $125 million was
+       also lost as it approached the planet. Those who love to criticize NASA already are leaping on this apparent failure. The
+  10   complaint is familiar: The agency is being mismanaged. The
+       agency is incompetent. The agency should be killed.
+         Certain irresponsible congressmen called NASA’s Mars
+       project “a waste of public funds.” Some of them already
+       vented their ideas about budget cuts. I think that in spite of
+  15   our recent little setback, NASA should receive even more government funding to continue its space program.
+         The NASA program is of paramount importance to society.
+       We all know that exploring space is a cultural activity which
+       adds meaning to our lives. We go into space because manis cu-20   rious by nature. We wonder if life also arose elsewhere or if we
+       earthlings are alone in the Universe.
+         If we give up the exploration of space, the next step will be
+       to give up other government funded science programs, because they are not profitable.
+
+=== p. 147 ===
+
+  Furthermore, in an age when we are left without heroes, a          25
+goal-oriented space program gives the youth of the world a
+dream. Besides, one can never conquer “Space,” only land! In
+order to grow to be citizens of the universe, we need to start
+somewhere. Mars is the logical baby step before other planets.
+  Apart from these social advantages there are a great many          30
+economical benefits to the Mars project. The employment opportunities that are created will attract a larger segment of the
+student population to the sciences. A number of these will
+branch out into projects of their own, compounding the benefit
+by bolstering an industry of sciences. And more importantly,         35
+there are many spin-offs like TeflonTM and microwave ovens.
+According to many manufacturers, without the space program,
+those products would never have been invented. And finally
+there is, of course, the possibility of mining in space.
+  Some readers may respond that this might be true but then,         40
+NASA projects are still too expensive. I am so bloody sick of
+bleeding hearts who seize every opportunity to characterize
+our efforts in space as some sort of colossal waste of cash. I
+don’t know where they get this idea that a great percentage of
+our tax dollars was lost this year when the two Mars missions        45
+failed. The entire NASA budget amounts to less than one percent of the annual federal spending. Nobody is going to convince me that earmarking this rather insubstantial amount of
+money for the poor, the environment, the schools, or whatever
+‘cause celebre’ of the week you choose, will lead to any useful      50
+results in these already heavily-funded areas. That kind of aid
+is not going to make a difference.
+  What is tragic, is that the outrage concerning the loss of a
+few hundred million dollars in the space program does not
+lead to the outrage with regard to the loss of billions of dollars   55
+for the laughing stock F117, the “stealth” jet which appeared
+on Yugoslavia’s air defense radar and was shut down by an
+obsolete Soviet-made SAM.
+  What would life be like if the complete NASA budget had
+been spent on improving the quality of life in the United            60
+States? It goes without saying that even more government bureaucrats would have been hired, more money would have
+been spent on initiatives that make problems worse. At any
+rate we would have found ourselves far more ignorant of our
+place in the universe than we already are.                           65
+
+=== p. 148 ===
+
+        Will we ever know what happened to the Mars Polar
+      Lander? Maybe 30, 50 or a hundred years from now. Sometime
+      in the future earthlings will be exploring Mars and stumble
+      across the lander. We can’t stop our exploration now.
+                                               Houston, Robert Wilford
+
+        8.   Giveananalysis and evaluation of the text “Do the Crime,
+             Serve the Time: Juvenile Justice” by answering questions
+             1-8.
+             1.   Which proposition is the bone of contention in the
+                  text? Which roles do the parties in the dispute assume? Which type of dispute is being confronted?
+                  State precisely (by referring to line numbers) how the
+                  various dialectical stages are represented in the text.
+                  State the main arguments the author puts forward for
+                  her standpoint and the subarguments that directly
+                  support these main arguments. Represent the structure of the main arguments and the subarguments
+                  schematically. Justify your analysis.
+                  Give an analysis of the argumentation structure of
+                  paragraph 3 “The major argument ... would do it
+                  again.”
+                  Identify two different types of argument schemes
+                  Answer the appropriate critical questions to determine the strength of the argumentation.
+                  Identify three violations of the burden-of-proof rule.
+                  Indicate precisely (referring to line numbers) where
+                  Identify four other fallacies not mentioned above (in
+                  your answer to question 5 or 6). Indicate precisely
+                  Provide a brief evaluation of the quality of Cassidy’s
+                  arguments. Justify this evaluation.
+
+      Do the Crime, Serve the Time: Juvenile Justice
+
+      Violence by juvenile offenders is increasing in record proportions. In the last two weeks alone, a troubled 12-year-old in At-lanta was charged with juvenile murder in the shooting death
+
+=== p. 149 ===
+
+of his 10-year-old cousin. The offender taunted his 6-year-old
+cousin and her 10-year-old brother with a handgun for hours
+until he finally removed the safety and fired a single bullet
+into the 10-year-old’s forehead at point blank range. In Penn-sylvania, a 12-year-old has been accused of stabbing a neighbor in her home as one of her three young children watched
+part of the deadly attack. In Michigan, an 11-year-old boy was      10
+sentenced for shooting another boy outside a convenience
+store and when asked if he was sorry was quoted as saying, “It
+ain’t any big deal—the motherf---er looked at me like you
+shouldn’tlook and I ain’t gonna take the sort of f---ing bullshit
+from some dumb f---er.”                                             15
+  This crime wave has started a debate about the appropriate punishment for juvenile criminals. Currently, the status
+quo in most states, supported by the politicians who want to
+maintain a liberal image, dictates juvenile offenders under
+the age of 14 should not be tried nor sentenced as adults and       20
+instead be treated as “children” and receive lighter sentences, probation, counseling, drug treatment, tutoring, or
+incarceration in comfortable youth detention centers until
+their 18th birthday when, once again, they will be released
+again into society. These laws clearly reflect an outmoded le-      25
+gal system where the most serious crimes committed by juveniles were joyriding and shoplifting. In today’s society,
+where everyone can see the most common juvenile crimes
+are armed robbery, aggravated assault, and premeditated
+murder, this kind of special treatment is utter nonsense. The       30
+punishment for juvenile offenders should fit the viciousness
+of the crime, not the age of the violent offender. As a society,
+we cannot show any sympathy for, or accept any excuses
+from, the young thugs, perverts, and psychopaths who are
+destroying our schools and neighborhoods.                           35
+  The major argument to have special sentencing for juvenile
+offenders rests on the assumption that juveniles can not acknowledge the consequences of their actions like adults can.
+However, psychologists and pediatricians argue children as
+young as 8 can form the intention to commit a crime. Children       40
+by nature are capable of forming intent. Mr. Bart Garrison, a
+columnist from the Washington Post agrees: “Maybe in the past
+children were more naive and innocent, but this is simply not
+the case anymore. Children mature faster and in doing so, act
+in every way like miniature adults.” In addition, cases like        45
+
+=== p. 150 ===
+
+       that of William Jennings, the 13-year-old boy from Massachu-setts who grabbed a butcher knife and went on a bloody midnight rampage, fatally stabbing his father and wounding his
+       sister and his two nieces before he was finally subdued, all
+  50   over a cut in his allowance, illustrate the capacity of juveniles
+       to understand the consequences of crime. During his criminal
+       hearing he showed no remorse and said his father deserved
+       what was coming to him and that he would do it again.
+         Apart from that, appropriate sentencing of juveniles can be
+  55   a deterrent to crime. According to police investigators, criminologists, and many experts in the judicial system, if children
+       felt they would be punished for their crimes, they would be
+       less likely to engage in crime overall. According to Dr. Sam
+       Pullman from the Justice Department, “children look to their
+  60   peers to see what to do and how to act; if they see that their
+       peers are being punished for engaging in inappropriate behavior, they will be less likely to follow the path of crime.”
+         Lastly, instituting sentences that fit the crime regardless of
+       the age of the criminal would set a precedent that the Ameri-65   can judicial system is tough on crime which is something the
+       vast majority of the American public desires. With incidents
+       like the fatal shooting at Columbine High School and juvenile
+       crime on the rise in general, the American government needs
+       to stop listening to the pathetic “criminals are people too”
+  70   whiners and send a message that this sort of behavior will not
+       be tolerated, nor condoned.
+         The first lesson that should be taught in school is: You do
+       the crime, you serve the time. The current policy just doesn’t
+       work. If these bleeding heart liberals want to keep this policy,
+  75   they need to show America how this policy is effective. Parents, teachers, and society as a whole will not enjoy peace of
+       mind until our schools and streets are free of violentjuveniles.
+                                            Ellen Cassidy, Tucson, AZ
+
+       SPECIAL ASSIGNMENT 6
+
+       Give an analysis and an evaluation of the text “What is Beeren
+       Afraid Of?” by answering questions 1-7. The assignment should
+       be handed in at the next class meeting. In the following class
+
+=== p. 151 ===
+
+meeting, the instructor will discuss the assignment; the students
+will receive individual comments on their assignments.
+
+   1.   Which proposition(s) is (are) the bone of contention in
+        the text? Which roles do the parties in the dispute assume? Of which type is the dispute?
+  2.    State precisely (by referring to linenumbers) how the dialectical stages are represented in the text.
+  3.    State the main arguments which the author puts forward
+        for her standpoint(s). Give, in addition, a schematic
+        overview of the argumentation structure of these main
+        arguments and justify your analysis.
+  4.    Give a schematic overview of the argumentation structure of paragraph 7. In addition, make three unexpressed premises explicit.
+  5.    Identify two different types of argument schemes in
+        paragraph 7. Explain your analysis. Answer the appropriate critical questions for both schemes.
+  6     Identify one violation of discussion rule 2 (the burden-of-proof rule) and one violation of discussion rule 6
+        (the starting point rule).
+  7.    Identify three other violations of discussion rules in the
+        text. Indicate where they occur and explain why these
+        moves are fallacious.
+
+WHAT IS BEEREN AFRAID OF?
+Marliese Griffith-van den Berg
+
+Anarticle by Marliese Griffith-van den Berg, who is head restorer in
+the Fitzwilliam Museum in Cambridge, was published in the British
+newspaper The Independent. In this article she gave a detailed
+analysis of the opinions with regard to Goldreyer’s restoration of
+Barnett Newman’s painting Who's Afraid of Red Yellow and
+Blue IIL. In a letter to Wim Beeren, the director of the Stedelijk Museum in Amsterdam, Griffith-van den Berg explains why she believes that Goldreyer has not restored the painting correctly and
+why Beeren, in her view, is responsible for the mistakes made.
+
+  Dear Wim,
+  In the restoration studio at the Fitzwilliam Museum in
+Cambridge, we have been closely following the debate sur-
+
+=== p. 152 ===
+
+       rounding the unfortunate restoration of Barnett Newman’'s
+       Who's Afraid of Red Yellow and Blue I1I; each day, I gave a report
+       to my English colleagues, on the basis of articles from Dutch
+       newspapers, of the most recent developments in the affair.
+       Our involvement in the debate grew day by day as a result
+       and, with the encouragement of my colleagues, I had an article published in The Independent in which I expressed my view
+  10   of the affair; an article that also caused quite a stir in the Neth-erlands.
+         After having carefully analyzed the facts regarding the restoration, I believe that there are two important matters that
+       deserve particular attention in the debate. The first concerns
+  15   your being in the wrong when you say that Newman’s painting has been correctly restored; the second implies (however
+       unpleasantitis for me to have to say this) that you are responsible for the mistakes made. Although both of these standpoints are connected, it seems to me to be useful for the clarity
+  20   of the discussion (they do, in fact, refer to separate subjects) to
+       justify them individually.
+         There are four good reasons for my first point. One: reliable
+       research by the Central Laboratory in Amsterdam has shown
+       that Newman executed his painting with a brush and that he
+  25   used oil paint; in his restoration, Goldreyer has used a paint
+       roller and Magna, an acrylic paint. In good restorations, however, as you know, only the same paint is used as was used in
+       the original, or (if that paint is difficult to remove) a paint that
+       is easier to remove in future restorations. You can take it from
+  30   me that the latter does not apply to Magna. It is, after all, patently obvious that a top coat of acrylic paint cannot be removed without causing damage to the original layer of paint.
+         Second: according to the international code of restorers,
+       only damaged sections may be retouched in a restoration.
+  35   Goldreyer has, however, completely repainted the red section
+       of the painting, something which has emerged from the inspection of the painting by Professor Ernst van de Wetering.
+       He found craquelures only in the blue and in the yellow sections of the painting and not in the red, which indicates that
+  40   the red section has been completely repainted.
+         Three: a good restoration ought to be preceded by detailed
+       research. This did not take place in Goldreyer’s restoration.
+       There is, in any case, no one who can prove (by means of photographs, reports and such like) that any research was carried
+
+=== p. 153 ===
+
+out. Let us be honest, therefore, and conclude that no research
+whatsoever was carried out.
+  Four:   am not alone in my opinion that the painting has not
+been restored in a correct manner. My colleagues are of exactly
+the same opinion and there are also a great many restorers, art
+experts and other interested persons in the Netherlands who        50
+have made it known that they cannot agree with the result of
+Goldreyer’s work.
+  Then the second point: why do I think that you are personally responsible for the mistakes made in the restoration? Directly after the attack on the painting, you invited an            55
+international group of restorers to discuss the problems of the
+restoration. The head restorer at the Stedelijk, Elisabeth
+Bracht, and I myself were also present. It was agreed then that
+the treatment of the painting would remain within the bounds
+of the international code of restorers. Nevertheless, you then     60
+sent the work to Goldreyer in New York, without stating precisely how he was to proceed in the restoration. You did not,
+therefore, keep to your agreement. You have also been negligent: you failed to set up a committee to keep a close track of
+Goldreyer’s work and to direct the restoration. With such a        65
+committee, Goldreyer would, of course, never have had the
+chance to use acrylic paint and he would never have been able
+to “re-roll” the entire red section. Moreover, you paid no heed
+to good and sound advice. For example, you ignored my advice to require Goldreyer to make video recordings of the res-     70
+toration and to have these viewed each week by experts; I
+believe you considered that to be rather patronizing. And
+when Elisabeth Bracht reported to you from New York that
+Goldreyer was repainting the work, youresponded with a sarcastic remark and you didn’t really want to listen.                75
+  Wim, if it had been only one of these things, then you might
+still have been forgiven; after all, everyone makes a mistake
+now and then. But so many mistakes together, you really do
+have to be blamed for that. You would be well advised to admit that the restoration is a fiasco and you ought to assume the   80
+responsibility for the mistakes made.
+  For some weeks now, I have been wondering why you are
+so afraid to admit that the restoration has been unsuccessful
+and that you have made mistakes in the procedure. Do you
+stick to your opinion merely because you think that by doing       85
+soyouwon’thave to suffer any loss of face? Or did you, by any
+
+=== p. 154 ===
+
+       chance, deliberately allow the restoration to be carried out in
+       this way? Perhaps because, as a devotee of and expert on conceptual art (and Newman'’s painting wasn’t that) you are un-90   der the impression that all art is reproducible?
+
+=== p. 155 ===
+
+Presentation
+
+     @
+
+=== p. 156 ===
+
+This Page Intentionally Left Blank
+

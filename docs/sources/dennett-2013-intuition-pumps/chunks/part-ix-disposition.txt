@@ -1,0 +1,313 @@
+=== chunk: dennett-2013-intuition-pumps/part-ix-disposition ===
+title: Part IX subset — Chs. 75–76 (Naïve Auto-anthropology; Chmess)
+source_pdf: docs/sources/dennett-2013-intuition-pumps/full.pdf
+pdf_pages: 364-372
+page_scheme: pdf
+plan_page_start: 364
+plan_page_end: 372
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 364 ===
+
+75. PHILOSOPHY AS NAÏVE AUTO-ANTHROPOLOGY
+
+Patrick Hayes, the artificial intelligence researcher, once set out on a
+project to axiomatize the naïve (or folk) physics of liquids. The idea was to
+provide a robot with the propositions it would need to use as its core beliefs
+if it was going to interact with people (who rely on folk physics every day).
+It proved to be more challenging than he had anticipated, and he wrote an
+interesting paper about the project, “The Naïve Physics Manifesto” (Hayes,
+1978). In the naïve physics of liquids, everything that strikes naïve folks as
+counterintuitive is, of course, ruled out: siphons are “impossible” and so
+are pipettes, but you can mop up liquid with a fluffy towel, and pull water
+out of a well with a suction pump. A robot equipped with such a store of
+“knowledge” would be as surprised by a siphon as most of us were when
+first we saw one in action. Hayes’s project was what I would call
+sophisticated naïve physics, because he was under no illusions; he knew the
+theory he was trying to axiomatize was false, however useful in daily life.
+This was an exercise in what might be called axiomatic anthropology: you
+treat what the folks say—and agree about—as your axioms or theorems,
+and try to render the data set consistent, resolving any contradictions
+encountered. And, of course, he didn’t bother rounding up any actual
+informants; he figured that he knew the naïve physics of liquids as well as
+any normal person did, so he used himself as his sole informant: axiomatic
+auto-anthropology.1
+   Now compare Hayes’s project with the philosophical projects in analytic
+metaphysics, which often strike me as naïve naïve auto-anthropology since
+the participants in this research seem to be convinced that their program
+actually gets at something true, not just something believed true by a
+particular subclass of human beings (Anglophone philosophers of the
+analytic metaphysics persuasion). Otherwise, the programs seem identical:
+you gather your shared intuitions, test and provoke them by engaging in
+mutual intuition-pumping, and then try to massage the resulting data set
+into a consistent “theory,” based on “received” principles that count,
+ideally, as axioms. I’ve asked a number of analytic metaphysicians whether
+they can distinguish their enterprise from naïve naïve auto-anthropology of
+their clan, and have not yet received any compelling answers.
+
+=== p. 365 ===
+
+   The alternative is sophisticated naïve anthropology (both auto- and
+hetero-)—the anthropology that reserves judgment about whether any of
+the theorems adduced by the exercise deserve to be trusted—and this is a
+feasible and frequently valuable project. I propose that this is the enterprise
+to which analytic metaphysicians should turn, since it requires rather
+minimal adjustments to their methods and only one major revision of their
+raison d’être: they must roll back their pretensions and acknowledge that
+their research is best seen as a preparatory reconnaissance of the terrain of
+the manifest image, suspending both belief and disbelief the way
+anthropologists do when studying an exotic culture: let’s pretend for the
+nonce that the natives are right, and see what falls out. Since at least a large
+part of philosophy’s task, in my vision of the discipline, consists in
+negotiating the traffic back and forth between the manifest and scientific
+images, it is a good idea for philosophers to analyze what they are up
+against in the way of folk assumptions before launching into their theory-building and theory-criticizing.
+   One of the hallmarks of sophisticated naïve anthropology is its openness
+to counterintuitive discoveries. As long as you’re doing naïve anthropology,
+counterintuitiveness (to the natives) counts against your reconstruction;
+when you shift gears and begin asking which aspects of the naïve “theory”
+are true, counterintuitiveness loses its force as an objection and even
+becomes, on occasion, a sign of significant progress. In science in general,
+counterintuitive results are prized, after all.
+   One of the weaknesses of auto-anthropology is that one’s own intuitions
+are apt to be distorted by one’s theoretical predilections. Linguists have
+known for a long time that they get so wrapped up in their theories they are
+no longer reliable sources of linguistic intuition. Can you really say in
+English, “The boy the man the woman kissed punched ran away,” or is my
+theory of clause embedding tricking my “ear”? Their raw, untutored
+intuitions have been sullied by too much theory, so they recognize that they
+must go out and ask nonlinguists for their linguistic intuitions.
+Philosophers have recently begun to appreciate this point, in the new
+enthusiasm for so-called experimental philosophy (see Knobe and Nichols,
+2008). It is early days still, and some of the pioneer efforts are
+unimpressive, but at least philosophers are getting used to the idea that they
+can no longer declare various propositions to be obviously true on the sole
+grounds that they seem smashingly obvious to them. (In a similar vein,
+
+=== p. 366 ===
+
+Hayes might have surprised himself about the chief tenets of folk physics if
+he had gone to the trouble of interviewing a random sample of folk instead
+of just treating himself as exemplary.)
+   So here is a project, a particular sort of sophisticated naïve anthropology,
+that philosophers should seriously consider undertaking as a survey of the
+terrain of the commonsense or manifest image of the world before
+launching into their theories of knowledge, justice, beauty, truth, goodness,
+time, causation, and so on, to make sure they actually aim their analyses
+and arguments at targets that are relevant to the rest of the world, both lay
+concerns and scientific concerns. Such a systematic inquiry would yield
+something like a catalogue of the unreformed conceptual terrain that sets
+the problems for the theorist, the metaphysics of the manifest image, if you
+like. This is where we philosophers have to start in our attempts to
+negotiate back and forth between the latest innovations in the scientific
+image, and it wouldn’t hurt to have a careful map of this folk terrain
+instead of just eyeballing it. This is the other half, one might say, of the
+reform that turned philosophy of science from an armchair fantasy field
+into a serious partnership with actual science, when philosophers of science
+decided that they really had to know a lot of current science from the
+inside. Once we think about our philosophical tasks with this image in
+mind, we can see that a great deal of the informal trudging around, backing
+and filling, counterexample-mongering and intuition-busting that fills the
+pages of philosophy journals is—at best—an attempt to organize a
+mutually acceptable consensus about this territory.
+
+1 Hayes’s work inspired others. See the anthology edited by Bobrow (1985). Authors of one of
+the essays therein remark, “Naïve physics is in itself an ambiguous term. Is it just bad physics? Is
+it psychology? Artificial intelligence? Physics?” (Bobrow, 1985, p. 13). The answer, I submit, is
+that naïve physics is the attempt to make the physics part of our manifest image rigorous enough
+to support automated deductive reasoning.
+
+=== p. 367 ===
+
+76. HIGHER-ORDER TRUTHS OF CHMESS
+
+Consider this chess puzzle.1 White to checkmate in two.
+
+It appeared recently in the Boston Globe, and what startled me was that I
+had thought it had been proved that you can’t checkmate with a lone knight
+(and a king, of course). I was wrong; as David Misialowski pointed out to
+me in a recent e-mail, it has been proved that you cannot checkmate your
+opponent’s king when only his king and your king and knight are on the
+board. The fact that the proposition you can never checkmate with a lone
+knight and king is not a truth of chess is a higher-order truth of chess.
+   Philosophy is traditionally an a priori discipline, like mathematics, or at
+least it has an a priori methodology at its core, and this fact cuts two ways.
+On the one hand, it excuses philosophers from spending tedious hours in
+the lab or out in the field, and from learning data-gathering techniques,
+statistical methods, geography, history, foreign languages, empirical
+science, and so on, so they have plenty of time for honing their
+philosophical skills. On the other hand, as is often noted, philosophy can be
+created out of just about anything, and this is not always a blessing. For
+those of you younger readers who are thinking of undertaking a career in
+the field, and I hope some of you are, this chapter is a warning that the very
+freedom and abstractness of philosophy can be weaknesses. This chapter is
+also a travel guide for outsiders about some of the folkways and pitfalls of
+philosophy.
+   Consider, as a paradigm of a priori truths, the truths of chess. It is an
+empirical fact that people play chess, and there are mountains of other
+
+=== p. 368 ===
+
+empirical facts about chess, about how people have been playing it for
+centuries, how they often use handsomely carved pieces on inlaid boards,
+and so forth. No knowledge of these empirical facts plays an indispensable
+role in the activity of working out the a priori truths of chess, which also
+exist in abundance. All you need to know are the rules of the game. There
+are exactly twenty legal opening moves (sixteen pawn moves and four
+knight moves); a king and a lone bishop cannot achieve checkmate against
+a lone king, and neither can a king and a lone knight, and so forth. Working
+out these a priori truths about chess is not always easy. Proving just what is
+and is not possible within the rules of chess is an intricate task, and
+mistakes can be made. For instance, a few years ago, a computer chess
+program discovered a mating net—a guaranteed or forced win—consisting
+of more than two hundred moves without a capture. This disproved a longstanding “theorem” of chess and has forced a change in the rules of the
+game. It used to be that fifty moves without a capture by either side
+constituted a draw (stalemate), but since this lengthy mating net is
+unbreakable, and leads to a win, it is unreasonable to maintain the fifty-move stalemate. (Before computers began playing chess, nobody imagined
+that there could be a guaranteed win anywhere near this length.) All this
+can be pretty interesting, and many highly intelligent people have devoted
+their minds to investigating this system of a priori truths of chess.2
+   Some philosophical research projects—or problematics, to speak with
+the more literary types—are rather like working out the truths of chess. A
+set of mutually agreed-upon rules are presupposed—and seldom discussed
+—and the implications of those rules are worked out, articulated, debated,
+refined. So far, so good. Chess is a deep and important human artifact,
+about which much of value has been written. But some philosophical
+research projects are more like working out the truths of chmess. Chmess is
+just like chess except that the king can move two squares in any direction,
+not one. I just invented it—though no doubt others have explored it in
+depth to see if it is worth playing. Probably it isn’t. It probably has other
+names. I didn’t bother investigating these questions because although they
+have true answers, they just aren’t worth my time and energy to discover.
+Or so I think. There are just as many a priori truths of chmess as there are
+of chess (an infinity), and they are just as hard to discover. And that means
+that if people actually did get involved in investigating the truths of
+chmess, they would make mistakes, which would need to be corrected, and
+
+=== p. 369 ===
+
+this opens up a whole new field of a priori investigation, the higher-order
+truths of chmess, such as the following:
+
+1. Jones’s (1989) proof that p is a truth of chmess is flawed: he overlooks
+  the following possibility. . . .
+2. Smith’s (2002) claim that Jones’s (1989) proof is flawed presupposes the
+  truth of Brown’s lemma (1975), which has recently been challenged by
+  Garfinkle (2002). . . .
+Now none of this is child’s play. In fact, one might be able to demonstrate
+considerable brilliance in the group activity of working out the higher-order truths of chmess. Here is where psychologist Donald Hebb’s dictum
+comes in handy:
+         If it isn’t worth doing, it isn’t worth doing well.
+Probably every philosopher can readily think of an ongoing controversy in
+philosophy whose participants would be out of work if Hebb’s dictum were
+ruthlessly applied, but we no doubt disagree on just which cottage
+industries should be shut down. Probably there is no investigation in our
+capacious discipline that is not believed by some school of thought to be a
+wasted effort, brilliance squandered on taking in each other’s laundry.
+Voting would not yield results worth heeding, and dictatorship would be
+even worse, so let a thousand flowers bloom, I say. But just remember: if
+you let a thousand flowers bloom, count on 995 of them to wilt. The alert I
+want to offer you is just this: try to avoid committing your precious
+formative years to a research agenda with a short shelf life. Philosophical
+fads quickly go extinct, and there may be some truth to the rule of thumb:
+the hotter the topic, the sooner it will burn out.
+   One good test to make sure a philosophical project is not just exploring
+the higher-order truths of chmess is to see if people aside from
+philosophers actually play the game. Can anybody outside of academic
+philosophy be made to care about whether Jones’s counterexample works
+against Smith’s principle? Another such test is to try to teach the stuff to
+uninitiated undergraduates. If they don’t “get it,” you really should
+consider the hypothesis that you’re following a self-supporting community
+of experts into an artifactual trap.
+   Here is one way the trap works. Philosophy is to some extent an
+unnatural act, and the more intelligent you are, the more qualms and
+
+=== p. 370 ===
+
+reservations you are likely to have about whether you get it, whether you’re
+“doing it right,” whether you have any talent for this discipline, and even
+whether the discipline is worth entering in the first place. So bright student
+Jones is appropriately insecure about going into philosophy. Intrigued by
+Professor Brown’s discussion, Jones takes a stab at it, writing a paper on
+hot topic H that is given an “A” by Professor Brown. “You’ve got real
+talent, Jones,” says Brown, and Jones has just discovered something that
+might be suitable lifework. Jones begins to invest in learning the rules of
+this particular game and in playing it ferociously with the other young
+aspirants. “Hey, we’re good at this!” they say, egging each other on. Doubts
+about the enabling assumptions of the enterprise tend to be muffled or
+squelched “for the sake of argument.” Publications follow.
+   So don’t count on the validation of your fellow graduate students or your
+favorite professors to settle the issue. They all have a vested interest in
+keeping the enterprise going. It’s what they know how to do; it’s what they
+are good at. This is a problem in other fields too, and it can be even harder
+to break out of. Experimentalists who master a technique and equip an
+expensive lab for pursuing it sometimes get stuck filling in the blanks of
+data matrices that nobody cares about any longer. What are they supposed
+to do? Throw away all that expensive apparatus? It can be a nasty problem.
+It is actually easier and cheaper for philosophers to retool. After all, our
+“training” is not, in general, high-tech. It’s mainly a matter of learning our
+way around in various literatures, learning the moves that have been tried
+and tested. And here the trap to avoid is simply this: You see that somebody
+eminent has asserted something untenable or dubious in print; Professor
+Goofmaker’s clever but flawed piece is a sitting duck, just the right target
+for an eye-catching debut publication. Go for it. You weigh in, along with a
+dozen others, and now you must watch your step, because by the time
+you’ve all cited each other and responded to the responses, you’re a
+budding expert on how to deal with how to deal with responses to
+Goofmaker’s minor overstatement. (And remember, too, that if Goofmaker
+hadn’t made his thesis a little too bold, he never would have attracted all
+the attention in the first place; the temptation to be provocative is not
+restricted to graduate students on the lookout for a splashy entrance into the
+field.)
+   Some people are quite content to find a congenial group of smart people
+with whom to share “the fun of discovery, the pleasures of cooperation, and
+
+=== p. 371 ===
+
+the satisfaction of reaching agreement,” as the philosopher John Austin
+(1961, p. 123) once put it in a published lecture, without worrying about
+whether the joint task is worth doing. And if enough people take up the
+task, it eventually becomes a phenomenon in its own right, worth studying.
+As philosopher Burton Dreben used to say to the graduate students at
+Harvard, “Philosophy is garbage, but the history of garbage is scholarship.”
+Some garbage is more important than other garbage, however, and it’s hard
+to decide which of it is worthy of scholarship. In another lecture published
+in the same book, Austin (1961) gave us the following snide masterpiece:
+            It is not unusual for an audience at a lecture to include some who
+            prefer things to be important, and to them now, in case there are
+            any such present, there is owed a peroration. [p. 179]
+Austin was a brilliant philosopher, but most of the very promising
+philosophers who orbited around him, no doubt chuckling at this remark,
+have vanished without a trace, their oh-so-clever work in ordinary
+language philosophy (a school Austin more or less invented) duly
+published and then utterly and deservedly ignored within a few years after
+publication. It has happened many times.
+   So what should you do? The tests I have mentioned—seeing if folks
+outside philosophy, or bright undergraduates, can be made to care—provide
+only warning signs; they are not definitive. Certainly there have been, and
+will be, forbiddingly abstruse and difficult topics of philosophical
+investigation well worth pursuing, in spite of the fact that the uninitiated
+remain unimpressed. I certainly don’t want to discourage explorations that
+defy the ambient presumptions about what is interesting and important. On
+the contrary, the best bold strokes in the field will almost always be met by
+stony incredulity or ridicule at first, and these should not deter you. My
+point is that you should not settle complacently into a seat on the
+bandwagon just because you have found some brilliant fellow travelers who
+find your work on the issue as unignorable as you find theirs. You may all
+be taking each other for a ride.
+
+1 With regard to another puzzle in this book, for one thing, the slop I love is even followed by
+Laura Dern, and for another, in spite of the smut, I hope to iron Sean Penn’s shirt.
+2 A delicious chess hoax appeared on the Internet on April Fools’ Day, 2012 (“Rajlich: Busting
+the King’s Gambit,” ChessBase News, April 2, 2012, http://chessbase.com/newsdetail.asp?
+newsid=8047). It claimed that a gigantic consortium of computers working around the clock for
+over four months had proved that the King’s Gambit (an opening long discredited but never
+
+=== p. 372 ===
+
+“disproved”) had now been shown definitively to be defeatable in all but one unlikely condition.
+The hoax fooled me—which was particularly embarrassing since I had written about an earlier
+hoax by Martin Gardner (in the introduction to Hurley, Dennett, and Adams, 2011). For the
+explanation of how the hoax was created, see “The ChessBase April Fools Prank,” ChessBase
+News, April 4, 2012, http://chessbase.com/newsdetail.asp?newsid=8051.
+

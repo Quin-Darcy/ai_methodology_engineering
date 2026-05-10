@@ -1,0 +1,491 @@
+=== chunk: williamson-2018-doing-philosophy/ch6-comparing-theories ===
+title: Comparing Theories
+source_pdf: docs/sources/williamson-2018-doing-philosophy/full.pdf
+pdf_pages: 77-92
+page_scheme: book
+plan_page_start: 66
+plan_page_end: 81
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 66 ===
+
+                                
+           Comparing Theories
+
+                   Theories of Everything
+Theories in philosophy, like theories elsewhere, are answers to
+questions. Of course, we rarely dignify the answers to easy questions by calling them theories: “Where’s the breadknife?” “Over
+there”. But, in a murder investigation, detectives may form the
+theory that the missing breadknife is in a nearby wood. Scientists’
+questions are usually more general, and philosophers’ questions
+are amongst the most general of all.
+   Before any distinction was drawn between philosophy and
+natural science, people asked “What is the world made of?” Thales
+(around  ), supposedly the first Greek philosopher,
+answered: “Water”. A closely related question is whether everything is made of matter, in short, “Is everything material?” The
+answer “Yes” to that question is the theory of materialism (not in
+the popular sense of caring only about wealth!). There were
+materialist philosophers in ancient Greece, India, and China.
+Later materialists included Thomas Hobbes (–) and Karl
+Marx (–).
+
+=== p. 67 ===
+
+                                              Comparing Theories 
+
+   Strictly interpreted, materialism is inconsistent with modern
+science, which recognizes electromagnetic fields, spacetime, and
+much else that’s not really matter. In contemporary philosophy,
+materialism has therefore been replaced by physicalism, which says
+that everything is physical. ‘Physical’ here means whatever laws of
+physics govern, including electromagnetic fields and spacetime as
+well as matter. Physicalists say: take the world as described by
+physics; that’s it, there’s nothing else. Of course, they don’t expect
+today’s physics to be the last word. Physics continues to progress;
+current theories will surely turn out to be incomplete and incorrect in various ways, and get replaced by better theories in the
+future. Physicalists allow for such developments, for by “laws of
+physics” they don’t mean “what today’s physicists take to be laws
+of physics”. Amongst recent philosophers, a leading physicalist
+was Willard Van Orman Quine (–).
+   You might wonder why physicalism belongs to philosophy
+rather than to physics itself. The reason is the total generality
+of ‘everything’ in stating the theory. For instance, if there are
+numbers, then ‘everything’ includes them, so physicalism implies
+that numbers are physical. If there are minds, then ‘everything’
+includes them too, so physicalism implies that minds are physical.
+But “Are numbers physical?” and “Are minds physical?” are not
+questions in physics. By themselves, the mathematical and experimental methods of physics don’t answer them. Those methods
+don’t tell us whether there are questions and answers beyond their
+reach. The people who grapple with such issues are philosophers.
+   Whether physicalism is true or false, it is one answer to questions central to our understanding of the world we live in, including ourselves. Is there more to reality than physics, or natural
+
+=== p. 68 ===
+
+ Comparing Theories
+
+science more generally, can discover? Although physicists can
+do physics without worrying about that question, humanity as
+a whole would be sadly incurious and unreflective if we never
+thought about it. Nor is just vaguely wondering enough;
+shouldn’t we at least try to answer it? Of course, anyone can say
+“Yes” or “No” to physicalism; what we need are good reasons to
+give one answer rather than the other. Once we seek them, we are
+doing philosophy. A life that never engages with philosophical
+theories is not fully reflective or inquiring.
+
+        Testing Theories by Thought Experiment
+Thought experiments can be used to test philosophical theories.
+For instance, Chalmers’ thought experiment about zombies is a
+challenge to physicalism. Take your conscious experience of
+waking up one morning, how it felt to you. Physicalism implies
+that any such experience is physical. Some physicalists would
+make sense of that by identifying your experiences with physical
+events in your brain, neurons firing in a complex pattern. But
+exactly similar physical events would occur in your zombie twin’s
+brain; neurons would fire in the very same pattern. You had the
+conscious experience of waking up that morning; by definition,
+your zombie twin did not. How it felt to you wasn’t how it would
+feel to the zombie, for nothing feels any way to a zombie. Thus,
+Chalmers argues, your conscious experience was distinct from the
+physical events in your brain. By a generalization of the argument,
+your conscious experience was distinct from anything physical
+whatsoever. It’s a counterexample to the physicalist theory, something non-physical. So Chalmers rejects physicalism as false.
+
+=== p. 69 ===
+
+                                           Comparing Theories 
+
+   How can physicalists respond to the zombie argument? They
+usually argue that the apparent possibility of zombies is an
+illusion. Your conscious experience of waking up is just the
+physical event in your brain; one without the other is impossible.
+Thus your zombie twin is impossible. But in that case, when we
+try to imagine it, why does it seem possible?
+   A physicalist may explain why zombies seem possible like
+this. There are two ways to imagine something happening to
+someone: we can imagine it either from the inside, from that
+person’s point of view, or from the outside, from an external
+observer’s point of view. For instance, when I imagine someone
+waking up from the inside, I may imagine a vague confused
+feeling, a sensation of lying flat, and the grudging thought “I’m
+waking up”. By contrast, when I imagine someone waking up
+from the outside, I may imagine the sight of a body stirring in a
+bed on the other side of the room, and the relieved thought “She’s
+waking up”. Obviously, we can imagine in either of the two ways
+without imagining in the other. So we can imagine from the
+outside someone waking up without imagining it from the inside.
+We can even add to the scene a brain scanner recording events in
+her brain. Finally, we can add the description in words: “She feels
+nothing; she has no conscious experience; she’s a zombie”. But,
+the physicalist argues, that does not enable you to know that
+zombies are genuinely possible: even if conscious experiences
+were just brain events, you could still imagine from the outside
+without imagining from the inside. Thus the physicalist explains
+away the apparent possibility of zombies as a predictable illusion
+created by the mismatch between two ways of imagining
+an event.
+
+=== p. 70 ===
+
+ Comparing Theories
+
+    That does not silence anti-physicalists. Some of them argue that
+if zombies were really impossible, there would be a logical contradiction in the idea of a zombie, but we cannot find one.
+    Physicalists may retort that not all impossibilities are logical
+contradictions; some are in the nature of things themselves. For
+instance, you cannot possibly be the number , even though there
+is no purely logical contradiction in the idea that you are the
+number . The debate continues.
+    One moral of the zombie case is that we should not expect to
+do philosophy by thought experiments alone. For disputes can
+arise over what a thought experiment shows. They raise further
+questions, for example about the nature of possibility itself, which
+require a more theoretical discussion.
+    Fortunately, the zombie case is not typical of thought experiments in philosophy. There is widespread agreement about the
+results of many other thought experiments. They lack the problematic feature of the zombie case; its exploitation of a mismatch
+between two ways of imagining. Still, to avoid an attitude of
+uncritical acceptance, we must be on the lookout for such problematic features of thought experiments. That requires us to have
+a wider theoretical perspective on what we are doing when we
+assess them and their potential pitfalls.
+    All this may sound very different from testing theories by experiment in natural science. On the stereotype of that process, a scientific
+theory entails a prediction about what we shall observe in a certain
+experiment. We do the experiment and observe. If the observed
+result is what the theory predicted, the theory is confirmed. If what
+we observe is not what the theory predicted, the theory is refuted. It
+
+=== p. 71 ===
+
+                                             Comparing Theories 
+
+all sounds cut and dried, with none of the argumentative to-and-fro
+around philosophical thought experiments.
+   The stereotype grossly oversimplifies the process of testing
+scientific theories by experiment. There are at least two reasons
+for that.
+   First, by themselves many scientific theories don’t entail observable predictions at all. The theories are formulated as mathematical equations too abstract to connect directly with observation.
+To get observable predictions from such a theory, scientists
+must combine it with ‘bridge’ principles linking its abstract
+terms to more concrete, observable ones. They also need auxiliary
+assumptions about how the experimental apparatus works, otherwise it might not measure what they intend. Often, to work out
+predictions, the scientists must also make various simplifying
+assumptions, which hold approximately at best—otherwise the
+calculations are too complicated, even for a computer. Thus, if
+the prediction turns out to be incorrect, the theory may not be
+to blame. The fault may be in one of the other principles and
+assumptions on which the scientists relied in working out the
+prediction, or they may simply have miscalculated.
+   Second, all sorts of thing can go wrong in doing the experiment
+itself. Scientists and laboratory technicians are human; sometimes
+they make mistakes. Equipment malfunctions; samples get contaminated. Consequently, scientists are more confident once the
+experiment has been done independently in several different
+laboratories, perhaps in slightly different ways, with the same
+result. The prediction may be correct about the experiment
+done right but incorrect about the experiment done wrong.
+
+=== p. 72 ===
+
+ Comparing Theories
+
+   In short, testing a scientific theory by experiment is usually a
+messy, complicated business. The result is often much less cutand-dried than the stereotype suggests.
+   Despite all this, experiments are still vital sources of scientific
+knowledge. The point is just how hard and complicated it is to
+get that knowledge; how much room there is for argumentative
+to-and-fro. Despite all the obvious differences between real-life
+experiments in natural science and thought experiments in philosophy, something they have in common is that they leave room
+for disagreement: it often takes more than one failed prediction to
+refute a theory, to eliminate the possibility that something other
+than the theory itself is to blame for what went wrong.
+
+                          Rival Theories
+Rather than testing a single theory in isolation, scientists often
+compare rival theories, different answers to the same question, against
+each other. Which of them best explains the evidence? The same
+happens in philosophy. For instance, rather than testing physicalism
+in isolation, philosophers compare it with rival theories.
+   Someone might say that whenever a theory is tested, it’s tested
+against the rival theory that simply denies the first theory. For
+instance, Einstein’s special theory of relativity (STR) would be
+tested against the negative theory anti-STR, which simply says
+“STR is wrong”. Similarly, physicalism would be tested against the
+negative theory anti-physicalism, which simply says “Not everything is physical”. But such negative theories come too cheap. In
+just denying a general theory, they tell us nothing about where it
+goes wrong. By itself, anti-STR offers no alternative explanation of
+
+=== p. 73 ===
+
+                                              Comparing Theories 
+
+the experimental and observational data that STR explains.
+Similarly, mere anti-physicalism says nothing positive about what
+the non-physical things are. Roughly speaking, a serious rival
+theory should give different answers to the same questions. In
+some tricky cases, the rival may reject some of the very questions
+the first theory answers, but then it should explain why those
+questions deserve rejection. Rival theories should be informative.
+   An informative rival to physicalism is dualism, which postulates
+two main kinds of thing: mental and physical. Thought is mental
+and non-physical; matter is physical and non-mental. As a child,
+I used the word “mental” to mean mad, but here it means mind-like,
+just as “material” means matter-like. Descartes put dualism centre
+stage in philosophy, and it still has advocates.
+   It is hard for physicalists to disagree with the dualist claim that
+something is mental. After all, if they try to dismiss the mental as
+an illusion, they lose, because illusions themselves are mental.
+Instead, most contemporary physicalists accept that thoughts and
+feelings are mental, but insist that they are also physical (if you
+want a more precise map of the alternatives, see Box ).
+   For its fans, the zombie thought experiment makes more sense
+in dualist than physicalist terms: conscious experience is something mental, not physical, which you have and your zombie twin
+lacks. Even if the thought experiment does not conclusively refute
+physicalism, dualists may see it as evidence for dualism against
+physicalism. But, for its critics, the thought experiment gives no
+reason to view zombies as possible, so no evidence for dualism.
+   A weirder theory than either physicalism or dualism is pan-psychism, which says that everything is mental. Two great philosophers soon after Descartes, Baruch Spinoza (–) and
+
+=== p. 74 ===
+
+ Comparing Theories
+
+  B  Rival theories of mind and body
+ ......................................................................................
+ Physicalism is this claim: Everything is physical.
+ Dualism is the conjunction of these four claims:
+
+      [] Everything is either mental or physical.
+      [] Nothing is both mental and physical.
+      [] Something is mental.
+      [] Something is physical.
+
+    Panpsychism is this claim: Everything is mental.
+    Dualism is inconsistent with physicalism, because [] and []
+  together imply that not everything is physical. Thus physicalists
+  must decide whether to deny [] or []. They cannot deny both
+  because denying [] involves accepting [].
+    Identity-theory physicalists reject [] and accept []. They agree with
+  dualists that something is mental, but claim that it is also physical.
+  They identify everything mental with something physical.
+    Eliminative physicalists accept [] and reject []. They agree with
+  dualists that being mental excludes being physical, but claim that
+  nothing is mental. They eliminate the mental.
+    Dualism is inconsistent with panpsychism, because [] and []
+  together imply that not everything is mental. Thus panpsychists
+  must decide whether to deny [] or []. They cannot deny both
+  because denying [] involves accepting [].
+    Identity-theory panpsychists reject [] and accept []. They agree with
+  dualists that something is physical, but claim that it is also mental.
+  They identify everything physical with something mental.
+    Eliminative panpsychists accept [] and reject []. They agree with
+  dualists that being physical excludes being mental, but claim that
+  nothing is physical. They eliminate the physical.
+    Identity-theory physicalism is consistent with identity-theory
+  panpsychism. The combined view is that everything is both physical and mental.
+
+=== p. 75 ===
+
+                                              Comparing Theories 
+
+Leibniz, held versions of panpsychism. On such a view, even
+atoms have a primitive form of consciousness. Most philosophers
+today find panpsychism implausible. Attributing consciousness
+to an atom seems utterly gratuitous.
+   Unlike dualism, both physicalism and panpsychism have a
+unifying category, whether physical or mental. By contrast, dualism splits reality into two separate parts: the physical and the
+mental. From Descartes on, dualists have struggled to explain
+how the two parts are connected. In particular, how can mental
+events cause physical effects, or physical events cause mental
+effects? For instance, the mental event of a thief at a party deciding
+to switch off the lights causes her to switch off the lights, and so
+causes the physical event of the lights going off. That physical
+event in turn causes the mental event of a guest wondering why
+the lights went off. For dualists, the mental and the physical are so
+radically different from each other that everyday interactions
+between them look inexplicable. Here physicalism and even pan-psychism have an advantage, since they place both cause and
+effect in a single unified world.
+   Physicalism, dualism, and panpsychism are not the only
+options. For instance, if numbers and other mathematical objects
+are neither mental nor physical, all three theories must be revised.
+   Philosophers have also developed increasingly sophisticated
+understandings of ‘mental’ and ‘physical’. I wrote vaguely of
+mental and physical ‘things’, but it turns out to matter what
+kind of thing is in question. It might be a particular event that
+happened once to someone, like my feeling hot yesterday morning. Alternatively, it might be a general property, which many
+people have at many times, like the property of feeling hot. Some
+
+=== p. 76 ===
+
+ Comparing Theories
+
+philosophers are physicalists about particular events but dualists
+about general properties. For now, we needn’t worry about such
+subtleties and complications. Our aim here isn’t to solve the
+mind–body problem but to see what theoretical disputes in philosophy are like.
+   Contrary to what Wittgenstein and others thought, few theoretical disputes in philosophy depend essentially on confusion. No
+doubt various individual physicalists, dualists, and panpsychists
+are confused in various ways. The terms of their disputes may also
+need clarification. But even the negative work of clearing up such
+confusions involves positive theorizing (see Chapter ). Moreover, we need a positive theory to explain better how knowing,
+thinking, feeling, deciding, and doing fit into the world as
+described by natural science. Rival theories for that purpose are
+on offer. We need a rational basis for choosing between them, or
+even for rejecting them all. The history of philosophy, including
+its recent history, indicates that once mere confusions have been
+cleared up, we are still left with rival theories to choose between.
+There are both unconfused physicalists and unconfused dualists
+in philosophy today. As in natural science, holding a false theory
+does not make you confused; it just makes you wrong.
+   Once the dispute between physicalism, dualism, and panpsychism
+has been cleared of confusion, why can’t we leave natural scientists to settle it? In principle, they can find out exactly what
+happens in our brains when we think, or feel, or see, or decide.
+Of course, it is one thing to observe a correlation between mental
+and physical events, and another to postulate an identity between
+the correlated events. But wouldn’t it still be good scientific
+practice to postulate that the mental events just are the physical
+
+=== p. 77 ===
+
+                                               Comparing Theories 
+
+events, if that is the best, most economical way to explain their
+correlation? Who needs philosophers for that?
+   If you find the zombie thought experiment convincing, you’ll
+feel that scientists are missing something crucial if they fail to take
+account of it. Philosophers are the people most trained to apply
+such thought experiments. But even if zombies are impossible,
+there are less extreme reasons for not leaving all the work to
+natural scientists. For we are not asking just about some particular
+mental events. We are asking about very general types of mental
+event.
+   One type of mental event is thinking that  +  = . There is no
+law that only humans can think that  +  = . Even if humans are
+the only creatures on earth to have thought it so far, one day
+members of future species or sophisticated robots may think it.
+Inhabitants of other planets may have thought it long ago.
+Even if humans are the only things in the universe ever to think
+that  +  =  (which is unlikely), it could have been otherwise.
+But when robots or radically different lifeforms think that  +  = ,
+what goes on inside them won’t look much like what goes on
+inside us. Their equivalents of brains may differ radically from
+human brains. Even if scientists can identify in physical terms a
+general type of event that goes on in human brains when, and only
+when, their owners think that  +  = , already a big ‘if ’, that type
+of event is very unlikely to be what goes on in equally physical but
+non-human thinkers when they think that  +  = . Thus we
+cannot expect such observational and experimental methods
+to give an adequately general answer to the question “What is it
+to think that  +  = ?” They will not tell us whether the mental
+type of event, thinking that  +  = , is the same as some physical
+
+=== p. 78 ===
+
+ Comparing Theories
+
+type of event. Questions at that level of generality remain philosophical questions.
+   This does not mean that observational and experimental
+methods are simply irrelevant to philosophical questions. After
+all, if a theory is false of human thinking, it is not universally
+true of all thinking. Moreover, we know far more about human
+thinking than about any non-human thinking: for us humans, the
+human case is the natural starting point, though we hope to end
+up with a much more general theory. To get there, we will need
+more theoretical methods.
+
+              Inference to the Best Explanation
+The methods philosophy needs for choosing between rival theories need not be so different from the more theoretical methods
+of natural science. We want the theory that best explains whatever
+evidence we can get. The method of choosing between theories
+on that basis is called inference to the best explanation. It is widely used
+in both natural science and philosophy.
+   Some people find the word ‘explanation’ too narrow, because
+they associate it with explaining why some event happened, by
+identifying its cause: not all theoretical explanations in science do
+that. For example, Isaac Newton (–) explained previous
+laws of terrestrial motion (about objects on earth) and celestial
+motion (about the planets) by deriving both from more basic
+laws of motion in general. Basic laws don’t cause less basic
+ones, because laws aren’t events—laws don’t happen. Newton
+explained the less basic laws by unifying them under very simple
+but informative generalizations. Although most philosophical
+
+=== p. 79 ===
+
+                                            Comparing Theories 
+
+. What best explains these?
+
+theories lack the mathematical power and clarity of Newton’s
+laws, they too can be compared with each other by similar
+criteria, such as simplicity, informativeness, generality, unifying
+power, and fit with evidence. That general way of choosing
+between theories is called abduction.
+    Natural science needs abduction because, in principle, many
+competing theories are logically consistent with all the observational and experimental data available at a given time. Whenever a
+sensible theory is consistent with such data, so are infinitely many
+silly theories—for instance, one which says that gravity will
+behave in accordance with the sensible theory until your next
+
+=== p. 80 ===
+
+ Comparing Theories
+
+birthday, but go haywire after that. All the events we have
+observed up to now happened before your next birthday, so
+those observations are just as consistent with the haywire theory
+as with the sensible one, because their predictions diverge only for
+later events. In that sense, current data cannot distinguish between
+the two theories. But if scientists had to take all such crazy,
+pointlessly complicated theories seriously, natural science would
+grind to a halt. Another example is the theory that the universe
+was created six minutes ago, complete with apparent memories
+and fake traces of earlier events, such as dinosaur fossils. In a
+sense, that theory explains all our data, but it is such a random,
+arbitrary, unnecessarily complicated hypothesis that it counts as a
+very bad explanation; it does not deserve to be taken seriously.
+Similarly, philosophers don’t waste time on the random, arbitrary,
+unnecessarily complicated theory that dualism applies on Sundays,
+but physicalism on other days of the week.
+   Even when scientists do take two rival theories seriously, they
+may prefer one on grounds of simplicity. It helps counteract a
+danger scientists know as overfitting. It might seem obvious that we
+should always prefer a theory that fits the data more closely over
+one that fits them less closely. But the data usually contain some
+random errors. In practice, a scientist who always picks equations
+to fit the data perfectly has to choose very complicated equations
+to fit what are in fact inaccurate data. As soon as new data become
+available, they are forced to switch to new, even more complicated
+equations to fit them too, and so on, reaching no stable conclusion. That’s overfitting. A more robust strategy, scientists find, is to
+prefer simple equations that fit the data more roughly, since doing
+so makes one less vulnerable to inaccuracies in the data.
+
+=== p. 81 ===
+
+                                             Comparing Theories   
+
+  Here is a toy example. Imagine a scientist measuring some
+quantity at one-minute intervals. She comes up with the following sequence of values:
+
+  , , , , , , , , , 
+
+It goes up by  each time, except around . She could take all the
+numbers at face value, and come up with some complicated
+hypothesis to fit them. Alternatively, she might guess that she
+made a mistake in measuring—it should have been , not —
+and go with the much simpler hypothesis that really the quantity
+went up by  each time. The former strategy is overfitting; experience shows that it tends to give bad results. The latter strategy is
+more productive. It is not cheating. Rather, it is taking into
+account the fallibility of the measurement process.
+    Overfitting occurs in philosophy too. Philosophers who rely
+too exclusively on judgements about thought experiments come
+up with complicated, messy theories to fit all those judgements.
+They have to keep changing their theories to fit judgements about
+new thought experiments. Their theories become more and
+more complicated and messy; they reach no stable conclusion.
+They make themselves too vulnerable to inaccuracies in their
+judgements about thought experiments. Even if they are pretty
+reliable in those judgements, they cannot expect to be infallible.
+Their strategy makes insufficient allowance for occasional errors.
+If they put more weight on the simplicity of a theory, they would
+learn to be more critical of their verdicts about thought experiments. Although philosophy needs such verdicts, it also needs a
+strategy to handle the danger of errors in them. Putting weight on
+simplicity in comparing theories provides such a strategy.
+

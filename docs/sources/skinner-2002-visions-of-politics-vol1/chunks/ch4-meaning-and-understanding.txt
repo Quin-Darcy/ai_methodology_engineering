@@ -1,0 +1,1330 @@
+=== chunk: skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding ===
+title: Meaning and understanding in the history of ideas
+source_pdf: docs/sources/skinner-2002-visions-of-politics-vol1/full.pdf
+pdf_pages: 75-107
+page_scheme: pdf
+plan_page_start: 75
+plan_page_end: 107
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 75 ===
+
+      Meaning and understanding in the history of ideas
+
+                                                  I
+
+The, task of the historian of ideas’ is to study and interpret a canon of
+classic texts! The value of writing this kind of history stems from the fact
+that the classic texts in moral, political, religious and other such modes of
+thought contain a ‘dateless wisdom” in the form of‘universal ideas’.3 As
+aresult, we can hope to learn and benefit directly from investigating these
+‘timeless elements’, since they possess a perennial relevance.* This in turn
+suggests that the best way to approach these texts must be to concentrate
+on what each of them says? about each of the ‘fundamental concepts”®
+and ‘abiding questions’ of morality, politics, religion, social life.’ We must
+be ready, in other words, to read each of the classic texts ‘as though it were
+written by a contemporary’.® It is indeed essential to approach them in
+this way, focusing simply on their arguments and examining what they
+have to tell us about the perennial issues. Ifinstead we become sidetracked
+into examining the social conditions or the intellectual contexts out of
+which they arose, we shall lose sight of their dateless wisdom and thereby
+lose contact with the value and purpose of studying them.9
+   These are the assumptions I wish to question, criticise and if possible discredit in what follows. ‘The belief that the classic theorists can be
+  This chapter is a much abbreviated and extensively revised version of an article that originally
+  appeared under the same title in History and Theory 8 (1969), pp. 3-53' For the confusing variety of ways in which this seemingly inescapable phrase has been used see
+   Mandelbaum 1965.
+? Catlin 1950, p. x.       3 Bluhm 1965, p. 13.     4 Merkl 1967, p. 3.
+5 Jaspers 1962; Nelson 1962, pp. 32-3. Cf. Murphy 1951, p. v on the need to concentrate on ‘what
+   Plato said’; Ryan 1965, p. 219 on the need to concentrate on ‘what Locke said’.
+® McCoy 1963, p. 7.
+7 On the ‘abiding’ and ‘perennial’ questions see Morgenthau 1958, p. 1; Sibley 1958, p. 133; Strauss
+  and Cropsey 1963, Preface. On the perennial questions as the (sole) guarantee of the ‘relevance’
+  of the classic texts see Hacker 1954, McCloskey 1957. For a more recent exposition of a similar
+  position see Bevir 1994.
+8 Bloom 1980, p. 128.         9 Hacker 1954; Bluhm 1965, esp. p. 13.
+
+                                                DE
+
+=== p. 76 ===
+
+expected to comment on a determinate set of ‘fundamental concepts’
+has given rise, 1t seems to me, to a series of confusions and exegetical
+absurdities that have bedevilled the history of ideas for too long. ‘The
+sense in which this belief is misleading, however, is not altogether easy to
+isolate. It is easy to castigate it as ‘a fatal mistake’,'® but at the same time
+it is hard to deny that the histories of different intellectual pursuits have
+always been marked by the employment of relatively stable and characteristic vocabularies.!' Even if we accept the loose-textured contention
+that it is only in virtue of certain family resemblances that we are able to
+define and distinguish such different activities, we are still committed to
+accepting some criteria and rules of usage such that certain performances
+can be correctly instanced, and others excluded, as examples of a given
+activity. Otherwise we shall eventually have no means ~ to say nothing of
+justification — for delineating and speaking of, say, the histories of ethical
+or political thinking as being histories of recognisable activities at all.
+It is in fact the truth, and not the absurdity, of the claim that all such
+activities must have some characteristic concepts which seems to be the
+main source of confusion. For if there must be at least some family resemblances connecting all the instances of any such activity, which we
+need first of all to apprehend in order to recognise the activity itself, it
+becomes impossible to consider any such activity, or any instance of it,
+without having some preconceptions about what we expect to find.
+    The relevance of this dilemma for the history of ideas — and especially
+ for the claim that historians should concentrate on what the classic texts
+ say about the canonical themes — will by now be clear. It will never be
+possible simply to study what any writer has sazd (especially in an alien culture) without bringing to bear our own expectations and pre-judgements
+ about what they must be saying. This is the dilemma familiar to psychologists as the determining factor of the observer’s mental set. By our past
+ experience ‘we are set to perceive details in a certain way’, and when
+ this frame of reference has been established, ‘the process is one of being
+prepared to perceive or react in a certain way’.”* The resulting dilemma
+ may be stated, for my present purposes, in the form of the proposition
+ that the models and preconceptions in terms of which we unavoidably
+ organise and adjust our perceptions and thoughts will themselves tend
+ to act as determinants of what we think and perceive. We must classify in
+ order to understand, and we can only classify the unfamiliar in terms of
+
+           © MacIntyre 1966, p. 2.
+           ™ See Wolin 1961, pp. 11-17 on ‘the vocabulary of political philosophy’.
+           * Allport 1955, esp. pp. 239-40.
+
+=== p. 77 ===
+
+the familiar.'3 ‘The perpetual danger, in our attempts to enlarge our historical understanding, is thus that our expectations about what someone
+must be saying or doing will themselves determine that we understand
+the agent to be doing something which they would not — or even could
+not — have accepted as an account of what they were doing.
+    This notion of the priority of paradigms has already been fruitfully
+explored in the history of art,'t where it has caused an essentially historicist story about the development of illusionism to yield place to a story
+content to trace changing intentions and conventions. More recently, an
+analogous exploration has been no less fruitfully conducted in the history
+of science. Here I shall attempt to apply a similar set of considerations
+to the history of ideas. My procedure will be to try to uncover the extent
+to Which the current historical study of ethical, political, religious, and
+other such modes of thought is contaminated by the unconscious application of paradigms the familiarity of which, to the historian, disguises an
+essential inapplicability to the past. I do not, of course, seek to deny that
+the methodology I criticise has sometimes yielded distinguished results.
+I do wish, however, to insist on the various ways in which the study of
+what each classic writer says unavoidably runs the danger of lapsing into
+various kinds of historical absurdity, and at the same time to anatomise
+the various ways in which the results may be classified not as histories
+but more appropriately as mythologies.
+
+                                                 II
+
+The most persistent mythology has been created by historians working
+with the expectation that each classic writer (in the history, say, of moral
+or political theory) will be found to enunciate some doctrine on each of
+the topics regarded as constitutive of the subject. It is a dangerously short
+step from being under the influence (however unconsciously) of such a
+paradigm to ‘finding’ a given author’s doctrines on all the mandatory
+themes. The result is a type of discussion that might be labelled the
+mythology of doctrines.
+'3 That this must result in a history conceived in terms of our own philosophical criteria and
+   interests (whose else?) is fully brought out in Dunn 1980, pp. 13-28.
+™ See Gombrich 1962, esp. pp. 55-78, whose account of ‘paradigms’ I adopt. Gombrich has also
+   coined the relevant epigram: ‘only where there is a way is there also a will’ (p. 75).
+'5 See Kuhn 1962, esp. pp. 43-51, where he takes over the notion of ‘the priority of paradigms’.
+   Cf. the comparable insistence in Collingwood 1940, esp. pp. 11-48, that the thought of any period
+   is organised according to ‘constellations of absolute pre-suppositions’. For a valuable analysis
+   of Kuhn’s theory of science and its implications for intellectual historians see Hollinger 1985,
+   pp- 105-209.
+
+=== p. 78 ===
+
+   The mythology takes several forms. First there is the danger of converting some scattered or incidental remarks by a classic theorist into
+their ‘doctrine’ on one of the expected themes. This in turn has the
+effect of generating two particular kinds of historical absurdity. One is
+more characteristic of intellectual biographies and synoptic histories of
+thought, in which the focus is on the individual thinkers (or the procession of them). The other is more characteristic of ‘histories of ideas’ in
+which the focus is on the development of some ‘unit idea’ itself.
+   The special danger with intellectual biography is that of anachronism.
+A given writer may be ‘discovered’ to have held a view, on the strength of
+some chance similarity of terminology, about an argument to which they
+cannot in principle have meant to contribute. Marsilius of Padua, for example, at one point in his Defensor Pacis offers some typically Aristotelian
+remarks about the executive role of rulers by contrast with the legislative role of the people.’° A modern commentator who comes upon this
+passage will be familiar with the doctrine, important in constitutional
+theory and practice since the American Revolution, that one condition
+of political freedom is the separation of executive from legislative power.
+The origins of this doctrine can be traced to the historiographical suggestion (first canvassed some two centuries after Marsilius’s death) that
+the collapse of the Roman Republic into an Empire illustrates the danger
+to the liberty of subjects inherent in entrusting any single authority with
+centralised political power.'? Marsilius knew nothing of the historiography, nor of the lessons that were to be drawn from it. (His own discussion
+derives from Book IV of Aristotle’s Politics, and is not concerned with
+the issue of political freedom at all.) None of this, however, has been
+sufficient to prevent a brisk debate on the question of whether Marsilius
+should be said to have had a ‘doctrine’ of the separation of powers, and if
+so whether he should be ‘acclaimed the founder of the doctrine’."® Even
+those who deny that Marsilius should be credited with the doctrine tend
+to base their conclusions on his text,'? and not on pointing to the impropriety of supposing that he could have meant to contribute to a debate
+the terms of which were unavailable to him.
+   The same kind of anachronism marks the discussion centring on the
+dictum offered by Sir Edward Coke on Bonham’s case to the effect that the
+common law of England may sometimes override statute. The modern
+
+‘© Marsilius of Padua 1951-6, vol. 2, pp. 61-7.      7 See Pocock 1965, Bailyn 1967.
+'8 Marsilius of Padua 1951-6, vol. 1, Pp: 232.
+‘9 For a bibliography, see Marsilius of Padua 1951-6, vol. 1, p. 234n. For a purely textual dismissal
+   of the claim see D’Entréves 1939, p. 58.
+
+=== p. 79 ===
+
+(especially American) commentator brings to this remark the much later
+resonances of the doctrine of judicial review. Coke himself knew nothing of such a doctrine. (The context of his own suggestion is that of a
+party politician assuring James I that the defining characteristic of law
+is custom, and not, as James appeared to be claiming, the will of the
+sovereign.)*° None of these historical considerations, however, has been
+enough to prevent the reiteration of the meaningless question of ‘whether
+Coke actually intended to advocate judicial review’,?’ or the insistence
+that Coke must have meant to articulate this ‘new doctrine’ and so to
+make this ‘remarkable contribution to political science’.?? Again, those
+experts who have denied that Coke should be credited with such clairvoyance have largely based their conclusion on the reinterpretation of
+Coke’s text, rather than noting the prior logical oddity of the implied
+account of Coke’s intentions.”3
+   Besides the crude possibility of crediting a writer with a meaning they
+could not have intended to convey, there is the more insidious danger of
+too readily finding expected doctrines in classic texts. Consider, for example, the Aristotelian remarks that Richard Hooker offers in Book I of
+his Of The Laws ofEcclesiastical Polity about natural sociability.’ We might
+well feel that Hooker’s intention was merely — as with many scholastic
+lawyers of the time — to open up a means of discriminating the godly
+origins of the Church from the more mundane origins of civil associations. ‘The modern commentator, however, who sees Hooker at the top
+of a ‘line of descent’ running ‘from Hooker to Locke and from Locke to
+the Philosophes has little difficulty in converting Hooker’s remarks into
+nothing less than his ‘theory of the social contract’.*> Consider, similarly,
+the remarks on trusteeship that John Locke offers at one or two points in
+his Two Treatises of Government.?° We might well feel that Locke is merely
+appealing to one of the more familiar legal analogies in the political
+writing of the period. Again, however, the modern commentator who
+sees Locke standing at the head ofa tradition of ‘government by consent’
+has little difficulty in piecing together the ‘passages scattered through’ the
+work on this topic, and emerging with Locke’s ‘doctrine’ of ‘the political
+trust’.?7 Consider likewise the remarks that James Harrington makes in
+
+2° Pocock 1987, esp. pp. 30-55-       *! Gwyn 1965, p. 50n.
+22 Plucknett 1926~7, p. 68. For the claim that it was Coke’s ‘own intention’ to articulate the doctrine
+   ‘which American courts today exercise’, see also Corwin 1928-9, p. 368 and cf. Corwin 1948,
+    . 42.
+23 Tee a purely textual dismissal see Thorne 1938.       °*4 Hooker 1989, I. 10. 4, pp. 89-91.
+25 Morris 1953, pp. 181-97.       2© Locke 1988, II. 149, p. 367; I. 155, pp. 370-1.
+27 See Gough 1950, pp. 47-72 (government by consent) and pp. 136-71 (political trusteeship).
+
+=== p. 80 ===
+
+The Commonwealth of Oceana about the place of lawyers in political life. ‘The
+historian who is investigating the alleged views of the English republicans of the 1650s about the separation of powers may be momentarily
+disconcerted to find that Harrington (‘curiously’) is not talking about
+public officers at this point. But an historian who ‘knows’ to expect the
+doctrine among this group will have little difficulty in insisting that ‘this
+does seem to be a vague statement of the doctrine’.?® In all such cases,
+where a given writer may appear to be intimating some such ‘doctrine’,
+we are left confronting the same begged question. If the writer meant to
+articulate the doctrine with which they are being credited, why is it that
+they so signally failed to do so, so that the historian is left reconstructing
+their alleged intentions from guesses and hints?
+   The mythology of doctrines can similarly be illustrated from “histories
+of ideas’ in the strict sense. Here the aim (in the words of Arthur Lovejoy,
+pioneer of this approach) is to trace the morphology of some given doctrine ‘through all the provinces of history in which it appears’.*9 ‘The
+characteristic point of departure is to set out an ideal type of the given
+doctrine — whether it is that of equality, progress, reason of state, the social contract, the great chain of being, the separation of powers, and so
+on. The danger with this approach is that the doctrine to be investigated
+so readily becomes hypostasised into an entity. As the historian duly sets
+out in quest of the idea thus characterised, it becomes all too easy to
+speak as if the developed form of the doctrine has always in some sense
+been immanent in history, even if various thinkers failed to ‘hit upon’
+it,3° even if it ‘dropped from sight’ at various times,3' even if an entire
+era failed to ‘rise to a consciousness’ of it.3* The outcome is that the story
+readily takes on the kind of language appropriate’ to the description of a
+growing organism. The fact that ideas presuppose agents readily disappears as the ideas get up to do battle on their own behalf. We are told,
+for example, that the ‘birth’ of the idea of progress was quite an easy
+one, for it ‘transcended’ the ‘obstacles to its appearance’ by the sixteenth
+century,°3 and so ‘gained ground’ through the next hundred years.*+ But
+the idea of the separation of powers came into the world with greater difficulty. Although it nearly managed to ‘emerge’ during the English civil
+war, it ‘never quite managed fully to materialise’, so that it took another
+century ‘from the English civil war until the mid-eighteenth century for
+a three-fold division to emerge fully and take over’.35
+          a Gwyn 1965, p. 52.      *9 Lovejoy 1960, p. 15.     3° Bury 1932, p. 7.
+          3" Weston 1965, p. 45.  , 3? Raab 1964, p. 2.      33 Bury 1932, p. 7.
+          34 Sampson 1956, p. 39.     35 Vile 1967, p. 30.
+
+=== p. 81 ===
+
+    These reifications give rise to two kinds of historical absurdity, both
+of which are not merely prevalent in this type of history, but seem more
+or less inescapable when this approach is followed.3° The tendency to
+search for approximations to the ideal type yields a form of history almost entirely given over to pointing out earlier ‘anticipations’ of later
+doctrines, and hence to congratulating individual writers for the extent
+of their clairvoyance. Marsilius of Padua is notable for his ‘remarkable
+anticipation’ of Machiavelli.3? Machiavelli is notable because he ‘lays
+the foundation for Marx’.3° John Locke’s theory of signs is notable ‘as
+an anticipation of Berkeley’s metaphysics’.39 Joseph Glanvill’s theory of
+causation 1s notable for ‘the extent to which he has anticipated Hume’ .4°
+Lord Shaftesbury’s treatment of the theodicy problem is notable because
+it ‘fn a certain sense anticipated Kant’.4' Sometimes even the pretence
+that this is history is laid aside, and the writers of the past are simply
+praised or blamed according to how far they seem to have aspired to the
+condition of being ourselves. Montesquieu ‘anticipates the ideas of full
+employment and the welfare state’: this shows his ‘luminous, incisive’
+mind.#* Machiavelli thought about politics essentially as we do: this
+is his ‘lasting significance’. But his contemporaries did not: this makes
+their political views ‘completely unreal’.43 Shakespeare (‘an eminently
+political author’) was sceptical about ‘the possibility of an interracial,
+interfaith society’: this is one of the signs of his value as ‘a text in moral
+and political education’.44 And so on.
+    We encounter a connected absurdity in the endless debates as to
+whether a given ‘unit idea’ may be said to have ‘really emerged’ at a given
+time, and whether it is ‘really there’ in the work of some given writer.
+Consider again the histories of the idea of the separation of powers. Is
+the doctrine already ‘there’ in the works of George Buchanan? No, for he
+‘did not fully articulate’ it, although ‘none came closer’ at the time.*> But
+is it perhaps ‘there’ by the time we come to the constitutional proposals
+put forward by the royalists in the English civil war? No, for it is still ‘not
+the pure doctrine’.4° Or consider the histories of the doctrine of the social
+contract. Is the doctrine already ‘there’ in the pamphlets produced by the
+Huguenots in the French religious wars? No, for their ideas are ‘incompletely developed’. But is it perhaps ‘there’ in the works of their Catholic
+
+   3° But for an interesting defence of Lovejoy’s approach see Oakley 1984, pp. 15-40.
+   37 Raab 1964, p. 2.       38 Jones 1947, p. 50.      39 Armstrong 1965, p. 382.
+   4° Popkin 1953, p. 300.       4" Cassirer 1955, p- 151.     4° Morris 1966, pp. 89-90.
+   43 Raab 1964, pp. 1, 11. For a critique see Anglo 1966.
+   44 Bloom and Jaffa 1964, pp. 1-2, 4, 36.        45 Gwyn 1965, p. 9.      4° Vile 1967, p. 46.
+
+=== p. 82 ===
+
+adversaries? No, for their statements are still ‘incomplete’, although they
+are ‘decidedly more advanced     ’.*/
+    The first form, then, of the mythology of doctrines may be said to
+consist, in these various ways, of mistaking some scattered or incidental
+remarks by one of the classic theorists for their ‘doctrine’ on one of the
+themes which the historian is se¢ to expect. ‘The second form, to which
+I now turn, involves the converse of this mistake. A classic theorist who
+fails to come up with a recognisable doctrine on one of the mandatory
+themes is criticised for falling short of their proper task.
+    The historical study of moral and political theory is currently dogged
+by a demonological (but highly influential) version of this mistake. These
+disciplines, we are first reminded, are or ought to be concerned with eternal or at least traditional ‘true standards’.4® It is thus thought appropriate
+to treat the history of these subjects in terms of the ‘decided lowering of
+tone’ said to be characteristic of modern reflection ‘on life and its goals’,
+and to take as the focus of this history the assessment of blame for this
+collapse.49 ‘Thomas Hobbes, or sometimes Niccolo Machiavelli, is then
+made to stand condemned for man’s first disobedience.°° Their contemporaries are then praised or blamed essentially according to whether
+they acknowledged or subverted the same ‘truth’.5’ Leo Strauss, the
+chief proponent of this approach, accordingly ‘does not hesitate to assert’, when confronting Machiavelli’s political works, that they deserve to
+be denounced as ‘immoral and irreligious’.°* He also does not hesitate to
+assume that such a tone of denunciation is appropriate to his stated aim
+of trying to ‘understand’ Machiavelli’s works.°3 Here the paradigm determines the direction of the entire historical investigation. The history
+can only be reinterpreted if the paradigm itself is abandoned.
+     The main version, however, of this form of the mythology of doctrines consists of supplying the classic theorists with doctrines which are
+agreed to be proper to their subject, but which they unaccountably failed
+to discuss. Sometimes this takes the form of extrapolating from what
+these great figures said in such a way as to supply them with suitable
+
+47 Gough 1957, p. 59-       48. Strauss 1957, p. 12.
+49 Bloom and Jaffa 1964, pp. 1-2. For a critique of this belief in political philosophy as the ar-coagae or recovery of certain ‘final truths’, see Kaufman 1954. For a defence see Cropsey
+   1962.
+°° For this view of Hobbes see Strauss 1953; for this view of Machiavelli see Strauss 1958.
+5" See, for example, the attack on Anthony Ascham and the defence of the Earl of Clarendon in
+   these terms in Coltman 1962, pp. 69-99, 197-242.
+5? Strauss 1958, pp. 11-12.       53 Strauss 1958, p. 14.
+
+=== p. 83 ===
+
+beliefs. Thomas Aquinas may not have pronounced on the subject of
+‘foolish “civil disobedience”’, but we can be sure that ‘he would not
+have approved’.®+ Marsilius of Padua would certainly have approved of
+democracy, since ‘the sovereignty he espoused pertained to the people’.
+But Richard Hooker ‘would not be entirely happy’, since ‘his own noble, religious and spacious conception of law has been desiccated into
+the mere fiat of popular will’.5° Such exercises may seem merely quaint,
+but they could always have a more sinister undertone, as these examples may perhaps suggest: a means to fix one’s own prejudices onto the
+most charismatic names under the guise of innocuous historical speculation. History then indeed becomes a pack of tricks we play on the
+dead.
+    ‘Phe more usual strategy, however, is to seize on some doctrine that
+a given theorist ought to have mentioned, although they failed to do
+so, and then to criticise them for their incompetence. Perhaps the most
+remarkable evidence of the hold exercised by this approach is that it was
+never questioned, as a method of discussing the history of political ideas,
+even by that most anti-essentialist of political theorists, 7. D. Weldon. ‘The
+first part of his book States and Morals sets out the various ‘definitions of
+the state’ that all political theorists ‘either formulate or take for granted’.
+We learn that all theories of the state fall into two main groups: “Some
+define it as a kind of organism, others as a kind of machine.’ Armed
+with this discovery, Weldon then turns ‘to examine the leading theories
+about the state which have been put forward’. But here he finds that
+even ‘those writers who are generally regarded as the leading theorists
+in the subject’ let us down rather badly, for few of them manage to
+expound either theory without ‘inconsistencies or even contradictions’.
+Hegel turns out to be the sole theorist “completely faithful’ to one of
+the two stipulated models which, we are reminded, it is the ‘primary
+purpose’ of each theorist to expound. A less confident writer might have
+wondered at this point whether his initial characterisation of what these
+theorists all took themselves to be doing can have possibly been correct.
+But Weldon’s only comment is that it seems ‘rather odd that, after more
+than two thousand years of concentrated thought’, almost everyone has
+remained so confused.°/
+   The exegetical literature is filled with similar instances of this mythology of doctrines. Consider, for example, the place in political theory of
+        54 Cranston 1964, pp. 34-5.      55 Marsilius of Padua 1951-6, vol. 1, p. 312.
+        5® Shirley 1949, p. 256.    57 Weldon 1946, pp. 26, 63-4.
+
+=== p. 84 ===
+
+questions about voting and decision-making, and about the role of public
+opinion more generally. These questions have become of central importance in recent democratic political theory, although they were of little
+interest to theorists writing before the establishment of modern representative democracies. The historical caveat might scarcely seem worth
+adding, but it has not been sufficient to deter commentators from crit-icising Plato’s Republic for ‘omitting’ the ‘influence of public opinion’s®
+or from criticising John Locke’s Two Treatises for omitting ‘all references
+to family and race’ and failing to make it ‘wholly clear’ where he stands
+on the question of universal suffrage.° It is indeed astonishing, we are
+assured, that not one of ‘the great writers on politics and law’ devotes
+any space to the discussion of decision-making.°’ Consider, similarly, the
+question of the extent to which political power is subject to manipulation by the more socially advantaged. This too is a natural anxiety for
+democratic theorists, though a question of little interest to those with
+no commitment to popular rule. Again the historical caveat is obvious,
+but again it has not been sufficient to prevent commentators from offering it as a criticism of Machiavelli, of Hobbes and of Locke, that none
+of them offers any ‘genuine insights’ into this almost wholly modern
+debate.”
+   An even more prevalent form of the mythology consists in effect of
+criticising the classic writers according to the a prion assumption that
+they must have intended whatever writings they produced to constitute
+the most systematic contribution they were capable of making to their
+discipline. If it is first assumed, for example, that one of the doctrines
+Richard Hooker must have been trying to enunciate in the Laws was
+an account of ‘the basis of political obligation’, then doubtless it is a
+‘defect in Hooker’s political views’ that he failed to devote any attention
+to refuting the theory of absolute sovereignty.°? Similarly, if it is first
+assumed that one of Machiavelli’s basic concerns in Il Principe was to
+explain ‘the characteristics of men in politics’, then it is not difficult for a
+contemporary political scientist to show that Machiavelli’s poor effort is
+‘extremely one-sided and unsystematic’.®3 Again, if it is first assumed that
+Locke’s Two Treatises includes all the doctrines he might have wished to
+
+58 Sabine 1951, p. 67.   59 Aaron 1955, pp. 284-5.       6 Friedrich 1964, p. 178.
+e
+   See Plamenatz 1963, vol. 1, p. 43, on Machiavelli’s ‘great omission’; Russell 1946, p. 578, on
+     Hobbes’s failure to ‘realise the importance of the clash between different classes’; Hacker 1961,
+     pp- 192, 285, noting this ‘great omission’ in the thought of Machiavelli as well as Locke; Lerner
+     1950, p. xxx on Machiavelli’s lack of ‘any genuine insights into social organisation as the basis of
+     politics’.
+® Davies 1964, p. 80.         °3 Dahl 1963, p. 113.
+
+=== p. 85 ===
+
+enunciate on ‘natural law and political society’, then doubtless ‘it might
+well be asked’ why he fails to ‘advocate a world state’.°+ And again, ifit
+is first assumed that one of Montesquieu’s aims in De l’Esprit des lois must
+have been to enunciate a sociology of knowledge, then doubtless ‘it is a
+weakness’ that he fails to explain its chief determinants, and doubtless
+‘we must also accuse him’ of failing to apply his own theory.°> But with
+all such alleged ‘failures’, as with the converse form of this mythology,
+we are still left confronting the same begged question: whether any of
+these writers ever intended, or could have intended, to do what they are
+castigated for not having done.
+
+     ps                                        Ill
+
+I now want to consider a second type of mythology that tends to be
+created by the fact that historians will unavoidably be set in approaching
+the ideas of the past. It may turn out that some of the classic writers
+are not altogether consistent, or even fail to give any systematic account
+of their beliefs. Suppose, however, that the paradigm for the conduct
+of the investigation has again been taken to be that of elaborating each
+classic writer’s doctrines on each of the themes most characteristic of the
+subject. It will then become dangerously easy for the historian to treat
+it as his or her task to supply these texts with the coherence they may
+appear to lack. Such a danger is exacerbated by the notorious difficulty
+of preserving the proper emphasis and tone of a work when paraphrasing
+it, and by the consequent temptation to find a ‘message’ which can be
+abstracted and more readily communicated.”
+    The writing of the history of moral and political philosophy is pervaded
+by this mythology of coherence.®” If ‘current scholarly opinion’ can see
+no coherence in Richard Hooker’s Laws, the moral is to look harder, for
+coherence must surely be present.® If there is doubt about the ‘most
+central themes’ of Hobbes’s political philosophy, it becomes the duty of
+the exegete to discover the ‘inner coherence of his doctrine’ by reading
+such texts as Leviathan over and over until — in a revealing phrase —
+the argument has ‘assumed some coherence’."? If there is no coherent
+system ‘readily accessible’ to the student of Hume’s political writings, the
+64 Cox 1960, pp. xv, 189.      ® Stark 1960, pp. 144, 153.
+   For a recent discussion of some related issues see Lemon 1995, pp. 225~-3767 A similar point about the problem of accommodating different ‘levels of abstraction’ has been
+   made in Pocock 1962. For a critique of Pocock’s and my views about myths of coherence see
+   Bevir 1997.
+68 McGrade 1963, p. 163.        69 Warrender 1957, p. vii.
+
+=== p. 86 ===
+
+exegete’s duty is ‘to rummage through one work after another’ until the
+‘high degree of consistency in the whole corpus’ is duly displayed (again
+in a revealing phrase) ‘at all costs’.’° If Herder’s political ideas are ‘rarely
+worked out systematically’, and are ‘scattered throughout his writings,
+sometimes within the most unexpected contexts’, the duty of the exegete
+becomes that of trying ‘to present these ideas in some coherent form’.”
+The most revealing fact about such reiterations of the scholar’s task is
+that the metaphors habitually used are those of effort and quest. ‘The
+ambition is always to ‘arrive’ at ‘a unified interpretation’, to ‘gain’ a
+‘coherent view of an author’s system’.
+   This procedure gives the thoughts of the major philosophers a coherence, and an air generally of a closed system, which they may never
+have attained or even aspired to attain. If it is first assumed, for example,
+that the business of interpreting Rousseau’s philosophy must centre on
+the discovery of his most ‘fundamental thought’, it will readily cease to
+seem a matter of importance that he contributed over several decades to
+several different fields of enquiry.’? If it is first assumed that every aspect
+of Hobbes’s thought was designed as a contribution to an overarching
+‘Christian’ system, it will cease to seem peculiar to suggest that we may
+turn to his autobiography to elucidate so crucial a point as the relations
+between ethics and political life./4 If it is first assumed in the case of
+Edmund Burke that a ‘coherent moral philosophy’ underlies everything
+he wrote, then it will cease to seem problematic to treat ‘the corpus of
+his published writings’ as ‘a single body of thought’./> Some measure of
+the lengths to which such procedures can be carried is provided by an
+influential study of Marx’s social and political thought, in which it is felt
+to be necessary, to justify the exclusion of Engels’s contributions, to point
+out that Marx and Engels were ‘two distinct human beings’.7°
+   It does sometimes happen, of course, that the aims and successes of a
+given writer remain so various as to defy even the efforts of such exegetes
+to extract a coherent system from their thoughts. Frequently, however,
+this merely generates a converse form of historical absurdity: such lack of
+system then becomes a matter for reproach. It is felt, for example, to be a
+point of some ideological urgency as well as exegetical convenience that
+Marx’s various pronouncements should be available under some systematic headings. Despite the efforts of his critics, however, such a system
+
+         7° Stewart 1963, pp. v—v1.      7’ Barnard 1965, pp. xix, 139.
+         7 Watkins 1965, p. 10.       73 Cassirer 1954, pp. 46, 62.
+         74 Hood 1964, p. 28.       75 Parkin 1956, pp. 2, 4.     7 Avineri 1968, p. 3.
+
+=== p. 87 ===
+
+remains hard to find. We might ascribe this fact to Marx’s concern at
+different times with a wide range of different social and economic issues.
+But it has instead become a standard criticism that he never managed
+to work out what is supposed to be ‘his’ basic theory in anything but a
+‘fragmentary manner’.’? Such criticisms occur even more readily when
+writers are first classified according to a model to which they are then
+expected to aspire. If it is first assumed that all conservative thinkers
+must hold some ‘organic’ conception of the state, then doubtless Lord
+Bolingbroke ‘should have had’ such a conception, and doubtless it is
+strange that he did not organise his thoughts in that way.’® If it is first assumed that any philosopher who writes about the theory of justice can be
+expected to ‘contribute’ to one of three ‘basic’ views on the subject, then
+doubtless the fact that neither Plato nor Hegel did so can be taken to show
+that they ‘seem to resist taking a definite position’ on the subject.79 In all
+such cases, the coherence or lack of it which is discovered readily ceases
+to be an historical account of any thoughts that anyone ever thought.
+   The objection is an obvious one, but it has not in practice proved
+sufficient to forestall the development of the mythology of coherence in
+two directions that can only be called metaphysical in the most pejorative sense. First there is the assumption that it may be quite proper,
+in the interests of extracting a message of maximum coherence, to discount statements of intention that authors themselves make about what
+they are doing, or even to discount whole works that may seem to impair the coherence of their systems of thought. ‘The exegetical literature
+on Hobbes and Locke may be used to illustrate both tendencies. It is
+now known that, in his earliest writings on political theory, Locke was
+concerned to set out and defend a markedly conservative and even authoritarian stance.®° Yet it is still apparently possible in the face of this
+knowledge to treat Locke’s politics as a body of views that can simply be
+labelled the work of a ‘liberal’ political theorist, without further consideration of the fact that these were the views that Locke held in his fifties,
+and which he would himself have repudiated in his thirties.°' Locke at
+thirty is evidently not yet ‘Locke’ — a degree of patriarchalism to which
+even Sir Robert Filmer did not aspire.
+
+77 Sabine 1951, p. 642.       78 Hearnshaw 1928, p. 243.
+79 Adler 1967, p. xi; Bird 1967, p. 22. Adler 1967, pp. 1x—xi holds out the promise (in his Foreword
+   to Bird 1967) that the Institute for Philosophical Research will continue to ‘transform’ the ‘chaos
+   of differing opinions’ on other subjects ‘into an orderly set of clearly defined points’. The topics
+   to be rendered orderly will include progress, happiness and love.
+80 Abrams 1967, pp. 7-10, 63-83.           8 Seliger 1968, pp. 209-10.
+
+=== p. 88 ===
+
+     As for Hobbes, it is known from his own explicit statements what character he intended his political theory to bear. His Leviathan, as he informs
+us in the Review and Conclusion, was written ‘without other design’
+than to show that the ‘Civill Right of Soveraigns, and both the Duty and
+Liberty of Subjects’ can be grounded ‘upon the known naturall Inclinations of Mankind’, and that a theory so grounded must centre on ‘the
+mutuall Relation between Protection and Obedience’. Yet it has still
+seemed possible to insist that this ‘scientific part’ of Hobbes’s thought is
+nothing more than a rather ineptly detached aspect of a transcendent
+‘religious whole’. The fact, moreover,             that Hobbes himself appeared
+unaware of this higher order of coherence provokes not retraction but
+counter-assertion. Hobbes merely ‘fails to make clear’ that his discussion
+of human nature ‘in fact’ subserves a religious purpose. It ‘would have
+been clearer’ if Hobbes had ‘written in terms of moral and civil obligations’ and thus brought out the ‘real unity’ and the basically religious
+character of his whole ‘system’.®3
+   I turn to the other metaphysical tendency to which the mythology of
+coherence gives rise. Since the classic texts can be expected to exhibit
+an ‘inner coherence’ which it is the duty of the interpreter to reveal, any
+apparent barriers to this revelation, constituted by any apparent contradictions, cannot be real barriers because they cannot be real contradictions. The assumption, in other words, is that the correct question to ask
+in such a doubtful case is not whether the given writer was inconsistent,
+but rather ‘how are his contradictions (or apparent contradictions) to be
+accounted for?’*4 The explanation dictated by the principle of Ockham’s
+razor (that an apparent contradiction may be a contradiction) is explicitly set aside. Such incompatibilities, we are told, should not be left in:
+this unresolved state, but should be made to help towards ‘a full understanding of the whole theory’®> — of which the contradictions, evidently,
+form only an unsublimated part. The very idea that the ‘contradictions
+and divergences’ of a given writer may be ‘supposed to prove that his
+thought had changed’ has been dismissed by an influential authority as
+just another delusion of nineteenth-century scholarship.®°
+   ‘To think in these terms is to direct the historian of ideas down the
+scholastic path of ‘resolving antinomies’. We are told, for example, that
+our aim in studying the politics of Machiavelli need not be restricted to
+anything so straightforward as an attempt to trace the developments that
+
+e Hobbes 1996, pp. 489, 491.     83 Hood 1964, pp. 64, 116-17, 136-7.   84 Harrison 1955.
+5 Macpherson 1962, p. viii.    86 Strauss 1952, pp. 30-1.
+
+=== p. 89 ===
+
+took place in his thinking between the completion of I Principe in 1513
+and of the Discorst in 1519. ‘The appropriate task is instead held to be
+that of constructing for Machiavelli a scheme of beliefs sufficiently
+generalised for the doctrines of I Principe to be capable of being aufgehoben
+into the Discorst with any apparent contradictions resolved.®” The historiography of Marx’s social and political thought reveals a similar trend.
+Marx is not allowed to have developed and changed his mind from the humanistic strains of the Economic-Philosophical Manuscripts to the apparently
+more mechanistic system outlined over twenty years later in volume 1
+of Das Kapital. Sometimes we are instead assured that the appropriate
+task must be to construct ‘a structural analysis of the whole of Marx’s
+thought’, so that these apparent divergences can be viewed as part of
+‘oné corpus’.® Sometimes we are instead informed that the existence of
+the earlier material shows that Marx was always ‘obsessed with a moral
+vision of reality’, and that this can be used to discredit his later scientific
+pretensions, since he ‘appears not as the scientist of society that he
+claimed to be, but rather as a moralist or religious kind of thinker’.®9
+   This belief in the desirability of resolving antinomies has even received an explicit defence. This has come from the pen of Leo Strauss,
+who maintains that the clue to understanding any apparent ‘blunders’
+committed by any ‘master of the art of writing’ lies in reflecting on the
+threat of persecution and its likely effects on the voicing of our thoughts.9°
+During any ‘era of persecution’ it becomes necessary to hide one’s less
+orthodox beliefs ‘between the lines’ of one’s published work. (“The expression’, one learns with relief, ‘is clearly metaphoric.’) It follows that,
+if ‘an able writer’ in such a situation appears to contradict himself in
+setting out his ostensible views, then ‘we may reasonably suspect’ that
+the apparent contradictions have been deliberately planted as a signal to
+his ‘trustworthy and intelligent’ readers that he is really opposed to the
+orthodox views he may appear to hold.
+   The difficulty with this defence is that it depends on two a prion assumptions which, although implausible, are not merely left unargued
+
+87 For a survey of this approach see Cochrane 1961. The assumption appears in Federico Chabod’s
+   as well as (especially) in Friedrich Meinecke’s work. For a critical survey of such assumptions see
+   Baron 1961.
+88 Avineri 1968, p. 2.
+89 Tucker 1961, pp. 7, 11, 21. This allows the useful conclusion that the ‘relevance’ usually accorded
+   to the classic texts stops short at Marx, for his religious obsession means that he ‘has very little to
+   say to us’ about capitalism (p. 233), and ‘not only made no positive contribution but performed
+   a very great disservice’ in what he had to say about freedom (p. 243).
+9° Strauss 1952, pp. 24-5, 30, 32.
+
+=== p. 90 ===
+
+We                  Visions ofPolitics: Regarding Method
+
+but are treated as ‘facts’. First, the enquiry gains its direction from the
+assumption that to be original is to be subversive. For this is the means
+by which we know in which texts to look for doctrines between the lines.
+Secondly, any interpretation based on reading between the lines is virtually insulated from criticism by the further ‘fact’ that ‘thoughtless men
+are careless readers’. It follows that to fail to ‘see’ the message between
+the lines is to be thoughtless, while to ‘see’ it 2s to be trustworthy and
+intelligent. But suppose we ask for some means of testing whether or not
+we are dealing with one of the relevant ‘eras of persecution’, and whether
+in consequence we should or should not be trying to read between the
+lines. We are answered with two obviously circular arguments. How are
+we to recognise eras of persecution? They are those in which heterodox
+writers will be forced to cultivate this ‘peculiar technique of writing’.
+Should we assume that the technique is invariably in play? We should
+not assume its presence ‘when it would be less exact than not doing so’.
+Despite this explicit defence, therefore, it remains hard to see how the
+insistence that we must look for the ‘inner coherence’ of a given writer’s
+thoughts can give rise to anything more than mythological accounts of
+what they actually thought.
+
+                                     IV
+
+Both the mythologies I have been discussing arise from the fact that
+historians of ideas will unavoidably be set, in approaching any given
+writer, by some pre-judgements about the defining characteristics of the
+discipline to which the writer is supposed to have contributed. It may well
+seem, however, that even if such mythologies proliferate at this level of
+abstraction, they will scarcely arise — or will be much easier to detect and
+discount — when the historian operates simply at the level of describing
+the internal economy and argument of some individual work. It is indeed
+usual to insist that there can be nothing very problematic about the
+business of anatomising the contents and arguments of the classic texts.
+It is therefore all the more necessary to insist that even at this level we
+are still confronted with further dilemmas generated by the priority of
+paradigms, and still confronted in consequence with a further set of ways
+in which historical exegesis can lapse into mythology.
+    When considering what significance some particular text may be said
+to have for us, it is rather easy in the first place to describe the work and
+its alleged relevance in such a way that no place is left for the analysis of
+what its author may have intended or meant. The characteristic result of
+
+=== p. 91 ===
+
+this confusion is a type of discussion that might be labelled the mythology
+of prolepsis, the type of mythology we are prone to generate when we are
+more interested in the retrospective significance of a given episode than
+in its meaning for the agent at the time. For example, it has often been
+suggested that, with Petrarch’s ascent of Mount Ventoux, the age of the
+Renaissance dawned. Now this might, in a romantic sort of way, be said
+to give us a true account of the significance of Petrarch’s action and its
+interest for us. But no account under this description could ever be a true
+account of any action Petrarch intended, or hence of the meaning of his
+act.9' The characteristic, in short, of the mythology of prolepsis is the
+conflation of the asymmetry between the significance an observer may
+justifiably claim to find in a given historical episode and the meaning of
+that episode itself.
+   One such prolepsis which has constantly been exposed, but has constantly recurred, has been the attempt to stigmatise Plato’s political views
+in The Republic as those of a ‘totalitarian party-politician’.9* Another has
+been the attempt to insist that Rousseau’s political views not only ‘provided the philosophical justification for the totalitarian as well as the
+democratic national state’,93 but that the force of this ‘provision’ was
+such that Rousseau should be ‘given special responsibility for the emergence of totalitarianism’.%* In both cases an account that might be true
+of the historical significance of a work becomes conflated with an account
+of what its author was doing that could not in principle be true.
+   Such crude versions of the mythology can be (and have been) very
+readily exposed. But this has not been sufficient to prevent the same type
+of prolepsis from recurring, in a less noticeable fashion, in discussions
+of other admittedly influential political theorists. By way of example,
+consider the cases of Machiavelli and Locke. Machiavelli, we are often told, ‘was the founder of the modern political orientation’.9° With
+Machiavelli ‘we stand at the gateway of the modern world’.9° Now this
+may well provide a true account of Machiavelli’s historical significance
+(though it seems to presuppose a somewhat naive view of historical causation). But the claim is frequently used to preface a discussion of the
+characteristically ‘modern’ elements in Machiavelli’s thought, and has
+
+9' For these considerations, and for other examples of a similar kind, see the discussion in Danto
+    1965, pp- 149-81.
+  ? Popper 1962, vol. 1, p. 169.         93 Bronowski and Mazlish 1960, p. 303.
+Oo4 Chapman
+©                1956, p. vii. My italics. For the judgements there discussed, see for example Cobban
+    1941, p. 67 and especially Talmon 1952 where it is claimed (p. 43) that Rousseau ‘gave rise to
+    totalitarian democracy’.
+95 Winiarski 1963, p. 247-         9° Cassirer 1946, p. 140.
+
+=== p. 92 ===
+
+even been offered as an account of ‘the intention of Machiavelli’s political
+teaching’.9”? The danger here is not merely that of too readily ‘seeing’ the
+‘modern’ elements that the commentator is now programmed to find.
+There is also the danger that such interpretations may part company
+with anything that could in principle be a plausible account of what
+Machiavelli’s political writings were meant to achieve.
+    A similar problem has bedevilled the discussion of Locke’s political
+philosophy. We are frequently told (no doubt correctly) that Locke was
+one of the founders of the modern empirical and liberal school of political
+thought. But all too often this characterisation is elided into the claim that
+Locke was himself a ‘liberal’ political theorist.9° The effect has been to
+turn a claim about Locke’s significance which might be true into a claim
+about the content of his works which could not be true. For Locke can
+scarcely have intended to contribute to a school of political philosophy
+which, so this interpretation suggests, it was his great achievement to have
+made possible.99 The surest sign, in short, that we are in the presence
+of the mythology of prolepsis is that the discussion will be open to the
+crudest type of criticism that can be levelled against teleological forms
+of explanation: the episode has to await the future to learn its meaning.
+    Even when these cautions have been given their due weight, the apparently simple aim of describing the contents of a given classic text may
+still be capable of giving rise to comparable difficulties. For there 1s still
+the possibility that the observer may misdescribe, by a process of historical foreshortening, the intended meaning of the text. This danger can
+hardly fail to arise in any attempt to understand an alien culture or an
+unfamiliar conceptual scheme. If there is to be any prospect of the observer’s successfully communicating such an understanding within their
+own culture, it is obviously dangerous, but it is equally inescapable, that
+they should apply their own familiar criteria of classification and discrimination. ‘he attendant danger is that the observer may ‘see’ something
+apparently familar in the course of studying an unfamiliar argument,
+and may in consequence provide a misleadingly recognisable description
+of it.
+    The writing of the history of ideas is marked by two particular forms
+of such parochialism. First there is the danger that the historian may
+misuse his or her vantage-point in describing the apparent reference of
+
+97 Winiarski 1963, p. 273. My italics.
+98 As is assumed in Gough 1950, Gough 1957, Plamenatz 1963 and Seliger 1968.
+99 For an analysis of this confusion and a corrective to it see Dunn 1969, pp. 29-31, 204-6. See also
+   Tully 1993, esp. pp. 2, 6, 73-9.
+
+=== p. 93 ===
+
+                     Meaning and understanding in the history ofideas                                 75
+
+some statement in a classic text. An argument in one work may happen
+to remind the historian of a similar argument in another and earlier
+work, or may appear to contradict it. In either case the historian may
+mistakenly come to suppose that it was the intention of the later writer
+to refer to the earlier, and so may come to speak misleadingly of the
+‘influence’ of the earlier work.
+   This is not to suggest that the concept of influence is devoid of explanatory force. The danger is, however, that it is easy to use the concept in an
+apparently explanatory way without considering whether the conditions
+sufficient or at least necessary for the application of the concept have
+been met. The frequent result is a narrative that reads like the opening chapters of the First Book of Chronicles, although without the
+genetic justification. Consider, for example, the alleged genealogy of
+Edmund Burke’s political views. His aim in his Thoughts on the Causes of
+the Present Discontents was ‘to counteract the influence of Bolingbroke’.'°°
+Bolingbroke himself is said to have written under the influence of
+Locke.'*' Locke in turn is said either to have been influenced by Hobbes,
+whom he must ‘really’ have had in mind in the Two Treatises,‘°° or else to
+be concerned to counter Hobbes’s influence."°? And Hobbes in turn is
+said to have been influenced by Machiavelli,'°* by whom everyone was
+apparently influenced.'°°
+   Most of these explanations are purely mythological, as can readily
+be seen if we consider what the necessary conditions would have to
+be for helping to explain the appearance in a given writer B of any
+doctrine by invoking the ‘influence’ of an earlier writer A.'°° Such a set of
+conditions would have to include at least the following: (1) that B is known
+to have studied A’s works; (ii) that B could not have found the relevant
+t09 See Mansfield 1965, p. 86 and cf. also pp. 41, 66, 80. For the corresponding claim that
+    Bolingbroke ‘anticipates’ Burke, see Hart 1965, pp. 95, 149 et passun.
+    Mansfield 1965, p. 49 et passim. ‘Textbooks on eighteenth-century thought find ‘the tradition
+    of Locke’ indispensable as a means of accounting for some of the most salient features of the
+    period. See, for example, Laski 1961, pp. 47-53, 131.
+    For this assumption see Strauss 1953 and Cox 1960.
+'03 ‘This is the theory in general circulation. Even Wolin 1961, p. 26 insists that ‘a careful reader
+    cannot fail to see’ that Locke was aiming to refute Hobbes. The assumption figures in most
+   textbooks of early-modern political thought. See, for example, Martin 1962, p. 120.
+'04 See, for example, Strauss 1957, p. 48 for the claim that Hobbes ‘accepted’ Machiavelli's ‘critique
+    of traditional political philosophy’.
+705 See Raab 1964, and cf. Cherel 1935 and Prezzolini 1968.
+106 For a fuller analysis of problems about ‘influence’ see Skinner 1966. For the claim that my
+    argument here is unduly sceptical, even disabling, see Oakley 1999, pp. 138-87. But I do not
+    deny that the concept is capable of being fruitfully used. (I sometimes use it myself.) I only assert
+    that we must have some confidence that our invocations of the concept do something to pass
+    the tests I have proposed.
+
+=== p. 94 ===
+
+doctrines in any writer other than A; and (iii) that B could not have
+arrived at the relevant doctrines independently. Now consider my above
+example in terms of this model. It is arguable that the alleged influence of
+Machiavelli on Hobbes, and of Hobbes on Locke, fails even to pass test (1).
+Certainly Hobbes never explicitly discusses Machiavelli, and Locke never
+explicitly discusses Hobbes. It is demonstrable that the alleged influence
+of Hobbes on Locke, and of Bolingbroke on Burke, fails to pass test (11).
+Burke could equally well have found the doctrines of Bolingbroke by
+which he is said to have been influenced in a range of early eighteenth-century political pamphleteers hostile to the government of Walpole.'°7
+Locke could similarly have found the doctrines said to be characteristic
+of Hobbes in a range of de facto political writings of the 1650s — which
+Locke is at least known to have read, while it is not clear how closely
+he read Hobbes.'® Finally, it is evident that none of the examples cited
+passes test (iii). (It might even be said that it is not clear how test (11) could
+ever be passed.)
+   The other prevalent form of parochialism stems from the fact that
+commentators unconsciously misuse their vantage point in describing
+the sense of a given work. There is always the danger that the historian
+may conceptualise an argument in such a way that its alien elements
+dissolve into a misleading familiarity. Two obvious instances must suffice
+to illustrate the point. Consider first the case of an historian who decides
+(perhaps quite rightly) that a fundamental feature of the radical political
+thinking of the English Revolution during the mid-seventeenth century
+was a concern with the extension of the right to vote. Such an historian
+may then be led to conceptualise this characteristically Leveller demand
+in terms of an argument for democracy. The danger arises when the concept of a ‘philosophy of liberal democracy’"’Y is then used as a paradigm
+for the description and understanding of the Leveller movement. The
+paradigm makes it unnecessarily difficult to account for some of the most
+characteristic features of Leveller ideology. If we are programmed, for
+example, to think in terms of the ‘republican secularism’ of the Leveller
+leadership, then it is not surprising that their agonisings over the monarchy and their appeals to religious sentiment begin to look baffling."”° The
+
+'°7 For the large number and general drift of these see Foord 1964, esp. pp. 57-109, 113-59.
+18 For the de facto theorists of the early 1650s and their relationship to Hobbes see below, vol. 3
+    chs. 9 and ro. On Locke’s reading see Laslett 1965.
+9 See Brailsford 1961, p. 118 and cf. Wootton 1986, pp. 38-58 on the emergence of ‘democracy’
+    in seventeenth-century England.
+N° Brailsford 1961, pp. 118, 457.
+
+=== p. 95 ===
+
+                  Meaning and understanding in the history of ideas                         a7
+paradigm of ‘democracy’ will also tend to lead the historical investigation
+in inappropriate directions. Some anachronistic concept of‘the welfare
+state’ has to be found in Leveller thought, as well as a beliefin universal
+suffrage which they never held."
+    Consider, in a similar vein, an historian who decides (again perhaps
+quite rightly) that the argument in Locke’s Two Treatises about the right to
+resist tyrannical governments is related to his argument about the place
+of consent in any lawful political community. Such an historian may then
+be led to use the notion of ‘government by consent’ as a paradigm for the
+description of Locke’s argument.''? The same danger arises. When we
+speak about government by consent, we generally have in mind a theory
+about the conditions that must be met if the legal arrangements of a civil
+association are to count as legitimate. It is thus natural to turn with this
+conceptudlisation in mind to Locke’s text, and duly to find some such
+theory rather bunglingly set out. But when Locke speaks of government
+by consent, this does not seem to have been what he had in mind at
+all. Locke’s concern with the concept of consent arises in connection
+with his account of the orgs of legitimate political societies.''S This
+is hardly what we should regard as an argument for consent. But it
+seems to have been Locke’s argument, and the only result of failing to
+start from this point will be to misdescribe his theory, and so to accuse
+him of having bungled an account which he was not, in fact, trying to
+write.
+    The difficulty with which I have been concerned throughout is thus
+that, while it is nescapable, it is also dangerous for historians of ideas to
+approach their materials with preconceived paradigms. It will by now be
+evident that the point at which such dangers arise is the point at which
+the historian in effect begins to ignore certain general considerations
+applicable to the enterprise of making and understanding statements. A
+consideration of these issues will enable me to summarise the methodological lessons on which I have so far sought to insist.
+    One such consideration is that no agent can be said to have meant
+or achieved something which they could never be brought to accept as
+a correct description of what they had meant or achieved. This special
+authority of agents over their intentions does not exclude the possibility
+that an observer might be in a position to give a fuller or more convincing account of the agent’s actions than they could give themselves.
+
+" Brailsford 1961, p. 233; cf. Woodhouse 1938, p. 83.
+"2 As, for example, in Gough 1950, pp. 47-72.      "3 For this claim see Dunn 1980, pp. 29-52.
+
+=== p. 96 ===
+
+78                           Vistons ofPolitics: Regarding Method
+
+(Psychoanalysis is founded on this possibility.) But it does exclude that
+an acceptable account of an agent’s behaviour could ever survive the
+demonstration that it was dependent on the use of criteria of description
+and classification not available to the agent. For if an utterance or other
+action has been performed by an agent at will, and has a meaning for the
+agent, any plausible account of what the agent meant must necessarily
+fall under, and make use of, the range of descriptions that the agent could
+in principle have applied to describe and classify what he or she was saying or doing. Otherwise the resulting account, however compelling, will
+not be an account ofthe agent’s utterance or action."
+    It will be evident that it is precisely this consideration which is so readily ignored whenever the classic theorists are criticised by historians of
+ideas for failing to enunciate their doctrines in a coherent fashion, or for
+failing to enunciate a doctrine on one of the allegedly perennial issues.
+For it cannot be a correct appraisal of any agent’s action to say that
+they have failed to do something unless it is first clear that they could
+have had, and did in fact have, the intention to perform that particular action. To apply this test is to recognise that many of the questions
+I have considered (questions such as whether Marsilius enunciated a
+doctrine of the separation of powers and so on) are, strictly speaking,
+void for lack of reference. There is no means of formulating such questions in terms that could in principle have made sense to the agents
+concerned. The same test makes it clear that the claims about ‘anticipations’ I have been examining — claims of the form that ‘we may regard
+Locke’s theory’ of signs ‘as an anticipation of Berkeley’s metaphysics’ —
+are likewise meaningless."> ‘There is no point in so regarding Locke’s
+theory if our aim is to say anything about Locke. (It can scarcely have
+been Locke’s intention to anticipate Berkeley’s metaphysics.) We can tell
+such stories if we like, but the writing of history (notwithstanding a fashionable attitude among philosophers) cannot simply consist of stories: a
+further feature of historical stories is that they are supposed to track the
+truth.""°
+   One final consideration worth highlighting relates to the activity of
+thinking itself. We need to reckon with the fact that thinking is an effortful
+activity, not simply a manipulation of a kaleidoscope of mental images.""7
+The attempt to think out problems, as a matter of common introspection
+
+4 Hampshire 1959, esp. pp. 135-6, 153-5, 213-16. Some kindred issues are developed in Taylor
+     1964, esp. pp. 54-71.
+"™ Armstrong 1965, p. 382.     "1 For an elaboration see Mandelbaum 1967.
+"7 Dunn 1980, pp. 13~28 includes a fuller statement ofthis point.
+
+=== p. 97 ===
+
+and observation, does not seem to take the form of, or be reducible to, a
+patterned or even a uniformly purposive activity. Rather we engage in
+an often intolerable wrestle with words and meanings, we spill over the
+limits of our intelligence and become confused, and we often find that
+our attempts to synthesise our views reveal conceptual disorders at least
+as much as coherent doctrines. But it is precisely this consideration which
+is ignored whenever an interpreter insists on collecting the regrettably
+‘scattered’ thoughts of some classic writer and presenting them systematically, or on discovering some level of coherence at which the efforts
+and confusions that ordinarily mark the activity of thinking are made to
+disappear, all passion spent.
+
+          1)                           Vr
+
+By now it may seem that there is an obvious objection to the line of
+argument I have been laying out. I have been anatomising the dangers
+that arise if one approaches the classic texts in the history of ideas by
+treating them as self-sufficient objects of enquiry, concentrating on what
+each writer says about each of the canonical doctrines and thereby seeking
+to recover the meaning and significance of their works. One might retort,
+however, that with sufficient care and scholarship such dangers can surely
+be avoided. But if they can be avoided, what becomes of my initial claim
+that there is something inherently misguided about this approach?
+   By way of answer, I wish to advance a thesis complementary to, but
+stronger than, the one I have so far defended. The approach I have been
+discussing, I shall argue, cannot in principle enable us to arrive at an
+adequate understanding of the texts we study in the history of thought.
+The fundamental reason is that, if we wish to understand any such text,
+we must be able to give an account not merely of the meaning of what
+was said, but also of what the writer in question may have meant by
+saying what was said. A study that focuses exclusively on what a writer
+said about some given doctrine will not only be inadequate, but may
+in some cases be positively misleading as a guide to what the writer in
+question may have intended or meant.
+   Consider first the obvious point that the meanings of the terms we use
+to express our concepts sometimes change over time, so that an account
+of what a writer says about a given concept may yield a potentially
+misleading guide to the meaning of their text. ‘Take, for example, the
+reception of Bishop Berkeley’s doctrine of immaterialism at the hands of
+his contemporary critics. Both Andrew Baxter and ‘Thomas Reid remark
+
+=== p. 98 ===
+
+on the ‘egoism’ ofBerkeley’s outlook, and it was under this heading that
+his work was discussed in the Encyclopédie." It is thus of some consequence
+to know that, if Berkeley’s contemporaries had intended to accuse him
+of what we should mean by egoism, they would have been much more
+likely to refer to his ‘Hobbism’. When they spoke of his egoism, what
+they meant was something much more like what we should mean by
+solipsism.'"9
+    A second and more important reason for thinking that what a writer
+says about a given doctrine may prove a misleading guide to what they
+may have meant is that writers often deliberately employ a range of what
+might be called oblique rhetorical strategies. Of these the most obvious
+is irony, the deployment of which has the effect of prising apart what
+is said from what is meant. I examine some of the problems raised by
+this strategy in chapter 6, but the essential point can perhaps be briefly
+introduced here. Take, for example, the doctrine of religious toleration as
+it presented itself to English intellectuals at the time of the Toleration Act
+of 1689. There are good reasons for saying that the various contributions
+to the debate largely reflected a common outlook. But it would only be
+as the result of a most sophisticated historical investigation that we could
+come to recognise, say, that Daniel Defoe’s Shortest-Way of dealing with
+the dissenters, Benjamin Hoadly’s Letter to the Pope about the powers
+of the Church and John Locke’s Letter Concerning Toleration all aim to
+convey a similar message about the value of tolerating religious dissent.
+A study of what each writer says about the issue would guarantee blank
+misunderstanding in the case of Defoe and considerable confusion in
+the case of Hoadly. Only Locke seems to say anything resembling what
+he means, and even here we might wish (remembering Swift) to find
+some means of reassuring ourselves that no irony is involved. It is hard,
+in short, to see how any amount of reading such texts ‘over and over’, as
+we are exhorted to do,’*° will enable us to move in such cases from what
+was said to an understanding of what was meant.
+   A further and more intractable problem about oblique strategies can
+readily arise. ‘There may be some reason to doubt whether, as one expert
+has put it, it 1s “historically more credible’ to say of a given writer that he
+‘believed what he wrote’ than to suppose that he must have been insincere. Consider, for example, the way in which this problem arises in the
+interpretation of such philosophers as ‘Thomas Hobbes or Pierre Bayle.
+When Hobbes discusses the laws of nature, the doctrine he enunciates
+     18 Baxter 1745, vol. 2, p- 280; Reid 1941, p. 120.   "9 Bracken 1965, pp. 1-25, 59-81.
+     2° Plamenatz 1963, vol. 1, p. x.’
+
+=== p. 99 ===
+
+includes the claim that the laws of nature are the laws of God, and that
+we are obliged to obey the laws of nature. These overt sentiments have
+traditionally been dismissed as the work of a sceptic pressing a familiar
+vocabulary into heterodox use. But a number of revisionist commentators have sought to insist (the form of words is revealing) that Hobbes
+must after all have ‘meant quite seriously what he so often says, that the
+“Natural Law” is the command of God, and to be obeyed because it is
+God’s command’.'*! Hobbes’s scepticism is thus treated as a disguise;
+when the mask is torn off, he emerges as the exponent of a Christian
+ deontology. So too with Bayle, whose Dictionnaire contains most of the
+doctrines appropriate to a Calvinist theology of the most rigorous and
+unforgiving kind. Again it has been usual to dismiss this overt message
+by imsisting that Bayle cannot possibly have been sincere. But again a
+number of fevisionist commentators have sought to argue that, far from
+being the prototype of a sneering philosophe, Bayle was a man of faith, a
+religious thinker whose pronouncements need to be taken at face value
+if his arguments are to be understood.'*?
+    I am not concerned to ask directly which of these lines of interpretation 1s to be preferred in the case of either Hobbes or Bayle. But I do wish
+to point to the inadequacy of the methodology by which these revisionist interpretations have been guided. We are told that ‘a close study of
+the texts’, a concentration on the texts ‘for themselves’ will be sufficient
+in each instance to establish the revisionist case.'*3 It does not seem to
+have been recognised that an acceptance of these interpretations entails
+the acceptance of some very peculiar assumptions about Hobbes, Bayle
+and the age in which they lived. Both thinkers were accepted by the
+philosophes as their great predecessors in scepticism, and were understood
+in the same way by contemporary critics as well as sympathisers, none
+of whom ever doubted that they had intended to speak destructively of
+prevailing religious orthodoxies. It is, of course, possible to dismiss this
+objection by insisting that all of Hobbes’s and Bayle’s contemporary critics were equally mistaken, and in exactly the same way, about the nature
+of the intentions underlying their texts. But to accept this improbable
+hypothesis is merely to raise further difficulties about the attitudes of
+Hobbes and Bayle themselves. Both had good reason to recognise that
+1   ‘Taylor 1938, p. 418. Warrender 1957 takes up a comparable position, while Hood 1964 offers
+    a more extreme statement. For a more incisive version of the argument see Martinich 1992,
+    PP] 235:
+22 See Dibon 1959, p. xv and cf. Labrousse 1964, pp. 346-86, discussing Bayle’s articles on David
+   and on Manicheanism.
+®3 Hood 1964, p. vii; Labrousse 1964, p. x.
+
+=== p. 100 ===
+
+religious heterodoxy was a dangerous commitment. Hobbes (according
+to John Aubrey) lived for a time in dread lest the bishops bring in ‘a
+motion to have the good old gentleman burn’t for a heretique’."** Bayle
+was dismissed from his professorship at Sedan for being anti-Catholic,
+and later dismissed from his professorship at Rotterdam for not being
+anti-Catholic enough. If both writers intended their works to propagate
+orthodox religious sentiment, it becomes impossible to understand why
+neither of them removed from later editions of their works — as both
+could have done, and as Bayle was urged to do — those portions which
+had apparently been so grievously misunderstood, and why neither of
+them attempted to correct the apparent misconceptions which arose
+about the underlying intentions of their works.'*°
+   Hobbes’s and Bayle’s texts, in short, raise questions that we can never
+hope to resolve by reading them ‘over and over’ until we come to believe
+that we have understood them. If we now decide ~ as a result of reflecting
+on the implications I have emphasised — that it is doubtful whether their
+texts mean what they say, this will be because of information beyond the
+texts themselves. If, by contrast, we still feel able to insist that the texts
+say what they mean, we are left with the problem of accounting for the
+peculiar implications of this commitment. Whichever interpretation we
+accept, we cannot hope to defend it simply by referring to the apparent
+meanings of the texts.
+   Far more important, however, than any of these considerations is the
+fact that, in the case of any serious utterance, the study of what someone
+says can never be a sufficient guide to understanding what was meant.
+To understand any serious utterance, we need to grasp not merely the
+meaning of what is said, but at the same time the intended force with
+which the utterance is issued. We need, that is, to grasp not merely what
+people are saying but also what they are doing in saying it. ‘To study what
+past thinkers have said about the canonical topics in the history of ideas 1s,
+in short, to perform only the first of two hermeneutic tasks, each of which
+is indispensable if our goal is that of attaining an historical understanding
+of what they wrote. As well as grasping the meaning of what they said,
+we need at the same time to understand what they meant by saying it.
+    To insist on this claim is to draw on Wittgenstein’s arguments about
+what is involved in the recovery of meaning and on J. L. Austin’s development of Wittgenstein’s arguments about meaning and use. I offer
+a fuller account of these theories and their relevance for the activity of
+
+     4 Aubrey 1898, vol. 1, p. 339.
+     “5 For these details about Hobbes see Mintz 1962 and about Bayle see Robinson 1931.
+
+=== p. 101 ===
+
+                 Meaning and understanding in the history ofideas                        83
+
+textual interpretation in chapters 5 and 6. Here I content myself with
+illustrating the difference it makes to the study of individual texts and
+‘unit ideas’ if we take seriously the fact that there is always a question to
+be asked about what writers are doing as well as what they are saying if
+our aim is to understand their texts.
+    By way of illustrating this claim, consider first the case of an individual text. Descartes in his Meditations thinks it vital to be able to vindicate
+the idea of indubitable knowledge. But why was this an issue for him at
+all? ‘Traditional historians of philosophy have scarcely acknowledged the
+question; they have generally taken it for granted that, since Descartes
+was an epistemologist, and since the problem of certainty is one of
+the central problems of epistemology, there is no special puzzle here
+at all. ‘hey have accordingly felt able to concentrate on what they have
+taken to bé their basic interpretative task, that of critically examining
+what Descartes says about how we can come to know anything with
+certainty.
+    My dissatisfaction with this approach — to express it in R. G. Colling-wood’s helpful terms — stems from the fact that it leaves us without any
+sense of the specific question to which Descartes may have intended
+his doctrine of certainty as a solution.'?° It leaves us in consequence
+without any understanding of what he may have been doing in presenting his doctrine in the precise form in which he chose to present
+it. This being so, it has I think been a major advance in Descartes
+scholarship of recent years that a number of scholars — Richard Popkin,
+E. M. Curley and others — have begun to ask themselves precisely these
+questions about the Meditations."*? By way of answer, they have suggested
+that part of what Descartes was doing was responding to a new and
+especially corrosive form of scepticism arising from the recovery and
+propagation of the ancient Pyrrhonian texts in the later sixteenth century. They have thereby provided us not merely with a new way of
+characterising the Meditations, but at the same time with a key to interpreting many of its detailed effects. They have enabled us to think anew
+about why the text is organised in a certain way, why a certain vocabulary is deployed, why certain arguments are particularly singled out and
+emphasised, why in general the text possesses its distinctive identity and
+shape.
+   A similar set of considerations applies to Lovejoy’s project of concentrating on ‘unit ideas”?® and ‘tracking a grand but elusive theme’ through
+
+      26 Collingwood 1939, pp. 34—5-         ®7 See Popkin 1969, 1979 and Curley 1978.
+      28 On ‘unit ideas’ as objects of study see Lovejoy 1960, esp. pp. 15-17.
+
+=== p. 102 ===
+
+a given period or even ‘over many centuries’.'*9 Consider, for example,
+the project of trying to write the history of the idea of nobilitas in early-modern Europe. The historian might begin, quite properly, by pointing
+out that the meaning of the term was given by the fact that it was used
+to refer to a particularly prized moral quality. Or the historian might,
+equally properly, point out that the same term was used to denote membership of a particular social class. It might not in practice be clear which
+meaning should be understood in a given case. When Francis Bacon remarks that nobility adds majesty to a monarch, but diminishes power,
+we might (remembering his admiration for Machiavelli) think of the first
+meaning as readily as we might (remembering his official position) think
+of the second. A further problem arises from the fact that this ambiguity
+is often used by moralists in a studied way. Sometimes the aim is to insist
+that one can have noble qualities even if one lacks noble birth. The possibility that someone might rightly be called noble ‘more for remembrance
+of their virtue than for discrepance of estates’ was a frequent paradox in
+Renaissance moral thought.'3° But sometimes the aim is to insist that,
+while nobility is a matter of attainment, it happens to be connected with
+nobility of birth. This fortunate coincidence was even more commonly
+pointed out.'3' It was always open to the moralist, moreover, to turn the
+basic ambiguity against the concept of nobilitas itself, contrasting nobility
+of birth with accompanying baseness of behaviour. When Sir ‘Thomas
+More in Utopia describes the noble behaviour of the military aristocracy,
+he may well have been aiming to bring the prevailing concept of nobilitas
+into disrepute'?”.
+    My example is obviously oversimplified, but it is still sufficient, I believe, to bring out two weaknesses inherent in the project of writing
+histories of ‘unit ideas’. First, if we wish to understand a given idea, even
+within a given culture at a given time, we cannot simply concentrate a
+la Lovejoy on studying the terms in which it was expressed. For they are
+likely to have been used, as my example suggests, with varying and incompatible intentions. We cannot even hope that a sense of the context of
+utterance will necessarily resolve the difficulty, for the context itself may
+be ambiguous. Rather we shall have to study all the various contexts in
+which the words were used — all the functions they served, all the various
+things that could be done with them. Lovejoy’s mistake lies not merely in
+looking for the ‘essential meaning’ of the ‘idea’ as something that must
+              ™9 Lakoff 1964, p. vii.    3° Elyot 1962, p. 104.
+              '3' See, for example, Humphrey 1563, Sig. K, 4" and 5’.
+              8° Hexter 1964 includes a subtle exploration of this possibility.
+
+=== p. 103 ===
+
+necessarily ‘remain the same’, but even in supposing that there need be
+any such ‘essential’ meaning (to which individual writers ‘contribute’) at
+all.*33
+   A second problem is that, in writing such histories, our narratives
+almost instantly lose contact with statement-making agents. When they
+figure in such histories, they generally do so only because the relevant
+unit idea — the social contract, the idea of progress, the great chain of
+being and so forth — makes some appearance in their works, so that they
+can be said to have contributed to its development. What we cannot
+learn from such histories 1s what role — trivial or important — the given
+idea may have played in the thought of any individual thinker. Nor can
+we learn what place — central or peripheral — it may have occupied in
+the sntellectual climate of any given period in which it appeared. We
+may perhaps learn that the expression was used at different times to
+answer a variety of questions. But we cannot hope to learn (to recur
+to R. G. Collingwood’s point) what questions the use of the expression
+was thought to answer, and so what reasons there were for continuing to
+employ it.
+   The criticism to be made of such histories is not merely that they seem
+perpetually liable to lose their point. It is rather that, as soon as we see
+that there zs no determinate idea to which various writers contributed,
+but only a variety of statements made by a variety of different agents
+with a variety of different intentions, what we are seeing is that there
+is no history of the idea to be written. ‘There is only a history of its
+various uses, and of the varying intentions with which it was used. Such
+a history can hardly be expected even to retain the form of the history of
+a ‘unit idea’. For the persistence of particular expressions tells us nothing
+reliable about the persistence of the questions that the expressions may
+have been used to answer, nor of what the different writers who used the
+expressions may have meant by using them:
+   To summarise. Once we see that there is always a question to be
+answered about what writers are doig in saying what they say, it seems to
+me that we shall no longer want to organise our histories around tracing
+‘unit ideas’ or focusing on what individual writers say about ‘perennial
+issues’. ‘To say this is not to deny that there have been long continuities
+in Western moral, social and political philosophy, and that these have
+been reflected in the stable employment of a number of key concepts and
+modes of argument.'** It is only to say that there are good reasons for not
+
+"33 For these assumptions see Bateson 1953.   34 On this point see MacIntyre 1966, pp. 1-2.
+
+=== p. 104 ===
+
+continuing to organise our histories around the study of such continuities,
+so that we end up with yet more studies of the kind in which, say, the
+views of Plato, Augustine, Hobbes and Marx on ‘the nature of the just
+state’ are laid out and compared.'°
+   One reason for my scepticism about such histories, as I have tried to
+stress in the first part of my argument, is not merely that each thinker — to
+take the example I have just given — appears to answer the question about
+justice in his own way. It is also that the terms employed in phrasing the
+question — in this case the terms ‘state’, ‘justice’ and ‘nature’ — feature
+in their different theories, if at all, only in such divergent ways that it
+seems an obvious confusion to suppose that any stable concepts are
+being picked out. The mistake, in short, lies in supposing that there 1s
+any one set of questions to which the different thinkers are all addressing
+themselves.
+   A deeper reason for my scepticism is the one I have been seeking to
+illustrate in the present section of my argument. The approach I have
+been criticising involves abstracting particular arguments from the context of their occurrence in order to relocate them as ‘contributions’ to
+allegedly perennial debates. But this approach prevents us from asking
+what any given writer may have been doig in presenting their particular
+‘contribution’, and thereby cuts us off from one of the dimensions of
+meaning we need to investigate if the writer in question is to be understood. ‘This is why, in spite of the long continuities that have undoubtedly
+marked our inherited patterns of thought, I remain sceptical about the
+value of writing histories of concepts or ‘unit ideas’. The only histories
+of ideas to be written are histories of their uses in argument.
+
+                                         VI
+
+If my argument so far makes sense, two positive conclusions may be
+said to follow from it. The first concerns the appropriate method to
+adopt in studying the history of ideas. ‘The understanding of texts, I have
+suggested, presupposes the grasp of what they were intended to mean
+and of how that meaning was intended to be taken. To understand a
+text must at least be to understand both the intention to be understood,
+and the intention that this intention be understood, which the text as
+an intended act of communication must have embodied. The question
+we accordingly need to confront in studying such texts is what their
+
+               735 See Lockyer 1979 and cf. Collingwood 1939, pp. 61-3.
+
+=== p. 105 ===
+
+authors — writing at the time when they wrote for the specific audience
+they had in mind — could in practice have intended to communicate by
+issuing their given utterances. It seems to me, therefore, that the most
+illuminating way of proceeding must be to begin by trying to delineate
+the full range of communications that could have been conventionally
+performed on the given occasion by the issuing of the given utterance.
+After this, the next step must be to trace the relations between the given
+utterance and this wider linguistic context as a means of decoding the intentions ofthe given writer.'3° Once the appropriate focus of study is seen
+in this way to be essentially linguistic, and the appropriate methodology
+is seen in consequence to be concerned with the recovery of intentions,
+the study ofall the facts about the social context of the given text can then
+take their place as a part of this linguistic enterprise. The social context
+figures as the ultimate framework for helping to decide what conventionally recognisable meanings it might in principle have been possible for
+someone to have intended to communicate. As I have sought to show in
+the case of Hobbes and Bayle, the context itself can thus be used as a sort
+of court of appeal for assessing the relative plausibility of incompatible
+ascriptions of intentionality. I do not suggest, of course, that this conclusion is in itself particularly novel.'3’7 What I do claim is that the critical
+survey I have conducted goes some way towards establishing a case for
+this methodology — towards establishing it not as an aesthetic preference or a piece of academic imperialism, but as a matter of grasping the
+necessary conditions for the understanding of utterances.
+   My second general conclusion concerns the value of studying the history of ideas. The most exciting possibility here is that of a dialogue
+between philosophical analysis and historical evidence. The study of
+statements uttered in the past raises special issues, and might yield insights of corresponding philosophical interest. Among the topics that
+might be more brightly illuminated if we were to adopt a strongly diachronic approach, one thinks in particular of the phenomenon of conceptual innovation and the study of the relationship between linguistic and
+ideological change. I begin to try to pursue some of these implications
+myself in chapters 8, 9 and 10 of this volume.
+
+'3 For critical discussions of this suggestion about the primacy of context, especially linguistic
+    context, see Turner 1983; Boucher 1985; Gunn 1988—9; Zuckert 1985; Spitz 1989; Arnold 1993,
+    pp. 15-21; King 1995; Bevir 2001.
+'37 For a brief statement of a similar commitment see Greene 1957-8. Cf. also Collingwood 1939
+    and Dunn 1980, pp. 13~—28, two discussions to which I am deeply indebted. See also Dunn 1996,
+    pp. 11-38. For a discussion of Collingwood’s influence on those who began to write about the
+    history ofpolitical philosophy in the 1960s see the valuable survey in Tuck 1993.
+
+=== p. 106 ===
+
+   My main conclusion, however, is that the critique I have mounted
+suggests a more obvious point about the philosophical value of studying
+the history of ideas. On the one hand, it seems to me a lost cause to try to
+justify the subject in terms of the answers it can provide to the ‘perennial
+problems’ allegedly addressed in the classic texts. To approach the subject
+in these terms, I have sought to show, is to render it gratuitously naive.
+Any statement is inescapably the embodiment of a particular intention on
+a particular occasion, addressed to the solution of a particular problem,
+and is thus specific to its context in a way that it can only be naive to
+try to transcend. The implication is not merely that the classic texts are
+concerned with their own questions and not with ours; it is also that —
+to revive R. G. Collingwood’s way of putting the point’3* — there are no
+perennial problems in philosophy. There are only individual answers to
+individual questions, and potentially as many different questions as there
+are questioners. Rather than looking for directly applicable ‘lessons’ in
+the history of philosophy, we shall do better to learn to do our own
+thinking for ourselves.
+   It by no means follows, however, that the study of the history of ideas
+has no philosophical value at all. The very fact, it seems to me, that the
+classic texts are concerned with their own problems, and not necessarily
+with ours, is what gives them their ‘relevance’ and current philosophical
+significance. The classic texts, especially in moral, social and political
+theory, can help us to reveal — if we will let them — not the essential
+sameness but rather the variety of viable moral assumptions and political
+commitments. It is here that their philosophical, even moral, value may
+be said to lie. There is a tendency (sometimes explicitly urged, as by
+Hegel, as a mode of proceeding) to suppose that the best, and not merely
+the inescapable, vantage point from which to survey the ideas of the past
+must be that of our present situation, because it 1s by definition the most
+highly evolved. Such a claim cannot survive a recognition of the fact that
+historical differences over fundamental issues may reflect differences of
+intention and convention rather than anything like a competition over
+a community of values, let alone anything like an evolving perception of
+the Absolute.
+   To recognise, moreover, that our own society is no different from
+any other in having its own local beliefs and arrangements of social
+and political life is already to reach a quite different and, I should wish
+to argue, a much more salutary point of vantage. A knowledge of the
+
+                           138 Collingwood 1939, p. 70.
+
+=== p. 107 ===
+
+history of such ideas can show the extent to which those features of our
+own arrangements which we may be disposed to accept as ‘timeless’
+truths'39 may be little more than contingencies of our local history and
+social structure. ‘To discover from the history of thought that there are
+in fact no such timeless concepts, but only the various different concepts
+which have gone with various different societies, is to discover a general
+truth not merely about the past but about ourselves.
+   It is a commonplace — we are all Marxists to this extent — that our
+own society places unrecognised constraints upon our imagination. It
+deserves, then, to become a commonplace that the historical study of
+the beliefs of other societies should be undertaken as one of the indispensable and irreplaceable means of placing limits on those constraints.
+The allegation that the history of ideas consists of nothing more than
+‘outworn metaphysical notions’ — frequently advanced at the moment,
+with terrifying parochialism, as a reason for dispensing with this kind of
+history — would then become the very reason for regarding such histories as indispensably ‘relevant’, not because crude ‘lessons’ can be picked
+out of them, but because the history itself can provide a lesson in self-knowledge. To demand from the history of thought a solution to our own
+immediate problems is to commit not merely a methodological fallacy
+but something like a moral error. But to learn from the past — and we
+cannot otherwise learn at all — the distinction between what is necessary
+and what is contingently the product of our own local arrangements is
+to learn one of the keys to self-awareness itself.
+
+   "39 For the claim that ‘the central problems of politics are timeless’ see Hacker 1961, p. 20.
+

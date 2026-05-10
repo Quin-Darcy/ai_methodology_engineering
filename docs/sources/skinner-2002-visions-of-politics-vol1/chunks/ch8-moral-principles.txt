@@ -1,0 +1,520 @@
+=== chunk: skinner-2002-visions-of-politics-vol1/ch8-moral-principles ===
+title: Moral principles and social change
+source_pdf: docs/sources/skinner-2002-visions-of-politics-vol1/full.pdf
+pdf_pages: 163-175
+page_scheme: pdf
+plan_page_start: 163
+plan_page_end: 175
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 163 ===
+
+                   Moral principles and social change
+
+                                                  I
+
+We need to be particularly suspicious of politicians and other public figures*who invoke high moral principles to explain their own behaviour.
+Such, at least, is the view of the most hard-headed of our historians. It is
+safe to assume, they tell us, that such professed ideals will be ex post facto
+rationalisations, and that the actions of such dubious characters will
+generally be undertaken for motives of a very different and often inadmissible kind. Among recent historians, Sir Lewis Namier has perhaps
+been the most influential proponent of this vision of politics, although it
+is ironic that his arguments in defence of his position often sound very
+like those of the Marxist historians whom he always professed to despise.
+Like many Marxists, Namier was committed to two connected claims
+about the interplay of principle and practice in public life. The first is that
+we are indeed justified in dismissing the ideals professed by politicians
+as so many attempts to invest their conduct with what Namier liked to
+describe as a spurious air of morality and rationality.’ ‘The second is that
+it follows from this that such principles play no causal role in bringing
+about their actions, and do not therefore need to figure in our explanations of their behaviour. As Namier summarised, “party names and cant’
+are mere epiphenomena, providing us with no guide at all to the actual
+motives and underlying realities of social and political life.’
+   Namier and his followers were assailed for their cynicism by less hardheaded historians who wished to insist that, as Herbert Butterfield put it,
+many public figures are ‘sincerely attached to the ideals’ for the sake of
+which they claim to act.3 According to historians of this persuasion, it will
+usually be indispensable to refer to the professed principles of politicians
+
+ This chapter is effectively a new piece of work, but the germ of it can be found in my article ‘Some
+ Problems in the Analysis of Political Thought and Action’ in Political Theory 2 (1974), pp- 277-303" Namier 1930, p. 147.      2 Namier 1957, p. Vii.      3 Butterfield 1957, p. 209.
+
+                                                UES)
+
+=== p. 164 ===
+
+146                       Visions ofPolitics: Regarding Method
+
+if we wish to explain their behaviour. To explain an action is normally to
+cite the goal that an agent wishes to bring about — corresponding to their
+motive for acting — together with the belief that the performance of the
+action will conduce to the attainment of the goal. If someone professes
+to be acting for the sake of a moral principle, and if the principle is
+genuinely their motive for acting, then it is obvious that the principle
+makes a difference to the action and will need to be cited in any attempt
+to explain it.
+   One weakness ofthis response, it seems to me, is that those who have
+argued in these terms have shown themselves unduly willing to endorse the basic premise of their adversaries. They have been willing, that
+is, to concede that the question of the relationship between principle
+and practice is equivalent to the question of whether people’s professed
+ideals ever serve as the determining motives for their behaviour. ‘They
+have thereby committed themselves to defending the generalisation that
+the sincere attachment of public figures to their professed principles constitutes their standard motive for action. This in turn has allowed their
+opponents to present an unrepentantly Namierite story in the form of
+a simple appeal to realism and common experience. They have taken
+their stand on the alternative empirical claim (which is usually taken to
+be far more plausible) that moral and political ideals, as one of Namier’s
+disciples has declared, are ‘rarely in themselves the determinants of
+human action’. From this they have inferred that, since it is agreed
+that such ideals only make a difference if they are motives, and since it
+is intuitively clear that they are rarely motives, it is obvious that we do
+not usually need to refer to people’s professed principles when we come
+to explain their behaviour.
+   It is this shared         assumption,       however,       that seems       to me      worth
+questioning.® Even if we concede that principles rarely function as motives, we are still left with at least one type of situation in which an agent’s
+professed ideals will nevertheless make a difference to their behaviour.
+This is the situation in which the agent is engaged in a course of action
+which is (as I shall put it) in some way questionable, and at the same
+time possesses a strong motive for attempting (in Weberian phrase) to
+legitimise it.’
+
+4 For examples see the discussion below in vol. 2, ch. 14, section III.    5 Brooke 1963-4, p. 341.
+  For a discussion of my ensuing argument see Gorman ef al. 1987.
+7 T examine further examples of this predicament in volume 2 of the present work. I consider the
+  development of early-modern theories of revolution from this perspective in volume 2 chapter 9,
+  and I consider the opposition to the whig oligarchy in eighteenth-century England from the same
+
+=== p. 165 ===
+
+   Consider, for example, the case in which Max Weber himself was
+principally interested, the case of those who devoted themselves to large-scale commercial undertakings in early-modern Europe.® The expected
+profits of these entrepreneurs gave them a recognisable motive for wanting to pursue their ventures unhindered. But the social and religious
+standards of their age were such that their conduct was liable to appear
+in a morally and even a legally dubious light. Conservative moralists
+were all too ready to inveigh against usurious ‘city cormorants’ for their
+‘wicked and un-Christian-like dealing’.'® As a result, the defenders of
+commerce were driven to retort that, as Lewes Roberts was to complain
+in his Treasure of Traffic in 1641, much more honour and respect are due
+to merchants than they ever receive."' Given this atmosphere of hostility,
+it was clearly desirable, perhaps even essential, for such entrepreneurs
+to be able ‘to describe their behaviour in such a way as to repulse or
+at least to override the widespread accusation that they were behaving
+avariciously and dishonestly. ‘They needed as a matter of some ideological urgency to legitimise what they were doing to those expressing such
+comprehensive doubts about the morality of their lives.
+    I next want to consider how the defenders of commercial society
+in seventeenth-century England set about this task of legitimising their
+conduct. My eventual aim will be to suggest that, if we examine the
+details of this historical case, we shall be able to uncover a further type of
+causal connection between the principles for the sake of which people
+profess to act and their actual courses of social or political action.
+   Before embarking on this enquiry, however, I need to concede that
+I have characterised the situation I want to investigate in an artificially
+simple way. I have implied that the sole reason for offering a legitimising
+description of a questionable action will be to commend it to others.
+I have thereby implied that there is no reason to suppose that we need
+to offer such descriptions for our own benefit, or even to believe in
+such descriptions at all. I have adopted this approach, however, only
+to avoid some complex empirical questions that in no way affect my
+general argument. It is obvious that anyone’s motives in the type of
+situation I am describing will usually be mixed and complicated, and it
+is arguable that the need to sustain an appropriate self-image may be of
+
+   perspective in volume 2 chapter 13. For a critique of the assumptions underlying these discussions
+   see Hollis 1974.
+ 8 Weber 1930, pp. 35~46.
+ 9 For Weber’s discussion of these hostilities see Weber 1930, pp. 56-63.
+1 Fennor 1965, pp. 441, 445-6.         " Roberts 1952, p. 83.
+
+=== p. 166 ===
+
+paramount importance. To preserve simplicity, however, I shall restrict
+myselfin what follows to what is, from my point of view, the hardest case:
+that of someone who never believes in any of their professed principles,
+and whose principles never serve in consequence as the motives of their
+actions. My aim will be to show that, even in this type of case, it still does
+not follow that there is no need to refer to their professed principles in
+order to explain their behaviour.
+
+                                                 II
+
+As my Weberian example will have made clear, the social actors in whom
+I am interested are those whom I shall describe (following Weber) as innovating ideologists. As I have indicated, I take their defining task to be
+that of legitimising some form of social behaviour generally agreed to
+be questionable. How can this task be successfully performed? As a preliminary to addressing this question, it will be helpful to focus attention
+on a body of words that perform an evaluative as well as a descriptive
+function in our language. They are used, that is, to describe individual
+actions’ and to characterise the motives for which they are performed.
+Whenever they are used to describe actions, however, they have the effect of evaluating them at the same time. The special characteristic of
+this range of terms is thus that — to invoke the jargon of the philosophers of language — they have a standard application to perform one
+of two contrasting ranges of speech acts. ‘They can be used, that is, to
+perform such acts as commending and approving — or else of condemning and criticising — whatever actions they are employed to describe.
+(Henceforth I shall inelegantly refer to them as “‘evaluative-descriptive
+terms.)
+   To focus on this body of words is to take over an insight developed by
+the so-called emotivists in moral philosophy, who contrasted the ‘emotive’
+with the ‘descriptive’ components of ethical terms."3 As J. O. Urmson
+pointed out, however, in making use of J. L. Austin’s theory of speech
+acts to clarify their argument, the emotivists in effect elided the distinction that Austin had marked when he spoke of the ‘illocutionary’ as
+opposed to the ‘perlocutionary’ acts we are capable of performing by our
+use of evaluative-descriptive terms. I have already sought in chapter 6 to
+expound the distinctions that Austin drew by means of these neologisms.
+
+  Or states of affairs. But I shall concentrate on actions.   "3 See especially Stevenson 1963.
+
+=== p. 167 ===
+
+Here I need only reiterate that, whereas an illocution is defined as an act
+performed i saying something, a perlocution is described as an effect,
+and hence as an act performed as a consequence of saying something.4
+The key contention (to which I shall return) is that it is possible to perform
+certain acts simply zn speaking or writing in a certain way.
+    After these preliminaries, I am ready to revert to the figure of the
+innovating ideologist. The sort of perlocutionary effects that such figures
+normally aspire to achieve are effects such as inciting or persuading
+or convincing their hearers or readers to adopt some novel point of
+view. But the question of whether they succeed in realising such hopes
+is not primarily a linguistic matter, but simply a matter for historical
+investigation. By contrast, the sort of illocutionary effects they can hope
+to aghieve will be effects such as evincing, expressing or soliciting approval
+or disapproval of the actions they describe. The question of whether they
+succeed in realising this sort of intention 1s essentially a linguistic matter,
+a matter of seeing how the terms in question are applied. This is what
+bestows on evaluative-descriptive terms their overwhelming ideological
+significance.
+    It is in large part by the rhetorical manipulation of these terms that
+any society succeeds in establishing, upholding, questioning or altering
+its moral identity. It is by describing and thereby commending certain
+courses of action as (say) honest or friendly or courageous, while describing and thereby condemning others as treacherous or aggressive or
+cowardly, that we sustain our vision of the social behaviour we wish to
+encourage or disavow. This being so, all innovating ideologists may be
+said to face a hard but obvious rhetorical task. ‘Their goal is to legitimise
+questionable forms of social behaviour. ‘Their aim must therefore be to
+show that a number of favourable terms can somehow be applied to their
+seemingly questionable actions. If they can bring off this rhetorical trick,
+they can hope to argue that the condemnatory descriptions otherwise
+liable to be applied to their behaviour can be overridden or set aside.
+  Two observations need to be added at this juncture, one emphatic, the
+other concessive. The point that perhaps needs to be emphasised is that,
+however revolutionary such ideologists may be, they will nevertheless be
+committed, once they have accepted the need to legitimise their actions,
+to showing that some existing favourable terms can somehow be applied as
+apt descriptions of their behaviour. All revolutionaries are to this extent
+
+                            ‘4 Urmson 1968, pp. 24-37.
+
+=== p. 168 ===
+
+obliged to march backwards into battle.'® To legitimise their conduct,
+they are committed to showing that it can be described in such a way that
+those who currently disapprove of it can be brought to see that they ought
+to withhold their disapproval after all. To achieve this end, they have no
+option but to show that at least some of the terms used by their ideological
+opponents to describe what they admire can be applied to include and
+thus to legitimise their own seemingly questionable behaviour.
+   The concessive point is that the situation in the real world is in at least
+one important respect more complicated than my model suggests. We
+cannot assume that innovating ideologists will necessarily apply to their
+behaviour whatever evaluative vocabulary is in fact best adapted to
+legitimising it. Rather they will apply the vocabulary that they happen
+to believe is best adapted to that purpose. But they may of course make
+a mistake or an irrational choice in assessing the best means to attain
+their ends.
+   We need to begin, however, by assuming their rationality. I have already explained in chapter 3 why this seems to me the right way to
+proceed, but it is perhaps worth recalling my central point. Suppose we
+begin by making this assumption and find it borne out. This will already provide us with an explanation for their behaviour. Suppose, on
+the other hand, we find on closer inspection that they were not behaving
+rationally. This will enable us to recognise that some further questions
+need to be answered if their behaviour is to be explained (the most
+obvious being: what prevented them from seeing that they were not behaving rationally?) Only if we begin by assuming rationality can we hope
+to identify what needs to be explained.
+   I now return to Max Weber and the innovating ideologists whom he
+discusses in The Protestant Ethic and the Spirit of Capitalism. Focusing on the
+early capitalists, Weber shows how they represented their behaviour in
+terms of the concepts normally used to commend an ideal of the religious life, emphasising their dedication to their calling and their careful
+and painstaking lives.'® As he indicates, this was undoubtedly a rational
+choice for them to make. Not only were they right to see that, if they
+could apply such concepts to their own behaviour, this would provide
+them with a powerful legitimising device. They were also right to see
+that it was plausible to make the attempt. The Protestant conception
+') Here I respond to those critics who complain that my approach involves ‘the denial of the
+   possibility of new insights’ and blinds me to moments of creativity. For these objections see
+   respectively Parekh and Berki 1973, p. 168 and Schochet 1974, pp. 270-1.
+‘© Weber 1930, pp. 49-50 (quoting Benjamin Franklin); on the calling see pp. 79-84.
+
+=== p. 169 ===
+
+of the calling echoed their own worldly asceticism, and there were many
+affinities between the distinctively Protestant ideal of individual service
+and devotion to God and the commercial belief in the importance of
+duty, service and devotion to one’s work.!7
+   How did the early capitalists manage to exploit these affinities? Weber
+undertook no investigation into the rhetorical strategies of those who
+spoke for them, but it seems to me that two principal means are available
+to any innovating ideologist who aspires to apply a prevailing moral
+vocabulary to legitimise a questionable way of life. The first may be said
+to consist of manipulating the speech act potential of certain evaluative
+terms. ‘The aim is to describe your actions in such a way as to make it
+clear to your ideological opponents that, although you may be employing
+a vacabulary generally used to express disapproval, you are using it to
+express approval or at least neutrality. The point of the strategy is to
+challenge your opponents to reconsider the feelings of disapproval they
+normally express when they use the terms concerned.
+   There are two broad tactics available to anyone attempting to bring
+off this first strategy. You can try in the first place to introduce new and
+favourable terms into the language. There are in turn two possibilities
+here. One is simply to coin new terms as the descriptions of allegedly new
+principles, and then apply them as descriptions of whatever questionable
+actions you wish to see commended. ‘This appears to be the tactic that
+most commentators have had in mind when they have discussed the
+phenomenon of ‘altered meanings and new words’ in social and political
+debate.'® But this is obviously an excessively crude device, and it is rare
+to find it employed in ideological argument. There is, however, one
+important instance of it in the case of the ideology with which Weber
+was concerned. The word frugality provides an example of an evaluative
+term that first came into widespread use towards the end of the sixteenth
+century to describe a motive and a form of behaviour for which approval
+was beginning to be widely sought.
+   I turn to the other and commoner version of the tactic. This consists
+of transforming a neutral into a favourable term (usually by metaphorical extension) and applying it in virtue of its extended meaning
+to describe the course of action you wish to see commended. We
+encounter many instances of this sort of transformation among those who
+wrote in defence of early-modern commercial life. The metaphorical
+
+'7 On the worldly asceticism of the early capitalists see Weber 1930, esp. pp. 42, 72, 80, 166, 180.
+'8 See for example Parekh and Berki 1973, p. 168.
+
+=== p. 170 ===
+
+(and hence evaluative) uses of such words as discerning and penetrating, for
+example, first make their appearance in the language at the relevant
+time to describe a range of talents that many people had come to have
+a special reason for wishing to see commended.
+   The other broad tactic consists, more boldly, of seeking to vary the
+range of speech acts usually performed with existing unfavourable terms.
+Again there are two possibilities here. The more usual is to apply a term
+normally used to express disapproval in such a way as to neutralise it.
+One clear and ultimately successful instance of this tactic in the case of
+the ideology I am examining is provided by the word ambition. It was
+only in the course of the early-modern period that the word began to
+acquire its current neutral uses. It had previously been applied almost
+exclusively to express strong disapproval of whatever courses of action it
+had been employed to describe.
+   The other and more dramatic possibility is to reverse the speech act
+potential of an existing unfavourable term. An equally clear and successful example of this tactic in the case of the ideology I am examining is provided by the history of the words shrewd and shrewdness.
+Before the early seventeenth century these terms were almost always
+used to express disapproval and even contempt. During subsequent generations, however, their appraisive force began to be reversed, eventually
+leaving them with the standard use they continue to fulfil as terms of approbation, especially approbation of commercial good sense.
+   It is also possible to employ a mirror image of both these tactics.
+You can try in the first place to coin new and unfavourable terms to
+challenge accepted norms of behaviour. This happened in the case
+of the ideology I am considering with the associated ideas of being a
+spendthrift and squandering one’s substance. Both these phrases came into
+widespread use towards the end of the sixteenth century to express
+a new distaste for the aristocratic ideal of conspicuous consumption
+and a new approval of what Richard Eburne in his treatise on colonies
+of 1624 was to call ‘godly parsimony’.' You can also try to turn neutral
+into unfavourable terms by metaphorical extensions of their usage. A
+closely associated example from the same period is provided by the
+notion of behaving exorbitantly, a word that first acquired its metaphorical
+(and hence evaluative) applications in the early seventeenth century as a
+means of condemning obvious failures of godly parsimony. Finally, you
+can seek to reverse the speech act potential of existing commendatory
+                           . '9 Eburne 1962, p. 85.
+
+=== p. 171 ===
+
+terms, as happened in this period with such words as obsequious and
+condescending. ‘These and associated descriptions were widely used
+throughout the sixteenth century to express approval, only mutating
+into terms of disapprobation once the underlying ideal of an aristocratic
+and hierarchical society began to be widely challenged.
+   I turn to the second strategy, which is at once much simpler and of
+very much greater significance. This consists of manipulating the criteria
+for applying an existing set of commendatory terms. The aim in this case
+is to insist, with as much plausibility as can be mustered, that in spite
+of contrary appearances a number of favourable terms can be applied
+as apt descriptions of your own apparently questionable behaviour. The
+aim is to challenge your ideological opponents to reconsider whether
+thear use of the prevailing vocabulary of appraisal may not be socially
+insensitive’ You urge them, in effect, to admit that they are failing to
+recognise that the ordinary criteria for applying a range of favourable
+descriptions are present in the very actions they see as questionable.
+   This particular rhetorical strategy has been little studied, but it seems
+to me to constitute one of the most widespread and important forms of
+ideological argument. Certainly it was extensively employed in the case
+of the ideology Iam examining. It was essentially by these means that the
+attempt was made to connect the principles of Protestant Christianity
+with the practices of early-modern commercial life.*° Consider, for example, the two most important words in the religious vocabulary of the
+age, the word providence and the word religious itself. During the latter part
+of the sixteenth century, it began to be suggested by those who wished
+to commend the successful exercise of care and foresight in monetary
+affairs that this apparently miserly conduct ought instead to be seen as
+a commendable working of providence and hence as a provident form
+of behaviour. At the same time, those anxious to propagate these values
+began to suggest that their characteristic interest in punctuality and exactitude ought not to be condemned as excessively rigorous and severe, but
+ought instead to be recognised and commended as a genuinely religious
+form of commitment.
+   The best proof of the ideological motives at work in these new patterns of social description is that the meanings of these words soon became stretched and confused. The term providence began to be applied
+to refer simply to acting with foresight about practical affairs. When, for
+
+20 For a classic account of the economic thought of the writers with whom I am concerned see
+  Supple 1959, esp. pp. 211-24.
+
+=== p. 172 ===
+
+example, John Wheeler in his Treatise of Gommerce of 1601 wrote in defence
+of the Merchant Adventurers, he praised their foresight in distributing
+‘the benefites, and commodities of the Companie to all the members
+of the same, so much, as is possible with great providence and equitie
+ordained’.2! When William Alexander similarly wrote in defence of the
+Virginia settlers in his Encouragement to Colonies of 1624, he too singled out
+their ‘provident forwardnes’ as a cause of their ‘good successe’, adding
+that the recent settlers in New Plymouth were proving no less successful in learning to ‘governe themselves after a very civill and provident
+manner’.2? Soon afterwards we find Lewes Roberts speaking in similar
+terms in his Treasure of Traffike of 1641. He praises ‘the care and industrious prudence’ of rulers who encourage overseas trade, noting that
+their foresight is reflected in their ‘provident decrees’ and reminding us
+at the same time that ‘want of this care, and provident foresight hath lost
+many kings the traffike of their Kingdomes’.*
+   Meanwhile the ideal of acting religiously began to be invoked simply
+to refer to instances of diligent and punctilious behaviour. We encounter
+this usage as early as John Wheeler’s Treatise of Commerce, in which he
+praises the freedom of trade originally permitted to the English in the
+Low Countries. These ‘auncient freedomes, and liberties of the Empire’,
+he remarks, were ‘freelie yielded, and so longe Religiouslie mainteyned,
+and kept as well towardes all the subjects, as towardes all the friendes,
+& Allies of the same’.*+ We encounter a yet clearer instance of the new
+usage in Thomas Mun’s Discourse of Trade in 1621. Mun calls on his fellow-countrymen in his peroration ‘to stirre up our minds, and diligence, to
+helpe the naturall commodities of this Realme by industrie, and encrease
+of Arts’. One way of exercising this thoughtfulness, he goes on to propose,
+will be to remind ourselves that ‘for the better furtherance thereof, we
+ought religiously to avoid our common excesses of food and rayment’.*5
+By the time we come to Lewes Roberts and his Treasure of Traffike in
+1641, we find the new usage fully entrenched. Dedicating his treatise to
+the two Houses of Parliament, Roberts refers to their ‘serious present
+affaires’ and describes them as ‘religious Pilots’ who ‘guide the helme of
+our Kingdome with your hand’.?°
+   It might be objected that what I am illustrating is the failure of such
+propagandists as Wheeler, Mun and Roberts to present their activities
+
+           21 Wheeler 1931, p. 272.       2 Alexander 1624, pp. 30-1.
+           *3 Roberts 1952, pp. 102, 105.     *4 Wheeler 1931, pp. 179-80.
+           *9 [Mun] 1952, pp. 46-7. For the attribution see McCulloch 1953, p. v.
+           26 Roberts 1952, p- 5I.
+
+=== p. 173 ===
+
+as genuine embodiments of spiritual and God-fearing values, and hence
+as genuine instances of religious behaviour. Certainly the effect of their
+rhetoric is sometimes to leave the reader feeling not that they have successfully vindicated the pious character of their enterprises, but merely
+that they have employed a number of key religious terms in an idiosyncratic way. It is by no means clear, however, that they simply overreached
+themselves. If we consider the variety of ways in which the term religious
+came to be used in the later seventeenth century and beyond, we begin
+to appreciate the extent to which they scored an audacious success. Not
+only did people increasingly begin to speak of purely diligent and punc-tihous behaviour as religious. They began to do so in part because they
+evidently came to accept a broader sense of what might count as religious
+behaviour. The old watchword /aborare et orare — that we must work and
+pray — yielded place to the more comforting suggestion that laborare est
+orare — that to work 1s to pray. By this stage, the sense of what it means to
+follow a genuinely religious life had been transformed. The rhetoric
+of the writers I have been considering helped to construct for their
+descendants a new and more comfortable world.
+
+                                      III
+
+I turn to the general claim I take to be underpinned by my Weberian
+example. ‘Those who have argued about the relations between moral
+principles and social behaviour in the manner popularised by such historians as Sir Lewis Namier have presented their readers, it seems to
+me, with a non sequitur. It does not follow, as they appear to believe,
+from the fact that someone’s professed principles may be ex post facto
+rationalisations that those principles play no role in explaining their
+behaviour. As I have argued, this is to ignore the implications of the
+fact that people generally possess strong motives for seeking to legit-imise any conduct liable to appear questionable. One implication is that
+they will generally find it necessary to claim that their actions were
+in fact motivated by some accepted principle. A further implication 1s
+that, even if they were not motivated by any such principle, they will
+find themselves committed to behaving in such a way that their actions
+remain compatible with the claim that their professed principles genuinely
+motivated them. To recognise these implications is to accept that the
+courses of action open to such agents will in part be determined by the
+range of existing principles they can hope to profess with some degree of
+plausibility.
+
+=== p. 174 ===
+
+   There is a general and a more specific conclusion to be drawn out here.
+The general conclusion derives from the fact that any course of action
+will be inhibited to the degree that it cannot be legitimised. Any principle
+that helps to legitimise a course of action will therefore be among the
+enabling conditions of its occurrence. The more specific conclusion
+derives from the fact that the range of terms that innovating ideologists
+can hope to apply to legitimise their behaviour can never be set by
+themselves. The availability of such terms is a question about the prevailing morality of their society; their applicability is a question about
+the meaning and use of the terms involved, and about how far these can
+be plausibly stretched. These factors serve as rather specific constraints
+and directives to those considering what lines of conduct may afford
+them the best means of bringing their questionable behaviour in line
+with some accepted principle, thereby legitimising their conduct while
+at the same time getting what they want. They cannot hope to stretch
+the application of existing terms indefinitely; so they can only hope to
+legitimise, and hence to perform, a correspondingly restricted range of
+actions. To study the principles they invoke will thus be to study one of
+the key determinants of their behaviour.
+   Even if these conclusions seem acceptable, it might still be felt that
+in revisiting Max Weber’s example I have chosen to illustrate them in
+an unfortunate way. It has become a commonplace to insist that we
+must reject any suggestion that the principles of Protestant Christianity
+played a causal role in the development of capitalist practices. As Hugh
+Trevor-Roper has dismissively remarked, any such theory ‘is exploded
+by the simple fact’ that ‘large scale industrial production’ already existed
+before the Protestant reformation.*/ Itis true that, if Weber supposed that
+a pre-existing Protestant ethic constituted a necessary condition of the
+rise of capitalism, then his theory is undoubtedly refuted by showing
+that the emergence of capitalism predated the rise of Protestantism. But
+Weber was not greatly interested in such alleged connections,”® although
+it must be admitted that R. H. Tawney’s reworking of Weber’s thesis in
+Religion and the Rise of Capitalism 1s more vulnerable to this line of attack.9
+
+*7 ‘Trevor-Roper 1967, pp. 21-2.
+28 Weber 1930, p. 91 explicitly rejects the thesis ‘that capitalism as an economic system is a creation
+   of the Reformation’, pointing out that ‘the fact that certain important forms of capitalistic business
+   organisation are known to be considerably older than the Reformation is a sufficient refutation
+   of such a claim’.
+*9 See Tawney 1938, in which Lutheranism is viewed (pp. 92—5) as socially conservative, but in which
+   the doctrines of Calvinism are claimed (pp. 111~27) to have given new and special encouragement
+   to unfettered forms of business and commercial life.
+
+=== p. 175 ===
+
+Whereas ‘Tawney may have viewed the Protestant reformation as a causal
+condition of capitalist development, however, Weber is I think more
+plausibly interpreted as claiming that the Protestant ethic was peculiarly
+well-adjusted to /egitimising the rise of capitalism, and that it was in this
+way that it helped commercial society to develop and flourish.
+   My own argument can thus be read as an attempt to reinterpret
+what I take to have been one of Weber’s underlying purposes in his
+celebrated series of articles. I do not wish, however, to press the point of
+interpretation here. I only wish to emphasise that, even if Trevor-Roper’s
+strictures can be shown to point to a weakness in Weber’s argument,
+they cannot be shown to point to any weakness in the argument I have
+myself tried to advance. My suggestion that Protestantism played a role
+in helping to legitimise (and thus to encourage) the rise of capitalism is
+based on assuming, not denying, that capitalism predated Protestantism.
+What I have tried to show is that it does not follow from this fact — as
+‘Trevor-Roper seems to believe — that Protestantism had no causal role to
+play in the development of capitalism. ‘This is to ignore the fact that the
+earliest capitalists lacked legitimacy in the moral climate in which they
+found themselves. ‘They therefore needed, as a condition of flourishing,
+to find some means of legitimising their behaviour. As I have shown, one
+of the means they found was to appropriate the evaluative vocabulary of
+the Protestant religion — greatly to the horror of the religious, who saw
+themselves as the victims of a trick.
+   If it was a trick, however, it certainly worked. ‘The distinctive moral
+vocabulary of Protestantism not only helped to increase the acceptability
+of capitalism, but arguably helped to channel its evolution in specific
+directions, and in particular towards an ethic of industriousness. The
+relative acceptability of this new pattern of social behaviour then helped
+in turn to ensure that the underlying economic system developed and
+flourished. It is for this reason that, even if the early capitalists were never
+genuinely motivated by the religious principles they professed, it remains
+essential to refer to those principles if we wish to explain how and why
+the capitalist system evolved.
+

@@ -1,0 +1,378 @@
+=== chunk: williamson-2018-doing-philosophy/ch8-history-of-philosophy ===
+title: Using the History of Philosophy
+source_pdf: docs/sources/williamson-2018-doing-philosophy/full.pdf
+pdf_pages: 109-121
+page_scheme: book
+plan_page_start: 98
+plan_page_end: 110
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 98 ===
+
+                                
+             Using the History
+              of Philosophy
+
+                   Is Philosophy History?
+If you enter a university department of philosophy, you soon find
+that much—in some places, most—of what’s taught there is
+history of philosophy. By contrast, little or none of what’s taught
+in a department of mathematics or natural science is history of
+mathematics or of natural science. Occasionally, names of mathematicians or scientists are attached to discoveries, but students
+aren’t expected to know how they came to make them, still less to
+read their original writings, in which those results may be unrecognizable, so alien are the outlook and language. Meanwhile,
+philosophy students have to read books, or large chunks of
+them, by long-dead great philosophers, at least in translation.
+Philosophy seems to have a different relation to its past from
+that of mathematics and natural science to their pasts.
+   Few philosophers are happy to leave the history of philosophy
+to history departments. When past philosophers are studied
+
+=== p. 99 ===
+
+                                  Using the History of Philosophy 
+
+there, it’s called ‘history of ideas’. More attention is paid to their
+lives, their social, political, religious, and cultural contexts and
+constraints, the circumstances in which they developed, wrote,
+and taught, what they read and who influenced them, what they
+took for granted and what they were reacting against, who they
+were writing for, what contemporary effects their works were
+intended to have or actually did have, and so on. When the same
+philosophers are studied in philosophy departments, it’s called
+‘history of philosophy’. The main focus is on what is in their work
+itself rather than its interconnections with its surroundings at the
+time. The aim is to understand the content as a living, coherent
+system of thought that still makes sense to us today.
+   The history of philosophy is part of philosophy. Still, there is a
+distinction between putting forward a theory as what some philosopher held and putting it forward as true. Scholarly historians of
+philosophy are usually clear about the difference: they are asking
+what theory the philosopher held, not what theory is true. Unfortunately, there is another widespread kind of philosophical writing that blurs the line. Some overwhelming thinkers, such as the
+great German philosopher Immanuel Kant (–), are often
+written about like that. When you read, “We cannot know things
+in themselves”, it is left unclear whether the writer is just claiming
+that Kant thought that we cannot know things in themselves, or is
+actually endorsing Kant’s view by claiming in their own voice that
+we cannot know things in themselves. Confusing the two claims
+is defensively convenient, for it enables the author to dismiss
+criticisms aimed at the first claim as missing the point of the
+second, and criticisms aimed at the second claim as missing
+the point of the first. If you argue that it’s wrong as history, the
+
+=== p. 100 ===
+
+ Using the History of Philosophy
+
+response is to talk about things in themselves. If instead you argue
+that it’s wrong as philosophy, the response is to talk about Kant.
+Often, such writing is neither good history nor good philosophy.
+   On one view, philosophy just is the history of philosophy,
+because there is nothing else for it to be. That view has been
+very influential, especially in continental Europe, though it is now
+losing ground. A friend of mine, an Italian philosopher, first
+visited Oxford University in the late s. She found it charmingly naive that people there were still trying to solve philosophical
+problems. She had been educated, she explained, in a philosophical culture which took for granted that fundamentally different
+systems have no common ground on which to base a decision
+between them. On that view, we cannot meaningfully ask which
+of them is objectively true; we can only think within one historically given system or another, even if we are trying to subvert it
+from within. I am sometimes asked which philosopher I work on,
+as though that is what any philosopher must do. I reply Oxford-style: I work on philosophical problems, not on philosophers.
+   The idea that philosophy can only be the history of philosophy
+is self-defeating, for it is itself a controversial philosophical
+option, which we are under no obligation to accept. It is not
+supported by evidence. Hardly any of the philosophers studied
+in the history of philosophy, such as those mentioned in this
+book, themselves wrote on the history of philosophy. Their
+objective was not to interpret other philosophers’ theories, or
+even their own, but to construct such theories in the first place,
+for instance about the mind and its place in nature, not radically
+different from scientific theories. The same applies to most of the
+theories being developed in philosophy today. Moreover, as
+
+=== p. 101 ===
+
+                                   Using the History of Philosophy 
+
+already seen, there are ways of deciding rationally between such
+theories. Identifying philosophy with the history of philosophy is
+a deeply unhistorical attitude, because it is unfaithful to that
+history itself. Although studying the history of a philosophical
+problem (such as free will) is one way of studying that problem,
+many ways of studying the problem are not ways of studying its
+history, just as studying a problem in mathematics or natural
+science is typically not studying its history. Fortunately, the history of philosophy can be and is studied with no imperialist
+ambition for it to take over the whole of philosophy.
+
+                  Monuments and Influence
+One can explore the history of philosophy as a sort of intellectual
+tourist. Just as an atheist can wander in admiration and awe
+through a great temple, cathedral, or mosque, so one can read
+great monuments of philosophy while rejecting the theories they
+express. Some works, such as Plato’s dialogues, are unforgettable
+masterpieces of literature with obviously artistic qualities of prose
+style, imagery, and dramatic form. Others, such as Kant’s Critique of
+Pure Reason () and Georg Wilhelm Friedrich Hegel’s Phenomenology of Spirit (), are turgidly written but still constitute tremendous works of art by their towering, intricate architecture of ideas.
+   Of course, even if a building is breathtaking at first sight, the
+less one understands about its structure and function and how
+they correspond—for instance, how a temple’s spatial layout
+enabled movements through it to express religious and social
+meanings—the more superficial is one’s appreciation. The same
+goes for philosophical works. Once one has an intelligent,
+
+=== p. 102 ===
+
+   Using the History of Philosophy
+
+well-informed guide, one realizes how much one was missing as
+an ignorant tourist. One learns and values more on every visit.
+Already at this level, studying the history of philosophy repays
+the effort.
+    A great work of philosophy tells a new story about how things
+are, of a very general, abstract kind. Usually, the author intended
+the story to be true, but even if it is false, it may still be a good
+story, and we may enjoy it as such, without illusions. For example,
+in Treatise Concerning the Principles of Human Knowledge ()
+and Three Dialogues between Hylas and Philonous (), the Irish
+philosopher-bishop George Berkeley developed the subjective idealist view that reality consists of nothing but minds and their ideas,
+of which trees, tables, and other observable objects are constructs.
+Cheekily, he argued for his theory as the best defence of common
+sense and religion against a purely scientific post-Newtonian
+world view. One might wonder: with friends like Berkeley, who
+needs enemies? But even if we find subjective idealism an outrage
+to common sense, we can still enjoy the experience of viewing
+things through its spectacles, and admire Berkeley’s skill in building an elegant and surprisingly robust edifice out of such flimsy
+immaterial material.
+    Apart from the intrinsic interest and beauty of philosophical
+ideas, their history is one key to human history in general. As
+Berkeley illustrates, much of the battle of ideas between religious
+and scientific world views has been fought out within philosophy.
+The word ‘idea’ itself goes back to Plato. The Austrian
+philosopher-scientist Ernst Mach (–) influenced both
+Robert Musil’s novel The Man Without Qualities and Albert
+Einstein’s theory of general relativity. Many political arguments
+
+=== p. 103 ===
+
+                                 Using the History of Philosophy 
+
+are defined in terms of philosophical ideas like human rights. Less
+benignly, the official doctrine of Stalin’s Soviet Union was dialectical materialism, rooted in nineteenth-century German philosophy.
+False theories as well as true ones have effects.
+   In early twentieth-century logic, a question arose that was both
+mathematical and philosophical: what does it mean to have a
+‘definite method’ for solving a mathematical problem without
+need of creativity? To answer the question, Alan Turing devised
+an abstract theory of imaginary universal computing machines. Later,
+in an attempt to break German codes during World War II, he
+actually built such a machine. Its success helped defeat Nazism.
+That was the origin of modern computers, which have transformed our world. It is hard, or impossible, to predict in advance
+what effect a philosophical idea will have on history.
+   Turing is a reminder that the historical effect of a philosophical
+theory can depend on its exact content, not just its general
+tendency. If his theory had been slightly different in detail, it
+might have been incapable of doing the technical job, and so
+would not have produced working computers.
+   Which ideas have influence in philosophy depends on which
+look convincing or at least promising to other philosophers.
+Scholars who only think as historians, not as philosophers, may
+lack the philosophical skills to judge how an idea would have
+looked to past philosophers. Such historians are not even best
+placed to judge what ideas a past philosopher was expressing in a
+given text. For historical texts are often hard to interpret. Sometimes only part of a manuscript is preserved. Sometimes several
+versions of a work survive, differing from each other at crucial
+points. Even without those problems, words and grammar may
+
+=== p. 104 ===
+
+ Using the History of Philosophy
+
+be multiply ambiguous. Even if the literal meaning is clear, it may
+be unclear what the author is getting at, how an argument is
+meant to work, whether a given statement is being endorsed or
+just set up for later demolition, what moral the reader is expected
+to draw, and so on. To determine how the text should be read, one
+must compare various alternative interpretations, to see which
+makes the most sense. An interpretation that makes the text
+internally inconsistent is less likely to be what the author
+intended. Judging the internal coherence of a sophisticated philosophical text requires philosophical skills which those who think
+as historians rather than philosophers may lack. That is why
+historians of philosophy must be capable of thinking as philosophers, though they must also be capable of thinking as historians. If you don’t know that the Roman Catholic Church had the
+Italian philosopher-scientist Giordano Bruno burnt at the stake in
+February  for heresy, you can’t consider how that event may
+have influenced what seventeenth-century philosophers wrote or
+didn’t write.
+
+       Can the History of Philosophy Help Solve
+               Philosophical Problems?
+Suppose that you are interested in contemporary philosophical
+problems. Will your ability to make progress with them be
+impeded if you ignore past philosophy?
+   If you really ignore all past philosophy, that includes the past
+thirty years. You would be trying to redo philosophy from
+scratch. That would be no more sensible than trying to redo
+mathematics or physics from scratch, ignoring all previous
+
+=== p. 105 ===
+
+                                Using the History of Philosophy 
+
+discoveries. With luck, you would reinvent the wheel. Alternatively, you might invent the square wheel. That’s no reflection on
+you personally. In all these areas, we have reached where we are
+now through the combined efforts of hundreds of brilliant
+thinkers over thousands of years. No one individual human
+could achieve in a lifetime what they achieved together. There is
+a myth of the lone genius, thinking everything out for themselves
+in glorious isolation. That is not how philosophy or mathematics
+or natural science works. Although much has been achieved there
+by solitary thought, it was done by thinkers who had already
+learned much from the work of others. Perhaps the closest to a
+counterexample was the Indian mathematical genius Srinivasa
+Ramanujan (–), but even he started from textbooks.
+Still less do good philosophers appear like gurus from the wilderness. Philosophy advances by rationally comparing rival ideas,
+through dialogue, not monologue. One must be involved in the
+conversation to know which ideas have been proposed as rivals to
+one’s own, and what common ground one has with their proponents to start from in arguing against them. The lone guru lacks
+such knowledge. Two gurus must learn to listen as well as talk to
+each other.
+   In practice, those who make significant original contributions
+to philosophy are well acquainted with the recent work of other
+philosophers. To that extent, philosophy resembles mathematics
+and natural science. The controversial issue is whether philosophers need much more knowledge of the less recent history
+of their subject than mathematicians and natural scientists need of
+theirs. Has contemporary philosophy already absorbed all the
+significant insights of earlier work?
+
+=== p. 106 ===
+
+ Using the History of Philosophy
+
+   One point is this. It’s hard to know what assumptions present
+philosophy takes for granted until one encounters past philosophy that did not take them for granted. That’s part of the value of
+taking them for granted: in order not to waste time thinking about
+them. But philosophers typically want to detect their assumptions, not let them fly under the radar. “The unexamined life is not
+worth living,” said Socrates, according to Plato. Examining one’s
+life involves identifying what one has been taking for granted. For
+instance, many contemporary philosophers assume that moral
+duties always outweigh aesthetic considerations of beauty and
+ugliness, unaware that they are making a substantive assumption.
+Reading Friedrich Nietzsche could alert them to alternatives, and
+perhaps make them question their assumption. Of course, not
+only reading past philosophy can have that effect. If they moved
+to Italy (as Nietzsche did), they might understand how that low
+view of aesthetic values can look less compelling than it does in
+north-west Europe and North America, cultures heavily influenced by Protestantism. But studying the history of philosophy
+is one good way of achieving that kind of culture shock.
+   Once we recognize our assumption, we may reject it as false or
+unwarranted—sometimes a liberating experience, sometimes a
+scary one. But we may instead continue to accept it, now consciously. We may try to give it further support. From the history
+of philosophy, we may learn where it comes from. It’s good to
+know one’s intellectual ancestry.
+   At any time, only a limited range of ideas are under discussion
+in philosophy. Knowing more of its history expands one’s
+resources. Like good mathematicians, good philosophers have
+lots of different examples and strategies up their sleeve, to use as
+
+=== p. 107 ===
+
+                                  Using the History of Philosophy 
+
+needed. The history of philosophy is a prime source for such
+examples and strategies.
+   The historical record serves another purpose too. Most philosophical ideas start vague. They can be developed and sharpened
+in many different ways. The test of an idea is whether at least one
+such version works. If so, the idea is good: that other versions of it
+don’t work doesn’t matter. We shouldn’t rely on opponents of the
+original idea to find the best version of it. They want it to fail, and
+so are likely to give up too easily. It’s up to the idea’s supporters to
+find its best versions. If the most intelligent and ingenious of them
+struggled for many years to make it work, and still failed, that’s
+excellent evidence against the idea. It’s stronger than any one
+precise argument, for the latter will refute some versions of the
+idea but not others.
+   An example is the verification principle, advocated by so-called
+logical positivists like Rudolf Carnap from the s onwards. The
+rough idea was that to make a meaningful statement about the
+world you must say something that can be verified or falsified by
+observation. The intention was to include scientific statements
+while excluding unscientific ones. Logical positivists made
+numerous clever attempts to find a precise version of the verification principle. All failed, because they turned out either to
+include obviously unscientific statements or to exclude obviously
+scientific ones, from the logical positivists’ own perspective. That
+track record of failure is a more powerful argument against the
+very idea of the verification principle than the individual refutation of any specific version. If there were a workable version of the
+verification principle, the logical positivists would have found it.
+Although convoluted attempts to find that holy grail of logical
+
+=== p. 108 ===
+
+ Using the History of Philosophy
+
+positivism are occasionally still made, they have gone nowhere.
+To use the helpful terminology of the philosopher of science Imre
+Lakatos (–), logical positivism is a degenerating research pro-gramme. The history of philosophy keeps the track record of such
+efforts. It gives us evidence that an idea is no good, because attempts
+to make it work led to a degenerating research programme.
+   In modern times, few philosophical developments have been
+directly inspired by much earlier work. Even when the older precedents were clear in retrospect, the new ideas often had to be
+discovered independently before the similarity could be recognized.
+   For example, the idea of a possible world—a fully detailed course
+of events the universe could have taken—has turned out to be
+central, technically and philosophically, to understanding the
+meaning and logic of modal verbs such as ‘can’ and ‘must’, ‘may’
+and ‘ought’. What’s possible is what holds in some possible world;
+what’s necessary is what holds in every possible world. In the actual
+world, you are reading this book; in another possible world, this
+book was never written. Three hundred years ago, Leibniz already
+wrote about possible worlds. Unlike modern philosophers, he
+conceived them as ideas in the mind of God, who chose which
+one to actualize. God chose this one because it is the best of all
+possible worlds, Leibniz implausibly claimed. But he did not
+inspire modal logic, which had to develop in its own way, until
+in the s Carnap found a key technical role for what he called
+‘state descriptions’, not ideas in the mind of God but consistent
+and complete stories in words. He then remarked that his state
+descriptions were analogous to Leibniz’s possible worlds. Without the independent development of modal logic, the utility of
+possible worlds would have been unappreciated.
+
+=== p. 109 ===
+
+                                Using the History of Philosophy 
+
+   Philosophy is not very different from other disciplines in how
+its history helps generate new ideas. Still, the history is used more
+than in mathematics and natural science. Why?
+   Perhaps more than any other discipline, philosophy is willing
+to question its own assumptions, as well as those of others. When
+mathematicians question basic mathematical assumptions, or
+physicists question basic physical assumptions, they tend to be
+reclassified as philosophers. But when philosophers question
+basic philosophical assumptions, they still count as philosophers.
+Since they keep returning to basics, they have more in common
+with their distant predecessors: hence a role for the history of
+philosophy.
+   Of course, progress in mathematics and natural science often
+depends on not questioning basic assumptions, but instead building on them. Such activity is ‘normal science’, in the words of the
+physicist, historian, and philosopher of science Thomas Kuhn
+(–). Only when normal science hits a crisis is there a return
+to basics, and a questioning of them, often followed by a scientific
+revolution, according to Kuhn. Much contemporary philosophy
+is ‘normal philosophy’, building on assumptions without questioning them; then the history of philosophy plays only a minor
+role. However, philosophy also includes more revolutionary or
+would-be revolutionary activity than most disciplines do, because
+its traditional intellectual values so encourage and reward the
+questioning of basic assumptions. The history of philosophy
+plays a correspondingly larger role.
+   Surely it is good for our culture to have a discipline as ready to
+question basic assumptions as philosophy is. But one that routinely questions every assumption will do no more good than
+
+=== p. 110 ===
+
+ Using the History of Philosophy
+
+children who ask “Why?” whatever they are told. We cannot
+expect explanations and justifications to go on forever. Putting
+all one’s assumptions on hold just means intellectual paralysis.
+We need knowledge to guide our questioning and determine our
+priorities. Philosophy must achieve a delicate balance between
+questioning assumptions and putting them to work. The abduc-tive method, described in Chapter , helps achieve that balance.
+

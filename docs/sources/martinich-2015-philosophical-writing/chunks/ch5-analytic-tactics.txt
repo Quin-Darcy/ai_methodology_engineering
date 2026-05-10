@@ -1,0 +1,1794 @@
+=== chunk: martinich-2015-philosophical-writing/ch5-analytic-tactics ===
+title: Tactics for Analytic Writing
+source_pdf: docs/sources/martinich-2015-philosophical-writing/full.pdf
+pdf_pages: 130-181
+page_scheme: pdf
+plan_page_start: 130
+plan_page_end: 181
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 130 ===
+
+Tactics for Analytic Writing
+A number of different tactics are used in analytic writing, construed
+broadly. Seven of the most important and widely used of these tactics
+are discussed in this chapter: definitions, distinctions, analysis (in a
+narrow sense), dilemmas, counterexamples, reductio ad absurdum
+arguments, and dialectical reasoning. Since these topics are rather
+technical, I want to introduce all of them together before discussing
+each more completely in the seven sections of the chapter (but I will
+briefly discuss them out of the order in which they are presented in the
+sections below). Let me begin with dilemmas.
+Dilemmas are useful for setting out problems. A dilemma makes
+obvious some apparently contradictory aspects of widely held beliefs.
+Since dilemmas need to be solved by some means, some methods of
+problem solving need to be discussed.
+Reductio ad absurdum is one of these methods. It is a way of proving
+one’s own thesis indirectly by showing that the denial of that thesis is
+absurd and hence false. Since the direct opposite of your thesis is
+absurd and false, your own thesis must be true.
+A counterexample is a way of showing that some proposed solution or
+thesis is not a correct one; it shows that something is incorrect without
+showing directly what particular solution or thesis is correct. The
+method of counterexamples is a method of criticism, not theory
+construction.
+Dialectical reasoning is a way of thinking that can be adapted to a way
+of structuring an essay. It begins with a simple and unqualified thesis,
+subjects it to criticism, revises and reformulates it several times until a
+complex, sophisticated and adequate thesis is arrived at. Dialectical
+writing, which is an orderly record of dialectical reasoning, is a kind of
+intellectual travelogue, in which all the important side-trips are
+recorded as adventures necessary for reaching the traveler’s ultimate
+destination.
+
+=== p. 131 ===
+
+Dialectical reasoning can also be used as a rhetorical tactic in doing
+something called “analyzing a concept.” Conceptual analysis is the task
+of breaking down a complex concept into simpler components, just as
+chemical analysis is breaking down a complex chemical into simpler
+ones.
+All of the topics in this chapter concern ways of clarifying and making
+essays more precise. A basic way of getting clear about things is to
+divide them into different categories, that is, to distinguish them.
+Making a distinction often requires defining one’s terms because the
+terms often depend upon having a precise meaning.
+Perhaps the most basic way of being clear and precise is to define a
+word or phrase. The dismissive expression “That’s just a matter of
+semantics,” if taken literally, is highly objectionable. Since semantics
+concerns meaning, if two people have a semantic disagreement, then
+they disagree about what they mean. And that is a significant matter.
+(The expression “That’s just a matter of semantics” may have a point if
+it is used to indicate that it is not important whether one word or
+another is used to express a certain thought.)
+
+1 Definitions
+To define a word is to state the meaning of the word. Definition is
+needed when there is good reason to believe that the reader does not
+already know the meaning the author intends the word to have. This
+can happen for various reasons. The author may be using a word that
+has several meanings in one particular sense and it would not be
+immediately clear to the reader which meaning that is. It would be
+important for the author to specify which meaning the author intends.
+In philosophy, a word often has a technical meaning or has various
+technical meanings; so it is especially important to define it (a
+technical definition). The words “knowledge,” “intuition,” “person,”
+“property,” and “transcendent’,” to name a few, have various technical
+meanings in philosophy. Also, the author may be using a word that has
+an ordinary but somewhat vague meaning in a more precise sense.
+This kind of definition is sometimes called a “precising” definition.
+And, the author may be using a word in a new sense. This is called a
+
+=== p. 132 ===
+
+“stipulative” definition. If a word has an ordinary meaning, for
+example, “mind” or “person,” but the author is going to use that word
+in a technical sense, the reader will not know what the author means
+unless the author tells him so. Sometimes a philosopher coins a new
+word, for example, whoever coined the term “sense datum.” In such a
+case, it is essential to give a definition; otherwise there is no way for
+the reader to know what you mean.
+Students often think that they do not need to define terms, even
+technical terms, because they think that the professor must know what
+the words mean, since the professor is an expert. That reason is beside
+the point. The student author’s goal is to show the professor reader
+that she knows what she is talking about, as explained in chapter 1. So,
+in addition to the fact that authors in general need to define technical
+and other terms needing explanation, student authors have a special
+need to define them. The burden of proving that the student knows
+what she is talking about is on the student.
+A definition has two parts: the definiendum (the word to be defined)
+and the definiens (the words that give the meaning of the
+definiendum). A good definition is one in which the words in the
+definiens are easier to understand than the words in the definiendum.
+If they are not, the author is not helping the reader to understand the
+definiendum. The definiens cannot contain the key word in the
+definiendum. If the key word occurs in the definiens, then the
+definition is circular. For example, this definition is circular:
+     A human being is a being that is human.
+I said “key” word because sometimes a definiendum contains several
+words. Here’s a definition of “empirical argument”:
+     An argument is empirical =df it contains at least one empirical
+     premise
+or
+     Something is an empirical argument =df it contains at least one
+     empirical premise.
+The key word here is “argument.” The definition is supposed to be
+
+=== p. 133 ===
+
+what “empirical argument” means. It explains it in terms of an
+empirical premise. If the process of definition ends here and the
+reader does not know what counts as an empirical premise, the
+definition is defective. But if the definition is accompanied by another,
+  A premise is empirical =df the most direct way of establishing its
+  truth is by sensation
+then the definition is acceptable.
+Here are some examples of how definitions can be introduced in
+essays:
+  The main point of W. V. Quine’s article “Two Dogmas of
+  Empiricism” is that the distinction between analytic and synthetic
+  propositions has no theoretical justification. Analytic propositions
+  are defined as those that are true in virtue of the meaning of their
+  words. Synthetic propositions are defined as those that are made
+  true by empirical facts.
+  I shall argue that God is omnipotent and omniscient. I define “x is
+  omnipotent” as “x is able to do everything that can be done” and “x
+  is omniscient” as “x knows everything that can be known.”
+  According to Thomas Hobbes, God is neither just nor unjust. By
+  justice he means not breaking any covenant; and by injustice he
+  means breaking a covenant.
+  According to Thomas Hobbes, God is neither just nor unjust. By “x
+  is just,” he means “x has not broken any covenant;” and by “x is
+  unjust,” he means “x has broken a covenant.”
+Definitions have been categorized in various ways. Implicitly in the
+discussion above, I divided definitions into descriptive (how a word is
+usually used), precising (how a word with a vague meaning will be
+used in a more precise way), stipulative (inventing a new meaning for
+a word), and technical (giving a precise definition of a word for use in
+the construction of a theory). (These categories are not mutually
+exclusive.) Although it is not useful for our purposes to give a neat
+categorization of kinds of definitions or even to discuss all the kinds
+that there are, one kind of definition deserves special mention:
+
+=== p. 134 ===
+
+definition by genus and species.
+This method is generally credited to Aristotle. A stock philosophical
+example of a definition (or analysis) is of this type:
+  A human being is a rational animal.
+Definitions of the same type are:
+  A beast is an animal without reason.
+  An animal is a living being that can move itself from place to place.
+  A plant is a living being that cannot move itself from place to place.
+Certain facts about genera and species are best illustrated by what is
+known as the Tree of Porphyry, attributed to Porphyry, a neoPlatonic
+philosopher. Each capitalized word or phrase in the diagram below
+designates either a genus or species.
+
+The concepts of genus and species are correlative; one has to be
+explained in terms of the other. A (direct) genus is the immediately
+higher general kind of a species. A (direct) species is an immediately
+lower kind of thing. Some genus will be the highest one (Being) and
+not be a species to any other genus. Each genus has more than one
+
+=== p. 135 ===
+
+species falling under it. For example, Organism has the species
+Animals and Plants. Each item that is immediately lower than another
+item (for example, Animals is lower than Organism) is a species of the
+higher item, the genus. Some species will be the lowest ones and will
+not be a genus for any other species. Human beings is a species with
+no subspecies in Aristotelian and scholastic philosophy. However, in
+contemporary anthropology, Human Beings (homo in Latin) is a
+genus because it does have various species below it, such as homo
+erectus, homo sapiens, and homo sapiens sapiens.
+What generates a species under a genus is something that some things
+of the species have that other things in the genus do not have. This
+thing, call it a “property,” distinguishes the members of one species
+from those of another species of the same genus. This distinguishing
+property is called “the specific difference” because it is the difference
+that generates the species. Although not quite sensible, it may help to
+remember the term by thinking that it is the difference that is specific
+to the species. Definitions by genus and species consist of a statement
+of the relevant genus and specific difference. The definition
+   A human being is a rational animal
+consists of the genus animal and the specific difference rational in the
+definiens.
+What form should a definition take? Philosophers often deal with
+abstract objects or at least often talk about objects abstractly like truth,
+beauty, and goodness. Traditionally, this has led them to try to define
+truth, beauty, and goodness. But starting with an abstract noun often
+resulted in definitions that were stilted or obscure, for example,
+   To be just is for one person to give another person what the first
+   person owes to the second.
+Inspired by certain developments in formal logic, philosophers in the
+20th century came to see that many nouns were abstracted from
+predicate expressions and that the predicate expressions themselves
+presented more perspicuous definienda. This led to the following
+changes:
+
+=== p. 136 ===
+
+          Original form New form
+          Justice       x is just
+          Knowledge     x knows that p
+          Truth         x is true
+          Promise       x promises that p to an addressee y
+          Excuse        x excuses y for an action a
+Using the predicative form, the above definition of justice becomes the
+smoother:
+  x is just to y if and only if x gives to y what x owes y.
+By this definition, we know what any sentence like “Adam is just to
+Beth” or “Carol is just to David” means. One simply substitutes the
+appropriate names in the places marked by “x” and “y.” Let’s consider
+another example: the new formulation of the classical definition,
+  knowledge is justified true belief
+becomes
+  x knows that p if and only if it is true that p and x is justified in
+  believing that p.
+And when this is made more explicit, it becomes:
+  x knows that p if and only if
+   2. x believes that p; and
+   3. x’s belief that p is justified.
+This last definition makes the components of knowledge stand out
+more starkly than the first.
+One last point. It often turns out that philosophers need to define pairs
+of terms that they want to be contradictories, such as truth/falsity or
+objectivity/subjectivity (see chapter 2, section 5). The appropriate way
+to do this in order to guarantee that the defined terms are genuine
+contradictories is to define one term and then to define the other as
+
+=== p. 137 ===
+
+simply everything that is not the first. Here are two examples:
+  “x is war” means “x is a stretch of time during which one civil state
+  is inclined to attack another civil state”
+  “x is peace” iff “x is not war”
+  “x is a bachelor” means “x is an unmarried, adult, male, human
+  being”
+  “x is a nonbachelor” means “x is not a bachelor.”1
+It is not possible to define every word. If it were, then even the words
+used in the definiens would need to be defined; and then the words to
+define them would need to be defined, ad infinitum. If definition could
+go on forever, then the “ad infinitum” phrase would not be a problem.
+But definition cannot go on forever for at least two reasons. First,
+people know the meanings of many words even though they have not
+learned their meanings through definitions. Second, if some words in
+the definiens always needed to be defined, then there would be no
+foundation for meaning, no starting point. One may wonder, then,
+what the foundation for meaning is. In a word, it is interaction
+between interlocutors (people who alternate between speaking and
+listening) in a context. The context of course is always some part of the
+world, in addition to the interlocutors themselves. Since this issue gets
+us into very deep water not essential to understanding how to write,
+no more will be said about this matter.
+
+2 Distinctions
+Philosophy students during the Middle Ages allegedly were given the
+following rule of thumb: When faced with a contradiction, make a
+distinction. That rule encourages the abuse of distinction-making and
+eventually led to the bad reputation of scholastic philosophers, so-called “logic-choppers,” “hairsplitters,” and “dunces” (after John Duns
+Scotus). Distinctions should be made only when they are necessary
+and justified.
+Even when a distinction is justified, there are good and bad ways of
+making it. A good distinction, called a proper distinction, has two
+
+=== p. 138 ===
+
+characteristics: its terms are exhaustive, and they are mutually
+exclusive. A pair of terms is exhaustive when at least one of them
+applies to each object of the group that is supposed to be
+distinguished. A pair of terms are mutually exclusive when only one of
+the terms applies to each object.
+The way to ensure this kind of division of objects is to use
+contradictory pairs of terms:
+   red/nonred
+   blue/nonblue
+   human/nonhuman
+   animal/ nonanimal
+   just/nonjust
+   merciful/nonmerciful
+The great advantage of proper distinctions is that they give a neat
+categorization of objects. There is a place for everything and
+everything is in its place. This can be seen in the Tree of Porphyry in
+section 1, above. One of the personae of Søren Kierkegaard reports a
+classification of mankind into “officers, servant girls, and chimney
+sweeps” (Repetition, ed. and tr. by Howard V. Hong and Edna H.
+Hong, Princeton: Princeton University Press, 1983, p. 162). These
+terms are obviously not exhaustive, and are not mutually exclusive
+either. An even more elaborately improper distinction is the one Jorge
+Luis Borges supposedly reports in his essay “The Precise Language of
+John Wilkins.” In an obscure Chinese encyclopedia, the following
+distinctions are made between animals: “(a) those that belong to the
+emperor, (b) embalmed ones, (c) those that are trained, (d) suckling
+pigs, (e) mermaids, (f) fabulous ones, (g) stray dogs, (h) those that are
+included in this classification, (i) those that tremble as if they were
+mad, (j) innumerable ones, (k) those that are drawn with a very fine
+camel’s hair brush, (l) others, (m) those that have just broken a flower
+vase, (n) those that resemble flies from a distance” (Other
+Inquisitions, 1937–1952, tr. Ruth Simms, New York: Washington
+Square Books, 1965, p. 108). I leave it as an exercise for the reader to
+explain why the terms are neither exhaustive nor mutually exclusive.
+
+=== p. 139 ===
+
+While it is easy to see that some distinctions are not proper, for
+example, red/blue or dog/animal, others are not. Consider male/
+female. Although it may look proper, it is not. Hermaphrodites have
+characteristics of both males and females. They are neither one nor the
+other. We tend to forget them because they are a small minority.
+What would be a good way to divide people into sexes? The
+distinctions male/nonmale and female/nonfemale are each proper
+distinctions, but each seems a bit odd. Each appears to favor one sex
+over the other (people have sex; pronouns have gender). One way of
+avoiding the promotion of one of these sexes over the other is to
+distinguish between normal and nonnormal sexes and then to divide
+the normal ones into male and female. (Here nonnormal sex is a
+biologically descriptive category and neither morally nor
+psychologically normative.)
+A famous example of a philosophical distinction that is improper but
+has been mistaken for a proper one is sense-datum/material-object. A
+shadow is neither a sense datum nor a material object. (See J. L.
+Austin, Sense and Sensibilia, ed. G. J. Warnock, New York: Oxford
+University Press, 1964, pp. 55–61. For another example, see John
+Searle and His Critics, ed. Ernest Lepore and Robert Van Gulick,
+Oxford: Blackwell Publishers, 1991, p. 141.) Another is the distinction
+appearance/reality. The appearances of shadows, mirror images, and
+rainbows are their reality; also the appearances that constitute or are
+part of consciousness are their reality. (More controversially, the
+secret thoughts of Zeus are neither appearance nor reality.)
+Let’s now consider the two ways of drawing a distinction: by
+characterization and by example. We begin with the latter. A
+distinction can be drawn by giving enough examples to get the reader
+to understand what the distinction comes to. Here is an example of an
+author explaining a distinction by giving examples:
+  There are two kinds of labor: alienated and unalienated. The labor
+  of a peasant, the labor of an auto worker, and the labor of a
+  bureaucrat are alienated. The labor of an artisan, a poet and a
+  statesman is unalienated.
+The drawback of characterization by example is that it may not be
+
+=== p. 140 ===
+
+obvious what the principle of division is. Certainly this is the case in
+Borges’s Chinese classification. It is easy for the disseminator of a
+distinction to be misled herself. If she relies only upon examples, it is
+possible that the author will conflate two different distinctions.
+Characterization, then, is theoretically the better method of drawing a
+distinction because it specifies the principle or property that
+differentiates the terms. Here is an example of characterizing the
+distinction between alienated and unalienated labor:
+   There are two kinds of labor: alienated and unalienated. Labor is
+   alienated when the laborer does not have full control over his work
+   or does not receive its full benefit. Labor is unalienated when it is
+   not alienated.
+It is often advisable to combine both methods, as in this passage:
+   There are two kinds of labor: alienated and unalienated. Labor is
+   alienated when the laborer does not have full control over his work
+   or does not receive its full benefit, for example, the labor of
+   peasants, auto workers, and bureaucrats. Labor is unalienated
+   when it is not alienated, such as that of the self-employed, poets
+   and statesmen.
+As my discussion of characterizing a distinction suggests, every
+distinction depends upon the existence of some property that all the
+terms of one group or category have and that all the things in the other
+group lack, even if the author is not able to articulate that difference.
+Without a difference, there would be no distinction at all. Sometimes
+people try to draw a distinction and fail because they in fact fail to
+specify a difference. This is what is meant by the somewhat inaccurate
+phrase a distinction without a difference. (It is inaccurate because
+without a difference there is no distinction at all, only the attempt or
+appearance of a distinction.) For example, in Woody Allen’s film
+Mighty Aphrodite, an ineffectual father tries to save face by
+purporting to distinguish between the head of the family (himself) and
+the decision maker (his wife). But in fact this is a distinction without a
+difference. His wife is the head of the family just because she is the
+decision maker. (At best, he would be a titular head; that is a person
+
+=== p. 141 ===
+
+with the title of “Head” but without the power of one.) A related
+example concerns the English Church. When the Act of Supremacy
+needed to be reformulated, some clerics were reluctant to call
+Elizabeth I the “Head of the Church,” as Henry VIII had been called,
+because she was a woman. They wanted to make a distinction. So the
+term Governor was settled on. But the Act restored to her exactly the
+powers held by Henry VIII and the Act described her as “supreme . . .
+in all spiritual or ecclesiastical things.” So the alleged distinction
+between Head and Governor is a distinction without a difference. Also,
+there was a tradition in England of distinguishing between the king’s
+two bodies: his physical body and his political body. The rebels of the
+English Civil War claimed to be trying to liberate the political king
+Charles I by fighting the person Charles Stuart. The royalists thought
+this alleged distinction between the royal and natural bodies of their
+king was a distinction without a difference.
+Permit me one final example. A French defense minister once tried to
+defend his country’s decision to resume nuclear testing by in effect
+saying the following: “The French government is not testing nuclear
+bombs. A distinction must be made between bombs and devices that
+explode. The French government is testing nuclear devices that
+explode, not bombs.” The minister was ridiculed, because he was
+trying to draw a distinction without a difference. But the testing
+continued.
+
+3 Analysis
+Analysis is analogous to definition. Definitions are explicitly about
+giving the meanings of words. Analyses are explicitly about giving the
+necessary and sufficient conditions for concepts. Since words express
+concepts, definitions are the linguistic counterparts to analyses. Much
+of what was said about definitions applies to analyses. Perhaps both
+topics could have been treated together; but I think that pedagogically
+it makes sense to treat them separately.
+Every analysis, like every definition, consists of two parts, an
+analysandum and an analysans. The analysandum is the notion that
+needs to be explained and clarified, because there is something about
+
+=== p. 142 ===
+
+it that is not understood. The analysans is the part of the analysis that
+explains and clarifies the analysandum, either by breaking it down
+into parts or by specifying its relations to other notions.
+An analysis tries to specify in its analysans necessary and sufficient
+conditions for the concept expressed in the analysandum. Necessary
+conditions are those that the analysans must contain in order to avoid
+being too weak. Being an organism is a necessary condition for being a
+human, because a human must be an organism. But being an
+organism is not a sufficient condition. Dogs are organisms but not
+humans. Sufficient conditions are those that are enough to guarantee
+that the concept in the analysans is satisfied. Having ten million
+dollars of Microsoft stock is a sufficient condition for being rich. But it
+is not a necessary condition, because a person can be rich without
+having that much Microsoft stock. Having ten thousand pounds of
+gold is also a sufficient condition for being rich.
+There is one further preliminary point to make. Let’s consider this
+tentative analysis of bachelorhood:
+   2. it is adult;
+   3. it is male.
+   This is a pretty good first shot. It is not, perhaps, adequate. One
+   might think that since only humans are bachelors, a fourth
+   condition needs to be added:
+However, young adult seals that have not yet mated are also called
+bachelors. For two reasons it is not necessary for us to argue here
+about whether or not to add the fourth condition. First, my intention is
+to give an example of an analysis, not to defend that analysis. Second,
+what should be noticed here is that setting out an analysans as
+explicitly as I have just done makes the terms of the disagreement
+between the pro-seal-bachelors and the anti-seal-bachelors clear. And
+when the terms of disagreement are clear, debate about what side is
+
+=== p. 143 ===
+
+correct is much easier.
+Let’s now consider a genuinely philosophical analysis of a concept:
+   A person S knows that p if and only if
+   2. S believes that p;
+   3. S is justified in believing that p.
+This analysis is very attractive (compare it to the definition of “x
+knows that p” in section 1). It makes at least one element of knowledge
+very clear: it is not possible to know something that is false.
+Sometimes people say that they know something when in fact what
+they say they know is false. This does not show that it is possible to
+know something that is not true. It simply shows that sometimes
+people are mistaken about what they think they know. Our analysis of
+knowledge also assimilates knowledge to belief. Knowledge is a kind of
+belief according to the above analysis. This is more debatable. There
+have been some powerful arguments with the conclusion that
+knowledge and belief are different psychological states. Again, it is not
+to our purpose to argue whether the above analysis or some other is
+correct or not. Finally, condition (3) is surely not adequate as it stands.
+In order to be a satisfactory analysis, it is necessary to specify what
+being justified in believing something means. Again, it is not to our
+purpose to argue about this matter. It is enough to point out that the
+analysis makes the issues that need to be debated clear.
+There are three ways in which proposed analyses commonly go wrong:
+an analysis may be defective by (1) being circular, (2) being too strong,
+or (3) being too weak. Three kinds of defects will be discussed in order.
+An analysis is circular if the analysandum, or its key term, occurs in
+the analysans. For example, if one is trying to analyze “freezing,” it is a
+mistake to propose as the analysans “something that happens to a
+liquid when it freezes.” The problem is obvious: If someone needs an
+analysis of freezing because he does not know what it is, then it does
+no good to tell him that it is something that happens to a liquid when
+it freezes. This does not make the notion of freezing any clearer or
+
+=== p. 144 ===
+
+more understandable because, since the analysans includes the notion
+of freezing, one must understand that, before one can understand the
+analysandum: freezing. If, on the other hand, someone already
+understands what freezing is, then he has no use for an analysis of
+freezing in the first place. In either case, to the extent that the
+understanding of an analysans depends upon understanding the
+analysandum, the analysis is uninformative and unhelpful.
+However, the above analysis is not totally uninformative. It does
+convey that freezing is something that happens to liquids, and the
+person in need of the analysis may not have known this before being
+presented with the circular analysis. But notice that this
+informativeness is due to the part of the analysans that did not depend
+upon any prior understanding of the analysis of freezing.
+It is important to distinguish this kind of circularity from a related
+phenomenon that sometimes goes under the same name. Suppose that
+we have a number of analyses to propose that have as their analysanda
+A, B, C, . . ., Z. Further suppose that A occurs as part of the analysans
+of B, B as part of the analysans of C, . . ., and Z as part of the analysans
+of A.
+Now it may at first seem that someone who did not understand any of
+these notions would not be helped by any of these analyses. If she
+doesn’t understand any of the analysanda, and each analysans
+contains one of the analysanda, then it would seem that she cannot
+understand any analysans either; she has no entry into the circle. In
+extreme cases, this may be true. Usually, however, someone who
+encounters such a group of analyses has a fairly good understanding of
+at least one (and possibly more) of the notions involved. If so, she can
+get at least a partial understanding of the other notions and also get a
+better and clearer understanding of the one she started with by going
+around the circle and seeing how it is connected with related notions.
+Thus, if circularity is spread over a great many analyses (the more, the
+better), it may cease to constitute a defect.
+This idea of analysis presupposes, however, that the goal of
+philosophical analysis is understanding. Not all philosophers take this
+view; some regard the goal to be reduction. The idea behind
+
+=== p. 145 ===
+
+reductionism is that, like scientific theories, one philosophical theory
+is preferable to another if it requires fewer different kinds of objects in
+order to explain reality. Thus, if one theory requires one or two kinds
+of objects, then it is superior to another that requires 27 kinds. This
+explains the traditional philosophical preference for monism and
+dualism. (The principle that entities should not be multiplied beyond
+what is necessary is known as “Ockham’s razor,” after William of
+Ockham, a fourteenth-century English philosopher who asserted it.)
+Suppose that we have a notion of some kind of object, and that it is
+possible to give an analysis in which the analysans contains no
+mention of this kind of object. The analysandum is then theoretically
+dispensable, since whatever we might want to say about it can be said
+in terms of the analysans instead. For example: It might seem as
+though numbers must be recognized as existing objects, because we
+say such things as “Two plus two equals four” and “There is an integer
+which is both even and prime,” which seem to be true only because of
+certain facts about numbers. But if we can find a way of analyzing the
+notion of a number, of addition, of being prime, and so on, entirely in
+terms of the characteristics of physical objects, then we can do without
+the assumption that numbers exist; for we can say that “two plus two
+equals four” is really just a statement about physical objects in a
+greatly abbreviated form. Similarly, a reductive materialist will try to
+show that various kinds of things that do not seem to be made of
+matter, in particular, minds, can in fact be analyzed in material terms.
+In some cases the reduction takes more than one step, that is, it
+depends on more than one analysis. Thomas Hobbes, for example,
+proposed to reduce all phenomena to motions of material particles. He
+tried to analyze governments in terms of the actions of human beings,
+the actions of human beings in terms of the motions of their limbs and
+organs, and these, finally, in terms of the motions of material particles.
+It is clear, however, that a group of reductive analyses must never be
+allowed to form a circle, however large. An analysandum that creeps
+back into a subsequent analysans has not been reduced away or
+eliminated from the philosophical theory, and the reductionist’s whole
+project is vitiated. This fact has certain paradoxical consequences.
+There are many cases in which it is obvious that A can be analyzed in
+
+=== p. 146 ===
+
+terms of B and B in terms of A, but neither of the two is simpler or
+more basic than the other. The reductionist who takes Ockham’s razor
+seriously will presumably want to adopt one of these reductions, but
+she cannot adopt both of them without forming a circle. How is she to
+choose?
+Let me now turn to the other ways in which an analysis might be
+defective, namely, how an analysis might be too strong or too weak. An
+analysis is too strong just in case it is possible to give an example of
+the notion being analyzed that does not satisfy all the conditions
+specified in the analysans; conversely, an analysis is too weak just in
+case it is possible to describe something that satisfies all the conditions
+set down in the analysans, but is not an instance of the analysandum.
+Consider, for example, this analysis of bachelorhood:
+2. it is male; and
+This analysis is too weak, because children satisfy all three conditions,
+but we do not count them as bachelors; only adults are bachelors.
+Let’s now consider a stronger analysis of bachelorhood:
+3. it is human;
+4. it is adult; and
+This analysis is too strong; it is easy to find bachelors who do not play
+tennis and therefore do not meet condition (5).
+It is possible for a single analysis to be both too strong and too weak.
+For example, we can combine the defects of the analysis of
+
+=== p. 147 ===
+
+bachelorhood that was too weak with the defects of the analysis that
+was too strong:
+3. it is human; and
+Since there are bachelors who don’t play tennis, the analysis is too
+strong. Since there are male, unmarried children who play tennis and
+are not bachelors (because they are too young), the analysis is too
+weak. In short, it is both too strong and too weak.
+Here are two more examples of philosophical analyses that are too
+strong and too weak. These analyses are supposed to explain how
+private property comes to exist. It assumes the condition of “the state
+of nature,” that is, no civil government exists. It also assumes as a
+background condition that no object has previously been owned.
+Here’s the first analysis:
+  An object O becomes the property of a person P if and only if P
+  mixes P’s labor with O.
+This analysis is too strong because a person can own something
+without mixing their labor with it. We will present a situation in which
+the left-hand side of the analysis is true and the right-hand side of the
+analysis is false. Suppose a tree contains an apple and a person
+controls the apple by guarding it against all others. Then that person
+owns the apple. But that person has not mixed her labor with the
+apple. The person may have exerted herself by fending off would-be
+takers of the apple, but she has not touched the apple and hence could
+not have mixed her labor with it.
+A defender of this analysis might object to this counterexample in
+various ways. One is to deny that guarding an object is the same as
+owning it. Another is to extend the concept of mixing one’s labor to
+include guarding an object. Are there replies to these objections?
+
+=== p. 148 ===
+
+The next counterexample is supposed to show that the analysis is too
+weak. We will present a situation in which the right-hand side of the
+analysis is true and the left-hand side of the analysis is false. Suppose
+that someone squashes an apple underfoot. The person has mixed her
+labor with it but does not own it.
+Let’s now consider the second analysis; this one is about how value in
+an object originates. The concept of mixing one’s labor is used again:
+  An object O has a value if and only if a person P mixes P’s labor
+  with O.
+The analysis is too strong. Suppose two hungry people see a ripe apple.
+The apple has a value because they want it. But neither has mixed his
+labor with it.
+The analysis is also too weak. Suppose again that a person
+intentionally squashes an apple. The person has mixed his labor with
+the apple but the apple has no value because no one wants a squashed
+apple.
+It is orthodox to hold that the terms in the analysans are more basic or
+primary than the terms in the analysandum. However, there are
+correlative terms that are equally primary. (Two terms are correlative
+terms just in case the simplest analysis for each term is in terms of the
+other.) That is, it is incorrect to say that one is more basic or primary
+than the other. Most alleged correlative terms are contestable. For
+example, some philosophers have in effect defined the terms mind and
+matter in this way:
+                          Mind: no matter.
+                          Matter: never mind.
+It is easy to be a dualist if mind and matter are genuinely correlative
+terms. The terms particular and universal have also sometimes,
+though not always, been treated as correlative terms: a universal is
+something that groups particulars into a class; and a particular is
+something that is grouped into a class by a universal but does not itself
+group things.
+Some pairs of terms that initially look like correlative terms may turn
+
+=== p. 149 ===
+
+out not to be. For example, it is tempting to argue that husband/ wife
+constitute correlative terms on the grounds that each is definable in
+terms of the other:
+  A husband is a person that has a wife.
+  A wife is a person that has a husband.
+However, while it is true that the concept of a husband is not more
+basic or primary than the concept of a wife and vice versa, this does
+not entail that they are correlative terms. Each is definable in terms of
+something common to both of them:
+  A husband is a male spouse.
+  A wife is a female spouse.
+
+  1. Is the following analysis too strong, too weak or adequate? If
+     too strong or too weak, make the changes necessary to make it
+     adequate.
+        An object O increases in value at a time t1 iff people are
+        willing to give more for it at t1 than at the immediately
+        previous time.
+  2. Is the following analysis of increase in value for a particular
+     person too strong, too weak, defective in some other way, or
+     adequate? If it is defective in any way, make the changes
+     needed to make it adequate.
+        An object O increases in value for a person P at a time t1 iff
+        P ’s desire for O is greater at t1 than it was at the immediately
+        preceding time.
+  3. It has been argued that the following analysis of the origin of
+     property is too strong and too weak. Is there any other criticism
+     that could be made against it?
+
+=== p. 150 ===
+
+      An object O becomes the property of a person P if and only if
+      P mixes P’s labor with O.
+4. Is the following analysis too strong or too weak? If it is defective
+   in either way, change it so that the analysis becomes adequate.
+      An action A is merciful if and only if there is a person P1 and
+      there is a person P2 such that in doing A, P1 gives P2
+      something good that P1 does not owe to P2.
+5. Is the following analysis too strong or too weak? If it is defective
+   in either way, change it so that the analysis becomes adequate.
+      A person P is perfectly merciful if and only if P does many
+      merciful actions and no unmerciful actions.
+6. Use your final analyses in (4) and (5) to give an analysis of
+   these two analysanda:
+      An action A is merciful if and only if
+      A person P is perfectly merciful if and only if
+7. In the following paragraph from Plato’s Gorgias, what is
+   Socrates saying the problem is with Gorgias’ definition of
+   rhetoric?
+      Socrates: Gorgias, what is your definition of rhetoric?
+      Gorgias: Speaking.
+      Socrates: How do you mean that, Gorgias? Do you mean
+      rhetoric explains to sick people how they can get well?
+      Gorgias: No.
+      Socrates: Then, rhetoric is not concerned with all speech.
+      Gorgias: No. Of course not.
+8. What is Locus saying is wrong with the analysis of a contract in
+   this exchange?
+      Hocus: A contract is a promise between two people.
+      Locus: If Lee and Mee promise each other to meet at noon
+
+=== p. 151 ===
+
+        on the West Mall, have they made a contract?
+  9. What is Mar saying is wrong with Hob’s analysis of social
+     contract in the dialog below?
+        Hob: To enter into a social contract it is sufficient if a person
+        consents to a government.
+        Mar: If a person consents to letting a neighbor borrow a
+        lawnmower, is there a contract?
+        Hob: No.
+
+4 Dilemmas
+Another important analytic strategy often used in writing
+philosophical essays involves formulating a problem as a dilemma.
+One reason for this is that one common philosophical project is to
+investigate and straighten out widely held, but unreflective, beliefs.
+Many of these beliefs, upon reflection, are either in tension with one
+another or inconsistent. The same also holds for various beliefs that
+have been developed after a long period of reflection. Often one view
+seems to conflict with another view espoused by the same person; or a
+text is not clear and one plausible interpretation conflicts with a
+plausible interpretation of another part of the text. In all of these
+cases, the tension or inconsistency between texts or beliefs can be
+made explicit by formulating a dilemma.
+In chapter 2, the valid inference forms of constructive and destructive
+dilemma were explained. These may be called formal dilemmas
+because they do not say anything about the content of the premises or
+conclusions. In a more familiar sense of the word dilemma, a dilemma
+always involves setting out alternatives that are somehow conceptually
+unpleasant. For example, consider this argument, which contains a
+material dilemma:
+  If determinism is true, then humans are not responsible for their
+  actions; and if indeterminism is true, then humans do not cause
+  their own actions.
+
+=== p. 152 ===
+
+The alternatives expressed in the conclusion are unpleasant because
+humans want to be responsible for at least some of their actions and
+want to be the cause of their actions. (Note that formal-dilemma/
+material-dilemma are not mutually exclusive terms.)
+A dilemma can form the core of an essay. Often it requires no more
+than an introductory sentence or two and a relaxation of the ascetic
+style of formal logic. Consider this essay fragment that incorporates
+the example of constructive dilemma above:
+  dilemma.
+Although this fragment needs to be worked out in much more detail –
+definitions need to be supplied, explanations as to why causality
+precludes responsibility, etc. – it is a start. Because material dilemmas
+conclude with unpleasant alternatives, philosophers try to resolve
+them. Since constructive and destructive dilemmas are formally valid,
+the only way to resolve them is to show that one of the premises is
+false. Since they have two premises, there are two standard ways of
+doing this: showing that the conjunctive premise, composed of two
+conditional propositions, is false; or showing that the disjunctive
+premise is false.
+Showing that the disjunctive premise is false is called going between
+the horns of the dilemma. To show that the disjunctive premise is false
+is to show that both disjuncts are false and that there is some third
+possibility that is true. Consider this dilemma:
+
+=== p. 153 ===
+
+  If Hobbes is right, then humans are nothing but machines; and if
+  Hume is right, humans have no substantial existence at all.
+
+It is easy to see that this dilemma can be resolved by going between
+the horns. The second premise presents a false alternative. The
+philosophies of Hobbes and Hume are not the only choices. There are
+dozens to choose from. Good dilemmas are not so easy to defeat. The
+good ones are usually formulated with a disjunctive premise that
+either does or at least seems to exhaust the alternatives as in the essay
+fragment above. The premise “Either determinism is true or
+indeterminism is true” seems to cover all the possibilities; there is no
+other alternative. The dilemma might, however, be susceptible to the
+other method of resolution.
+Showing that the conjunctive premise is false is called “grabbing the
+dilemma by the horns.” It consists of showing that at least one of the
+conjuncts is false. The dilemma in the essay fragment above may be
+susceptible to grabbing the dilemma by the horns. In this case, this
+involves showing the first conditional proposition in the conjunctive
+premise to be false, namely, “If determinism is true, then humans are
+not responsible for their actions.” Someone might argue that although
+determinism is true, humans are nonetheless responsible for their
+actions. For humans are responsible for those actions that they cause
+and are responsible because they do cause them. If this tack were
+taken and incorporated into an essay, the result might look something
+like this:
+
+=== p. 154 ===
+
+  dilemma. I shall argue that the first premise is false because the
+  first conjunct, “If determinism is true, then humans are not
+  responsible for their actions,” is false. For, even if determinism is
+  true, humans are responsible for their actions, and are responsible
+  for them because they do cause them.
+There is a third way of dealing with dilemmas: to produce a
+counterdilemma. This typically consists of producing a dilemma that
+has the same disjunctive premise. The conjunctive premise keeps the
+same antecedents; but the consequents typically are contraries to the
+disjuncts of the conclusion of the original dilemma. The following
+essay fragment contains a dilemma and a counterdilemma:
+  It might seem that human existence is absurd. This appearance of
+  absurdity is tied to the issues of the existence of God, human
+  freedom and salvation. The following dilemma suggests itself: If
+  God exists, then humans are not free to determine their own
+  destiny; and if God does not exist, then there is no hope for eternal
+  salvation. God either exists or He doesn’t. So, humans are either not
+  free to determine their own destiny or there is no hope for eternal
+  salvation.
+  However, this dilemma does not tell the whole story, as the
+  following counterdilemma shows: If God does exist, then there is
+  hope for eternal salvation; and if God does not exist, then humans
+  are free to determine their own destiny. Thus, either there is hope
+  for eternal salvation or humans are free to determine their own
+  destiny.
+Producing a counterdilemma does not in itself refute a dilemma. It
+does not show that the original dilemma is unsound. It is quite
+possible for the conclusions of both the dilemma and the
+counterdilemma to be true. However, counterdilemmas do indicate
+that the corresponding dilemma is not cogent. One way of showing the
+lack of cogency is to indicate that the dilemma does not take into
+account all the considerations relevant to that issue. The above essay
+fragment makes it explicit that the dilemma does not take into account
+all the issues relevant to whether human life is meaningful or not. The
+
+=== p. 155 ===
+
+dilemma records only the downside of the existence or nonexistence of
+God and not the upside. This shows that the dilemma, though possibly
+sound, is not cogent.
+Sometimes the counterdilemma indicates that the premises of the
+original dilemma are contradictory. A story is told of a sophist who
+agreed to teach a student to be a lawyer on the following condition.
+The pupil would not have to pay for the lessons unless he won his first
+case. When the student did not get any cases after his education had
+been completed, the sophist sued. The pupil defended himself by
+constructing a dilemma:
+  If I win this case, I do not have to pay my teacher (since the teacher
+  will have lost his suit for payment.)
+  If I lose this case, I do not have to pay my teacher (since, by our
+  original contract, I do not have to pay him if I lose my first suit).
+
+The sophist rebutted the student with a counter dilemma:
+  If I win this case, my student has to pay me.
+  If I lose this case, then my student has to pay me (since he has won
+  his first case).
+
+The fact that both the dilemma and the counterdilemma are valid and
+their conclusions are contradictory suggests that there is some
+contradiction in the premises.
+However, there is one more thing to notice about these two arguments.
+The conclusions are not disjunctive propositions. If these arguments
+were laid out more explicitly, the conclusion of the first would be,
+“Either I do not have to pay my teacher or I do not have to pay my
+teacher,” and the conclusion of the second would be, “Either my
+student has to pay me or my student has to pay me.” Since the second
+disjunct is redundant in each case, it is valid to delete it. This move is
+
+=== p. 156 ===
+
+canonized in another rule of inference, which can be added to the rules
+of inference discussed in chapter 2:
+                               Tautology
+
+5 Scenarios
+Philosophers often illustrate or prove a point by constructing a
+scenario. As its name suggests, a scenario is a detailed description of a
+situation that perspicuously establishes the intended point. Ludwig
+Wittgenstein’s later philosophy was driven by compelling scenarios.
+For example, near the beginning of the Philosophical Investigations,
+he in effect says this:
+  Suppose that a group of builders has a language with only four
+  words, “block,” “pillar,” “beam,” and “slab.” One worker calls out
+  one of these four words and another worker brings him the
+  appropriate item. This can be thought of as a complete primitive
+  language.
+The point of this scenario is to show that while this kind of behavior
+satisfies the standard account of what philosophers say a human
+language is like, this kind of behavior, as restricted as it is, does not
+give a fair description of genuine human languages. So the standard
+philosophical account is inadequate. This allows Wittgenstein then to
+go on to develop a more adequate account. Powerful scenarios are
+vivid, lively, and sometimes somewhat satiric, as this one is.
+But scenarios have pitfalls that must be avoided. There is a difference
+between a mild satire and caricature. A caricature misrepresents a
+position. And a misrepresentation can never be used either to prove or
+refute a point. (To caricature a position and then to refute it is to
+commit the strawman fallacy.)
+Also the description of a scenario should not be tendentious or
+question-begging. An example was given in chapter 1. It is tendentious
+or question-begging to write this:
+
+=== p. 157 ===
+
+   Suppose that Smith and Jones have their brains interchanged. Then
+   Smith has Jones’s brain, and Jones has Smith’s brain.
+Since it is disputable who is who when brains are interchanged, it is
+unfair for the author to identify one specific body as the person Smith
+and another specific body as the person Jones. That issue has to be
+discussed.
+Another way in which a scenario can go wrong is to describe it in
+insufficient detail. (Because of issues of space, all the examples I give
+border on being insufficient.) When this happens, the author often
+draws an unwarranted conclusion on the basis of what she has
+described. The reader often does not notice the problem because he
+tends to be cooperative. He wants to follow the author’s thought to
+wherever she wants to lead him. This cooperativeness is required for
+understanding what the author means. And often once this happens,
+the reader simply accepts what has been said as fact, when it is not.
+When this occurs, I say that the author has committed the fallacy of
+the under-described scenario. Here’s an example:
+   A common view among philosophers is that the survival of human
+   beings obviously requires that a large majority of their views are
+   true. Otherwise, their false beliefs would lead them to act in ways
+   that would kill them off. But this common view is false. It is easy to
+   describe possible communities that do quite well with (virtually) all
+   false beliefs. Suppose there is a tribe that believes that everything is
+   a witch. So they believe that some witches are good to eat; and some
+   witches grow berries in the spring; and some witches bark; and
+   some witches meow, and so on.
+This scenario commits the fallacy of the under-described scenario,
+because the author is not considering that in addition to the beliefs
+mentioned, the natives also believe that this thing is good to eat, and
+this thing grows berries in the spring, and this thing barks, and this
+other thing meows. It might be the case that the natives never utter
+sentences that directly express such beliefs or even consciously think
+of them; but that does not show that the natives do not have them.
+And the conclusive evidence that they do have them is their behavior.
+
+=== p. 158 ===
+
+6 Counterexamples
+The method of counterexample is a powerful tool, frequently used to
+refute a philosophical view. A counterexample is an example of
+something that goes counter to some proposition or argument. People
+know how to use counterexamples by the age of five or six. Children
+often use the method of counterexamples in ways that cause parents to
+cry. A frustrated parent says to his child, “You never pick up the
+clothes in your room!” The child responds, “That’s not true. Yesterday,
+I picked up my shoe and threw it at Mary.” The parent is refuted.
+Sometimes counterexamples induce laughter, even if they are not so
+intended. A friend of mine had two precocious daughters. The older
+one once made some slight error, which the younger one pounced on
+unmercifully. In a desperate attempt to defend herself, the older one
+protested, “Nobody’s perfect.” The younger smugly pointed her finger
+heavenwards, indicating the Almighty. Thus was her sister refuted.
+Two types of counterexamples might be distinguished: propositional
+and argumental. Propositional counterexamples are counterexamples
+to propositions. Often these are refutations of some universal
+proposition. A general assertion that all Fs are G is refuted by a
+counterexample if it is shown that there is something that is F but not
+G. The claim that all Fs have properties G, H, and I is refuted by a
+counterexample, if it is shown that something of type F has properties
+G and H, but not I.
+One of the more famous counterexamples of contemporary philosophy
+concerns a standard analysis of knowledge. According to this standard
+theory, knowledge is justified true belief. That is,
+  S knows that p if and only if
+   1. p is true;
+   2. S believes that p, and
+   3. S is justified in believing p.
+To refute this analysis, Edmund Gettier constructed two scenarios,
+each of which satisfied all three conditions in the analysans above but
+which were not examples of knowledge. Thus, he constructed two
+
+=== p. 159 ===
+
+counterexamples. The second and simpler of these went like this.
+Imagine Smith is justified in believing the proposition “Jones owns a
+Ford” (Smith has known Jones for many years; he has always owned a
+Ford; Smith saw Jones driving a Ford an hour ago, etc.). Imagine that
+Smith believes it. Further, suppose that Smith realizes that “Jones
+owns a Ford” entails “Jones owns a Ford or Brown is in Barcelona.”
+But now imagine that Jones has sold his Ford and is driving a rented
+car; and that Brown, coincidentally, is in Barcelona. Then the
+proposition “Jones owns a Ford or Brown is in Barcelona” is true;
+Smith believes it; and Smith is justified in believing it. Yet, he does not
+know it, because the grounds of his belief are coincidental to its truth.
+Although this counterexample is a relatively simple one, simpler ones
+can be constructed. Suppose Smith has known Jones for many years,
+sees him regularly, etc. Suppose further that he believes the
+proposition “Jones is walking across the West Mall” because he sees
+someone who looks exactly like Jones walking across the West Mall.
+And suppose that, although Jones is indeed walking across the West
+Mall, he is behind a wall and out of Smith’s line of vision; that the
+person Smith sees is not Jones but someone who looks, acts, and
+dresses exactly like Jones. Then all the conditions of the analysans are
+satisfied; yet Smith does not know “Jones is walking across the West
+Mall.”
+One of the funniest counterexamples occurs in a work of literature. At
+the Mad Hatter’s tea party, Alice at one point claims that to mean what
+one says is the same as to say what one means. The Hatter produces a
+counterexample to this claim when he says, “Why, you might just as
+well say that ‘I see what I eat’ is the same thing as ‘I eat what I see!’”
+(Alice’s Adventures in Wonderland, Chapter VII). The March Hare
+supports the Hatter’s view by producing still another counterexample,
+when he says, “You might just as well say that ‘I like what I get’ is the
+same as ‘I get what I like’.” Both the Mad Hatter and the March Hare
+produce effective counterexamples, because each produces a sentence
+that is of the same form as Alice’s sentence but is obviously false. Thus,
+Alice’s sentence cannot be true in virtue of its form. It is important
+that the alleged counterexample be obviously false. After the Mad
+Hatter’s and the March Hare’s counterexamples, the Dormouse tries
+
+=== p. 160 ===
+
+his own hand at producing a counterexample to Alice’s claim, but fails
+simply because the sentence he proffers is not obviously false. When
+the narcoleptic Dormouse says, “You might just as well say that ‘I
+breathe when I sleep’ is the same thing as ‘I sleep when I breathe’,” the
+Hatter cuts him by saying, “It is the same thing with you.”
+The second type of counterexample involves arguments rather than
+single propositions. Here is an argumental counterexample involving
+an immediate inference: one premise and a conclusion. Bertrand
+Russell thought that the proposition “A genuine proper name must
+name something” entailed the proposition “Only a name that must
+name something is a proper name.” Peter Geach pointed out that this
+is “a howler in modal logic” (Peter Geach, “The Perils of Pauline,” in
+Logic Matters, Oxford: Basil Blackwell, 1972, p. 155). It is formally like
+arguing from the proposition “What you know must be so” to the
+proposition, “Only what must be so is really known.” Concerning this
+second pair of propositions, notice that the first proposition is true,
+but the inferred proposition is false. Thus, the inference is invalid;
+and, because the first pair of sentences exhibits the same pattern, the
+inference there must also be invalid.
+Suppose someone argues:
+
+This argument may look sound. The premises and conclusion are both
+true, and its form of inference is superficially similar to the valid
+inference form of modus ponens. In fact, however, the argument is
+formally invalid. This can be seen by producing a counterexample, for
+example,
+  If Plato is the author of The Critique of Pure Reason, then Plato is a
+  great philosopher.
+
+Notice that the premises of the argument are true but the conclusion
+false. Thus, the argument must be invalid. It is an instance of what is
+
+=== p. 161 ===
+
+known as the fallacy of affirming the consequent. In essay form, the
+original argument and its counterexample might be phrased in this
+way:
+  It has sometimes been argued that Plato was an idealist. For, if
+  Plato was an idealist, then Aristotle was a realist. Aristotle was a
+  realist. However, this argument is unsound. One might just as well
+  argue that Plato wrote The Critique of Pure Reason. For, if Plato
+  wrote the The Critique of Pure Reason, then Plato was a great
+  philosopher. And Plato was a great philosopher. Therefore, Plato
+  wrote the The Critique of Pure Reason.
+One of the more famous argumental counterexamples concerns an
+ontological argument for the existence of God. Anselm of Canterbury
+had in effect argued as follows:
+   (1) God is the greatest conceivable being.
+   (2) Either the greatest conceivable being exists in the
+   understanding only or it exists in reality also.
+
+The monk Gaunilo produced the following counterexample:
+   (G1) The Perfect Island is the greatest conceivable island.
+   (G2) Either the greatest conceivable island exists in the
+   understanding only or it exists in reality also.
+
+The falsity of the conclusion shows that something is wrong with the
+form of the argument. Since it shares that form with the ontological
+argument, there must be something wrong with the latter argument
+also.
+Sometimes the nature of the counterexample is a hybrid of both the
+propositional and argumental counterexample: One shows that a
+
+=== p. 162 ===
+
+proposition is false in the context of an argument, and the argument is
+then shown to be unsound in virtue of this false proposition. Consider
+this essay fragment that purports to present a counterexample to an
+argument for abortion:
+  Some people think that abortion is justified, because a woman has
+  the right to do whatever she wants to with her own body; and
+  having an abortion is doing something with her own body. The
+  argument is unsound. One might just as well argue that punching a
+  bystander in the nose is justified, because a woman has the right to
+  do whatever she wants to with her own body and punching a
+  bystander in the nose is doing something with her own body.
+Notice how the same form of argument leads to an obviously false
+conclusion. If the premises of the first argument are true, then so are
+the premises of the second. But since the premises of the second
+argument lead to a patently false conclusion, at least one of the
+premises of the second argument must be false, and thus one of the
+premises of the first argument must also be false. It’s not the second
+premise, so it must be the first. Of course, it should be noted that from
+the fact that the above argument is not sound (because one of its
+premises is false), it does not follow that there is no cogent argument
+in defense of abortion. Indeed, it is provable that for every true
+proposition, there are an infinite number of bad arguments for it. For
+example, here are just two obviously bad arguments for the obviously
+true proposition that 2 + 2 = 4:
+  If 2 + 2 = 4, then the earth is flat.
+
+  Either Descartes is a philosopher or Plato is a philosopher.
+
+Given these two outrageously bad arguments, it should be easy to see
+that there are an infinite number of bad arguments for any true
+proposition. Thus, a bad argument for a proposition does not show
+
+=== p. 163 ===
+
+that the proposition is false. Hence, although the above argument for
+abortion is not cogent there may well be other arguments that are.
+In any case, the method of counterexample is often powerful because it
+allows for a kind of indirect attack on a proposition or argument that
+could not very persuasively be attacked directly. It’s unlikely that
+marshaling evidence against the proposition “A woman has the right
+to do whatever she wants to with her own body” would persuade many
+people who would otherwise believe it. The reason is that it is a
+commonplace; it’s very widely accepted without argument. (Although
+it is a commonplace, it is, I think, false. No one, male or female, has
+unlimited rights over the use of their own body.) The principle needs
+to be restricted in some way in order to be true. Human beings
+perhaps have the right to do whatever they want in connection with
+reproductive matters or privacy, or something similar, but not
+unlimited rights. It is possible that those who espouse the principle
+under discussion, do not literally mean it, but mean something that is
+verbally similar to it such as, “A woman has the right to have anything
+done to her own body that she wants to.” Yet even this principle is
+dubious since many states have laws against masochism, self-mutilation, and suicide. Thus, an indirect assault on the proposition
+has a much greater chance of success. That’s what the method of
+counterexample provides.
+Although a counterexample is a logically effective way of arguing
+against some position, often it may not be persuasive because the
+counterexample is not recognized as such. In these situations, more is
+required. The author must get the reader to recognize that the relevant
+proposition is false, perhaps by suggesting an explanation of why
+someone might think the proposition is true. Such an explanation is
+not proof that the proposition is false; rather, it psychologically
+prepares the reader for recognizing the proof. This has been called
+“diagnosis.” It is analogous to the Freudian maneuver of getting the
+patient to attain insight into the causes of his neurosis. Diagnoses can
+be quite controversial; they require a great deal of imagination, and
+rarely, if ever, are definitive. Different people might believe the same
+false proposition for different reasons.
+Some counterexamples simply refute a theory. If the theory is
+
+=== p. 164 ===
+
+important, then the counterexample may be derivatively important.
+This is especially so when the counterexample attacks some central
+aspect of the theory, as Gettier’s did. If the counterexample does not
+work by undermining a central aspect, it may simply point out that the
+theory needs some fine-tuning, and that it can be fixed by fiddling with
+the wording. In such a case, the counterexample is, perhaps, worthy,
+but not especially important. The most important and powerful kind of
+counterexample is one that does not merely expose a fatal weakness in
+some theory, but actually suggests some promising line of developing a
+different and more adequate theory. For example, recall the
+counterexample about Smith thinking that he saw Jones crossing the
+West Mall when in fact he saw only someone who looked like Jones.
+To many philosophers the example seemed to indicate that knowledge
+requires a certain causal relation between the belief and the evidence,
+and spurred much interest in the “causal theory” of knowledge. One
+feature that made this counterexample important to many
+philosophers is that it seemed to show that there was something
+fundamentally wrong with the analysis of knowledge as justified true
+belief. That is, it seemed that the counterexample could not be avoided
+simply by fiddling a bit with the wording or by adding a more precise
+phrase (other philosophers, however, did try, and still do try, to fix the
+original conditions). What also made the counterexample important is
+that it suggested a direction in which the correct analysis of knowledge
+might be found. The counterexample indicated that in order for
+something to count as knowledge, the right kind of causal relation has
+to hold between the belief and the thing believed. Thus, various
+versions of a causal theory of knowledge were generated.
+Counterexamples are a very important method in philosophical
+argumentation. Sometimes a counterexample can be short and to the
+point. A philosopher once said that the difference between human
+faces and animal faces is that animals can’t change the expression on
+their faces (he was thinking of ants, aardvarks, and pigs). His
+colleague came back in a flash with “what about chimpanzees?” Other
+times a counterexample takes a lot of time to develop. It needs a lot of
+stage setting and explanation to show that it really is a case of what it
+is supposed to be. I urge you to try to use them and label them as such
+in your essays.
+
+=== p. 165 ===
+
+There are no simple rules for thinking up counterexamples. One might
+say that one should run through a lot of examples in one’s mind until
+one happens on a case that does not fit the proposition to be refuted;
+but it is fair to ask, “How do you do this?” or “How does one do this in
+such a way that one ends up with a counterexample and not just a lot
+of examples that confirm the proposition?” In other words, thinking
+up counterexamples ultimately depends upon imagination. Some
+people are quite talented in this regard and others are not.
+
+  1. Consider this proposition:
+        Attending the “Million Man” March was morally permissible
+        even though it was sponsored by a racist (Louis Farrakan)
+        because it was for a good cause, namely, improving
+        responsible behavior in African American males.
+     Is the following proposition a counterexample?
+        Attending the “Respect Our Women” March was morally
+        permissible even though it was sponsored by a racist (the
+        Grand Wizard of the KKK) because it was for a good cause,
+        namely, improving responsible behavior in white American
+        males.
+  2. Formulate the issues discussed in (1) as an argument and as an
+     argumental counterexample.
+  3. Recall the passage:
+        Some people think that abortion is justified, because a
+        woman has the right to do whatever she wants to with her
+        own body; and having an abortion is doing something with
+        her own body. The argument is unsound. One might just as
+        well argue that punching a bystander in the nose is justified,
+        because a woman has the right to do whatever she wants to
+        with her own body and punching a bystander in the nose is
+        doing something with her own body.
+
+=== p. 166 ===
+
+   Make the premises and conclusion of the original argument and
+   the counterexample explicit. Explain why both the original
+   argument and the counterexample are valid arguments. Then
+   attempt to either defend the original argument by showing that
+   the author of the counterexample has misinterpreted the claim
+   “A woman has the right to do whatever she wants to with her
+   own body,” or revise the original argument in some way that
+   avoids the counterexample.
+4. Often famous counterexamples are more complicated than they
+   need to be, and it is valuable to write an essay that simplifies or
+   includes a simplification of such a counterexample. Select some
+   elaborate counterexample that you have encountered in your
+   reading. Try to construct a simpler one that has the same effect.
+5. For an elaborate and influential counterexample, read Keith
+   Donnellan, “Proper Names and Identifying Descriptions,” in
+   Semantics of Natural Languages, ed. Donald Davidson and
+   Gilbert Harman, New York: Humanities Press, 1972, pp. 356–
+   79.
+6. Gettier’s article generated a lot of interest soon after its
+   publication. The following three articles concern various
+   attempts to fix the analysis of knowledge and additional
+   counterexamples. Read them for further examples of the
+   method of counterexamples.
+   a. Michael Clark, “Knowledge and Grounds: A Comment on
+      Mr. Gettier’s Paper,” Analysis 24 (1963).
+   b. Ernest Sosa, “The Analysis of ‘Knowledge that P’,” Analysis
+      25 (1964), 1–8.
+   c. John Turk Saunders and Narayan Champawat, “Mr. Clark’s
+      Definition of ‘Knowledge’,” Analysis 25 (1964), 8–9.
+7. Think of possible counterexamples to these propositions:
+   a. All humans are mortal.
+   b. All humans act out of their own self-interest.
+   c. Whatever promotes the greatest happiness for the greatest
+
+=== p. 167 ===
+
+         number of people is right.
+     d. All persons have bodies.
+
+7 Reductio ad Absurdum
+Reductio ad absurdum arguments are frequently used in ordinary
+argumentation with no difficulty. For example:
+   Many people believe the Enemy Principle, namely, that the enemy
+   of my enemy is my friend, even though it is fairly obviously false.
+   During the 1980s, both Iraq and Iran were our enemies. Further,
+   Iran was the enemy of Iraq. So by the Enemy Principle, Iran was
+   our friend. But that is absurd. So the Enemy Principle is false.
+Although this argument is easy to follow, people often have difficulty
+understanding why reductio arguments like this are valid and
+difficulty in understanding reductio arguments in philosophy when
+they are explicitly formulated.
+Roughly, in a reductio ad absurdum argument, a person proves a
+proposition by assuming for the sake of argument the opposite of the
+proposition he wants to prove. The notion of a reductio argument
+exploits an aspect of the notion of entailment. Recall that entailment
+preserves truth. From a true proposition, only true propositions
+follow. This means that if a proposition entails something patently
+false, then that proposition must be false. Now, if that false
+proposition is the opposite of the proposition to be proved, then the
+one to be proved must be true. That is the strategy that reductio
+arguments exploit. In short, if some proposition entails a false
+proposition, then the first proposition must also be false and its
+negation must be true.
+As is obvious from this description of reductio arguments, it is crucial
+to show that the entailed proposition is false. There are two ways of
+doing this. The surer of the two ways is to derive a contradiction – any
+contradiction. For example, if you can prove that the opposite of your
+view of universals entails, say, that it is possible for an object to be in a
+certain place and not to be in that place at the same time, then it is
+
+=== p. 168 ===
+
+clear that that view is false; and thus yours must be true.
+In formal logic, reductio arguments are always derivations of a
+contradiction. They can be represented in the following way, where p1,
+. . ., pn are premises, q is the desired conclusion, and r is any derived
+proposition:
+
+Notice that the premises are listed in one column while the conclusion
+q is listed at the top right in a half box. The first line of the derivation
+∼q is the negation of the conclusion. The three vertical dots indicate
+whatever (valid) inferences are needed in order to derive some
+contradiction “(r & ∼r).” (It should go without saying that the
+contradiction could be “(q & ∼q).”) Since assuming ∼q leads to a
+contradiction, it must be false. Consequently, q must be true.
+Here is an example that is inspired by an argument of Avicenna:
+   There cannot be two Gods; that is, there cannot be two perfect
+   beings. For suppose that there were two. Then one of them, call it
+   G1, would have a property P1 that the other one did not have.
+   (There must be such a property because if there are two things,
+   there must be some property that distinguishes them.) P1 either
+   contributes to making G1 perfect or it does not. If it does, then the
+   other God G2 would lack a property that makes a being perfect and
+   hence would not be God. If it does not, then G1 has a property that
+
+=== p. 169 ===
+
+  does not make it perfect, and in that case, G1 has a property that is
+  superfluous to being perfect and hence is not perfect.
+This argument can be represented as follows:
+   (1) There are two Gods, G1 and G2. [Supposition of Reductio]
+   (2) Either P1 contributes to making G2 perfect or it does not.
+   [Tautology]
+   (3) If P1 contributes to making G1 perfect, then G2 is not God.
+   (4) If P1 does not contribute to making G1 perfect, then G1 is not
+   God.
+   (5) Either G1 or G2 is not God. (From 2, 3, 4 by conjunction and
+   constructive dilemma.)
+
+The other, and less sure, way to show that the entailed proposition is
+false is to derive a blatantly false proposition. Hilary Putnam attempts
+to produce such a reductio as part of his defense that the meaning of a
+word, say, “water,” is not determined by the psychological state of the
+speaker. For example, if there were a planet (“Twin Earth”) exactly like
+our planet except that the mark “water” was used to refer to a
+substance that had all the phenomenal properties that water has on
+earth, but had a chemical composition different from H2O, then the
+word “water” on Twin Earth would not mean the same as “water” on
+earth. Now, since some have doubted this, Putnam presented this
+reductio in defense of his view:
+  Suppose “water” has the same meaning on Earth and on Twin
+  Earth. [Supposition of the reductio.] Now, let the word “water”
+  become phonemically different on Twin Earth – say it becomes
+  “quaxel.” Presumably, this is not a change in meaning per se on any
+  view. So “water” and “quaxel” have the same meaning (although
+  they refer to different liquids). But this is highly counter-intuitive.
+  [Supposedly absurd conclusion.] Why not say, then, that “elm” in
+
+=== p. 170 ===
+
+  my idiolect has the same meaning as “beech” in your idiolect,
+  although they refer to different trees? (“Meaning and Reference,” in
+  The Philosophy of Language, 4th edn, ed. A. P. Martinich, New
+  York: Oxford University Press, 2001, p. 295, n. 2)
+But is the conclusion absurd? At least one reputable philosopher was
+not persuaded (Jay David Atlas, Philosophy Without Ambiguity,
+Oxford: Clarendon Press, 1989, p. 136). So it is not as easy as you
+might think to produce a proposition that your audience will consider
+patently false and hence absurd. Consider the seemingly patently false
+propositions that some philosophers have held:
+  Nothing moves.
+  Only one thing exists.
+  All things are God.
+  Material substances do not exist.
+  “Sir Walter Scott” is not a proper name.
+  Humans do not act freely.
+Indeed, inventing an ingenious argument for a blatantly false
+proposition is the shortest route into the history of philosophy.
+Consider trying to prove the proposition “Some human actions are
+free” by a reductio. One might argue:
+  Suppose that no human actions are free. [Supposition of the
+  reductio.] Then no human beings are responsible for their actions.
+  But this is absurd. Therefore, some human actions are free.
+The problem with this argument is that many philosophers will
+maintain that it is not absurd to hold that human beings are not
+responsible for their actions. They may offer their own reductio
+argument that no human actions are free:
+  Suppose that some human actions are free. Then some events,
+  namely, human actions, have no cause. But this is absurd, since all
+  events have causes. Therefore, no human actions are free.
+What is a person to do? Know what the standard of success is. In
+
+=== p. 171 ===
+
+philosophy there seem to be two competing standards, though in some
+cases they may not be mutually exclusive.
+One standard is that a philosophical conclusion should not, if
+reasonably possible, contradict common sense, that is, the generally
+shared beliefs of nonphilosophers. This standard is motivated by the
+position that the job of a philosopher is to justify or explain ordinary
+beliefs, not to change them. This is what Wittgenstein meant when he
+said, “Philosophy leaves everything as it is.” Philosophers who adopt
+this standard have been called descriptive philosophers. Of course, it
+is not always possible to justify all of our ordinary beliefs. Also, there
+may well be no one set of nontrivial basic beliefs that all people have.
+Thus, the aim here is an ideal that cannot always be achieved. In the
+above example, “Some human actions are free” would fit the common
+sense view.
+The other standard is that a philosophical conclusion should not
+contradict basic theoretical propositions. This standard is motivated
+by the view that the job of philosophy is to produce the neatest and
+intellectually most satisfying explanation of reality. While
+philosophers in this tradition often disagree about what the best
+explanation is, just as descriptive philosophers disagree about what
+the content of common sense is, they agree that one should choose
+one’s philosophical principles first and then use them to determine
+what reality is like. Such philosophers have been called speculative
+philosophers. A special form of reductio argumentation has been
+called the mirabilis consequentia. It consists of showing that a
+proposition “not-p” entails the proposition p. An elegant case of this is
+an argument by Bertrand Russell against common sense:
+   Common sense leads to science. Science says that common sense is
+   false; therefore, common sense is false.
+We can bring out the reductio structure more clearly if we formulate
+the argument in this way:
+
+   Proof:
+   (1) Suppose common sense is not false. [Supposition of the
+
+=== p. 172 ===
+
+   reductio.]
+   (2) If common sense is not false, then science is true. [Premise]
+
+In an essay, this argument might be expressed in the following way:
+   Common sense must be false. For, suppose that it is not false. If
+   common sense is not false, then science is true, for common sense
+   gave rise to science. And, if science is true, then common sense is
+   false, for science says that the common sense view of reality is false.
+   Therefore, common sense is false.
+Students often find reductio arguments disorienting for a couple of
+related reasons. First, you may wonder how a philosopher can use
+some premise and then discard it. How can Russell prove that
+common sense is false when he begins by asserting that common sense
+is true? The source of this disorientation is the erroneous assumption
+that the author of any reductio argument in any way asserts or
+subscribes to the supposition of the reductio. Russell, for example,
+does not assert that common sense is true; he merely supposes or
+pretends for the sake of the argument that common sense is true. So
+he never commits himself to its truth. He exploits or uses to his own
+advantage the proposition that common sense is true, without
+subscribing to it. He offers the proposition for consideration of its
+consequences; and when he shows that it has absurd consequences, he
+shows that it is false and consequently that his own view is true.
+Second, a reductio argument can be disorienting if you think that the
+author subscribes to the contradiction that he derives. What you must
+realize is that the contradiction is not the author’s. He is reporting the
+contradiction that follows if you reject his position. Consider this
+reductio, again inspired by Russell:
+   Descriptions are not names. For suppose they were. Then a name
+   could be substituted for a description if the name and description
+   referred to the same object. Now, since “Scott” and “the author of
+   Waverley” refer to the same object and since George IV wanted to
+
+=== p. 173 ===
+
+  know whether Scott was the author of Waverley, it follows that
+  George IV wanted to know whether Scott was Scott.
+Russell, of course, does not believe that George IV wanted to know
+whether Scott was Scott. He’s pointing out that that absurdity follows
+if you accept his opponent’s view that names are descriptions.
+One final example will illustrate how reductio arguments often
+introduce a proposition to which the author does not subscribe and
+which is actually the opposite of the conclusion he desires. For
+example, one might argue that definite descriptions have no meaning
+in this way:
+  [1]Suppose that definite descriptions have meaning. [2]Then “the
+  author of Waverley” means Scott (since Scott is the person who
+  authored Waverley). [3]Further, if “the author of Waverley” means
+  Scott, then the sentence “Scott is the author of Waverley” is a
+  tautology. [4]But this is absurd. [5]Therefore, definite descriptions
+  have no meaning.
+Notice that the supposition, expressed in [1], is the contradictory of
+the conclusion [5]. [1] is used as a premise; it is merely supposed for
+the sake of argument. The author is not asserting or committing
+himself to [1]. He uses [1] to show ultimately that [1] is false and that
+the contradictory of [1], namely [5], is true. [3] is absurd. Since [3]
+supposedly follows from [1], [1] must be false. Thus, the contradictory
+of [1], namely [5], must be true.
+
+8 Dialectical Reasoning
+Dialectics has many meanings. It is sometimes used as a term of praise
+and sometimes pejoratively. In either case, dialectics refers to the
+product of a kind of reasoning. In this section, dialectics will be used
+neutrally for a process of reasoning. The process consists of advancing
+a thesis, producing arguments or evidence against it, advancing a new
+or revised thesis that avoids the criticisms of the first thesis, but then
+producing arguments and evidence against it. This process can go on
+indefinitely. Sometimes the process involves the assertion of some
+proposition, say, “Humans have free will,” and then, after it has been
+
+=== p. 174 ===
+
+criticized, the assertion of the opposite thesis, “Humans do not have
+free will,” and then the next thesis is some more precise statement of
+the original proposition, which avoids the original criticisms, say,
+“Some human actions are caused by free will.”
+The most famous practitioner of dialectical argumentation was Plato,
+and on one interpretation he thought that there was no end to the
+process because there are no final answers in philosophy. Whether
+that is true or not, the dialectical process in a good essay will always
+end before its word limit is reached.
+I shall be using the term “dialectical reasoning” as the name of a
+process, a style or a method of reasoning. In this sense, dialectical
+reasoning is characterized by the following:
+a. It is reasoning that proceeds by considering a series of topically
+   related propositions.
+b. Each succeeding proposition usually comes out of or is inspired by
+   prior propositions.
+c. Each succeeding proposition is supposed to be closer to the truth
+   than any earlier one.
+These three aspects of dialectic call for some brief comment.
+Concerning (a), the semantic relation between the two propositions is
+paradigmatically that of negation. G. F. W. Hegel, with whose name
+dialectics is most closely tied, preferred one dialectical proposition to
+be the negation of the other. However, it is prudent not to take this
+feature too seriously. Often, one dialectical proposition is merely the
+contrary of another. (Two propositions are contrary just in case they
+cannot both be true, but both may be false.) For example, one might
+move from the proposition that humans have a natural tendency to
+do evil to the proposition that humans have a natural tendency to do
+good and, after examining the deficiencies in both, eventually
+conclude that humans have some tendencies to do evil and some
+tendencies to do good.
+Concerning (b), one proposition comes out of the prior proposition by
+considering its logical consequences and in that way discovering the
+limitations of the concepts expressed in it. Succeeding propositions
+
+=== p. 175 ===
+
+usually arise from one or more of the following types of revision:
+1. negation
+2. expansion
+3. hedging
+Negation is the classic Hegelian type of revision. A philosopher might
+begin with the thesis “Universals exist,” and then negate this, in the
+face of objections, to “Universals do not exist.”
+Expansion is making more explicit; it is making a point fuller. A
+philosopher who begins with the proposition “All humans are free”
+may explain this by expanding it as “All humans are born free
+although some are made slaves by law.” There are many forms of
+expansion. Qualifying a proposition is one type. Jean-Jacques
+Rousseau says, “Man is born free; yet everywhere he is in chains.” The
+claim is pithy, but not literally true, even without cavils about his use
+of metaphor. In the course of his exposition, it becomes clear that what
+he means is “Man, considered as a creature in the state of nature, that
+is, not restricted by civilization, is born free; yet in civil society he is
+always in chains or unlikely to be happy.” Qualifying a thesis in this
+way is sometimes called “nuancing.”
+Hedging is weakening a proposition. A philosopher who changes
+“Humans are necessarily two-footed” to “Humans are normally two-footed;” or changes “All human actions are free” to “Some human
+actions are free” is hedging his proposition.
+Concerning (c) above, dialectic has a pedagogical motivation. The
+systematic treatment of the succession of propositions is supposed to
+be an easy way of leading a person to the truth. The successive
+consideration of a series of propositions shows why other possibilities
+are not correct. This is especially helpful when the correct view is very
+complicated. A dialectical treatment of a view should reveal why the
+complicated view is unavoidable. For example, H. P. Grice in his
+article “Meaning” considers one after the other the following three
+propositions:
+   an audience A to believe that p in virtue of x.
+
+=== p. 176 ===
+
+   an audience A to recognize that S intends A to believe that p in
+   virtue of x.
+   an audience A to come to believe that p at least in part because A
+   recognizes that by uttering x, S intends A to come to believe that p.
+It would be difficult to get a reader to believe (3) much less to
+understand it, if she had not seen why Grice found it necessary to
+reject (1) and (2) as too simple.
+In a dialectical treatment of an issue, the later propositions are
+supposed to be more certain and better grounded than the earlier
+ones. They are more certain and better grounded because the
+dialectical development has allowed the arguments for a thesis to be
+presented, the objections to it to be aired, and either refuted or used to
+improve upon the original thesis. Various sorts of vagueness and
+inaccuracy of the sort discussed in chapter 6 have been eliminated.
+Dialectical reasoning need not consist simply as a series of assertions
+and refutations. Here is an example of dialectical reasoning in an
+essay, in which the focus is on the meaning of a question:
+
+               ON THE REASON TO BE MORAL
+ People sometimes ask, “Why should I be moral?” and cannot seem
+ to find a satisfactory answer. Perhaps it is because the answer is
+ trivial or tautological. To be moral is to do what should be done. So
+ the question in effect asks, “Why should I do what I should do?”
+ The answer to this question is tautologous, “I should do what I
+ should do.”
+ Unfortunately, it is just as plausible that the question, far from
+ having a self-evident answer, involves a contradiction. Someone
+ who asks this question is wondering why he or she should act
+ morally when it is against his or her self-interest to do so. The
+ questioner is in fact asking, “Why is it in my self-interest to act
+ morally when it is against my self-interest?” One wants an answer
+
+=== p. 177 ===
+
+ that says, “It is in one’s self-interest to act morally when it is
+ against one’s self-interest to act morally.” And that answer is
+ contradictory. Since people think it is dangerous to think or to
+ teach that people should not act against their self-interest, it is
+ obvious why the question is problematic.
+ Now it seems that both explications of the question are defective.
+ The second explication mistakenly assumes that one should always
+ act in one’s self-interest; and that is not true. People often have an
+ obligation to act against their self-interest. So taking self-interest
+ into account, the question should be framed like this: “Why should
+ I be moral when it is against my self-interest to do so.” The first
+ explication is defective in a similar way. It mistakenly assumes that
+ self-interest plays no role in the question. Taking the force of self-interest into account, the question might be framed, “When it is
+ against my self-interest, why should I be moral.” The only
+ difference between the forms of the two questions is their focus or
+ emphasis, one trying to motivate moral behavior when the
+ psychological force of self-interest is great, the other trying to
+ defeat that psychological force when morality is called for.
+
+In one form of dialectical reasoning, an author might combine
+dialectical reasoning with a reductio. Consider this essay fragment:
+
+ One might think that the only things that are real are things that
+ exist. A moment’s reflection, however, will show that this cannot be
+ so. For, if it were, then nothing would be able to change. For
+ everything that changes changes from something that exists at a
+ certain time to something that does not exist at that time. Since
+ what does not exist is not real, by our original principle, change
+ would be impossible. This is obviously absurd.
+ Thus, it seems that the things that are real are things that exist
+ and things that do not exist. Yet this position seems impossible as
+ well. For it likewise does not explain how change is possible:
+ Whatever changes exists. If what changes becomes what does not
+ exist, then it becomes nothing; for what does not exist is nothing.
+ But this is impossible. Thus, something like our original
+
+=== p. 178 ===
+
+ proposition is true. Yet, it must be modified to take the fact of
+ change into account: The only things that are real are things that
+ exist at some time. Thus, everything that changes changes from
+ something that exists at one time, say t1, to something that exists at
+ another time, say t2.
+
+In this passage, there was a dialectical development that crucially
+involved the three italicized propositions:
+1. The only things that are real are things that exist.
+2. The things that are real are things that exist and things that do not
+   exist.
+3. The only things that are real are things that exist at some time.
+The move from proposition (1) to proposition (2) was motivated by a
+reductio argument, as was the move from (2) to (3). (2) also seems to
+contradict (1), and to incorporate that contradiction, although in fact
+the two apparent conjuncts of (2) are not contradictory. (It is perhaps
+this sort of appearance that led Hegel to claim that reality is
+contradictory.) Concerning (3), notice that it is superficially closer to
+(1) than (2). It seems to be a “return” to (1) – with a difference. (3) is
+more complex and precise than (1). In short, there is a sense in which
+(3) supersedes (1) and (2); and a sense in which (2) is the opposite of
+(1).
+Here’s another example of an essay that incorporates a dialectical
+method:
+
+ [1]All human actions are egoistic. [2]Everyone is motivated by his
+ own narrow self-interest. [3]No one acts in a way that he thinks
+ will be harmful to himself. [4]The current hedonism is evidence of
+ this.
+ [5]One might object that egoism cannot be true. [6]People who
+ give to charity, parents who sacrifice for their children, soldiers
+ who give their lives for their country, might seem to prove that
+ egoism is false.
+
+=== p. 179 ===
+
+ [7]Yet, this is not sufficient to refute egoism. [8]People always act
+ out of their own self-interest, even though that self-interest is not
+ immediately accessible. [9]People give to charity to avoid feeling
+ guilty; parents sacrifice for their children for the vicarious pleasure
+ they receive from their later success; soldiers give up their lives,
+ not for their country, but to avoid the shame of cowardice and the
+ inevitable execution for desertion if they don’t. (This passage is
+ inspired by Charles Landesman, Philosophy: An Introduction to
+ the Central Issues, New York: Holt, Rinehart and Winston, 1985,
+ p. 24.)
+
+There are four propositions that are important for understanding the
+dialectical structure of this passage. Sentence [1] states the thesis.
+Sentence [5] tentatively denies [1] in the form of an objection.
+Sentence [7] reaffirms the thesis in a general way, and prepares the
+reader for sentence [8], which is a more precise reformulation of the
+thesis, which is made possible in virtue of [5].
+The purpose of dialectical reasoning should be rhetorical or
+pedagogical. Leading the reader through a number of plausible
+alternatives on some problem is supposed to make the understanding
+of the true proposition simpler. The point is to instruct, not to dazzle.
+As you become familiar with the writing styles of major philosophers,
+you may notice that the dialogue form seems to lend itself to
+dialectical reasoning. The give and take of discourse invites the
+assertion of a proposition; its refutation; its replacement by another
+proposition that takes account of the refutation by one speaker and its
+opposite by another. Each speaker can refute the proposition of the
+other and thereby lead each speaker to revise his thesis successively.
+Nonetheless, not all dialogues exhibit this kind of dialectical
+reasoning. Often the dialogue form is used merely to develop at great
+length a thesis stated at the beginning and never revised.
+A caution should be aired here. Although setting out one’s reasoning
+dialectically is a good way to develop an argument, be careful about
+trying to use the dialogue form to express a dialectical progression in
+your own essay. It is a much more difficult form to write in than it
+might appear. Only the best philosophers and philosophical stylists,
+
+=== p. 180 ===
+
+such as Plato, Berkeley, and Hume, for example, have succeeded with
+it. One pitfall is cuteness. Do not substitute cleverness or humor for
+thought and substance. Another pitfall is digression. A dialogue must
+be controlled. Although interesting asides and philosophical subplots
+might be introduced, it is important not to let the dialogue meander or
+get off course, like the beginning of Tristram Shandy.
+Dialectical reasoning is helpful for essay writing because it often
+provides an easy method of organization. In the course of thinking
+about your essay before you write, or in the course of taking notes
+before drafting, people often fall into this pattern of thinking:
+   On the one hand, X
+   On the other hand, not-X, because of P
+   Then again, X because of Q
+   On the other hand, not-X because of R
+Students often find this kind of see-sawing frustrating, and they come
+to think that they don’t know what they think or what they ought to
+think. And this tends to cause writer’s block. One way out of this
+problem is to use the see-sawing thinking to your own advantage.
+Don’t think of it as wavering or uncertain; think of it as dialectical! Use
+it as the basic structure of the middle part of your essay.
+
+  1. Construct short dialectical passage in which these sets of
+     propositions play the key role:
+     a. No human actions are free.
+     b. Some human actions are free.
+      c. All human actions are caused; but some human actions are
+         not coerced.
+  2. Write a 300–500 word essay in which the following dialectic is
+     played out:
+                   The Correct Criterion of Moral Behavior:
+
+=== p. 181 ===
+
+      a. The Golden Rule: Do unto others as you would have them
+         do unto you.
+         Objection: Different people want to be “done unto” in
+         different ways. You may want a designer purse for a present,
+         but the potential recipient has no interest in designer
+         fashion.
+      b. The Platinum Rule: Do unto others as they would have you
+         do unto them.
+         Objection: Some people desire the wrong things. A person
+         may want you to supply them with a harmful drug.
+      c. The Depleted Uranium Rule: Do unto others as they ought
+         to be done unto.
+         Objection: The goal was to get a criterion, that is, an
+         operational test for moral behavior. The Depleted Uranium
+         Rule is unhelpful.
+      d. [Supply a conclusion.]
+
+Note
+1   The subject expressions of predicates are often restricted to
+    semantically acceptable words and phrases. So, acceptable subject
+    expressions for “x is a bachelor” are names and descriptions of
+    human beings. Such restrictions are assumed for these and other
+    examples.
+

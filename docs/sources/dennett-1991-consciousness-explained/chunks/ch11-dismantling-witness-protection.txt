@@ -1,0 +1,1816 @@
+=== chunk: dennett-1991-consciousness-explained/ch11-dismantling-witness-protection ===
+title: Dismantling the Witness Protection Program
+source_pdf: docs/sources/dennett-1991-consciousness-explained/full.pdf
+pdf_pages: 336-383
+page_scheme: book
+plan_page_start: 321
+plan_page_end: 368
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 321 ===
+
+                                         DISMANTLING THE
+                                   WITNESS PROTECTION
+                                             PROGRAM
+
+     1. REVIEW
+
+       In Part I, we surveyed the problems and laid down some methodological presuppositions and principles. In Part H, we sketched a
+new model of consciousness, the Multiple Drafts model, and began the
+task of showing why it should be preferred to the traditional model,
+the Cartesian Theater. While the idea of the Cartesian Theater, once
+made explicit, exhibits its flaws quite dramatically — there are no
+avowed Cartesian materialists — the background assumptions and habits of thought it has fostered continue to motivate objections and distort
+"intuition." Now in Part m, we are investigating the implications of
+our alternative model, by answering a succession of compelling objections. Some of these objections betray a persisting — if disavowed —
+allegiance to the dear old Cartesian Theater.
+       "But where does the understanding happen?" This question has
+been hiding at the center of controversy since the seventeenth century.
+Descartes confronted a wall of skepticism when he insisted (correctly)
+that mechanisms in the brain could account for at least a great deal of
+understanding. For instance, Antoine Arnauld, in his objections to the
+Meditations, noted that "at first sight it seems incredible that it can
+come about, without the assistance of any soul, that the light reflected
+from the body of a wolf onto the eyes of a sheep should move the
+minute fibers of the optic nerves, and that on reaching the brain this
+ motion should spread the animal spirits throughout the nerves in the
+
+=== p. 322 ===
+
+ manner necessary to precipitate the sheep's flight" (1641, p. 144). Des-canes replied that this is no more incredible than the human capacity
+ to throw out one's arms protectively when falling, also a reaction accomplished mechanically, without benefit of "soul." This idea of "mechanical" interpretation in the brain is the central insight of any
+ materialistic theory of the mind, but it challenges a deeply held intuition: our sense that for real understanding to occur, there has to be
+ someone in there to validate the proceedings, to witness the events
+ whose happening constitutes the understanding. (The philosopher John
+ Searle exploits this intuition in his famous Chinese Room thought experiment, which will be considered in chapter 14.)
+      Descartes was a mechanist par excellence when it came to every
+other phenomenon in nature, but when it came to the human mind, he
+flinched. In addition to mechanical interpretation, he claimed, the brain
+also provides material to a central arena — what I've been calling the
+Cartesian Theater — where, in human beings, the soul can be a Witness
+and arrive at its own judgments. Witnesses need raw materials on which
+to base their judgments. These raw materials, whether they are called
+"sense data" or "sensations" or "raw feels" or "phenomenal properties
+of experience," are props without which a Witness makes no sense.
+These props, held in place by various illusions, surround the idea of
+a central Witness with a nearly impenetrable barrier of intuitions. The
+task of this chapter is to break through that barrier.
+
+       2. BLINDSIGHT: PARTIAL ZOMBIEHOOD?
+
+      Of all the terrible accidents that befall people, a tiny fraction are
+partly redeemed by the fact that they reveal something of nature's mysteries to inquiring scientists. This is particularly true of brain damage
+brought on by trauma (gunshots, traffic accidents, and the like), tumor,
+or          The resulting patterns of disability and spared ability sometimes provide substantial — even startling — evidence about how the
+mind is accomplished by the brain. One of the most surprising, as its
+paradoxical name suggests, is blindsight. It seems at first to have been
+made to order for philosophers' thought experiments: an affliction that
+
+       1 Tim Shallice. in From Neuropsychology to Mental Structure (1988), provIdes
+an up-to-date and closely argued discussion of the reasoning involved in analyzing these
+experiments of nature.         recent books provide good popular accounts of some of
+these fascinating cases: Howard Gardner, The Shattered Mind (1975), and Oliver Sacks.
+The Man Who Mistook His Wife for His Hat
+
+=== p. 323 ===
+
+turns a normal, conscious person into a partial zombie, an unconscious
+automaton with regard to some stimuli, but a normally conscious person with regard to the rest. So it is not surprising that philosophers
+have elevated blindsight to a sort of mythic status as an example around
+which to build arguments. As we shall see, however, blindsight does
+not support the concept of a zombie; it undermines it.
+      In normal human vision, the incoming signals from the eyes travel
+via the optic nerves through various way stations to the occipital cortex
+or visual cortex, the part of the brain at the very back of the skull above
+the cerebellum. Information about the left visual field (the left halves
+of the fields from each eye) is spread over the right visual cortex, and
+the right visual field on the left cortex. Occasionally a vascular accident
+(e.g., a burst blood vessel) will destroy a portion of the occipital cortex,
+creating a blind spot or scotoma, a relatively large hole in the visually
+experienced world, on the side opposite the damage.
+
+                                   Figure ILl
+
+ In the extreme case   where  both  left and right visual cortices have been
+ destroyed, the person is rendered completely blind. More often, the
+ whole visual cortex on one side of the brain is destroyed by vascular
+ accident, leading to the loss of the opposite half of the visual field; loss
+ of the left visual cortex would produce right hemianopia, complete
+ blindness in the right hemifield.
+       What is it like to have a scotoma? It might seem that this is already
+ familiar to all of us, for we all have blind spots in our visual fields
+ corresponding to the places on our retinas where there are no rods or
+ cones because the optic nerve exits the eyeball there. A normal blind
+
+=== p. 324 ===
+
+ spot, or optic disk, is not small: it blanks out a circle with a diameter
+ of about 6 degrees of visual angle. Close one eye and look at the cross,
+ holding the page about ten inches from your eyes. One of the "blind
+ spot" disks should disappear. Close the other eye, and the opposite
+ disk should disappear. (It may take some adjustment of the distance
+from the page to make the effect happen. Keep looking straight at the
+cross.) Why don't you normally notice this gap in your visual field? In
+part because you have two eyes, and one eye covers for the other; their
+blind spots do not overlap. But even with one eye closed, you won't
+notice your blind spot under most conditions. Why not? Since your
+brain has never had to deal with input from this area of your retina, it
+has devoted no resources to dealing with it. There are no homunculi
+responsible for receiving reports from this area, so when no reports
+arrive, there is no one to complain. An absence of information is not
+the same as information about an absence. In order for you to see a
+hole, something in your brain would have to respond to a contrast:
+either between the inside and outside edge — and your brain has no
+machinery for doing that at this location — or between before and after:
+now you see the disk, now you don't. (That's how the disappearing
+black disk in Figure 11.2 alerts you to your blind spot.)
+
+ .                                    I
+
+                                                                       .
+      Like our normal blind spots, scotomata have definite locations
+and some have sharp boundaries that can be readily plotted by an
+experimenter, using a stimulus such as a point of light that can be
+moved around in the subject's visual field. The subject is asked to report
+when the spot of light is no longer experienced — a variation on the
+experiment you just conducted on yourself to discover your blind spot.
+Reports from the subject can then be correlated with maps of the damage
+in the cortex, produced by CT (computer-aided tomography) and MRJ
+(magnetic resonance imaging) scans of the brain. A scotoma is different
+in one important regard from the normal blind           it is usually noticed
+by the subject. This is not just because it is larger than the normal blind
+spot. Since it is caused by the loss of cells in the visual cortex that
+previously "reported to" other cells in the cortex that also "cared about"
+
+=== p. 325 ===
+
+               DISMANTLING THE %MTNESS PROTECTiON PROGRAM        325
+
+information from certain regions of the retinas, their absence is noticed.
+The brain's expectations are disrupted; something that should be there
+is missing, some epistemic hunger goes unsatisfied. So the subject is
+normally aware of the scotoma, but as a lack, not as a positive area of
+black, such as you might notice if someone pasted a circle of black
+paper on your car windshield.
+       Since the normal visual pathways in the brain have been disrupted
+or cut, one would expect that people with scotomata would be utterly
+unable to glean any information from vision about things happening
+in their blind fields. They're blind, after all. And that is just what they
+say: They experience nothing visual whatever inside the boundaries of
+their scotomata — no flashes, edges, colors, twinkles, or starbursts.
+Nothing. That's what blindness is. But some people with scotomata
+exhibit an astonishing talent: in spite of their utter lack of conscious
+visual experience in the blind area, they can sometimes "guess" with
+remarkable accuracy whether or not a light has just been flashed in the
+field, and even whether a square or circle was shown. This is the phenomenon called blindsight (Weiskrantz, 1986, 1988, 1990). Just how
+blindsight is to be explained is still controversial, but no researcher
+ thinks there is anything "paranormal" going on. There are at least ten
+ different pathways between the retina and the rest of the brain, so even
+ if the occipital cortex is destroyed, there are still plenty of communication channels over which the information from the perfectly normal
+ retinas could reach other brain areas. Many tests have now been performed on blindsight subjects, and there is no doubt that they can do
+ much better than chance (even as good as 100 percent correct under
+ some conditions) at guessing various simple shapes, the direction of
+ motion, the presence or absence of light. No blindsighted person has
+ yet exhibited a capacity to discriminate colors in the blind field,
+ recent research by Stoerig and Cowey (1990) provides evidence that
+ this may be possible.
+        What is going on in blindsight? Is it, as some philosophers and
+ psychologists have urged, visual perception without consciousness —
+ of the sort that a mere automaton might exhibit? Does it provide a
+ disproof (or at any rate a serious embarrassment) to functionalist theories of the mind by exhibiting a case where all the functions of vision
+ are still present, but all the good juice of consciousness has drained
+ out? It provides no such thing. In their rush to harness blindsight to
+  pull their ideological wagons, philosophers have sometimes overlooked
+  some rather elementary facts about the phenomena of blindsight and
+  the experimental setting in which they can be elicited.
+
+=== p. 326 ===
+
+       Like the "temporal anomalies" analyzed in chapters 5 and 6, the
+ phenomena of blindsight appear only when we treat subjects from the
+ standpoint of heterophenomenology. The experiments couldn't be conducted if the experimenters couldn't give verbal instructions to the
+ subjects (and be confident that they were understood), and the subjects'
+ responses provide evidence of a startling phenomenon only when they
+ are interpreted as speech acts. This is almost too obvious to notice, so
+I must pause to rub it in.
+      The interpretation of blindsight is controversial in many ways,
+but remarkably uncontroversial in one regard: Everyone agrees that the
+blindsight subject somehow comes to be informed about some event in
+the world via the eyes (that's the "sight" part), in spite of having no
+conscious visual experience of the relevant event (that's the "blind"
+part). More compactly, blindsight involves (1) receipt of visual information that is (2) nevertheless unconscious. The proof of (1) is straightforward: the subject does much better than chance on tests that probe
+for that information. The proof of (2) is more circumstantial: the subjects
+deny that they are conscious of any such events, and their verbal denials
+are supported by neurological evidence of brain damage on the one
+hand, and by the coherence of their denials on the other. So we believe
+them!2
+      This is not a trivial point. Notice that what is striking about blind-sight would evaporate immediately if we concluded that blindsight
+subjects were malingering — just pretending not to be conscious. Or,
+closer to home, compare our acceptance of the denials of blindsight
+subjects to the skepticism with which we greet the same denials when
+they issue from people diagnosed as suffering from "hysterical blindness." Sometimes people whose eyes and brains are apparently in working order, so far as physiologists can determine, have nevertheless
+complained that they have been struck blind; they support this complaint by acting "just like a blind person." One can often find a fairly
+plausible reason why such a person should be motivated to "become"
+blind — either as a punishment to themselves or to someone who must
+now care and feel sorry for them, or as a way of denying some terrible
+visual memory, or as a sort of panic response to some other illness or
+
+       2. Note that the details of neurological damage by themselves (without the denials)
+would prove nothing; it is only by matching up neurological damage with (credible)
+reports and behavioral evidence that we get any hypotheses about which parts of the
+brain are essential for which conscious phenomena.
+
+=== p. 327 ===
+
+                 DISMANTUNG THE WiTNESS PROTECTION PROGRAM                  327
+
+debility — so this is "psychosomatic" blindness if it is blindness at all.
+Are they really blind? They might be. After all, one might argue, if
+psychosomatic pain is real pain, and psychosomatic nausea is real
+enough to make one vomit, why shouldn't psychosomatic blindness be
+real blindness?
+       Hysterically blind people claim to be blind, but, like blindsight
+subjects, they nevertheless give unmistakable evidence that they are
+taking in visual information. For instance, hysterically blind people
+typically do significantly worse than chance if asked to guess about the
+visible features of things! This is a sure sign that they are somehow
+using visual information to guide their behavior into a preponderance
+of "errors." Hysterically blind people have an uncanny knack of finding
+chairs to bump into. And yet, unlike outright malingerers, when hysterically blind people say they are having no visual experiences, they
+are sincere — they really believe what they say. Shouldn't we? How
+should we treat the texts of these two different groups of subjects when
+we go to extrapolating their heterophenomenological worlds?
+       Here is a place where the ultracautious policies of heterophenom-enology pays dividends. Both blindsight subjects and hysterically blind
+ people are apparently sincere in their avowals that they are unaware
+ of anything occurring in their blind field. So their heterophe-nomenological worlds are alike — at least in respect to the presumptive
+ blind field. And yet there is a difference. We have less knowledge of
+ the neuroanatomical underpinnings of hysterical blindness than we do
+ of blindsight, yet we feel, intuitively, much more skeptical of their
+ denials.3 What makes us suspect that the hysterically blind are not
+ really blind at all, that they are even in some way or to some degree
+ conscious of their visual worlds? The suspiciously auspicious circumstances of their blindness make us wonder, but beyond that circumstantial evidence there is a simpler reason: We doubt their blindness
+ claims because without prompting, hysterically blind people sometimes use the information their eyes provide for them in ways blind sight
+ subjects do not.
+       A factor is present in the blindsight experimental situation that
+ fits so perfectly with our standard assumptions that almost no one
+ bothers to discuss it (but see Marcel, 1988; van Gulick, 1989; Carruthers,
+
+       3. Without the confirmation of the brain scans showing the cortical damage, there
+would surely also be widespread skepticism about the genuineness of the scotomata of
+blindsight subjects. See, e.g., Campion Latto. and Smith (1983) and Weiskrantz (1988).
+
+=== p. 328 ===
+
+           328   THE PHILOSOPHICAL PROBLEMS OF CONSCtOUSNESS
+
+ 1989): Blindsight subjects have to be prompted or cued to give their
+better-than-chance "guesses." Thus the experimenter may have said,
+in the initial instructions: "Whenever you hear a tone, make a guess"
+or "Whenever you feel me tap your hand, make a response." Without
+such cues, the subject simply fails to
+      We can test our diagnosis of the difference by imagining a variation. Suppose we encountered a purported blindsight subject who
+didn't have to be cued: she "spontaneously" issues "guesses" (well
+above chance, but not perfect) whenever something is presented in the
+purported blind field. We sit her down in the laboratory and do the
+usual testing to map the supposed scotoma; she tells us whenever the
+moving light disappears into her blind field, just like any other blind-sight subject. But at the same time she spontaneously volunteers remarks like "This is only a guess, but did you just shine a light in my
+scotoma?" — but only just after we'd done just that. This would be
+suspicious, to say the least, and we can say why.
+     In general, when subjects comply with their instructions in an
+experiment, this is seen as unproblematic evidence that they have been
+able to comply with the instructions because they have consciously
+experienced the relevant stimulus events. That's why the following
+preparatory instruction would be viewed as nonsensical:
+
+       Whenever you are conscious of the light going on, press the button
+       on the left; whenever the light goes on but you are not conscious
+       of it going on, press the button on the right.
+
+     How on earth could a subject comply with this? You would be
+asking the subject to do the impossible: to condition his behavior on
+occurrences that are inaccessible to him. It would be like saying "raise
+your hand whenever someone winks at you without your knowing it."
+
+        4. The phflosopher Colin McGinn (1991) says of an imagined blindsight patient:
+ 'Behaviorally, she can function much like a sighted person; phenomenologically, she
+ strikes herself as blind" (p. 111). ThIs is simply false; she cannot function behaviorally
+ much like a sighted person at all. McGinn goes on to underscore his striking claim:
+ "Besides, let's be naive for a minute, don't blindsight patients look very much as if they
+ are having visual experiences when they make their surprising discriminations?. . They
+                                                                                   .
+
+ don't look the way people look when there is nothing experiential going on" (p. 112).
+Again, this is false. They look In fact as if they were not having visual experiences.
+becouse they hove to be cued, if they thdnt have to be cued, they would indeed look as
+if they were having visual experiences — so much so that we wouldn't believe their
+denials!
+
+=== p. 329 ===
+
+               DISMANTUNG THE WiTNESS PROTECTiON PROGRAM         329
+
+An experimenter wouldn't feel the need to insert the adverb "consciously," as in
+     Whenever you consciously hear a tone, make a guess
+since the standard assumption is that one can't condition one's policies
+on unconscious experiences, even if such things occur. To adopt the
+policy
+     Whenever x happens, do y
+you have to be able to be conscious of x happening.
+     That's our standard assumption, but this edifice of obviousness
+has a crack in it. Haven't we learned that many of our behaviors are
+governed by conditions that we only unconsciously detect? Consider
+the policies regulating our body temperature, adjusting our metabolism,
+storing and retrieving energy, activating our immune systems; consider
+such policies as blinking when things approach or enter the eye, and
+even such large-scale public behaviors as walking (without falling over)
+and ducking when things suddenly loom at us. All this "behavior" is
+controlled without any help from consciousness — as Descartes had
+observed.
+      It seems, then, that there are two kinds of behavioral policies:
+those controlled by conscious thought and those controlled by "blind,
+mechanical" processes — just like the processes that control an automated elevator, if an automated elevator is to adhere to the policy of
+carrying no more than two thousand pounds, it must have some sort
+of built-in scale to detect when this limit is surpassed. An automated
+elevator is certainly not conscious, and detects nothing consciously,
+and hence has no conscious policies. It can be said, however, to adhere
+to policies that hinge on various states of the world that it detects, and
+even to adjust the policies it adheres to on the basis of other states of
+affairs it detects, and so forth. It can have policies, meta-policies. and
+meta-meta-policies. all hinging on various complicated combinations
+of detected states of affairs — and all without a hint of consciousness. Whatever an elevator can do in the way of detection and policy-following, a human brain and body can surely do as well. It can follow
+ elaborate unconscious elevator-type policies.
+       So what is the difference between unconscious policy-following
+ and conscious policy-following? When we consider the policies our
+ bodies follow unconsciously, thanks to "blind, mechanical" condition-detectors, it is tempting to say that since these are unconscious policies,
+ they are not so much our policies as our bodies' policies. Our policies
+
+=== p. 330 ===
+
+ are (by definition, one might say) our conscious policies; the ones we
+ formulate consciously and deliberately, with the opportunity to reflect
+ (consciously) on their pros and cons, and the opportunity to adjust or
+ amend them as the situation unfolds in our experience.
+       So it seems that when a policy is initially adopted as a result of
+ verbal discussion, or in response to verbal instructions, it is ipso facto
+ a conscious policy, which must hinge on consciously experienced
+ events (Marcel, 1988). What seems self-contradictory is the notion that
+ one could talk it over and thereupon decide to follow an unconscious
+ policy, hinging on unconsciously detected events. But there is, we can
+ see, a loophole: The status of such a policy might change. With enough
+ practice, and some strategically placed forgetfulness, we might start
+ from a consciously adopted and followed policy and gradually move
+ ourselves into the state of following an unconscious policy by detecting
+ the relevant hfnges without being conscious of them. This could happen, but only if the link to the verbal consideration of the policy were
+ somehow broken.
+       This possible transition can be better envisaged going in the other
+direction. Couldn't a blindsight subject become conscious of visual
+experiences in the scotoma, by a reversal of the process just imagined?
+After all, in blindsight the subject's brain manifestly does receive and
+analyze the visual information that is somehow utilized in the good
+guesswork. Shortly after the stimulus occurs, something happens in
+the subject's brain that marks the onset of the informed state. if an
+external observer (such as the experimenter) can arrange to recognize
+these onsets, this observer could in principle pass on the information
+to the subject. Thus the subject could come to recognize these onsets
+"at second hand'• in spite of not being conscious of them "directly."
+And then, shouldn't the subject be able in principle to "eliminate the
+middleman" and come to recognize, just as the experimenter does, the
+changes in his own dispositions? At the outset, it might require using
+some sort of self-monitoring equipment — the same equfpment the experimenter relies on — but with the subject now looking at or listening
+to the output
+      In other words, shouldn't it be possible in principle to "close the
+
+      5. "If he could listen to his own galvanic skin response, he'd be in better shape." —
+Larry Weiskrantz, commenting on one of his blindsight patients, ZIF. Bielefeld, May
+1990.
+
+=== p. 331 ===
+
+feedback loop" and thereby train the subject to follow a policy of conditioning his behavior on changes which he did not ("directly") experience? I raise the prospect of such training in blindsight as if it were
+just a thought experiment, but in fact it could readily be turned into a
+real experiment. We could try to train a blindsight subject to recognize
+when to "guess."
+       Subjects with blindsight are not unchanging in their talents and
+dispositions; some days they are in better form than others; they do
+improve with practice, in spite of the fact that they are usually not
+provided with immediate feedback from the experimenter on how well
+they are doing (for exceptions, see ZihI, 1980, 1981). There are several
+reasons for this, chief of which is that any such experimental situation
+is bedeviled with possibilities of unintended and unnoticed hints from
+the experimenter, so interactions between experimenter and subject are
+scrupulously minimized and controlled. Nevertheless, subjects feed on
+the cuing or prompting they receive from the experimenter, and gradually accustom themselves to the otherwise weirdly unpromising practice of making hundreds or thousands of guesses on matters about which
+they are convinced they have no experience whatever. (Imagine how
+you would feel if you were asked to sit down with the telephone book
+and guess what make of automobile each listed person owned, without
+ever being told when you happened to guess correctly. It would not
+seem a well-motivated activity for very long, unless you got some credible assurance about how well you were doing, and why this was a
+stunt worth trying.)
+       What would happen, then, if we were to throw other scientific
+goals to the winds and see how much we could achieve by training
+someone with blindsight, using whatever feedback seemed to help?
+Suppose we begin with a standard blindsight subject, who "guesses"
+whenever we cue him (the so-called forced-choice response), and whose
+guesses are better than chance (if they aren't, he isn't a blindsight subject). Feedback would soon tune this to a maximum, and if the guessing
+ leveled off at some agreeably high rate of accuracy, this should impress
+on the subject that he had a useful and reliable talent that might be
+worth exploiting. This is in fact the state that some blindsight subjects
+are in today.
+       Now suppose we start asking the subject to do without cuing —
+to "guess when to guess," to guess "whenever the spirit moves you" —
+ and again let's suppose that the experimenter provides instant feedback.
+There are two possible outcomes:
+
+=== p. 332 ===
+
+      332   THE PHILOSOPHICAL PROBLEMS OF CONSCOUSNESS
+
+      (1) The subject starts at chance and stays there. In spite of the
+          fact that the subject is measurably informed by the onset of
+          the stimulus events, there seems to be no way the subject can
+          discover when this informing has occurred, no matter what
+          "biofeedback" crutches we lend him.
+      (2) The subject eventually becomes able to work without a cue
+          from the experimenter (or from any temporary biofeedback
+          crutch), performing significantly above chance.
+
+        Which outcome we would get in any particular case is of course
+ an empirical matter, and I won't elzen hazard a guess on how likely a
+ type-2 result might be. Perhaps in every single case, the subject would
+ be unable to learn to "guess" correctly when to guess. But notice that
+ if a type-2 result were to happen, the subject could then quite reasonably
+ be asked to adopt policies that required him to hinge his behavior on
+ stimuli whose occurrence he could only guess to occur. Whether or
+ not he was conscious of these stimuli, if his "guessing" reliability was
+ high, he could treat those stimuli on a par with any conscious experiences. He could think about, and decide upon, policies that hinged
+ on their occurrence as readily as on the occurrence of events consciously experienced.
+        But would this somehow make him conscious of the stimuli? What
+ are your intuitions? When I have asked people what they would be
+ inclined to say in such a case, I get mixed responses. Folk psychology
+ does not yield a clear verdict. But a blindsight subject has spoken for
+ himself about a similar circumstance. DB, one of the subjects studied
+by Weiskrantz, has right hemianopia, and shows the classic blindsight
+capacity to guess above chance when cued. For instance, if a light is
+slowly moved across his scotoma horizontally or vertically and he is
+prompted to guess "vertical or horizontal," he does extremely well,
+while denying all consciousness of the motion. However, if the light
+is moved more swiftly, it becomes sell-cuing: DB can volunteer without
+prompting a highly accurate report of the motion, and even mimic the
+motion with a hand gesture, as soon as it occurs (Weiskrantz, 1988,
+1989). And when asked, DB insists that of course he consciously experiences the motion — how else would he be able to report it? (Other
+blindsight subjects also report conscious experience of fast-moving
+stimuli.) We may want to reserve judgment, but his response should
+not surprise us, if Rosenthal's analysis of the ordinary concept of consciousness is on the right track. DB doesn't just come to be informed
+about the motion of the light; he realizes he's come to be informed; in
+
+=== p. 333 ===
+
+Rosenthal's terms, he has a second-order thought to the effect that he's
+just had a first-order thought.
+      Otto, our critic, returns:
+     But this is just more sleight of hand! We've always known that
+     blindsight subjects were conscious of their guessing. All this
+     shows is that such a subject might develop a talent for guessing
+     when to guess (and, of           he would be conscious of those
+     guesses). Coming to recognize that one's guesses on these topics
+     were reliable would hardly in itself be sufficient for one to become
+     directly conscious of the event one is guessing about.
+      This suggests that something more is needed for visual consciousness. What might be added? For one thing, the connection between the
+guess and the state it is about, while reliable, seems pretty thin and
+ephemeral. Could it be thickened and strengthened? What would be
+the result if the ties of aboutness between the guess and its object were
+multiplied?
+
+     3. HIDE THE THIMBLE: AN EXERCISE IN
+        CONSCIOUSNESS-RAISING
+
+      The standard philosophical term for aboutness is intentionality,
+and according to Elizabeth Anscombe (1965) it "comes by metaphor"
+from the Latin, intendere arcum in, which means to aim a bow and
+arrow at (something). This image of aiming or directedness is central
+in most philosophical discussions of intentionality, but in general philosophers have traded in the complex process of aiming a real arrow
+for a mere "logical" arrow, a foundational or primitive relation, made
+all the more mysterious by its supposed simplicity. How could something in your head point this abstract arrow at a thing in the world?°
+Thinking of the aboutness relation as an abstract, logical relation may
+in the end be right, but at the outset it deflects attention from the
+processes that are actually involved in keeping a mind in enough contact with the things in the world so that they can be effectively thought
+about: the processes of attending to, keeping in touch with, tracking
+and trailing             unpublished). The actual business of aiming at
+something, "keeping it in the                involves making a series of
+adjustments and compensations over time, under "feedback control."
+
+     6. My answer to this question is my book The Intentional Stonce (1987).
+
+=== p. 334 ===
+
+      334   THE PHILOSOPI-UCAL PROBLEMS OF CONSCIOUSNESS
+
+That's why the presence of clouds of distractors (such as the chaff that
+confounds antimissile systems) can make aiming impossible. Locking
+on to a target long enough to identify it is an achievement that calls for
+more than a single, momentary informational transaction. The best way
+to keep in touch with something is, literally, to keep in touch with it —
+to grab it and not let it get away, so that you can examine it to your
+heart's content, in your own good time. The next best way is to keep
+in touch with it figuratively, by tracking it with your eyes (and the rest
+of your body), never letting it out of your sight. This is an achievement
+that can be accomplished by perception, of course, but not just by
+ passive perception; it may take some effort, some planning, and, in any
+ event, continuing activity to keep in touch with something.
+      When I was a child I loved to play the children's party game Hide
+ the Thimble. An ordinary thimble is shown to all participants, and all
+     one leave the room, while the thimble is "hidden." The rules for
+  ae hider are clear: The thimble has to be hidden in plain sight. It may
+ not be placed behind or under anything, or too high up for any of the
+children to see. In the average living room there are dozens of places
+you can place a thimble where it will tend to melt into its surroundings
+like a well-camouflaged animal. Once it is hidden, the rest of the children come back in the room and proceed to hunt for the thimble. As
+soon as you see the thimble you quietly sit down, trying not to betray
+its location. The last few children to find the thimble can usually be
+counted on to look right at the thimble several times without actually
+seeing it. In these delicious moments, everyone else can see that the
+thimble is right in front of Betsy's nose, let's say, well lit and subtending
+a healthy angle in her visual field. (At such moments my mother liked
+to say, "If it were a bear, it would bite you!") From the giggles and
+gasps of the other children, Betsy may herself realize that she must be
+staring right at it — and still not see it.
+      We might put it this way: Even if some representational state in
+Betsy's brain in some way "includes" the thimble, no perceptual state
+of Betsy is about the thimble yet. We may grant that one of her conscious
+states is about the thimble: her "search image." She may be fiercely
+concentrating on finding the thimble, the very thimble she was allowed
+to examine just a minute or two ago. But no strong relation of intentionality or aboutness yet holds between any of her perceptual states
+and the thimble, even though there may well be information in some
+state of her visual system that would make it possible for someone else
+(an outside observer, for instance, studying the states of her visual
+cortex) to locate or identify the thimble. What must happen is for Betsy
+
+=== p. 335 ===
+
+                   DiSMANTUNG THE WITNESS PROTECTION PROGRAM                     335
+
+to "zero in on" the thimble, to separate it as "figure" from "ground"
+and identify it. After that has happened, Betsy really does see the thimble. The thimble will finally be "in her conscious experience" — and
+now that she is conscious of it, she will be able at last to raise her hand
+in triumph — or go quietly to sit with the other children who have
+already spotted the
+      Such feedback-guided, error-corrected, gain-adjusted, purposeful
+links are the prerequisite for the sort of acquaintance that deserves the
+name — that can then serve as a hinge for policy, for instance. Once I
+have seen something in this strong sense, I can "do something about
+it" or do something because I saw it or as soon as I saw it. Individual
+thimbles, once identified, are normally easy enough to keep track of
+thereafter (unless of course you happen to be in a room full of thimbles
+in an earthquake). Under normal circumstances, then, the elevated status the thimble achieves in Betsy's control system is not just for a
+fleeting moment; the thimble will remain located by Betsy during reaching, or during time taken to reaffirm its identity, to check it again
+(and again — if there are grounds for doubt). The things we are most
+definitely conscious of are the items we frankly and unhurriedly observe, gathering in and integrating the fruits of many saccades, building up an acquaintance over time while keeping the object located in
+personal space. if the object is darting around like a butterfly, we will
+actually take action to immobilize it, "so we can look at it," and if
+it is well camouflaged in its surroundings, we have to take steps —
+literally, if we mustn't touch it — to get it in front of a contrasting
+background.
+      Our failure to do this may prevent us from seeing the object, in
+an important and familiar sense of the term.°
+
+        7. Is her identification of the thimble a subsequent effect of her becoming conscious
+of it, or a prior cause of her becoming conscious of it? This is the question — Orwellian
+or Stalinesque? — that the Multiple Drafts model teaches us not to ask.
+        8. Under normal conditions, location ('spotting itS') and identification go hand in
+hand; spotting the thing-to-be-Identified is a precondition for identifying it. But this
+normal coincidence masks a striking fact: The identification machinery and the location
+machinery are to a large degree Independent in the brain, located in different regions of
+the cortex (Mishkln Ungerleider, and Macko, 1983), and hence capable of being shut
+down independently. There are rare pathologies in which the subject can readily identify
+what he is seeing without being able to locate it in personal space at all, and counterpatt
+pathologies in which subjects can locate a visual stimulus — point to it, for instance —
+and yet be very poor at identifying the object, in spite of having otherwise quite normal
+vision. The psychologist Anne Treisman (1988; Treisman and Gelade. 1980; Treisman
+and Sato, 1990; Treisman and Souther, 1985) has conducted an important series of
+
+=== p. 336 ===
+
+Birdwatchers often keep a life list of all the species they have seen.
+Suppose you and I are birdwatchers, and we both hear a bird singing
+in the trees above our heads; I look up and says "I see it—do you?"
+You stare right where I am staring, and yet you say, truthfully, "No. I
+don't see it." I get to write this bird on my list; you do not, in spite of
+the fact that you may be morally certain that its image must have swum
+repeatedly across your foveae.
+      What would you say? Was the thimble somehow "present" in
+Betsy's consciousness before she spotted it? Was the bird present in
+the "background" of your consciousness, or not present at all? Getting
+something into the forefront of your consciousness is getting it into a
+position where it can be reported on, but what is required to get something into the background of your conscious experience (and not merely
+into the background of your visible environment)? The thimble and the
+bird were undoubtedly present in the visible environment — that's not
+the issue. Presumably it's not sufficient for reflected light from the object
+merely to enter your eyes, but what further effect must the reflected
+light have — what further notice must your brain take of it — for the
+object to pass from the ranks of the merely unconsciously responded
+to into the background of conscious experience?
+      The way to answer these "first-person point of view" stumpers is
+to ignore the first-person point of view and examine what can be learned
+from the third-person point of view. In chapters 8—10, we explored a
+model of speech act production that depended on a Pandemonium
+process in which the eventual mating of contents with expressions was
+the culmination of competitions, the building, dismantling, and rebuilding of coalitions. Contents that entered that fray but did not manage to perpetuate themselves for long might send some sort of one-shot
+"ballistic" effect rippling through the system, but would be close to
+unreportabje. When an event doesn't linger, any attempt to report it.
+
+experiments that support her claim that seeing should be distinguished from identifying. When something is seen, on her model, the brain sets up a "token" for the object.
+Tokens are separate temporary episodic representations' — and their creation is the
+preamble for their further identification, something that is accomplished by searching
+one's semantic memory using a process of the sort that production systems model.
+A token does not have to be defined by a definite location in personal space, however.
+if I understand her model, and for these reasons it is not out of the question that subjects in Betsys State (before she found the thimble) could do better than chance if
+prompted to make a forced-choice guess as to whether the thimble was currently in
+their field of view or not. For experiments bearing on this, see Pollatsek, Rayner. and
+Henderson (1990).
+
+=== p. 337 ===
+
+               DISMANTUNG THE WITNESS PROTEC11ON PROGRAM        337
+
+if started, will either be aborted or will wander out of control, having
+nothing against which to correct itself. For reportability, there must be
+a capacity to identify and reidentify the effect. We can see the development of reportability in many varieties of training, reminiscent of
+the training we imagine giving to our blindsight patient: the results of
+palate-training in wine tasters, ear-training in musicians, and the like —
+or the simple experiment with plucking the guitar string described in
+chapter 3.
+      Consider, for instance, the instructions given to apprentice piano
+tuners. They are told to listen to the "beats" as they strike the key they
+are tuning together with a reference key. What beats? At first, most
+novices are unable to discern in their auditory experience anything
+answering to the description "beats" — what they hear is something
+they would describe as some sort of unstructured bad-soundingness or
+out-of-tuneness. Eventually, though, if training is successful, they come
+to be able to isolate, in their auditory experience, the interference
+"beats," and to notice how the patterns of beats shift in response to
+their turning of the tuning "hammer" on the peg. They can then readily
+tune the piano by tuning out the beats. What they typically say — and
+we can all confirm this with similar episodes in our own experience —
+is that as a result of their training their conscious experience has
+changed. More specifically, it has been augmented: they are now conscious of things they were not previously conscious of.
+      Now in one sense, of course, they were hearing the beats all along.
+It is the interference, after all, that composes the out-of-tuneness of
+which they were certainly conscious. But they were previously unable
+to detect these components in their experience, which is why one might
+say that these factors contributed to but were not themselves present
+in the experience. The functional status of such contributions prior to
+training was the same as that of the events occurring in blindsight: the
+subject is unable to report the particular contributions, or hinge policy
+on their onset, but the results of these contributions can still be made
+manifest in the subject's behavior, for instance in the subject's capacity
+to answer artfully posed questions. What I am suggesting is that there
+ is nothing more to being in the background of experience than that.
+Now it's not out of the question, as we have seen, that a strengthened
+ link of the sort we have just described for piano tuners and wine tasters
+ could be built up in a blindsight subject to the point where he would
+declaTe, and we would readily accept, that he had become conscious
+of the stimuli — even in the forefront of his consciousness — which
+ before he could only guess about.
+
+=== p. 338 ===
+
+     Not so fast. [says Otto.] Here's another objection: You imagine the
+     blindsight subject learning to use his blindsight capacities in these
+     new ways, and maybe that would give him a sort of consciousness
+     of the events occurring in his blind field, but this still leaves
+     something out. The consciousness wouldn't be visual consciousness; it wouldn't be like seeing. The "phenomenal qualities" or
+     qualia of conscious vision would be missing, even if the blindsight
+     subject could make all these functional moves.
+      Maybe so, and maybe not. Just what are "phenomenal qualities"
+or qualia? (Qualia is just the Latin for qualities; the singular is quale,
+usually pronounced kwah '-lay.) They seem terribly obvious at first —
+they're the way things look, smell, feel, sound to us — but they have
+a way of changing their status or vanishing under scrutiny. In the next
+chapter we'll track these suspects down through philosophical thickets,
+but first we should get a better look at some properties that aren't
+phenomenal qualities, but might be mistaken for them.
+
+     4. PROSTHETIC VISION: WHAT, ASIDE FROM INFORMATION, IS
+        STILL MISSING?
+
+     Does Weiskrantz's subject, DB, see the motion? Well, he surely
+doesn't hear it, or feel it. But is it vision? Does it have the "phenomenal
+qualities" of vision? Weiskrantz says:
+     As stimulus "salience" increases, the patient may say insistently
+     that he still does not "see," but he now has a kind of "feeling"
+     that something is there. In some cases, if the salience is increased
+     still further, a point may be reached where the subject says he
+     "sees" but the experience is not veridical. For example, DB "sees"
+     in response to a vigorously moving stimulus, but he does not see
+     it as a coherent moving object, but instead reports complex patterns of "waves." Other subjects report "dark shadows" emerging
+     as brightness and contrast are increased to high levels. 11988, p. 1891
+
+The vigorously moving object is not perceived by DB as having color
+or shape, but so what? As we proved to ourselves in chapter 2, in the
+experiment with the playing card held in peripheral vision, we can
+certainly see the card without being able to identify either its colors or
+its shapes. That's normal sight, not blindsight, so we should be reluctant
+on those grounds to deny visual experience to the subject.
+      The question of whether this abnormal way of obtaining infor-
+
+=== p. 339 ===
+
+   A blind subject with a 16-line portable electrical system. The TV camera is attached
+   to the lens housing, mounted on a pair of spectacle frames. A small bundle of
+   wires leads to an electrical stimulus drive circuitry (held in his right hand). The
+   matrix of 256 concentric silver electrodes is held in his left hand.
+
+mation about visible things would be a variety of seeing can be more
+vividly posed if we turn to an even more radical departure from normal
+vision. Prosthetic devices have been designed to provide ''vision" to
+the blind, and some of them raise just the right issues. Almost twenty
+years ago, Paul Bach-y-Rita (1972) developed several devices that involved small, ultralow-resolution video cameras that could be mounted
+on eyeglass frames. The low-resolution signal from these cameras, a
+16-by-16 or 20-by-20 array of "black and white*' pixels, was spread over
+the back or belly of the subject in a grid of either electrical or mechanically vibrating tinglers called tactors.
+
+=== p. 340 ===
+
+  Appearance of a 400-count representation of a woman's face as seen on the monitor
+  osciliscope. Subjects can correctly identify stimulus patterns of this level of complexity.
+
+      After only a few hours of training, blind subjects wearing this
+device could learn to interpret the patterns of tingles on their skin,
+much as you can interpret letters traced on your skin by someone's
+finger. The resolution is low, but even so, subjects could learn to read
+signs, and identify objects and even people's faces, as we can gather
+from looking at this photograph taken of the signal as it appears on an
+oscilloscope monitor.
+      The result was certainly prosthetically produced conscious perceptual experience, but since the input was spread over the subjects'
+backs or bellies instead of their retinas, was it vision? Did it have the
+"phenomenal qualities" of vision, or just of tactile sensation?
+
+=== p. 341 ===
+
+      Recall one of our experiments in chapter 3. It is quite easy for
+your tactile point of view to extend out to the tip of a pencil, permitting
+you to feel textures with the tip, while quite oblivious to the vibrations
+of the pencil against your fingers. So it should not surprise us to learn
+that a similar, if more extreme, effect was enjoyed by Bach-y-Rita's
+subjects. After a brief training period, their awareness of the tingles on
+their skin dropped out; the pad of pixels became transparent, one might
+say, and the subjects' point of view shifted to the point of view of the
+camera, mounted to the side of their heads. A striking demonstration
+of the robustness of the shift in point of view was the behavior of an
+experienced subject whose camera had a zoom-lens with a control button (pp. 98—99). The array of tinglers was on his back, and the camera
+was mounted on the side of his head. When the experimenter without
+warning touched the zoom button, causing the image on the subject's
+back to expand or "loom" suddenly, the subject instinctively lurched
+backward, raising his arms to protect his head. Another striking demonstration of the transparency of the tingles is the fact that subjects
+who had been trained with the tingler-patch on their backs could adapt
+almost immediately when the tingler-patch was shifted to their bellies
+(p. 33). And yet, as Bach-y-Rita notes, they still responded to an itch
+on the back as something to scratch — they didn't complain of "seeing"
+it—and were perfectly able to attend to the tingles, as tingles, on
+demand.
+      These observations are tantalizing but inconclusive. One might
+argue that once the use of the device's inputs became second nature
+the subjects were really seeing, or, contrarily, that only some of the
+most central "functional" features of seeing had been reproduced
+prosthetically. What of the other "phenomenal qualities" of vision?
+Bach-y-Rita reports the result of showing two trained subjects, blind
+male college students, for the first time in their lives, photographs of
+nude women from Playboy magazine. They were disappointed — "although they both could describe much of the content of the photographs, the experience had no affectual component; no pleasant feelings
+were aroused. This greatly disturbed the two young men, who were
+aware that similar photographs contained an affectual component for
+their normally sighted friends" (p. 145).
+      So Bach-y-Rita's prosthetic devices did not produce all the effects
+of normal vision. Some of the shortfall must be due to the staggering
+difference in the rate of information flow. Normat vision informs us
+about the spatial properties of things in our environment at great speed
+and with almost whatever level of detail we desire. It is not surprising
+
+=== p. 342 ===
+
+that low-resolution spatial information sent brainward via an interface
+on the skin failed to stir up all the reactions that are stirred up in
+normally sighted people when their visual systems are flooded with
+input.9 How much pleasure would we expect a normally sighted person
+to derive from looking at similarly low-resolution translations — glance
+at Figure 11.4— of pictures of beautiful people?
+       It is not clear how much would change if we somehow managed
+to improve the            rate"'° of prosthetic vision to match normal vision. It might be that simply increasing the amount and rate of information, somehow providing higher-resolution bit-maps to the brain,
+would suffice to produce the delight that is missing. Or rather some of
+it. People born blind would be at a tremendous disadvantage to people
+who have recently lost their sight, for they have built up none of the
+specifically visual associations that no doubt play an important role in
+the delight that sighted people take in their experiences, which remind
+them of earlier visual experiences. It might also be that some of the
+pleasure we take in visual experiences is the by-product of ancient
+fossil traces of an earlier economy in our nervous systems, a topic raised
+in chapter 7 that will be further explored in the next chapter.
+      The same considerations apply to blindsight and any imagined
+improvements in blindsight subjects' abilities. Discussions of blind-sight have tended to ignore just how paltry the information is that
+blindsight subjects glean from their blind fields. It is one thing to be
+able to guess, when prompted, whether a square or a circle was just presented in the blind field. It would be quite another to be able to guess
+in detail, when prompted,what was just happening outside the window.
+
+        9. For instance, the latency of response for some of these perceptual tasks, even
+in trained subjects. is quite long — eight to fifteen seconds for various simple identifications. for instance (Bach.y.Rita. p. 103). This in itheif demonstrates that the information
+flow of prosthetic vision is extremely sluggish. compared to normal vision,
+        10. "Baud rate" is a standard term for rate of digital information flow (it means.
+approximately: bits per second). For instance, if your computer communicates over telephone lines to other computers it may transmit its bit strings at 1200 baud or 2400 baud
+or at a much higher rate. It takes a baud rate approximately four times as fast to transmit
+high-resolution real-time animated pictures — a clear instance in which a picture is
+indeed worth more than a thousand words. Regular television signals are analog, like a
+phonograph record, rather than digital, like a compact disk, so its information-flow rate
+is measured as bandwidth, rather than baud rate. The term antedates computers: Baudot
+code, named after its inventor (as was Morse code), was the standard international telegraph code adopted in 1880, and the baud rate was the number of code elements per
+second transmitted By using "baud rate" rather than "bandwidth," I don't mean to imply
+that the brain's information-handling is best conceived in digital terms.
+
+=== p. 343 ===
+
+               DISMANTLING THE WffNESS PROTEC11ON PROGRAM         343
+
+      We can use what we have learned about prosthetic vision to guide
+our imagination about what it would be like for a blindsight subject to
+regain more of the functions of vision. Let's try to imagine coming upon
+a cortically blind person, who, after assiduous training. (1) has turned
+his capacity to guess when to guess into second nature, (2) can play
+Hide the Thimble with the best of them, and (3) has somehow managed
+to increase the speed and detail of his guesswork by orders of magnitude. We encounter him reading the newspaper and chuckling at the
+comics and ask him to explain himself. Here are three scenarios, in
+ascending order of plausibility:
+     (1) "Just guessing, of course! Can't see a darn thing, you know,
+         but I've learned how to guess when to guess, and right now.
+         for instance. I guess you're making a rude gesture at me, and
+         screwing up your face into a look of utter disbelief."
+     (2) "Well, what started out as sheer guesses gradually lost their
+         status as guesses, as I came to trust them. They turned into
+         presentiments, shall we say? I would suddenly just know that
+         something was going on in my blind field. I could then express
+         my knowledge, and act on my knowledge. Moreover, I then
+         had meta-knowledge that I was in fact capable of such presentiments, and I could use this meta-knowledge in planning
+         my actions and setting policies for myself. What began as
+         conscious guesses turned into conscious presentiments, and
+         now they come so fast and furious I can't even separate them.
+         But I still can't see a darn thing! Not the way I used to! It isn't
+         like seeing at all."
+     (3) "Well, actually, it's very much like seeing. I now effortlessly
+         act in the world on the basis of information gleaned by my eyes
+         from my surroundings. Or I can be self-conscious about what
+         I'm getting from my eyes if I want to be. Without the slightest
+         hesitation I react to the colors of things, to their shapes, and
+         locations, and I've lost all sense of the effort I expended to
+         develop these talents and render them second nature."
+     And yet we may still imagine our subject saying that something
+is missing:
+
+      "Qualia. My perceptual states do have qualia, of course, because
+      they are conscious states, but back before I lost my sight, they
+      used to have visual qualia, and now they don't, in spite of all
+      my training."
+
+=== p. 344 ===
+
+      It may seem obvious to you that this makes sense, that it is just
+what you would expect our subject to say. If so, the rest of the chapter
+is for you, an exercise designed to shake that conviction, If you're
+already beginning to doubt that this speech about qualia makes any
+sense at all, you've probably anticipated some of the twists that our
+story is about to take.
+
+     5. "FILUNG IN" VERSUS FINDING OUT
+
+     But the existence of this feeling of strangeness does not give us
+     a reason for saying that every object we know wefi and which
+     does not seem strange to us gives us a feeling of familiarity.
+     — We think that, as it were, the place once filled by the feeling
+     of strangeness must surely be occupied somehow.
+     LUDWG WITTGENSTEIN (1953), 596
+
+      In chapter 2, we saw that one of the reasons for believing in
+dualism was that it promised to provide the "stuff dreams are made
+of" — the purple cows and other figments of our imagination. And in
+chapter 5 we saw the confusions that arose from the natural but misguided assumption that after the brain has arrived at a discrimination
+or judgment, it re-presents the material on which its judgment is based,
+for the enjoyment of the audience in the Cartesian Theater, filling in
+the colors. This idea of          in            in the thinking of even
+sophisticated theorists, and it is a dead giveaway of vestigial Cartesian
+materialism. What is amusing is that those who use the term often
+know better, but since they find the term irresistible, they cover themselves by putting it in scare-quotes.
+      For instance, just about everyone describes the brain as "filling
+in" the blind spot (my italics in all the examples):
+          the neurologically well-known phenomenon of subjective
+     "filling in" of the missing portion of a blind area in the visual
+     field. [Libet, 1985b, p. 567]
+
+        you can locate your own blind spot, and also demonstrate how
+     a pattern is "filled in" or "completed" across the blind spot..
+     [Hundert, 1987, p. 427]
+
+=== p. 345 ===
+
+There is also auditory "filling in." When we listen to speech, gaps in
+the acoustic signal can be "filled in" — for instance, in the "phoneme
+restoration effect" (Warren, 1970). Ray Jackendoff puts it this way:
+     Consider, for example, speech perception with noisy or defective
+     input — say, in the presence of an operating jet airplane or over
+     a bad telephone connection. .. What one constructs.
+                                        .                          .is not
+                                                                       .
+
+     just an intended meaning but a phonological structure as well:
+     one "hears" more than the signal actually conveys            In other
+     words, phonetic information is "filled in" from higher-level structures as well as from the acoustic signal; and though there is a
+     difference in how it is derived, there is no qualitative difference
+     in the completed structure itself. [Jackendoff, 1987, p. 99]
+
+    And when we read text, something similar (but visual) occurs: As
+Bernard Baars puts it:
+     We find similar phenomena in the well-known "proofreader effect," the general finding that spelling errors in page proofs are
+     difficult to detect because the mind "fills in" the correct information. (Baars, 1988, p. 173J
+Howard Margolis adds an uncontroversial commentary on the whole
+business of "filling in":
+     The "filled-in" details are ordinarily correct. [Margolis, 1987,
+     p. 41)
+
+      Tacit recognition that there is something fishy about the idea of
+"filling in" is nicely manifested in this description of the blind spot
+by the philosopher C. L. Hardin, in his book Color for Philosophers:
+     It covers an area with a 6 degree visual diameter, enough to hold
+     the images of ten full moons placed end to end, and yet there is
+     no hole in the corresponding region of the visual field. This is
+     because the eye-brain fills in with whatever is seen in the adjoining
+     regions. if that is blue, it fills in blue; if it is plaid, we are aware
+     of no discontinuity in the expanse of plaid. [1988, p. 221
+
+       Hardin just can't bring himself to say that the brain fills in the
+plaid, for this suggests, surely, quite a sophisticated bit of "construction," like the fancy "invisible mending" you can pay good money for
+to fill in the hole in your herringbone jacket: all the lines line up, and
+
+=== p. 346 ===
+
+ all the shades of color match across the boundary between old and new.
+ It seems that filling in blue is one thing — all it would take is a swipe
+ or two with a cerebral paintbrush loaded with the right color; but filling
+ in plaid is something         and it is more than he can bring himself to
+ assert.
+       But as Hardin's comment reminds us, we &e just as oblivious of
+our blind spots when confronting a field of plaid as when confronting
+ a uniformly colored expanse, so whatever it takes to create that oblivion
+ can as readily be accomplished by the brain in either case. "We are aware
+of no discontinuity," as he says. But if the brain doesn't have to fill in
+the gap with plaid, why should it bother filling in the gap with blue?
+       In neither case, presumably, is "filling in" a matter of literally
+filling in — of the sort that would require something like paintbrushes.
+ (This was the moral of the story of the CADBL!ND M&k II in chapter
+8.) I take it that no one thinks that "filling in" is a matter of the brain's
+actually going to the trouble of covering some spatial expanse with
+pigment. We know that the real, upside-down image on the retina is
+the last stage of vision at which there is anything colored in the unproblematic way that an image on a movie screen is colored. Since
+there is no literal mind's eye, there is no use for pigment in the brain.
+       So much for pigment. But still, we may be inclined to think that
+there is something that happens in the brain that is in some important
+way analogous to covering an area with pigment — otherwise we
+wouldn't want to talk of "filling in" at all. It is this special happening,
+whatever it is, that occurs in the special "medium" of visual or auditory
+experience, apparently. As Jackendoff says, speaking of the auditory
+case, "one 'hears' more than the signal actually conveys" — but note
+that still he puts         in scare-quotes. What could it be that is present
+when one "hears" sounds filling silent times or "sees" colors spanning
+empty spaces? It does seem that something is there in these cases.
+something the brain has to provide (by "filling in"). What should we
+call this unknown whatever-it-is? Let's call it figment. The temptation,
+then, is to suppose that there is something, made out of figment, which
+is there when the brain "fills in" and not there when it doesn't bother
+"filling in." Put so baldly, the idea of figment will not appeal to many
+people. (At least I hope it doesn't.) We know better: there is no such
+stuff as figment. The brain doesn't make figment; the brain              use
+figment to fill in the gaps; figment is just a figment of my imagination.
+So much for figment! But          what does "filling in" mean, what could
+it mean, if it doesn't mean filling in with figment? If there is no such
+
+=== p. 347 ===
+
+medium as figment, how does "filling in" differ from not bothering to
+fill in?
+       In chapter 10, we saw how a CAD system could represent colors
+by associating a color number with each pixel, or with each delineated
+region of the object depicted, and we saw how the CADBLIND Mark II
+could search for, or detect, colors by reading such a code. This process
+is reminiscent of the children's pastime, color-by-numbers, which provides a simple analogue of the representation processes that must occur,
+or might occur, in the brain. Figure 11.5 is a representation that has
+information about shapes, but no information about colors at all.
+
+                               Figure 11,5
+      Compare it with Figure 11.6, which has information about colors
+in the form of a numbered code. if you were to take some crayons and
+follow the directions for filling in the colors, you could turn Figure
+11.6 into yet another sort of "filled in" representation — one in which
+the regions were filled in with real color, real pigment.
+      There is still another way the color could be "filled in" pixel by
+pixel, by a coded bit-map, as in Figure 11.7.
+      Figures 11.6 and 11.7 are both sorts of filling in (compared to
+Figure 11.5, for example),since any procedure that needs to be informed
+about the color of a region can, by mechanical inspection of that region,
+extract that information. This is purely informational filling-in. The
+systems are entirely arbitrary, of course. We can readily construct in-
+
+=== p. 348 ===
+
+      MMM    aa-M MM M                        MM MM M
+                --             -- M MMMM
+      MMMMa
+      MM MM                        M    MM MM
+       'MMMM'aa' —— MMMMM
+      -MMMM-aa-'
+      —MMMM—aa— -MMMMMM
+                 -'MMMMMM
+      MM                                          M
+      MM              -a  OS
+
+                                                                                   —    —
+             www---aa                                                              cow—
+                                                  wwwwww——aaa             —        0)   CD
+                                            —   U'UIUIU'U'U'w—
+      ——a—
+      --a-ma—ama—-aaawts- - -             wUIUIUIUIUIUIUI— — —aaaww— — —         to
+                          - as                    a    aa ---
+
+—
+I.e
+•
+I.4
+      --a—
+
+      - MM —
+      MMMM-MMM'
+         -a
+        -a
+           M
+           maw
+      MM-.-'
+                          —
+                          —
+
+                          —
+
+                          —
+                            sa—- a a a a wwwwwlawwaaaa
+                               a
+                               aw
+                               au'aaaa—
+                               a
+                               aa
+                               aa
+                                 a a COW 10 law to cow
+                        -- - - - -
+                                                        aa——
+                                            wwwwwwsawwaaaa      aau,aa—
+                                                         waaaaaaa—
+                                                              aaaaa—
+                                                              aaa
+                                                            aUIUIUI
+                                                      swwsaaaa-     —
+                                                                      a——
+                                                                          —
+                                                                          —
+                                                                        — —
+                                                                        — —
+                                                       'S a a a aaa a - - -
+                                                                               —
+
+                                                                    —— — — —         ci a
+      MM MM a a a a a a 'S 'S (.5 a a a a a all' a
+      MMMMaaaaaasaaawa —
+       - -
+      MM
+      MMMaaaa
+      MMaaaaaawaau.aaa
+      MM a a a a wa Cnaa aa a a aa
+      MM aa a aw
+                  a a a a a a a a a a a law a
+                     a*
+                   aaaaaaaaa aaw
+                     waa        aa
+                                     —aw aa
+                                        'sa
+                                                                    —— — — —
+                                                                           '
+                                                                    —— — — —
+                                                                           —
+                                                                    —— — — —
+                                                                                   -COD
+                                                                                   S C
+      MM         aaaa  a a 'sa
+                           a      aaaa                              —— — — —
+      MM aa  law law
+         aa aa       a am
+      MMMM-' -aaaaaaaaaa   law
+                             a alaw aaa a                    -- -- -- -- -MMMM                             wa-a
+                                       a                               -- -am
+                                    OSaM              MMMMMM --- - -
+      —    MM                      MMOSM     MMMMMMMMM
+      —    M                       MMMM       MMMMMMMM
+                                    MMM       MMMMMMMM — — — —
+                                     MMM' 'MMMMMMMMMMM.
+                               MMMMMM' -'MMMMMMMMMMM. — — — —
+
+=== p. 349 ===
+
+definitely many functionally equivalent systems of representation —
+involving different coding systems, or different media.
+      if you make a colored picture on your personal computer using
+the PC-Paintbrush program, the screen you see is represented in the
+machine as a bit-map in the "frame buffer," analogous to Figure 11.7,
+but when you go to store the picture on a disk, a compression algorithm
+translates it into something similar to Figure 11.6. It divides the area
+into like-colored regions, and stores the region boundaries and their
+color number in an "archive" file." An archive file is just as accurate
+as a bit-map, but by generalizing over regions, and labeling each region
+only once, it is a more efficient system of representation.
+      A bit-map, by explicitly labeling each pixel, is a form of what we
+may call roughly continuous representation — the roughness is a function of the size of the pixels. A bit-map is not literally an image, but
+just an array of values, a sort of recipe for forming an image. The array
+can be stored in any system that preserves information about location.
+Videotape is yet another medium of roughly continuous representation,
+but what it stores on the tape is not literally images, but recipes (at a
+different grain level) for forming images.
+      Another way of storing the image on your computer screen would
+be to take a color photograph, and store the image on, say, a 35mm
+slide, and this is importantly different from the other systems, in an
+obvious way: there is actual dye, literally filling in a region of real
+space. Like the bit-map, this is a roughly continuous representation of
+the depicted spatial regions (continuous down to the grain of the film —
+at a fine enough scale, it becomes pixel-like or granular). But unlike
+the bit-map, color is used to represent color. A color negative also uses
+color to represent color, but in an inverted mapping.
+      Here, then, are three ways of "filling in" color information: colorby-numbers, as in Figure 11.6 or an archive file, color-by-bit-map, as
+in Figure 11.7 or frame buffers or videotape, and color-by-colors. Colorby-numbers is in one regard a way of "filling in" color information,
+but it achieves its efficiency, compared to the others, precisely because
+it does not bother filling in values explicitly for each pixel. Now in
+which of these senses (if any) does the brain "fill in" the blind spot?
+No one thinks that the brain uses numbers m registers to code for colors,
+but that's a red herring. Numbers in registers can be understood just to
+
+      11. There are other sorts of compression algorithms that do not rely on breaking
+the image into same-colored regions in just this way, but I will not discuss them.
+
+=== p. 350 ===
+
+stand for any system of magnitudes, an:r system of "vectors," that a
+brain might employ as a "code" for col'rs; it might be neural firing
+frequencies, or some system of addresses or locations in neural networks, or any other system of physical variations in the brain you like.
+ Numbers in registers have the nice propeity of preserving relationships
+ between physical magnitudes while remaining neutral about any "intrinsic" properties of such magnitudes. sü they can stand for any physical magnitudes in the brain that "code for" colors. Although numbers
+can be used in an entirely arbitrary way, they can also be used in
+nonarbitrary ways, to reflect the structural relations between colors that
+have been discovered. The familiar "cokir solid," in which hue, saturation, and lightness are the three dimen9ions along which our colors
+vary,'2 is a logical space ideally suited to a numerical treatment — any
+numerical treatment that reflects the betweenness relations, the oppositional and complementary relations, and so on, that human sight
+actually exhibits. The more we learn about how the brain codes colors,
+the more powerful and nonarbitrary a numerical model of human color
+vision we will be able to devise.
+       The trouble with speaking of the brain "coding" for colors by
+using intensities or magnitudes of one th ng or other is that it suggests
+to the unwary that eventually these            have to be decoded, getting
+us "back to color." That is one route -— perhaps the most popular
+route — back to figment: one imagines that the brain might unconsciously store its encyclopedic information about color in a format
+something like that of Figure 11.8 but then arrange to have the representation "decoded" into "real colors" on special occasions — like running a videocassette, to project real coloi on a screen. There certainly
+is a difference in phenomenology between just recalling the proposition
+that the flag is red, white, and blue, and actually imagining the flag "in
+color" and "seeing" (with the mind's eve) that it is red, white, and
+blue. If this contrast in phenomenology rnspires some people to posit
+
+       12. Other creatures have different color solid5 — or hypersolids! We are "trichro.
+mats": we have three different types of photopigmented transducer cells in the cones in
+our retinas. Other species, such as pigeons, are tetra hromats; their subjective color space
+would have to be represented, numerically, as a our-dimensional hyperspace. Other
+species are dichromats, all of whose color                  could be mapped onto a single
+two-dimensional plane. (Note that "black and white is just a one-dimensional representational scheme, with all the possible grays representable as different distances on a
+line between 0 and 1.) For reflections on the nnplications of this incommensurability of
+color systems, see Hardin (1988) and Thompson. Pilacios, and Varela (in press).
+
+=== p. 351 ===
+
+                       1•BIue                 4•GoId
+                      2• Grey                 5. Black
+                      3-White                 6- Red
+
+figment, an even more compelling case is provided by the phenomenon
+of neon color spreading (van Tuijl, 1975), an example of which can be
+seen on the back dust jacket of this book.
+     The pink you see filling in the ring defined by the red lines is not
+a result of pink smudging on the page, or light scattering. There is no
+pink on your retinal image, in other words, in addition to the red lines.
+Now how might this illusion be explained? One brain circuit, specializing in shape, is misled to distinguish a particular bounded region:
+the ring with its "subjective contours." Subjective contours are produced by many similar figures, such as these.
+
+             \\\ ///
+             /                           C                  >
+
+=== p. 352 ===
+
+Another brain circuit, specializing in color but rather poor on shape
+and location, comes up with a color discrimination (pink #97, let's
+say) with which to "label" something in the vicinity, and the label gets
+attached (or "bound") to the whole region.
+     Why these particular discriminations should occur under these
+conditions is still controversial, but the controversy concerns the causal
+mechanisms that lead to mislabeling the region, not the further "prod-
+
+                             1       1     1
+                             1       1     1
+                       97974979749797 49797
+                      ?9797 4 9797 4 979749797S
+                      ^9797 49797 4979749797$
+                         ?97 1           1          197 <
+                             1           1          1
+
+                                 \
+
+=== p. 353 ===
+
+ucts" (if any) of the visual system. But isn't something missing? I have
+stopped short at an explanation that provides a labeled color-by-numbers region: Doesn't that recipe for a colored image have to be executed
+somewhere? Doesn't pink #97 have to be "filled in"? After all, you may
+be tempted to insist, you see the pink! You certainly don't see an
+outlined region with a number written in it. The pink you see is not
+in the outside world (it isn't pigment or dye or "colored light"), so it
+must be "in here" — pink figment, in other words.
+       We must be careful to distinguish the "pink figment" hypothesis
+from others that would be legitimate alternatives to an explanation that
+stopped short with the color-by-numbers suggestion. For instance, it
+might turn out that somewhere in the brain there is a roughly continuous representation of colored regions — a bit-map — such that "each
+pixel" in the region has to be labeled "color #97," more or less in the
+fashion of Figure 11.11.
+       This is an empirical possibility. We could devise experiments to
+ confirm or disconfirm it. The question would be: Is there a representational medium in the brain in which the value of some variable parameter (the intensity or whatever that codes for color) has to be
+ propagated across or replicated across the relevant pixels of an array,
+ or is there just a "single label" of the region, with no further "filling
+ in" or "spreading out" required? What sort of experiments could favor
+ such a model of the neon color spreading effect? Well, it would be
+ impressive, for instance, if the color could be shown under some conditions to spread slowly in time — bleeding out from the central red
+ lines and gradually reaching out to the subjective contour boundaries.'3
+ I don't want to prejudge the question, for my main purpose
+                                                                 in raising
+ it is to illustrate my claim that whereas there are plenty of unresolved
+ empirical questions about how the neon color spreading phenomenon
+  happens in the brain, none of them involve differences over whether
+  or not figment is generated in a "decoding" of the neural coding system.
+        The question of whether the brain "fills in" in one way or another
+
+         13. As if in response to this suggestion. V. S. Ramachandran and R. L. Gregory
+ (submitted) have just performed some experiments with what they call (misteadingly, I
+ think) artificially induced scotomas. in which there is good evidence of gradual filling
+ in of textures and details. There is one fundamental difference between their experimental
+ circumstances and the conditions I have been describthg: in their experiments there is
+ competition between two sources of information, and one gets overruled (gradually). The
+ phenomenon of gradual spatial tilling in of textures is an important discovery, but it
+ does not take us beyond a model in the spirit of Figure 11.11. And further
+                                                                                  questions
+ about these experiments need to be resolved before their interpretation can be settled.
+
+=== p. 354 ===
+
+ is not a question on which introspection by itself can bear, for as we
+ saw in chapter 4, introspection provides us — the subject as well as
+  the "outside" experimenter — only with the content of representation,
+  not with the features of the representational medium itself. For evidence
+ about the medium, we need to conduct further                        But for
+ some phenomena, we can already be quite sure that the medium of
+ representation is a version of something efficient, like color-by-numbers, not roughly continuous, like bit-mapping.
+       Consider how the brain must deal with wallpaper, for instance.
+ Suppose you walk into a room and notice that the wallpaper is a regular
+ array of hundreds of identical sailboats, or — let's pay homage to Andy
+ Warhol — identical photographic portraits of Marilyn Monroe. In order
+ to identify a picture as a portrait of Marilyn Monroe, you have to foveate
+ the picture: the image has to fall on the high-resolution foveae of your
+ eyes. As we saw in the playing card experiment in chapter 2, your
+ parafoveal vision (served by the rest of the retina) does not have very
+ good resolution; you can't even identify a jack of diamonds held at
+ arm's length. Yet we know that if you were to enter a room whose walls
+were papered with identical photos of Marilyn Monroe, you would
+"instantly" see that this was the case. You would see in a fraction of
+a second that there were "lots and lots of identical, detailed, focused
+portraits of Marilyn Monroe." Since your eyes saccade four or five times
+a second at most, you could foveate only one or two Marilyns in the
+time it takes you to jump to the conclusion and thereupon to see
+hundreds of identical Marilyns. We know that parafoveal vision could
+not distinguish Marilyn from various Marilyn-shaped blobs, but nevertheless, what you see is not wallpaper of Marilyn-in-the-middle surrounded by various indistinct Marilyn-shaped blobs.
+      Now, is it possible that the brain takes one of its high-resolution
+foveal views of Marilyn and reproduces it, as if by photocopying, across
+an internal mapping of the expanse of wall? That is the only way the
+high-resolution details you used to identify Marilyn could "get into the
+background" at all, since parafoveal vision is not sharp enough to provide it by itself. I suppose i is possible in principle, but the brain
+
+      14. For instance, Roger Shepard's initial experiments with the mental rotation of
+cube diagrams showed that it certainly seemed to subjects that they harbored roughly
+continuously rotating representations ol the shapes they were imagining, but it took
+further experiments, probing the actual temporal properties of the underlying representations. to provide (partial) confirmation of the hypothesis that they were actually doing
+what II seemed to them they were doing. (See Shepard and Cooper. 1982.1
+
+=== p. 355 ===
+
+                 DISMANTLING THE WITNESS PROTEC11ON PROGRAM               355
+
+almost certainly does not go to the trouble of doing that filling in!
+Having identified a single Marilyn, and having received no information
+to the effect that the other blobs are not Marilyns, it jumps to the
+conclusion that the rest are Marilyns, and labels the whole region "more
+Marilyns" without any further rendering of Marilyn at
+       Of course it does not seem that way to you. It seems to you as if
+you are actually seeing hundreds of identical Marilyns. And in one
+sense you are: there are, indeed, hundreds of identical Marilyns out
+there on the wall, and you're seeing them. What is not the case, however,
+is that there are hundreds of identical Marilyns represented in your
+brain. Your brain just somehow represents that there are hundreds of
+identical Marilyns, and no matter how vivid your impression is that
+you see all that detail, the detail is in the world, not in your head. And
+no figment gets used up in rendering the seeming, for the seeming isn't
+rendered at all, not even as a bit-map.
+        So now we can answer our question about the blind spot. The
+ brain doesn't have to "fill in" for the blind spot, since the region in
+ which the blind spot falls is already labeled (e.g., "plaid" or "Marilyns"
+ or just "more of the same"). If the brain received contradictory evidence
+ from some region, it would abandon or adjust its generalization, but
+ not getting any evidence from the blind spot region is not the same as
+ getting contradictory evidence. The absence of confirming evidence
+ from the blind spot region is no problem for the brain; since the brain
+ has no precedent of getting information from that gap of the retina, it
+ has not developed any epistemically hungry agencies demanding to be
+ fed from that region. Among all the homunculi of vision, not a single
+ one has the role of coordinating information from that region of the
+ eye, so when no information arrives from those sources, no one complains. The area is simply neglected. In other words, all normally
+  sighted people "suffer" from a tiny bit of "anosognosia." We are unaware of our "deficit" — of the fact that we are receiving no visual information from our blind spots. (A good overview of anosognosia is
+  McGlynn and Schacter, 1989.)
+        The blind spot is a spatial hole, but there can be temporal holes
+  as well. The smallest are the gaps that occur while our eyes dart about
+  during saccades. We don't notice these gaps, but they don't have to be
+  filled in because we're designed not to notice them. The temporal analogues of scotomata might be the "absences" that occur during petit
+
+        15. In Appendix B, I will suggest some 'experiments with wallpaper" that would
+ put this empirical claim on the line.
+
+=== p. 356 ===
+
+ mal epileptic seizures. These are noticeable by the sufferer, but
+                                                                       only
+ by inference: they can't "see the edges" any more than you can
+                                                                    see the
+ edges of your blind spot, but they can be struck, retrospectively, by
+ discontinuities in the events they have experienced.
+       The fundamental flaw in the idea of "filling in" is that it suggests
+ that the brain is providing something when in fact the brain is ignoring
+  something. And this leads even very sophisticated thinkers to make
+  crashing mistakes, perfectly epitomized by Edelman: "One of the most
+  striking features of consciousness is its continuity" (1989, p. 119). This
+  is utterly wrong. One of the most striking features of consciousness
+                                                                          is
+  its discontinuity — as revealed in the blind spot, and saccadic gaps, to
+  take the simplest examples. The discontinuity of consciousness is striking because of the apparent continuity of consciousness. Neumann
+  (1990) points out that consciousness may in general be a gappy phenomenon, and as long as the temporal edges of the gaps are not positively perceived, there will be no sense of the gappiness of the "stream"
+ of consciousness. As Minsky puts it, "Nothing can seem jerky except
+ what is represented as jerky. Paradoxically, our sense of continuity
+ comes from our marvelous insensitivity to most kinds of changes rather
+ than from any genuine perceptiveness" (1985, p. 257).
+
+      6. NEGLECT AS A PATHOLOGICAL LOSS OF                        APPETITE
+     The brain's motto for handling the blind spot could be: Ask me
+no questions and I'll tell you no lies. As we saw in chapter 1, so long
+as the brain assuages whatever epistemic hunger is around,
+                                                                    there is
+ nothing more it needs to do. But what about those occasions when there
+ is much less epistemic hunger than there ought to be? These are
+                                                                          the
+ pathologies of neglect.
+      One of the most familiar forms of neglect is hemi-neglect, in which
+ one side of the body, usually the left side, is entirely neglected, due to
+ brain damage on the opposite side. Not only the left side of the body,
+but also the left side of the immediate vicinity is neglected. If a group
+of people stand around the bed of the left-neglect patient, he will
+                                                                        look
+only at the people standing to his right; if asked to count the people
+in the room, he will tend to overlook the people on the left, and if
+someone on the left tries to attract his attention, this will typically fail.
+And yet it can be shown that the patient's sense organs are still taking
+in, and analyzing, and responding in various ways to the stimuli occurring on the left. What can be going on in the patient's head? Is the
+
+=== p. 357 ===
+
+"left side of phenomenal space a blank"? Or does the patient's "mind's
+eye" fail to see the material that the brain provides for it on the left
+side of. the stage in the Cartesian Theater?
+         .   .
+
+      There is a simpler explanation, not in terms of inner representations with curious properties, but in terms of—neglect—in the political sense! Daniel Patrick Moynihan notoriously recommended that
+certain problems of race relations in America would resolve themselves
+if we treated them with "benign neglect" — if Washington and the rest
+of the nation would simply ignore them for a while. I don't think that
+was good advice, but Moynihan was right about something: There certainly are circumstances where benign neglect is called for — such as
+our treatment of the blind spot problem.
+       There are no homunculi, as I have put it, who are supposed to
+"care about" information arising from the part of the visual field covered
+by the blind spot, so when nothing arrives, there is no one to complain.
+Perhaps the difference between us and sufferers of pathological neglect
+or other forms of anosognosia is that some of their complainers have
+been killed. This theory has been proposed, in less colorful terms, by
+ the neuropsychologist Marcel Kinsbourne (1980), who calls the inner
+ complainers "cortical analyzers." In terms of the model we have developed, neglect could be described as a loss of political clout by certain
+ parties of demons in the brain, due, in many but not all cases, to the
+ death or suppression of their Representative. These demons are still
+ active, trying to do their various things and even succeeding on occasion, but they no longer can win out in certain competitions against
+ better-organized coalitions.
+       On this model, the benign neglect of our blind spots shades almost
+ imperceptibly into the various mildly dysfunctional neglects we all
+ suffer from, and then into the most bizarre neglects studied by neurologists. For instance, I myself suffer from several rather common
+ forms of neglect. Least serious, but sometimes embarrassing, is my typo
+ neglect. I am pathologically unable to notice typographical errors in
+ my page proofs when 1 read them over, and only by the most laborious
+ exercises of concentration and focusing can I overcome this. It is not,
+ as Baars suggested, that my brain "fills in" the correct spelling; it doesn't
+ have to "fill in" since it does not normally pay enough attention to
+  these matters to notice the errors; its attention gets captured by other
+  features of the words on the page. Another of my mild disabilities is
+  student examination neglect. It is just amazing how attractive the prospect of washing the kitchen floor or changing my shelf paper or balancing my checkbook becomes when I have a pile of exams on my desk
+
+=== p. 358 ===
+
+ that need grading. This feature, the heightened interest in alternatives,
+ is particularly evident in hemi-neglect; to a first approximation, the
+ farther to the right something is, the more noteworthy it is to a left
+ hemi-neglect patient. Perhaps my most serious form of neglect, however, is my bad case of finances neglect. So little do I like balancing
+ my checkbook, in fact, that only some truly awful alternative, such as
+ grading student exams, can force my attention to the topic. This neglect
+ has serious consequences for my welfare, consequences that I can readily be brought to appreciate, but in spite of this alarmingly unsuccessful
+ appeal to my underlying rationality, I manage to persist in my neglect,
+ unless fairly drastic measures of self-manipulation are brought into play.
+       It is not that I can't see my checkbook but that I         look at it.
+ And although in cool, reflective moments such as these, I can report
+ all this (proving that I am not deeply anosognosic about my own disability), in the normal course of events part of what I don't notice is
+ my own neglect of my finances. Mild anosognosia, in short. From this
+ perspective, the only thing startling about the bizarre forms of neglect
+ studied by neuropsychologists is the topic boundaries. Imagine someone neglecting everything on the left (Bisiach and Luzzatti, 1978; Bis-iach, 1988; Bisiach and Vallar, 1988; Calvanio, Petrone, and Levine,
+ 1987). Or imagine someone who had lost color vision but had no complaint (Geschwind and Fusillo, 1966). Or even, imagine someone who
+ has gone blind, but hasn't yet noticed this profound loss — Anton's
+syndrome or blindness denial (Anton, 1899; McGlynn and Schacter,
+ 1989, pp. 154—158).
+       These conditions are readily explainable on the Multiple Drafts
+theory of consciousness, for the central Witness has been replaced by
+coalitions of specialists whose particular epistemic hungers cannot be
+immediately adopted by other agents if they are expunged or on holiday.16 When these epistemic hungers vanish, they vanish without a
+trace, leaving the field to other coalitions, other agents with other
+agendas.
+       But the same principle that accounts for neglect provides an alternative scenario for the "missing visual qualia" of our imagined blind-sight virtuoso. I suggested that it is possible that if he complains of the
+absence of qualia, he might simply be noticing the relative paucity of
+
+       16. For a contrast, see Bislach et al. (1986) and McGlynn and Schacter (1989).
+whose models of anosognosia are similar, but are committed to the 'boxology" of separate
+systems, especially McGlynn and Schacter, who posit a conscious awareness system.
+that takes inputs from modules.
+
+=== p. 359 ===
+
+information he now gets from his vision and misdescribing it. I went
+on to speculate that if somehow we could increase the "baud rate" of
+his information-gathering, some if not all of the gap between his kind
+of vision and normal vision could be closed. Now we can see that
+another, cheaper way of closing the same gap would be simply to lower
+his epistemic hunger, or obtund his visual curiosity in some way. After
+all, if in Anton's syndrome a person can be utterly blind and not yet
+realize it, a bit of strategically placed neglect could turn our blindsight
+subject who complains of the loss of visual qualia into an uncomplaining subject who declares his vision to be flawlessly restored. It may
+seem that we would know better, but would we? Would anything be
+missing in such a person? There isn't any figment in normal vision, so
+it can't be the figment that's missing. What else could it be?
+
+     7. VIRTUAL PRESENCE
+
+     We have the sense of actuality when every question asked of
+     our visual systems is answered so swiftly that it seems as though
+     those answers were already there.
+     MARVIN MINSKY (1985). p. 257
+
+     Once again, the absence of representation is not the same as the
+representation of absence. And the representation of presence is not
+the same as the presence of representation. But this is hard to believe.
+Our conviction that we are somehow directly acquainted with special
+properties or features in our experience is one of the most powerful
+intuitions confronting anyone trying to develop a good theory of consciousness. I've been chipping away at it, trying to undermine its authority, but there's still more work to be done. Otto has yet another
+tack to try:
+      Your point about the Marilyns in the wallpaper is actually a backhanded defense of dualism. You argue very persuasively that there
+      aren't hundreds of high-resolution Marilyns in the brain, and then
+      conclude that there aren't any anywhere! But I argue that since
+      what I see is hundreds of high-resolution Marilyns. then since, as
+      you argue, they aren't anywhere in my brain, they must be somewhere else — in my nonphysical mind!
+      The hundreds of Marilyns in the wallpaper seem to be present in
+ your experience, seem to be in your mind, not just on the wall. But
+
+=== p. 360 ===
+
+ since, as we know your gaze can shift in a fraction of a second to draw
+  information from any part of your visual environment, why should
+  your brain bother importing all those Marilyns in the first place? Why
+  not just let the world store them, at no cost, until theyre needed?
+        Compare the brain to a library. Some research libraries are gigantic
+  storehouses, containing within their walls millions of books, all quite
+  readily accessible in the stacks. Other libraries keep fewer books on
+  hand, but have a generous and efficient accessions system, buying whatever books the library users demand, or borrowing them from other
+  libraries, using a swift interlibrary loan system. If you don't keep the
+ books stored on the premises, the delays in access are greater, but not
+ much greater. We can imagine an electronic interlibrary loan system
+ (using fax or computer files) that could obtain a book from the outside
+ world faster than the swiftest runner could fetch the book from the
+ stacks. A computer scientist might say of the books in such a system
+ that they were "virtually present" in the library all along, or that the
+ library's "virtual collection" was hundreds or thousands of times
+ greater than its actual hard-copy collection.
+       Now how could we, as Users of our own brain-libraries, know
+ which of the items we retrieve were there all along, and which our
+ brains sent out for, in swift information-gathering forays into the external world? Careful experiments, conducted according to the heter-ophenomenological method, can answer this question, but
+ introspection by itself simply can't tell. That doesn't stop us from thinking we can tell, however. In the absence of any evidence one way or
+the other, our natural tendency is to jump to the conclusion that more
+is present. I have called this the Introspective Trap (Dennett, 1969,
+                                                                         pp.
+139—140) and Minsky calls it the Immanence Illusion: "Whenever you
+can answer a question without a noticeable delay, it seems as though
+that answer were already active in your mind" (Minsky, 1985, p. 155).
+       The interlibrary loan system is a useful but incomplete analogy,
+for your brain doesn't just have facilities for acquiring information about
+whatever external topics happen to interest you; it also has literally
+millions of sentries almost continuously gazing at a portion of the external world, ready to sound the alarm and draw your attention to
+anything novel and relevant happening in the world. In vision, this is
+accomplished by the parafoveal rods and cones of the retinas, and the
+neural agents inboard of these sentries who specialize in detecting
+change and motion. If one of these agents sounds the alarm — "Change
+in my sector!' — this almost instantaneously triggers a saccade, bring-
+
+=== p. 361 ===
+
+               DISMANTUNG ThE WITNESS PROTECTiON PROGRAM           361
+
+ing the fovea to bear on the region of interest, so the novelty can be
+located, identified, dealt with. The sentry system is so reliable that it's
+hard to sneak a change into the visible world without the whole visual
+system being informed of it, but with the aid of high-tech trickery, the
+sentries can sometimes be bypassed, with astonishing results.
+      When your eyes dart about in saccades, the muscular contractions
+that cause the eyeballs to rotate are ballistic actions: your fixation points
+are unguided missiles whose trajectories at lift-off determine where and
+when they will hit ground zero at a new target. For instance, if you are
+reading text on a computer screen, your eyes will leap along a few
+words with each saccade, farther and faster the better a reader you are.
+What would it be like if a magician, a sort of Cartesian evil demon on
+a modest scale, could change the world during the few milliseconds
+your eyes were darting to their next destination? Amazingly, a computer
+equipped with an automatic eye-tracker can detect and analyze the liftoff in the first few milliseconds of a saccade, calculate where ground
+zero will be, and, before the saccade is over, erase the word on the
+screen at ground zero and replace it with a different word of the same
+length. What do you see? Just the new word, and with no sense at all
+of anything having been changed. As you peruse the text on the screen,
+it seems to you for all the world as stable as if the words were carved
+in marble, but to another person reading the same text over your shoulder (and saccading to a different drummer) the screen is aquiver with
+changes.
+       The effect is overpowering. When I first encountered an eye-tracker experiment, and saw how oblivious subjects were (apparently)
+ to the changes flickering on the screen, I asked if I could be a subject.
+ I wanted to see for myself. I was seated at the apparatus, and my head
+ was immobilized by having me bite on a "bite bar." This makes the
+ job easier for the eye-tracker, which bounces an unnoticeable beam of
+ light off the lens of the subject's eye, and analyzes the return to detect
+ any motion of the eye. While I waited for the experimenters to turn on
+ the apparatus, I read the text on the screen. I waited, and waited, eager
+ for the trials to begin. I got impatient. "Why don't you turn it on?" I
+ asked. "It is on," they replied.
+       Since all the changes on the screen happen during saccades, your
+ sentries don't get to issue any effective alarms. Until recently this phenomenon has been called "saccadic suppression." The idea was that
+ the brain must somehow shut down the input from the eyes during
+ saccades, since no one can notice changes that occur in the visual field
+
+=== p. 362 ===
+
+  during saccades, and, of course, no one complains of giddy and alarming changes. But a clever experiment with an eye-tracker (Brooks et al.,
+  1980) has shown that if a stimulus — such as a word or alphabet letter — is moved in synchrony with the saccade, keeping pace with the
+  "shadow" of the fovea as it races to its new landing spot, it is readily
+ seen and identified by the subject. Input from the eye is not blocked
+ on its way to the brain during saccades, but under normal conditions
+ it is unusable — everything is just rushing by too fast to make sense
+ of — so the brain treats it all with benign neglect. if all your sentries
+ send their alarms at once, the best thing to do is just ignore them all.
+       In the experimental situation I was in, words on the screen were
+ being erased and replaced during my saccades. if your parafoveal vision
+ can't discriminate the word at ground zero before you saccade to it,
+ once you get there and identify it, there can't be any prior record or
+ memory of it in your brain with which to compare it. The switch can't
+ be noticed because the information logically required for such a noticing is simply not there. Of course it seems to you as you read this page
+ that all the words on the line are in some sense present in your consciousness (in the background) even before you specifically attend to
+them, but this is an illusion. They are only virtually present.
+       There is some information about the surrounding words in your
+brain, of course — enough to have served as the guide and instigator
+of the most recent saccade, for instance. Just what information is already
+there? Experiments with eye-trackers and similar apparatus can determine the limits of what you can notice, and thereby determine the
+limits of what is present in your mind. (See, e.g., Pollatsek, Rayner,
+and Collins, 1984; Morris, Rayner, and Pollatsek, 1990.) To insist, as
+Otto was tempted to do, that what is not there in the brain must nevertheless be there in the mind because it certainly seems to be there is
+pointless. For as we have just seen, it wouldn't be "there" in any sense
+that could make a difference to Otto's own experiences, let alone to his
+capacity to pass tests, press buttons, and so forth.
+
+     8. SEEING IS BELIEVING: A DIALOGUE WITH OTTO
+
+     At this time our critic Otto insists on a review, for he's sure he's
+been hoodwinked somewhere along the line. I'm going to engage him
+in a dialogue, hoping that he does justice to many if not all of your
+doubts as well. Otto begins:
+
+=== p. 363 ===
+
+     It seems to me that you've denied the existence of the most indubitably real phenomena there are: the real seemings that even
+     Descartes in his Meditations couldn't doubt.
+In a sense, you're right; that's what Pm denying exist. LeVs return to
+the neon color-spreading phenomenon. There seems to be a pinkish
+glowing ring on the dust jacket.
+     There sure does.
+But there isn't any pinkish glowing ring. Not really.
+
+     Right. But there sure seems to be!
+
+Right.
+
+     So where is     then?
+Where's what?
+     The pinkish glowing ring.
+There      any; I thought you'd just acknowledged that.
+     Well, yes, there     any pinkish ring out there on the page, but
+     there sure seems to be.
+Right. There seems to be a pinkish glowing ring.
+
+     So leVs talk about that ring.
+
+Which one?
+     The one that seems to be.
+There is no such thing as a pink ring that merely seems to be.
+     Look, I don't just say that there seems to be a pinkish glowing
+     ring; there really does seem to be a pinkish glowing ring!
+I hasten to agree. I never would accuse you of speaking disingenuously!
+You really mean it when you say there seems to be a pinkish glowing
+ring.
+     Look. I don't just mean it. I don't just think there seems to be a
+     pinkish glowing ring; there really seems to be a pinkish glowing
+     ring!
+
+=== p. 364 ===
+
+Now you've done it. You've fallen in a trap, along with a lot of others.
+You seem to think there's a difference between thinking (judging, dc-ciding, being of the heartfelt opinion that) something seems pink to
+you and something really seeming pink to you. But there is no difference. There is no such phenomenon as really seeming — over and above
+the phenomenon of judging in one way or another that something is
+the case.
+     Recall the Marilyn wallpaper. The wall is, in fact, covered in high-resolution Marilyns. Moreover, that's just how it seems to you! It seems
+to you that the wall is covered in high-resolution Marilyns. Lucky you,
+your visual apparatus has led you to a true belief about a feature of
+your environment. But there aren't lots of real seeming Marilyns represented in your brain — or your mind. There is no medium that reproduces the wallpaper detail, that renders it for your inner Witness.
+All that is the case is that it seems to you that there are lots of high-resolution Marilyns there (and this time you're right — there really axe).
+Other times, you may be wrong; it may seem to you — in the color phi
+phenomenon — that a single spot moved right, changing color as it
+went, when in fact there were simply two differently colored spots
+flashing. Its seeming to you this way does not require rendering in the
+brain, any more than the brain's color judgments, once reached, need
+to be subsequently decoded somewhere.
+      But then what is happening when it seems to me that there is a
+      pinkish glowing ring? What is the positive account that your theory provides? You seem to me to be terribly evasive on this score.
+I guess you're right. It's time to come clean and present the positive
+account, but I confess I'll have to do it by starting with a caricature and
+then revising it. I can't seem to discover a more direct way of expounding it.
+      So I've noticed. Carry on.
+Suppose there were a Central Meaner. But suppose that instead of sitting
+in a Cartesian Theater watching the Presentation, the Central Meaner
+sits in the dark and has presentiments — it just suddenly occurs to him
+that there is something pink out there, the way it might suddenly occur
+to you that there's somebody standing behind you.
+      What are presentiments, exactly? What are they made of?
+Good question, which I must answer evasively at first, in caricature.
+These presentiments are propositions the Central Meaner exclaims to
+
+=== p. 365 ===
+
+               DISMANTUNG THE             PROTECTION PROGRAM      365
+
+himself in his own special language, Mentalese. So his life consists of
+a sequence of judgments, which are sentences of Mentalese, expressing
+one proposition after another, at tremendous speed. Some of these he
+decides to publish, in English translation.
+      This theory has the virtue of getting rid of the figment, the projection into phenomenal space, the filling in of all the blanks on the
+Theater Screen, but it still has a Central Meaner, and the Language of
+Thought. So let's revise the theory. First, get rid of the Central Meaner
+by distributing all his judgments around in time and space in the
+brain — each act of discrimination or discernment or content-fixation
+happens somewhere, but there is no one Discerner doing all the work.
+And second, get rid of the Language of Thought; the content of the
+judgments doesn't have to be expressible in "propositional" form —
+that's a mistake, a case of misprojecting the categories of language back
+onto the activities of the brain too enthusiastically.
+
+     So presentiments are like speech acts except that there's no Actor
+     and no Speech!
+
+Well, yes. What there is, really, is just various events of content-fixation
+occurring in various places at various times in the brain. These are
+nobody's speech acts, and hence they don't have to be in a language,
+but they are rather like speech acts; they have content, and they
+do have the effect of informing various processes with this content.
+We considered more detailed versions of this in chapters 5—10.
+Some of these content-fixations have further effects, which eventually
+lead to the utterance of sentences — in natural language — either
+public or merely internal. And so a heterophenomenological text
+gets created. When it's interpreted, the benign illusion is created of
+there being an Author. This is sufficient to produce heterophenom-enology.
+
+     But what about the actual phenomenology?
+
+There is no such thing. Recall our discussion of the interpretation of
+fiction. When we come across a novel that is loosely veiled autobiography, we find we can map the fictional events onto many of the real
+events in the author's life, so in a strained sense the novel is about
+those real events. The author may not realize this at all, but nevertheless, in this strained sense it is true; those events are what the text is
+about, because those are the real events that explain why this text got
+created.
+
+=== p. 366 ===
+
+     But what is the text about in the unstrained sense?
+Nothing. It's fiction. It seems to be about various fictional characters,
+places, and events, but these events never happened; it isn't really about
+anything.
+     But when I read a novel, these fictional events come alive! Something happens in me; I visualize the events. The act of reading,
+     and interpreting, a text such as a novel creates some new things
+     in my imagination: images of the characters doing the deeds. After
+     all, when we go to see a film version of a novel we have read, we
+     often think — "That's not at all the way I imagined her!"
+Granted. In "Fearing Fictions," the philosopher Kendall Walton (1978)
+claims that these acts of imagination on the part of an interpreter supplement the text in much the same way the pictures found in illustrated
+          of novels do, "combining with the novel to form a 'larger'
+ tictional,                           world" (p. 17). These additions are
+perfectly real, but they are just more "text" — not made of figment, but
+made of judgment. There is nothing more to phenomenology than that.
+     But there seems to be!
+Exactly! There seems to be phenomenology. That's a fact that the het-erophenomenologist enthusiastically concedes. But it does not follow
+from this undeniable, universally attested fact that there really is phenomenology. This is the crux.
+     Are you denying then that consciousness is a plenum?
+Yes indeed. That's part of what I'm denying. Consciousness is gappy
+and sparse, and doesn't contain half of what people think is there!
+     But, but...
+But consciousness sure seems to be a plenum?
+     Yes!
+I agree; it seems to be a plenum; it even seems to be a "striking fact"
+about consciousness that it is continuous, as Edelman says, but...
+     I know, I know: it doesn't follow from the fact that it seems to be
+     a plenum that it is a plenum.
+Now you've got it.
+     But there's another problem I have with this hall of mirrors you
+     call a theory. You say it is only as if there were a Central Meaner,
+
+=== p. 367 ===
+
+     as if there were a single Author, as if there were a place where it
+     all comes together! I don't understand this as if business!
+Perhaps another thought experiment will make this more palatable.
+Imagine that we visited another planet and found that the scientists
+there had a rather charming theory: Every physical thing has a soul
+inside it, and every soul loves every other soul. This being so, things
+tend to move toward each other, impelled by the love of their internal
+souls for each other. We can suppose, moreover, that these scientists
+had worked out quite accurate systems of soul-placement, so that, having determined the precise location in physical space of an item's soul,
+they could answer questions about its stability ("It will fall over because
+its soul is so high"), about vibration ("If you put a counterbalancing
+object on the side of that drive wheel, with a rather large soul, it will
+smooth out the wobble"), and about many much more technical topics.
+      What we could tell them, of course, is that they have hit upon the
+concept of a center of gravity (or more accurately, a center of mass),
+and are just treating it a bit too ceremoniously. We tell them that they
+can go right on talking and thinking the way they were — all they have
+to give up is a bit of unnecessary metaphysical baggage. There is a
+simpler, more austere (and much more satisfying) interpretation of the
+very facts they use their soul-physics to understand. They ask us: Are
+there souls? Well, sure, we reply — only they're abstracta, mathematical abstractions rather than nuggets of mysterious stuff. They're exquisitely useful fictions. It is as if every object attracted every other
+object by concentrating all its gravitational oomph in a single point —
+and it's vastly easier to calculate the behavior of systems using this
+principled fiction than it would be to descend to the grubby details —
+every point attracting every other point.
+
+     I feel as if my pocket were just picked.
+
+Well don't say I didn't warn you. You can't expect consciousness to
+turn out to be just the way you wanted it. Besides, what are you really
+giving up?
+     Only my soul.
+Not in any coherent, defensible sense. All you're giving up is a nugget
+of specialness that couldn't really be special anyway. Why would you
+think any more of yourself if you turned out to be a sort of mind-pearl
+in the brain-oyster? What would be so special about being a mind-pearl?
+
+=== p. 368 ===
+
+     A mind-pearl might be immortal, unlike a brain.
+      The idea that the Self — or the Soul — is really just an abstraction
+strikes many people as simply a negative idea, a denial rather than
+anything positive. But in fact it has a lot going for it, including — if it
+matters to you — a somewhat more robustly conceived version of potential immortality than anything to be found in traditional ideas of a
+soul, but that will have to wait until chapter 13. First we must deal
+definitively with qualia, which still have a grip on our imaginations.
+

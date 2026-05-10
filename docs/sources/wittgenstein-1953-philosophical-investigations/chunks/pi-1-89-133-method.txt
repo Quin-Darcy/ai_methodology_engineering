@@ -1,0 +1,497 @@
+=== chunk: wittgenstein-1953-philosophical-investigations/pi-1-89-133-method ===
+title: Part I §§89–133 — the methodological remarks
+source_pdf: docs/sources/wittgenstein-1953-philosophical-investigations/full.ocr.pdf
+pdf_pages: 48-58
+page_scheme: section_number
+plan_page_start: 89
+plan_page_end: 133
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 48 ===
+
+stand, ıf after all it is not the final one? In that case the explanation ıs
+never completed; so I still don't understand what he means, and never
+shall!"—As though an explanation as it were hung in the air unless
+supported by another one.      Whereas an explanation may indeed rest
+on another one that has been given, but none stands in need of another—unless we require it to prevent a misunderstanding. One might
+say: an explanation serves to remove or to avert a misunderstanding——one, that is, that would occur but for the explanation;
+not every one that I can imagine.
+  It may easily look as if every doubt merely revealed an existing gap
+in the foundations; so that secure understanding is only possible if we
+first doubt everything that can be doubted, and then remove all these
+doubts.
+   The sign-post is ın order—if, under normal circumstances, it fulfils
+its purpose.
+
+  88.    If I tell someone "Stand roughly here"—may not this explanation work perfectly? And cannot every other one fail too?
+   But isn't it an inexact explanation?—Yes; why shouldn't we call it
+"inexact"? Only let us understand what "inexact" means. For it does
+not mean "unusable". And let us consider what we call an "exact"
+explanation in contrast with this one.   Perhaps something like drawing
+a chalk line round an area? Here it strikes us at once that the line has
+breadth. So a colour-edge would be more exact. But has this exactness
+still got a function here: isn't the engine idling? And remember too that
+we have not yet defined what is to count as overstepping this exact
+boundary; how, with what instruments, it is to be established. And
+SO on.
+
+  We understand what it means to set a pocket watch to the exact time
+or to regulate it to be exact. But what ifit were asked: is this exactness
+ideal exactness, or how nearly does it approach the ideal?—Of course,
+we can speak of measurements of time ın which there is a different,
+and as we should say a greater, exactness than in the measurement of
+time by a pocket-watch; in which the words "to set the clock to the
+exact time" have a different, though related meaning, and 'to tell the
+time' is a different process and so on.—Now, if [ tell someone: "You
+should come to dinner more punctually; you know it begins at one
+o'clock exactly"—is there really no question of exactness here? because
+it is possible to say:   "Think of the determination of time in the
+laboratory or the observatory; there you see what 'exactness' means"?
+
+=== p. 49 ===
+
+      "Inexact" is really a reproach, and "exact" is praise.   And that is to
+say that what is inexact attains its goal less perfectly than what is more
+exact.       Thus the point here is what we call "the goal".    Am I inexact
+when I do not give our distance from the sun to the nearest foot, or
+tell a joiner the width of a table to the nearest thousandth of an inch?
+      No single ideal of exactness has been laid down; we do not know
+what we should be supposed to imagine under this head—unless you
+vourself lay down what is to be so called.      But you will find it difficult
+to hit upon such a convention; at least any that satisfies you.
+
+      89.    These considerations bring us up to the problem: In what sense
+is logic something sublime?
+      For there seemed to pertain to logic a peculiar depth—a universal
+significance.      Logic lay, it seemed, at the bottom of all the sciences.—
+For logical investigation explores the nature of all things.       It seeks to
+see to the bottom of things and is not meant to concern itself whether
+what actually happens is this or that.——It takes its rise, not from
+an interest in the facts of nature, nor from a need to grasp causal
+ connexions: but from an urge to understand the basis, or essence,, of
+ everything empirical. Not, however, as if to this end we had to hunt out
+ new facts; it is, rather, of the essence of our investigation that we do
+ not seek to learn anything new by it. We want to understand something
+ that is already in plain view.     For fhis is what we seem in some sense
+ not to understand.
+   Augustine says in the Confessions "quid est ergo tempus?           si nemo
+ ex me quaerat scio; si quaerenti explicare velim, nescio".—This could
+ not be said about a question of natural science ("What is the specific
+ gravity of hydrogen?" for instance).        Something that we know when
+ no one asks us, but no longer know when we are supposed to give an
+ account of it, is something that we need to remind ourselves of.        (And
+ it is obviously something of which for some reason it is difficult to
+ remind oneself.)
+
+       90.    We feel as if we had to penetrate phenomena: our investigation,
+ however, is directed not towards phenomena, but, as one might say,
+ towards the possibilities’ of phenomena.         We remind ourselves, that
+ is to say, of the kind of statement that we make about phenomena.
+ Thus Augustine recalls to mind the different statements that are made
+  about the duration, past present or future, of events.        (These are, of
+  course, not philosophical statements about time, the past, the present
+  and the future.)
+
+=== p. 50 ===
+
+  Our investigation is therefore a grammatical one.       Such an investigation sheds light on our problem by clearing misunderstandings away.
+Misunderstandings concerning the use of words, caused, among other
+things, by certain analogies between the forms ofexpression in different
+regions of language.—Some of them can be removed by substituting
+one form of expression for another; this may be called an "analysis"
+of our forms of expression, for the process is sometimes like one of
+taking a thing apart.
+
+  91.    But now it may come to look as if there were something like a
+final analysis   of our forms   of language,   and   so a single completely
+resolved form of every expression.     That is, as if our usual forms of
+expression were, essentially, unanalysed; as if there were something
+hidden in them that had to be brought to light.         When this is done
+the expression is completely clarified and our problem solved.
+  It can also be put like this: we eliminate misunderstandings by
+making our expressions more exact; but now it may look as if we were
+moving towards a particular state, a state of complete exactness; and
+as if this were the real goal of our investigation.
+
+  92..   This finds expression in questions as to the essence oflanguage,
+of propositions, of thought.—For if we too in these investigations are
+trying to understand the essence of language—its function, its structure,—yvet this is not what those questions have in view.          For they
+see in the essence, not something that already lies open to view and that
+becomes    surveyable by a rearrangement, but somecthing that lies
+beneath the surface.    Something that lies within, which we see when we
+look /nfo the thing, and which an analysis digs out.
+  "The essence is hidden from us*:    this is the form our problem now
+assumes.    We ask:     "What is language?",    "What is a proposition?"
+And the answer to these questions is to be given once for all; and
+independently of any future experience.
+
+  93.    One person might say "A proposition is the most ordinary
+tiling in the world" and another:     "A proposition—that's something
+very queer 1"——And the latter is unable simply to look and see how
+propositions really work.     The forms that we use in expressing ourselves about propositions and thought stand in his way.
+  Why do we say a proposition is something remarkable?              On the
+one hand, because of the enormous importance attaching to it.         (And
+that is correct).   On the other hand this, together with a misunder-
+
+=== p. 51 ===
+
+44°                    PHILOSOPHICAL INVESTIGATIONS I
+
+standing of the logic of language, seduces us into thinking that something extraordinary, something unique, must be achieved by propositions.—A misunderstanding makes it look to us as ıf a proposition did
+something queer.
+
+      94.    'A proposition is a queer thing!'    Here we have in germ the
+subliming of our whole account of logic.              The tendency to assume a
+pure intermediary between the propositional signs and the facts.                  Or
+even to try to purify, to sublime, the signs themselves.—For our forms
+of expression prevent us in all sorts of ways from seeing that nothing
+out of the ordinary is involved, by sending us in pursuit of chimeras.
+
+      95.    "Thought must be      somecthing unique".       When we       say,   and
+mean, that such-and-such is the case, we—and our meaning—do not
+stop anywhere short of the fact; but we mean: this—is—so.                  But this
+paradox (which has the form of a truism) can also be expressed in this
+way: Thought can be of what is nof the case.
+
+      96.    Other illusions come from various quarters to attach themselves
+to the special one spoken of here.        Thought, language, now appear to
+us      as   the unique correlate, picture, of the world.       These concepts:
+proposition, language, thought, world, stand in line one behind the
+other, each equivalent to each.        (But what are these words to be used
+for now?         The   language-game in    which they are to be         applied is
+missing.)
+
+      97.    Thought is surrounded by a halo.—Its essence, logic, presents
+an order, in fact the a priori order of the world: that is, the order of
+possibilities,     which   must be    common     to   both   world   and   thought.
+But this       order, it seems, must be utferly simple.        It is prior to      all
+experience, must run through all experience; no empirical cloudiness
+ or uncertainty can be allowed to affect it——It must rather be of the
+purest crystal.        But this   crystal does not appear as     an abstraction;
+but as something concrete, indeed, as the most concrete, as it were the
+hardest thing there is (Tractatus Logico-Philosophicus No.           5.5563).
+      We are under the illusion that what is peculiar, profound, essential,
+ in our investigation, resides in its trying to grasp the incomparable
+ essence of language.       That is, the order existing between the concepts
+ of proposition, word, proof, truth, experience, and so on.            This order
+ is a super-order between—so to speak—super-concepts.                 Whereas, of
+ course, if the words "language", "experience", "world", have a use, it
+ must be as humble a one as that of the words "table", "lamp", "door".
+
+=== p. 52 ===
+
+  98.      On the one hand it is clear that every sentence in our language
+'is in order as it is'.   That is to say, we are not striving after an ideal,
+as if our ordinary vague sentences had not yet got a quite unexceptionable sense, and a perfect language awaited construction by us.—On the
+other hand it seems clear that where there is sense there must be perfect
+order.——So there must be perfect order even in the vaguest sentence.
+
+  99.      The sense of a sentence—one would           like to    say—may,    of
+course, leave this or that open, but the sentence must nevertheless
+have a definite sense.      An indefinite sense—that would really not be a
+sense at all—This is like:        An indefinite boundary is not really a
+boundary at all.     Here one thinks perhaps: if I say "I have locked the
+man up fast in the room—there is only one door left open"—then I
+simply haven't locked him in at all; his being locked in is a sham.
+One would be inclined to say here: "You haven't done anything at all".
+An enclosure with a hole in it is as good as none.—But is that true?
+
+   100.     "But still, it isn't a game, if there is some vagueness in the
+rules”.—But does this prevent its being a game?—"Perhaps vou'll call
+it a game, but at any rate it certainly isn't a perfect game."      This means:
+it has impurities, and what I am interested in at present is the pure
+article—But I want to say: we misunderstand the role of the ideal
+in our language.     That is to say: we too should call it a game, only we
+are dazzled by the ideal and therefore fail to see the actual use of the
+word "game" clearly.
+
+   101.     We want to say that there can't be any vagueness in logic.
+The idea now absorbs us, that the ideal must’
+                                           be found in reality. Meanwhile we do not as yet see how it occurs there, nor do we understand
+the nature of this "must".      We think it must be in reality; for we think
+we already see it there.
+
+   102.      The strict and clear rules of the logical structure of propositions     appear to us as    somcthing in the background—hidden in the
+medium       of the understanding.     I   already   see   them   (even   though
+through a medium): for I understand the propositional sign, I use it
+to say something.
+
+   103.     The ideal, as we think of it, is unshakable.    You can never get
+outside it; you must always turn back.         There is no outside; outside
+you cannot breathe.—Where does this idea come from? It is like a pair
+of glasses on our nose through which we see whatever we look at.              It
+never occurs to us to take them off.
+
+=== p. 53 ===
+
+afıc                       PHILOSOPHICAL INVESTIGATIONS
+
+       104,    We predicate of the thing what lies in the method of representing it.          Impressed by the possibility of a comparison, we think
+we are perceiving a state of affairs of the highest generality.
+
+       105.        When we believe that we must find that order, must find the
+ideal, in our actual language, we become dissatisfied with what are
+ordinarily called             "propositions",         "words",    "signs".
+   The proposition and the word that logic deals with are supposed
+to be something pure and clear-cut.                      And we rack our brains over the
+nature of the real sign.—It is perhaps the /dea of the sign? or the idea at
+the present moment?
+
+       106.    Here it is difficult as it were to keep our heads up,—to see
+that we must stick to the subjects of our every-day thinking, and not
+go astray and imagine                  that we have to describe extreme subtleties,
+which         in    turn    we   are    after   all    quite   unable     to describe   with the
+means at our disposal.                 We feel as ıf we had to repair a torn spider's
+web with our fingers.
+
+       107.    The more narrowly we examine actual language, the sharper
+becomes the conflict between it and our requirement.                            (For the crystalline purity of logic was, of course, not a result of investigation: it was a
+requirement.)              The conflict becomes intolerable; the requirement is
+now in danger of becoming empty.—We have got on to slippery ice
+where there is no friction and so in a certain sense the conditions are
+ideal, but also, just because of that, we are unable to walk.                       We want to
+walk: so we need fiiction.                 Back to the rough ground!
+
+       108.        We   see that what we              call "sentence"     and   "language"   has
+not the formal unity that I imagined, but is the family of structures
+more or less related to one another.——But what becomes of logic
+now? Its rigour seems to be giving way here.—But in that case doesn't
+logic altogether disappear?—For how can it lose its rigour?                             Of course
+not by our bargaining any of its rigour out of it.—The preconceived idea
+of crystalline             purity   can    only be       removed     by turning      our whole
+examination round.                  (One   might say:          the axis   of reference of our
+examination must be rotated, but about the fixed point ofour real need.)
+       The philosophy of logic speaks of sentences and words in exactly the
+ sense in which we speak of them in ordinary life when we say e.g.
+
+       Faraday in Zhe Chemical History ofa Candle: "Water is one individual
+thing—it never changes."
+
+=== p. 54 ===
+
+"Here is a Chinese sentence", or "No, that only looks like writing; it is
+actually just an ornament" and so on.
+  We      are talking    about the spatial       and temporal phenomenon of
+language, not about some non-spatial, non-temporal phantasm.                          [Note
+in margin: Only it is possible to be interested in a phenomenon in a
+variety of ways].       But we talk about it as we do about the pieces in
+chess when we are stating the rules of the game, not describing their
+physical properties.
+  The question "What is a word really?" is analogous to "What is a
+piece in chess?"
+
+  109.     It was true to say that our considerations could not be scientific
+ones.    It was not of any possible interest to us to find out empirically
+'that, contrary to our preconceived ideas, it is possible to think suchand-such'—whatever that may mean.                (The conception of thought as a
+gaseous medium.) And we may not advance any kind of theory. There
+must not be anything hypothetical in our considerations.                    We must do
+away with all explanation, and description alone must take its place.
+And this description gets its light, that is to say its purpose, from
+the   philosophical problems.          These     are,    of course,        not   empirical
+problems; they are solved, rather, by looking into the workings of our
+language, and that in such a way as to make us recognize those workings: in despite of an urge to misunderstand them.                    The problems are
+solved, not by giving new information, but by arranging what we
+have always known.          Philosophy is a battle against the bewitchment
+of our intelligence by means of language.
+
+  no.       "Language (or thought) is something unique"—this proves to
+beasuperstition(notamistake!).itselfproducedbygrammaticalillusions.
+  And now the           impressiveness       retreats    to    these illusions,      to   the
+problems.
+
+  in.      The problems arising through a misinterpretation of our forms
+of language have the character of depth.                They are deep disquictudes;
+their roots are as deep in us as the forms of our language and their
+significance is as great as the importance of our language.                          Let us
+ask ourselves: why do we feel a grammatical joke to be deep*                     (And that
+is what the depth of philosophy is.)
+
+   112.     A simile     that   has   been    absorbed        into   the   forms     of our
+language produces a false appearance, and this disquiets us.                       "But this
+isn't how it isl"—we say.        "Yet this is how it has to be I”
+
+=== p. 55 ===
+
+‚Be                   PHILOSOPHICAL INVESTIGATIONS              I
+
+      113.    "But this is how it 1:——
+                                     —" I say to myself over and over
+again.       I feel as though, if only I could fix my gaze absolutely sharply
+on this fact, get it in focus, I must grasp the essence of the matter.
+
+      114.    (Tractatus Logico-Philosophicus,   4.5).   "The       general form of
+propositions is: This is how things are.”           That is the kind of proposition that one repeats to oneself countless times.       One thinks that one is
+tracing the outline of the thing's nature over and over again, and one is
+merely tracing round the frame through which we look at it.
+
+      115.    A picture held us captive. And we could not get outside it, for
+it lay in our language and language seemed to repeat it to us inexorably.
+
+      116.    When    philosophers    use   a word—"knowledge",            "being",
+"object", "I",       "proposition", "name"-—and try to grasp the essence
+of the thing, one must always ask oneself: ıs the word ever actually
+used in this way in the language-game which is its original home?—
+      What we do is to bring words back from their metaphysical to their
+evervday use.
+      117.    You say to      me:   "You understand      this   expression,   don't
+vou? Well then—I am using it in the sense you are familiar with."—
+As if the sense were an atmosphere accompanying the word, which it
+carried with it into every kind of application.
+      If, for example, someone says that the sentence                "This is here"
+(saying which he points to an object in front of him) makes sense to
+him, then he should ask himself in what special circumstances this
+sentence is actually used. There it does make sense.
+
+      118.    Where does our investigation get its importance from, since
+it seems only to destroy everything interesting, that is, all that is great
+and important? (As it were all the buildings, leaving behind only bits
+of stone and rubble.) What we are destroying is nothing but houses of
+cards and we are clearing up the ground of language on which they
+stand.
+      119.    The   results   of philosophy are the      uncovering of one or
+another piece of plain nonsense and of bumps that the understanding
+has got by running its head up against the limits of language.                These
+bumps make us see the value of the discovery.
+
+      120.    When I talk about language (words, sentences, etc.) I must
+speak the language of every day. Is this language somehow too coarse
+and material for what we want to say?            Then how is another one to be
+
+=== p. 56 ===
+
+                     PHILOSOPHICAL    INVESTIGATIONS    I                49©
+
+constructed?—And how strange that we should be able to do anything
+at all with the one we have!
+  In giving explanations I already have to use language full-blown
+(not some sort of preparatory, provisional one); this by itsclf shews
+that T can adduce only exterior facts about language.
+  Yes, but then how can these explanations satisfy us?—Well, vour
+very questions were framed ın this language; they had to be expressed
+in this language, if there was anything to ask!
+  And your scruples are misunderstandings.
+  Your questions refer to words; so I have to talk about words.
+  You say: the point isn't the word, but its meaning, and you think of
+the meaning as a thing of the same kind as the word, though also
+different from the word.       Here the word, there the meaning.        The
+money, and the cow that you can buy with it.        (But contrast: money,
+and its use.)
+
+  121.     One might think: ıf philosophy speaks of the use of the word
+"philosophy" there must be a second-order philosophy.         But it is not
+so: it is, rather, like the case of orthography, which deals with the word
+"orthography"       among others without then being     second-order.
+
+  122.     A main source of our failure to understand is that we do not
+command
+      a clear view of the use of our words.—Our grammar is lacking in
+this sort of perspicuity.    A perspicuous representation produces just
+that understanding which consists in 'seeing connexions'.       Hence the
+importance of finding and inventing infermediate cases.
+  The     concept    of a perspicuous   representation is   of fundamental
+significance for us.      It earmarks the form of account we give, the
+way we look at things.      (Is this a "Weltanschauung'?)
+
+   123.    A philosophical problem has the form:       "I don't know my
+way about".
+
+   124,    Philosophy may in no way interfere with the actual use of
+language; it can in the end only describe it.
+  For it cannot give it any foundation either.
+  It leaves everything as it is.
+  It also leaves mathematics as it is, and no mathematical discovery
+can advance it.      A "leading problem of mathematical logic" is for us
+a problem of mathematics like any other.
+
+=== p. 57 ===
+
+      125.   It is the business of philosophy, not to resolve a contradiction
+by means of a mathematical or logico-mathematical discovery, but
+to make it possible for us to get a clear view of the state of mathematics
+that troubles us: the state of affairs before the contradiction is resolved.
+(And this does not mean that one is sidestepping a difficulty.)
+  The fundamental fact here is that we lay down rules, a technique,
+for a game, and that then when we follow the rules, things do not
+turn out as we had assumed.         That we are therefore as it were entangled
+in our own rules.
+      This entanglement in our rules is what we want to understand (i.c.
+get a clear view of).
+  It throws light on our concept of meaning something.               For in those
+cases things turn out otherwise than we had meant, foreseen.              That is
+just what we say when, for example, a contradiction appears: "I didn't
+mean it like that."
+      The civil status of a contradiction, or its status in civil life: there is
+the philosophical problem.
+
+      126.   Philosophy      simply puts    everything before us,    and neither
+explains nor deduces anything.—Since everything lies open to view
+there is nothing to explain.       For what is hidden, for example, is of no
+interest to us.
+      One might also give the name           "philosophy" to what is possible
+before all new discoveries and inventions.
+
+      127.   The work of the philosopher consists in assembling reminders
+for a particular purpose.
+
+      128.   If one tried to advance theses in philosophy, it would never
+be possible to debate them, because everyone would agree to them.
+
+      129.   The   aspects    of things    that are most important for us      are
+hidden because of their simplicity and familiarity.             (One is unable to
+notice something—because it is always before one's eves.)                The real
+foundations of his enquiry do not strike a man at all.            Unless that fact
+has at some time struck him.—And this means: we fail to be struck
+by what, once scen, is most striking and most powerful.
+
+      130.    Our clear and simple language-games are not preparatory studies
+for a future regularization of language—as it were first approximations,
+ignoring friction and air-resistance.        The language-games are rather sct
+up as objects of comparison which are meant to throw light on the facts of
+our language by way not only of similarities, but also of dissimilarities.
+
+=== p. 58 ===
+
+                      PHILOSOPHICAL       INVESTIGATIONS       I                    jie
+
+  131.     For we can avoid ineptness or emptiness in our assertions
+only by presenting the model as what it is, as an object of comparison—as, SO to speak, a measuring-rod; not as a preconceived idea to
+which reality must correspond.         (The dogmatism into which we fall so
+easily in doing philosophy.)
+
+  132.     We want to establish an order in our knowledge of the use
+of language: an order with a particular end in view; one out of many
+possible orders; not the order.           To this end we shall constantly be
+giving    prominence      to   distinctions   which    our   ordinary       forms    of
+language casily make us overlook.             This may make it look as if we
+saw it as our task to reform language.
+  Such a reform for particular practical purposes, an improvement in
+our terminology designed to prevent misunderstandings in practice,
+is perfectly possible.     But these are not the cases we have to do with.
+The confusions which occupy us arise when language is like an engine
+idling, not when it is doing work.
+
+  133.     It is not our aim to refine or complete the system of rules for
+the use of our words in unheard-of ways.
+  For the clarity that we are aiming at is indeed complete clarity.                 But
+this simply means that the philosophical problems should completely
+disappear.
+  The real discovery is the one that makes me capable of stopping
+doing philosophy when I want to.—The one that gives philosophy
+peace, so that it is no longer tormented by questions which bring itself
+in question.—Instead, we now demonstrate a method, by examples;
+and the series of examples can be broken off. —Problems are solved
+(difficulties climinated), not a single problem.
+  There    is   not   a   philosophical    method,    though       there   are   indeed
+methods, like different therapies.
+
+   134.    Let us examine the proposition:           "This is how things are."—
+How can I say that this is the general form of propositions?—It is
+first and foremost 7fself a proposition, an English sentence, for it has
+a subject and a predicate.        But how is this sentence applied—that is,
+in our everyday language?         For
+                                    I got it from there and nowhere else.
+  We may say, e.g.:         "He explained his position to me, said that this
+was how things         were,   and that therefore he nceded an              advance".
+So far, then, one can say that that sentence stands for any statement
+It is employed as a prepositional schema, but only because it has the
+

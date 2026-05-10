@@ -1,0 +1,347 @@
+=== chunk: davidson-1984-inquiries/introduction ===
+title: Introduction
+source_pdf: docs/sources/davidson-1984-inquiries/full.ocr.pdf
+pdf_pages: 16-23
+page_scheme: pdf
+plan_page_start: 16
+plan_page_end: 23
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 16 ===
+
+Introduction
+
+What is it for words to mean what they do? In the essays collected
+here I explore the idea that we would have an answer to this question
+if we knew how to construct a theory satisfying two demands: it
+would   provide an interpretation of all utterances, actual and
+potential, of a speaker or group of speakers; and it would be
+verifiable without knowledge of the detailed propositional attitudes
+of the speaker. The first condition acknowledges the holistic nature
+of linguistic understanding. The second condition aims to prevent
+smuggling into the foundations of the theory concepts too closely
+allied to the concept of meaning. A theory that does not satisfy both
+conditions cannot be said to answer our opening question in a
+philosophically instructive way.
+  The first five essays are mainly concerned with the question what
+sort of a theory would satisfy the first condition.
+  Essay 1, ‘Theories of Meaning and Learnable Languages’, urges
+that a satisfactory theory must discover a finite basic vocabulary in
+the verbal phenomena to be interpreted if it is to prove useful to a
+creature with finite powers. If this is so, there is no escape from the
+need to treat the semantic features of the potential infinity of
+sentences as owed to the semantic features of the items in a finite
+vocabulary. It turns out that a number of familiar theories fail to
+meet this condition: Frege’s analysis of oblique contexts, Church’s
+logic of sense   and   denotation, Tarski’s informal     treatment of
+quotation are examples. Standard theories of adverbial modification
+might well be added to the list.
+  Essay 2, ‘Truth and Meaning’, argues that a theory of truth along
+the lines of Tarski’s truth definitions, but modified in various ways
+to apply to a natural language, would be enough for an interpreter
+
+=== p. 17 ===
+
+xiv   Introduction
+
+to go on. Such theories have clear virtues. They make no use of
+meanings as entities; no objects are introduced to correspond to
+predicates or sentences; and from a finite set of axioms it is possible
+to prove, for each sentence of the language to be interpreted, a
+theorem that states truth conditions for that sentence. Further, the
+proof of such a theorem amounts to an analysis of how the truth or
+falsity of the sentence depends on how it is composed from elements
+drawn from the basic vocabulary. If such theories really do satisfy
+the two conditions listed in the first paragraph, we can take the word
+‘theory’ in ‘theory of meaning’ seriously.
+  Many objections have been made to the claim that truth theories
+can do duty as theories of meaning. Some of the objections I have
+tried to meet or deflect in other essays in this book. But whether or
+not the claim can be made good, some of the arguments for it in
+“Truth and Meaning’ are faulty. The reader will find that I shifted
+ground more than once as I tried to improve or clarify this central
+thesis. One thing that only gradually dawned on me was that while
+Tarski intended to analyse the concept of truth by appealing (in
+Convention T) to the concept of meaning (in the guise of sameness
+of meaning, or translation), I have the reverse in mind. I considered
+truth to be the central primitive concept, and hoped, by detailing
+truth’s structure, to get at meaning. These are remarks about
+theories of truth, of course, not remarks to be found in them.
+  Something else that was slow coming to me was that since I was
+treating theories of truth as empirical theories, the axioms and
+theorems had to be viewed as laws. So a theorem like ‘“‘Schnee ist
+weiss’ is true in the mouth of a German speaker if and only if snow
+is white’ has to be taken not merely as true, but as capable of
+supporting counterfactual claims. Indeed, given that the evidence
+for this law, if it is one, depends ultimately on certain causal
+relations between speakers and the world, one can say that it is no
+accident that *‘Schnee ist weiss’ is true if and only if snow is white; it
+is the whiteness of snow that makes ‘Schnee ist weiss’ true. How
+much of a concession this is to intensionality depends, | suppose, on
+one’s analysis of the concept of law. What seems clear is that
+whatever the concession comes to, it is one that must be made for
+any empirical science. These matters are discussed in Essay 12.
+  Essay 3, ‘True to the Facts’, asks whether a theory of truth in
+Tarski’s style should    be called a correspondence theory. Such
+theories do not, like most correspondence theories, explain truth by
+
+=== p. 18 ===
+
+                                                       Introduction    xv
+
+finding entities such as facts for true sentences to correspond to. And
+there are good reasons, which can be traced back to Frege, for
+rejecting facts as entities that could play this role. On the other hand,
+theories of truth of the kind considered here do require that a
+relation between entities and expressions be characterized (‘satisfaction’). It is not easy to see how a satisfactory route to truth can
+escape this step if the language the theory treats has the usual
+quantificational resources.
+  ‘Semantics for Natural Languages’, Essay 4, urges that truth
+theories could provide a formal semantics for natural languages to
+match the sort of formal syntax linguists from Chomsky on have
+favoured. When this essay was written, the deep structures of syntax
+were thought to be the vehicles for semantic interpretation. Essay 4
+suggested that the deep structure of a sentence should correspond to
+the logical form a theory of truth assigned to that sentence.
+  Tarski’s Convention T, which is defended in Essay 5, is an
+informal, but powerful, instrument for testing theories of truth
+against one’s prior grasp of the concept. In the most direct
+application, the test merely calls on us to recognize the disquo-tational feature of truth predicates; sentences like ‘““Snow is white”
+is true in English if and only if snow is white’ are trivially true. Since
+the totality of such sentences uniquely determines the extension of a
+truth predicate for English, a theory that entails all such sentences
+must be extensionally correct. Critics have often made the error of
+thinking that since the theorems that show a theory to be correct are
+trivial, the theory or the concept of truth it characterizes, must also
+be trivial.
+  A theory of truth would serve to interpret a speaker only if the
+theory were up to accounting for all the linguistic resources of the
+speaker. But is a theory that satisfies Convention T adequate to a
+natural language? Here there are two questions. One is what devices
+to make or consider available in the language of the theory; the
+other is how to apply these devices to the language of the speaker.
+My working assumption has been that nothing more than standard
+first-order quantification theory is available. Indeed, 1 was long
+convinced that many alternative approaches to semantics, employing, for example, modal logics, possible world semantics, or
+substitutional quantification, could not be accommodated in a
+theory that met the demands of Convention T. I now know this was
+hasty. Convention T does not settle as much as I thought, and more
+
+=== p. 19 ===
+
+xvi   Introduction
+
+possibilities for interesting theorizing are open than I had realized.
+The well-known virtues of first-order quantification theory still
+provide plenty of motivation, however, to see how much we can do
+with it. In the next three essays, collected under the head of
+application, I attempt the semantic taming of three related but
+recalcitrant idioms: quotation, indirect discourse, and mood
+operators.
+  Essay 6 points out that no current theory of quotation is entirely
+satisfactory, and it proposes an explicitly demonstrative approach
+which makes quotation a special case of the demonstrative reference
+of words to other words in the verbal neighbourhood.
+  Essay 7, ‘On Saying That’, concentrates on one of the many kinds
+of sentence used to attribute attitudes; the paratactic solution
+suggested has obvious affinities with the treatment of quotation in
+Essay 6. In Essay 3 there are hints (which I think could be developed)
+on how the analysis could be extended to belief sentences. If the
+strategy were to be pursued, it might serve to give a semantics
+(though not a logic) for the modalities, for counterfactuals, and
+further sentences about ‘propositional’ attitudes.
+  Essay 8, ‘Moods and Performances’, stresses the often neglected
+distinction between grammatical moods on the one hand and
+various sorts of illocutionary force on the other. Only the first is of
+concern to a theory of what words mean. Here a paratactic analysis
+of imperatives is suggested which is intended to accommodate our
+natural feeling that imperatives don’t have a truth value while
+remaining within the resources of a theory of truth.
+  In the companion volume to this one, Essays on Actions and
+Events, 1 show how a theory of truth can be applied to a number of
+further problem cases: sentences about actions and other events,
+adverbial modification, and singular causal statements.
+  The third section of the present book is addressed to the question
+whether a theory of truth for a speaker can be verified without
+assuming too much of what it sets out to describe.
+  In ‘Radical Interpretation’, Essay 9, as in the rest of the essays, 1
+follow Quine in supposing that even if we narrow attention to verbal
+behaviour that reveals when, and under what conditions, a speaker
+gives credence to a sentence, there is no direct way of sorting out the
+roles of belief and meaning in explaining that credence. Eliciting
+separate accounts of belief and meaning requires a theory that can
+bring to bear on the interpretation of each sentence and its
+
+=== p. 20 ===
+
+                                                     Introduction    xvii
+
+accompanying attitudes the contribution of further data. Only by
+studying the pattern of assents to sentences can we decide what is
+meant and what believed.
+  Depending on evidence which, without the aid of theory, makes
+no distinction between the contributions of belief and meaning to
+linguistic behaviour, requires a method for effecting the separation
+to a degree sufficient for communication. Devices to this end are
+described and defended in the present essays. But all of them, in one
+way or another, rely on the Principle of Charity.
+  The phrase and the basic idea come from Neil Wilson, ‘Substances
+Without Substrata’. Quine puts it this way: *. .. assertions startlingly false on the face of them are likely to turn on hidden differences
+of language’ (Word and Object, p. 59). Quine applies the principle
+primarily to the interpretation of the logical constants.
+  Because I find I cannot use Quine’s notion of stimulus meaning as
+a basis for interpreting certain sentences, I apply the Principle of
+Charity across the board. So applied, it counsels us quite generally
+to prefer theories of interpretation that minimize disagreement. So |
+tended to put the matter in the early essays, wanting to stress the
+inevitability of the appeal to charity. But minimizing disagreement,
+or maximizing agreement, is a confused ideal. The aim of interpretation is not agreement but understanding. My point has always
+been that understanding can be secured only by interpreting in a way
+that makes for the right sort of agreement. The ‘right sort’. however,
+is no easier to specify than to say what constitutes a good reason for
+holding a particular belief.
+  The subtle pressures on the Principle of Charity begin to emerge in
+Essays 10 and I1. Yet here too there are only hints; in work now in
+progress I attempt to develop the subject in more detalil.
+  Essay 10, ‘Belief and the Basis of Meaning’, insists on the
+symmetry    of belief and      meaning in   the exploration of verbal
+behaviour. In one important respect it goes further. It develops a
+striking parallel between Bayesian theories of decision and theories
+of meaning, and gives reasons why the two theories should be
+considered mutually dependent. The hints dropped here, which give
+promise of a unified theory of speech and action, have been taken up
+in my Carus Lectures, and will be published presently.
+  The first two essays on radical interpretation stress the fact that
+understanding the words of
+                         a speaker requires knowing much about
+what he believes. Essay 11, ‘Thought and Talk’, attends to the
+
+=== p. 21 ===
+
+xvilli   Introduction
+
+reciprocal dependence, and concludes, rather speculatively, that
+only a creature with a language can properly be said to have a full-fledged scheme of propositional attitudes.
+   Essay 12, ‘Reply to Foster’, as remarked above, recognizes that if
+a theory oftruth is to suffice for interpretation, it must be more than
+true: its axioms and theorems must be natural laws. If an interpreter
+knew such a theory, he could use it to understand a speaker, but only
+if he knew that the theory’s pronouncements were nomic.
+  The next four essays may be described as philosophical fallout from the approach to truth and interpretation recommended
+here.
+  A theory of truth can be called a correspondence theory in the
+unassuming sense of Essay 3, but that sense does not encourage the
+thought that we understand what it would be like to compare
+sentences with what they are about, since the theory provides no
+entities with which to compare sentences. Along related lines, Essay
+13, ‘On    the Very Idea of a Conceptual Scheme’,            scouts the
+intelligibility of claims   that different languages     or conceptual
+schemes ‘divide up’ or ‘cope with’ reality in importantly different
+ways. Our general method of interpretation forestalls the possibility
+of discovering that others have        radically different intellectual
+equipment. But more important, it is argued that if we reject the idea
+of an uninterpreted source of evidence no room is left for a dualism
+of scheme and content. Without such a dualism we cannot make
+sense of conceptual relativism. This does not mean that we must give
+up the idea of an objective world independent of our knowledge of
+it. The argument against conceptual relativism shows rather that
+language is not a screen or filter through which our knowledge of the
+world must pass.
+  Giving up the dualism of scheme and content amounts to
+abandoning a theme central to empiricism in its main historical
+manifestations. But I do not think, as friends and critics have
+variously suggested, that my argument against empiricism makes
+me, or ought to make me, a pragmatist, a transcendental idealist, or
+an ‘internal’ realist. All these positions are forms of relativism that I
+find as hard to understand as the empiricisms I attack.
+  According to Essay 13, no sense can be made of the idea that the
+conceptual resources of different languages differ dramatically. The
+argument that makes for this conclusion makes equally for the
+conclusion that the general outlines of our view of the world are
+
+=== p. 22 ===
+
+                                                    Introduction   xix
+
+correct; we individually and communally may go plenty wrong, but
+only on condition that in most large respects we are right. It follows
+that when we study what our language—any language—requires in
+the way of overall ontology, we are not just making a tour of our
+own picture of things: what we take there to be is pretty much what
+there 1s. This is the theme of Essay 14, ‘The Method of Truth in
+Metaphysics’.
+  A theory of truth is tested by theorems that state the conditions
+under which sentences are true; these theorems say nothing about
+reference.   Essay   15,   ‘Reality Without   Reference’,   accordingly
+contends that how a theory of truth maps non-sentential expressions
+on to objects is a matter of indifference as long as the conditions of
+truth are not affected. The question what objects a particular
+sentence is about, like the questions what object a term refers to, or
+what objects a predicate is true of, has no answer.
+  In Essay 15 I am with Quine in holding reference to be inscrutable.
+Essay 16, ‘The Inscrutability of Reference’, warns against taking
+inscrutability as a reason for trying somehow to relativize the
+reference and ontology of singular terms and predicates. For since
+nothing can reveal how a speaker’s words have been mapped on to
+objects, there is nothing to relativize to; and interpretation being
+unaffected, there is no need to relativize.
+  No discussion of theories of meaning can fail to take account of
+the limits of application of such theories. The scope must be broad
+enough to provide an insight into how language can serve our
+endless purposes, but restricted enough to be amenable to serious
+systematization. Essay 8 took a necessary step by distinguishing
+between grammatical mood, which the meanest theory must account
+for, and the force of utterances, which is beyond the reach of
+comparable regimentation. Essay 17, ‘What Metaphors Mean’, is
+mainly devoted to the thesis that we explain what words in metaphor
+do only by supposing they have the same meanings they do in non-figurative contexts. We lose our ability to account for metaphor, as
+well as   rule   out all hope   of responsible theory, if we posit
+metaphorical meanings.
+  Essay 18,      ‘Communication and Convention’, draws another
+boundary. It 15 always an open question how well the theory an
+interpreter brings to a linguistic encounter will cope. In practice an
+interpreter keeps the conversation going by adjusting his theory on
+the spot. The principles of such inventive accommodation are not
+
+=== p. 23 ===
+
+xx     Introduction
+
+themselves reducible to theory, involving as they do nothing less
+than all our skills at theory construction.
+
+     The essays have been     retouched in     minor ways to reduce
+repetition, to eliminate unnecessary or confused passages, or to
+bring early more into line with later thoughts. These temperings
+have been limited to the trivial. Where my errors or lapses have
+earned attention I have let things stand, or marked the change with a
+footnote.
+  Many more people have helped me than I can possibly thank here,
+but I do especially want to mention Paul Grice, Gilbert Harman,
+Saul Kripke, David Lewis, Richard Rorty, Sir Peter Strawson, and
+Bruce Vermazen. Sue Larson and Akeel Bilgrami did indispensable
+work on the footnotes, bibliography, and index. Much more than
+that, they gave me philosophical advice and moral support. Sue
+Larson has taught me much about philosophy of language; her
+influence is especially strong in Essays 8 and 18.
+     In 1970 I gave the John Locke lectures at Oxford. The contents of
+those lectures turn up here (much modified) in Essays 2, 3, 6, 7, and
+13. A further lecture on adverbial modification drew on material
+now printed in Essays 6—11 of Essays on Actions and Events.
+     An early influence on my thinking was Michael Dummett, who
+lectured on Frege and philosophy of language several times at
+Stanford University while I was there in the fifties. Our discussions
+took a public form in 1974 when we gave a joint seminar on truth
+while I was a visiting fellow at All Souls College.
+     Over the years John Wallace and 1 talked endlessly about the
+issues raised in this book. He early appreciated the power of Tarski’s
+work on truth, and much that I have written reflects his insight and
+sympathetic criticism.
+     W. V. Quine was my teacher at a crucial stage in my life. He not
+only started me thinking about language, but he was the first to give
+me the idea that there is such a thing as being right, or at least
+wrong, in philosophy, and that it matters which. Without the
+inspiration of his writing, his patient tutelage, his friendly wit and his
+generous encouragement, this book would not be worse than it is. It
+would not be.
+

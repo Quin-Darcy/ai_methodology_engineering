@@ -1,0 +1,1333 @@
+=== chunk: booth-sutton-2022-systematic-approaches/ch10-writing-prisma ===
+title: Writing Up, Presenting and Disseminating (PRISMA 2020, PRISMA-ScR)
+source_pdf: docs/sources/booth-sutton-2022-systematic-approaches/full.pdf
+pdf_pages: 344-375
+page_scheme: book
+plan_page_start: 309
+plan_page_end: 340
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 309 ===
+
+    WRITING UP, PRESENTING
+     AND DISSEMINATING
+         YOUR REVIEW
+
+                 in a nutshell
+
+How to write up, present and share your review findings
+• When writing and presenting data from a systematic approach to the literature you should
+  consider your audience and your message.
+• Reporting guidelines exist for many systematic approaches to reviewing and if you follow
+  these guidelines your literature review is more likely to be well received.
+• Typically, you should consider what you will recommend for research and what you will
+  recommend for practice.
+• You should choose methods for data presentation that illustrate key messages from your
+  review.
+• You should publicise your review using diverse methods tailored to your specific audience(s).
+
+                  key terms explained
+
+   dissemination: in the context of this chapter, making review results available to the scientific community, policy-makers and industry or public services using scientific language
+   prioritising accuracy. Typically focuses on the results of the review project (although
+
+=== p. 310 ===
+
+      planned much earlier), happens only when results are available and targets audiences who
+      are most able to influence take-up and use of results.
+
+      EPICOT+: acronym that represents the structured format for formulating research recommendations according to the essential components of Evidence, Population, Intervention,
+      Control, Outcome, Time. Offers a response to the imprecision implied by ‘More Research
+      is Needed.’
+
+      graded entry format: reporting format that allows stepwise access (‘graded entry’) to the
+      evidence. Typically starts with a ‘front-end’ short interpretation of findings/conclusions followed by a short, contextually framed, executive summary or narrative report highlighting
+      review results (often with locally relevant factors) and then the full systematic review itself.
+
+      reflexivity: the examination of a reviewer’s or review team’s own beliefs, judgements and
+      practices during the review process and how these may have influenced the conduct and/
+      or interpretation of the review. Typically focuses on interpretive reviews as aggregative
+      reviews tend to focus only on conflict of interest.
+
+      reporting guidelines: recommended requirements, with accompanying explanation, that
+      seek to make reports of particular study designs or research types more reliable and useful by promoting transparent and accurate reporting.
+
+INTRODUCTION
+We consistently argue that systematic approaches to reviewing capitalise upon transparent and
+auditable methods. The Methods section, typically only of interest to the subject expert (or
+latterly the systematic reviewer!), helps to establish how credible and objective your review
+is. Typically, review authors put the needs of their topic first (what do I want to say?), then
+the methods of their chosen type of review (why should they listen?). Only finally do they
+consider their audience (what do they want to learn?). Increasingly, there is recognition that
+those who synthesise evidence must speak directly to a specific audience and the audience that
+they select must, in turn, shape subsequent decisions on how to present the synthesis (Major
+& Savin-Baden, 2010b). This change in mind-set requires an interactive approach to research
+co-production.
+
+Identifying recommendations for action
+Your review may have identified methods or interventions that you now want to highlight
+for potential use in practice. However, just because these interventions can does not guarantee
+that they will! You have likely studied a study population within the context of an intervention
+evaluation. That does not necessarily mean that your findings will apply to a target population
+in an implementation context. Many factors determine whether research may be applied within
+a specific context. You may find it helpful to consider an applicability or transferability checklist (e.g. FITAR (Baxter et al., 2019) or TRANSFER (Munthe-Kaas et al., 2020)) when writing up
+recommendations. You could use a context framework within your actual review (Booth et al.,
+
+=== p. 311 ===
+
+2019a) to ensure that you have extracted data on aspects of context that are consistently important. If you are a practitioner–researcher you may already be familiar with your target context.
+Otherwise, as an external researcher, you may need to engage with stakeholders and a steering
+group to gain advice on the implications of your findings (Pollock et al., 2018).
+  You cannot simply contend that ‘More research is needed’ (Godlee, 2010). Exactly what types
+of research are needed, addressing what specific questions (Godlee, 2010)? Having spent many
+person-hours immersing yourself in the literature, surely you can now identify what has been
+researched or where considerable uncertainty remains. Try to communicate a specific question
+and future type of research required for the answer (see the EPICOT+ section of this chapter).
+Rather than generate an endless list of priorities for future research, picture where finite funds
+are best targeted. Make recommendations as an honest broker, not the potential beneficiary
+of future commissioned research; if you subsequently benefit from a gap that you have highlighted, then that is an unexpected bonus.
+  You can learn more about your target context from consultation documents, interim presentation of results to review commissioners, stakeholder conferences and presentations at professional meetings. This iterative ‘dry run’, when your findings are fresh and you can still shape
+their interpretation, is as much part of your analysis as it is part of subsequent presentation and
+dissemination. You may need to consider whether results are statistically significant and how
+much uncertainty surrounds the pooled results. Remember, too, that the pattern of your review
+findings was shaped by the eligibility criteria for your review. Focusing your review, even for
+good practical, logistic reasons (Chapter 4), may limit the extent to which it applies to populations beyond your main focus.
+  You may find that your recommendations for practice are limited by lack of detail in the
+included studies. You may be unable to judge, from limited information in the original reports,
+whether the studies are externally valid (applicable). Studies have found that reports of promising interventions so lack detail about the interventions that it is impossible to replicate these in
+practice (Hoffmann et al., 2014). Even where an intervention is clearly described the report may
+offer insufficient detail on how it was implemented.
+
+Highlighting recommendations for future research
+Any review holds the potential to identify research gaps. However, the injunction for all
+researchers to start writing up with the statement ‘Further research is needed’ is rightly treated
+with suspicion. You should be as specific as possible about what is lacking in research conducted
+to date. Does a theoretical framework already exist? If so, does it need further exploration or
+validation? If not, are we any further towards identifying what the essential features of a potential intervention might be? Is any population group that might benefit from the intervention
+under-researched or neglected? Have potential interventions been explored in small-scale
+studies? How large will a rigorous randomised controlled trial need to be to establish effectiveness conclusively? Are any suggested adjustments to an intervention yet to be investigated? Are
+the right outcomes being measured and reported? Does the field need to develop wider use of
+rigorous outcome measurement tools?
+  New research, including evidence syntheses, can contribute in multiple ways to existing
+research (Box 10.1).
+
+=== p. 312 ===
+
+  The contribution of evidence synthesis to existing research
+
+      Theory testing or validation: if a review is contributing to an established line of
+      theory and empirical research, it should make clear what the contributions are
+      and how the study contributes to testing, elaborating or enriching that theoretical
+      perspective.
+
+      Theory generation: if a review is intended to establish a new line of theory, it should make
+      clear what that new theory is, how it relates to existing theories and evidence, why the new
+      theory is needed, and the intended scope of its application.
+
+      Problem solving: if a review is motivated by practical concerns, it should make clear what
+      those concerns are, why they are important and how this investigation can address those
+      concerns.
+
+      Fact finding: if a review is motivated by a lack of information about a problem or issue, the
+      problem formation should make clear what information is lacking, why it is important and
+      how this investigation will address the need for information.
+
+  The contribution of new research
+  Look at the four contributions that new research can make to existing research (Box 10.1).
+  Which are particularly relevant to your own review? Are other contributions that your
+  review might make not covered by these four generic headings?
+
+  What are we seeking to achieve?
+  Systematic approaches to the literature are particularly valuable when presenting research
+  findings. We shall consider four requirements under the acronym of CART (Clarity–Auditability–
+  Replicability–Transparency). In seeking to highlight the relative importance of these four
+  criteria (while not attempting to put the CART before the horse!) we deliberately exclude
+  criteria such as comprehensiveness (a claimed virtue for quantitative systematic reviews),
+  that may be present in some but not all such systematic approaches.
+
+  Table 10.1 CART criteria for systematic approaches to the literature
+
+  Clarity            As a primary goal, your research question should be clear. So, too,
+                     should your methodology, the presentation of findings, the discussion of
+                     limitations in method and/or evidence and in linking conclusions to the
+                     original question. Structured reporting, captured in reporting guidelines,
+                     should make your review easy to navigate and easy to interpret
+
+=== p. 313 ===
+
+   Auditability      Good-quality research should be supported by a clear audit trail. You
+                     should carefully document all steps taken in conducting the review. This
+                     audit trail documents the evidence that supports each finding, where
+                     that evidence can be found, and how that evidence was interpreted.
+                     You can then look back at what exactly was done to defend a finding or
+                     interpretation although it is better to anticipate and forestall potential
+                     criticisms
+   Replicability     Reproducibility has long been a major driver for systematic approaches
+                     to the literature. Evidence synthesis does not seek the repeatability of
+                     laboratory experiments. Commentators favour ‘replicability’: a finished
+                     product should resemble its predecessor. Conclusions from one review can
+                     differ completely from another review written by a different author, even
+                     when exactly the same articles are reviewed. If we pay careful attention to
+                     detail, and use many of the same techniques to minimise inconsistencies, we
+                     can produce a review that is essentially similar. Inevitable inconsistencies are
+                     more easily identified, more completely understood and more appropriately
+                     remedied. Even for a gold standard systematic review, differences in search
+                     methods or the differential application of inclusion criteria can result in
+                     different review products. With multiple reviews on identical or closely
+                     related topics, we should focus on identifying and explaining differences
+                     rather than on eliminating them completely
+   Transparency      ‘A systematic review uses transparent procedures to find, evaluate and
+                     synthesize the results of relevant research. Procedures are explicitly
+                     defined in advance, in order to ensure that the exercise is transparent and
+                     can be replicated’ (Campbell Collaboration, n.d.).
+                     Transparency often focuses on citing supporting documentation such
+                     as procedure manuals, implying that ‘name-checking’ a well-regarded
+                     methods source guarantees the review product. More important is whether
+                     documented procedures are followed; the reader should be able to make
+                     their own judgement on review quality. Transparency makes it possible to
+                     make such judgements
+
+CONSIDERING YOUR AUDIENCE
+Why might a particular review fail to impact on its audience despite using a structured review
+presentation? Concerns with technical detail or methodological niceties may interfere with the
+intended message or may even lead to reviews being considered boring (Greenhalgh, 2012)!
+The measured, cautious tone of a review, interspersed with nuances, may mask the potential
+usefulness of the review findings. Your efforts to find multiple instances of evidence from multiple contexts and circumstances may yield contradictory advice. Source reports may lack the
+detail required to replicate an intervention or programme, even when interventions are effective
+(Hoffman et al., 2014). The review team may have addressed a deliberately narrow question to
+make it easier to conduct the review. This narrow question may limit the options the review
+team cover making it less useful and less applicable. Particular sectors of the community may
+be excluded, either by not being studied or because of inconclusive evidence. Finally, the time
+taken to conduct the review may mean that options have moved on or been overtaken by
+external events. Clearly a review team should try to anticipate such concerns early in the review
+
+=== p. 314 ===
+
+process, particularly during commissioning and scoping (see Chapter 4). This chapter therefore
+focuses on aspects that remain unresolved at the point of writing up the review.
+  No review product has a single target audience (Hammersley, 2013). However, you should
+always be able to identify the primary audience for your review:
+
+      whenever we address a particular audience we have to take account of what we can assume
+      they already know, what they would and would not be interested in, and perhaps also what
+      they might misinterpret. (Hammersley, 2013)
+
+You should therefore prioritise those aspects of presentation that relate to the primary audience
+without compromising too much on the needs of secondary audiences. However, you will need
+to consider political context alongside technical requirements:
+
+      We need to take account of the politics of how reviews are received and read by audiences.
+      The reception of reviews is often driven by audiences’ current preoccupations, and guided by
+      relatively fixed preconceptions. (Hammersley, 2013)
+
+Political concerns may appear less important for an academic output, particularly for a dissertation or doctorate. However, you still need to adapt your accompanying narrative to what the
+audience currently believes and where you want the audience to be once you complete your
+review. Do you need to exhort, reason, cajole or even berate? The tone that you adopt depends
+upon whether you are trying to encourage your audience to adopt some new method (startstarting), to dispense with an ineffective practice (start-stopping), to maintain proven good
+practice (stop-stopping), resist the lure of an ineffective technology (stop-starting) or simply
+to open the minds of the audience to a future possibility (start-thinking!) (Nicoll et al., 2000).
+
+Consumers of your review
+In marketing terms, we think about a synthesis product in terms of its primary audience (the
+main consumers of your review) and its secondary audiences (others who may be interested in
+your review). For example, the primary audience of a review included in your thesis might be
+the external examiner and secondary audiences might be your supervisor, other academics in
+your discipline and, possibly, practitioners in your chosen field. Complete Exercise 10.1 which
+gets you to think about likely beneficiaries from your review and where their interests may lie.
+
+   Who would benefit from knowing about my review?
+
+   Beneficiary                      Likely area of interest        
+   For a research team
+   Policy-makers and local          Recommendations for policy
+   government                       and practice
+
+=== p. 315 ===
+
+   Practitioners                        Recommendations for
+                                        practice
+
+   Researchers                          Research gaps and
+                                        recommendations for
+                                        research
+
+   Research students                    Research gaps and
+                                        recommendations for
+                                        research
+
+   Academics (educators)                Current knowledge and best
+                                        practice
+
+   Service users                        Implications for services
+
+   Others                               Who else can you think of?
+
+   For a research student
+
+   Other research students              Methodology and as
+                                        potential exemplar
+
+   Researchers                          Overall findings and
+                                        contribution to knowledge
+
+   Patients/public                      Shared experience
+
+   Others                               Who else can you think of?
+
+   Note: The above lists are not exclusive and potential beneficiaries may appear on both lists.
+
+  You would do well to ask three questions on behalf of your audience: ‘do I understand it,
+do I believe it, do I care?’ (Godlee, 2010). Choose one of the primary audiences from your
+list of beneficiaries in Exercise 10.1: for that particular audience complete the questions in
+Exercise 10.2.
+
+   Will they understand, believe, care?
+   For your own review complete this grid:
+
+    Which aspects of my review may my readers not understand?
+
+    Which aspects of my review may my readers not believe?
+
+    Which aspects of my review do I want my readers to care about
+    once they have read it?
+
+=== p. 316 ===
+
+Writing for research funders
+Research funders want you to reassure them that they have made a wise investment. They
+are particularly interested in knowledge gains made as a result of the review. They will also be
+interested in the added value that a systematically conducted review offers over and above other
+possible research approaches, whether primary research or other types of synthesis. Finally, they
+will want to know if you have identified other areas for research; either follow-up questions
+identified in the course of your review or proximate areas that you have not covered in your
+own work. Your research funders will find it particularly helpful if you identify, first, what is
+already known about the topic and, second, what this review adds. You will find it helpful to
+summarise your own review as two boxes of bullet points and then to use this structure to construct your own conclusions.
+
+Writing for policy-makers
+Although policy-makers will wish to know that the conclusions of your review are based
+on high-quality research studies wherever possible, they are particularly interested in the
+external validity (or generalisability) of your review (Avellar et al., 2017). In other words,
+they want to know the extent to which the results of your review can be reasonably applied
+or generalised to a definable population/populations in a particular context. If studies have
+not been conducted within the setting of interest, they will want to know any limitations
+or reservations they might have in applying results from elsewhere to their context. They
+will also want to have an idea of the limitations of the evidence in terms of any unresolved
+areas of uncertainty.
+  You should particularly bear in mind that policy-makers need reviews for decision support
+(i.e. to provide answers or direction) rather than for knowledge support (Pope et al., 2006). A
+review that has had to extend its search beyond high-level evidence may be more useful to
+a decision-maker than non-actionable conclusions that ‘robust studies are unable to provide
+answers’. Similarly, policy-makers appreciate a holistic picture of all issues to inform their decision (i.e. they should ‘address the full range of questions asked by managers and policy-makers’)
+rather than a simple lens offering an answer to a very tightly focused question (Thomson, 2013).
+Increasingly, models of stakeholder engagement involve decision-makers in the entire review
+process, from asking multiple potential research questions to providing context for the specific
+question under study (Feldmann et al., 2019).
+  As well as a focus on pragmatic answers, policy-makers are interested in how reviews are
+presented. In particular, decision-makers should be able to scan reviews easily for relevance
+so that they can assess whether a review applies to local circumstances (Thomson, 2013).
+Although research is often conveyed using the ‘Introduction, Methods, Results And Discussion’
+(IMRAD) format, some suggest this format may impair decision-making by clinicians, policymakers and other stakeholders (Garritty et al., 2020). Others suggest use of alternative ‘graded
+entry’ formats that organise decision-relevant, summarised information upfront with more
+detailed information progressively revealed to the reader (Garritty et al., 2020). Graded entry
+approaches have popularised use of the 1:3:25 format (involving corresponding numbers of
+pages for take home messages (1 page), the executive summary (3 pages) and the full systematic review (25 pages)).
+
+=== p. 317 ===
+
+Writing for practitioners
+A well-conducted systematic review can be invaluable for practitioners who feel overwhelmed
+by the volume of literature in their discipline and, therefore, prefer summaries of information
+to original publications (Nagtegaal et al., 2019). Review articles can help practitioners to keep
+up to date. High-quality systematic reviews define the boundaries of what is known and what
+is unknown as well as helping to ‘avoid knowing less than has been proven’ (Cook et al., 1997).
+Single studies rarely provide definitive answers, but systematic reviews can help practitioners solve specific problems. By critically examining primary studies, systematic reviews help
+decision-makers to understand why different sources of research evidence yield conflicting or
+inconsistent answers.
+    By quantitatively combining the results of several small studies, meta-analyses can create
+more precise, powerful and convincing conclusions. In addition, systematic reviews including
+multiple studies may better inform decision-makers about whether they can apply findings to
+specific subgroups of the population.
+    Despite the above features, systematic reviews do not always command practitioners’ attention as much as might be expected. A provocative editorial argues why practitioners might find
+systematic reviews ‘boring’:
+
+     The reason why Cochrane reviews are boring — and sometimes unimplementable in practice —
+     is that the technical process of stripping away all but the bare bones of a focused experimental
+     question removes what practitioners and policymakers most need to engage with: the messy
+     context in which people get ill, seek health care (or not), receive and take treatment (or not),
+     and change their behaviour (or not). (Greenhalgh, 2012)
+
+Further criticisms from practitioners include concerns that:
+
+•     Reviews do not address issues of current concern for practitioners.
+•     Reviews may relate to topics where evidence is limited (Pagliaro et al., 2010).
+•     Reviews may be ‘empty reviews’ or reviews that include a single study (Yaffe et al., 2012).
+•     Interventions being studied may not reflect standard practice, leading to an outdated
+      review (Pagliaro et al., 2010).
+•     Policy-makers do not appreciate lengthy reviews (of 40 pages or more).
+•     Policy-makers have only limited interest in the Methods section (which could therefore be
+      placed in a technical appendix).
+•     Policy-makers want practicable recommendations for practice (Pagliaro et al., 2010).
+•     Specifically, the use of summary statistics may make it more difficult to apply findings to
+      specific populations.
+
+Such concerns shape how you write up your review; many relate back to scoping of the review
+(Chapter 4).
+
+Writing for the research community
+The research community is particularly interested in well-conducted reviews because they
+help to identify gaps in the evidence base and provide a quantitative basis for informing new
+research initiatives. Typically, a researcher responding to a funding call builds an argument for a
+
+=== p. 318 ===
+
+research proposal around an existing systematic review. A systematic review may inform design
+of new studies (Nikolakopoulou et al., 2019). However, reviews are not yet used as frequently in
+the design of studies as we might expect. Health funding bodies and prestigious journals have
+started to require that study authors identify related studies when presenting their own primary
+research, seeking to reduce the numbers of ‘islands without continents’ (primary studies that fail
+to make a connection with their own evidence base) (Lund et al., 2021). Increasingly, funders
+provide vignettes in support of invitations to tender that refer to findings from relevant systematic reviews. Requiring, or encouraging, researchers to cite systematic reviews in publications or
+within funding applications is a trend to be welcomed.
+
+Writing for the media
+The interests of review author and journalist rarely correspond. At best, their interaction may
+operate as a short-lived marriage of convenience. Certainly the ‘discovery value’ of research
+synthesis pales alongside the dramatic laboratory experiment or the miracle cure. Nevertheless a
+review author can point to the fact that findings from a review carry more accumulated weight
+than a single study.
+  In 1996 Smith bemoaned the absence of systematic approaches to reviewing the evidence base:
+
+      We are, through the media, as ordinary citizens, confronted daily with controversy and debate
+      across a whole spectrum of public policy issues. But typically, we have no access to any form
+      of a systematic ‘evidence base’ – and therefore no means of participating in the debate in a
+      mature and informed manner. (Smith, 1996)
+
+Fortunately, this situation has undergone gradual change over the last 25 years. Reviewers and
+users of reviews alike are recognising that a well-conducted synthesis may provide the first occasion for seeing ‘the whole picture’ from otherwise conflicting research. Another selling point is
+the cumulative number of subjects, patients, studies or events that the review considers when
+compared with a single paper. Table 10.2 illustrates how reviewers have attempted to communicate the features of their approach to journalists and, ultimately, to the public.
+
+Table 10.2 Lay explanations of systematic reviews/review findings from media reports
+
+Review: ‘Systematic reviews are an important tool for scientists;       The Times: Great minds: attack
+unlike ordinary reviews, they are seen as original research and help    science at your own risk (7
+to provide clarity in areas of uncertainty. The basic underpinning of a January 2010)
+systematic review is that the process of conducting the review is pre-specified and that the review itself is as comprehensive as possible
+within these pre-specified limits. Reviews that are not systematic are
+much more prone to bias, especially with regards to the selection of
+papers included for review’
+Review: ‘A systematic review is a thorough look through published      Guardian: Heel pain, what
+research on a particular topic. Only studies that have been carried    treatments work? (2 March
+out to a high standard are included. A systematic review may or        2010)
+may not include a meta-analysis, which is when the results from
+individual studies are put together’
+
+=== p. 319 ===
+
+Review finding: ‘One good-quality summary of the research (a           Guardian: Heel pain, what
+systematic review), which included almost 900 people’                  treatments work? (2 March
+                                                                       2010)
+Review finding: ‘The findings come from a review of 25 studies …       Daily Mail: Jogging in the park
+the University researchers said: “This systematic review contributes   boosts energy and improves
+a rigorous and objective synthesis of the evidence for added           mood more than going to the
+benefits”’                                                             gym (10 August 2010)
+
+Writing for the public
+A review author has two particular challenges in communicating the results of their review to
+the public. The first challenge relates to the specific knowledge associated with the topic. The author
+may have to simplify concepts, define unfamiliar terms and use readily accessible terminology. However, the second challenge relates to the review product and its methodology. The review
+author must try to convey the inherent advantages of systematic approaches over single studies
+and over other types of (non-systematic) review.
+  It is helpful in this context to use a definition of the review that does not just argue that the
+methods are technically superior but which stresses how the review product is more useful as a
+result of applying these methods.
+
+Reflexivity and acknowledging potential bias
+In qualitative evidence synthesis, reviewers should consider their own pre-existing biases and
+discuss how those biases might have affected the review (Downe et al., 2019). This approach,
+known as reflexivity, mirrors primary qualitative research where the investigator reflects on
+the effect of their own position as researcher (Newton et al., 2012). A review team should
+describe upfront how it plans to handle such biases and then, within the review itself, describe
+any such biases. Reflexivity statements may extend to between half a page and a full page
+and will appear prospectively in the Methods section and retrospectively in the Results and/or
+Discussion sections.
+  Complete Exercise 10.3 so that you and/or your research team can consider your likely influence on the conduct and interpretation of your review.
+
+   Being reflexive, individually and as a team
+   Consider the Reflexivity statements in the Methods and Results sections of Downe et al.
+   (2019). What factors from the reviewer backgrounds do they recognise as potential influences
+   on their synthesis? To what extent do these same influences apply to your own review?
+
+=== p. 320 ===
+
+      Hint: consider the potential influence of your professional background(s), your research
+      experience, your publication history. Consider whether you are more or less likely to identify the disconfirming case. Consider what processes and procedures you might put in place
+      to minimise biases and keep interpretations open to wider influence, beyond the team.
+
+   Critical interpretive synthesis is one synthesis method that harnesses personal interpretation
+   at the possible expense of replicability. Such approaches reflect a research tradition that recog-nises multiple truths and that the review may privilege one narrative from many possible interpretations. In contrast, quantitative reviews assume a neutral ‘honest broker’ perspective that
+   presents the data transparently and considers review findings to represent fact. Such reviews
+   belong within a tradition where the reviewer seeks to communicate a single truth but many factors (biases), whether conscious or subconscious, may deflect this intention. Mechanisms for
+   minimising personal interpretation in quantitative reviews are crude by comparison, typically a
+   conflict of interest statement confined, almost exclusively, to financial interest.
+
+   Sample conflict of interest statement
+
+      “AB declared no financial conflicts of interest. He was a co-author on three of the included
+      papers and was therefore excluded from screening these papers.
+
+      DC declared no financial conflicts of interest.
+
+      CC declared the following financial conflicts of interest: [Describe and discuss how this
+      was dealt with].
+
+      Non-financial issues, including personal, political and academic affiliations, could have
+      influenced review author input when conducting this review. The review authors discuss
+      this further in the sections on reflexivity in the Methods and Results sections”.
+
+Thinking of bias only as ‘financial interest’ misses the fact that researchers include professionals
+delivering a service, parents of children receiving an educational intervention, carers of relatives receiving healthcare or social care provision, taxpayers financing policy interventions, etc.
+Increasingly, it is practical to make potential bias transparent rather than trying to eradicate it completely. So, a reader should be able to identify, for example, where an educator stands with regard
+to a teaching intervention or a clinician in connection with a new drug or surgical treatment.
+
+A SAMPLE REVIEW STRUCTURE
+A good academic review presents its findings in a way that builds confidence in the abilities of
+the review team. To some extent, the structure of your review depends upon its purpose. For
+example, systematic reviews follow a clear structure that largely dictates how the review should
+be presented. However, you may be conducting your review as part of a coursework assignment,
+
+=== p. 321 ===
+
+research proposal or research dissertation. Within overall word limits and style constraints you are
+largely free to decide how you will structure your report. You should make sure that the systematic
+structure of your review report is immediately apparent to the reader. By being systematic you
+will find that some key elements are included in all literature reviews (Aveyard, 2019a) (Box 10.3).
+
+   Key elements in reporting a literature review
+
+      Title
+
+      Abstract
+
+      Introduction
+
+      Methods
+
+      Results
+
+      Discussion
+
+      Conclusion
+
+Box 10.3 uses the familiar IMRAD (Introduction–Methods–Results–And–Discussion) format
+common to any primary scientific report. This same basic structure underpins the PRISMA statement, used to report ‘full-blown’ systematic reviews in peer-reviewed journals (see section on
+reporting standards later in this chapter). The PRISMA statement was:
+
+    designed to help systematic reviewers transparently report why the review was done, what the
+    authors did, and what they found. (Page et al., 2021)
+
+In 2021, the creators of PRISMA produced an important update of the PRISMA statement (Page
+et al., 2021). Table 10.3 highlights the main differences that you might spot between the many
+examples of reviews already published and the current state of the art as outlined in the latest
+PRISMA statement. As well as helping to revise your expectations this table also provides a fla-vour of methodological (risk of bias, assessment of certainty, etc.) and scientific developments
+(conflict of interest and open science frameworks) over the intervening decade.
+
+Table 10.3      Noteworthy changes in PRISMA 2020 from the previous (2009) statement
+
+What you may see in pre-2021 reviews                 What is now required (Page et al., 2021)
+Variable quality in Abstract reporting               Inclusion of abstract reporting checklist within
+                                                     PRISMA 2020
+‘Protocol and registration’ within Methods section   ‘Protocol and registration’ item located in a new
+                                                     Other section, with addition of a sub-item for
+                                                     amendments post-registration or in the protocol
+
+=== p. 322 ===
+
+What you may see in pre-2021 reviews                  What is now required (Page et al., 2021)
+Search strategy for only one database                 Recommendation that authors present full
+                                                      search strategies for all databases, registers and
+                                                      websites searched
+Limited details on study selection                    Emphasis on reporting number of reviewers who
+                                                      screened each record and each report retrieved,
+                                                      whether they worked independently, and any
+                                                      automation tools used in the process
+Limited details on synthesis of results               Splitting of the ‘Synthesis of results’ item in
+                                                      the Methods section into six detailed sub-items
+                                                      (including methods for visualisation, sensitivity
+                                                      and subgroup analyses and meta-regression)
+Limited reporting of excluded studies                 Recommendation under ‘Study selection’ item in
+                                                      the Results section that authors cite studies that
+                                                      might appear to meet the inclusion criteria, but
+                                                      which were excluded, and explain why they were
+                                                      excluded
+Limited reporting of risk of bias assessments,        Splitting of the ‘Synthesis of results’ item in the
+statistical syntheses, exploration of heterogeneity   Results section into four detailed sub-items
+and sensitivity analyses
+Limited reporting of GRADE and GRADE-CERQual          Addition of new items recommending authors
+                                                      report methods for and results of an assessment
+                                                      of certainty (or confidence) in the body of
+                                                      evidence
+Immature methods for handling competing               Addition of a new item recommending authors
+interests                                             declare any competing interests
+Limited open access to data and review materials      Addition of a new item recommending authors
+                                                      indicate open access provisions
+
+Various extensions to published standards also exist, for example PRISMA-S for searching
+(Rethlefsen et al., 2021), PRISMA-P for systematic review and meta-analyses protocols (Moher
+et al., 2015) and PRISMA-ScR for scoping reviews.
+  PRISMA’s generic approach to study reporting offers a useful template for reviews in any discipline.
+In choosing between reporting standards you can follow a hierarchy outlined for qualitative
+reviews (Flemming et al., 2018). This forms the basis for a checklist in Box 10.4.
+
+   Which reporting standard should I use?
+   1. Is a specific reporting standard relevant to the type of synthesis that I have undertaken? If
+      No then
+   2. Is it appropriate to follow a generic reporting standard in its entirety? If No, then …
+   3. Is it appropriate to combine particular sections or items from one or more generic reporting standards into a single format? If No, then
+
+=== p. 323 ===
+
+   4. Is it appropriate to supplement a generic reporting standard with reporting guidance for
+      particular stages of the synthesis (e.g. the search process)? If No, then
+   5. Can I compile a list of relevant items for reporting from a recent collection (or summary
+      article) of review features?
+
+Below we expand on the seven sections covered by the PRISMA statement. However, the reader
+is referred to the most up-to-date version of the PRISMA statement (Page et al., 2021).
+  Title: Increasingly, scientific reports include not only a meaningful title indicating the subject
+but also, following a colon, a subtitle indicating the study type such as, ‘The impact of learning
+on unemployed, low-qualified adults: a systematic review’. Alternatively, a meta-analysis may
+have a title such as, ‘A systematic review and meta-analysis of set-shifting ability in eating disorders’. By including the study type in the title, you make it more likely that those interested will
+identify and retrieve your review report from Internet or database searches and that an indexer
+will code it correctly when adding details to a database record. It is equally important to indicate
+the study type in the title for other systematic approaches such as ‘a rapid evidence assessment’,
+‘a meta-ethnography’, etc.
+  Abstract: The abstract is the ‘review in miniature’ and a reader should be able to identify immediately how well you searched, how many studies you reviewed and what your main conclusions are. Structured abstracts improve the chance that your intended audience (and others) will
+identify your work. Structured abstracts prompt the author for essential details including: the
+background; objectives; data sources; study eligibility criteria, participants and interventions;
+study appraisal and synthesis methods; results; limitations; conclusions and implications of
+key findings; and systematic review registration number. Specific guidelines (PRISMA-Abstracts)
+have been produced for those reporting in journal or conference abstracts (Beller et al., 2013).
+Typically, the abstract should not exceed 250–300 words although individual journals have their
+own specific requirements. The abstract should be sufficiently informative to provide the reader
+with a brief picture of the overall findings; it should reveal, not tease (e.g. avoid statements such
+as ‘The review goes on to describe findings of critical importance to all practitioners’, but state
+briefly instead what these findings are). Generally, commentators recommend that the abstract
+is written last to reflect the final version of the review it summarises (Agarwal, 2012).
+  Introduction: The Introduction outlines the rationale for the review, in the context of what is
+already known, and a structured statement of the review question using PICOS, or some equivalent such as SPICE or PICOC (see Chapter 4). Typically, review authors should argue for how
+their review addresses a common, critical or important problem, how serious its consequences,
+how costly it is and how it impacts on services and on society more widely. If genuine controversy exists, perhaps seen in significant variations in practice, this should be acknowledged and
+both sides of the argument characterised as even-handedly as possible.
+  Methods: The length of literature reviews varies considerably and you must manage word limit
+allocations between the methods and the results, discussion and conclusion. While how many
+words you spend on describing the methods depends on the type of review you are undertaking
+and how much rigour the review requires, it is best to start from a complete list of possible items
+for inclusion and then to pare this down to match the word count. If you are producing a formal
+review for a government agency or an international collaboration, you may wish to indicate
+where a review protocol exists and how it may be accessed. Some journals allow you to submit your review protocol as supplementary online material. You might then proceed through
+
+=== p. 324 ===
+
+the eligibility criteria, the information sources accessed, the search strategies, and processes for
+study selection.
+  Formats and guidelines exist for reporting search strategies (Booth, 2006; Rethlefsen et al.,
+2021) (Table 10.4) although evidence suggests that these are imperfectly implemented (Rethlefsen
+et al., 2015). Cochrane expectations require reporting of the search process (including ‘sources,
+searched, when, by whom and using which terms’) (Lefebvre et al., 2021). Cochrane guidance
+suggests that you document the search process in enough detail throughout the review such
+that searches of all the databases are reproducible. At least one of your database searches should
+be reported in sufficient detail to repeat it.
+
+Table 10.4    Guidelines for reporting search strategies
+
+All search strategies for systematic reviews:      Search strategies for qualitative evidence
+PRISMA-S (Rethlefsen et al., 2021)                 syntheses: STARLITE (Booth, 2006)
+INFORMATION SOURCES AND METHODS                    S: Sampling strategy (e.g. purposive, theoretical,
+(Database name, Multi-database searching;          comprehensive)
+Study registries; Online resources and browsing;
+                                                   T:   Type of studies
+Citation searching; Contacts; Other methods)
+                                                   A: Approaches (other than electronic subject
+                                                   searches covered in the electronic sources section),
+                                                   e.g. hand searching; citation snowballing, etc.
+SEARCH STRATEGIES (Full search strategies;         R:   Range of years (start date–end date)
+Limits and restrictions; Search filters; Prior
+                                                   L:   Limits
+work; Updates; Dates of searches)
+PEER REVIEW (Peer review)                          I:   Inclusion and exclusions
+                                                   T:   Terms used
+MANAGING RECORDS (Total records;                   E: Electronic sources (reports databases used
+Deduplication)                                     and, optimally, search platforms, and vendors to
+                                                   assist in replication)
+
+  You would continue with details of study selection followed by data collection and a list
+of data items or variables of interest. Formal review processes, as used by the Cochrane
+Collaboration, then require details of the risk of bias within individual studies (i.e. a description of methods used for quality assessment) and the risk of bias across studies (see sections in
+Chapters 7–9 on publication bias and selective reporting). You will also detail the data
+being summarised whether by quantitative summary measures (e.g. risk ratio, difference in
+means), or by qualitative concepts or themes. Finally, having described your methods of synthesis you proceed to methods of analysis. Again, these may be either quantitative (sensitivity or
+subgroup analyses, meta-regression) or qualitative assessments of the robustness of the results
+and possible explanations for findings.
+  At this point we have reviewed just over half of the items from the 27-item PRISMA checklist. Only now have we reached the results. This emphasises that, while you the reviewer are
+interested in the review question and its findings, the reader needs convincing that your review
+product is up to the task.
+  Results: The Results section starts with a quantitative summary of the number of items identified and then moves to detail of the individual studies. A subsection on study selection gives
+numbers of studies screened, assessed for eligibility, and included in the review, with reasons
+
+=== p. 325 ===
+
+for exclusions at each stage. Increasingly there is a requirement, as with the PRISMA statement,
+to produce a flow diagram (Page et al., 2021). Our experience is that a PRISMA flow diagram is
+a useful aid for the reader for any type of review. Tables help to describe the characteristics of
+included studies and offers an easy look-up reference to individual citations in the reference list.
+Again, you present results for your assessments of the risk of bias within studies and the risk of
+bias across studies. These assessments typically precede the very important sections reporting
+the results of individual studies and the synthesis of results respectively. Such sections utilise
+tables and forest plots for each meta-analysis and thematic summaries, diagrams, and displays
+for qualitative data. If using a thematic approach, the account should flow logically from one
+section or theme to the next, to maintain continuity and consistency (Torraco, 2016).
+  Discussion: Up to this point you have provided the reader with ‘crude’ evidence, analogous to
+oil as it emerges from the ground. You now come to your discussion where you process ‘refined’
+by-products that allow the consumer to use and interpret your findings. You start with a summary of evidence, giving particular attention to the strength of evidence associated with each
+finding. Having previously identified the main audiences for your review, you should provide
+the information each needs to answer their particular issues or questions. Be sure to:
+
+    discuss the strengths and limitations of the literature, including a consideration of the scientific quality of the included studies and methodological problems in the literature (e.g.,
+    methodological rigor or lack thereof, the amount of evidence, its consistency, and its methodological diversity). (Siddaway et al., 2019)
+
+Your role is to summarise and evaluate evidence about your topic, pointing out similarities and
+differences and offering possible explanations for inconsistencies uncovered. If your literature
+review has been conceived to inform the objectives, design or conduct of a follow-up primary
+study, you should focus on gaps in knowledge and improvements in methodology. In some
+cases, you might use emergent themes to construct a conceptual framework or logic model to
+inform the study (Chapter 7). Finally, you return to what was previously known, as described in
+your Introduction, to locate the results within the context of other evidence, and implications
+for future practice and/or research (conclusions). All reviews can provide Implications for Practice
+and Implications for Research (some funders resist ‘Recommendations’ because they imply a
+commitment to follow up actions).
+  If you are following reporting guidelines you conclude with several items labelled as Other
+Information. The current PRISMA statement includes: Registration and protocol, Support (sources
+of funding for the systematic review and other support, such as supply of data, as well as the
+role of funders for the systematic review), Competing interests (for conflict of interest) and
+Availability of data, code and other materials. You should also complete acknowledgements to
+those who provided substantive support to the review but who do not qualify for authorship.
+  An alternative to the IMRAD structure is the conceptual structure. This requires identification
+of the overarching structure before beginning to write. You can choose from one of three forms
+of conceptual structure: temporal structure (as the topic unfolds chronologically); methodological structure (around different methodological options or stages); and conceptual or thematic
+structure (around particular themes or a conceptual framework or model) (Torraco, 2016). Other
+structured approaches to presenting review findings include a dialectic (debate-type) approach
+between two or more competing schools of thought, or the meta-narrative approaches described
+in Chapter 9 which characterise the literature by source discipline.
+
+=== p. 326 ===
+
+Reviews and reporting guidelines
+Funders, editors and researchers increasingly recognise that it is important for research to be
+transparent. In recent years this has led to a veritable industry of publication guidelines and
+templates for presentation. While few can argue against the benefits of effective communication, some argue that shaping all research of the same study type to look the same makes
+published reports bland and less informative. Standardising reports may conceal rather than
+reveal; for example, stock phrases such as ‘References were followed up and contact was made with
+authors’ may mask important individual differences.
+  It is agreed good practice to copy and paste a complete search string for all primary bibliographic databases into an appendix exactly as run and in full (Lefebvre et al., 2021).
+Alternatively, capturing a screenshot of the search may be more feasible (Rader et al., 2014) and
+some databases allow the exporting of your search string/strategy as a Word document or text
+file. Although web searches are not as reproducible as bibliographic database searches, because
+web content and search engines change, it is still important to document the search process
+transparently (Briscoe, 2018).
+  As a reviewer of other people’s studies, as opposed to a review author, you will appreciate stand-ardised reporting of individual primary studies. It makes creating data extraction forms, using
+standard quality assessment checklists and tabulating data, more straightforward. However, as
+we have implied, authors may omit informative detail of context or avoid tell tale slips in the
+reporting that might betray limitations in their methods.
+  Systematic reviews were early beneficiaries from reporting standards (Moher et al., 2014).
+Standards are available for many different types of review and it is challenging to keep up
+to date with all of them. Table 10.5 details important reporting guidelines and Box 10.5
+points to EQUATOR, a single resource on what is available and what is imminent. Reporting
+guidelines should be produced following a detailed review of methods used and consensus
+from experts (Moher et al., 2010). However, several important standards (such as ENTREQ
+for qualitative syntheses, Tong et al., 2012) predate this formal process. A reporting guideline typically contains standard headings under which to report specific detail, a checklist
+of individual elements to be reported, an elaboration and explanation statement expanding
+on these items, and a flow diagram of the progress of studies throughout the review process
+(Moher et al., 2014).
+
+   The EQUATOR network
+   Access the EQUATOR Network (https://www.equator-network.org/). The EQUATOR (Enhancing
+   the QUAlity and Transparency Of health Research) Network is an international initiative that
+   seeks to improve the reliability and value of published health research literature by promoting
+   transparent and accurate reporting and wider use of reporting guidelines. Browse through
+   the reporting guidelines and select one appropriate to your review (e.g. systematic review or
+   qualitative systematic review). How is the reporting guideline structured? Revisit your draft
+   review structure (e.g. IMRAD format) and revise it to meet the requirements (Exercise 10.4).
+
+=== p. 327 ===
+
+Table 10.5     Most common standards for reporting reviews
+
+eMERGe: Improving reporting of meta-               Incorporates new methodological developments
+ethnography (France et al., 2019a)                 and advances methodology of meta-ethnography.
+                                                   Intends to help researchers report important
+                                                   aspects of meta-ethnography and thus raise
+                                                   reporting quality
+ENTREQ Statement: Enhancing transparency           Seeks to help researchers to report the stages
+in reporting the synthesis of qualitative          commonly associated with synthesis of qualitative
+research (Tong et al., 2012)                       health research: searching and selecting qualitative
+                                                   research, quality appraisal, and methods for
+                                                   synthesising qualitative findings
+MOOSE Statement: Proposal for reporting            Contains specifications for reporting of metameta-analysis of observational studies in          analyses of observational studies in epidemiology,
+epidemiology (Stroup et al., 2000)                 including background, search strategy, methods,
+                                                   results, discussion and conclusion. Seeks to
+                                                   improve the usefulness of meta-analyses for
+                                                   authors, reviewers, editors, readers and
+                                                   decision-makers
+The PRISMA 2020 statement: An updated              Aims to help authors report a wide array of
+guideline for reporting systematic reviews         systematic reviews to assess the benefits and
+(Preferred Reporting Items for Systematic          harms of a healthcare intervention. Focuses on how
+reviews and Meta-Analyses) (Page et al., 2021)     authors can ensure the transparent and complete
+                                                   reporting of systematic reviews and meta-analyses
+PRISMA extensions                                  Extension Statement for Diagnostic test accuracy
+                                                   reviews (PRISMA-DTA)
+                                                   Extension Statement for Systematic Reviews with a
+                                                   Focus on Health Equity (PRISMA-Equity)
+                                                   PRISMA for Abstracts (Beller et al., 2013)
+                                                   PRISMA for Complex Interventions (PRISMA-CI)
+                                                   Extension Statement for Overviews of Systematic
+                                                   Reviews Including Harms
+                                                   Extension Statement for Systematic Reviews
+                                                   Incorporating Network Meta-analyses of Health
+                                                   Care Interventions
+                                                   Extension Statement for Reviews of Individual
+                                                   Patient Data (PRISMA-IPD)
+PRISMA-P (Preferred Reporting Items                PRISMA-P checklist contains 17 items considered
+for Systematic reviews and Meta-Analysis           to be essential and minimum components of a
+Protocols) (Moher et al., 2015)                    systematic review or meta-analysis protocol
+PRISMA-S (Preferred Reporting Items                Seeks to complement the PRISMA Statement and
+for Systematic reviews and Meta-Analyses           its extensions by providing a checklist for authors,
+literature Search extension) (Rethlefsen et al.,   editors and peer reviewers to verify that each
+2021)                                              search component is completely reported and
+                                                   reproducible
+PRISMA-ScR (Preferred Reporting Items              The PRISMA extension for scoping reviews
+for Systematic reviews and Meta-Analyses           checklist contains 20 essential reporting items
+Extension Statement for Scoping Reviews)           and 2 optional items to include when completing a
+                                                   scoping review (Tricco et al., 2018a). See Table 10.6
+
+=== p. 328 ===
+
+Realist And Meta-narrative Evidence Syntheses   Two associated documents: RAMESES publication
+– Evolving Standards (RAMESES)                  standards: meta-narrative reviews (Wong et al.,
+                                                2013a) and RAMESES publication standards: realist
+                                                syntheses (Wong et al., 2013b)
+Synthesis Without Meta-analysis (SWiM)          Describes development of the SWiM guideline
+in systematic reviews: reporting guideline      for synthesis of quantitative data of intervention
+(Shamseer et al., 2015)                         effects and presents nine SWiM reporting items
+                                                with accompanying explanations and examples
+
+Figure 10.1    PRISMA flow diagram
+
+Flowchart of included studies
+One of the most self-evidently useful features of the PRISMA Statement is the flowchart for
+included studies. Indeed, PRISMA flowcharts are of potential value to less structured types of
+
+=== p. 329 ===
+
+review by accounting for studies during conduct and subsequent reporting of the review. The
+PRISMA flow diagram depicts the flow of information through the different phases of a systematic review. It maps out the number of records identified, included and excluded, and the
+reasons for exclusions. At each stage, the vertical ‘plughole’ continuation box and the horizontal ‘overflow’ box should combine to total the number of studies in the preceding box, ensuring
+that studies are accounted for at each point of the process. The main caution in using a PRISMA
+diagram relates to the difference between references and papers (many duplicate references may
+have been identified from multiple databases) and the subsequent difference between papers
+and studies (one study may be represented by reports in multiple papers). It is helpful to signal
+transparently when you transition from reporting numbers of references to numbers of papers
+and from numbers of papers to number of studies.
+     Even though reporting guidelines are now commonplace, considerable variation persists in
+how reviewers use the PRISMA flow diagram. Some authors use a chronological approach, others
+superimpose a logical structure, yet others reinterpret the diagram for plotting their methodology;
+such inconsistencies perpetuate confusion.
+
+Use of tables and figures
+You can use tables and figures to summarise vast quantities of data (as an alternative to extensive descriptive text) and to support what is already present in the narrative. Typically, tables
+and figures combine both purposes. ‘Tables for doing the review’ may not survive into the final
+published review (or may only appear in an appendix) but are invaluable in organising the
+data. These tables are primarily for use by the review team. In contrast, ‘tables for presenting
+the review’ (summary tables) find their way into the published report and are primarily for the
+reader and user.
+     Essential summary tables include:
+
+1.     A summary of study characteristics (e.g. number of participants, setting, study design, etc.).
+2.     A summary of methodological quality (e.g. whether comparative, which outcome measures
+       have been used, response rates or completeness of follow-up, etc.).
+3.     A summary of results (producers and users of systematic reviews share a preference for statements that communicate findings combining size and certainty of an effect) (Santesso et al.,
+       2020).
+
+Summary tables are typically included within the main body of the text unless your review
+includes more than 20 included studies. You can integrate tables of less than 20 studies within
+the text without disrupting your flow too much; for example, you may fit them onto a single
+A4 page. In contrast, you place fully reported data extraction tables into an appendix to increase
+the auditability of your final review.
+     If you have combined studies within a meta-analysis, then your report may include one or
+more forest plots. While many meta-analysis software packages allow the export of such forest plots, you must be aware that these may not be of the print quality required for a final
+publication (Schriger et al., 2010). If relabelling or even redrawing a forest plot, you should pay
+careful attention to the orientation of the diagram (is more of an outcome better or worse?), how
+it is captioned (what exactly is the outcome of interest?) and the notation for the point of no
+
+=== p. 330 ===
+
+effect (does the forest plot present a ratio? – in which case the point of no effect is represented by
+one – or does it present a difference? – in which case the point of no effect is signified by zero).
+
+Use of appendices and other supporting features
+Few publications outline what should and should not be included within appendices.
+Nevertheless, custom and practice are starting to be evidenced by published reports. You first
+need to establish whether the review must fit within a set word limit. Increasingly, online journals offer flexibility with regard to the length, extent and number of published appendices.
+Typically, appendices would include:
+
+1.    at least one search string/strategy (and increasingly all available search strings/strategies – see
+      Table 10.4) used for the review;
+2.    a list of excluded studies (for studies appearing to meet the inclusion criteria but not included)
+      with brief reason for exclusion;
+3.    a sample data extraction form;
+4.    data extraction tables for included studies;
+5.    the quality assessment checklist used (unless commonly available);
+6.    results of quality assessments.
+
+As requirements for rigorous conduct and reporting increase, this list will likely be further
+expanded.
+
+Accurate referencing
+We have already emphasised how important it is to document systematically bibliographic
+information on included studies (Chapter 5). Every type of literature review should conclude
+with a full bibliographical list of all the books, journal articles, reports and other media referred
+to in the work. Every citation in the text must appear in your reference list and every item in
+your reference list must be cited in the text. Structured approaches to the literature, such as systematic reviews, frequently make it easier to separate supporting materials from the background,
+which go into a general reference list, and the list of included studies. Supporting materials may
+be diverse: ‘Three bibles, three dictionaries, and nearly 25,000 other things’ (Clarke & Clarke,
+2000)! You will save yourself much time towards the critical stages at the end of your review if
+you compile your list of references as you identify each new item. Although the Internet makes
+reference checking easier, it remains a time-consuming procedure. You cannot guarantee that
+other authors have correctly recorded their own references. Many academic supervisors use the
+reviews of their supervisees to update their topics of interest. This is another good reason for
+making sure your reference lists are accurate!
+
+Structuring other types of review (scoping/mapping reviews)
+The more structured your review, the more likely it is that you will find that formal guidelines
+exist for reporting that type of review. Journals produce guidelines for reviews that they commonly
+
+=== p. 331 ===
+
+encounter and institutions (such as the Joanna Briggs Institute) devise guidelines for reviews
+that they commonly produce. For example, the Journal of Advanced Nursing has unilaterally produced guidelines for concept analysis reviews. The guidelines require ‘concept analysis’ to appear
+in the title and the aims to be stated as: ‘This paper is a report of an analysis of the concept of X.’
+The structured abstract includes fields commonly associated with a systematic review such as
+data sources and review methods. Typically, a concept analysis justifies the importance of the
+concept, details the concept analysis method used (including quality assessment if present) and
+presents results organised according to the accepted terminology of the method (e.g. attributes,
+definition, antecedents, consequences).
+  Several approaches are suggested for presenting findings from a scoping review (Arksey &
+O’Malley, 2005). The first approach is what we describe as the ‘epidemiology’ of the literature
+where you describe the literature using a ‘basic numerical analysis of the extent, nature, and
+distribution of the studies included in the review’. This involves producing:
+
+    tables and charts mapping: the distribution of studies geographically and for the different
+    [population] groups; the range of interventions included in the review; the research methods
+    adopted and the measures of effectiveness used. (Arksey & O’Malley, 2005)
+
+Such an analysis sheds light on ‘the dominant areas of research in terms of intervention type,
+research methods and geographical location’ (Arksey & O’Malley, 2005). It also enables the
+researchers to ‘quickly get a flavour of the main areas of interest, and consequently where the
+significant gaps were’, invaluable when presenting subsequent recommendations.
+  An alternative, complementary approach is to organise the literature thematically, perhaps
+by a shared characteristic such as intervention type. Ideally, categories should be mutually
+exclusive to minimise duplication and avoid double counting, but this is not always possible.
+The reviewer finds themselves constrained by how completely study authors have reported
+the component studies. Will you present a minimum data set only of data that is complete
+for each study or a more extensive matrix with many empty cells? To a certain extent, this
+depends on whether your focus is on the mapping of the existing evidence base, or the identification of gaps. Furthermore, for a scoping review or mapping review, where the review
+is a stepping stone towards another purpose, you will not be able to assess the component
+studies in detail. You may need to use the labels used by the authors themselves rather than
+constructing your own, more specific taxonomy, or make judgements based solely on titles
+and abstracts.
+  Alternative approaches to organising studies include coding by the ‘theoretical or conceptual
+positions adopted by authors’ (Arksey & O’Malley, 2005). This illustrates that the reviewer must
+be clear in what exactly they have done when reporting data so that readers can determine any
+potential bias in reporting or recommendations.
+  The PRISMA extension for reporting scoping reviews (PRISMA-ScR, 2018) includes 20 essential
+reporting items and 2 optional items (see Table 10.6).
+  Some authors have found it helpful to develop ‘templates’ in the form of tables that sum-marise the basic characteristics of all included studies accompanied by a ‘commentary written
+under … nine headings: interventions; sample sizes; participants; research methods; outcomes;
+evidence relating to effectiveness; economic aspects; UK studies; gaps in the research’ (Arksey &
+O’Malley, 2005). The objective is to allow reviewers, and readers, ‘to make comparisons across
+intervention types; identify contradictory evidence regarding specific interventions; identify
+
+=== p. 332 ===
+
+Table 10.6 Checklist for Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) (Tricco et al., 2018a)
+
+Section item
+
+Title                                        Critical appraisal of individual sources of evidence
+
+Abstract                                     Synthesis of results
+
+Rationale                                    Selection of sources of evidence
+
+Objectives                                   Characteristics of sources of evidence
+
+Protocol and registration                    Critical appraisal within sources of evidence
+
+Eligibility criteria                         Results of individual sources of evidence
+
+Information sources*                         Synthesis of results
+
+Search                                       Discussion
+
+Selection of sources of evidence             Limitations
+
+Data charting process                        Conclusions
+
+Data items                                   Funding
+
+*Where sources of evidence are compiled from, such as bibliographic databases, social media platforms, and Web
+sites
+
+gaps in the evidence gaps about individual interventions and across interventions as well as
+consider possible “new frontiers”’ (Arksey & O’Malley, 2005).
+
+   Producing a draft report structure
+
+   Produce a draft report structure for your review using the sections described above. Try to
+   allocate an appropriate word limit to each section based on the size and scope of your review
+   and its intended focus.
+        Practical tip: If writing for a journal then find an existing review article of a similar type/
+   topic. Open the PDF in a word processor and use the Word count facility to quantify the number of words in each section, for example ‘Methods (750 words)’. This gives you an overall
+   structure and helps you to assign realistic word limits to each section. You can use this same
+   approach by opening a copy of reporting guidelines (for the structure only) or for the house
+   style of a report series.
+
+=== p. 333 ===
+
+PUBLICISING YOUR REVIEW
+As with any research project, you should give some thought to how to publicise your review
+findings. Timeliness is key: be prepared to drop everything else to accommodate journalists’
+tight deadlines with a radio, TV or podcast interview or well-chosen soundbite. Remember that
+a little creativity helps turn a statement into a quote – ‘Speaking for the authors, Dr Booth confirmed: “Our review makes it very clear that a tasty soundbite is key to successful publicity”’.
+  Visual communication can be highly effective, where possible and appropriate; but rather
+than posting PRISMA flowcharts focusing on the review methods, focus on the people whose
+lives will be changed by your findings. What would draw the attention of the general public and
+help it ‘connect’ with your topic? Always use the highest quality graphics feasible.
+  While you may feel that your current review is the best research you have ever done, this is
+not necessarily how others will see it. A controversial or topical review question is a more likely
+marker for successful coverage. Do not be disappointed if the coverage does not deliver what you
+hoped – they may even get your name wrong. Press coverage is only one strategy in your overall
+portfolio (see Box 10.6). Media outlets do get reporting of research right more often than they
+get it wrong and will often link to the journal or to the study online.
+  Once you have secured press coverage you can retweet links to articles, photographs and tweets
+put out by your press office (Sinnenberg et al., 2017; Giustini et al., 2018; Ruano et al., 2018).
+One Cochrane Group ran its social media strategy using daily ‘tweets’, weekly WordPress blog
+posts and a monthly journal club on Twitter (‘tweet chat’) (Dyson et al., 2017). Each tweet, blog
+and journal club shared Cochrane evidence on a review topic. The group evaluated the strategy
+through (1) Twitter and blog site analytics, (2) traceable link (Bitly) statistics, (3) Altmetric.com
+scores for promoted evidence, and (4) participant feedback. Importantly, the group also tracked
+the resources required to write the blog, tweet content and manage the strategy.
+
+   Methods for sharing findings from systematic reviews (Rader et al., 2014b)
+
+      Decision Aids/Decision Aid Summary – algorithms presenting evidence supported decision choices and consequences.
+
+      Journal Club – professional/practitioner-led discussions (face to face, online, Twitter-led
+      or email exchanges) of review quality and implications for practice.
+
+      Scenarios in General Journals – realistic situations in which review findings might be
+      applied.
+
+      Summary of Findings Tables – Single-page summaries presenting benefits and harms of
+      a review in a transparent and simple tabular format.
+
+      Plain Language Summaries – One-page or shorter summaries describing the same information as in the summary of findings table but giving key findings using language that is
+      understood easily by the public.
+
+=== p. 334 ===
+
+      Podcasts – Brief recorded broadcasts presenting review findings.
+
+      Tweets – Individual or strings of tweets profiling review bottom line and pointing to full
+      version.
+
+      Clinical Answers – Question and answer format constructed around common questions.
+
+      Narratives as a Knowledge Translation (KT) tool – Storytelling using video, audio or
+      narrative textual formats
+
+      Dr Cochrane – Professional-oriented storytelling centred on fictional character.
+
+It is important to recognise that your target audience will not have a single preferred route to
+finding out about your review. Not only do individuals differ in their preferred formats, shaped
+by age, education, personality characteristics and learning preferences, but also the same individual may prefer different formats for different purposes. A comparison of infographic and
+critical appraisal formats for systematic reviews found that infographics are considered aesthetically appealing for summarising evidence; however, critical appraisal formats are considered
+clearer and more comprehensible (Crick & Hartling, 2015). Tools for knowledge dissemination
+and translation need to be targeted to the specific preferences and needs of different audiences.
+
+TOOLBOX FOR PRESENTING YOUR FINDINGS
+A key challenge, once the literature review process has been completed, is to decide upon an
+appropriate method for presenting your findings to your chosen audience. This Tools section
+looks first at the highly structured 1:3:25 report format increasingly favoured by policy-makers.
+It then turns attention specifically to the reporting of meaningful recommendations for future
+research using the EPICOT+ structure.
+
+Graded entry format
+Graded entry formats are typically encountered when publishing rapid review reports (Garritty
+et al., 2020). They allow stepwise access (hence ‘graded entry’) to the evidence. Typically, they
+start with a ‘front-end’ short interpretation of the main findings and conclusions, drawn from
+an evidence synthesis. These front-end concise summaries are often followed by a short, contextually framed, executive summary or narrative report in which the results of the systematic
+review (often with locally relevant factors) are highlighted. The front-end summary and the
+narrative report/summary are then combined with a full systematic review to make a three-component set.
+
+The 1:3:25 report
+The 1:3:25 report format acknowledges that writing a research summary for decision-makers is
+different from writing an academic journal article. Because reviewers have a different objective
+
+=== p. 335 ===
+
+to that for their academic outputs, they take a different approach. Every 1:3:25 report follows
+the same guidelines: starting with 1 page of main messages; followed by a 3-page executive summary; and concluded with findings presented in no more than 25 pages of writing, in language
+that is easy for a lay person to understand. Details of these three sections are as follows.
+  Main messages (the ‘1’): one page of main message bullets reporting the lessons decision-makers
+can take from your review. These go beyond a summary of findings because they have to tell the
+audience what your findings mean for them. Writing main messages is a challenge for researchers
+who are typically trained to provide an objective and detached view of the evidence. You will have
+to strike a balance between having something of interest and practical importance to report
+without going beyond what is actually present within your review.
+  Executive summary (the ‘3’): the executive summary condenses your findings for a busy
+decision-maker. The summary is problem focused and uses the journalistic technique of presenting the more meaningful content at the top, followed by background, context and less
+important information further down. Bear in mind decision-makers are not interested in your
+meticulous review methodology – only later will your Methods section act as a guarantor of
+rigour once your findings have been assimilated, understood and interpreted.
+  The report (the ‘25’): the 25-page report of your review allows more detail, but, nevertheless,
+requires a greater succinctness than typical in a final report. Take time to refine it with your
+decision-maker partners. Consider the following seven categories of information for inclusion
+in the report.
+  Context: the policy issue or managerial problem with a clear statement of the PICOS review
+question.
+  Implications: state what your review findings mean for decision-makers. Target the implications
+at your main stakeholders but anticipate other audiences who may be interested in your work.
+  Approach: outline your review methods, including the type of review undertaken, database
+sources and search strategies used, the numbers of studies found and the overall methods of
+synthesis and presentation. Brief details of limitations of the methods should be given with a
+fuller explanation provided in a technical appendix.
+  Results: summarised in a concise and informative way using a full array of graphical and tabular
+means to highlight key themes and messages. Subsidiary results will be placed in an appendix.
+  Additional resources: supporting materials (e.g. publications and websites) to help decision-makers follow up issues raised by your review.
+  Further research: resisting ‘further research is needed’ this section should frame specific questions that remain to be answered together with suggested research designs to address them.
+  References and bibliography: typically using the Vancouver numbered reference style with references at the end of the report.
+  It is a considerable challenge to condense the content of a systematic review, or even a rapid
+evidence assessment, within the 25-page strictures of this format. Nevertheless, creative use of
+appendices and judicious but rigorous reporting can achieve this aim.
+  Other graded entry formats include the following (Garritty et al., 2020).
+
+Inverted pyramid format
+The inverted pyramid format utilises a structure that places its ‘bottom line’ (key take
+home message) at the top; that is, it emphasises the conclusions or key messages upfront
+
+=== p. 336 ===
+
+followed by a brief (executive) summary. This ‘bottom line upfront’ (BLUF) format is followed
+by a lengthier report that provides specific details for the reader. This format is similar to
+the 1:3:25 format but emphasises function rather than sticking strictly to a prescriptive
+page count.
+
+SUPPORT Summary format
+The SUPPORT Summary graded entry structure was developed to present the results of systematic reviews to decision-makers (Petkovic et al., 2016). First, it highlights key messages derived
+from findings. It then proceeds to other components (such as background information to provide context to review findings); a summary of the search approach and what was identified;
+and a detailed summary of the main findings, including methodological quality of the evidence.
+Particular features include highlighting relevance to low- and middle-income countries with reference to applicability, impact on equity, economic considerations, and the need for monitoring
+and evaluation, before concluding with references.
+
+GRADE and GRADE-CERQual
+GRADE (Grading of Recommendations, Assessment, Development and Evaluations) is a
+transparent framework for developing and presenting summaries of evidence and provides
+a systematic approach for making clinical practice recommendations (Granholm et al.,
+2019). It is the most widely adopted tool for grading the quality of evidence and for making recommendations with over 100 organisations worldwide officially endorsing GRADE.
+A complementary approach, GRADE-CERQual (Confidence in the Evidence from Reviews
+of Qualitative research), provides guidance for assessing how much confidence to place in
+findings from systematic reviews of qualitative research (or qualitative evidence syntheses) (Lewin et al., 2018a). The GRADE-CERQual approach was developed to support the
+use of findings from qualitative evidence syntheses in decision-making, including guideline
+development and policy formulation. GRADE-CERQual includes four components for assessing how much confidence to place in findings from reviews of qualitative research (also
+referred to as qualitative evidence syntheses): (i) methodological limitations, (ii) coherence,
+(iii) adequacy of data and (iv) relevance. The approach involves examining the individual
+components iteratively before making an overall assessment of confidence in a review finding and creating a GRADE-CERQual Evidence Profile and a GRADE-CERQual Summary of
+Qualitative Findings table.
+
+The EPICOT+ format for reporting research recommendations
+The EPICOT format has been proposed as the basis for formulating research recommendations and improving the presentation of proposals for further research (Brown et al., 2006).
+Subsequently, optional components have been incorporated within the proposed EPICOT+
+format (Box 10.7).
+
+=== p. 337 ===
+
+   Suggested format for research recommendations on the effects of treatments
+   (EPICOT+)
+
+   Core elements
+
+      E Evidence (What is the current state of the evidence?)
+
+      P Population (What is the population of interest?)
+
+      I Intervention (What are the interventions of interest?)
+
+      C Comparison (What are the comparisons of interest?)
+
+      O Outcome (What are the outcomes of interest?)
+
+      T Time stamp (Date of recommendation)
+
+   Optional elements
+
+      d Disease burden or relevance
+
+      t Time aspect of core elements of EPICOT
+
+      s Appropriate study type according to local need
+
+SUMMARY
+Clearly, the intense and prolonged effort that goes into production of a literature review that
+harnesses systematic approaches will only be fully exploited if you give consideration to the
+intended audience for the review. The intended audience will determine the language and the
+format of the final review. Secondary products, such as plain language summaries (Dormer &
+Walker, 2020), 1:3:25 reports (see Tools section) and briefings (Chambers & Wilson, 2012) may
+be needed to cater for the information preferences of the intended audience. Given that all
+reviews have multiple audiences, authors must target multiple channels. Graded entry formats
+allow an individual user, or different users, to engage at different levels of the review. Three
+examples are the 1:3:25 format, the inverted pyramid format and the SUPPORT summary format
+(see Graded Entry Formats above)
+
+                     key learning points
+
+   • It is critical when writing a systematic review to base what you write and how you present
+     it on a detailed knowledge of your intended audience.
+   • Remember that your review will have multiple audiences and you should try, therefore, to
+     anticipate and factor in their interests.
+
+=== p. 338 ===
+
+  • Systematic approaches to presenting your methodology and findings will demonstrate
+    clarity-auditability-replicability-transparency (CART).
+  • Published reporting guidelines may help you to present your methodology and findings in
+    a clear and transparent way.
+  • In addition to a structured academic report you should consider other methods of presentation for your review including plain language summaries and briefings.
+
+                    frequently asked questions (FAQS)
+
+  FAQ 10.1 How do I identify reporting guidelines that relate to my systematic
+  review?
+  It is challenging to keep up to date with the appearance of reporting guidelines. Fortunately,
+  the EQUATOR (Enhancing the QUAlity and Transparency Of health Research) Network website
+  (see Box 10.5) compiles an index grouped into categories together with a brief description
+  and links to external resources. Having located an appropriate reporting guideline you will
+  find that most reporting guidelines are available via open access. Several websites, such as
+  PRISMA, offer helpful checklists or reporting templates. Interactive PRISMA flow diagrams,
+  into which you enter numbers of references for each stage, are also available on the Web.
+  However, always make sure that they reference, and adhere to, the most recent version of the
+  reporting guidelines.
+
+  FAQ 10.2 Is it mandatory to use reporting guidelines where available?
+  As this book emphasises, systematic approaches add value by using transparent reporting
+  methods. Reporting guidelines are often the result of extensive consultation and, in some
+  cases, a formal Delphi process. Some might consider it arrogant or foolish to ignore collective
+  and free expert advice on how to report your review transparently. Many journals are adding
+  reporting statements to their Instructions to Authors. Some journals require a completed
+  checklist to demonstrate compliance with a particular guideline. However, even if this is not
+  the case you will find that most peer reviewers will have a similar set of reporting characteristics in mind when they review your work. Take the opportunity to anticipate the information
+  that they will want to see by following an appropriate reporting guideline. Remember too
+  that these are only guidelines. If you identify a particular need for reporting your review then
+  do try to innovate within the overall framework. For example, you may want to adapt your
+  PRISMA flowchart of studies to illustrate a methodological point.
+
+  FAQ 10.3 What should I report if I produce an empty review?
+  An empty review can have many causes (Slyer, 2016). Perhaps your focus of interest has a
+  limited research base. This can be a positive result if you are a postgraduate researcher seeking to contribute to new knowledge! Technically, however, you may have over-specified the
+  population, intervention or outcomes when compared with the questions asked in primary
+  research studies or placed an overly demanding restriction on study type, particularly if ran-domised controlled trials are not feasible. Hopefully, you anticipated these issues during scoping searches and when developing your review protocol. If your topic is too new to provide
+  adequate evidence for synthesis, you may need to contemplate primary data collection as an
+  alternative to a systematic review.
+
+=== p. 339 ===
+
+   If your review does come up empty, you can highlight major gaps in the current evidence
+base (Slyer, 2016). By specialising in this topic you have become an ‘expert’ with first-hand
+knowledge of where research is needed. You can use an empty review to provide specific
+research recommendations to guide the types of research designs needed, eligibility criteria
+for sample selection and detail on the optimal intervention, comparator and outcome measures. These implications differ little from a review where the evidence was inconclusive or
+conflicting. Above all, resist the temptation to endorse conclusions based on excluded or noneligible studies, based on other evidence or not underpinned by any evidence. The rules of the
+evidence ‘game’ do not change simply because your ball has been ‘punctured’! You must not
+offer biased conclusions that are unsupported by evidence and that may misguide healthcare
+professionals in their decision-making.
+
+FAQ 10.4 What outputs can I use to disseminate my review?
+If your organisation, the commissioning organisation or a journal publisher produces press
+releases, you may want to work closely with the press office to produce an accurate yet public-friendly version of your review. Increasingly, you can use social media to flag up the appearance of new systematic reviews. A strategic approach is to create infographics; a blog post;
+a YouTube video; a podcast interview; and then to promote all of these via Twitter (perhaps
+even using ‘Twitter cards’ for visual appeal).
+   Make your outputs shareable and discoverable. Deposit your research data in community-recognised repositories where possible. Making research data available helps when promoting
+your published research. It also serves to raise your profile by making your research more discoverable, thereby encouraging citations. Increasingly you should be thinking about how you
+will promote your own profile as this is the key to featuring your outputs. Your communication
+strategy can begin from award of the research grant or studentship, through your protocol
+and early consultation activities, to preliminary conference results and the final paper. If you
+have not already done so then you should register for a unique ORCID author identifier to
+further improve your discoverability.
+   Bear in mind that it is your findings, not just the ‘package’ of the systematic review article,
+that you want to highlight. Consider the appropriate informational content and resources that
+relate to your target group. A strategy targeting research end-users might include instructional videos, digitised tools for download, public-facing, easy-to-read blog articles, info-graphics, posters, printable messaging materials (e.g. brochures, tip sheets), and promotional
+content offerings such as Twitter cards, Facebook images, Instagram images, sample ads and
+sample social media content.
+
+FAQ 10.5 How can I promote outputs from my review?
+Share your work with your social networks (Mollett et al., 2011). Be sure to alert your followers on Twitter, Facebook, Google+ and other social networking sites by announcing your
+published work. Produce a tweet version of your review on Twitter with an abbreviated URL
+link. Better still, create a sequence of four or five related tweets, each focusing on a different ‘Take home message’, and release them over 5–10 days. By making each tweet a reply to
+a previous tweet they become a ‘thread’; then, for each instance you can retweet previous
+tweets in the thread before adding the latest one. Applications such as TweetDeck can help by
+allowing you to schedule tweets. Accompany your tweets with a link to your article – either in
+full or as an abbreviated ‘tidy’ URL. You can encourage sharing by using hashtags relevant to
+
+=== p. 340 ===
+
+   your review topic. Tag co-authors or others working in your topic area who may be interested
+   in your review. You could also use the ‘Pinned Tweet’ function so that details of your review
+   can be seen by anyone who visits your Twitter profile. Update your professional profile to
+   include details of your new review. Professional profiles such as Google Scholar, LinkedIn and
+   Researchgate often alert members to new papers by others in their network. Identify appropriate blogs in your topic area and notify their authors. Even better, offer to guest a blogpost.
+   Some journals host a blog and highlight featured articles from their output. For example,
+   Evidence & Policy featured a post from one of our colleagues spotlighting a lesson-learned
+   report from our synthesis programme (https://evidenceandpolicyblog.co.uk/2021/01/13/rapidresponsive-evidence-synthesis-to-inform-decision-making-and-research/). Have you thought
+   about creating a YouTube video for your review? Often a graphic depiction of your review
+   results will stick in your mind longer than a printed message.
+
+Get more hands-on guidance!
+Visit https://study.sagepub.com/booth3e for downloadable versions of the exercises, as well as
+some suggested answers. You can also access a glossary, literature review templates, source trackers,
+and a collated list of online tools to help you put together a successful literature review.
+
+                     suggestions for further information
+
+   Aveyard H (2019) How do I discuss my findings and make recommendations? In: Aveyard
+      H, Doing a Literature Review in Health and Social Care: A Practical Guide, 4th edition.
+      Maidenhead: Open University Press, 153–62.
+   This slim volume represents one of the most accessible introductions to literature reviews.
+   Now in its 4th edition it outlines the basics when writing up findings and recommendations.
+
+   Major CH & Savin-Baden M (2010) 6 – Presenting the synthesis. In: An Introduction to
+      Qualitative Research Synthesis: Managing the Information Explosion in Social Science
+      Research. Abingdon: Routledge, 89–104.
+   Specialising in an education context this book includes valuable exemplars of worked reviews
+   with examples of presentation formats.
+
+   Moher D, Altman DG, Schulz KF, Simera I & Wager E (eds) (2014) Guidelines for Reporting
+     Health Research: A User’s Manual. London: Wiley.
+   Multi-author compilation of reporting guidelines in health research.
+
+   Rader T, Pardo JP, Stacey D, Ghogomu E, Maxwell LJ, Welch VA, Singh JA, Buchbinder R,
+      Légaré F, Santesso N & April KT (2014) Update of strategies to translate evidence from
+      Cochrane Musculoskeletal Group systematic reviews for use by various audiences. Journal
+      of Rheumatology, 41(2): 206–15.
+   Presents 10 formats used by Cochrane to share findings from systematic reviews.
+

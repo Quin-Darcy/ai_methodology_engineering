@@ -1,0 +1,570 @@
+=== chunk: hadot-1995-philosophy-as-a-way-of-life/ch10-sage-and-world ===
+title: The Sage and the World
+source_pdf: docs/sources/hadot-1995-philosophy-as-a-way-of-life/full.pdf
+pdf_pages: 262-274
+page_scheme: book
+plan_page_start: 251
+plan_page_end: 263
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 251 ===
+
+                       The Sage and the World
+
+                          1   Definition of the Problem
+
+No one has described the relationship between the ancient sage and the world
+around him better than Bernard Groethuysen:
+
+  The sage's consciousness of the world is something peculiar to
+  him alone. Only the sage never ceases to have the whole constantly
+  present to his mind. He never forgets the world, but thinks and
+  acts with a view to the cosmos. . . . The sage is a part of the world;
+  he is cosmic. He does not let himself be distracted from the world,
+  or detached from the cosmic totality . . . . The figure of the sage
+  forms, as it were, an indissoluble unity with man's representation of the
+  world.1
+
+This is particularly true of the Stoic sage, whose fundamental attitude
+consisted in a joyful "Yes!" accorded at each instant to the movement of the
+world, directed as it is by universal reason. We recall Marcus Aurelius'
+well-known prayer to the universe: "All that is in tune with you, 0 universe,
+is in tune with me." 2 Perhaps less well known is the aesthetic theory Marcus
+developed from the same point of view:
+
+  If a person has experience and a deeper insight into the processes of
+  the universe, there will be hardly any phenomenon accompanying
+  these processes that does not appear to him, at lea'>t in some of
+  its aspects, as pleasant. And he will look upon the actual gaping jaws
+  of wild beasts with no less pleasure than upon all the imitations of
+  them that sculptors and painters offer us . . . . and there are many
+  such things, which do not appeal to everyone; only to
+  that person w ho has truly familiarized himself with nature and her
+   wurk i n tCI' · 1
+
+=== p. 252 ===
+
+We recall, moreover, that the Stoic sage, like Seneca, was conscious of being
+a part of the world, and plunged himself into the totality of the cosmos: Ioli
+se inserens mundo.4
+   The same could be said of the Epicurean sage, even though the physics he
+professed considered the world to be the result of chance, excluding all divine
+intervention. Nevertheless, this conception of the world suited the Epicurean
+perfectly: it brought with it pure pleasure and peace of mind, freed him from
+unreasonable fear of the gods, and made him consider each instant as a kind
+of unexpected miracle. As Hoffmann pointed out,5 it is precisely because the
+Epicurean considered existence to be the result of pure chance that he greeted
+each moment with immense gratitude, like a kind of divine miracle. The
+sage's pleasure came from contemplating the world in peace and serenity; and
+in this he resembled the gods, who took no part in the management of the
+world, lest their eternal repose be disturbed. Describing the sage's contempla­
+tion, analogous to that of the gods, Lucretius exclaimed :
+
+   the terrors of the mind fly away, the walls of the world part asunder, I
+   see things moving on through all the void . : . At these things, as it were,
+   some godlike pleasure and a thrill of awe seizes on me, to think that thus
+   . . . nature is made so clear and manifest, laid bare to sight on every
+   side.6
+
+This cosmic dimension is thus essential to the figure of the antique sage.
+  Here the reader may object: it could well be that ancient wisdom - whether
+Platonic, Aristotelian, Stoic, or Epicurean - was intimately linked with a
+relationship to the world; but isn't this ancient vision of the world out of date?
+The quantitative universe of modern science is totally unrepresentable, and
+within it the individual feels isolated and lost. Today, nature is nothing more
+for us than man's "environment"; she has become a purely human problem,
+a problem of industrial hygiene. The idea of universal reason no longer makes
+much sense.
+   All this is quite true. But can the experience of modern man be reduced to
+the purely technico-scientific? Does not modern man, too, have his own
+experience of the world qua world? Finally, might not this experience be able
+to open up for him a path toward wisdom?
+
+   2   The World of Science and the World of Everyday Perception
+
+It would be stating the obvious to affirm that the world which we perceive in
+our everyday experience is radically different from the unrepresentable world
+constructed by the scientist. The world of science docs i n d ee d , by mennK of
+its m u l t iple t cchn ic11I n p plicnl ions, r11d ic11 1 l y 1 rnm1form 1mme 11s11ectK of our
+
+=== p. 253 ===
+
+daily life. Yet it is essential to realize that our way of perceiving the world in
+everyday life is not radically affected by scientific concepti9ns. For all of us
+- even for the astronomer, when he goes home at night - the sun rises and
+sets, and the earth is immobile.
+   Following Husserl, Merleau-Ponty developed some noteworthy reflec­
+tions on this opposition between the world of science and the world of
+perception:
+
+   The entire world of science is constructed on the basis of the world as
+   we experience it [sur le monde vecu], and if we want rigorously to think
+   through science itself, in order precisely to appreciate its range and its
+   meaning, we must first of all reawaken this experience of the world, of
+   which science is the secondary expression.7
+
+For lived, existential experience, the earth is nothing other than the immobile
+ground8 in relation to which I move, the fundamental referent of my
+existence. It is this earth, immobile in relation to our experienced movements,
+that even the astronaut uses as a reference point, including when, from the
+depths of space, the earth appears to him like a little blue ball. The analyses
+of Husserl and Merleau-Ponty thus let us see that the Copernican revolution,
+of which so much is made in philosophy handbooks, upset only the theoretical
+discourse of the learned about the world, but did not at all change the
+habitual, day-to-day perception we have of the world.
+   We must, however, be more specific about the opposition between the
+world of science and the world of everyday perception . The reason why
+Husserl and Merleau-Ponty want us to return to the world of lived
+perception, or rather to this perception-as-a-world, is so that we may become
+awa.re of it. This awareness, in tum, will radically transform our very
+perception of the world, since it will no longer be a perception of distinct
+objects, but perception of the world as a world, and, especially for Merleau­
+Ponty, perception of the uni()' of the world and of perception. In their view,
+philosophy is nothing other than this process by means of which we try "to
+relearn to see the world." 9
+   In a sense, one might say that the world of science and the world of
+philosophy are both, in their own way, opposed to the world of habitual
+perception. In the case of science, this opposition takes the form of the
+elimination of perception. Science discloses to us a universe reduced, by both
+mathematical and technological means, to its quantitative aspects. Philosophy,
+for its part, deepens and transforms h:\_b itual perception, forcing us to become
+aware of the very fact the we are perceiving the world, and that the world is
+that which we perceive.
+   We fine.I n Himilar di11tinction between habitual and philosophical perception
+in the w r i 1 inl(N of U c rgKo n He describes this difference as follows: 10
+                            .
+
+=== p. 254 ===
+
+  Life requires that we put on blinkers; we must not look to the right, to
+  the left, or behind, but straight ahead, in the direction in which we
+  are supposed to walk. In order to live, we must be selective in
+  our knowledge and our memories, and retain only that which may
+  contribute to our action upon things.
+
+Bergson continues: "We could say the same thing about perception. As an
+auxi liary of action, it isolates, out of the totality of the real, that which
+interests us. " Some people, however, are born detached: artists.
+
+   When they look at a thing, they see itfor itselJ, and no longer for lhem. They
+   no longer perceive merely for the sake of action: they perceive for the sake
+   of perceiving; that is, for no reason, for the pure pleasure of it . . .
+     That which nature does once in a long while, out of distraction, for a
+   few privileged people; might not philosophy . . . attempt the same thing,
+   in another sense and in another way, for everybody? Might not the role
+   of philosophy be to bring us to a more complete perception of reality,
+   by means of a kind of displacement of our attention?
+
+The "displacement of attention" of which Bergson speaks, as in the case of
+Merleau-Ponty's "phenomenological reduction," is in fact a conversion: 1 1 a
+radical rupture with regard to the state of unconsciousness in which man
+normally lives. The utilitarian perception we have of the world, in everyday
+life, in fact hides from us the world qua world. Aesthetic and philosophical
+perceptions of the world are only possible by means of a complete transfor­
+mation of our relationship to the world: we have to perceive it for itself, and
+no longer for ourselves.
+
+                            3   Aesthetic Perception
+
+Bergson and, as we shall see later, Merleau-Ponty consider the aesthetic
+perception of the world as a kind of model for philosophical percep,tion. In
+fact, as J. Ritter has pointed out,12 it is only with the flourishing of modem
+science, from the eighteenth century on, and the transformation of the
+philosopher's relationship to nature which came about as a result, that we find
+an awareness of the necessity of an "aesthetic" mode of perception, in order
+to allow existence - man's Dasein - to maintain the cosmic dimension essential
+to human existence. As early as 1 750, Baumgarten,u in his Aeslhetica, had
+opposed veritas /ogica to verilas aesthetica1•: veritas /ogica was, for exam p le, the
+knowledge of an eclipse appropriate to a n astronomer, w h i l e aesthetic truth
+might be, for ex am p l e , a s he p he rd ' s emotional perception of t he same
+p henomenon , 1111 he dcKcribcs it tu his hclovcd . In hiH C:riti1111e njJ111lxemt111 of
+
+=== p. 255 ===
+
+1 790, Kant also opposed aesthetic perception to scientific knowledge. In order
+to perceive the ocean as sublime, writes Kant, it is not necessary to associate
+with it all sorts of geographical or meteorological knowledge while we look at
+it. Rather: "one must come to see the ocean, all by itself - just as the poets
+do, exclusively a cco rding to what it displays to the eye, when it is contemplated
+either at rest, in the form of a limpid mirror of water, or when it is violently
+stirred, like an abyss threatening to swallow up everything." 15 When, between
+1 8 1 5 and 1 830, C.G. Carus wrote his Lettres sur la peinture de paysage,16 he
+characterized landscape-painting as the "art of the representation of the life
+of the earth [Erdlebenbildkunst]." For Carus, it is thanks to aesthetic percep­
+tion that we may continue to live in that perceptive, lived relationship with
+the earth, which constitutes an essential dimension of human existence.
+   Thus, a disinterested, aesthetic perception of the world can allow us to
+imagine what cosmic consciousness might signify for modern man. Modern
+artists, reflecting on their art, regard it as inseparable from a completely
+characteristic experience of the world.
+   In the first place, the modern artist consciously participates in cosmic life
+as he creates. "The dialogue with nature," writes Paul Klee, 17 "remains for
+the artist the condition sine qua non. The artist is a man. He is himself nature,
+a part of nature within the domain of nature." This dialogue with nature
+presupposes an intense communication with the world, carried out not merely
+through visual channels: "Today, the artist is better and more subtle than a
+camera . . . he is a creature upon earth and a creature within the universe; a
+creature on one star among the other stars." This is why there are, according
+to Klee, means other than visual for establishing the relationship between the
+self and its object. There is the fact that we plunge our roots into the same
+soil, and that we share a common participation in the cosmos. This means
+that the artist must paint in a state in which he feels his unity with the earth
+and with the universe.
+   For Klee, then, abstract art appears as a kind of prolongation of the work
+of nature:
+
+  [The artist's] progress in the observation and vision of nature gradually
+  lets him accede to a philosophical vision of the universe which allows
+  him freely to create abstract forms . . . Thus, the artist creates works of
+  art, or participates in the creation of works, which are an image of the
+  creative work of God . . . Just as children imitate us while playing, so
+  we, in the game of art, imitate the forces which created, and continue
+  to create, the world . . . Na t ura naturans is more important to the painter
+  than ttaturti ttaturata. 1 8
+
+  We rc-enl·ountcr this cosmic consciousness in Cezanne. 19 "Have you seen
+thnt l(il{1m t k Tin torclto in Venice," he writes,
+
+=== p. 256 ===
+
+  in which the earth and the sea, the terraqueous globe, are hanging
+  above people's heads? The horizon is moving off into the distance; the
+  depth, the ocean distances, and bodies are taking flight, an immense
+  rotundity, a mappamundi; the planet is hurled, falling and rolling in
+  mid-ether! . . . He was prophesying for us. He already had the same
+  cosmic obsession which is consuming us now . . . . As for me, I want to
+  lose myself in nature, to grow again with her, like her . . . . In a patch
+  of green, my whole brain will flow along with the flowing sap of the
+  trees . . . . The immensity, the torrent of the world, in a tiny thumb's
+  worth of matter.
+
+  As we saw, the painter, according to Klee, feels himself to be a
+"piece of nature, within the domain of nature." We find the same theme
+in Roger Caillois' Generalized Aesthetics,11.l apropos of the experience of
+beauty:
+
+   Natural structures constitute both the initial and the final reference
+   point of all imaginable beauty, although beauty is human appreciation.
+   Since man himself belongs to nature, the circle can easily be closed, and
+   the feeling man has of beauty merely reflects his condition as a living
+   being and integral part of the universe. It does not follow from this that
+   nature is the model of art, but rather that art constitutes a particular
+   instance of nature: that which occurs when the aesthetic act undergoes
+   the additional process of design and execution.
+
+The artistic process shares with the creative process of nature the charac­
+teristic of rendering things visible, causing them to appear. Merleau-Ponty
+laid great stress on this idea:21 "Art no longer imitates visible things; it makes
+things visible. 22 It is the blueprint of the genesis of things. Paintings show how
+things become things and how the world becomes a world . . . . how moun­
+tains become, in our view, mountains." Painting makes us feel the presence
+of things: the fact that "things arc here.'' "When CCzannc strives after depth,"
+continues Mcrleau-Ponty, "what he's really seeking is the combustion of
+being."
+   The experience of modern art thus allows us to glimpse - in a way that
+is, in the last analysis, philosophical - the miracle of perception itself,
+which opens up the world to us. Yet we can only perceive this miracle by
+reflecting on perception, and converting our attention. In this way, we can
+change our relationship to the world, and when we do so, we arc astonished
+by it. We break off "our familiarity with the world, and this break can teach
+us nothing other than the unmotivated surgi n g fo r t h of the world. " 2·1 At such
+                                                  -
+
+momen ts, it is as if we we re seeing the world nppcnr before our eyes for the
+first t ime.
+
+=== p. 257 ===
+
+                             4   Spectator Novus
+
+There is nothing new in what we have said so far. Our reason for recalling it
+was in order to define the area of our experience in which there might be
+possible a relationship to the world bearing some resemblance to that which
+existed between the ancient sage and the cosmos: the world, that is, of
+perception. We are now in a position to show that, since ancient times, there
+have existed exercises by means of which philosophers have tried to transform
+their perception of the world, in a way analogous to Merleau-Ponty's
+phenomenological reduction, or to the conversion of attention spoken of by
+Bergson. Obviously, the philosophical discourses by which Bergson, Merleau­
+Ponty, and the philosophers of antiquity express or justify the procedure
+which leads to the transformation of perception are very different from one
+another, just as the discussions of Klee or CCzanne about painting are not to
+be confused with the phenomenology of Merleau-Ponty. Be that as it may,
+Mcrleau-Ponty was deeply conscious of the sense in which, above and beyond
+differences of discourse, the experiences of Klee or CCzanne coincided with
+his own. One could say the same about the similar experience which can be
+glimpsed behind certain quite striking texts from antiquity.
+   For example, let us consider this passa ge from one of Seneca's Leuers lo
+Luci/ius: "As for me, I usually spend a great deal of time in the contemplation
+of wisdom. I look at it with the same stupefaction with which, on other
+occasions, I look at the world; this world that I quite often feel as though I
+were seeing for the first time [ 1amquam spectatt1r novus ]. " 24 If Seneca speaks
+of stupefaction, it is because he sometimes finds that he discovers the world
+all of a sudden, "as though [he] were seeing it for the first time." At such
+moments, he becomes conscious of the transformation taking place i n his
+perception of the world. Normally, he had not been in the habit of seeing the
+world, and consequently was not astonished by it. Now, all of a sudden, he
+is stupefied, because he sees the world with new eyes.
+   The Epicurean Lucretius was familiar with the same experience as the Stoic
+Seneca. In book 2 of his On the Ntiture of Things,- he announces that he is
+goi ng to proclaim a new teaching: "A truth wondrously new is struggl i ng to
+fall upon your ears, and a new face of things to reveal itself." Indeed, it is not
+surprising if this new teaching strikes the imagination: Lucretius is about to
+assert the existence of infinite space, and, within this infinite space, of a
+plurality of worlds. In order to prepare his reader for this novelty, Lucretius
+introduces some considerations about mankind's psychological reactions to
+novelties. On the one hand, he says, we find that which is new difficult to
+believe; whatever disturbs our mental habits seems to us a priori false and
+inadmissible. Once we ha v e admitted it, however, the same force of habit
+wh ich mudt• 1 hc novelty surprising and par ado x i c a l subseq uently makes it
+
+=== p. 258 ===
+
+seem banal, and our admiration gradually diminishes. Lucretius then de­
+scribes how the world would look to us if we saw it for the first time:
+
+   First of all, the bright, clear colour of the sky, and all it holds within
+   it, the stars that wander here and there, and the moon and the
+   radiance of the sun with its brilliant light; all these, if now they had been
+   seen for the first time by mortals, if, unexpectedly, they were in a
+   moment placed before their eyes, what story could be told more
+   marvelous than these things, or what that the nations would less dare to
+   believe beforehand? Nothing, I believe; so worthy of wonder would this
+   sight have been. Yet think how no one now, wearied with satiety of
+   seeing, deigns to gaze up at the shining quarters of the sky!25
+
+   These texts are extremely important for our purpose. They show that,
+already in antiquity, people were not conscious of living in the world. They
+had no time to look at the world, and philosophers strongly sensed the
+paradox and scandal of the human condition: man lives in the world without
+perceiving the world. Bergson correctly grasped the reason for this situation,
+when he distinguished between habitual, utilitarian perception, necessary for
+life, and the detached, disinterested perception of the artist or philosopher.
+What separates us from the world is thus not the irrepresentable character of
+the scientific universe - the world we live in is, after all, that of lived
+perception - and neither is it contemporary doubts about the rational
+character of the world: Lucretius had already denied this rationality. People
+in antiquity were unfamiliar with modern science, and did not live in an
+industrial, technological society; yet the ancients didn't look at the world any
+more than we usually do. Such is the human condition. In order to live,
+mankind must "humanize" the world; in other words transform it, by action
+as well as by his perception, into an ensemble of "things" useful for life.
+Thus, we fabricate the objects of our worry, quarrels, social rituals, and
+conventional values. That is what our world is like; we no longer see the world
+qua world. In the words of Rilke, we no longer see "the Open"; we see only
+the "future." Ideally, we would
+
+                           see everything
+                           and ourselves in everything
+                                      healed and whole
+                                             forever.26
+
+The obstacle to perceiving the world is not to be found in modernity, but
+within man himself. We must separate ourselves from the world qua world in
+orde r to l i ve our daily l i fe, but we muHI 11cpnrate ourscl ve11 fro m the
+"everyday" world i n order tu 1·ed i11covcr 1 hc wcll'ld l l llll world .
+
+=== p. 259 ===
+
+                               S   The Instant
+
+There is a well-known text, in which we can see both the echo of ancient
+traditions and the anticipation of certain modern attitudes: Rousseau's
+Reveries du promeneur solitaire.21 What is remarkable in this passage is that we
+cannot help but recognize the intimate connection which exists, for Rousseau,
+between cosmic ecstasy and the transformation of his inner attitude wit h
+regard to time. On the one hand, "every individual object escapes him; he
+sees and feels nothing which is not in the whole." 28 Yet, at the same time,
+"Time no longer means anything [to him] . . . the present lasts forever,
+without letting its duration be sensed, and without any trace of succession.
+There is no sensation - either of privation or of enjoyment, pleasure or pain,
+desire or fear - other than the one single sensation of our existence. " 29 Here
+Rousseau analyzes, in a most remarkable way, the elements which constitute
+and make possible a disinterested perception of the world. What is required
+is concentration on the present moment, a concentration in which the spirit
+is, in a sense, without past nor present, as it experiences the simple "sensation
+of existence." Such concentration is not, however, a mere turning in
+upon oneself. On the contrary: the sensation of existence is, inseparably,
+the sensation of being in the whole and the sensation of the existence of the
+whole.
+   In Rousseau, all this is a passive, almost mystical state. For the
+ancients, however, it is quite apparent that the transformation of one's view
+of the world was intimately linked to exercises which involved con­
+centrating one's mind on the present instant.30 I n Stoicism as well as in
+Epicureanism, such exercises consisted in "separating oneself from the
+future and past," in order to "delimit th e present instant." 31 Such a tech­
+nique gives the mind, freed from the burden and prejudices of the past, as
+well as from worry about the future, tha t inner detachment, freedom, and
+peace which are indispensable prerequisites for perceiving the world qua
+world. We have here, moreover, a kind of reciprocal causality: the mind
+acquires peace and serenity by becoming aware of its relationship with the
+world, to the extent that it re-places our existence within the cosmic
+perspective.
+   This concentration on the present moment lets us discover the in­
+finite value and unheard-of miracle of our presence in the world. Concentra­
+tion on the present instant implies the suspension of our projects for the
+future. In other words, it implies that we must think of the present
+moment as the last moment, and that we live each day and each hour as if
+it were our last. For the Epicureans, th is exercise reveals the incredible
+stroke of luck thnnks to which each moment we live in the world is made
+po1111ihlc.
+
+=== p. 260 ===
+
+  Believe that every day that dawns will be the final one for you. If you
+  do, you will receive each unexpected hour with gratitude.32
+
+  Receive each moment of accumulating time as though it came about by
+  an incredible stroke of luck. 33
+
+   Let the soul find its joy in the present, and learn to hate worries about
+   the future.34
+
+  Albeit for different reasons, the Stoics also shared this attitude of
+wonder at what appears and occurs in the present instant. For them, each
+instant and each present moment imply the entire universe, and the whole
+history of the world. Just as each instant presupposes the immensity of
+time, so does our body presuppose the whole universe. It is within ourselves
+that we can experience the coming-into-being of reality and the presence of
+being. By becoming conscious of one single instant of our lives, one single
+beat of our hearts, we can feel ourselves linked to the entire immensity of the
+cosmos, and to the wondrous fact of the world's existence. The whole
+universe is present in each part of reality. For the Stoics, this experience of
+the instant corresponds to their theory of the mutual interpenetration of the
+parts of the universe. Such an experience, however, is not necessarily linked
+to any theory. For example, we find it expressed in the following verses by
+Blake:
+
+                    To see a World in a Grain of Sand
+                    And a Heaven in a Wild Flower,
+                    Hold Infinity in the palm of your hand
+                    And Eternity in an hour.35
+
+   To sec the world for the last time is the same thing as to see it for the first
+time, tamqutim spectator 11ovus. 36 This impression can be caused by the thought
+of death, which reveals to us the miraculous character of our relationship to
+the world: always in peril, always unforeseeable. Alternatively, it can be
+caused by the feeling of novelty brought about by concentrating one's
+attention on one instant, one moment of the world: the world then seems to
+come into being and be born before our eyes. We then perceive the world as
+a "nature" in the etymological sense of the world: physis, that movement of
+growth and birth by which things manifest thcmselves.37 We experience
+ourselves as a moment or instant of this movement; this immense even t which
+reaches beyond us, is always already there before us, and is always beyond us.
+We are born along with 38 the world. Th e feeling of existence of wh ich
+Rousseau spoke is preci s ely this fee l in g of ident i ty between univl�rsul bcinic
+and our own ex istence .
+
+=== p. 261 ===
+
+                         6   The Sage and the World
+
+Seneca was equally stupefied by the spectacle of the world (which he
+contemplated tamquam spectator novus) , and by the spectacle of wisdom . By
+"wisdom,'' he meant the figure of the sage, as he saw i t personified in the
+personality of the philosopher Sextus.
+  This is a very instructive parallel . There is in fact a strict analogy between
+the movement by which we accede to the vision of the world, and that by
+which we postulate the figure of the sage. In the first place, ever since Plato's
+Symposium, ancient philosophers considered the figure of the sage as an
+inaccessible role model, whom the philo-sopher (he who loves wisdom) strives
+to imitate, by means of an ever-renewed effort, practiced at each instant. 39 To
+contemplate wisdom as personified within a specific personality was thus to
+carry out a movement of the spirit in which, via the life of this personality,
+one was led toward the representation of absolute perfection, above and
+beyond all of its possible realizations. Similarly, in considering a partial aspect
+of the world , contemplation discovers the totality of the world , going beyond
+the landscape�0 glimpsed at a given moment, and transcending it on the way
+to a representation of totality which surpasses every visible object.
+  The contemplation mentioned by Seneca is, moreover, a kind of unitive
+contemplation. In order to perceive the world, we must, as it were, perceive our
+uni()! with the world, by means of an exercise of concentration on the present
+moment. Similarly, in order to recognize wisdom, we must, so to speak, go
+into training for wisdom. We can know a thing only by becoming similar to
+our object. Thus, by a total con version, we can render ourselves open to the
+world and to wisdom. This is why Seneca was j ust as stupefied and filled with
+ecstasy by the spectacle of wisdom as he was by the spectacle of the world. For
+him, in both instances, it was a case of a discovery obtained by dint of an
+interior transformation and complete change in his way of seeing and living.
+In the final analysis, both the world as perceived in the conseiousness of the
+sage, and the sage's consciousness itself, plunged in the totality of the world,
+are revealed to the lover of wisdom in one single, unique movement.
+
+                                      NOTES
+
+    B. Groethuysen, Anthropologie philosophique, Paris 1 952, rcpr. 1 980, p. 80.
+  2 Marcus Aurelius, Meditations, 4, 23,
+  3 Ibid 3, 2 .
+  4 Seneca, Letters t o Lucilius, 6 6 , 6.
+  5 E. Hoffmann, "Epikur," in M. Dessoir, ed ., Die Geschichte der Philosophie, vol .
+     I, W icshn<lcn 1 925, p. 223.
+  (1 l .uc1'l'l i11-, 011 1/11· N111111·r 11./' 111i11xs, 3, I <> 1 7, 28 -30.
+
+=== p. 262 ===
+
+  7 M. Merleau-Ponty, La Phenomenologit dt la perception, Paris 1 945, pp. ii-iii.
+  8 M. Merleau-Ponty, Elogt de la philosoph� ti aulres essais, Paris 1 953, pp. 285-6.
+     Cf. E. Husserl, "Grundlegende Untersuchungen zum phiinomenologiscen Ur­
+     sprung der Rliumlichkeit der Natur" ( = Umsturz der Kopeinkanischen Lehre),
+     in Marvin Faber, ed., Philosophical Essays in Memory of E. Husserl, Cambridge
+     MA 1 940, pp. 309-25.
+   9 Merleau-Ponty, La Phenomenologit, p. xvi.
+ 10 H. Bergson, La Pensee el It mouvanl, Paris 1 946, pp. 1 52f.
+ 1 1 [Cf. P. Hadot's important article "Conversion" in En,ydopaedia Universalis,
+     pp. 979-8 1 . - Trans.]
+ 12 J. Ritter, Subju1ivitiit. Suhs Aufiiilu, Frankfurt 1 974.
+ 13 Cited in Ritter, Subjtlttivitllt, p. 1 55 .
+ 14 ["Logical truth" versus "aesthetic truth." - Trans.]
+ 15 Immanuel Kant, Critique of'Judgement, §29 (general remark).
+ 16 ["Letters on Landscape-painting." They may be found in French translation in
+     C.D. Friedrich and C.G. Carus, De la peinture de paysage, Paris 1 988. - Trans.]
+ 17 P. Klee, Theorie de / 'art modeme, Paris 1 964, repr. 1 985, pp. 42-6.
+ 18 ["La 11a turt naluranle importe advantage au peintrt que la nature naturee." I have
+     translated nature naturanlt back into its Latin form, in which, issuing from
+     Scholastic philosophy, it was made famous by Spinoza (cf. Ethics, I, 29).
+     According to Lalande's Vo,abulaire ttchnique et 'ritique de la philosophit (Paris
+      1 988, 1 6th edn, p. 673), natura naturans traditionally designates God, insofar as
+     he is creator and principle of all action; while 11atura naturata is "the totality of
+     beings and laws he has created." Klee's meaning is that the artist is more
+     interested in the dynamics of creative processes than in the visible world as
+     end-result of these processes. - Trans.]
+ 19 Cf. J. Gasquet, Cezanne, Paris 1 988, p . 1 54.
+ 20 R. Caillois, Esthetique gb1eralisee, Paris 1 962, p. 8.
+ 2 1 M. Merleau-Ponty, "L'oeil et l'esprit," Les Temps Modemes 27 ( 196 1 ), pp. 2 1 7,
+     21 9.
+ 22 This idea was borrowed from Klee; cf. Klee, Theorie, p. 34.
+ 23 Merleau-Ponty, la Phenomtnologie, p. viii.
+ 24 Seneca, Letters to Ludlius, 64, 6.
+ 25 Lucretius, On the Nature of Th ings 2, 1023-5, 1 030-9. Similar remarks can be
+                                          ,
+
+     found in Cicero, On the Nature of the Gods, 3, 38, 96; Seneca, Natural Questions,
+      7, I ; Augustine, On the Usefulness of Belief, 1 6, 34.
+ 26 Rainer Maina Rilke, Duino Elegies, Eighth Elegy .
+ 27 ["Musings of a Solitary Stroller," written between 1 776 and Rousseau's death in
+      1 n8. - Trans.)
+ 28 J .-J. Rousseau 1 964, 7th Promenade, p. 1 26.
+ 29 Ibid, 5th Promenade, p. 1 02.
+ 30 See above.
+ 3 1 Marcus Aurelius, Meditatio11s, 1 2, 3, 3--4; 7, 29, 3; 3, 1 2, I .
+ 32 Horace, Epistle, I , 4, 1 3 .
+ 33 M . Gigante, Richerd1e Fil11Jemee, Naples 1 983, 1>1>. 1 8 1 2 1 5- 1 (,,
+                                                               ,
+
+ 34 Horace, OJrs, 2, H1, 2 5 .
+
+=== p. 263 ===
+
+                            The Sage and 1he World                             263
+
+35 William Blake, "Auguries of Innocence" in Complete Writings 111ith Variant
+   Readings, ed. Geoffrey Keynes, London 1 972, p. 435, 1 -5.
+36 ["Like a new spectator. " - Trans.]
+37 [Cf. P. Hadot, "Remarques sur la notion de <C physis l!> et de nature," in
+   Hermineutique el ontologie: Hommage ti Pie"e-Aubenque, Paris 1 990, pp. 1-15 . -
+   Trans.]
+38 "Nous co-naissons au monde." The phrase is that of Paul Claude!, Ari Poitique,
+   Paris 1946, pp. 54ff.
+39 Cf. above.
+40 Cf. Ritter, Subjelttiviliil, p. 1 5 1 .
+

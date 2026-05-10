@@ -1,0 +1,486 @@
+=== chunk: eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/ch4-unexpressed-standpoints-and-premises ===
+title: Unexpressed Standpoints and Unexpressed Premises
+source_pdf: docs/sources/eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep/full.ocr.pdf
+pdf_pages: 64-77
+page_scheme: book
+plan_page_start: 49
+plan_page_end: 62
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 49 ===
+
+       Unexpressed Standpoints
+      and Unexpressed Premises
+
+                                   &
+
+ESSENTIALS
+
+       n argumentative discourse, it is quite common
+                                                  for premises or standpoints to be left unexpressed. Although not explicitly expressed,
+       these implicit elements are indirectly indicated in the discourse. By
+openly and intentionally appearing to violate one or more of the communication rules normally followed by everyone who observes the Communication Principle, the speaker or writer conveys something more than the literal
+content of an utterance. With the aid of the Communication Principle, the
+communication rules, and some basic principles of logic, such indirectness
+can be understood, and specific types of indirectness, such as unexpressed
+premises and unexpressed standpoints, can be identified and reconstructed
+in the analysis.
+
+4.1   IMPLICIT ELEMENTS IN ARGUMENTATIVE DISCOURSE
+
+In practice, certain elements of argumentation are often left out.
+When this does not happen unintentionally and the omitted elements are implicitly present in the argumentation, then they are
+
+=== p. 50 ===
+
+called unexpressed. In the following discourse by the caretaker of a
+university building, the words in parentheses constitute an unexpressed premise:
+
+          I wouldn’t even consider getting a different job, because in
+          most other jobs I wouldn’t be able to bring along my dog
+          Sherry (and I have to be able to bring Sherry).
+
+Standpoints, too, can be unexpressed. In the following argument, the
+standpoint in brackets is only implicitly present:
+
+          The world is full of suffering. If there were a God, there
+          wouldn’tbe so much suffering. (Therefore, thereisno God.)
+
+Although one might think otherwise, the reason for omitting an argument or a standpoint is not always the intention to deceive others.
+Things are often left out of argumentation because they seem obvious.
+On the other hand, sometimes elements are left unexpressed in order to
+cover up the weakness of the argument. Take the following example:
+
+          for thousands of years.
+
+Here there is obviously an unexpressed premise. “It has been that way
+for thousands of years” can only be a justification of the standpoint
+“Children ideally should be raised in a family with both a mother and
+a father” with the addition of a statement like “Everything that has
+been done for thousands of years is good” or “If something has been
+done a certain way for thousands of years, then it is necessarily the
+best way.” Because this additional element is implicitly present in the
+explicit argumentation, it is called an unexpressed premise.
+     Even though an unexpressed premise is not explicitly presented, it
+may still be criticized by the other party:
+
+          I completely disagree. Why should something be good just
+          because it’s been done that way for a long time? Wars have
+          been waged for thousands of years, but that doesn’t prove
+          war is good.
+
+The protagonist in this case should have been aware of the weakness
+of the unexpressed premise. He or she could have anticipated the
+criticism by presenting argumentation to defend this unexpressed
+premise:
+
+=== p. 51 ===
+
+        for thousands of years. And if something has been done a certain way for thousands of years, then it is necessarily the best
+        way; it is the result of a process of historical selection.
+
+These examples show that unexpressed elements, even though they
+are implicit, can crucially influence how the discussion proceeds and
+therefore also influence its outcome. Not only antagonists but also
+protagonists can pursue an unexpressed premise. Antagonists can
+also agree or disagree with an unexpressed standpoint that they have
+inferred from the reasons the protagonist has put forward.
+  In evaluating argumentation, unexpressed elements can be very
+important, particularly when evaluating the soundness of the argumentation. Therefore, when analyzing argumentation, it is important to note what elements in the argumentation have been omitted
+and to figure out carefully which statements need to be added to
+complete the arguments.
+
+4.2   INDIRECTNESS AND THE RULES FOR COMMUNICATION
+
+Unexpressed premises and unexpressed standpoints are examples
+of indirect language use that is typical of normal everyday speech.
+Indirectness means that the speaker says what he or she meansin a
+roundabout way rather than in a direct way. Someone may say
+“Would it be too much trouble to take this package to the post office?” while also meaning to request that the listener do the job.
+  Indirectness is a special kind of implicit language use. The implicitness referred to here is quite different from a salesperson’s saying
+“It’s 170” instead of “I inform you that the price of that suitis 170 dollars.” In this type of “ordinary” implicit language use, there is no attempt to convey something additional in a roundabout way.
+  In indirect language use, speakers not only mean to convey more
+than what they say, but also indicate this to the listener in their presentation. Otherwise, indirectness would not communicate anything. The big question, however, is how do speakers convey that
+they are saying something indirectly? How is one supposed to know
+that something different is meant from what is said?
+  In answering this question, it helps to realize that when people really
+want to communicate with each other, they follow the Communication
+Principle. According to this principle, people who are communicating
+with each other generally try to make their contributions to the commu-
+
+=== p. 52 ===
+
+nication match, as much as possible, the purpose of their communication. To do so, they must observe certain general rules for communication.
+     The most important rules are these:
+
+       1.   Be clear.
+       2.   Be sincere.
+       3.   Be efficient.
+       4.   Keep to the point.
+
+The clarity rule is that whatever is said or written should be as easy to
+understand as possible. The sincerity rule is that it must not be insincere. The efficiency ruleis thatit should notbe redundant or pointless.
+And the fourth rule, the relevancy rule, is that it must appropriately
+connect with what has gone before.
+     The communication rules are formulated here as if they were commandments, and so they are, for people who want to communicate
+effectively. Generally speaking, it can be assumed that everyone follows these rules most of the time. That is why it is immediately noticeable when someone does not. This is what speakers take
+advantage of when they want to convey something over and above
+the literal content of their words. By violating or appearing to violate
+one or more of the rules, yet at the same time not entirely abandoning
+the Communication Principle, they make it clear to the listener that
+they mean something different or something more than what they
+are saying. Itis in this way that the Communication Principle and the
+communication rules give language users the opportunity to be indirect and to recognize indirectness in others.
+
+4.3     CORRECTNESS CONDITIONS FOR SPEECH ACTS
+
+The communication rules are, in principle, always applicable regardless of the function of an utterance. It makes no difference whether
+the speaker is making an announcement or a promise, explaining
+something, or defending a standpoint; in performing any of these
+various kinds of speech acts, the communication rules must be observed. What it means to observe these rules, however,varies according to which speech act is being performed. For a promise, the rule
+“Be sincere” requires that speakers must really intend to do what
+they promise. For a request, they must sincerely wish the listener to
+comply with their request. For each of the various kinds of speech
+acts, a more precise description can be given of what it means to fol-
+
+=== p. 53 ===
+
+low the Communication Principle. This is done by formulating specific correctness conditions that each kind of speech act must meet.
+  Argumentation is also a speech act, and therefore certain conditions must be fulfilled for argumentation to be correct. As is the case
+for all speech acts, there are two main types of correctness conditions,
+namely, preparatory conditions and responsibility conditions. The preparatory conditions state what the speaker must do in order to follow
+the efficiency rule. For argumentation, this rule requires thatitis part
+of the speaker’s commitments not to undertake a redundant or pointless attempt to convince someone of a standpoint. The preparatory
+conditions state that the speaker must believe that the listener (a)
+does not already fully accept the standpoint, (b) will accept the statements used in the argumentation, and (c) will view the argumentation as an acceptable defense (or refutation) of the proposition to
+which the standpoint refers.
+  If the first condition is not met, the attempt at convincing the other
+party is redundant. If either of the other two conditions is not fulfilled, the speaker’s attemptis pointless: Itis not possible to convince
+someone by making use of an argument that is unacceptable to the
+other party. If the speaker is to be taken seriously, it must be assumed
+that these three conditions are met, unless there are clear indications
+to the contrary.
+  The responsibility conditions describe what the speaker must believe in order to follow the sincerity rule. For argumentation, this
+rule means that the speaker will try to convince the opponent without deceiving. The responsibility conditions that must be met for argumentation state that the speaker believes that (a) the standpoint is
+acceptable, (b) the statements used in the argumentation are acceptable, and (c) the argumentation is an acceptable defense (or refutation) of the proposition to which the standpoint refers.
+  If one takes the speaker seriously, one must assume that he or she
+meets these conditions, unless there are clear indications to the contrary. Otherwise, one would be unfairly accusing the speaker of deliberately attempting to mislead.
+
+4.4   VIOLATIONS OF THE COMMUNICATION RULES
+
+A speaker who complies with the Communication Principle normally tries to follow the communication rules, and a listener who observes the Communication Principle normally assumes that the
+communication rules are being followed. Problems arise when it appears that one of the communication rules has been violated without
+
+=== p. 54 ===
+
+it being the case that the speaker has abandoned the Communication
+Principle. At this point, the charitable listener does not immediately
+assume that the speaker, through unclarity, insincerity, inefficiency,
+or pointlessness, has disrupted the communication for no good reason. Instead, the listener tries to interpret the speaker’s wordsin such
+a way that the apparent violation acquires a plausible meaning. (We
+are not referring here to a slip of the tongue —or pen—or to any other
+unintentional violation.)
+     In practice, people find it difficult to recognize an obvious violation of the communication rules without immediately looking for an
+explanation that makes sense of the violation. If someone interrupts
+an animated conversation about a mutual friend’s love life with the
+irrelevant remark “It’s a little windy today,” listeners are likely to interpret the remark as, for example, a warning that the friend is just
+coming into the room. Speakers can take advantage of this “rationalizing” tendency on the part of listeners and intentionally convey
+something more than they are literally saying by means of an open violation of one of the communication rules. This is exactly what hap-pensinindirectness. Listeners know thatitis happening becauseitis
+the only way to make sense of an obvious violation of the communication rules.
+
+4.5     DIFFERENT FORMS OF INDIRECTNESS
+
+All communication rules can be used to convey something indirectly,
+and violations of different communication rules lead to different
+forms of indirectness.
+     The clarity rule states that speakers must ensure that listeners understand what they mean; on the grounds of this rule, listeners can
+assume that it is possible for them to figure out the speakers’ meaning. A promise expressed vaguely or unclearly can be interpreted as
+an indirect expression of reluctance or even refusal:
+
+      Gary:     When are you going to fix that broken coffee grinder?
+      Mary:     Sometime.
+
+The sincerity rule states that the speaker must be sincere, and on the
+grounds of this rule the listener can assume that the speaker means
+what he says. By saying something obviously insincere, the speaker
+can ironically (and indirectly) convey the opposite of what he or she
+actually says:
+
+=== p. 55 ===
+
+         So you didn’t even recognize your ex-boyfriend any more?
+         He must have been flattered.
+
+The efficiency rule states that speakers may not say anything that
+they know to be redundant or pointless, and on the grounds of this
+rule listeners can assume that whatever a speaker says is not
+flawed in these respects. By using obvious redundancy, a committee member who thinks the meeting time is being wasted on chitchat can indirectly make clear that he thinks it is time to get down
+to business:
+
+         I hereby open this meeting!
+
+And a pointless question—because it has no answer—can be used to
+indirectly express a complaint:
+
+         When will I ever find happiness?
+
+The relevancy rule states that speakers must ensure that their statements are a suitable response to what has preceded them, and on the
+grounds of this rule, listeners can assume that this is the case. A response that obviously does not connect up with what has just been
+said can be used to convey that the speaker refuses to discuss the
+topic:
+
+    Mary:      How would you feel about inviting John to have supper
+               with us sometime?
+    Gary:      Ithink I'll go look and see if there’s a can of beer in the
+               fridge.
+
+In all these and other variants of indirectness, speakers choose not
+to say directly what they mean. In practice, this happens quite often. There are many possible reasons for this. It may be that they
+consider a question more polite than a direct request or command.
+It may be they are afraid of losing face if their suggestion is rejected. Perhaps they are trying to give the other person as much
+freedom as possible to form their own opinion. They may also
+think it more strategic not to express their intentions too openly.
+Whatever the reason, what they say has an indirect meaning. This
+meaning will only be understood if speakers ensure that their violation of the communication rules is noticed and correctly interpreted by the listener.
+
+=== p. 56 ===
+
+4.6     MAKING UNEXPRESSED STANDPOINTS EXPLICIT
+
+Even if speakers do not explicitly express their standpoint, as a rule,
+they expect the listener to be able to infer this standpoint from the arguments put forward. Why would they otherwise bother to present
+argumentation?
+     When an argument lacks an explicit standpoint, it is not only immediately obvious that the standpoint is missing, but it is also easier
+than in the case of other indirect speech acts to figure out what is really meant. This is because there is an extra tool available, namely
+logic (see also chap. 6, section 3, this volume). All argumentation is
+based onreasoning, and if speakers are arguing sincerely, they donot
+believe that this reasoning is invalid. Only then can the argument be
+an acceptable defense or refutation of the proposition to which the
+standpointis related. If a speaker knew in advance that his or her reasoning was not valid, then the argument would be pointless. A listener who takes the speaker seriously must assume that the latter has
+at least made an attempt to present valid reasoning.
+     In the simplest case, a defense consists of one single argument, which
+isbased on one line of reasoning. If the standpoint being defended is unexpressed, then the conclusion of this line of reasoning will be missing,
+and listeners who take the argument seriously will assume that the reasoning is valid and will therefore, if possible, supply the missing conclusion themselves. In other words, they will try to formulate a
+conclusion that logically follows from the reasoning presented. In the
+following fragment of conversation, the sculptor being interviewed
+breaks off his sentence in the middle, indicating that he considers his listeners capable of supplying the conclusion themselves:
+
+          The only good museum director is of course one who buys
+          your work. If he doesn’t do that, he’s a real jerk. Now Mr.
+          Bianchi has never bought anything of mine, so ...
+
+It is easy to reconstruct the reasoning of this argument:
+
+              1.     If a museum director does not buy my work, then
+                     he’s a real jerk.
+              2.     Mr. Bianchi has never bought any of my work.
+Therefore:   3.      Mr. Bianchi is a real jerk.
+
+This reasoning is valid; there are no holes in the logic. If one accepts
+statements 1 and 2, one is forced to accept the conclusion as well.
+
+=== p. 57 ===
+
+Therefore, assuming the sculptor does not intend to abandon the
+Communication Principle, “Mr. Bianchi is a real jerk” can be considered to be the unexpressed standpoint.
+  Similar cases can be resolved in the same way. First, one must determine what the logical conclusion would be. If there is more than
+one possibility, one should choose the standpoint that in the light of
+the context and background information is most in accordance with
+all the communication rules.
+
+4.7    MAKING UNEXPRESSED PREMISES EXPLICIT
+
+With the aid of the Communication Principle, the communication
+rules, and logic, unexpressed premises, too, can be made explicit.
+This is the way it is done.
+  Technically, argumentation where one of the premises is missing is
+invalid reasoning. Consider the following example:
+
+      Olga:        Claus likes to yodel, because he comes from Tyrol.
+
+By itself, the statement that Claus comes from Tyrol does not justify
+the conclusion that Claus likes to yodel. The reasoning is only valid if
+another statement is added to it. The statement that needs to be
+added can be found most easily by connecting the explicit premise to
+the standpoint by means of an “if ... then ...” statement. The explicit
+premiseis filled in after the “if,” and the standpoint after the “then”:
+
+         If Claus comes from Tyrol, then he likes to yodel.
+
+If this statement is added to the argument, then the reasoning is logically valid: If the premises are true, then the conclusion must necessarily be true. The reasoning as a whole then has the logically valid
+form of the type called modus ponens:
+
+              1.       If p, then g (If Claus comes from Tyrol, then he likes
+                       to yodel.)
+              2.       p (Claus comes from Tyrol.)
+Therefore: 3.          g (Claus likes to yodel.)
+
+In a constructive critical analysis of argumentation, the reasoning
+underlying the argumentation must first be made valid by supplementing it with an “if ... then ...” statement. However, that is not sufficient. The added statement is, in fact, merely a literal repetition of
+
+=== p. 58 ===
+
+what was already implied by the other statements. This means thatin
+this form, the added statement would be redundant and therefore a
+violation of the efficiency rule. There is no reason to assume the
+speaker is violating this rule. It is more plausible—and certainly
+more constructive—to attribute to the speaker a statement that is
+more informative and does not violate the efficiency rule. This may
+be done, for example, by adding one of the following statements:
+
+              Every Tyroler likes to yodel.
+        o p
+              All Tyrolers like to yodel.
+              Tyrolers like to yodel.
+        oo    Most Tyrolers like to yodel.
+
+Next, one considers which of these statements best fits the verbal and
+nonverbal context of the argument, and can reasonably be attributed
+to the speaker. In this example, the statement “Tyrolers like to yodel”
+meets these requirements. There is no indication that the argumentation is concerned with how many Tyrolers like to yodel. It is simply
+suggested that it is typical of Tyrolers to like to yodel. Therefore,
+statement ¢, in the absence of other evidence from the context, is the
+best choice. If there isno evidence against the choice of this particular
+interpretation, then it can be viewed as the unexpressed premise. In
+the analysis of the argument, this unexpressed premise must then be
+added in parentheses to the original argumentation:
+
+          Olga’s standpoint is that Claus likes to yodel, because he
+          comes from Tyrol (and Tyrolers like to yodel).
+
+4.8     UNEXPRESSED PREMISES IN A WELL-DEFINED CONTEXT
+
+Up to this point, it has been assumed that argumentation takes place
+in a context that is not well defined and that provides no specific
+clues as to how the unexpressed premise should be formulated. This
+is not always the case, however. The context may be so well defined
+that it demands a specific phrasing of the unexpressed premise.
+     One must be careful not to formulate the unexpressed premise too
+hastily or by relying on preconceived notions. Therefore, as a rule, it
+is best to start from the assumption that the argumentation takes
+place in a context that is not well defined—unless such a nonspecific
+interpretation is unfair to the speaker. In other words, if the nonspe-cificinterpretation entails attributing to the speaker a violation of the
+
+=== p. 59 ===
+
+communication rules, then one should check whether the context
+also allows another, more specific interpretation that does not entail
+a violation.
+  Suppose that Sally responds to aninvitation from her friend Elaine
+to go with her to a party with the following argument:
+
+        I don’t think you should ask me to go with you to that party.
+        Ronald and Marlene are in Portugal!
+
+Without further information about the context, there is no apparent
+connection between the argument (“Ronald and Marlene are in Por-tugal”) and the standpoint (“I don’t think you should ask me to go
+with you to that party”). In such a case, the listener trying to identify
+the unexpressed premise can do little more than supplement the reasoning with an “if ... then ...” statement, so that at least the requirement of logical validity is met.
+  If more is known about the context, then a more meaningful statement can be formulated that is probably closer to the intention of the
+speaker and is therefore preferable. For instance, if Sally is known to
+be very sad because her boyfriend Ronald has gone on holiday with
+her friend Marlene, then the following formulation is possible:
+
+        Someone who is disappointed in love can’t be expected to
+        want to go to a party.
+
+FURTHER READING
+
+More attention to this approach to the problems of identifying unexpressed premises is paid in F. H. van Eemeren and R. Grootendorst,
+Argumentation, Communication, and Fallacies: A Pragma-Dialectical
+Perspective, Hillsdale, NJ: Lawrence Erlbaum Associates, 1992, chapter 6. For somewhat different approaches see S. Toulmin, The Uses of
+Argument, Cambridge, England: Cambridge University Press, 1958,
+chapter 3; T. Govier, Problems in Arqument Analysis and Evaluation,
+Dordrecht, the Netherlands: Foris, 1987, chapter 4; and D. Hitchcock,
+“Does the traditional treatment of the enthymeme rest on a mistake?,” Arqumentation, 1998, vol. 12, no. 1, pp. 15-37. An overview of
+the state of the art in the study of unexpressed premises is provided
+in “Unexpressed premises” by S. Gerritsen in F. H. van Eemeren
+(Ed.), Crucial Concepts in Argumentation Theory, Amsterdam: Amster-dam University Press, 2001, chapter 3.
+
+=== p. 60 ===
+
+EXERCISES
+
+     1.   Make the unexpressed premise explicit in each contribution to
+          the following conversation.
+          A     Jane:   Paul can’t be at home because his car is gone.
+          B     Ann:    Well, he can’t have gone to the swimming pool, because his swimming trunks are on the clothesline.
+          C     Jane:   All the same, he could have gone swimming:
+                        Thursdays is nude swimming.
+          D     Ann:    Well, since he’s taken the car, he certainly can’t be
+                        cycling.
+          E     Jane:   Even that’s not necessarily the case, since he could
+                        have put his bicycle in the car.
+     2.   Make the unexpressed premise(s) or standpoint explicit in the
+          following argumentative texts.
+          a.   You've got to have hope. Otherwise life has no meaning.
+          b.   It was not our intention to use the same players in every
+               production. Our plan was that each of us would act nomore
+               than twice, in order to give everyone a chance. But then
+               again, I love to act, I was the coordinator, and power corrupts.
+               I've got a bite! My float disappeared under water.
+               Leo will soon be unemployed because he works in the accounting department and all the work in that department is
+               going to be computerized.
+                Woman on telephone to husband: “1 think Leo and Trudy are at
+               home because their line is constantly busy.”
+               Mother to daughter: “You are absolutely not going skiing, because your father and I were never able to do that when we
+               were young.”
+               So when Lévi-Strauss fled to New York City to escape the
+               Nazis (his grandfather was a rabbi), he began work at the
+               New School for Social Research on a more theoretical sort of
+               anthropology. “I prefer it because it requires less contact
+               with fellow human beings!” he exclaims with a flash in his
+               dark eyes.
+               Re: media causing violence in kids
+                   Your logic is perverted. It’s all the fault of capitalism.
+               None of these problems exist in Cuba.
+     3.   Ata public meeting, two politicians are discussing a proposal
+          tolegalize abortion. Make the premises explicit that are left unexpressed in each of their arguments.
+
+=== p. 61 ===
+
+      Politician 1:         The sanctity of all human life has always been a
+                            foremost principle of our party. The members of
+                            my party in this House will therefore vote
+                            against the proposal to legalize abortion.
+      Politician 2:         You are right to set such store by the sanctity of
+                            human life, but you cannot include a six-week
+                            fetus. And another point: what about the sanctity of the life of the mother who has become
+                            pregnant against her will?
+ 4.   Make the unexpressed premise(s) or standpoint explicit in
+      each of the following comic strips:
+      a.
+
+WIZARD of ID
+
+ © 1994 Creators Syndicate Inc. By permission of Johnny Hart and Creators
+ Syndicate Inc.
+
+      b.
+
+ToDAY FOR SHOW AND TELL,   T       E        WHATS SO AMAZING ABT] | 1T CAN ONLY BE HEARD'
+T HAVE AN UTTERWY                           THAT77 1T SOUNDS LWKE   BY UGLY CRETINS.
+AMAZING WHISTLE!   ['lL                     AN ORDINARY WHISTLE
+
+=== p. 62 ===
+
+     C.
+
+ CALVIN, WOULD YOu
+  SET THE TABLE                L                 w       I DONT THINK YOU
+                                                         SHOULD HANE TO DO
+ FOR ME PLEASET                    NOT ENTHUSIASTIC      SOMETHING UNLESS
+                                   ABOUT SETTING         YURE ENTHUSIASTIC
+                                   THE TABLE.               ABOUT   1T
+
+                                                                    N    a0
+                                                                              ML
+                                                                               #
+
+                                         ‘j ——
+                                     2 gé
+                                          ‘'
+
+                                     D
+                                     »
+

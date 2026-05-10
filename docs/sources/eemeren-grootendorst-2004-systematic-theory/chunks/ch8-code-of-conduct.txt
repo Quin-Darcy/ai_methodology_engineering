@@ -1,0 +1,380 @@
+=== chunk: eemeren-grootendorst-2004-systematic-theory/ch8-code-of-conduct ===
+title: Code of Conduct for Reasonable Discussants (ten commandments)
+source_pdf: docs/sources/eemeren-grootendorst-2004-systematic-theory/full.pdf
+pdf_pages: 197-206
+page_scheme: book
+plan_page_start: 187
+plan_page_end: 196
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 187 ===
+
+   A Code of Conduct for Reasonable Discussants
+
+               Characteristics of reasonable discussants
+The pragma-dialectical rules for a critical discussion presented in
+Chapter 6 combine to form a discussion procedure that indicates
+which norms the speech acts performed by either of the parties in a difference of opinion must satisfy in order to contribute to the resolution
+of the difference of opinion. In our view, a theory of argumentation
+must, first, formulate a discussion procedure that provides a general
+survey of the rules for implementing the norms that constitute the
+“first-order” conditions for conducting a critical discussion. These
+rules are to be considered as the rules that are to be followed in order to
+play the game effectively, and they are to be judged for their capacity to
+serve this purpose well – their problem-validity. In order for the rules
+to be of any practical significance, however, there also must be potential
+discussants who are prepared to play the game by these rules, because
+they accept them intersubjectively – so that the rules acquire conventional validity as well. In practice, argumentation theorists cannot go
+much further than to propose the rules and defend their acceptability.
+   Our claim that the pragma-dialectical discussion rules will in principle be acceptable to discussants who want to resolve their differences of opinion in a reasonable way is based, first, on the effectiveness of the rules.1 Because the rules have been specially drawn up to
+
+1 See van Eemeren and Grootendorst (1988).
+
+=== p. 188 ===
+
+promote the resolution of differences of opinion, assuming that they
+are correctly formulated, they should be acceptable to anyone who has
+that aim in view.2 Viewed philosophically, it can be observed that there
+is a pragmatic reason for such discussants to accept these instrumental rules that some would characterize as “utilitarian.”3 It should be
+borne in mind, however, that the primary aim of a critical discussion is
+not to maximize agreement but to test contested standpoints as critically as possible by means of a systematic critical discussion of whether
+or not they are tenable.4 In accordance with the critical-rationalistic
+ideal, people in this case are stimulated to be critical by confronting
+other people’s standpoints methodically with a maximum of doubt.5
+Reaching an outcome of the discussion that is optimally satisfactory
+to all parties concerned certainly does not automatically mean that
+the protagonists and antagonists are in the end in agreement on
+everything.
+    Proposing a model of a critical discussion, as we did, may lead to
+running the risk of being identified with striving for an unattainable
+utopia. The primary function of the pragma-dialectical model of a
+critical discussion, however, is a different one. By clearly and systematically indicating what the rules for conducting a critical discussion
+are, the model provides those who want to fulfill the role of reasonable discussants with a series of well-defined guidelines, which may,
+though formulated on a higher level of abstraction and based on a
+more clearly articulated philosophical ideal, to a great extent be identical to the norms they would like to see observed anyway.6 For those
+who are prepared to use the model of a critical discussion as their
+
+2 Instead of, or in addition to, this pragmatic rationale, there may be an ethical rationale
+
+  for accepting (part of ) a code of conduct for reasonable discussants based on the
+  pragma-dialectical discussion procedure such as the one we are proposing in this
+  chapter.
+3 Those people who assess rules for resolving differences of opinion on their instrumen-
+
+  tal merits, and whose criterion is that in mutual cooperation the outcome that is most
+  satisfactory to both parties must be reached, can be called utilitarians. Unlike egoistics,
+  these types of utilitarians strive for the optimal result for all concerned. See Bentham
+  (1952) and Mill (1863/1972). See also van Eemeren and Grootendorst (1988).
+4 This position could be characterized as “negative utilitarianism.” Rather than
+
+  achieving the greatest possible happiness, the general aim is achieving the least possible unhappiness.
+5 See Popper (1971: chapter 5, note 6).
+6 For some first empirical evidence, see van Eemeren, Meuffels, and Verburg (2000).
+
+=== p. 189 ===
+
+guiding principle, what are the requirements the discussion attitude
+must fulfill?7 And viewing these matters from a practical perspective,
+under which circumstances are they able, and can they afford, to assume such a reasonable discussion attitude?
+    If the rules of the pragma-dialectical discussion procedure are regarded as first-order conditions for having a critical discussion, as we
+have just explained, the internal conditions for a reasonable discussion attitude can be viewed as “second-order” conditions relating to
+the state of mind the discussants are assumed to be in. To some extent, everyone who wants to satisfy the second-order conditions can
+do so, but in practice, people’s freedom is sometimes more or less
+severely limited by psychological factors that are beyond their control, such as emotional restraint and personal pressure. Besides such
+second-order conditions, there are also external, “third-order” conditions that need to be fulfilled in order to be able to conduct a critical
+discussion properly. They relate to the social circumstances in which
+the discussion takes place and pertain, for instance, to the power or authority relationships between the participants and to special features of
+the situation in which the discussion takes place.8 Together, the internal second-order conditions and the external third-order conditions
+for conducting a critical discussion in the ideal sense are higher order
+conditions for resolving differences of opinion.9 Only if these higher
+order conditions are satisfied can critical reasonableness be fully realized in practice. Compliance with second-order conditions can to
+some extent be stimulated by education that is methodically directed
+at reflection on the first-order rules and understanding their rationale.
+
+7 For this kind of person, doubt is intrinsic to his attitude to life, and criticism a way of
+
+  resolving problems. Argumentative discourse and texts are then seen as ways of tracing
+  weak spots in standpoints. Shielding standpoints from criticism (immunization) and
+  every form of fundamentalism are therefore to be opposed. This requires a nondogmatic and anti-authoritarian approach and a distrust of unshakeable principles
+  and claims to infallibility.
+8 It may even be useful to distinguish “fourth-order” conditions pertaining to what
+
+  Searle (1969) calls “normal input and output conditions” for verbal communication.
+  Since the latter conditions are not confined to argumentative discussions, they are
+  discounted here.
+9 The distinction between “first-order” conditions and the “higher-order” conditions
+
+  is in the first instance derived from Barth and Krabbe (1982: 75). In the way it is
+  presented here, it goes back to van Eemeren, Grootendorst, Jackson, and Jacobs
+  (1993: 30–34).
+
+=== p. 190 ===
+
+And the fulfillment of third-order conditions can be promoted by a
+political choice for individual freedom, non-violence, intellectual pluralism, and institutional guarantees for the right to information and
+criticism.
+
+              Ten commandments for reasonable discussants
+As we have formulated it in Chapter 6, the pragma-dialectical procedure for conducting a critical discussion is too technical for immediate
+use by ordinary discussants: It is a theoretical model for examining argumentative discourse and texts. For practical purposes, we now propose a simple code of conduct for reasonable discussants who want to
+resolve their differences of opinion by means of argumentation that
+is based on the critical insights expressed in the pragma-dialectical
+discussion procedure. This code of conduct consists of ten basic requirements for reasonable behavior, profanely referred to as the “ten
+commandments.” Instead of stating all the rules that are to be taken
+into account in a critical discussion, the commandments only list prohibitions of moves in an argumentative discourse or text that hinder
+or obstruct the resolution of a difference of opinion.
+
+Commandment 1 of the code of conduct is the freedom rule :
+
+1       Discussants may not prevent each other from advancing standpoints or
+        from calling standpoints into question.
+
+Commandment 1 is designed to ensure that standpoints, and doubt
+regarding standpoints, can be expressed freely.10 It is a necessary requirement for resolving differences of opinion, because a difference of
+opinion can never be resolved if it is not clear to the parties involved
+that a difference of opinion exists and what that difference entails.
+In an argumentative discourse or text, the parties must therefore have
+ample opportunity to make their positions known. In this way, in those
+parts of the discourse or text in which they express the difference of
+opinion, they can make sure that the confrontation stage of a critical
+discussion is properly completed. According to the code of conduct
+
+10 Commandment 1 is instrumental to complying with rules 1, 6b, and 10 of the pragma-
+
+    dialectical discussion procedure, and is also relevant to rules 2, 3, and 14.
+
+=== p. 191 ===
+
+for reasonable discussants, putting forward a standpoint and calling a
+standpoint into question are both basic rights that all discussants must
+accord each other unconditionally and without reservation.11
+
+Commandment 2 is the obligation-to-defend rule :
+
+2      Discussants who advance a standpoint may not refuse to defend this
+       standpoint when requested to do so.
+
+Commandment 2 is designed to ensure that standpoints that are put
+forward and called into question in an argumentative discourse or
+text are defended against critical attacks.12 A difference of opinion
+remains stuck in the opening stage of a critical discussion and cannot
+be resolved if the party who has advanced a standpoint is not prepared
+to fulfill the role of protagonist. According to the code of conduct,
+someone who puts forward a standpoint therefore automatically assumes the obligation to defend that standpoint if requested to do so.
+
+Commandment 3 is the standpoint rule :
+
+3      Attacks on standpoints may not bear on a standpoint that has not actually
+       been put forward by the other party.
+
+Commandment 3 is primarily designed to ensure that attacks – and,
+consequently, defenses by means of argumentation – really relate to the
+standpoint that is indeed advanced by the protagonist.13 A difference
+of opinion cannot be resolved if the antagonist actually criticizes a
+different standpoint and, as a consequence, the protagonist defends a
+different standpoint. A genuine resolution of a difference of opinion is
+not possible if an antagonist or a protagonist distorts the original standpoint in any way whatsoever. The third commandment of the code
+
+11 By way of illustration, it may be added that to satisfy the first-order condition entailed
+
+   in this commandment, the second-order condition – that the participants in the
+   discussion are prepared to express their opinions and to listen to the opinions of
+   others – must be fulfilled. In fairness, this attitude can only be assumed to exist if the
+   third-order condition – that the social reality in which the discussion takes place is
+   such that the participants are entirely free to put forward their views – is fulfilled.
+12 Commandment 2 is instrumental to complying with rule 3 of the pragma-dialectical
+
+   discussion procedure, and is also relevant to rules 2, 4, and 12.
+13 Commandment 3 is primarily instrumental to complying with rule 2 of the pragma-
+
+   dialectical discussion procedure, and is also relevant to rules 14c and 15.
+
+=== p. 192 ===
+
+of conduct, together with the fourth, are intended to ensure that the
+attacks and defenses carried out in those parts of an argumentative
+discourse or text that represent the argumentation stage of a critical
+discussion are correctly related to the standpoint that the protagonist
+has advanced.
+
+Commandment 4 is the relevance rule :
+
+4      Standpoints may not be defended by non-argumentation or argumentation that is not relevant to the standpoint.
+
+Commandment 4 is designed to ensure that the defense of standpoints
+takes place only by means of relevant argumentation.14 If the argumentation stage of a critical discussion is not properly passed through, the
+standpoint at issue will not be assessed on its merits.15 The difference
+of opinion that is at the heart of an argumentative discourse or text
+cannot be resolved if the protagonist does not put forward any argumentation, but substitutes only rhetorical devices such as pathos or
+ethos for logos instead, or advances arguments that are irrelevant to the
+defense of the standpoint that has been advanced but pertain to some
+other standpoint that is not at issue.16
+
+Commandment 5 is the unexpressed-premise rule :
+
+5      Discussants may not falsely attribute unexpressed premises to the other
+       party, nor disown responsibility for their own unexpressed premises.
+
+Commandment 5 ensures that every part of the protagonist’s argumentation can be critically examined by the antagonist as part of the
+argumentation that is advanced in a critical discussion – including
+
+14 Commandment 4 is instrumental to complying with rule 6, and especially its subsec-
+
+   tions a and c, of the pragma-dialectical discussion procedure, and is also relevant to
+   rule 8.
+15 Referring once more to the higher-order conditions: To satisfy the first-order condi-
+
+   tion entailed in this commandment, the second-order condition that a person who
+   has advanced a standpoint must be willing to provide arguments for that standpoint
+   must be fulfilled. Also, the third-order condition – that the standpoint and arguments
+   are not dictated by a superior – has to be satisfied.
+16 This is not to say that advancing argumentation cannot be combined with, or even
+
+   include, the use of pathos and ethos, or that relevant arguments cannot be suggested
+   by, or even implied in, apparently irrelevant arguments.
+
+=== p. 193 ===
+
+those parts that have remained implicit in the discourse or text.17 A difference of opinion cannot be resolved if the protagonist tries to evade
+his obligation to defend an unexpressed premise, or if the antagonist
+misrepresents an unexpressed premise – for example, by exaggerating
+its scope. If the difference of opinion is to be resolved, the protagonist
+must accept responsibility for the elements that he has left implicit in
+the discourse or text, and in reconstructing as part of a critical discussion what the protagonist has left unexpressed, the antagonist must
+try as accurately as possible to determine what the protagonist can be
+held to.
+
+Commandment 6 is the starting-point rule :
+
+6      Discussants may not falsely present something as an accepted starting
+       point or falsely deny that something is an accepted starting point.
+
+Commandment 6 is intended to ensure that when standpoints are
+being attacked and defended, the starting point of the discussion is
+used in a proper way.18 In order to be able to resolve a difference
+of opinion, the protagonist and the antagonist must know what their
+common starting point is. A protagonist or an antagonist may not
+present something as an accepted starting point if it is not. Neither
+may a party deny that something is an accepted starting point if it is
+so. Otherwise it is impossible for a protagonist to defend a standpoint
+conclusively – and for an antagonist to attack that standpoint successfully – on the basis of agreed premises that can be viewed as concessions
+made by the other party.
+
+Commandment 7 is the validity rule :
+
+7      Reasoning that in an argumentation is presented as formally conclusive
+       may not be invalid in a logical sense.
+
+Commandment 7 is designed to ensure that protagonists who resort
+to formal reasoning in resolving a difference of opinion use only
+
+17 Commandment 5 is instrumental to complying with rules 8 and 9 of the pragma-
+
+    dialectical discussion procedure.
+18 Commandment 6 is primarily instrumental to complying with rules 5 and 7 of the
+
+    pragma-dialectical discussion procedure.
+
+=== p. 194 ===
+
+reasoning that is valid in a logical sense.19 It is possible for the antagonists and protagonists to determine whether the standpoints that
+are defended in a discourse or text do indeed follow logically from
+the argumentation that is advanced only if the reasoning that is used
+in the argumentation is expressed in full. If not every part of the reasoning has been fully externalized, a reconstruction of the implicit
+elements is called for in an analysis of the argumentative discourse or
+text. When such a reconstruction is carried out, however, in certain
+cases Commandment 7 may prove not to apply because in view of the
+communicative situation at hand, a further, and more drastic, reconstruction is required that involves adding an unexpressed premise that
+goes beyond the “logical minimum” and renders Commandment 7
+irrelevant.20
+
+Commandment 8 is the argument scheme rule :
+
+8      Standpoints may not be regarded as conclusively defended by argumentation that is not presented as based on formally conclusive reasoning if
+       the defense does not take place by means of appropriate argument schemes
+       that are applied correctly.
+
+Commandment 8 is designed to ensure that standpoints can indeed be conclusively defended by arguments that are not presented
+as logically valid if the protagonist and the antagonist are agreed
+on a method to test the soundness of the types of arguments
+
+19 Commandment 7 pertains to rules 8 and 9 of the pragma-dialectical discussion pro-
+
+   cedure. Of course, what is meant by valid in a logical sense can be interpreted in
+   different ways, depending on the logical theory that is taken as the starting point. It
+   is an interesting academic question as to what logical theory provides the best starting point, but we cannot deal with this question in the context of this discussion of
+   a practical code of conduct.
+20 For the pragma-dialectical analysis of unexpressed premises, see van Eemeren and
+
+   Grootendorst (1992: 60–72). According to this method, identifying an unexpressed
+   premise involves first validating the reasoning as an intermediary heuristic step in
+   the reconstruction procedure and then determining the “pragmatic optimum” that
+   may in the context concerned be regarded as the unexpressed premise (which can
+   result in an argument that is, strictly speaking, not logically valid). Largely as a result
+   of Erik C.W. Krabbe’s useful comments in describing the reconstruction procedure
+   in this way, and in phrasing Commandment 7 in the way we did, we deviate in some
+   respects from recent descriptions as given in van Eemeren, Grootendorst, and Snoeck
+   Henkemans (2002: chapter 4).
+
+=== p. 195 ===
+
+concerned.21 A difference of opinion can only be resolved if the
+antagonist and the protagonist agree on how to determine whether
+the protagonist has adopted appropriate argument schemes and has
+applied them correctly.22 This implies that they must examine whether
+the argument schemes that are used are, in principle, admissible in
+the light of what has been agreed upon in the opening stage, and
+whether they have been correctly fleshed out in the argumentation
+stage.
+
+Commandment 9, bearing on the concluding stage, is the concluding
+rule:
+
+9       Inconclusive defenses of standpoints may not lead to maintaining these
+        standpoints, and conclusive defenses of standpoints may not lead to
+        maintaining expressions of doubt concerning these standpoints.
+
+Commandment 9 is designed to ensure that the protagonists and the
+antagonists correctly ascertain the outcome in the concluding stage
+of the discussion.23 This is a necessary, though sometimes neglected,
+part of analyzing and evaluating argumentative discourses or texts as a
+critical discussion. A difference of opinion is resolved only if the parties
+are in agreement that the defense of the standpoints at issue has been
+successful or has not been successful. A discussion that seems to have
+run without any hitches is still unsatisfactory if at the end a protagonist
+unjustly claims to have successfully defended a standpoint, or even that
+he has now proved that the standpoint is true. The discussion ends
+in an equally unsatisfactory manner if an antagonist unjustly claims
+that the defense has not been successful, or even that the opposite
+standpoint is now proven.
+
+Commandment 10 is the general language use rule :
+10        Discussants may not use any formulations that are insufficiently clear
+          or confusingly ambiguous, and they may not deliberately misinterpret
+          the other party’s formulations.
+
+21 Commandment 8 pertains to rules 8 and 9 of the pragma-dialectical discussion
+
+     procedure.
+22 See van Eemeren and Grootendorst (1992: 94–102).
+23 Commandment 9 is instrumental to complying with rule 14 of the pragma-dialectical
+
+     discussion procedure.
+
+=== p. 196 ===
+
+Commandment 10 is designed to ensure that misunderstandings arising from unclear, vague, or equivocal formulations in the discourse
+or text are avoided.24 A difference of opinion can only be resolved if
+each party makes a real effort to express his intentions as accurately
+as possible in a way that minimizes the chances of misunderstanding.
+Equally, a difference of opinion can only be resolved if each party
+makes a real effort not to misinterpret any of the other party’s speech
+acts. Problems of formulation or interpretation may otherwise lead to
+a “pseudo-difference” of opinion or a “pseudo-resolution” of a difference of opinion. Problems of formulation and interpretation are not
+confined to a specific stage in the resolution process; they can occur
+at any stage of a critical discussion.
+
+24 Commandment 10 is instrumental to complying with rule 15 of the pragma-dialectical
+
+  discussion procedure and is also relevant to rule 13.
+

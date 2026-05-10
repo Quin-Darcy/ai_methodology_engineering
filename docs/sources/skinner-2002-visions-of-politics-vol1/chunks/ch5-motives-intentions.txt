@@ -1,0 +1,509 @@
+=== chunk: skinner-2002-visions-of-politics-vol1/ch5-motives-intentions ===
+title: Motives, intentions and interpretation
+source_pdf: docs/sources/skinner-2002-visions-of-politics-vol1/full.pdf
+pdf_pages: 108-120
+page_scheme: pdf
+plan_page_start: 108
+plan_page_end: 120
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 108 ===
+
+                Motives, intentions and interpretation
+
+                                                I
+
+We live in post-modern times (I am not the first to notice this) and one of
+the more challenging features of post-modern culture has been a deepened scepticism about the traditional humanist project of interpreting
+texts. Given this development, it seems well worth asking anew how far
+it remains defensible to speak — as I have done with some confidence
+in chapter 4 — of recovering the motives and intentions of authors, of
+ascribing particular meanings to their utterances, and of distinguishing
+acceptable from unacceptable readings of literary or philosophical texts.
+This is the far from modest task on which I shall now attempt to make
+a modest start.
+
+                                                II
+
+It is not difficult in retrospect to pick out a number of different schools of
+thought that converged on the conclusion that questions about authors,
+intentions and the meanings of texts ought no longer to be asked. ‘The
+exponents of the New Criticism spearheaded an influential attack on the
+idea of recovering authorial intentionality when they declared that any
+such project will inescapably involve us in a fallacious form of reasoning. As Wimsatt and Beardsley proclaimed in their classic article on the
+alleged intentional fallacy, ‘the design or intention of the author is neither
+available nor desirable’ as a guide to recovering the meaning of a literary
+text.’ Soon afterwards a yet more lethal attack was launched by Roland
+Barthes and Michel Foucault when they jointly announced the death of
+ This chapter is partly based on my article ‘Motives, Intentions and the Interpretation of Texts’
+ in New Literary History 3 (1972), pp. 393-408 and partly on my article ‘From Hume’s Intentions to
+ Deconstruction and Back’ in The Journal of Political Philosophy 4 (1996), pp. 142-54.
+* Wimsatt and Beardsley 1976, p. 1. This classic article, often republished, originally appeared in
+  the Sewanee Review in 1946. Cf. also Wimsatt 1954, Beardsley 1958 and Beardsley 1970.
+
+                                               gO
+
+=== p. 109 ===
+
+                         Motwwes, intentions and interpretation                            QI
+
+the author, thereby burying the time-honoured dwelling-place of motives
+and intentionality.’ But by far the most damaging campaign was opened
+in the late 1960s and early 1970s by Jacques Derrida when he began to
+argue that the very idea oftextual interpretation is a mistake, since there
+are no such readings to be gained. There are only misreadings, since it is
+an error to suppose that we can ever arrive unambiguously at anything
+recognisable as the meaning of a text.3
+    A number of different senses of ‘meaning’ were frequently run together in the course ofthese sceptical attacks. At least three discriminable
+senses of the term appear to be in play, and we need to begin by trying
+if possible to prise them apart. The first is that to ask about meaning in
+this context may be equivalent to asking: what do the words mean, or
+what do certain specific words or sentences mean, in a given text? (I shall
+call this meaning,. ) It seems to be meaning, that Wimsatt and Beardsley
+principally have in mind in their essay on the intentional fallacy. They
+speak of explicating ‘the meaning of a poem’ by way of ‘our habitual
+knowledge of the language, through grammars, dictionaries’ and so on,
+and when they turn to discuss a poem by T. S. Eliot they concentrate
+on the need to decode ‘the meaning of phrases in the poem’.+ More
+recently, Beardsley has reiterated that the proper task of literary critics
+is to concentrate on examining ‘textual meaning’, the meaning of the
+words in front of us, not the supposed intentions of those who originally
+wrote them.°
+    When Derrida speaks about the irrecoverability of meaning, he likewise seems in general to be talking about meaning,. He associates the
+attempted recovery of meaning with what he calls logocentrism, the belief that meanings originate in the world and are conveyed to us by the
+capacity of words to refer to things. This belief is said to give rise, in his
+Heideggerian phrase, to a metaphysics of presence; to the illusion that
+the truth about the world can be made present to the mind through the
+medium of a denotative language. ‘The unavailability of such meanings
+stems from the fact that the terms we employ to signify things not only
+fail to do so univocally but float apart from what is purportedly signified
+until they come to exist in a state of free play. ‘The alleged meanings
+of such signifiers are deferred until they ultimately disappear and are
+replaced by a state of pure intertextuality.° Here it seems moderately clear
+that we are talking about meaning,. As one of Derrida’s Anglophone
+     ? Barthes 1979, pp. 73-8; Foucault 1979, pp. 141-60.     3 Derrida 1976, pp. 6-100.
+     4 Wimsatt and Beardsley 1976, pp. 6, 11.     5 Beardsley 1992, p. 33.
+     ® See Derrida 1976, pp. 6-73 and cf. Derrida 1978, pp. 278-82.
+
+=== p. 110 ===
+
+admirers has more crudely put it, the crucial contention is that the words
+we employ to refer to things lack ‘fixed meanings’.’
+   By contrast with meaning, , we may instead be asking: what does this
+text mean to me? (I shall call this meaning,.)This is the sense that exponents of the New Criticism usually seem to have in mind when they speak
+about ‘structures of effects’ and the need to concentrate on assessing
+their impact on the reader. The same preoccupation with meaning,
+appears to underlie the phenomenological approach to literary criticism.
+When Wolfgang Iser, for example, speaks of the reading process as a
+‘realisation’ of the text ‘accomplished by the reader’, he seems to be
+mainly preoccupied with meaning,, especially when he argues that ‘one
+must take into account not only the actual text but also, and in equal
+measure, the actions involved in responding to that text’.®
+   The theorists who have made it most evident that they are primarily
+interested in meaning, are those who have developed the insights of the
+phenomenologists into what has come to be called a reader-response approach to interpretation. One eminent exponent has been Paul Ricoeur,
+especially in his Hermeneutics and the Human Sciences. Ricoeur concedes that
+texts may well have pristine intended meanings, but he stresses that over
+the course of time, as well as because of the polysemic and metaphorical features of language, any text will acquire ‘an autonomous space
+of meaning which is no longer animated by the intention of its author’.9
+Ricoeur’s principal suggestion is that interpreters should concentrate
+on these changing public meanings of texts, rather than on the meanings that their original authors may have intended to assign to them.
+‘What the text says now matters more than what the author meant to
+say’,"° so that the act of interpretation should be viewed as equivalent
+to asking what the text now means for us, and hence as equivalent to
+appropriating it for our own purposes."
+   An even more enthusiastic exponent of the reader-response approach
+has been Stanley Fish, especially in his collection of essays entitled
+Ts There a Text in this Class? Fish makes it very clear that he is basically
+concerned with what I am calling meaning,, especially when he announces at the outset that ‘the reader’s response is not fo the meaning;
+it s the meaning’ of a literary text.'* Developing this insight, Fish thinks
+of readers so entirely as the sources of meaning that he writes of them as
+creators of all the information normally assumed by traditional theories
+ 7 Harlan 1989, p. 582.    8 Iser 1972, p. 279.  9 Ricoeur 1981, p. 174.
+© Ricoeur 1981, p. 201.     On interpretation as appropriation see Ricoeur 1981, pp. 145-64.
+* Fish 1980, p. 3.
+
+=== p. 111 ===
+
+of interpretation to be embodied in texts. The act of interpretation is
+seen in consequence as ‘the source oftexts, facts, authors and intentions’;
+the only meanings we can hope to recover are the meanings we create."3
+  Rather than asking about meaning,                 or meaning,, we may instead
+be asking: what does a writer mean by what he or she says in a given
+text? (I shall call this meaning,.) Sometimes it appears to be this sense
+of meaning that Wimsatt and Beardsley have in mind in their purported
+exposure of the intentional fallacy. When they speak about ‘the pursuit
+of full meanings’ in the course of discussing the problem of allusiveness,
+they maintain that the question to be answered is ‘what a poet means’
+by what he or she has said. And when they bring their article to a close
+by contrasting ‘the true and objective way of criticism’ with ‘the way of
+genetic and biographical inquiry’, the question they leave us to ponder
+is which method is to be preferred if our aim in studying a poet is to
+understand ‘what he meant’.
+   Sometimes it is similarly clear that meaning, is what Derrida has in
+mind when he writes about the impossibility of recovering the meanings of texts. This certainly seems to be the case in the much-discussed
+example he offers of a fragment, found among Nietzsche’s papers, which
+reads ‘I have forgotten my umbrella.”!° Even Derrida is willing to concede that in this instance there seems no difficulty about recovering what
+Iam calling meaning, , the meaning of the sentence itself. As Derrida remarks, ‘Everyone knows what “I have forgotten my umbrella” means.’”
+Derrida’s objection is that we are still left without any means of recovering what I am calling meaning,, that is, of recovering what Nietzsche
+may have meant by writing just those words.'® Perhaps, as Derrida concludes, he may have meant nothing at all. Derrida’s point is that we have
+no means of knowing, since we have no means of recovering meanings,
+and hence no prospect of understanding what (if anything) Nietzsche
+may have meant.
+
+                                            Ill
+
+My aim in this ground-clearing chapter is to assess how much attention,
+if any, we should pay to the motives and intentions of writers in seeking
+
+  '3 Fish 1980, p. 16.     ‘4 Wimsatt and Beardsley 1976, p. 10.
+  9 Wimsatt and Beardsley 1976, p. 13.
+  '© Derrida 1979, pp. 122, 123. For a valuable discussion see Hoy 1985, pp. 54-8.
+  7 Derrida 1979, p. 128: ‘Chacun comprend ce que veut dire “j’ai oublié mon parapluie”.’
+  '8 Derrida 1979, pp. 123, 125, 131.
+
+=== p. 112 ===
+
+to interpret the meaning of what they write. So far I have focused on
+a number of confusions attending the discussion of ‘meaning’ in these
+debates. I now turn to the other side of the coin, examining the various arguments that have been put forward in defence of the claim that
+we should pay no attention to motives or intentions in arriving at our
+readings of texts.
+   Two main types of argument can be distinguished. One is concerned
+with the need for purity in critical procedures, and thus with the claim
+that, even if it may be possible to discover such essentially biographical information about a writer, we must never allow such information to
+condition and so contaminate our response to their work. Hence it is that
+Wimsatt and Beardsley stigmatise the desire to consider anything other
+than the information provided by the text itself as a ‘romantic fallacy’.'9
+The claim, as one commentator on their theory has expressed it, is that
+all works of art must be ‘self-explicatory’. We are merely registering
+‘a failure of art and criticism’ if we make use of extraneous information
+of an historical or biographical kind.’° As Wimsatt and Beardsley themselves declare, what we must deal with is simply ‘the text itself”.*'
+     The other and more prominent argument, however, derives from two
+contrasting (indeed incompatible) claims often made about the concepts
+of motive and intention themselves. One claim has been that the reason
+why critics should pay no attention to such factors is that the motives
+and intentions of writers are to be found ‘inside’ their texts, not separate
+from them, and accordingly stand in need of no separate consideration.
+This is one of the main grounds on which Wimsatt and Beardsley argue
+for the irrelevance of intentionality. They ask how a critic can ‘find out
+what the poet tried to do’ and answer that ‘if the poet succeeded in
+doing it, then the poem itself shows what he was trying to do’.** ‘The
+same view has been adopted by a number of more recent commentators
+on the so-called intentional fallacy. ‘I. M. Gang, for example, insists that
+‘whenever something is plainly and unambiguously said, it hardly makes
+sense to ask the speaker what he intended his words to signify’.*? Graham
+Hough agrees that ‘with a completely successful poem all is achievement,
+and the question of a separately conceivable intention does not arise’.*4
+   The other (and incompatible) claim has been that, on the contrary, it
+is because motives and intentions stand ‘outside’ a writer’s works, and
+accordingly form no part of their structure, that critics should pay no
+          '9 Wimsatt and Beardsley 1976, pp. 3, 12.      *° Morris Jones 1964, p. 14.0.
+         *t Wimsatt and Beardsley 1976, p. 9.       ** Wimsatt and Beardsley 1976, p. 2.
+         23 Gang 1957, p. 178.     *+ Hough 1966, p. 60.
+
+=== p. 113 ===
+
+                           Motwwes, intentions and interpretation                                  95
+
+attention to them in attempting to elucidate the meanings oftexts. This
+second argument, however, has often been mounted in a somewhat confused way. At least three different reasons have been given for supposing
+that it follows from the way in which a writer’s motives and intentions
+stand ‘outside’ their works that they must be irrelevant to the activity of
+interpretation. We need to begin by trying to disentangle them.
+   One contention has been that motives and intentions are simply impossible to recover. ‘They are ‘private entities to which no one can gain
+access’.*) ‘This is the first argument advanced by Wimsatt and Beardsley,
+who rhetorically ask ‘how a critic expects to get an answer to the question about intention’, and respond that such an awareness of ‘design
+or intention’ is simply not available.?° The same commitment underlies a nunaber of more recent contributions to the debate. We are told
+that ‘intention is really unknowable’*’ and thus that literary critics and
+intellectual historians find themselves confronting an ‘inevitable uncertainty about mental processes’.?® They will be deceiving themselves if
+they suppose that they can ever ‘project themselves into the minds of
+their authors’ in such a way as to recover the intentions with which they
+wrote.*9
+   A second contention has been that, while it may be possible to recover
+such motives and intentions, to pay attention to such information will be
+to furnish an undesirable standard for measuring the value ofa literary or
+philosophical work. Wimsatt and Beardsley shift somewhat inconsistently
+to this ground at the outset of their discussion, arguing that a knowledge
+of a writer’s intentions is not ‘desirable as a standard for judging the
+success of a work of literary art’.3° ‘The same commitment recurs in a
+number of more recent presentations of the anti-intentionalist case. We
+are told, for example, that ‘the problem is how far the author’s intention
+in writing a work is relevant to the critic’s judgement on it’3'and we
+are warned that a concern about intention may affect the response of a
+reader in an undesirable way.?”
+   A third contention has been that, while it may be possible to recover
+a writer’s motives and intentions, it will never be relevant to pay attention
+to this type of information if the aim is to establish the meaning of a text.
+Wimsatt and Beardsley eventually shift to this further position, declaring
+that their sole concern 1s with ‘the meaning of a poem’ and that the
+
+25 See Aiken 1955, p- 752 for a discussion (but not an endorsement) of this argument.
+26 Wimsatt and Beardsley 1976, pp. 1-2.        *7 Smith 1948, p. 625.      28 Gang 1957, p. 179.
+°*9 Harlan 1989, p. 587.     3° Wimsatt and Beardsley 1976, pp. 1-2.       3! Gang 1957, p. 175.
+3? Smith 1948, p. 625.
+
+=== p. 114 ===
+
+poet’s state of mind is a wholly separate matter.39 A similar commitment
+has sometimes underpinned the phenomenological and, more generally,
+the reader-response approach to the interpretation of texts. As we have
+seen, a theorist like Ricoeur does not doubt that texts have ‘pristine’
+and intended meanings; he merely regards their recovery as a matter of
+secondary importance by contrast with the primary and more interesting
+task of investigating the ‘public meanings’ they subsequently come to
+acquire.
+
+                                           IV
+
+I am now in a position to ask whether any of the above arguments
+succeeds in establishing, for any of the senses of ‘meaning’ I have discriminated, that the motives and intentions of writers can and ought to
+be ignored in attempting to recover the meanings of their texts. The first
+argument I considered — stemming from the desire to maintain purity in
+our critical procedures — appears to rest on a confusion. It may be that a
+knowledge ofa writer’s motives and intentions is irrelevant to elucidating
+‘the meaning’ of their works in every sense of ‘meaning’ I have discriminated. But it does not follow that critics ought — or can hope — to ensure
+that this knowledge plays no role in helping to determine their response
+to that writer’s work. To know about motives and intentions is to know
+the relationship in which a writer stands to what he or she has written.
+To know about intentions 1s to know such facts as whether the writer was
+joking or serious or ironic, or in general what speech acts they may have
+been performing in writing what they wrote. To know about motives is
+to know what prompted those particular speech acts, quite apart from
+their character and truth-status as utterances. Now it may well be that to
+know, say, that a certain writer was largely motivated by envy and resentment tells us nothing about ‘the meaning’ of their works. But once a critic
+possesses such knowledge it can hardly fail to condition their response
+to the work. ‘The discovery, say, that a work was written not out of envy
+or resentment, but out of a simple desire to enlighten and amuse, seems
+virtually certain to engender a new and different response to it. This may
+or may not be desirable, but it seems to some degree inevitable.34
+    I now turn to the various arguments derived from analysing the concepts of motive and intention themselves. The first — to the effect that
+it is impossible to recover such mental acts — gains its plausibility from
+
+33 Wimsatt and Beardsley 1976, pp. 6-9.   34 A point well brought out in Cioffi 1976, pp. 70-3.
+
+=== p. 115 ===
+
+ignoring the extent to which the intentions embodied in any successful
+act of communication must, ex hypothest, be publicly legible. Suppose that
+(to adapt an example from Wittgenstein) I come to understand that the
+man waving his arms in the next field is not trying to chase away a fly, as
+I had initially supposed, but is warning me that the bull is about to
+charge. ‘To come to recognise that he is warning me is to come to
+understand the intentions with which he is acting. But to recover these
+intentions is not a matter of identifying the ideas inside his head at the
+moment when he first begins to wave his arms. It is a matter of grasping
+that arm-waving can count as warning, and that this is the convention
+being exploited in this particular case. This makes it seriously misleading to characterise such intentions as ‘private entities to which no one
+can gain a¢cess’.35 To the extent that the meanings of such episodes can
+be intersubjectively understood, the intentions underlying such performances must be entities with an essentially public character. As Clifford
+Geertz has finely remarked, ideas are ‘envehicled meanings’; pa are
+not, and have not been for some time, unobservable mental stuff’.3
+   I turn to the second argument, which seems to embody a misstatement.
+It would clearly be a mistake to suppose that a knowledge of a writer’s
+motives or intentions could ever supply a standard for judging the merit
+or success of their work. As Frank Cioffi has remarked in a similar context,
+it certainly will not do for a writer to assure a critic that he intended to
+produce a masterpiece.%” ‘The third argument, by contrast, seems at least
+partly correct. I shall concede, that is, that even if it may not be true in
+the case of a writer’s intentions,it may well be true in the case of his or
+her motives, that they may be said to stand ‘outside’ their works in such
+a way that the recovery of such motives will be irrelevant — for all the
+senses of ‘meaning’ I have discriminated — to an understanding of the
+meaning of their works.
+  This last claim rests, however, on a distinction between motives and
+intentions which has not usually been made explicit in the debate about
+the so-called intentional fallacy, but which my argument now requires
+me to spell out. It has certainly been a striking and unsatisfactory feature
+of the debate that, although most commentators have focused on intentionality, they have generally taken it for granted that everything they
+say about intentions will hold good for motives as well.3° It seems to me,
+however, that it is indispensable to distinguish motives from intentions
+
+        35 Aiken 1955, p- 752-    3° Geertz 1980, p. 135.    37 Cioffi 1976, p. 57.
+        38 A point well made in Morris Jones 1964, p. 143.
+
+=== p. 116 ===
+
+in relation to questions about interpretation, and I shall next attempt to
+suggest how this distinction might most fruitfully be understood.*9
+   To speak of a writer’s motives seems invariably to speak of a condition
+antecedent to, and contingently connected with, the appearance oftheir
+works. But to speak of a writer’s intentions may either be to refer to a
+plan or design to create a certain type of work (an intention to do x)
+or else to refer to an actual work in a certain way (as embodying a
+particular intention in x-ing). In the former case we seem (as in talking
+about motives) to be alluding to a contingent antecedent condition of
+the appearance of the work. But in the latter we seem to be alluding to
+a feature of the work itself. Specifically, we seem to be characterising it
+in terms of its embodiment of a particular aim or intention, and thus in
+terms of its having a particular purpose or point.
+   We can conveniently corroborate this claim by borrowing the jargon
+invented by philosophers of language to discuss the logical relations between the concepts of intention and meaning. They have concentrated
+on the fact (following J. L. Austin’s classic analysis) that to issue any serious utterance is always to speak not only with a certain meaning but also
+with what Austin dubbed a certain illocutionary force.4° When we issue
+a meaningful utterance, we may succeed at the same time in performing
+such illocutionary acts as promising, warning, entreating, informing and
+so on. Austin’s usual way of putting the point was to say that gaining
+‘uptake’ of the illocutionary force of an utterance will be equivalent to
+understanding what the speaker was domg in issuing it.*' But another way
+of putting the point — crucial to my present argument — would be to say
+that an understanding of the illocutionary act performed by a speaker
+will be equivalent to understanding their primary intentions in issuing
+their utterance.
+    I turn to the significance for my present argument of these distinctions
+between motives and intentions, with the resulting isolation of the idea of
+an intention 7m speaking or writing with a certain force. These distinctions,
+it seems to me, lend strong support to the suggestion that the recovery of
+motives 1s indeed irrelevant to the activity of interpreting the meanings
+of texts. When we speak, that is, about a writer’s motives for writing
+(although not their intentions i writing) we do indeed appear to be
+speaking of factors standing ‘outside’ their work, and in a contingent
+
+39 Tam indebted to Anscombe 1957 and Kenny 1963, two classic discussions in which the concepts
+   of motive and intention are distinguished along similar lines. For a (partial) endorsement of my
+   deployment of these distinctions see Hancher 1972, esp. pp. 836n. and 842—3n.
+4° Austin 1980, pp. 98-108.      4° Austin 1980, p. 94 et passim.
+
+=== p. 117 ===
+
+relationship to it, in such a way that they can hardly be said to affect the
+meaning of the work itself.
+   If, however, we recall the other (and incompatible) claim usually made
+by literary theorists about the concepts of motive and intention, it might
+appear that I have already committed myself to saying that this conclusion holds good for the concept of intention as well. I have argued that
+we may speak of a writer’s intentions in writing, and of these intentions as
+being in some sense ‘inside’ their texts, rather than ‘outside’ and contingently connected with their appearance. According to the first argument
+I cited, however, it is precisely because a writer’s intentions are ‘inside’
+their texts that, we are told, the critic need pay no special attention to
+their recovery in the attempt to interpret the meaning of their work.
+    This contention, however, rests on conflating two different sorts of
+question we might wish to ask about a writer’s intentions. It will be
+convenient to revert to the jargon of the philosophers of language by
+way of making the point. On the one hand, we may wish to ask about
+the perlocutionary intentions embodied in a work.** We may wish, that
+is, to consider whether it may have been intended to achieve a certain
+effect or response such as (to take a well-worn example) that of inducing
+in the reader a feeling of sadness.*3 But on the other hand we may wish,
+as I have suggested, to ask about a writer’s ilocutionary intentions as
+a means of characterising their work. We may wish, that is, to ask not
+whether they achieved what they intended to achieve, but rather what
+their exact intentions were im writing what they wrote.
+    This brings me to my central contention about the relations between
+a writer’s intentions and the meaning of a text. On the one hand, I shall
+concede that a writer’s perlocutionary intentions (what they may have
+intended 6y writing in a certain way) do not need to be further considered. They do not seem to need any separate study, since the question
+of whether a work was intended by its author, say, to induce a feeling of sadness in the reader does seem to be capable of being settled
+(if at all) only by considering the work itself and such clues about its intended effects as may be contained within it. On the other hand, I now
+wish to argue that in the case of a writer’s illocutionary intentions (what
+they may have intended z writing in a certain way) their recovery does
+require a separate form of study, which it will be essential to undertake
+if the critic’s aim is to understand the meaning of what they wrote.
+42 For the introduction of the concept of perlocutionary effects see Austin 1980, pp. 99, 101-2.
+43 Gang 1957, p. 177. Richards 1929, esp. pp. 180-3 appears to have been influential in directing
+   attention towards these types of intentional effects.
+
+=== p. 118 ===
+
+   If this contention is to be made good, however, I now need to revert
+to the three senses of ‘meaning’ I began by discriminating in order to
+determine how the sense of intentionality I have now isolated may be
+relevant to understanding ‘the meaning’ of a text.
+   If we turn first to meaning,, it must be conceded that an understanding of a writer’s illocutionary intentions scarcely seems relevant to
+understanding the meanings of texts in this sense. To say this is not to
+take sides on the immense and immensely difficult question of whether
+our statements about the meanings of words and sentences may not
+ultimately be reducible to statements about someone’s intentions. It is only
+to assert the truism that questions about the meanings of the words and
+sentences I use cannot be equivalent to questions about my intentions in
+using them.*#
+   If we turn next to meaning,, it must again be conceded that an understanding of a writer’s intentions in writing scarcely seems relevant to this
+sense of the meaning of a text. It seems clear, that is, that the question of
+what a literary or philosophical work may mean to a given reader can be
+settled quite independently of any considerations about what its creator
+may have intended.
+   If we turn to meaning,, however, it seems possible to establish the
+closest possible connection between the intentions of writers and the
+meanings of their texts. For it seems that a knowledge of a writer’s intentions in writing, in the sense I have sought to isolate, is not merely
+relevant to, but equivalent to, a knowledge of the meaning, of what they
+write. The stages by which I arrive at this conclusion will by now be clear.
+To gain ‘uptake’ of these intentions 1s equivalent to understanding the
+nature and range of the illocutionary acts that the writer may have been
+performing in writing in a particular way. As I have suggested, to recover
+such intentions is to be in a position to characterise what the writer was
+doing ~ is to be able to say that he or she must have been intending, for
+example, to attack or defend a particular line of argument, to criticise or
+contribute to a particular tradition of discourse, and so on. But to be able
+to characterise a work in such a way, in terms of its intended illocutionary
+force, is equivalent to understanding what the writer may have meant by
+writing in that particular way. It is equivalent, that is, to being able to say
+that he or she must have meant the work as an attack on, or a defence of, as
+a criticism of, or as a contribution to, some particular attitude or line of
+argument, and so on. And so the equivalence between these intentions
+
+               44 For a survey of these issues see Strawson 1971, pp. 170-89.
+
+=== p. 119 ===
+
+                       Motwes, intentions and interpretation                     101
+
+in writing, and the meaning, of what is written, is established. For as
+I have already indicated, to know what a writer meant by a particular
+work zs to know what his or her primary intentions were in writing it.
+   I wish finally to protect my thesis from two possible misinterpretations.
+My argument must first be distinguished from the much stronger claim
+often advanced to the effect that the recovery of these intentions, and
+the decoding of the ‘original meaning’ intended by the writer, must form
+the whole of the interpreter’s task.*5 It has often been suggested that ‘the
+final criterion of correctness’ in interpretation can only be provided by
+studying the original context in which the work was written.?° I have not
+been concerned, however, to lend support to this very strong version of
+what EF. W. Bateson called the discipline of contextual reading. I see no
+impropriety in speaking of a work having a meaning which its author
+could not have intended. Nor does my thesis conflict with this possibility.
+I have been concerned only with the converse point: that whatever an
+author was dog in writing what he or she wrote must be relevant to
+interpretation, and thus that among the interpreter’s tasks must be the
+recovery of the author’s intentions i writing what he or she wrote.
+   This thesis must also be distinguished from the claim that, if we are
+concerned with the intentions of authors in this way, we must be prepared
+to accept whatever statements they make about their own intentions
+as a kind of final authority on what they were doing in a particular
+work. It is true that any agent is obviously in a privileged position when
+characterising their own intentions and actions. But I see no difficulty
+about reconciling the claim that we need to be able to characterise a
+writer’s intentions if we are to interpret the meaning, of their works with
+the claim that it may sometimes be appropriate to discount their own
+accounts of what they were doing. This is not to say that we have lost
+interest in understanding such intentions as a guide to interpreting their
+works. It is only to say that a writer may not fully understand his or
+her intentions, or may be self-deceiving about recognising them, or may
+be incompetent at stating them. These are failures to which all flesh is
+perpetually heir.
+   But how are such illocutionary intentions to be recovered? I shall turn
+to this further question in the course of chapter 6, but it may be worth
+ending by gesturing at what I take to be the most crucial point. We need
+to focus not merely on the particular text in which we are interested but
+on the prevailing conventions governing the treatment of the issues or
+
+          45 See, for example, Close 1972, pp. 36-8.   4° Bateson 1953, p. 16.
+
+=== p. 120 ===
+
+themes with which the text is concerned. ‘This injunction gains its force
+from the consideration that any writer will normally be engaged in an
+intended act of communication. It follows that whatever intentions a
+writer may have, they must be conventional in the strong sense that they
+must be recognisable as intentions to uphold some particular position
+in argument, to contribute to the treatment of some particular topic,
+and so on. It follows in turn that to understand what a writer may have
+been doing in using some particular concept or argument, we need first
+of all to grasp the nature and range of things that could recognisably
+have been done by using that particular concept, in the treatment of that
+particular theme, at that particular time. We need, in short, to be ready
+to take as our province nothing less than the whole of what Cornelius
+Castoriadis has described as the social imaginary, the complete range of
+the inherited symbols and representations that constitute the subjectivity
+of an age.*/
+
+                      47 Castoriadis 1987, esp. pp. 353-73-
+

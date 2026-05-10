@@ -1,0 +1,348 @@
+=== chunk: martinich-2015-philosophical-writing/ch9-how-to-read ===
+title: How to Read a Philosophical Work
+source_pdf: docs/sources/martinich-2015-philosophical-writing/full.pdf
+pdf_pages: 223-232
+page_scheme: pdf
+plan_page_start: 223
+plan_page_end: 232
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 223 ===
+
+How to Read a Philosophical Work
+There are two reasons to include a chapter on reading in a book about
+writing well. First, everyone needs to read something in order to know
+how to write an essay. While some philosophers read more than
+others, every major philosopher since Plato has read the work of
+another philosopher before beginning to write philosophy. Second,
+one way to learn how to write is by paying attention to how a good
+writer writes. How does she structure a sentence? How do individual
+sentences fit together into a paragraph? How do the paragraphs fit
+together? What kinds of words does she use, abstract or concrete,
+precise or imprecise?
+I shall focus on reading article-length philosophical texts because their
+length is substantial but not overwhelming.
+
+1 Find the Thesis Sentence
+Ideally, an article has a thesis sentence that states what the author
+wants to prove. Ideally, the thesis sentence should come close to the
+beginning of the article. Since the thesis statement should be the main
+organizing principle for the article, it is important to identify it. The
+best way to do this is often to read the article through fairly quickly.
+Look for words that announce that the thesis is about to be stated.
+This includes such phrases as
+   In this article, I shall argue that . . .
+   The aim of this article is . . .
+   My thesis is . . .
+   I want to prove . . .
+Sometimes the thesis is introduced by some background information.
+But it should still be stated close to the beginning of the article, as it is
+in W. V. Quine’s classic article, “Two Dogmas of Empiricism.”
+
+=== p. 224 ===
+
+  [a]Modern empiricism has been conditioned in large part by two
+  dogmas. [b]One is a belief in some fundamental cleavage between
+  truths which are analytic, [c]or grounded in meanings
+  independently of matters of fact, and [d]truths which are synthetic,
+  or [e]grounded in fact. [f]The other dogma is reductionism: the
+  belief that each meaningful statement is equivalent to some logical
+  construct upon terms which refer to immediate experiences.
+  [g]Both dogmas, I shall argue, are ill-founded.
+[a] locates the article within the area of empiricism; its ending “two
+dogmas” further narrows the topics and invites a specification of what
+those dogmas are. [b]–[f] are statements of those dogmas. [b] and [d]
+introduce technical terms and they are immediately explained by [c]
+and [e]. [f] is the last sentence that provides background. Quine then
+immediately states his thesis in [g]. This opening is a masterpiece of
+clarity and economy.
+Here’s a similar example from another classic article:
+  This paper consists of two parts: the first has an expository
+  character, and the second is rather polemical.
+  In the first part I want to summarize in an informal way the main
+  results of my investigations concerning the definition of truth …
+  [The rest of this paragraph and the beginning of the next paragraph
+  have been deleted.]
+  In the second part of the paper I should like to express my views
+  concerning these objections.1
+
+ Identify the main thesis in the passage below, selected from the
+ article “Meaning,” by H. P. Grice. State the main thesis in 25 words
+ or fewer. Then state the main thesis in 35–75 words.
+ Consider the following sentences:
+    “Those spots mean (meant) measles”
+    “Those spots didn’t mean anything to me, but to the doctor they
+
+=== p. 225 ===
+
+    meant measles.”
+    “The recent budget means that we shall have a hard year.”
+    1. I cannot say, “Those spots meant measles, but he hadn’t got
+       measles,” and I cannot say, “The recent budget means that
+       we shall have a hard year, but we shan’t have.” That is to say,
+       in cases like the above, x meant that p and x means that p
+       entail p.
+    2. I cannot argue from “Those spots mean (meant) measles” to
+       any conclusion about “What is (was) meant by those spots”;
+       for example, I am not entitled to say, “What was meant by
+       those spots was that he had measles.” Equally I cannot draw
+       from the statement about the recent budget the conclusion
+       “What is meant by the recent budget is that we shall have a
+       hard year.”
+…
+Now contrast the above sentences with the following:
+    “Those three rings on the bell (of the bus) mean that the bus is
+    full.”
+    “That remark, ‘Smith couldn’t get on without his trouble and
+    strife,’ meant that Smith found his wife indispensable.”
+    1. I can use the first of these and go on to say, “But it isn’t in
+       fact full – the conductor has made a mistake”; and I can use
+       the second and go on, “But in fact Smith deserted her seven
+       years ago.” That is to say, here x means that p and x meant
+       that p do not entail p.
+    2. I can argue from the first to some statement about “what is
+       (was) meant” by the rings on the bell and from the second to
+       some statement about “what is (was) meant” by the quoted
+       remark.
+    …
+    When the expressions “means,” “means something,” “means
+    that,” are used in the kind of way in which they are used in the
+
+=== p. 226 ===
+
+  first set of sentences, I shall speak of the sense, or senses, in
+  which they are used, as the natural sense, or senses, of the
+  expressions in question. When the expressions are used in the
+  second set of sentences, I shall speak of the sense, or senses, in
+  which they are used, as the nonnatural sense, or senses, of the
+  expressions in question. I shall use the abbreviation “meansNN”
+  to distinguish the nonnatural sense or senses.
+  …
+  I do not want to maintain that all our uses of “mean” fall easily,
+  obviously, and tidily into one of the two groups I have
+  distinguished; but I think that in most cases we should be at
+  least fairly strongly inclined to assimilate a use of “mean” to one
+  group rather than to the other. The question now arises is this:
+  “What more can be said about the distinction between the cases
+  where we should say that the word is applied in a natural sense
+  and the cases where we should say that the word is applied in a
+  nonnatural sense?”
+  …
+  I want first to consider briefly, and reject, what I might term a
+  causal type of answer to the question, “What is meaningNN?”
+  We might try to say, for instance, more or less with C. L.
+  Stevenson,2 that for x to meanNN something, x must have
+  (roughly) a tendency to produce in an audience some attitude
+  (cognitive or otherwise) and a tendency, in the case of a speaker,
+  to be produced by that attitude, these tendencies being
+  dependent on “an elaborate process of conditioning attending
+  the use of the sign in communication.”3 This clearly will not do.
+  … [Several pages of criticism are omitted.]
+I will now try a different and, I hope, more promising line. If we
+can elucidate the meaning of
+  “x meantNN something (on a particular occasion)” and
+  “x meantNN that so-and-so (on a particular occasion)”
+
+=== p. 227 ===
+
+    … this might reasonably be expected to help us with
+    “x meansNN (timeless) something (that so-and-so),”
+    “A meansNN (timeless) by x something (that so-and-so ),”
+ and with the explication of “means the same as,” “understands,”
+ “entails,” and so on.
+ A first shot would be to suggest that “x meantNN something” would
+ be true if x was intended by its utterer to induce a belief in some
+ “audience” and that to say what the belief was would be to say what
+ x meantNN. This will not do.
+ … [Several pages of criticism and revised analyses are omitted.]
+ Perhaps then we may make the following generalizations:
+     1. “A meantNN something by x” is (roughly) equivalent to “A
+        intended the utterance of x to produce some effect in an
+        audience by means of the recognition of this intention …
+     2. … x meansNN (timeless) something (that so-and-so),” might
+        as a first shot be equated with some statement or disjunction
+        of statements about what “people” (vague) intend (with
+        qualifications about “recognition”) to effect by x. …
+
+Not every philosophical article has the proof of a substantive thesis as
+its goal. Some are expository; they are written to clarify issues without
+proving which of several competing views are correct. In these cases,
+the main topic of the article may be formulated as a question or set of
+questions early in the article such as this:
+  What is meaning? What is the meaning of a word? How do people
+  mean things with words? Are meanings objects or actions?
+Authors sometimes summarize their results around the middle of the
+essay. They might use expressions like this:
+  My aim so far has been to show . . .
+
+=== p. 228 ===
+
+   I have tried to show how . . .
+The most common place for philosophers to state their thesis is in the
+final section or paragraph of the article. While I think this is a bad
+practice, you need to recognize that it is a fact when you go looking for
+the thesis.
+
+2 Precision of Words, Phrases, and Sentences
+In order to understand what an author is saying, it’s necessary to
+distinguish between (i) what the author is asserting or affirming in her
+own right to be true and (ii) what she is asserting or affirming to seem
+or appear to be true. Very often, the very things that the author says
+seem or appear to be true are things that the reader will believe to be
+true. So the reader may be inclined to think that when the author says,
+   It seems to be the case that p
+   It appears that p
+the author means to assert that p when in fact the author is not
+asserting that p, but is calling attention to the appearance that it is
+true that p in order to show that really it is not the case that p.
+   It seems/appears that the sun moves around the earth. The
+   evidence for this are our own senses and the testimony of how
+   things appear to everyone we know . . . However, . . .
+Notice that somewhere following the assertion of what seems or
+appears to be the case there will be some word or phrase (“However,”
+or “This appearance is false” or “This evidence is inconclusive”) that
+indicates that what seems or appears to be the case is not.
+We should not forget, however, that sometimes what appears to be the
+case actually is the case. “This meat seems to be rancid,” “The patient
+appears to be recovering,” are sentences that express a fact that is
+consistent with the meat being rancid and the patient actually
+recovering.
+In order to distinguish between the cases of false or misleading
+appearance from the other cases of appearance, some authors will
+
+=== p. 229 ===
+
+combine the verb “seem” or “appear” with the subjunctive mood:
+   It may/might seem/appear that the sun moves around the earth.
+In these cases, it is highly likely that the author rejects the
+propositional content of the sentence. (But not always. See the next
+paragraph for an example.)
+I have been talking about verb phrases in the third person, “it
+appears/seems that” and “it may seem that” with no reference at all to
+the author. If the verbs “appear” or “seem” occur with some reference
+to the first person, as in “it appears/seems to me that,” then the import
+of the verb phrase is quite different.
+Suppose that the author is trying to throw some proposition into
+doubt. Suppose the proposition is this: “A person can pretend to do
+something purely by imagining that she is doing something.” Since the
+burden of proof always rests on the person who is asserting a
+proposition, the author, who merely finds the proposition of doubtful
+truth, does not have to prove the contradictory of it: “It is not the case
+that a person can pretend to do something purely by imagining that
+she is doing something.” To cast doubt on a proposition, it is enough
+for the author to prove, “It seems/appears to me that it is not the case
+that a person can pretend to do something purely by imagining that
+she is doing something.”
+
+3 Proving the Case
+After identifying the main thesis of the article, the reader should try to
+figure out how the author proves his case. Philosophers often give the
+impression that their primary modes of reasoning are analysis and
+deductive argumentation. But there are at least two other modes that
+are probably equally important.
+One I’ll call “insight.” Plato, Thomas Hobbes, Søren Kierkegaard, and
+Friedrich Nietzsche are four philosophers who are often insightful. An
+insight is an observation that is easy to understand once it is pointed
+out; but it is one that people tend not to think of themselves, even
+though it illuminates or clarifies something important. Here are four
+examples. (1) Plato wrote that it is better to suffer an injustice than to
+
+=== p. 230 ===
+
+do an injustice (because it is unjust to do an injustice). Think about the
+many people who act unjustly to prevent what they think is an
+impending injustice against them. Similarly, one may not do evil so
+that good may come of it (because it is evil to do evil). (2) Thomas
+Hobbes wrote that to say that God appeared to me in a dream is the
+same as to say that I dreamed that God appeared to me. (Just as the
+latter has no evidential value, neither does the former.) (3)
+Kierkegaard wrote that people are condemned to live their life
+forwards but to understand it backwards. (What we want to do is
+affected by what we think the importance or benefit of it will be; but
+we can only know that after the fact.) (4) Friedrich Nietzsche says that
+to declare that this world is a vale of tears and that there is another
+better world than this one is to slander this world.
+When a philosopher is trying to write something insightful, you need
+to consider whether what she is saying is universally true, true in only
+some or many cases, or false. In addition to being a great poet, John
+Milton was a philosopher. In Paradise Lost, Satan said, “It is better to
+reign in hell than to serve in heaven.” Is that true? Would it be better
+to be the leader of Al Qaida than to be an employee of a human rights
+group? Satan also said, “The mind is its own place, and in itself can
+make a heaven of hell, a hell of heaven.”
+
+ Is what Satan said true? Are there confirming examples? What
+ does that show? Are their disconfirming examples? What does that
+ show?
+
+The other mode of reasoning that is important to philosophy is
+inference to the best explanation, that is, giving the best explanation
+one can for some phenomenon. Here is a seemingly trivial example.
+On Monday, you go into a classroom and see some students who look
+very much like students you saw in that classroom the previous week.
+Are the Monday students the same ones you saw last week in that
+classroom? It is possible that each of last week’s students has a twin
+
+=== p. 231 ===
+
+who is attending class today. Possible, but ordinarily a poor
+explanation of the similarity. The best explanation is that the Monday
+students are the same ones as last week’s. You may be able to see how
+pervasive and important these judgments are if you consider that you
+also have to decide whether the classroom is the same, the streets you
+walked on are the same. If the author is making an inference to the
+best explanation, ask yourself whether there are other explanations
+that are just as good or better.
+Let’s return to an article that contains an argument. Is there an
+argument? If so, then the author must be expressing her premises
+somewhere. These may be indicated by words and phrases such as, “I
+need the premise,” “My first premise is.” But a premise may not be
+introduced so explicitly.
+Sometimes something may look like one of the author’s premises but
+in fact is not. Suppose an author argued for mind/body dualism, and
+wrote “Plato, the first defender of mind/body dualism, argued that the
+soul is a substance because it is simple.” The reader might mistakenly
+think that the author is using the same premise if the reader does not
+notice that the author later wrote, “But the concept of substance-simplicity has unsolvable problems.” Sometimes an author will use the
+subjunctive mood or “it seems” – “One may think (or: it seems) that
+the existence of the mind can be proved by noticing that a human
+being is conscious of itself” – in order to introduce a possibility that
+will later be rejected: “However, self-consciousness does not … .” And
+there are other cases in which the author comes to endorse the
+premise that was introduced with the subjunctive mood or “it seems”:
+“Self-consciousness is indeed the premise that proves that the mind is
+independent of the body.” The best advice is to read slowly and
+carefully.
+Similar to the distinction between (i) what the author is asserting or
+affirming in her own right to be true and (ii) what she is asserting or
+affirming to seem or appear to be true is the distinction between
+a. what the author is asserting or affirming in her own right to be true
+   and
+b. what she is representing as the view of her opponent.
+
+=== p. 232 ===
+
+One article begins as follows:
+   W. V. Quine is a realist. He believes that substances that exist
+   independently of perception exist.
+This gives the impression that the author believes these propositions.
+She does not. Her next sentence is:
+   I shall argue against this position.
+The indicative mood, “is” and “does not believe,” is used by the author
+for rhetorical effect. The two introductory sentences are designed to
+set up the audience for a striking reversal: the author disagrees. (A
+problem with the sentence, “I shall argue against this position,” is that
+it is not clear whether the author does not believe that Quine is a
+realist or that she does not believe that realism is true. Further
+sentences should resolve the lack of clarity.
+
+Notes
+1 Alfred Tarski, “The Semantic Conception of Truth and the
+   Foundations of Semantics,” Philosophy and Phenomenological
+   Research 4 (1944); reprinted in A. P. Martinich, ed., The
+   Philosophy of Language, 5th edn (New York: Oxford University
+   Press), p. 69.
+2 Ethics and Language (New Haven: 1944), ch. 3.
+
+3 Ibid., p. 57.
+

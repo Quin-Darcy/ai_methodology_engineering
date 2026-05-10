@@ -1,0 +1,938 @@
+=== chunk: cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy ===
+title: Normore, "The Methodology of the History of Philosophy"
+source_pdf: docs/sources/cappelen-gendler-hawthorne-2016-oxford-handbook/full.pdf
+pdf_pages: 44-65
+page_scheme: book
+plan_page_start: 27
+plan_page_end: 48
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 27 ===
+
+                                       Chapter 2
+
+   The M ethodol ogy of the
+    History of Phil osoph y
+                              Calvin G. Normore
+
+                                 1. Introduction
+
+What constitutes the History of Philosophy is as contested a territory as what constitutes
+Philosophy itself.1,2 This is, in part, because each is used to legitimate approaches to the other,
+and to such other disciplines as Politics and Theology.3 Indeed in certain quarters, most
+famously Hegelian, Philosophy and the History of Philosophy are so intertwined that to contest
+the one just is to contest the other. This contested state makes it nigh impossible to do justice in
+a short compass to the different understandings and approaches to the History of Philosophy
+now current so, heart on sleeve, I offer in this chapter what might be called a strong reading both
+of how things are and of how they should be and a (very limited) defence of that reading.
+   First then the issues: one is whether the History of Philosophy (done well let us suppose) is Philosophy; another is whether it is History. An issue related to both is whether
+the history of Philosophy can be studied ‘internally’ or whether it is best studied as (say)
+Intellectual or Cultural History with a particular focus. At issue here, of course, is the
+importance of what has come to be called ‘context’ in the study of the history of Philosophy.
+I shall argue for aiming to present the history of Philosophy internally as a default.
+   My reading has consequences. Perhaps the most striking is that what passes for the
+History of Philosophy in most quarters with which I am familiar (and indeed most of my
+
+    Many of the ideas in this chapter were developed in a series of seminars jointly taught with Brian
+Copenhaver over the past decade. and both the chapter and I owe him a special debt. Approaching
+these issues as a trained historian, Brian has a different perspective on them and remains, I think,
+sceptical that an ‘internal’ history of philosophy is possible. We will see!
+  2 Calvin G. Normore is Professor of Philosphy, UCLA, Emeritus Macdonald Professor of Moral
+
+Philosophy, McGill University, and Honorary Research Professor, the University of Queensland.
+  3 For a little on this ideological use of the History of Philosophy, see C. G. Normore, ‘Doxology
+
+and the History of Philosophy’, Canadian Journal of Philosophy Supplementary volume 16,
+1990 pp. 203–​26.
+
+=== p. 28 ===
+
+own study of the past of Philosophy) is not quite History of Philosophy at all. Nor, I argue,
+should it be. Nonetheless there may be a place for what really is History of Philosophy, and
+confusing it with its near kin just breeds confusion.
+
+                                          2. Theory
+2.1.1 What Then is the History of Philosophy?
+Philosophy has a considerable past. There are many ways of studying that past.4 I understand
+the subject which is The History of Philosophy to study that past in one family of ways. 5 I take it
+there are other subjects, for example Intellectual History and Social History, which study it in
+other ways. I take it too that there is something, not quite a subject in its own right, which I have
+called Doxology, and something else, also not quite a subject, that I will call Anthropology of
+Philosophy, which study items in the past of Philosophy in ways useful to, but not identical
+with, the History of Philosophy. Because both what counts as Philosophy and what counts as
+History of Philosophy are contested, many of those who practice Intellectual or Social History
+or Doxology or Anthropology of Philosophy insist that they are Historians of Philosophy. That
+they study the past of Philosophy I’ve no wish to deny, but I want also to insist that there is (and
+perhaps, just perhaps, should be) a distinct subject with a distinct history and a distinct set of
+concerns which has a legitimate claim to be History of Philosophy, and that it is what is in fact
+presuppposed in current historiography of the History of Philosophy.6
+
+   4 Here I am heavily indebted to unpublished lectures of Michael Frede delivered at UC Riverside in
+
+1991 and to the Introduction to M. Frede Essays in Ancient Philosophy, University of Minnesota Press,
+Minneapols, 1987.
+   5 A terminological convention. In general I distinguish a subject from its subject matter by
+
+capitalizing the name of the subject and (except when it begins a sentence) not that of its subject-​
+matter. Thus Mathematics with a majuscule ‘M’ is the subject which studies mathematics with a
+miniscule ‘m’. The subject, Philosophy, is a special case because, inter alia, it studies itself, thus
+providing fertile ground for confusion. Still, Philosophy studies what makes up various philosophies
+which taken together constitute philosophy. The History of Philosophy is a subject whose subject
+matter is the history of Philosophy. If what makes up philosophies were to have a history of their own,
+then there could be a subject, the History of philosophy, which studied their histories but, as I see it,
+while which items Philosophers (those who practise Philosophy) count as philosophy changes over
+time, those items themselves do not. As I understand it, whatever is expressed now by the opening
+sentence of Aristotle’s Categories is what was expressed by it when Aristotle penned it, whatever we or
+he may wish to or be able to make of it. As for the history of philosophy (all uncapitalized), I fully agree
+with Rorty, Schneewind, and Skinner when they write ‘There is nothing general to be said in answer
+to the question “How should the history of philosophy be written?” except “As selfconsciously as one
+can—​in as full awareness as possible of the variety of contemporary concerns to which a past figure
+may be relevant” ’ (R. Rorty, J. B. Schneewind, and Q. Skinner, Philosophy in History (Cambridge
+University Press, Cambridge, UK, 1984), p. 11.
+   6 This is (of course!) itself controversial. Someone might think that the meaning of the first line of
+
+the Categories, even as Aristotle penned it, depends on the context in which it is embedded and so is
+determined by the history of that text. I’m not one of them. This is also not to deny that assertions of
+bits of philosophy have a history. Susan Neiman reminds us that ‘One thing uniting new historians
+is the reminder that earlier philosophers wrote in response to events in real time’ (Susan Neiman,
+
+=== p. 29 ===
+
+    Despite the disagreement about what it is, there is widespread agreement among those
+who study the history of the History of Philosophy that it is a distinct subject and a relatively
+recent phenomenon. Some, like Emile Bréhier or Conal Condren, date its beginnings to the
+critical turn taken by European scholars of religion in the seventeenth century.7 Others,
+like Michael Frede, date it to the efforts of eighteenth-​century scholars like Fullerborn.
+The monumental Storia delle storie generali della filosofia details discussions of the past
+of Philosophy beginning with antiquity, but it too recognizes a fundamental shift somewhere in the Early Modern period. The editor of the English translation of Volume II puts
+it this way:
+
+    The volume which we present here in its English translation . . . concerns a particularly significant (we could almost say ‘strategic’) phase in the development of modern philosophical
+    historiography, which in the period between the second half of the seventeenth and the first
+    half of the eighteenth century (from Descartes to Brucker, precisely) abandoned its philological and erudite guise and took on the form of a ‘critical’ and ‘philosophical’ history of
+    philosophy, in a complex and problematic interchange with the concerns of modern philosophy (represented in particular by Descartes, Leibniz, and Locke), but also with the nascent
+    histoire de l’esprit humain. Leaving aside the play on words suggested by formulas such as
+    the ‘philosophical history of philosophy’ or the ‘philosophy of the history of philosophy’, we
+    see a true change in intentions and methods which was fundamentally to influence modern
+    cultural sensitivity and was to develop finally into the Hegelian apotheosis of the unity of
+    philosophy and history of philosophy, but also, in another sense, into the methodology of
+    ‘intellectual history’.8
+
+   This relatively recent dating and the disagreements about which recent dates are the relevant ones seem connected with the view that, while Philosophy is ancient, the discipline we
+now call History is a recent development, and with the expectation that anything properly
+called History of Philosophy will be History as well as Philosophy.
+   This Janus-​faced character is distinctive of the History of Philosophy. Few expect
+the History of Chemistry to be of professional interest to contemporary chemists but
+Historians of Philosophy are typically housed with Philosophers and are expected to interact with Philosophers on their own terms.
+   Upon a little reflection this should not be surprising. Though there are significant exceptions, most of those who become interested in the past of Philosophy do so by first taking
+up Philosophy, then being introduced to texts from the past of Philosophy, then finding
+those texts fascinating and puzzling and setting out to understand them. How the texts fit
+
+‘Meaning and Metaphysics’ in Jerome B. Schneewind Teaching New Histories of Philosophy (Princeton
+University: Princeton, 2004), p. 40).
+  Some did but some did not! If Aristotle or Plotinus were responding to contemporary events in real
+time they hid it well!
+      Cf. Emile Bréhier, Histoire de la Philosohie t. 1 (Librairie Félix Alcan, Paris, 1928), Introduction
+III, pp. 17ff. (There is an excellent electronic edition prepared by Peirre Palpant available freely at
+<http://​classiques.uqac.ca/​classiques/​brehier_​emile/​Histoire_​de_​philo_​t1/​brephi_​1.pdf>, accessed
+September 12, 2015. Cf. also Conal Condren, Hobbes, the Scribblerians and the History of Philosophy
+(Pickering and Chatto, London, 2012), especially the Introduction and Afterword and the literature
+referenced therein.
+   8 Models of the History of Philosophy Volume II: From the Cartesian Age to Brucker ed. Gregorio
+
+Piaia and Giovanni Santinello (Springer, Dordrecht, 2011).
+
+=== p. 30 ===
+
+together to form elements of a history and how to understand that history, comes later, if at
+all, and flows from efforts to understand particular texts.
+   Why might anyone want more than such understanding of philosophical texts?
+Historically, the answer to that question seems closely connected with the contest over the
+nature of Philosophy itself. From Brucker’s argument that Philosophy began to make progress only when, with (Francis) Bacon and his successors, it became eclectic, to Heidegger’s
+‘history of Being’ and beyond, histories of Philosophy have almost universally been efforts
+to argue for particular ways of doing Philosophy itself. Such considerations might suggest that the History of Philosophy is best ignored by those more or less satisfied with the
+conception of Philosophy in which they are institutionally immersed and that they (we?)
+would be well advised to stick to Doxology and Anthropology of Philosophy. I want to suggest, however, that such reaction is over-​reaction and that there is indeed a place among
+Philosophers as well as among Historians for History of Philosophy as its current historiographers understand it. First though we need some background.
+   Philosophy is a discipline. To practice it is, willy-​nilly, to belong to a community of practitioners. To count someone as a philosopher is to count them into such a community.
+Though such a community is bound together by a common focus on philosophies, there is
+much more to it than that focus. Philosophers have often shared a distinctive institutional
+life and sometimes even a distinctive mode of dress!9
+   The discipine of Philosophy has a history. Moreover, the past of Philosophy—​of the set of
+practices, people, events, concepts, theses, and arguments which make up that discipline—​
+is not the past of the collection of philosophies, which is both narrower and wider. On the
+one hand, a philosophy does not include (usually anyway) the practices, people, and events
+which are included in Philosophy but only the concepts and theses and the arguments and
+other ways of presenting considerations for and against them. Sociologists may attempt to
+discover whether philosophers differ from others in their ethical views; philosophers qua
+philosophers typically do not. On the other hand, a philosophy may include many views
+and arguments and other considerations which were part of Philosophy but are no longer,
+and very likely many which are not yet part of Philosophy but may become so.10 While it
+seems that philosophies do not have a past any more than numbers do, what counts as a
+philosophy has a past, just as what counts as a part of mathematics does, and that is, I think,
+
+   9 The view that to understand the Philosophy of antiquity one must see it as a way of life has
+
+been defended, especially by Pierre Hadot. That to understand the Philosophy of the early modern
+era one has to see it in terms of the persona of the philosopher has been argued by Conal Condren,
+Stephen Gaukroger, and Ian Hunter. For Hadot’s views, cf. Pierre Hadot, Philosophy as a Way of Life
+(Blackwell, Oxford, 1995), and What is Ancient Philosophy? (Harvard University Press, Cambridge,
+MA, 2002). For Condren, Gaukroger, and Hunter, cf. C. Condren, S. Gaukroger, and I. Hunter (eds),
+The Philosopher in Early Modern Europe: The Nature of a Contested Identity (Cambridge University
+Press, Cambridge, 2006).
+   10 The view that there is a dator formarum (perhaps related to the moon), which accounts inter alia
+
+for the generation of maggots, used to be part of Philosophy but is no longer. Someone who maintained
+it now would almost certainly not thereby be a philosopher but a crackpot. Still, there are significant
+and fairly recent philosophies, Francesco Suarez’s for example, of which it is a part. Whether Freud’s
+account of the Oedipal complex is part of Philosophy is contested, and so is whether Freud should be
+counted a philosopher.
+
+=== p. 31 ===
+
+because Philosophy is what Ian Hacking has dubbed a human kind—​a kind shaped in part
+by our conception of it.11 As Philosophy changes, what we count as philosophy also does.
+    Because what counts as Philosophy has varied (sometimes considerably) over time, what
+it is to study the past of Philosophy is itself open to determination. We can be interested in
+what of the past we would here and now count as philosophy or in what would then have
+counted as philosophy. The results may be very different. Contemporary English translations of Descartes’ Principles of Philosophy typically leave out much of what we woud now
+call Descartes’ Physics. These parts of the texts are no longer thought to be of Philosophical
+interest even though these were closely studied by such writers as Spinoza and Newton.
+Whether they will be included in a story of the past of Philosophy will depend on the orientation of the storyteller. As I see it, Historians of Philosophy can go either way—​t hough
+perhaps not taking their audience with them!
+    How much latitude is there in what might be counted as Philosophy? One could of course
+just count what contemporary Philosophers have already found interesting—​t he ‘canon’ or
+something like it. Another way of fixing what is to be counted would be to track the history
+of the use of the word ‘philosophy’, its cognates, and words explicitly introduced to translate it. Interesting though that project might be, it would be unlikely to come close to tracking either what is currently included in histories of Philosophy or what those seeking to
+reform what is included would wish to see there. Yet another approach would be to start
+from what is here and now considered philosophy and to work back, taking into account
+the past figures we take to be philosophers, the figures they took to be philosophers, the
+figures they in turn took to be philosophers, and so on.12 No doubt creative Historians of
+Philosophy will find yet other approaches.
+    Sometimes at least, philosophers hold the views they proffer on account of what they
+or we would regard as philosophical considerations or reasons. What counts as a philosophical consideration or reason is contested territory (of course?) but at least within sub-​
+communities of Philosophers there is usually some consensus. Philosophers sometimes
+advance views not in their own voices but to see what merit may be found in them and/​or
+what considerations count for and against them but, again, usually the views philosophers
+develop over time and at some length tend to be those they proffer in their own voices. If
+philosophers do hold the views they proffer (or even if we are entitled to suppose they do),
+and if belief aims at the truth and if truth requires coherence, we may suppose that philosophers develop and change their views in the light of arguments and other considerations,
+aiming at such philosophical goals as coherence and truth. If this is so, then to the extent
+that one does not understand and appropriately weigh these considerations and arguments or does not appreciate the role of these goals, one will not understand why the past of
+Philosophy is as it is. On the other hand, if to understand and weigh those considerations
+requires understanding how they interact with other considerations of which the author
+being studied is aware but which are not explicit in the texts studied, then to the extent that
+one does not understand the Philosophical milieu in which an author is working, one will
+
+  11 See for example, Ian Hacking, ‘The Looping Effects of Human Kinds’, in Causal Cognition, ed.
+
+D. Sperber, D. Premack, and A. James Premack (Oxford University Press, New York, 1996), pp. 351–​83.
+  12 This approach would get Mencius into the tent without including (all of?) the authors of the self-​
+
+help books that populated the Philosophy sections of bookstore chains—​when there were bookstore
+chains!
+
+=== p. 32 ===
+
+not understand what is being studied. There is, then, a case to be made for a subject which
+attends to the arguments and other considerations explicit in texts in the context of considerations which appear in historically related texts, in the context of considerations about
+what best explains why a text is at it is given that the author(s) is/​are aiming at such philosophical goods as coherence and truth.
+   That subject, say I, is the History of Philosophy. Since the Historian of Philosophy can
+take as Philosophy either what we now would or what was once so taken, it is in part an
+empirical matter how wide a spectrum of approaches the History of Philosophy will support. If what counts as Philosophy or what counts as a philosophical consideration or reason varies widely from time to time so may Histories of Philosophy.
+   Given this latitude about how to proceed, a central methodological issue which must be
+faced by any Historian of Philosophy is what questions to ask. It is a commonplace that to
+understand a text (or a practice) one should approach it with questions—​but which questions? As just suggested, at least two options present themselves: 1) ask what you would ask
+of a text by one of your philosopher contemporaries, or 2) ask what one of the writer’s philosopher contemporaries would (as far as you can tell) have asked.
+   Both of these approaches have respectable followings. Here, for example, is the historian
+of Ancient Philosophy Paolo Crivelli meditating on his own approach to Aristotle’s text in
+his Aristotle On Truth:
+
+    In the case at hand, my approach involves engaging in a philosophical discussion with
+    Aristotle. I ask him some of the questions about truth which many modern analytic philosophers are interested in. One question I ask Aristotle is: ‘What are the bearers of truth or
+    falsehood?’ Another question is: ‘What are the truth conditions for predicative assertions?’
+    Sometimes I ask Aristotle a further question raised by his answer to one of these questions.
+    One of these further questions is: ‘How can your truth conditions for predicative assertions
+    deal with what seem predicative assertions with an ‘empty’ subject or predicate?’
+       It should be clear how this approach will contribute to achieving one of this book’s primary aims, the aim of gaining a philosophical understanding of Aristotle’s views on
+    truth: asking Aristotle some of the questions about truth which many modern analytic
+    philosophers are interested in is evidently a way to gain a philosophical understanding of
+    Aristotle’s views on truth. But it is not obvious that this approach should contribute to the
+    other primary aim of the book, the reconstruction of all of Aristotle’s most significant views
+    on truth and falsehood: one can imagine situations where by asking a philosopher ‘analytic’
+    questions about truth one would completely fail to reconstruct that philosopher’s most significant views on the matter. However, as it happens, asking ‘analytic’ questions bears fruit
+    in Aristotle’s case: it does allow me to reconstruct almost all of his most significant views on
+    truth and falsehood.
+                                                                              (Crivelli 2004, p. 39)13
+
+      Closer to the centre of the subject as it is now practised is Michael Frede’s essay, ‘The Original
+Notion of Cause’. Frede begins the essay with reflection, not on questions a contemporary philosopher
+as such might ask, but on a puzzle a contemporary philosopher might raise about the history of
+philosophy:
+
+    However muddled our notion of a cause may be it is clear that we would have difficulties in using the
+    term ‘cause’ for the kinds of things Aristotle calls ‘causes’.1 We might even find it misleading to talk of
+    Aristotelian causes and wonder whether in translating the relevant passages in Aristotle we should not
+    avoid the term ‘cause’ altogether. For an end, a form, or matter do not seem to be the right kinds of items
+    to cause anything, let alone to be causes.
+                                                                                            (Frede 1987, p. 125)
+
+=== p. 33 ===
+
+   Crivelli here puts nicely two aims of the History of Philosophy 1) to ‘gain a philosophical understanding’ of a body of text and 2) to reconstruct all the most significant views of
+a philosopher on a given subject. Given those aims, Historians of Philosophy must seek to
+make the texts which they study intelligible to themselves and their audience. Historians of
+Philosophy can accept an interpretation of a text which has it not make sense to themselves
+only if they have an explanation of why the text might not make sense—​say because it is
+corrupt or because the writer deliberately or inadvertently made it incoherent. In any of
+those cases the Historian of Philosophy studies that text only to access another implicit
+text which the author really wrote or really would have written were it not for extra-​
+philosophical factors. Moreover, if there is an interpretation which makes sense of the text,
+a Historian of Philosophy must prefer it to a search for an implicit text behind the text at
+hand. Historians of Philosophy must also be prepared to test any interpretation they do
+propose against all the relevant text. An interpretation that is incompatible with some of
+the relevant text is thereby disqualified as an interpretation of any of it.
+   These may sound like platitudes but they bear directly on current practice among those
+studying the history of Philosophy. The first aim is incompatible with at least one understanding of the approach of Leo Strauss and his followers, and the second with at least one
+strand of postmodern literary theory.
+   Making sense of a text in terms we can understand (which need not of course mean making sense of it in terms that can be understood without studying it in its historical context)
+can be a complex and difficult process. What, for example, is meant by Aristotle’s claim
+that in thought the intellect becomes what is thought about? Both Aristotle’s Greek and our
+English is being used here in unfamiliar ways and it is a task of the Historian of Philosophy
+to explain these uses to us. Merely repeating or using a dictionary translation of Aristotle’s
+Greek won’t do. Such explanation may take the historian far afield—​into related uses of
+the Greek, related earlier and later texts, and excursions into contemporary Philosophy of
+Mind. We may come away still with the sense that there is more here than yet understood,
+but unless we understand the claim to some extent, the Historian of Philosophy has left the
+job undone.
+   Making sense of a text in terms we can understand is a necessity in the History of
+Philosophy but it is not the whole story. Philosophers in the past asked questions we no
+longer ask (and perhaps cannot reasonably ask any longer). Philosophers in the past also
+did not ask questions we find completely natural.14 Understanding why the questions asked
+
+   He turns, however, at once to a meta-​question about the source of the puzzle, and this leads him
+to reflect on the historical development of the Greek terms aition and aitia and their translations as
+causa and cause. To trace this development he relies not only on Philosophical texts but on material
+from the history of medicine (which never was part of Philosophy) and the history of Physics (which
+once was but seems to be no longer). He assembles these to argue that it was the Stoic concern with
+attributing responsibility and with factoring out the different senses in which contributors to an
+event might be responsible for it which led to our conception of causing as making something
+happen. All of that is respectable (if sometimes quite speculative) History. Nonetheless, Frede
+presents this History as helping us understand the notion of cause we currently have (by explaining
+how it came about).
+   14 Many recent discussions of knowledge (Bayesian and ‘formal’) rely heavily on the concept of
+
+probability. Richard Jeffrey once offered a prize to anyone who could find a discussion of probabilities
+before the sixteenth century. To the best of my knowledge it is unclaimed.
+
+=== p. 34 ===
+
+were asked and those not were not, and understanding what was and would have been taken
+as satisfactory answers is also central to the History of Philosophy as I have demarcated it.
+    It is here that Historical sensitivity and historical knowledge play an especially important role. When Descartes proposes to Princess Elizabeth that she look to scholastic
+accounts of gravitas for an understanding of how the mind moves the body he is alluding
+to a long tradition.15 To understand the notion of gravitas as he did we may need to canvas
+much of that tradition. We may need to study, in some detail, a considerable body of medieval Physics.
+    This project is, however, a very different one from that which underlies much historical work about Philosophy. Such historical work does not aim to explain such things as
+Descartes’ conception of gravitas, but aims instead to explain why Elizabeth thought to
+ask how the mind moves the body, and why Descartes thought to refer her to the scholastic
+tradition as if it would help. These are interesting questions, and someone who can answer
+them has a deeper understanding of the past of Philosophy than someone who cannot, but
+they are not philosophical questions and they would, in the terminology I propose, be part
+of Intellectual History not the History of Philosophy.
+    The History of Philosophy is one approach to the study of the past of Philosophy. It is not
+the only subject studying the past of Philosophy, nor do I see any reason to think it is the
+only way it should be. Nonetheless, among Historical approaches to the past of Philosophy
+it does (and I shall argue should) hold a central place.
+    That it does is an institutional fact. The past of Philosophy is, as a matter of fact, studied
+chiefly in Philosophy Departments, schools, and centres.16 Its study in Philosophy departments, schools, and centres is shaped to a considerable extent by the interests of the philosophers and students of philosophy who make those up. Many of these philosophers and
+students are professionally interested in the history of Philosophy just insofar as it connects
+or could come to connect with contemporary Philosophy. Thus any approach to the past of
+Philosophy which can be embedded in existing institutional structures will have to be one
+which connects with contemporary philosophical concerns. What must such an approach
+be like?
+    Philosophy thrives dialectically and philosophers are interested in the views of other
+philosophers. The study of such views in the way philosophers typically study the views
+of other philosophers is what I call Doxology.17 Doxologists have an interest in attributing
+to the philosophers they study the views they actually hold (though that may not always
+be their most salient interest), and to the extent that this requires understanding the contexts in which they are formulated, doxologists have an interest in understanding those
+contexts. If the philosopher whose view is being studied is dead, then understanding the
+context in which that philosopher worked may require knowing some history and so may
+require some Historical sophistication. Nonetheless, while one may need to be a Historian
+to understand why Aristotle felt a need to construct a modal syllogistic, one need not be a
+Historian to understand (say) the structure of that syllogistic itself.
+
+  15 There are twentieth-​century pictures related to it (I think here of the work on G. H. von Wright on
+
+action) but much will be missed if one’s focus is on them!
+  16 Was it always so?
+  17 It is related to, but by no means identical with, what others (e.g. Michael Frede) have called
+
+doxography.
+
+=== p. 35 ===
+
+    From the Doxological point of view, the past of Philosophy is another vast continent
+where may be found philosophies not found closer to home which (because the work of
+developing them has already been done) can be imported for less than the cost of manufacture and, in principle at least, might compete with the local products. They can be
+assimilated. Such assimilation involves examining such philosophies with the sorts of
+considerations and the sorts of weighing of such considerations that one would use in
+constructing or examining some aspect of a contemporary philosophy. Doxology has an
+enormous and legitimate appeal. As Ian Hacking points out,18 in a given milieu some texts
+speak to philosophers and their students with an immediacy with which others do not.
+That immediacy is largely a matter of their appeal as philosophy. These texts raise issues,
+ideas, and arguments that form the material for Doxology.
+    Doxology has its limitations. Precisely because it is not relevant to the doxologist as such
+whether a text is from Philosophy’s past or present, there is a constant danger of anachronism—​of missing what is in a text by failing to note its diferences from contemporary
+Philosophy. This threat of too close an assimilation to contemporary Philosophy is one
+major philosophical fuel of the Anthropology of Philosophy, which seeks to study past philosophies in their native habitats. The Anthropology of Philosophy is particularly important to philosophers dissatisfied with current normal practice. Such Philosophers seem to
+take one of several routes. Some, like Descartes, portray themselves as a new beginning, but
+others like Farabi or Heidegger, reach back to Philosophy’s past, and present themselves as
+taking up an earlier and in some sense ‘lost’ tradition. Some of these (like Heidegger) do so
+by creating a new terminology and framework which would have been foreign to the past
+they attempt to recapture. Others attempt to immerse themselves and those they influence
+in the terminology and framework of the past they are attempting to recover—​to see some
+part of that past as those for whom it was present saw it. This effort to see the past as the past
+saw itself when it was present is what I call Anthropology of Philosophy.19 At its most banal
+it is a paraphrase of texts in their own vocabulary. Just as there are some texts from the past
+that ‘resonate’ with us because we see in them projects and considerations akin to our own,
+so there are other texts which speak with a different immediacy, seeming intriguing but
+mysterious, and suggestive of ways of thinking alluring but different from our own. These
+form the core material for Anthropology of Philosophy.
+    Much of the interest the past of Philosophy holds for philosophers can be satisifed by
+Doxology and Anthropology of Philosophy, and any study of the past of Philosophy which
+is going to interest philosophers qua philosophers will consist largely of these subjects.
+Given this, and given the fact that the past of Philosophy is studied largely among philosophers, it is not surprising that most of the work done on the past of Philosophy is in fact of
+these two kinds. So should it be!
+
+      In I. Hacking ‘Five Parables’ in Rorty, Schneewind, and Skinner, eds. Philosophy in History,
+p. 106.
+   19 Doxology and Anthropology of Philosophy correspond roughly to the two modes of studying
+
+the past of Philosophy canvassed by Richard Rorty at the beginning of ‘The HIstoriography of
+Philosophy: Four Genres’ (in Rorty, Schneewind, and Skinner, eds., Philosophy in History, pp. 49–​76.
+However, while Rorty seemed to see them as competing modes I thinks they compete only when
+presented as complete approaches to the past of Philosophy. As I see it the History of Philosophy
+employs both.
+
+=== p. 36 ===
+
+   For neither Doxologists nor Anthropologists of Philosophy is it crucial that what they
+study is of a different time (though often such study is embedded in mythoi about the past).
+One can (and perhaps some do) study Descartes’ Meditations on First Philosophy as if it
+were written just a few years ago. Perhaps when the Jesuits encountered China (that ‘nation
+of philosophers’) some may have practiced what I call Anthropology of Philosophy in
+attempting to understand then current Chinese thought in its own terms. Why then might
+philosophers be interested in the past of Philosophy as past?
+   Both the Doxological and the Anthropological perspectives are partial. Because the dox-ologist does not study the past of Philosophy historically, to the extent that what is meant
+by the formulations offered by past philosophers can be best (or only) understood by seeing
+them in the context of the dialectical debates in which those philosophers were engaged,
+doxologists will fail to understand them and will assimilate them too closely to theses and
+arguments their contemporaries might offer. Moreover, if Philosophy is indeed a ‘human
+kind’, both the concepts employed in contemporary philosophy and the self-​conception of
+contemporary philosophy itself have been and continue to be shaped by our conception of
+them. If, as seems likely, mere possession of concepts does not involve full mastery of them,
+we enrich our understanding of our own philosophical views by enriching our grasp of
+those concepts, and we can do this by coming to see more clearly how they have evolved.
+   Anthropologists of Philosophy, on the other hand, are in danger of forgetting their
+audience. If one does not already understand the language, just having it repeated louder
+and more slowly is not likely to help much! Should it happen that a past philosophical
+milieu was revived and became the milieu of contemporary philosophy, Anthropology of
+Philosophy would become Doxology. I don’t know that that ever has happened—​t hough
+certainly neo-​Scholasticism was an effort in that direction!
+   These considerations suggest that, sometimes at least, to understand a text in a satisfying
+way one needs both Doxological and Anthropological approaches, and, since it is widely
+agreed that many of the best philosophers are dead, good reason for philosophers who wish
+to dialogue with the best philosophers on whatever terms to be interested in dialogue with
+the dead.20 Since the living have difficulty getting responses to questions and arguments
+from the dead, there is a role for Historians of Philosophy to suggest how they would or
+might respond to contemporary concerns. To do it responsibly they must determine what
+the dead philosopher actually thought and what philosophical grounds the dead philosopher might have had for thinking it.
+   From the viewpoint of someone interested solely in developing a philosophical
+account of some particular phenomenon, the practice of Doxology and Anthropology of
+Philosophy might be enough, but from the viewpoint of a philosopher seeking to understand Philosophy itself, more may be needed. Doxology and Anthropology of Philosophy,
+even taken in tandem, are limited approaches to the past of Philosophy, even from a philosopher’s perspective. Both take for granted a canon of philosophers and texts generated
+by particular Philosophical communities. A serious question a philosopher might ask
+is why that canon has the status it does. Philosophers are interested in the work of other
+philosophers, but no one can read, let alone think seriously about, the work of everyone
+else. Why have some figures and some texts become the foci of attention so that they are
+
+               See E. Curley, ‘Dialogues With the Dead’ (Synthese 67, April 1986), pp. 33–​49.
+
+=== p. 37 ===
+
+generally acknowledged as important and can, for example, form the basis of a more or
+less standard curriculum? Why, for example, did Porphyry decide to make the study of
+Aristotle’s Organon a preparation for Platonic metaphysics and why did others follow him?
+Why was all of Aristotle and only a little of Plato translated into Latin in the twelfth and
+thirteenth centuries? Why are Descartes and Locke standard figures in courses in Early
+Modern Philosophy and not Hobbes (save in Political Philosophy courses) or Desgabets or
+Samuel Clarke? A philosopher might seek to answer such questions by alluding to what are,
+or were, considered philosophical considerations.
+   Again because Philosophy largely proceeds by conversation and debate (face to face or
+not) and the framework for such conversation and debate is very largely set by the issues
+and considerations already set out by others, questions about why it is those issues and
+considerations that are being discussed are serious philosophical questions. Some philosophers (Michel Foucault, Alastair MacIntyre, Richard Rorty, Quentin Skinner, and Charles
+Taylor come to mind) use narratives about the past of Philosophy to support the claim that
+fundamental posits of some large segment of contemporary Philosophy (for example, that
+thought is a matter of generating and manipulating representations) are dispensable. They
+do this by arguing that these posits, far from being forced upon us by the nature of things,
+arose in particular historical circumstances for contingent reasons and can well be done
+without. Since this is a historical claim, one might look to the History of Philosophy to
+determine its truth. Were it true, we would have philosophical grounds for philosophizing
+differently. One might well think then that knowing the history of the concepts assocated
+with contemporary issues would have philosophical consequences.
+   There is another, more meta-​philosophical reason why philosophers might be interested
+in going beyond Doxology and Anthropology of Philosophy. Besides looking to the past
+of Philosophy for models for its future, philosophers often look to the past of Philosophy
+for their conception of Philosophy itself. One can philosophize today by taking up issues
+in Aristotle or Hegel or Locke, but not by taking up themes from Euclid or Hippocrates.
+This is because what counts as Philosophy is shaped by a communal perception of who
+were philosophers and what the boundaries of their philosophy were. One way of doing
+Philosophy is to challenge this perception and one way to challenge it is to retell the history
+of Philosophy in a new way, but any such retelling is against the background of a ‘standard
+story’.
+   The considerations just adduced for a philosopher to be interested in a subject we might
+call the History of Philosophy as contrasted with either Doxology or Anthropology of
+Philosophy have a common structure: they are all considerations arising from reflection
+upon, rather than involvement in, current Philosophical practice. This suggests a thesis: Philosophers need take to heart the History of Philosophy (as contrasted with Doxology
+or Anthropology of Philosophy) when dissatisfied with current Philosophical practice. The
+special role of the History of Philosophy within Philosophy is to be a tool for use when
+Philosophy itself is in crisis.
+   Whether or not there is at any given moment a crisis within Philosophy is as controversial as the nature of Philosophy itself. So far I’ve been writing as if everyone who
+comes to the History of Philosophy comes to it excited about one or another of the current
+incarnations of Philosophy, but this is not so. A significant minority of scholars (some
+of whom can be heard at conferences announcing such theses as that Metaphysics died
+in 1781) come to it from a disappointed love of Philosophy. Having dreamt dreams not
+
+=== p. 38 ===
+
+satisfied by what they find in Philosophy’s present, they turn to its past in hopes of finding
+its glory and explaining its decline. This turn to the past is a complex affair. On the one
+hand, it involves what I’ve been calling Anthropology of Philosophy—​a n excavation of
+concepts and modes of reasoning that have fallen out of favor and may now be only dimly
+understood. On the other, it involves locating these in a narrative of how Philosophy
+came to turn away from them. Since this turning away is characterized as a mistake, this
+involves a discussion of why the considerations which led to the abandonment of the path
+that is now being resurrected were inadequate ones. This in turn involves a narrative of
+change in Philosophy.
+   This brings us to the role of History in History of Philosophy and that of History of
+Philosophy in History. That an internal history of Philosophy is possible depends on it
+being the case that Philosophers adopt and change views on the basis of philosophical considerations and reasons. That is itself a controversial philosophical position. Many of those
+who would have Philosophy be very different accept it, and to the extent that they find in
+the history of Philosophy grounds for philosophizing differently, they will have to present
+those grounds as considerations and reasons which might appeal to us. Others outside
+Philosophy need not be so restricted, however.
+   Historians and sociologists are (sometimes) interested in what shapes and is shaped by
+the work of philosophers. Sometimes they might agree that what does this shaping is itself
+internal to the practices of Philosophy. Sometimes, however, they might very plausibly
+insist that what shapes and is shaped by the work of philosophers is well outside Philosophy.
+At one extreme we find this approach in the work of Randall Collins.
+   Randall Collins’ remarkable Sociology of Philosophies is an effort to see the entire past of
+Philosophy very broadly. Collins’ aim is simply stated: ‘I am arguing that if one can understand the principles that determine intellectual networks, one has a causal explanation of
+ideas and their changes.’ 21
+   Collins’ central claim is that it is intellectual networks and neither individuals or reasons
+as I have gestured to them above that are the propelling force of the history of Philosophy.
+The generation and sustaining of networks, he argues, is best understood not in terms of
+the content of the philosophies involved but in terms of interaction rituals in the sense of
+Irving Goffman. Philosophers interact with one another in ways that increase or decrease
+emotional energy and cultural capital. As he puts it:
+
+    The social structure of the intellectual world, the topic of this book, is an ongoing struggle among chains of persons, charged up with emotional energy and cultural capital, to
+    fill a small number of centers of attention. These focal points, which make up the cores of
+    the intellectual world, are periodically rearranged; there is a limited amount of attention
+    that can be distributed through the total intellectual network, but who and what is in those
+    nodes fluctuates as old intellectual movements fade out and new ones begin. These nodes in
+    the attention space are crescive, emergent; starting with small advantages among the first
+    movers, they accelerate past thresholds, cumulatively monopolizing attention at the same
+    time that attention is drained away from alternative nodes . . . My sociological task is . . . to
+    see through intellectual history to the network of links and energies that shaped its emergence in time.22
+
+   21 Randall Collins, The Sociology of Philosophies (Harvard University Press, Cambridge, MA., 1998),
+
+p. xvii.
+   22 R. Collins, The Sociology of Philosophies, pp. 14–​15.
+
+=== p. 39 ===
+
+   Collins does not deny that Philosophers respond to reasons or that they employ concepts and arguments. His claim is rather that it is in virtue of their effect on the ‘emotional
+energies’ of philosophers that reasons and arguments are historical forces, and hence one
+can abstract away from the particular content of philosophies and focus instead on the
+ways these emotional energies are generated and dissipated. Philosophers gain emotional
+energy in having their proposals taken up by others and lose it in having them dismissed.
+Such abstraction, he suggests, shows us patterns of interaction which explain intellectual
+change. Historically important Philosophers (measured by how often they are cited by others) are members of intergenerational networks of high energy—​t hey almost always have
+had Historically important Philosophers as teachers and mentors and often have other
+Historically important Philosophers as students or disciples. One striking example of the
+power of such abstraction is Collins’ ‘law of small numbers’—​t hat the number of prominent Philosophical movements in a given milieu over any but the shortest periods of time
+will always vary between three and six. This has the consequence that if there are more than
+six there will be a tendency to consolidate, and if there are fewer than three a tendency to
+fission. This is independent of the content of the movements in question.
+   Collins’ approach may illuminate the past of Philosophy. If he is right there is a pattern
+to the way philosophical movements arise, flourish, and decay that is repeated over and
+over again wherever anything recognizable as Philosophy is present. Indeed, Collins’ arguments suggest practical advice to would-​be philosophers who wish (as he suggests they
+normally do) to be influential—​t hat they locate themselves within networks of influence—​
+seek out influential teachers, take on talented students, and position themselves relative to
+contemporaries in the slots suggested by the Law of Small Numbers.
+   Nonetheless, there is an important sense in which Collins’ results are irrelevant to the
+History of Philosophy. No text or argument or thesis is illuminated by them, and to the
+extent that changes in philosophical views are explained by social facts about Philosophical
+networks such changes (as contrasted with the fact that there are such changes) are of no
+philosophical interest.
+   Even if one’s approach is less general than Collins’, one might think that the past of
+Philosophy is illuminated by considerations from without it. One might, for example, study the impact of developments in the Christian conception of the Eucharist on
+Medieval Metaphysics or the impact of eighteenth-​century Political Philosophy on the
+French Revolution. One might study the structural similarities among Philosophical
+communities. To a historian the discovery, development, acceptance, and rejection
+of philosophical views are historical events, and since for a historian to understand
+an event is (at least in part) to understand its causes, whatever causes are at work must
+be studied—​whether or not they are plausibly regarded as reasons or as internal to the
+practice of Philosophy. Similarly, the categories and concepts a sociologist of knowledge
+might be expected to bring to bear on the study of Philosophy and its past are unlikely
+to be uniquely philosophical. What then might we think such a historian to miss that an
+Historian of Philosophy would not? It is, I suggest, precisely the role played in the development of Philosophy by the reasons and considerations the giving and taking of which
+constitute much of Philosophical practice.
+   As a philosopher one may be interested in, say, Aquinas’ ‘Third Way’ and one might
+gain a deeper understanding of the argument both by comparing it with other texts
+in Aquinas himself and by studying and comparing it with arguments one finds
+
+=== p. 40 ===
+
+in Aristotle, but there is nothing historical about that other than that Aquinas and
+Aristotle are both dead. As a historian one attempts to explain why things were as they
+were at one time in terms of their relations to how things are at another. One might, for
+example, try to explain how Aquinas’ formulation of his Third Way came to be as it is
+by appealing to the influence on his thought of his understanding of Averroes’ understanding of Aristotle’s argument in Metaphysics XII.6. Qua philosopher one would be
+interested in the influence of Aquinas’ understanding of Averroes only if it shed light on
+the argument itself. Qua historian one is interested in the argument itself only insofar
+as its content sheds light on such matters as how Aquinas came to hold or present it;
+how Averroes influenced Latin Philosophy, or how Aristotle came to be (mis)understood. Qua Historian of Philosophy one is interested in both and (when things go well)
+attempts both to illuminate the argument itself and to illuminate the roles it played. At
+bottom is a presupposition that the argument played the roles it did in part because of its
+virtues (and defects) as an argument.
+   The History of Philosophy is thus poised, somewhat uneasily, between Doxology and
+Intellectual History. Its balance depends upon the truth of an assumption—​t hat the history of Philosophy can be profitably understood as an internal history in the sense that
+what accounts for the historical development of Philosophy is (the consideration of) philosophical issues. Tightly bound with this is the claim that Philosophical views and arguments are accepted and rejected on the basis of reasons. Philosophers qua philosophers
+accept and reject arguments and views on the basis of reasons and so if the development of
+Philosophy is to be understood internally it will have to be understood as a matter of coming (or not) to appreciate certain reasons.
+   I suggested earlier in this chapter that the Historian of Philosophy must tell the history of Philosphy in terms of considerations which are or were regarded as philosophical.
+What exactly is involved in a reason or argument being one that the present or a past
+Philosophical community would think philosophical? It is not required that the reason
+or argument be one that emerged in a Philosophical community. For example, the view
+that a part of a collection may have the cardinality of the whole may have emerged in
+Mathematics (over a long tradition of Philosophical objection) though both the position
+and the arguments for it are now part of Philosophy. Again the power of the combination of random alteration and some principle of selection may have been explored first
+by biologists but is now understood (and largely appreciated) in Philosophy. What is
+required for a reason or argument to be philosophical is that it not be one that is accepted
+by the Philosophical community simply because the members of that community are
+also members of another or because of the prestige of another—​it is that it be one the
+community thinks is Philosophical. What counts as a Philosophical reason may change
+both because whether it is Philosophical may change and because whether it is counted
+as a reason may change. There is nothing in the History of Philosophy which requires
+supposing that either is invariant across time or space.
+   This opens one avenue for context to play an important role in the history of Philosophy.
+It may be argued by Historians (whether of Philosophy or not) that in a given historical
+setting something counted as a reason or as a part of Philosophy which did not so count in
+other settings. Discovering that other thinkers took some item as a reason might well provide evidence that Philosophers did too and so reorient one’s understanding of (for example) some part of an uncontroversially Philosophical text. Discovering that other thinkers
+
+=== p. 41 ===
+
+took a text (say) to be part of Philosophy might provide evidence that it was and so that
+Philosophy was not quite as one had thought it was.
+    Still, there are limits to be observed here. One other discipline which has often loomed
+large in the thinking of philosophers is Theology, and it has often happened that philosophers adopted for Theological reasons positions that one might well have adopted on the
+basis of then prevalent Philosophical considerations but that the philosophers in question
+did not adopt on the basis of such consderations.23 The study of such background conditions is a significant part of Intellectual History but only a peripheral part of the History
+of Philosophy. Indeed, it is only part of the History of Philosophy at all in the sense that
+the Historian of Philosophy notes it and goes on. Of course it may not be easy to tell, even
+when one knows why a thinker accepted or rejected a position, whether the reasons are or
+were taken to be philosophical. For example, the doctrine of ‘real accidents’ dismissed by
+Descartes had proved very useful in articulating the standard Latin Medieval doctrine of
+the Eucharist, and Ockham adduces no other grounds for it. Buridan, on the other hand,
+exploits it in his accounts of quantity and motion. The doctrine itself has contemporary
+philosophical interest since it seems in many ways close to current theories of tropes. There
+is little doubt that discussion of it forms part of the History of Philosophy and of the History
+of Theology—​t hough specialists in each may take it in different directions.
+    The History of Philosophy is thus an odd and rare beast. It is odd because of its service
+to two masters. It is rare because neither master usually needs the whole range of its services and so they are rarely provided. What will be taught in Philosophy departments and
+schools will usually be just the doxological or the anthropological fragment and what will
+be taught (if anything is) in History departments and schools will usually be just that narrative that the Historian of Philosophy would note before passing on to study the philosophical considerations underlying it.
+    Coming (or not) to appreciate reasons is a psychological matter and likely to be influenced by all sorts of cultural, psychological, and sociological factors. These are, nonetheless, irrelevant to the History of Philosophy which instead presupposes that the thinkers in
+question respond to reasons rationally so that philosophical views are put forward as, and
+are, reasonable solutions to philosophical problems, and that changes of view are reasonable responses to problems perceived in earlier views. Although Historians of Philosophy
+need not suppose that what counts as rationality or as reasonable has remained the
+same every when and where, they must be prepared to determine whether a response is
+rational or reasonable according to whatever standard is in play. I suggest this responsibility is twofold. Such evaluation must take place both from the Historian of Philosophy’s
+own perspective (typically that of the Philosophical community to which s/​he belongs)
+and from the perspective of the thinker whose thought is being studied and that thinker’s Philosophical community. The extent to which they will agree is in part an empirical question—​one must be open to the possibility that standards of reasonableness as well
+as style of reasoning have changed. One must be open as well, though, to the possibility
+that they have not, and that to the extent that the same issues are under consideration in
+
+      A prominent (and excellent) philosopher once asserted to me that it was false that one ought to
+be a vegetarian since Christ ate meat at the Last Supper. Interesting though this argument is, it is not
+(on the face of it anyhow) a philosophical argument, and the fact that this philosopher maintained or
+advanced it is not part of the History of Philosophy.
+
+=== p. 42 ===
+
+different epochs, later philosophies avoid some of the problems besetting earlier ones. This
+need not entail that later philosophies are on the whole more adequate than earlier ones
+because it is compatible with later philosophies turning out to have solved problems in earlier ones at the price of incurring new difficulties not raised by their predecessors, but it
+does entail that there is some internal pressure within the History of Philosophy to suppose
+that Philosophy progresses and that where it does not, either new issues are being considered, what counts as reasons has changed, or the causes are irrelevant to (or are merely to be
+noted as background conditions by) the History of Philosophy as a discipline.24 It follows
+then that as accounts of the past of Philosophy, Histories of Philosophy will almost certainly be incomplete.
+   This incompleteness is not a defect. Histories are, of necessity, incomplete because the
+historian must select among the infinity of facts those whose presentation will illuminate for the purpose she has. The Historian of Philosophy selects facts which illuminate
+the (broadly speaking) rational relations among propositions and so provide reasons for
+holding or rejecting theses, or thinking or acting in certain ways. If a philosopher holds or
+rejects a thesis or thinks or acts in a certain way for reasons that have nothing to do with
+such relations there is nothing the Historian of Philosophy can do save point to some other
+sort of History which might have better luck.
+   The assumption that philosophers propose and reject what they do for philosophical
+reasons underdetermines how these proposals and rejections are expressed. Just as it is a
+plausible but defeasible assumption generally that things seem as they do because they are
+that way, so it is a plausible but defeasible assumption of the History of Philosophy that a
+text means what it seems to mean and that a philosopher accepts what that philosopher
+asserts. Just as various sceptical traditions have challenged the general assumption, so the
+more particular one has been challenged within the History of Philosophy, notably (but
+by no means exclusively) by Leo Strauss and his followers.25 The general form of such challenges begins from the observation that there are contexts in which a reasonable person
+who believed p would not assert p and might, while believing p, assert even not-​p, taken
+together with the claim that we should apply a very different set of interpretative techniques
+to that philosopher’s work than we would otherwise. Given the observation, the question
+arises whether we can reliably determine by consideration of the circumstances in which a
+philosopher is writing whether it is such a context. The sceptic would have it that we cannot
+and so should practice a ‘hermeneutics of suspicion’. The less sceptical theorist influenced
+by (say) Strauss, will claim that we can, that a large portion of the past of Philosophy consists of such contexts, and hence that much of what philosophers have written cannot be
+
+      The issues here are very similar to those raised in The History of Science by Thomas Kuhn and
+his successors. That Philosophy does not always progress is fairly obvious. The most glaring case is
+the situation in Western Europe between (say) Boethius and (say) Anselm of Canterbury. The loss
+of much of the philosophical writing of the Greco-​Roman world and the disappearance of a fairly
+large elite that could read philosophical Greek combined to bring it about that much of the Western
+European Philosophies of (say) the ninth century ce. were, as far as we can tell, far inferior to those of
+late antiquity. The social and economic changes which brought it about that early medieval Western
+European writers did not have many texts their predecessors did, may well explain why (say) Anselm
+does not consider (and so does not respond to) Aristotle’s critique of Plato’s theory of Forms, and may
+well be mentioned in a History of Philosophy, but they will be mentioned only to indicate a gap.
+   25 See Leo Strauss, Persecution and the Art of Writing, University of Chicago Press, Chicago, 1952.
+
+=== p. 43 ===
+
+read on its face. Given the claim then, one should read such texts with what Paul Ricoeur
+has felicitously called a ‘hermeneutics of suspicion’.
+    This challenge in its most general form strikes at the heart of the History of Philosophy
+because if it is the case that philosophical texts are ‘coded’ in a way that one can understand
+only by knowing in detail the social and political circumstances in which they were written
+(or later read), then the autonomy of the development of Philosophy is threatened in a much
+more radical way than it is by the fact that philosophers often take up issues or considerations that arise outside Philosophy. That latter fact is compatible with the claim that these
+issues and considerations only become part of Philosophy once they have been integrated
+into the practices of the Philosophical community. The challenge, however, has it that the
+core practices of the community are hostage to wider social forces.
+    The first thing to be said is that from the point of view of the Historian of Philosophy it
+usually does not matter if a philosopher meant what he said, because usually it is what was
+said that has been taken up in subsequent Philosophy. There are exceptions of course. For
+example, if Strauss himself reads Farabi or Maimonides as not meaning what they said
+and his interpretation is taken up, then for those who interpret it that way, it is not the text
+but the ‘coded’ text which enters into the History of Philosophy. Note though that whether
+it is the text or the ‘coded’ text that is taken up depends on what is made of the text and not
+on the text itself. A misreading of a text can be as historically important as a correct reading! It remains, though, that unless the misreading is itself philosophically grounded it is
+not a part of the History of Philosophy but a limit of it. That said, there remain the tasks
+of understanding the text, understanding the thought of the philosopher who wrote it,
+and understanding how each was later understood. All three are tasks for the History of
+Philosophy.
+    A reason for doubting that there is History of Philosophy as I’ve described it is the scope
+of the pretensions of the subject. For most of its history, Philosophy has purported to be
+the most general of all disciplines, seeking an understanding of how, in Wilfrid Sellars’
+phrase, things in the most general sense, hang together in the most general sense. Reasons
+for thinking that things hang together might arise anywhere in the vast terrain of things
+people think about, and so one might plausibly think that there can be an internal history
+of Philosophy only if ‘philosophy’ is just a name for whatever anyone thinks about—​t hat is,
+if History of Philosophy collapses into Intellectual History (or perhaps just History)!
+    It is, however, not so. Philosophers may indeed take up considerations from anywhere,
+but considerable work is required to make them part of Philosophy and it is only once they
+become part of Philosophy at one time that they become part of the History of Philosophy
+at another. The mathematical problem of providing a theory of irrational numbers seems
+once to have been part of Philosophy and the proposals of Greek mathematicians about it
+may well be part of the History of Philosophy. Current theories of irrational numbers seem
+to play no role in Philosophy and, on current form, will play no role in its history. On the
+other hand, concern about the ontological status of numbers seems to have played a significant role in ancient Philosophy and also does in contemporary Philosophy, while having
+played a very minor role, it still seems, in Medieval Philosophy. Historians of Medieval
+Philosophy can and do pay much less attention to Medieval Mathematics, not only because
+there seems to been less of it but because it seems never to have been taken up in a community then or now recognized as Philosophical. Again, while Shakespeare’s plays contain
+much worth thinking about and may come to have a role in Philosophy (and thus in its
+
+=== p. 44 ===
+
+history) they do not now form part of that History and need not be studied by the current
+Historian of sixteenth-​century Philosophy. Of course none of this proves definitively that
+there is or ever was a distinctive Philosophical community. We may discover that to understand Leviathan (or some other text we take or they took to be philosophy) we are well
+advised to think about Henry VI but that case would have to be made in detail. Meanwhile
+those of us attempting History of Philosophy have not reason to change our ways.
+   Because the History of Philosophy as I understand it is poised between Doxology and
+Intellectual History it can be approached from either. On the one hand, Historians of
+Philosophy might seek to understand the history of some part of Philosophy’s past by asking the questions and applying the standards for answering them that Philosophers now
+employ. On the other hand, they might seek to understand that past in terms of the questions being asked and the standards for answering them being employed in the larger contexts of the period being studied. This Janus-​faced nature of the History of Philosophy has
+the consequence that even among those who practice the History of Philosophy as I have
+described it there is little consensus on its method. Some eminent practitioners emphasize intellectual, cultural, and (even) social context in an effort to grasp what thinkers
+in the past would have taken to be good reasons and good arguments. Others emphasize
+the interaction with Philosophical issues in our own milieu. As I see it both are useful
+responses. They agree in focus on the issue of what are good reasons and good arguments.
+They disagree about where to look to settle that issue.
+
+                                  3. Practice
+
+The History of Philosophy as I have described it is a demanding subject. The ideal Historian
+of the whole of Philosophy would be someone who knows (inter alia!) Greek, Latin, Arabic,
+Persian, Hebrew, English, French, German, Italian, Sanskrit, and Chinese, is a good philosopher who is fully conversant with contemporary Philosophy in its various incarnations, is
+a decent mathematician, has a wide knowledge of several literatures, and has at least very
+mild super powers. Such beings are rare. What are the rest of us to do? I propose some
+maxims:
+
+3.1 Specialize
+One thing we do (and should do) is specialize. We study (say) Aristotle or Descartes or
+Locke or Hegel or we study ‘Ancient Philosophy’ or ‘Early Modern Philosophy’. Historians
+of Philosophy who specialize in Aristotle will (as matters stand) be forgiven an ignorance of
+Arabic, Persian Hebrew, Sanskrit, and Chinese (and in some quarters even Latin) because
+it is now supposed that nothing written in these languages will shed light on what Aristotle
+thought or what the texts we have from him mean. Such specialists will be expected to
+have a passing knowledge of the cultural, political, and social conditions of the world
+of Aristotle’s time but not a special expertise in them, because it is assumed (indeed as
+Aristotle himself suggests!) that Aristotle was reacting not to them but to his Philosophical
+
+=== p. 45 ===
+
+predecessors. They will be expected to read and react to the recent commentary literature
+but large swaths of earlier commentary literature may be (and usually will be) ignored
+on the assumptions that it has in some sense been superseded. Most of all they will be
+expected to study the texts of Aristotle we have, to have large portions of them ‘in mind’,
+and to be able to speak to us about what they mean and how they relate to one another. In
+short, they will be expected to practice Doxology and, to some extent, Anthropology of
+Philosophy. Qua specialist in Aristotle they may not be expected to have any particular
+historical views—​even say about his relation to Plato or Theophrastus—​t hough quite typically they will.
+
+3.2 Do Doxology
+Doxology is and will remain central to the practice of the History of Philosophy as long
+as it is centred in Philosophy departments and schools. That is a good thing. At any given
+moment there are texts of the mighty dead which appeal immediately to students with
+an interest in philosophy (though which they are changes with time). In my own current
+experience the Meno and Phaedo, Boethius’ Consolation of Philosophy, Ibn Tufail’s Hayy
+ibn Yaqzan, Descartes’ Meditations, Hume’s Dialogues Concerning Natural Religion,
+Nietzsche’s Geneology of Morals, and (usually) Russell’s Problems of Philosophy can all be
+counted upon to hold the attention of undergraduates. Interpreting them (and many others) to us is not only pleasant, it is useful!
+
+3.3 Aspire to Anthropology of Philosophy
+Here is a test for one kind of understanding of a philosophy. Read to the bottom of a page
+you have not read or no longer remember. Stop and predict what you will find as you turn
+the page. If you can reliably do so there is a significant way in which you understand what
+is going on. This test is a test for a kind of understanding sometimes called verstehen—​t he
+kind one has of how to behave in one’s own cultural or natural environment.
+   One can, of course, be surprised in one’s own cutural or natural environment. One can
+fail to understand when to tu and when to vous, when ‘no’ means ‘not now’, and when it
+means ‘not ever’. Such failures are akin to the Philosophical failing of overgeneralizing
+from a restricted diet of examples. The classic remedy is the historiographical principle
+‘Exhaust the Evidence!’
+
+3.4 Exhaust the Evidence
+The Historian’s maxim ‘Exhaust the Evidence’ can be at best a regulative ideal. If we understand by evidence whatever bears on the settling of a question it is likely that there is no
+finite specification of all the evidence bearing on any question in the history of philosophy.
+Why were not more Platonic dialogues translated into Latin in the twelfth century? To such
+a question details of the life of Henricus Aristippus, details of the history of transmission of
+
+=== p. 46 ===
+
+Greek manuscripts, details of the many factors which shaped early medieval impressions of
+the relationship between Plato and Aristotle, as well as details of the Philosophical issues at
+stake in the Philosophical communities of the twelfth century and no doubt much else, will
+all be relevant. Even if, as I have suggested, of the factors named only the last is part of the
+History of Philosophy there may be no end of inquiry into those details.
+   ‘Exhaust the Evidence’ is, however, at least a regulative ideal. It is an appropriate criticism of a Historian of Philosophy that s/​he failed to consider a Philosophical factor that,
+when considered, changes the picture at issue. We are all, and always, open to such criticism (and generally eventually subject to it). The search for the grounds of this criticism—​
+often in hitherto neglected texts—​is an important source of progress in the discipline.
+
+3.5 Struggle with Strauss
+I suggested earlier in the chapter that it is a default presumption of the History of
+Philosophy that a good interpretation of a text—​one that makes sense of it as a whole—​is
+a good guide to the meaning of the author. What, though, when one cannot find such an
+interpretation, for example because the text on its face contradicts itself?
+   One approach to this situation, that is taken nearly universally by medieval commentators on Aristotle, for example, is to deny that texts ever are inconsistent and attribute
+the failure to find a satsifactory interpretation to the failings of the interpreter. A second,
+popular among late nineteenth-​and twentieth-​century Historians of both Ancient and
+Medieval Philosophy, is to claim that the author changed her/​his mind and to deconstruct
+the text, arguing that it has distinct layers composed at different times. A third, less common approach is to argue that there are philosophical reasons (usually unexamined philosophical presuppositions) why the author did not notice the inconsistencies and a fourth is
+to claim that the inconsistencies are intentional. All of these approaches have difficulties,
+but the last, to suppose the author was deliberately inconsistent, is the one to be approached
+with the most caution—​because to adopt it is to abandon the usual canons for determining
+the worth of an interpretation. Consistency may be the hobgoblin of small minds but it is
+the lifeblood of History of Philosophy.
+
+                                 4. Conclusion
+
+I’ve stressed above that the History of Philosophy presupposes that the past of Philosophy
+is shaped by considerations of reason and that such considerations have a historical dimension. The situation here is perhaps usefully compared with the History of Science. The
+History of Science is also contested territory but it is territory that scientists have more or
+less abandoned to the Historians. When we learn that Newton spent as much time trying
+to decipher the Book of Numbers as he did trying to formulate a Mechanics, we learn, we
+are told, something important to the History of Science. No physicist, qua physicist, would
+or should care a fig, because important though that fact may be for understanding relations between physics and religion in the seventeenth century, it has no consequences (as
+
+=== p. 47 ===
+
+far as I know) for Physics. No physical theory or argument is affected by whether it is so or
+not. To the (limited) extent to which the History of Physics is studied in Departments of
+Physics the fact (if it be one) is an oddity. To the extent to which the History of Physics is
+studied in History Departments the fact may be taken very seriously inter alia as a sign that
+the History of Physics is just part of a larger cultural context, but it will almost always be
+taken seriously in conjunction with a relative neglect of what exactly Newton thought he
+was doing. 26
+   The comparison between the History of Philosophy and the History of Science raises
+another issue. From the beginning of institutional History of Science there has been a
+strong movement maintaining that History of Science and Philosophy of Science are
+inseparable. At the core of the movement seems to be the conviction that understanding
+how modern science developed both shows us what it is, and enables the sweeping away
+of myths that have grown up about it. In particular, the work of T. S. Kuhn and those who
+have followed him has been taken to dispel the myth that what we think of (have thought
+of?) as scientific progress is a rational process. Kuhn’s central claim that older scientific
+theories are not so much disproved as abandoned by young Turks with new ideas and reputations to be made, has suggested far-​reaching philosophical claims—​not least about the
+relativity of reason itself. Now Philosophy, of all subjects, is committed to self-​reflection. If
+the History of Science is inseparable from the Philosophy of Science, one might think that
+the History of Philosophy would be inseparable from the Philosophy of Philosophy and,
+since the Philosophy of Philosophy is a branch of Philosophy, in that way inseparable from
+Philosophy itself. Thus it is that while the History of Philosophy may be in service to two
+masters, it is to Philosophy that it renders the greater service.
+
+References
+Bréhier, Emile, Histoire de la Philosohie tome 1 (Librairie Félix Alcan, Paris, 1928).
+Collins, Randall, The Scoiology of Philosophies (Harvard University Press, Cambridge,
+  MA., 1998).
+Condren, Conal, Hobbes, the Scribblerians and the History of Philosophy (Pickering and
+  Chatto, London, 2012).
+Condren, Conal, Gaukroger, Stephen and Hunter Ian, (eds), The Philosopher in Early Modern
+  Europe: The Nature of a Contested Identity (Cambridge University Press, Cambridge, 2006).
+Crivelli, Paolo, Aristotle on Truth (Cambridge University Press, Cambridge, U.K., 2004).
+Curley, Edwin, ‘Dialogues With the Dead’, Synthese 67, 1 [April 1986]), pp. 33–​49.
+Frede, Michael, Essays on Ancient Philosophy (University of Minnesota Press, Minneapols,
+  1987).
+Hacking, Ian, ‘The Looping Effects of Human Kinds’, in Causal Cognition, ed. D. Sperber, D.
+  Premack, and A. James Premack (Oxford University Press, New York, 1996), pp. 351–​82.
+Hadot, Pierre, Philosophy as a Way of Life (Blackwell, Oxford, 1995).
+Hadot, Pierre, What is Ancient Philosophy? (Harvard University Press, Cambridge, MA,
+  2002).
+
+     And, one suspects, as part of a campaign to cut the prestige of Physics down to size—​but that is
+another matter!
+
+=== p. 48 ===
+
+Neiman, Susan, ‘Meaning and Metaphysics’, in Teaching New Histories of Philosophy, ed.
+   Jerome B. Schneewind (Princeton University Press: Princeton, 2004), p. 40.
+Normore, Calvin ‘Doxology and the History of Philosophy’, Canadian Journal of Philosophy
+   Supplementary volume 16, 1990, pp. 203–​26.
+Piaia, Gregorio and Santinello, Giovanni, ed., Models of the History of Philosophy Volume
+   II: From the Cartesian Age to Brucker (Springer, Dordrecht, 2011).
+Rorty, Richard, Schneewind, Jerome B., and Skinner, Quentin, eds., Philosophy in History
+   (Cambridge University Press, Cambridge, U.K., 1984).
+Schneewind, Jerome B. ed. Teaching New Histories of Philosophy (Princeton University Press,
+   Princeton, 2004).
+Strauss, Leo Persecution and the Art of Writing (University of Chicago Press, Chicago, 1952).
+

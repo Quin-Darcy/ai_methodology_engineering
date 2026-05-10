@@ -1,0 +1,1589 @@
+=== chunk: booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis ===
+title: Synthesising and Analysing Qualitative Studies
+source_pdf: docs/sources/booth-sutton-2022-systematic-approaches/full.pdf
+pdf_pages: 270-308
+page_scheme: book
+plan_page_start: 235
+plan_page_end: 273
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 235 ===
+
+       SYNTHESISING AND
+     ANALYSING QUALITATIVE
+            STUDIES
+
+                in a nutshell
+
+How to synthesise and analyse qualitative studies
+• Typically, you summarise qualitative data as themes or constructs.
+• You can also summarise and synthesise qualitative data using narrative, tables and, sometimes, graphics.
+• When choosing your method of synthesis you need to balance the need to aggregate (bring
+  studies together) with the need to interpret (make sense of findings from the studies).
+• You should also consider whether your focus is on the literature as a body of work, on the
+  individual studies or on themes or findings within those studies.
+• If you plan to integrate your qualitative synthesis with a quantitative review you must
+  consider in advance how to bring the two reviews together (see Chapter 9).
+
+                 key terms explained
+
+   aggregative: review approach concerned with assembling and pooling data (either
+   quantitative as with meta-analysis or qualitative as with thematic synthesis). Compare
+   configurative, a review approach that addresses open questions, typically answered with
+
+=== p. 236 ===
+
+      qualitative data and iterative, by examining experiences and meaning to generate and
+      explore theory.
+
+      disconfirming case: analytic strategy to protect against generalisation or caricature
+      when synthesising qualitative evidence. The search for disconfirming evidence, or negative cases, offers a valuable strategy for assessing the credibility or validity of qualitative
+      research claims.
+
+      meta-ethnography: interpretive approach that aims to provide a new interpretation of
+      studies or a new theory to explain research findings encountered, rather than a simple
+      aggregation.
+
+      qualitative evidence synthesis: umbrella term, as promoted by the Cochrane Qualitative
+      and Implementation Methods Group, for methodologies associated with the systematic
+      review of qualitative research, conducted either as a stand-alone review or as part of a
+      review of complex interventions, systems or for guideline development.
+
+      SPICE (Setting–Perspective–Interest, phenomenon of Comparison–Evaluation): structured
+      approach to formulation of qualitative questions that builds upon the PICO acronym; the
+      Population component is split into Setting and Perspective and the Outcomes component
+      is replaced with the more inclusive Evaluation component to incorporate concepts such as
+      outputs and impact.
+
+INTRODUCTION
+Qualitative methods allow you to gather detailed and specific information and, most importantly, go beyond statistical associations by investigating how complex mechanisms operate
+in different contexts (Miles et al., 2018). Qualitative synthesis involves identifying patterns
+within your data – patterns related to concepts, ideas or themes rather than to numbers
+or trends. A qualitative review seeks to identify commonalities across data and, equally
+importantly, looks for exceptions to an overall pattern or ‘rule’ (Booth et al., 2013b). You
+must recognise that the value of your review does not lie in merely identifying and bringing
+together related studies. By juxtaposing findings from different sources (putting them side by
+side) you may spot patterns or themes not previously recognised by the authors of individual
+studies. Furthermore, you may integrate your data to produce a new explanation or theory
+to explain why findings differ under different circumstances (Durach et al., 2017). Bear in
+mind, too, that you may not only spot patterns in the collective findings (what the individual
+authors found) but also notice differences that are explained by how researchers have carried
+out the individual studies (meta-method). Differences in methods used by included studies
+may explain inconsistencies in their findings or, ultimately, suggest how best to conduct such
+studies in the future.
+  A key principle of any synthesis is ‘making a new whole out of the parts’ (Cruzes & Dybå,
+2011b). This ‘new whole’ may form a new line of argument, a new theory or a new ‘take home
+message’. You can rearrange conceptual ‘building blocks’ (studies or findings) within an existing fabrication (e.g. a theory or framework) (Booth & Carroll, 2015b), integrate them with new
+studies or use them to produce an entirely new construction (Anderson et al., 2013; Brunton,
+2017; Brunton et al., 2020).
+
+=== p. 237 ===
+
+  This chapter starts by rehearsing the generic stages of a qualitative evidence synthesis (QES)
+before focusing attention on choice of synthesis and the procedures of basic and advanced
+synthesis and analysis. Featuring three main types of qualitative synthesis, namely thematic
+synthesis, framework synthesis and meta-ethnography, it then focuses attention on
+new forms of synthesis including rapid QES and reviews of qualitative reviews (namely, mega-aggregation and mega-ethnography).
+
+Synthesis–analysis: an iterative process
+Although some forms of qualitative synthesis, such as meta-aggregation, follow a linear process, it is more common for synthesis and analysis to be iterative (Garside, 2008). You may
+generate an initial finding. You might then confirm the presence of this finding in the existing
+data using some analytical technique. Many analytical techniques are common to multiple
+types of synthesis. The distinction between synthesis and analysis is clearest when we define the
+tools available for each of these two stages.
+
+OVERVIEW OF APPROACHES TO QUALITATIVE SYNTHESIS
+As mentioned in Chapter 7, synthesis relies heavily on pattern recognition. Techniques such
+as analogy (looking for similarities between different phenomena), metaphor (thinking about
+one thing as if it were the same as another) and homology (looking for direct and corresponding
+relationships between natural and synthetic structures) translate readily to evidence synthesis
+(Tranfield et al., 2003). Other useful techniques include comparison and contrast (Gilson, 2014;
+Gray & Malins, 2016). In Box 8.1 we illustrate these principles in a familiar setting.
+
+   A simple illustration of qualitative synthesis
+   Ask your colleagues to provide three phrases to describe their perfect holiday. Some may
+   be clear and specific (e.g. ‘good waves for windsurfing’). This example holds little possibility
+   for confusion although they may need to clarify what waves this requires. What, however, if
+   two or more colleagues use such phrases as ‘good weather’? Clearly this differs between settings (e.g. temperate versus tropical) and types of holiday (beach versus skiing). You would
+   need to clarify whether these colleagues have similar or different ideas in mind. Alternatively,
+   where colleagues use different terminology (e.g. ‘many places of interest’ and ‘rich cultural
+   heritage’), you need to establish whether these phrases ‘translate’ into the same concept or
+   idea. If by ‘many places of interest’ one colleague means restaurants, bars and nightclubs it is
+   unlikely that the two phrases translate into each other! Of course, the difficulty of this process
+   is compounded for published studies because you cannot usually go back to your informants
+   to clarify what was meant.
+
+=== p. 238 ===
+
+Aggregative, configurative or integrative?
+Drawing together findings from multiple qualitative studies is increasingly common as
+an important source of evidence to support policy and practice (Classen & Alvarez, 2015).
+Approaches to synthesis can be aggregative, configurative or integrative (Kastner et al.,
+2016). Aggregative synthesis is ‘stocktaking’, as typified in mapping exercises. Aggregative
+synthesis answers such questions as: What are the main study designs used to investigate the
+focus of interest? What are the principal themes across multiple studies? Are any populations
+poorly represented, or not represented, at all across studies?
+  Configurative synthesis involves capturing a ‘rounded’ picture of the focus of interest.
+Configurative synthesis addresses such questions as: How do the individual themes identified
+across studies relate to each another? Do my explanations for the focus of interest capture all
+important perspectives? Do the studies agree with each other or can I detect areas of disagreement
+(dissonance)?
+  Integrative synthesis brings together different types of data (either different types of qualitative data or data from quantitative and qualitative studies) such as integrating thematic data
+with responses from surveys. Chapter 9 focuses on integration of quantitative and qualitative
+studies or integration of quantitative and qualitative data within those studies (Noyes et al.,
+2019).
+  Approaches to synthesising qualitative research include meta-narrative, critical interpretative synthesis, meta-study, meta-ethnography, grounded theory, thematic synthesis, textual narrative synthesis and framework synthesis, and ecological triangulation
+(Booth et al., 2016; 2018). The novice researcher faces a bewildering choice! Guidance on how
+to choose synthesis methods is structured around the RETREAT mnemonic (Booth et al., 2016;
+2018b) (Box 8.2) (see also Chapter 3).
+
+   The RETREAT mnemonic for choosing a review type
+
+      Research question
+
+      Epistemology
+
+      Time/timeframe
+
+      Resources
+
+      Expertise
+
+      Audience and purpose
+
+      Type of data
+
+Before we walk you through a generic process for a qualitative synthesis we suggest that you
+familiarise yourself with a published example (Exercise 8.1). Debate exists on the extent to
+
+=== p. 239 ===
+
+which a qualitative evidence synthesis resembles other systematic reviews or whether it’s pedigree derives more from primary qualitative research methods (Booth, 2018).
+
+   Navigating around a qualitative evidence synthesis (QES)
+   Find an example of a qualitative evidence synthesis/qualitative systematic review. Use either
+   the reading guide by Tong et al. (2016) or the SBU (2019) Tool to assess methodological limitations of qualitative evidence synthesis (https://www.sbu.se/contentassets/14570b8112c5464
+   cbb2c256c11674025/methodological_limitations_qualitative_evidence_synthesis.pdf) to read
+   critically the example you have found. Bearing in mind that the journey is more important
+   than your destination, answer:
+
+   1. Are the methods of your chosen example of a QES well reported?
+   2. Is this a good example of a published QES?
+   3. What single improvement would you make to the methods of this particular QES? (You
+      may want to return to this question after having read the whole of this chapter.)
+
+A STEP-BY-STEP GUIDE TO QUALITATIVE SYNTHESIS
+As with other systematic approaches, qualitative syntheses start by focusing the question (see
+Chapter 4) and searching and screening the literature (see Chapter 5). These processes are covered in detail in the referenced chapters and are mentioned only briefly below.
+
+Step 1 – Formulating the question
+Although you can formulate a question for qualitative synthesis using the generic PICO
+(Population–Intervention–Comparison–Outcome) framework, some commentators suggest that
+it is more appropriate to use a variant of PICO (Harris et al., 2018). SPICE breaks Population
+into Setting and Perspective, replaces Intervention with focus of Interest and Outcome as the
+wider-ranging Evaluation (Booth, 2016). SPIDER accommodates qualitative and mixed methods questions (Sample, Phenomenon of Interest, Design, Evaluation, Research type) (Cooke
+et al., 2012). A recent addition, PerSPE(c)TiF (Perspective–Setting–Phenomenon of interest/
+Problem–Environment–(optional Comparison)–Time/timing–Findings) consolidates elements
+from existing question frameworks (Booth et al., 2019b). Regardless of the framework used
+you should structure your review question (see Chapter 4) to shape the subsequent search,
+inclusion/exclusion and data extraction processes. You should involve stakeholders from the
+very beginning and throughout your entire review (Harris et al., 2015; Bayliss et al., 2016;
+Downe et al., 2019).
+
+=== p. 240 ===
+
+Steps 2 and 3 – Searching and screening the literature
+In comparison with identification of quantitative studies (see Chapter 5), search procedures
+for retrieval of qualitative research remain relatively underdeveloped (DeJean et al., 2016).
+Particular challenges are associated with non-informative titles and abstracts, diffuse terminology, poor indexing and the predominance of quantitative studies in databases (Booth et al.,
+2016). You could start planning your search using the 7S framework (Noyes et al., 2021)
+(Table 8.1). This characterises important considerations from sampling and sources through
+structured questions, search procedures, strategies and filters and supplementary strategies to
+standards for reporting (Booth et al., 2016).
+
+Table 8.1   The 7S framework for qualitative searching
+
+Component                 Starting principles
+Sampling                  Where approaches other than comprehensive sampling are used,
+                          reviewers must justify their sampling strategy, match it to their
+                          synthesis method and describe fully how it was implemented
+Sources                   For health topics, MEDLINE and CINAHL (Rogers et al., 2018) are
+                          considered a minimum, augmented by topic-specific and setting-specific sources (Stansfield et al., 2012). Devise specific strategies to find
+                          specific types of grey literature, where included
+Structured questions      Your question structure should match the purpose and focus of the
+                          review. When paired with an intervention review, the qualitative question
+                          may be coterminous or could seek broader aspects of the focus of interest
+Search procedures         Given comparatively low yield of qualitative topic-based searches,
+                          reviewers should privilege specificity (retrieval of relevant items).
+                          You can use relevant items to develop supplementary search strategies.
+                          You should compensate for indexing deficiencies using well-chosen
+                          supplementary strategies
+Search strategies and     Filters should match the intended purpose of the review (Rosumeck
+filters                   et al., 2020; Wagner et al., 2020). When extensive supplementary
+                          strategies are used to improve sensitivity, topic-based searches may
+                          use a simple filter (using terms such as qualitative OR findings OR
+                          interview) (Rogers et al., 2018)
+Supplementary             Reference checking is a default for every review. For diffuse topics,
+strategies                or those with significant variation in terminology, tables of contents,
+                          citation searching or contact with authors/experts may be productive.
+                          Where context or theory is important, the CLUSTER method may
+                          be appropriate. Study identifiers may be useful for sibling or kinship
+Standards                 In the absence of a consensual standard for reporting, you should use
+                          ENTREQ, eMERGe supplemented by PRISMA and STARLITE to report
+                          your search
+
+  Determining which studies to include, based on consensus from two reviewers, enhances rig-our (Atkins et al., 2008). For example, will you include mixed methods studies with a qualitative
+component or not? Will you include data from free text responses to surveys? You may use two
+reviewers to reach consensus on screening decisions, resolving conflicts through discussion or
+by consulting a third reviewer (Atkins et al., 2008).
+
+=== p. 241 ===
+
+Step 4 – Extracting qualitative data for your review
+Data extraction precedes synthesis and is key to demonstrating that you have followed a systematic approach:
+
+      Standardized data extraction approaches and forms are essential in minimizing error, providing a historical record of decisions made about the data, and establishing a data set for
+      subsequent synthesis. (Munn et al., 2014)
+
+When extracting data you systematically identify information relevant to the review question
+(Finfgeld-Connett, 2018b). Remember that you are trying to ensure that you handle different
+studies, with their different designs and publishing conventions, in a consistent manner. You
+should decide which data to extract and how to do this (Finfgeld-Connett & Johnson, 2018).
+Data extraction requires that you pre-specify, and then examine, which elements of data are
+present in each individual report (Munn et al., 2014). Think how the data you extract relates to
+your review question. The Cochrane guidance (Noyes et al., 2018a) suggests four approaches to
+data extraction:
+
+1.     Using a standardised, or adapted, data extraction template.
+2.     Using an a priori extraction conceptual framework.
+3.     Using a software program (e.g. NVivo) (Houghton et al., 2017) to inductively code original
+       studies.
+4.     Using a logic model of the programme theory to inform data extraction, analysis and synthesis.
+
+Data extraction forms require a descriptive section that mirrors your focused question (e.g.
+SPICE or PerSPE(c)TiF – see Chapter 4), to capture the setting, the perspective, the intervention/
+focus of interest as well as characteristics of the population sample. Beyond the generic SPICE
+format your data extraction is shaped by your method of synthesis. For framework synthesis
+your framework may be a conceptual model, logic model or pathway of care (Booth & Carroll,
+2015b) from which your data extraction form will accommodate concepts and sub-concepts.
+Allow extra unlabelled fields for uncoded data to which you will subsequently return. Your challenge is to balance the granularity of the data extraction form with the quantities of relevant
+data (Brunton et al., 2020); you do not want either ‘just-in-case’ empty fields or large quantities
+of data lumped under broad labels.
+     Interpretive reviews challenge conventional data extraction. The raw data of a qualitative systematic review is ideas or concepts. Ideas or concepts are not uniquely found within
+the Results section of a primary study. Novel thinking may appear in the Discussion and
+Conclusion sections (Noyes et al., 2018a). When synthesising qualitative research, reread
+the original findings to compare emerging ideas with the concepts as originally written.
+Continually look out for overlap, similarities and contradictions (Mays & Pope, 2020a). Your
+data extraction form should stimulate insights and interpretation. Use different ways of
+extracting and juxtaposing concepts (coding original papers, tabulation, mind maps, colour
+coding, short text descriptions, etc.). Rather than deciding everything in advance, revisit your
+forms and data continuously as new interpretations emerge. You should also seek to highlight
+information about contextual factors from included studies to explain differences across studies
+(Booth et al., 2019a).
+
+=== p. 242 ===
+
+    The value of data extraction for qualitative research depends upon whether the overall intent
+is aggregative (bringing multiple studies together in a common format to facilitate assimilation and summing up) or interpretive (where data extraction is enhanced by creative techniques to optimise the explanatory value of the data). The units of extraction in this case are
+specific findings and illustrative excerpts from the text.
+
+Step 5 – Quality assessment (appraisal)
+Quality assessment of qualitative research is contentious, both on how it is best conducted and,
+indeed, on whether it should be undertaken at all! Quality, in the context of qualitative research,
+is considered elusive (Toye et al., 2013). Nevertheless, peer reviewers and editors typically expect
+all systematic reviews to assess quality, making compliance the path of least resistance. When
+seeking to establish the confidence or certainty associated with research findings (such as GRADE-CERQual), quality assessment of methodological limitations becomes essential (Munthe-Kaas et al.,
+2018; 2019). Excluding an entire study on the basis of an appraisal of study quality may not be
+appropriate (Dixon-Woods et al., 2004), particularly if it contributes an important insight:
+
+      the ‘study’ is not the appropriate unit of analysis for quality appraisal in research synthesis.
+      There are often nuggets of wisdom in methodologically weak studies and systematic review
+      disregards them at its peril. (Pawson, 2006c)
+
+Tools for quality assessment are described in more detail in Chapter 6. The Critical Appraisal
+Skills Programme (CASP) checklist for qualitative studies has become ubiquitous (Hannes et
+al., 2010). Meanwhile, the Qualitative Assessment and Review Instrument designed by Joanna
+Briggs (JBI-QARI) (Hannes et al., 2010; Toye et al., 2013) and the Quality of Reporting Tool
+(Carroll et al., 2013) have gained traction within meta-aggregation and best fit framework synthesis respectively. Current appraisal checklists highlight valid concerns about
+inconsistent judgements and an inherently subjective appraisal process (Toye et al., 2013;
+Delefosse et al., 2015; Morse, 2021; Morse, in press). Noticeably, no tool is currently designed
+for assessing studies for inclusion within a meta-ethnography. The Cochrane Qualitative and
+Implementation Methods Group has issued guidance on how to select appropriate instruments
+and criteria (Noyes et al., 2018a).
+
+Step 6 – Synthesis
+A key early stage is planning your initial synthesis strategy – how to approach the literature
+once you have assembled it (Petticrew et al., 2013b). You may, in fact, need to switch from your
+initial strategy (Box 8.4) to an appropriate alternative as patterns from the literature become
+clearer. Whatever methods of synthesis you use you will:
+
+•     map similarity,
+•     ensure that categories are exclusive and avoid overlap, and
+•     create secure and well-defined concepts as the building blocks of your process.
+•     These procedures will enable you to create a taxonomy, produce a framework or meta-framework, develop a coding scheme or generate a thematic synthesis.
+
+=== p. 243 ===
+
+Synthesis and analysis form a substantive part of the remainder of this chapter. We will focus
+only on how to get started with each activity in this introductory section. Broadly speaking
+synthesis and analysis requires:
+
+1.    Initial assessment of study reports
+2.    Analysis and synthesis
+3.    Preliminary analysis and interpretation
+4.    Full analysis and interpretation.
+
+     Planning your synthesis strategy
+     1. Decide whether to read swiftly through all papers or to work through papers in detail one by one.
+     2. Decide how you will document contents of individual papers (memos, notes, structured form).
+     3. Select a starting paper (e.g. index paper – according to age, conceptual richness, number of
+        citations, source discipline, etc.).
+     4. Decide how you will tackle subsequent papers (chronological, purposive sampling, maximum
+        variation sampling, etc.).
+     5. Construct cross-case comparisons across the set of papers (e.g. tabulation etc.).
+
+While you may need to refine and change your initial synthesis strategy, you nevertheless need
+a clear direction of travel. Clearly if you intend to read and review an entire body of literature
+it will not matter in which order you handle the papers; you will categorise data from each
+additional paper which will be compared with data from previous papers, using the constant
+comparative method. If, however, you are planning to sample purposively from the literature
+(Combs et al., 2010) then you need to be confident that you have constructed your sampling
+frame appropriately (Benoot et al., 2016; Ames et al., 2019a).
+
+Step 7 – Analysis and interpretation
+Analysis and synthesis involve further reading and rereading of study reports. Preliminary
+analysis and interpretation move forward from considering studies as individual reports
+towards examining them as a body of evidence. You start to categorise the findings from the
+studies. Your challenge is to extract findings from these studies without losing the context
+and relationships within each report. You may find that the techniques of narrative synthesis
+covered in Chapter 7 (e.g. mind maps, logic models, tabulation, etc.) help to make sense of
+qualitative studies and to explore the presence of patterns. At this stage, start to look for patterns
+both within and between studies. Detailed reading allows you to focus on technical aspects of
+the reporting and to start thinking about whether methods used are appropriate. You need not
+implement a hierarchy of study designs (Petticrew & Roberts, 2003) but rather consider whether
+each method is suitable for the research question under examination.
+
+=== p. 244 ===
+
+     Full analysis and interpretation move you beyond the elementary synthesis techniques
+used in the preliminary stages to formal methods of synthesis such as thematic synthesis, framework synthesis or meta-ethnography. Three synthesis approaches are particularly useful (Suri,
+2013; Benoot et al., 2016):
+
+•      Pursuing a line of argument.
+•      Examining consistencies.
+•      Identifying the disconfirming case.
+
+By engaging with findings at this depth you will be able to spot meta-level characteristics – for
+example, how findings have been informed by a particular research tradition or how concepts
+have developed over time (Barnett-Page & Thomas, 2009). You may reveal incompatibility between certain theoretical or ideological stances. For example, our study of community
+engagement exposed a divide between top-down governmental approaches and participatory
+bottom-up approaches (Harris et al., 2015).
+     At this stage you can start to consider how your findings are influenced by study quality.
+While synthesis steers the reader towards patterns of similarity you should be particularly active
+in seeking the divergent or disconfirming case (Booth et al., 2013a). Where the data is sufficiently rich you may proceed to theory development – perhaps by constructing if–then causal
+chains or logic models (Kneale et al., 2015).
+
+Data presentation
+How review findings are defined and presented depends on the review question, the synthesis
+methods used, the intended purpose or audience of the synthesis, and the richness of the data
+available (Gough et al., 2017). Typically, a formative presentation might include ‘literature
+review maps/diagrams, matrices, or outlines that indicate main themes, subthemes, categories,
+subcategories, patterns and sequencing of ideas’ (Combs et al., 2010) to illustrate work in progress. In contrast a summative presentation helps the intended audience make sense of the
+completed review’s findings and key take home messages (Leary & Walker, 2018).
+     Further detail on summative presentation is discussed later in the chapter in the section on
+writing up and presenting review findings (see also Chapter 10).
+
+GETTING STARTED IN QUALITATIVE SYNTHESIS
+A previous publication identified 15 qualitative approaches to research synthesis (Booth et al.,
+2018). Our list excluded critical interpretive synthesis (Snilstveit et al., 2012) and realist
+synthesis which feature as mixed methods approaches in Chapter 9. However, as with the
+main review types, we can limit the 15 approaches – in this case to a four-item QES Survival Kit!
+(See Box 8.4.)
+     QES Survival Kit
+
+=== p. 245 ===
+
+Guidance from the Cochrane Collaboration (Noyes et al., 2021) and the World Health
+Organization (Flemming et al., 2019) seeks to further simplify the choice to three methods: thematic synthesis, framework synthesis and meta-ethnography. Collectively, they identify
+all three methods under the umbrella term – qualitative evidence synthesis (QES). Thematic
+synthesis, based on thematic analysis methods used in primary research, remains one of the
+most accessible methods of qualitative synthesis. Framework synthesis, adapted from framework analysis, begins with an a priori conceptual framework, which develops iteratively as
+new data is incorporated and themes are derived from the data. Meta-ethnography, likened to
+grounded theory approaches, represents the most ambitious of the three methods and moves
+explicitly towards the generation of theory. The Campbell Collaboration adds a further method,
+popularised by the Joanna Briggs Institute, namely meta-aggregation (see Hannes & Lockwood,
+2011b). Meta-aggregation is ‘a process that identifies meanings from qualitative studies that may
+be from different methodologies and further abstracts those meanings into categories that are
+then synthesized’ (Tufanuru, 2015). It ‘seeks to generate summaries to determine the value of the
+findings of individual studies in terms of their practical consequences’ (Hannes & Pearson, 2012).
+     Recent years have witnessed attempts to move beyond merely documenting methods to
+identifying which method of synthesis is most appropriate under what circumstances (Booth
+et al., 2016; 2018b). It is useful to read the experiences of self-declared novice researchers when
+attempting these synthesis methods (Soilemezi & Linceviciute, 2018; Herber & Barroso, 2019;
+Kalpokaite & Radivojevic, 2019). We advise that you start from one of the more accessible methods of synthesis, namely thematic synthesis and framework synthesis. Both methods mirror corresponding established methods used for analysis of primary qualitative data, namely thematic
+analysis and framework analysis.
+
+Thematic synthesis
+Thematic synthesis seeks to provide a consistent analysis of content across included studies
+(Box 8.4). It seeks to identify the diverse factors that help in understanding the focus of interest. It
+then seeks to organise these factors into the principal (interpretive) or most common (aggregative)
+themes (Table 8.2).
+
+     At a glance – thematic synthesis
+
+        Thematic synthesis involves the systematic coding of data and generating of descriptive and analytical themes. It is an inductive approach. (Nicholson et al., 2016)
+
+=== p. 246 ===
+
+          Reviewer Expertise            
+
+          Information Expertise         
+
+   Table 8.2 SALSA approach mapped to thematic synthesis
+
+   SALSA stage         Procedure (Cruzes & Dybå, 2011b)
+   Search              Aims for 'conceptual saturation'. Purposive sampling may involve
+                       deliberately seeking negative cases, aiming for maximum variability and
+                       designing resulting set of studies to be heterogeneous (Sutton et al., 2019)
+   AppraisaL           Procedures for ‘trustworthiness’ seek to examine transparency,
+                       generalisability, quality and sensitivity analysis (Thomas & Harden, 2008).
+                       Trustworthiness increases when findings are presented in a way that allows
+                       the reader to look for alternative interpretations (Cruzes & Dybå, 2011b)
+   Synthesis           Extract data
+                       Code data
+                       Translate codes into themes
+
+   Analysis            Create a model of higher-order themes
+                       Assess the trustworthiness of the synthesis
+
+   Note: Cruzes & Dybå (2011b) produced a 21-item checklist for stages of a thematic synthesis.
+
+Framework synthesis
+Framework-based synthesis offers an important advance in conducting reviews of qualitative
+synthesis. The ‘best fit’ variant is particularly helpful when policy-makers, practitioners or other
+decision-makers need answers quickly, and can tolerate ambiguity about whether the answer
+is the very best that could be given (Dixon-Woods, 2011). Framework synthesis captures new
+understandings as data is incorporated into the framework (Brunton, 2017; Brunton et al., 2020).
+You can then express the resulting synthesis – for example, in the form of a model or chart.
+
+   At a glance – framework synthesis
+
+   Framework synthesis:
+
+      originates from framework analysis, a method of analysing primary research data to
+      address policy concerns. The research question and the background theoretical and
+
+=== p. 247 ===
+
+      empirical literature shape an understanding of the issue under study into an a priori
+      conceptual framework, which develops iteratively as new data are incorporated and
+      themes are derived from the data (Brunton et al., 2020). The process of framework
+      synthesis is mapped to the SALSA framework in Table 8.3.
+
+   Table 8.3     SALSA approach mapped to framework synthesis
+
+   SALSA stage       Activities (Gale et al., 2013)
+   Search            Comprehensive search for primary studies based on predefined criteria.
+                     Searches of multiple databases using qualitative methodological filters.
+                     May involve iterative searching of theoretical literature, without filters, for
+                     both identifying and populating a framework
+
+   AppraisaL         May not only require assessment of the quality of qualitative research
+                     but also appraisal of the theory or framework that has been identified for
+                     analysis (Booth & Carroll, 2015b)
+
+   Synthesis         Familiarisation: immersion in the included studies with the aims and
+                     objectives of the review
+                     Identifying or developing a thematic framework
+                     Indexing: applying framework to code individual studies
+
+   Analysis          Charting: charts contain distilled summaries of evidence
+                     Mapping and interpretation: using the charts to define concepts, map the
+                     range and nature of phenomena, create typologies and find associations
+                     between themes as a way of developing explanations for the findings
+
+Best fit framework synthesis
+‘Best fit’ framework synthesis is a variant of framework synthesis, specifically designed to meet the
+needs of systematic reviews. It applies innovative methods to identify theories in a systematic manner
+(Booth & Carroll, 2015a), and to create the a priori framework for the qualitative evidence synthesis
+(Booth & Carroll, 2015b). Subsequently, it combines existing methods of quality assessment (Carroll
+& Booth, 2015), analysis and synthesis (Carroll et al., 2011) to complete the review process.
+  Starting with a ‘good enough’ framework, you populate it with as much data as possible
+without forcing the data to fit. Following this initial deductive phase, you handle the remaining data inductively, creating new themes until all the data is processed. Best fit framework
+synthesis differs from other methods of framework synthesis, which allow the reviewer to add
+data inductively at any time in the process, by engineering a blatant gap between the deductive
+and inductive phases. This gap ensures a clear audit trail for themes derived from the original
+
+=== p. 248 ===
+
+framework and those subsequently identified by the inductive process of thematic synthesis.
+The gap provides added transparency and facilitates project management and version control
+by keeping the two stages phased and sequential, rather than iterative.
+  Best fit framework synthesis seeks to capitalise on inherent advantages of framework synthesis and thematic synthesis by offering a pragmatic methodology. Where available data is
+limited and primarily descriptive (‘thin’ data), the best fit method can still sustain limited
+theoretical development. The method relies on ready identification of a conceptual framework
+which best fits the data and may occasionally result in a ‘false start’ (e.g. if the framework is
+mismatched either by time or space). The method is compatible with current best practice in
+searching for and appraising qualitative evidence (Booth, 2016).
+
+   At a glance - best fit framework synthesis
+
+   How is best fit framework synthesis different from framework synthesis?
+
+   Although conventional framework synthesis allows you to keep on modifying the framework
+   to codify new themes as they appear in the data, by doing so it sacrifices transparency and
+   auditability. Best fit framework synthesis purposely engineers a gap between the data you
+   process deductively through an existing framework and data you handle inductively, once you
+   have completed coding against that framework. The originators of best fit framework synthesis claim several distinctive features:
+
+   • Pragmatically, it allows a review team to initiate synthesis where no existing conceptual
+     model offers a close match to the data being extracted. So, a model of factors that influence women who take dietary supplements offered a good enough fit in the absence of
+     a conceptual model for older people taking substances such as aspirin to prevent bowel
+     cancer (Carroll et al., 2011).
+   • Frameworks are harvested systematically from the literature, via a parallel search process
+     (Booth & Carroll, 2015b), rather than requiring detailed input from stakeholders. A match
+     of 60–80% between themes from your data and those from a candidate framework indicates sufficient advantage over thematic synthesis.
+   • Multiple frameworks can be identified and merged to cover complementary aspects or
+     levels of a phenomenon to form a single comprehensive meta-framework (Carroll et al.,
+     2013). Logic models (Rehfuess et al., 2018) and policy frameworks offer alternative structures (Booth et al., 2015b) where theoretical frameworks do not exist.
+   • The best fit framework synthesis process (Table 8.4) clearly identifies where a new
+     expanded model builds upon and extends the original framework.
+
+=== p. 249 ===
+
+    Table 8.4   SALSA approach mapped to the best fit framework synthesis process
+
+    SALSA Stage       Procedure (Booth & Carroll, 2015b)
+                      1. Define review question
+
+    Search            2a. Systematically identify relevant primary research studies
+                      2b. Identify relevant (best fit) publications of conceptual models/
+                          frameworks of theories
+
+    AppraisaL         3. Extract data on study characteristics from included studies and
+                         conduct study quality appraisal
+
+    Synthesis         4. Code evidence from included studies from the a priori framework
+                         identified in stage 2
+                      5. Create new themes by performing secondary thematic analysis on any
+                         evidence that cannot be coded into the a priori framework
+
+    Analysis          6. Produce a new framework composed of a priori and new themes
+                         supported by the evidence
+                      7. Revisit evidence to explore relationships between themes or concepts
+                         in order to create a model
+
+PROGRESSING TO ADVANCED FORMS OF SYNTHESIS
+Meta-ethnography
+Meta-ethnography offers a way of synthesising findings from multiple qualitative studies to
+provide ‘a range and depth of meanings, experiences, and perspectives of participants across
+health-care contexts’ (Tong et al., 2012). By translating studies into one another, meta-ethnography
+seeks to create novel interpretations and ideas about the focus of interest (France et al., 2019b).
+If thematic synthesis and framework synthesis are the most accessible methods of qualitative
+synthesis then meta-ethnography is the longest established and most frequently cited approach
+(Hannes & Macaitis, 2012). However, this does not mean that meta-ethnography is executed
+well (France et al., 2014).
+    Noblit and Hare (1988) are credited with devising the principles of meta-ethnography.
+However, meta-ethnography was not initially presented as a generic method and so further
+developments in methodology (Campbell et al., 2011), updating procedures (France et al., 2016)
+and reporting (France et al., 2019a) have been required. The original text described three trajectories of synthesis that a meta-ethnography could pursue: reciprocal translation, refuta-tional synthesis and line of argument synthesis (Noblit & Hare, 1988):
+
+•     Reciprocal translation occurs when different accounts are translated into each another.
+      Reciprocal translation has been identified as a fundamental strategy present in most types
+      of qualitative synthesis (Melendez-Torres et al., 2015).
+•     In contrast, refutational synthesis takes place when accounts stand in relative
+      opposition to each other and are essentially ‘refutational’, as it allows interpretation
+      of conflicting accounts. Attention should be paid to the assumptions, motivations and
+      ideology behind a study. A benefit of conducting a refutational translation is that it
+
+=== p. 250 ===
+
+      allows reviewers to identify if theories or ideologies underlying two or more studies differ (France et al., 2019b).
+•     Line of argument synthesis offers an overarching interpretation of the studies (Noblit
+      & Hare, 1988); even ‘dissimilar but related studies’ taken together represent a ‘line of argument’, thereby revealing a ‘whole’ among a ‘set of parts’.
+
+Meta-ethnography (Box 8.7) persists as one of the most common forms of qualitative synthesis
+(France et al., 2019b). First you identify and list key metaphors (themes, perspectives, phrases,
+ideas and/or concepts) from each individual study (Noblit & Hare, 1988). You then ‘put together’
+these metaphors by linking them across studies. By linking metaphors in this way, you offer a
+holistic understanding of complex phenomena (Brookfield et al., 2019).
+
+    At a glance – meta-ethnography
+
+    Meta-ethnography is an interpretive approach that seeks to preserve the social and theoretical contexts in which findings emerge (Noblit & Hare, 1988). Meta-ethnography involves
+    systematically comparing conceptual data from primary qualitative studies to identify and
+    develop new overarching concepts, theories, and models. The seven ‘phases’ of meta-ethnography
+    are mapped to the SALSA framework in Table 8.5
+
+          Information expertise     
+
+          Time                      
+
+          Resources                 £££
+
+    Table 8.5    SALSA approach mapped to meta-ethnography
+
+                       Phase 1: Getting Started (incorporates the rationale, aims and
+                       protocol development). Identify ‘an intellectual interest that qualitative
+                       research might inform’ (Noblit & Hare, 1988)
+    Search             Phase 2 Deciding what is relevant to the initial interest. Identify and
+                       select study accounts to synthesise. Noblit & Hare (1988) did not advise
+                       how to do this; they selected studies purposefully. Systematic review
+                       methods had not yet been developed
+    AppraisaL          Phase 3 Reading the studies: ‘repeated reading of the accounts and the
+                       noting of interpretative metaphors […] requires extensive attention to the
+                       details in the accounts’ (Noblit & Hare, 1988)
+
+=== p. 251 ===
+
+   Synthesis            Phase 4 Determining how the studies are related: ‘the various studies
+                        are “put together”’ (Noblit & Hare, 1988). Requires determining ‘the
+                        relationships between the studies to be synthesized in order to decide
+                        how to synthesize them’ (Noblit & Hare, 1988)
+                        Phase 5 Translating the studies into one another: involves
+                        systematically comparing the meaning of metaphors, concepts or
+                        themes and their relations across study accounts to identify the range of
+                        metaphors, concepts, and themes
+                        Phase 6 Synthesising translations: Involves ‘going beyond the findings
+                        of any individual study’ (Noblit & Hare, 1988). Translations from phase 5
+                        are compared to identify common/overarching concepts and to develop
+                        new interpretations
+   Analysis             Phase 7 Expressing the synthesis: communicating the synthesis to
+                        your audience in a suitable format
+   Note: Meta-ethnography is typically described as seven phases (Cahill et al., 2018). These phases are best
+   considered analytical procedures rather than sequential stages.
+
+  Sampling remains a key issue for meta-ethnography (Atkins et al., 2008; France et al,
+2019b). Comprehensive search strategies may be prohibitive given the need to engage intensively with all included studies. An alternative is to construct a preliminary map of studies
+and sample purposively to ensure coverage of different populations, settings and experiences of the focus of interest. A third and final approach is to sample according to ‘richness’
+of data – continuing to sample from studies of decreasing richness until a point analogous
+to theoretical saturation is reached (Ames et al., 2019a). However, typically comprehensive
+searches are required either (i) to locate all eligible studies or (ii) to create an optimal
+sampling frame.
+  Quality assessment was never key to meta-ethnography which privileges quality of interpretation above technical quality (Toye et al., 2013). However, quality assessment is often
+expected by funders, editors or peer reviewers. Increasingly, even interpretive methods (e.g.
+meta-ethnography) are subject to GRADE-CERQual assessments that require an assessment
+of methodological limitations (Munthe-Kaas et al., 2018).
+  Outputs from a meta-ethnography may include hypotheses generated from the synthesis and
+a model of factors relating to the phenomenon of interest (France et al., 2019b). Outputs can
+be presented in a simple, but not overly simplistic, diagrammatic format. To achieve uptake of
+findings into policy, programme development and research require multiple strategies, including publication in journals and communication at conferences (see Chapter 10). Harnessing
+meta-ethnography findings to an effectiveness review may help in mapping factors to existing
+interventions (see Chapter 9).
+  Having introduced you to the principal choices for qualitative synthesis we suggest that you
+reflect on your own choice of method – both to help you to write your protocol and to identify
+your future learning needs.
+
+=== p. 252 ===
+
+   Choosing your method of synthesis
+   Examine the different methods of synthesis outlined in this chapter. Sort them into those of
+   current potential for your review, those unlikely to prove useful at present, and those where
+   you need further detail. Produce a draft learning plan for further reading/research on qualitative data synthesis.
+
+        1a. Best fit framework synthesis
+   3. Narrative synthesis (see also Chapter 7)
+
+      Current potential            Further detail required       Not relevant at present
+
+      To find out more on data synthesis I am going to read/research:
+      e.g. Meta-aggregation
+      By __/__/202_
+
+Toolbox – software for qualitative synthesis
+Software may be specific to performing systematic reviews (McInnes & Wimpenny, 2008) or
+may be designed for primary qualitative research for use during the synthesis and analysis stages
+(Houghton et al., 2017; Haynes et al., 2019). EPPI-Reviewer is intended for use across diverse
+review types and allows you to employ a common review approach across quantitative and
+qualitative reviews (Park & Thomas, 2018). QARI from the Joanna Briggs Institute (JBI) is specialist software, particularly used for meta-aggregation (McInnes & Wimpenny, 2008), and is one of
+a suite of purpose-designed review programmes. Finally, you can use data analysis software, such
+as NVivo, to handle coding of texts from journal articles as if they were interview transcripts
+(Houghton et al., 2017).
+  You can use Google Forms to input data into a framework, specifying question formats using
+tick boxes or drop-down menus. You can export the resultant data into a Microsoft Excel spreadsheet or cut and paste the data into Microsoft Word tables. You can use NVivo for framework
+synthesis, illustrating that tools and methods of synthesis hold sufficient flexibility to allow
+interchangeability in procedures used (Houghton et al., 2017).
+  For thematic synthesis, or for the early stages of meta-ethnography, you could import the
+complete article into a qualitative data analysis package such as NVivo to allow you to code line
+
+=== p. 253 ===
+
+by line (Toye et al., 2014; Houghton et al., 2017). Uploading a PDF within NVivo allows you to
+code conceptual findings wherever they appear within each paper, and to compare individual
+team interpretations in one database (Houghton et al., 2017). NVivo offers the facility to record
+and compare interpretations, including ‘memoing’ to track developing ideas. Conventional data
+extraction assumes an ‘extract once, read multiple times’ way of working. If you are planning to
+‘read multiple times, code multiple times’ you may find conventional data extraction a less useful model of working. Constant comparison may prove useful in moving to and fro between
+the findings of individual studies and the synthetic findings of studies considered thus far.
+  A word of caution: Just because you can cut and paste blocks of text from articles into your
+extraction form should not stop you from recognising that not all data is equally relevant.
+Effective data extraction revisits the review question to ensure that only data that is relevant, or
+potentially relevant, is extracted.
+
+Qualitative data analysis
+Analysing what you find
+Having performed your initial synthesis you can explore what has been found and what is missing. The synthesis stage aims to tell you what the literature says. The analysis stage focuses on
+telling you what the literature means. If synthesis is when a detective assembles and organises all
+the clues, then analysis is when that same detective tries to make sense of them.
+  Many analytical techniques are available (Table 8.6) during the iterative phases of synthesis
+and analysis (Miles et al., 2018). Subsequently, you can present your data using textual, graphical, numerical and tabular techniques (Soilemezi & Linceviciute, 2018).
+
+Table 8.6 Elements of data analysis
+
+Noting patterns and themes        Meta-ethnography, thematic synthesis
+Seeing plausibility (ensuring     Meta-ethnography
+conclusions make good sense)
+Clustering                        Content analysis, framework synthesis, meta-ethnography,
+                                  thematic synthesis
+Making metaphors                  Meta-ethnography, meta-narrative review
+Counting                          Cross-case analysis, meta-analysis (Chapter 7), meta-summary
+Making contrasts/comparisons      Meta-ethnography, meta-narrative review
+Partitioning variables            Framework synthesis, meta-ethnography, meta-analysis (Chapter 7)
+Subsuming particulars into the    Meta-analysis (Chapter 7), meta-ethnography
+general
+Noting relations between          Logic models, realist synthesis (Chapter 9)
+variables
+Finding intervening variables     Logic models, realist synthesis (Chapter 9)
+
+=== p. 254 ===
+
+Table 8.6 (Continued)
+
+Building a logical chain of               Logic models, realist synthesis (Chapter 9)
+evidence
+Making conceptual/theoretical             Concept maps, logic models, meta-ethnography, meta-narrative
+coherence                                 review, realist synthesis (Chapter 9)
+
+   Qualitative data has four tools of synthesis at its disposal, namely textual, numerical,
+tabular and graphical. Within qualitative synthesis textual approaches occupy the principal place. In addition to narrative synthesis, which can accommodate both paradigms,
+textual approaches include techniques from primary qualitative analysis. Table 8.7 illustrates
+approaches to synthesis found in different types of review.
+
+Table 8.7 Approaches to synthesis in different types of qualitative evidence synthesis
+
+Approaches to synthesis                Application                                 Review example
+Thematic synthesis                     Aimed to understand the concept of          The concept of reflection:
+                                       reflection by synthesising conceptual       a systematic review and
+Word frequency count
+                                       qualitative studies. Used 14 sources to     thematic synthesis across
+Thematic synthesis                     construct 4 analytical themes: cognitive,   professional contexts
+Synthetic working definition           integrative, iterative and active. Themes   (Marshall, 2019)
+(cf. concept analysis)                 were explored in relation to existing
+                                       research and a novel definition of
+                                       reflection was proposed
+
+Framework synthesis                    Results of data synthesis presented         Factors influencing
+                                       by level of the socio-ecologic model        obesogenic behaviours
+Thematic presentation
+                                       (individual, social, physical and macro     of adolescent girls and
+by model categories
+                                       levels). Six models deconstructed into      women in low- and
+Descriptive statistics on
+                                       meta-framework with 72 constructs           middle-income countries:
+countries/regions
+                                                                                   a qualitative evidence
+                                       Sensitivity analyses conducted for
+Sensitivity analysis                                                               synthesis (Trübswasser
+                                       study quality (high or low), population
+                                                                                   et al., 2020)
+                                       (adolescent girls or adult women),
+                                       continent (Africa, Asia or South
+                                       America) and setting (rural or urban)
+
+Meta-ethnography                       Synthesises findings of two ethnographic    Using meta-ethnography
+                                       studies and a qualitative review on         to develop a conceptual
+                                       the influence of peer-assisted learning     model of peer-assisted
+                                       on student nurses. Identified four key      learning of nursing
+                                       themes underpinned by six sub-themes        students in clinical practice
+                                       and developed a conceptual model of         (Carey et al., 2019)
+                                       effective peer-assisted learning
+
+   The human brain finds it easier to identify overall patterns or similarities in data ahead
+of being able to spot inconsistencies or exceptions (Booth et al., 2013a). You are likely to be
+
+=== p. 255 ===
+
+subconsciously influenced to impose explanatory patterns over data that is either not present
+or non-apparent. The same skills you use in marshalling an argument can equally threaten the
+integrity of a study and its results. Furthermore, we are receptive to data that supports our underlying opinion and reject, or explain away, data that is uncomfortable or that does not fit easily.
+You should not focus all your attention on constructing a ‘line of argument’. You should pay
+similar attention to nuanced findings from inconsistencies or contradictions. A review team (or
+student/supervisor) should maximise opportunities to ‘challenge’ persuasive or seductive lines
+of argument (Booth et al., 2013a). Those closest to the data, especially newer members of the
+team, should feel able to challenge and resist interpretations into which data is inappropriately
+‘shoehorned’ (Booth et al., 2013a).
+  Few qualitative synthesis methods are operationalised as comprehensive step-by-step processes that offer practical guidance to researchers in producing a rigorous, clear report (Tong
+et al., 2012). While you should try to distinguish between different methodologies, it is
+equally important to identify generic processes of synthesis and analysis common to multiple
+methods.
+  Although creativity is an important feature of pattern seeking and interpretation, it is important that, at all times, you ground any theories or hypotheses in your data. Conclusion drawing
+and verification is required to move from the ‘particulars into the general’ (Whittemore & Knafl,
+2005). As new data is accommodated, you should continually revise any conclusions or conceptual models so that they continue to be inclusive (Miles et al., 2018). You need to verify any patterns, themes, relationships or conclusions with your primary source data to ensure that they are
+both accurate and confirmable (Miles et al., 2018). At this stage, you are particularly vulnerable
+to a cognitive bias such as being locked into a particular pattern (premature analytic closure)
+(Miles et al., 2018) or you may exclude pertinent evidence because it is inconvenient or extraneous to your theorising.
+  To use our earlier example about a holiday, you might group individual data into overarching
+constructs, such as weather, location, attractions, companions, food and drink, etc. You may
+then wish to trace particular responses back to particular respondent characteristics: for example, are males more likely to mention food and drink? Do younger respondents tend to focus
+on extreme sports or strenuous activities? You may therefore need to re-examine the data in the
+light of such differences. Furthermore, you may identify tensions or conflict between respondents who desire ‘peace and quiet’ and those who require ‘excitement’. Identifying tensions may
+lead you to explore how individuals manage these in practice, perhaps through alternation or
+having separate holidays to supplement a family holiday.
+  Data extraction against themes helps to identify patterns (Kalpokaite & Radivojevic, 2019).
+Within the limited number (three studies) of reports included in the thematic matrix (Table 8.8)
+for a hypothetical review on the attitudes of village communities to peripherally located supermarkets we observe:
+  Study 1 by Greenwood and Liffey focuses exclusively on economic considerations. Studies 2
+and 3 both look at convenience with regard to road traffic. Study 3 by Swathe is overwhelmingly
+positive whereas Studies 1 and 2 cover positives and negatives. Studies 2 and 3 carry implications for (different) health-related services.
+  Therefore, a matrix is useful for pattern recognition (Harden et al., 2018). Themes may
+derive from the data (as with grounded theory, thematic synthesis or meta-ethnography
+approaches) or from a published framework or model (as for framework synthesis).
+
+=== p. 256 ===
+
+Table 8.8 Hypothetical thematic matrix for review on attitudes to peripheral
+supermarkets
+
+                                                         Article content
+                         Greenwood & Liffey (2010)       Verdant (2010)             Swathe (2011)
+Theme                    (Study 1)                       (Study 2)                  (Study 3)
+Convenience                                              Good communications        On outskirts of
+                                                         via main roads             village therefore
+                                                                                    reduces congestion
+                                                         Ample parking
+
+Household economy        Reduces price of staple         Reduced petrol prices      Cheap petrol
+                         products (e.g. bread, milk)
+
+Focus for community                                      Location for charitable    Venue for blood
+                                                         collections                transfusion service
+                                                         Health education stands
+
+Threat to local          Challenges bespoke traders      24-hour competition to
+commerce                 (e.g. bakers, dairies)          petrol stations
+
+Threat to community      Uniform character of            Reduced use of village
+identity                 hypermarkets – cheap            centre
+                         builds                          Increased use by
+                                                         non-locals
+
+Testing or confirming review findings
+Essentially analysis provides you with an opportunity to assess the strength of evidence for
+drawing conclusions about the results of synthesis and their generalisability in your intended
+context. Several techniques help you to do this (Table 8.9). These ‘tactics’ derive from primary
+research but apply equally within synthesis.
+
+Table 8.9       Tactics for testing or confirming review findings
+
+Representativeness      Requires that you explore whether the various study populations match the
+                        characteristics of the target population. Examine your component studies.
+                        Ask yourself, ‘Are any particular groups underrepresented? Are any groups
+                        overrepresented? Am I confident that the characteristics of a particular group
+                        are not misrepresented or misinterpreted?’
+Researcher effects      Cultivate a healthy scepticism when exploring likely researcher effects. Do the
+                        researchers favour a particular programme or intervention – for example, did
+                        they influence the selection of outcomes? Have they triggered inadvertent
+                        researcher effects, e.g. if a qualitative researcher is a doctor did this change
+                        how participants communicate or what they chose to share with them?
+Triangulating           Use different methods to research the same issue. How do review findings
+                        compare across different study designs, different schools of thought, or
+                        different methods of data collection (Finfgeld-Connett, 2018a)? How do
+                        findings from secondary research compare when juxtaposed and discussed
+                        against those from your subsequent primary research?
+
+=== p. 257 ===
+
+Weighting the             Asks you to ensure that your conclusions are not simply based on ‘vote
+evidence                  counting’. Not all studies are equal! Look at the effect of ordering studies from
+                          the highest quality to the lowest quality. Ask yourself ‘Are positive or negative
+                          aspects clustered around particular points in this ranking?’
+Meaning of outliers       Take precautions against over-generalisation. Examine studies that show
+                          particularly extreme results (either very positive or very negative) or those that
+                          are a unique source of a particular theme. Discuss these findings with colleagues
+                          and topical experts. Ask them, ‘Can you identify possible explanations for the
+                          difference in the findings?’. Explore colleagues’ explanations in your analysis or
+                          suggest them as hypotheses to explore in future research
+Using extreme             Whereas outliers relate to extreme results, extreme cases represent atypical
+cases                     contexts. Examine the characteristics of populations and interventions for an
+                          insight into better than expected or worse than expected (but not necessarily
+                          outlying) results
+Following up              Following up surprises involves identifying where one or more studies do not
+surprises                 fit within their anticipated place within a pattern. Do more than simply look
+                          for outliers; a ‘surprise’ may lie embedded within the ‘pack’ of studies but not
+                          where predicted. Record surprises as you encounter them because, over an
+                          extended period of time, they may lose their capacity to surprise. Having
+                          validated surprises, highlight them in publications, oral presentations and
+                          press releases, and invite explanations
+Looking for               Frequently overlooked because synthesis gravitates towards commonality
+negative evidence         rather than dissonance. Actively seek disconfirmation of what you believe to
+                          be true. Sample purposively from outside the original sampling frame, bring
+                          together different perspectives within the research team or harness other
+                          procedures to challenge the ‘orthodoxy’ (Booth et al., 2013a)
+Make if–then tests        Testing possible relationships: For example, ‘if a study mentions that …, then
+                          the view expressed of… should resemble…’. If one condition is the case, look to
+                          see if a second one is. If it is, you are on the way towards understanding what
+                          is going on and can make further similar tests. If it is not true, then you need
+                          to make other conjectures
+Rule out spurious         To follow up if–then testing you need to rule out spurious relations. Ideally,
+relations                 your studies would include those reporting the presence of the two conditions:
+                          the absence of each and the presence/absence of a third variable. Consider
+                          whether a third factor or variable may possibly explain away the apparent
+                          relationship identified from the data
+Replicate a finding       You may need to refer to external data sources, e.g. in order to replicate
+                          a finding. Perhaps, extend your sampling frame to an adjacent area of
+                          literature where the underlying explanatory mechanism is likely to be present.
+                          Alternatively, split your set of studies and use half of the studies to generate
+                          the theory or hypothesis and the other half to test and validate it
+Check out rival           Keep your mind open to alternative explanations and check out rival
+explanations              explanations. Record any theory underpinning each study as you extract the
+                          data from each. Revisit these theories when you complete your synthesis.
+                          Look for explanations in the Introductions/Discussions of the studies or
+                          accompanying editorial or commentary material
+Feedback from             Using informants to validate findings remains controversial, because the synthesis
+informants                may not be recognisable to authors of a single study. This is not an argument
+                          against respondent validation per se but simply for how to handle and weight
+                          feedback against the synthesis. Gain early and clear agreement on stakeholder
+                          roles. Clearly explain how you plan to use any feedback alongside your synthesis
+
+=== p. 258 ===
+
+    A truth table, a matrix codifying the presence or absence of particular factors in individual
+studies, may be a useful practical tool for identifying such relationships (Cruzes & Dybå, 2011a).
+This is similar to the thematic matrix demonstrated earlier but with binary indicators of presence or
+absence (e.g. 1 versus 0 or check box versus empty cell) rather than qualitative themes (Table 8.10).
+
+Table 8.10 Hypothetical truth table for review on attitudes to peripheral supermarkets
+
+                                           Explanatory variables                  Dependent variable
+                                                                                  Orchestrated
+Study                                      A       B       C       D       E      community opposition
+Greenwood & Liffey (2010) (Study 1)        0       1       0       1       1      1
+Verdant (2010) (Study 2)                   1       1       1       1       1      0
+Swathe (2011) (Study 3)                    1       1       1       0       0      0
+Total                                      2       3       2       2       2      1
+Note: A = Convenience; B = Household economy; C = Focus for community; D = Threat to local commerce; E = Threat
+to community identity.
+
+    Note that findings from this hypothetical truth table appear to show that orchestrated community opposition is less likely to be present if a supermarket emphasises its role as a focus for
+community activities. However, the contribution from the fictional Greenwood and Liffey study
+shows that opposition occurs even where this factor is present.
+
+Where to next? Advanced forms of analysis
+Up to now we have focused on primarily descriptive procedures of analysis. However, your analytical toolkit also obtains more advanced forms of analysis. We will briefly explore the potential
+to use the following:
+
+•     Identifying gaps
+•     Reviewer effects
+•     Identifying the disconfirming case
+•     Subgroup analysis
+•     Sensitivity analysis.
+
+Qualitative reviewers seek reassurance that their literature sample is adequate: whether they have
+identified all studies (comprehensive sampling), whether they have enough studies (purposive
+sampling) or whether they have identified the right studies (theoretical sampling) (Suri, 2011).
+    For an interpretative review you should evaluate, with a colleague, supervisor or mentor, whether you have reached theoretical saturation (Booth, 2016). In theory, theoretical
+saturation should be less frequent than in primary research as, unlike interviewees, authors are
+not independent informants (Dixon-Woods et al., 2006a). Indeed, authors are incentivised to
+report innovative insights. To challenge theoretical saturation you should make strenuous
+
+=== p. 259 ===
+
+attempts to sample from other disciplines relevant to the review question or from other types of
+literature. Whereas aggregative reviews implicitly value the average result, interpretative
+reviews seek to identify the disconfirming case (Booth et al., 2013a).
+  As with primary qualitative research the often talked-about ‘sweet spot’ of theoretical saturation is difficult to identify. It is challenging to identify when theoretical saturation has been
+reached and studies are not adding new insights (Blandford et al., 2016). Some propose that,
+as an alternative, bibliographical saturation may be attainable when follow-up of cross-references no longer leads to included studies not previously identified (Revelli & Viviani, 2013).
+However, this requires further empirical testing.
+
+Reviewer effects and reflexivity
+Even systematic reviews, despite their precautions, cannot be considered neutral vehicles for
+research findings. A review reflects the ‘perspectives, preferences and propensities’ (Sandelowski,
+2008) of its reviewers. Reviewer preferences operate at every stage from conception of the
+review and selection of the principal research question through to study identification, selection and assessment. Preferences can be further identified within synthesis and analysis. The
+Cochrane EPOC Group highlights a need for reflexivity within its review template (https://
+epoc.cochrane.org/sites/epoc.cochrane.org/files/public/uploads/Resources-for-authors2017/
+epoc_qes_protocol_and_review_template.docx ), prospectively within the Protocol/Methods,
+upon commencement of a review project, and then retrospectively within the Analysis write-up
+(see Chapter 10). Analysis is the right time to consider, within the Discussion, likely researcher
+effects, not only in the component studies but also in the review itself.
+  Systematic reviews claim objectivity but, in reality, only aspire to ‘disciplined subjectivity’
+(Sandelowski, 2008). As an honest reviewer your analysis should acknowledge likely challenges
+to objectivity posed by your own preoccupations and prejudices. You should recognise that your
+systematic review is ‘situated, partial and perspectival’ (Badenhorst, 2018) and communicate
+these limitations to your reader.
+
+Publication bias
+Publication rates of qualitative conference presentations, with less than half being eventually
+published, are directly comparable with quantitative research (Petticrew et al., 2008). However,
+qualitative research is more likely to be subsequently published if the study methods and findings are reported well in the abstract. More detailed investigation of patterns and causes of the
+non-dissemination of qualitative research are needed (Toews et al., 2016; 2017).
+  You should therefore explore likely publication bias with regard to qualitative studies or theoretical/conceptual studies (Booth et al., 2018a). For qualitative studies you might use a matrix
+to examine whether any populations, age groups or countries where the focus of interest is
+common are comparatively under-represented. For theoretical/conceptual studies you might
+brainstorm, either singly or with colleagues or a mentor, those disciplines that are likely to have
+studied the focus of interest. Compare your list with the characteristics of your included studies.
+Are any disciplines comparatively under-represented? Bear in mind that publication bias may
+apply within articles as well as across a set of articles. ‘Truncation bias’ (Campbell et al., 2011)
+
+=== p. 260 ===
+
+was coined to refer to the tendency for journals to truncate full reporting for qualitative studies
+due to article word limits.
+  While methods for detecting and reporting the effects of publication bias are most developed
+for quantitative studies (see Chapter 7), similar questions may be asked with regard to reporting
+bias in qualitative studies (Toews et al., 2016; 2017; Booth et al., 2018a). You can use a framework approach for examining qualitative studies to check whether themes, concerns or issues
+are missing or under-represented. You might consider whether any specific themes or concerns
+have not been reported because of stigma, peer pressure, the influence of the researcher, limitations of the methodology or concerns about confidentiality or possible reprisals. If you are
+conducting a review of barriers and facilitators you can examine whether (i) positive and negative expressions of the same barrier are equally present in the literature (e.g. time pressures and
+lack of time), and (ii) whether barriers may be paired with corresponding facilitators. Of course,
+you should examine reasons for such gaps, whether a feature of the data collection process, of
+incomplete reporting or whether genuinely unrecognised. However, do not make the mistake of
+thinking that the frequency with which a particular theme is reported relates to its importance:
+
+      sampling research papers is fundamentally not like sampling people. Unlike people, research
+      papers have a vested interest in being different from one another, and are (in theory at least)
+      only published if they are saying something new. Missing out some papers may therefore risk
+      missing out potentially important insights. (Dixon-Woods et al., 2006a)
+
+For theoretical/conceptual studies you may wish to examine citation patterns. If authors neglect
+to cite a particular author or school of thought within the same field ask yourself, ‘Why has this
+happened? Are other authors ignorant of particular arguments, do conflicts or tensions exist, or
+is this intentional?’. Look at how citations have cross-fertilised, or alternatively remain in ‘silos’
+across disciplines. Use such observations to inform your own analysis.
+
+Identifying the disconfirming case
+Systematic approaches to the literature typically test the robustness of the emerging review product:
+
+      Analytical honesty is a priority; the data analysis process is made transparent with rival explanations and spurious relationships thoughtfully explored. (Whittemore & Knafl, 2005)
+
+While such an approach may seem daunting, particularly to the novice researcher, it is essential
+if the review is to establish itself as a reliable and authoritative contribution to the evidence base.
+Identification of the negative or disconfirming case is commonly regarded as the most difficult
+component of the synthesis process (Whittemore & Knapfl, 2005). It is particularly challenging
+when conflicting results are equally compelling and derive from high-quality reports. Such differences may typically occur across one or more specific variables. You should try not to attach
+too much importance to a single preferred variable when a difference may be attributable to
+the interaction of many variables. Is it possible that multiple interventions do not work together
+more effectively but rather that an individual intervention works alone with its specific effect
+being masked by the other interventions?
+  You can encourage diverse interpretations by valuing specific roles within the team, engineering different researcher viewpoints and through triangulation (Booth et al., 2013a).
+
+=== p. 261 ===
+
+Triangulation, a navigational metaphor, includes using multiple data sources (e.g. members of
+the public, those delivering a service or programme and other stakeholders), multiple data collection methods (e.g. use of in-depth interviews and focus groups), multiple disciplinary perspectives (e.g. education, management science and psychology) and comparison with existing
+theory (Korstjens & Moser, 2018). Of course, individual studies may differ from the overall set of
+studies as genuine ‘outliers’. In such cases, reconsider whether it makes sense to include outliers
+within an overarching analysis or whether you should analyse them separately.
+  Because you could be led towards a wrong conclusion you must document all your hunches
+and other intuitive steps in the process. You can then retrace your steps and construct an alternative argument. Test any premises for your thinking with a supervisor or mentor and check
+assumptions with stakeholders or user representatives. Do not automatically assume that your
+line of reasoning is wrong just because your perceptions are not confirmed by other parties.
+After all, your synthesised insights extend beyond those of an individual researcher immersed
+in a single context. However, if conflicting evidence or viewpoints persist, you could suggest
+specific research that is needed to resolve the issue.
+
+Subgroup analysis
+Analysing a qualitative body of research involves moving iteratively between the whole and
+the component studies. Different groups or ‘clusters’ of studies share population, intervention,
+methodological or contextual characteristics. Are these characteristics shared by the total review
+population or is an individual study the exception to the rule? For example, in a review of
+e-learning among health professionals, where studies of doctors are in the majority, does the
+overall interpretation transfer to the subgroup of nurses represented by a smaller proportion of
+studies or even to another group represented by a single study?
+
+Qualitative sensitivity analysis
+As defined in Chapter 7 sensitivity analysis is the formal ‘exploration of “what ifs”’
+(Greenhalgh, 2019). Sensitivity analysis is increasingly important in qualitative synthesis.
+Typical indications for performing sensitivity analysis in a qualitative evidence synthesis are
+given in Box 8.8. What is less clear, however, is what to do once such sensitivities are identified.
+
+   Reasons for considering a qualitative sensitivity analysis
+   Consider conducting a qualitative sensitivity analysis where:
+
+   1. You have had persistent doubts about whether a study is eligible for inclusion within a
+      review; if you exclude this study would one or more themes from your synthesis become
+      unsupported?
+
+=== p. 262 ===
+
+   2. You have identified significant differences in the quality of included studies; are particular
+      themes only present in poorer quality studies or are they distributed across both good-and poor-quality studies?
+   3. You are uncertain whether differences between included studies are more important than
+      any similarities. How important are such similarities or differences likely to be in explaining
+      the overall focus of interest?
+   4. You observe that one study has results very different from the rest of the studies (i.e. it is
+      an obvious outlier); qualitatively does that study have important differences from all other
+      studies or does it simply reflect a similar number and type of differences as are present
+      collectively in other studies?
+   5. You have assumed that similarly worded themes mean the same thing; how open is your
+      assumption to an alternative interpretation or nuance – i.e. that they are, in fact, substantively different?
+   6. You consider the overall framework or itemisation of themes to be particularly influenced
+      by one individual study (e.g. the most content rich, the earliest, etc.); could you still find
+      evidence of all the themes were you to exclude this study? (Bear in mind too that later
+      authors may have a vested interest in emphasising additional or alternative themes – do
+      they acknowledge the conceptual legacy of the earlier paper in their citations or have they
+      not identified such themes in their data?)
+
+Matching the analysis to the review purpose
+Approaches to qualitative synthesis range from those that aim to identify and describe major
+themes to those that seek more generalisable, interpretive explanations for use in theory generating (Finfgeld-Connett, 2013). In fact, many syntheses use both approaches or include findings
+that are neither descriptive nor interpretive. Below, we explore how diverse qualitative reviews
+match their analytical techniques to their purpose (Table 8.11).
+
+Table 8.11    Examining methods of analysis used in qualitative reviews
+
+review          analysis used             Application of methods                Review example
+Framework       Qualitative sensitivity   Majority of studies rated as high     Healthcare staffs’
+synthesis       analysis                  quality. Reports of lower quality     experiences and
+                                          included in synthesis. Sensitivity    perceptions of caring
+                                          analysis, using matrix queries        for people with
+                Recommendations           within NVivo, confirmed findings      dementia in the acute
+                for practice, policy      from lower quality studies did        setting (Houghton
+                and future research       not influence overall findings        et al., 2016)
+                                          (weighting/contribution)
+Meta-           Used modified             Chose meta-ethnographic               A systematic literature
+ethnography     meta-ethnographic         approach because its inductive        review of the ethics of
+                approach to               process can account for differences   conducting research
+                inductively identify      in methodology and focus.             in the humanitarian
+                key concepts and          Potential for higher level analysis   setting (Bruno & Haar,
+                synthesise themes         and to generate new research          2020)
+
+=== p. 263 ===
+
+review          analysis used            Application of methods              Review example
+
+                Process of extracting    questions. Three step analysis:
+                themes using             (1) Identifying original concepts
+                reciprocal translation   and ideas from each paper;
+                and constant             (2) synthesising ideas into
+                comparison across        cross-cutting themes; and (3)
+                studies                  identifying major themes. Process
+                                         elucidated tensions and areas for
+                                         future research
+
+Thematic        Results and              Use ‘thematic coding’ (within       Healthier land,
+synthesis       discussion sections      approach called ‘qualitative        healthier farmers:
+                (or equivalents)         meta-synthesis’) to analyse role    considering the
+                coded as qualitative     of Australia’s natural resource     potential of natural
+                text. Findings           management programs in              resource management
+                translated into          farmers’ well-being                 as a place-focused
+                common set of                                                farmer health
+                qualitative codes.                                           intervention (Schirmer
+                Then codes from                                              et al., 2013)
+                first round reviewed
+                and reorganised into
+                hierarchical, thematic
+                groups
+
+WRITING UP AND PRESENTING REVIEW FINDINGS
+Your key objective in writing up the findings of your review is to ensure that your synthesis is
+clearly and accurately reported (Finfgeld-Connett, 2018c). You can display extracted or coded
+qualitative data as tables, matrices, graphs, charts or networks (Whittemore & Knafl, 2005). Such
+displays help to visualise patterns and relationships within and across the constituent studies
+and offer a starting point for interpretation and analysis. Visualisation using a framework lends
+itself to critical reflection by a research team and diverse stakeholders, beyond insights from a
+single analyst (Brunton et al., 2020).
+
+Using tables to present your data
+You can use tables to describe characteristics of the population, intervention and top-level
+themes (Box 8.9). You can also use tabulation to describe study characteristics (e.g. study design).
+You may use tabulation to report the study quality of individual studies, making it easier to identify higher quality studies. Tabulation is particularly valuable for cross-case comparison and for
+‘eyeballing’ patterns across rows or down columns. However, tabulation is necessarily reductive
+and loses details of implementation context. Selectively including data in tables can result in
+loss of detail that helps in interpreting included studies. More details of tabulation, together
+with examples, are given in Chapter 7.
+
+=== p. 264 ===
+
+   Tell tale tables!
+   Tables of included studies are easy to compile, right? Wrong!
+      When reviewing a review assignment or manuscript we look for signs of carelessness:
+
+   1. Has the author only presented the included studies in the order that they came to hand?
+   2. Could the author have chosen a natural order for listed studies to support the accompanying narrative? For example, chronological order to show how the evidence base evolves
+      over time? Reverse chronological order to emphasise current findings? Geographical region to group comparable studies?
+   3. If there is no obvious alternative order, are listed studies organised by author surname and
+      then by date of publication? This allows the reader to locate familiar studies quickly.
+   4. Does it make sense to present listed studies in a single sequence or do they fall into natural
+      subgroups or categories? For example, high-income countries and low- and middle-income
+      countries; primary care and secondary care; children, adults and older people; and so on.
+      Are they then sorted into a natural order within each of these categories?
+   5. Has the author simply cut and pasted raw data from the original articles into the review
+      tables without editing? Careful editing seeks (i) to strip out unnecessary text (e.g. ‘This
+      study was conducted in’); (ii) to standardise the format and detail across studies; and (iii)
+      to avoid splitting tables and cells across pages.
+   6. Has the author standardised inconsistent data under common labels, where appropriate,
+      to help to identify patterns across columns? For example, categorising ‘Survey design’,
+      ‘Survey questionnaire’ and ‘Survey’ under a single common label of ‘Survey’. Note that this
+      is not always appropriate where labels carry meaningful distinctions or where labels used
+      by authors are the focus of study (e.g. ‘Third World’, ‘Developing Countries’ and ‘Low-and
+      Middle-Income Countries’).
+
+Using numbers to present your data
+Although qualitative systematic reviews focus on textual and narrative methods of presentation,
+qualitative synthesis is both descriptive and analytical. For descriptive purposes numerical counting may be important – for example, how many studies come from each country, how many
+studies include perspectives from patients, carers and health professionals respectively, etc. You
+can also use numerical data to characterise the included population, for example to determine
+the average age of the population or the percentage who smoke. You can refer to contextual
+details to explain why qualitative themes/factors are present in some studies but not in others.
+
+Using graphics to present your data
+Before exploring the use of graphics in expressing your synthesis we suggest that you undertake
+Exercise 8.3.
+
+=== p. 265 ===
+
+   Helpful display of themes and concepts
+   Briefly reflect on a research study from a journal article that you have recently read, not
+   necessarily a systematic review. How does the presentation of themes and concepts help you
+   when reading the study? Does anything make the themes or concepts difficult to understand
+   and interpret? If so, what? How would you improve the presentation?
+      Graphical approaches help with the identification of patterns. They help to visualise how
+   parts fit within an overall whole. You can use graphical approaches to cross-link disparate
+   features of a review (e.g. for linking study characteristics to findings). For example, you could
+   use colour coding to indicate whether qualitative findings from a review are associated with
+   negative (red), neutral (yellow) or positive (green) results.
+
+      Creativity and critical analysis of data and data displays are key elements in data
+      comparison and the identification of important and accurate patterns and themes.
+      (Whittemore & Knafl, 2005)
+
+   You should use graphs, charts, forms and figures to help you visualise, sort and compare the
+   data across your primary sources (Whittemore & Knafl, 2005). You can use graphical methods to
+   explore, as well as present, your data. You can use mind maps, concept maps and idea webs to
+   map out the main themes or variables in a creative and imaginative way (Exercise 8.1). Graphical
+   presentation can use lines and boxes to present how studies are linked together with thick lines
+   indicating multiple studies and thin lines depicting a single study. Continuous lines may indicate
+   a confirmed link with dotted lines for hypothesised links. Shading can be used to depict studies
+   that contribute to a particular theme. Use of graphics is further considered in Chapter 10. You
+   will find it helpful to think of graphical presentation as (i) methods of presentation that you use
+   to explore patterns as you conduct a review (i.e. formative presentation) and (ii) methods of
+   presentation that you can use when presenting findings to a target audience (i.e. summative
+   presentation). Some methods are best for exploring and others for explaining – and some suitable for both. For example, one Cochrane review used a complex logic model while the review
+   team was exploring potential connections during its review and a simplified published version to
+   explain the principal connections to readers of the finalised review (Turley et al., 2013).
+
+Revisiting the review question(s)
+You should return to your review protocol and question throughout your review (Butler
+et al., 2016), for example when checking items against the scope or for planning your synthesis
+strategy. It is particularly important to do this at the analysis stage. By now you have been so
+intensively and extensively engaged with the literature that your review could drift from being
+question driven to literature driven. You need to check that the questions you are answering are
+those identified in the original review protocol. You also need to establish that the included studies map to each question or whether you need to conduct additional searches to populate any
+gaps. For a mapping review, you can identify where gaps exist, provided you are confident that
+
+=== p. 266 ===
+
+you have looked in the right places. For a policy review, you may have to settle for lower quality
+study designs, drilling down to lower forms of evidence such as case series, case study or even
+expert opinion. Such decisions will impact on how you describe your methods, discuss uncertainties surrounding the evidence base and make recommendations for action and for future
+research. You could map the literature against a logic model to identify which questions are
+well covered and which are data poor. Finally, revisiting your review question may suggest further lines of enquiry that your analysis might take. For example, a reference in your objectives to
+‘evaluating the quantity and quality of the retrieved literature’ may prompt you to use tables and
+mapping to reflect the quantity of the literature and sensitivity analysis to investigate its quality.
+
+Discussing the limitations of the evidence
+Placing review findings in context requires that you identify the limitations of the evidence.
+One systematic way of doing this is to use the GRADE-CERQual approach. This approach is
+applied to individual review findings from a qualitative evidence synthesis (Lewin et al., 2015).
+Critical to the application of GRADE-CERQual is an understanding that a review finding is:
+
+      an analytic output from a qualitative evidence synthesis that, based on data from primary
+      studies, describes a phenomenon or an aspect of a phenomenon. (Lewin et al., 2018b)
+
+GRADE-CERQual aims to describe how much confidence decision-makers and other users can
+place in individual review findings from syntheses of qualitative evidence. Confidence in the
+evidence requires that you assess the extent to which the review finding is a reasonable representation of the phenomenon of interest against four separate components (Table 8.12).
+This assessment communicates whether a research finding differs substantively (i.e. enough to
+change a policy or practice decision) from the focus of interest.
+
+Table 8.12 Components of the GRADE-CERQual approach
+
+Component              Definition
+Methodological         The extent to which there are problems in the design or conduct of the
+limitations            primary studies that contributed evidence to a review finding
+Relevance              The extent to which the body of evidence from the primary studies supporting
+                       a review finding is applicable to the context (perspective or population,
+                       phenomenon of interest, setting) specified in the review question
+Coherence              The extent to which the pattern that constitutes a review finding is based
+                       on data that is similar across multiple individual studies and/or incorporates
+                       convincing explanations for any variations across individual studies
+Adequacy of data       An overall determination of the degree of richness and/or scope of the data as
+                       well as the quantity of data supporting a review finding
+
+  Each GRADE-CERQual component (Table 8.12) is assessed individually, often requiring iteration between components such as coherence and adequacy (Lewin et al., 2018b), before a final
+overall assessment of confidence in the review finding is produced (Table 8.13).
+
+=== p. 267 ===
+
+Table 8.13 The GRADE-CERQual approach – definitions of levels of confidence in a
+review finding
+
+Level                            Definition
+High confidence                  It is highly likely that the review finding is a reasonable
+                                 representation of the phenomenon of interest
+Moderate confidence              It is likely that the review finding is a reasonable representation
+                                 of the phenomenon of interest
+Low confidence                   It is possible that the review finding is a reasonable
+                                 representation of the phenomenon of interest
+Very low confidence              It is not clear whether the review finding is a reasonable
+                                 representation of the phenomenon of interest
+
+  Finally a summary of qualitative findings table is produced, depicting the finding, the assessment for the finding, a brief explanation and identification of the contributing studies (Lewin
+et al., 2018a).
+
+                      rapid review tip 17
+
+   Grading the certainty of qualitative evidence
+   Use a single reviewer to grade the certainty of evidence. Use a second reviewer to verify all
+   judgements (and to check the footnoted rationales of the first reviewer).
+
+                                                                                Garritty et al. (2021)
+
+To discuss the limitations of your review well you do not simply list systematic errors and associated problems with validity. That is like a plumber who meets any problems, regardless of
+severity, with a sharp intake of breath! Instead, you should explain the meaning of any errors
+and their likely influence. Your audience will gain a clear picture of how methodological limitations impact on the findings of the review (Munthe-Kaas et al., 2018).
+  Just as you take steps to avoid biases when you plan, conduct, analyse and interpret individual primary studies, you must take similar steps when you plan, conduct, analyse and interpret
+evidence syntheses. When you evaluate your review, or the published review of another, you
+need to identify any methodological limitations (Tong et al., 2016; SBU, 2019) (Box 8.10).
+
+   Identifying methodological limitations in your review
+   1. Have I clearly stated the question examined in my review?
+   2. Does the review team include an appropriate mix of skills and perspectives?
+
+=== p. 268 ===
+
+   Search
+
+      3. Are my search approaches appropriate to my research question?
+      4. Does my search strategy include the diverse terms required to identify the relevant studies?
+      5. Are the inclusion/exclusion criteria for my review clearly described?
+      6. Was study selection undertaken in an objective and independent way, including appropriate quality assurance procedures?
+
+   Appraisal
+
+      7. Did I assess any risks to rigour of included studies using explicit criteria, including appropriate quality assurance procedures?
+
+   Synthesis
+
+    8. Was the chosen method of synthesis appropriate to the research question, audience and
+       purpose?
+    9. Were procedures for the chosen method of synthesis followed appropriately?
+   10. Is the relationship between the output from the synthesis and the original included studies
+       clear and transparent?
+
+   Analysis
+
+   11. Are the conclusions and recommendations from the review report supported by the synthesis?
+
+   (Based on Booth et al., 2013a; 2016; Lewin et al., 2018b; Tong et al., 2016; SBU, 2019)
+
+Rapid QES (rQES)
+Abbreviated timelines often do not allow for the full 6–12 months it may take to complete
+a QES, which has prompted several agencies to explore the concept of ‘rapid qualitative
+evidence synthesis’ (rQES) (Majid & Weeks, 2020) (Box 8.11). As with rapid reviews more
+generically, this involves using abbreviated methods (shortcuts) and/or accelerating standard procedures through using large, well-coordinated teams and/or technology (Campbell
+F et al., 2019).
+
+   What is a rapid qualitative evidence synthesis (rQES)?
+   An rQES uses accelerated or abbreviated review methods of qualitative synthesis to meet
+   a policy imperative for person-centred healthcare and to ensure that patient and caregiver
+   perspectives and experiences are central to healthcare decisions (Majid & Weeks, 2020).
+   Shortcuts or fast-track procedures may take place at any stage of the SALSA process
+   including limiting the number of databases, abbreviating or omitting quality appraisal,
+
+=== p. 269 ===
+
+   using existing frameworks for synthesis and focusing on descriptive rather than analytical
+   findings. A cross-sectional audit of rQES found few published, and a larger number of
+   unpublished, examples (Campbell F et al., 2019). In 2020 the first ever Cochrane rQES
+   was completed within a period of less than 30 days (Houghton et al., 2020). The authors
+   shared lessons learned (Biesty et al., 2020). Published guidance exists to inform rQES
+   methods (NHS Scotland, 2019).
+
+         Information expertise    
+         Time     		              
+         Resources  	             ££
+
+Mega-ethnography and mega-aggregation (review of reviews)
+The proliferation of qualitative evidence syntheses (QESs) had led to the appearance of reviews of
+QESs that seek to synthesise review-level findings. While there is no reason to suppose that such
+overviews can only harness a limited range of synthesis methods, the first of these methods have
+been labelled mega-ethnography (after meta-ethnography) (Toye et al., 2017; 2019) and mega-aggregation (which combines meta-aggregation with framework synthesis) (Hendricks et al., 2021).
+While such approaches remain in their infancy and examples are limited, Box 8.12 briefly defines
+each method. Table 8.14 summarises and juxtaposes the main procedures within the two methods.
+
+   What are mega-ethnography and mega-aggregation?
+
+      Mega-ethnography is a proposed method for synthesising multiple QESs using the methods of meta-ethnography. The innovation of mega-ethnography is to use conceptual
+      findings from qualitative evidence syntheses as primary data. The process largely follows
+      that for meta-ethnography but seeks qualitative syntheses rather than primary qualitative
+      studies and adds an additional layer of interpretation (labelled fourth-level constructs)
+      (Toye et al., 2017).
+
+      Mega-aggregation uses ‘mega-aggregation framework synthesis, or synthesis of qualitative evidence syntheses using the methods of framework synthesis at the overview
+      level’. Originators claim the novel method is a ‘transparent and efficient method for
+      assessing the quality and making sense of existing qualitative systematic reviews’
+      (Hendricks et al., 2021).
+
+=== p. 270 ===
+
+Table 8.14    Comparison of mega-aggregation and mega-ethnography
+
+Mega-aggregation (Hendricks et al., 2021)            Mega-ethnography (Toye et al., 2017)
+(1) Identify a clearly defined review question and   Stage 1: Getting started
+objectives
+(2) Identify a theoretical framework or model
+(3) Decide on criteria for considering reviews for   Stage 2: Deciding what is relevant
+inclusion
+(4) Conduct searching and screening
+                                                     Stage 3: Reading the studies
+(5) Conduct quality appraisal of the included
+(6) Data extraction and categorisation               Stage 4: Determining how studies are related to
+                                                     each other
+                                                     Stage 5: Translating studies into each other
+(7) Present and synthesise the findings              Stage 6: Synthesising translations
+(8) Transparent reporting                            Stage 7: Expressing the synthesis
+At a glance                                          At a glance
+Reviewer expertise                                 Reviewer expertise         
+Information expertise                               Information expertise      
+Time                                               Time                       
+Resources                ££                          Resources                  ££
+
+SUMMARY
+This chapter illustrates that synthesis includes creative elements of seeking patterns, examining
+for consistency and identifying the disconfirming case. As a reviewer you will find it stimulating
+to explore reasons for variations, discrepancies and inconsistencies. This exploration, together
+with testing of the robustness of findings, constitutes analysis, a high-order research skill.
+Analysis is often presented as a naturally occurring sequel lacking formal procedures. Analysis
+involves identifying patterns to data and included studies, investigating conflicting or outlying
+cases and exploring relationships between particular variables.
+  Concerns about applicability, generalisability, replicability and implementation fidelity shape
+recommendations for research and for practice. Once such recommendations are drafted and
+exist in a fluid or malleable state, you can turn your attention to how best to present the report,
+the focus for Chapter 10.
+
+                        key learning points
+
+   • Numerous approaches to synthesis exist and you should explore published methods and
+     examples before selecting a methodology that is fit for purpose.
+   • Data extraction is a key step towards synthesis; you will find it helpful to picture what your
+     final synthesis might look like before selecting data to be extracted.
+
+=== p. 271 ===
+
+• Analysis initially involves testing the robustness of your synthesis in the light of what you
+  know about the quality of included studies.
+• You can select from diverse types of data presentation including textual, graphical, numerical and tabular approaches.
+
+                  frequently asked questions (FAQs)
+
+FAQ 8.1 How do I choose an appropriate method for qualitative synthesis?
+Several publications itemise the rich choice of QES methods. However, relatively few offer
+guidance on how to match your review to the method of synthesis (Booth et al., 2016; 2018b).
+Look back to Chapter 3 and attempt the scenarios given. Use the RETREAT framework
+(Chapter 3) to specify key features such as Research question, Audience & purpose, and
+Type of data for your review. Consult sources that focus on selecting an appropriate method:
+Hannes and Lockwood (2011a) and Booth et al. (2018b). Gough et al. (2017) offer an overview
+of available choices and their theoretical underpinnings.
+
+FAQ 8.2 Which methods of qualitative evidence synthesis are most suitable for
+a novice reviewer?
+Review expertise is not the only issue to consider. You need to be familiar with qualitative
+research when reviewing qualitative literature. However, the most accessible methods of
+synthesis include meta-aggregation, thematic synthesis or framework synthesis. Meta-aggregation minimises the interpretive burden as the reviewer compiles themes articulated by the authors of the primary studies, supporting these with verbatim extracts from
+the texts. Thematic synthesis is considered intuitive to the novice reviewer (Soilemezi
+& Linceviciute, 2018). However, if your topic is well theorised and you are not confident
+in generating new themes then you might consider framework synthesis. Having gained
+confidence from mapping most of the data to an existing framework you may feel able to
+create new themes for data not previously accommodated within the framework.
+
+FAQ 8.3 Once I have identified all my included papers where should I start?
+You might start with a holistic approach that involves reading through the body of literature, with very little hesitation or interruption, perhaps occasionally memoing or annotating with brief points to return to later (Finfgeld-Connett, 2018a). Alternatively, you might
+start with an index paper against which to compare all subsequent papers. Considerable
+variation exists in how an index paper is identified. Some start with the earliest paper,
+the most cited paper, or the richest in terms of data or ideas, etc. Garside et al. (2008)
+describe how they chose ‘the only paper with a strong conceptual framework. Other
+papers, while organising data under emergent themes, showed little attempt to provide
+explanatory concepts’. Their focus on creating an explanatory model justified selecting an
+index paper based on its conceptual richness. Alternatively, your topic may be suited to a
+sampling approach (Suri, 2011); the literature may fall naturally into different disciplines
+or schools of thought. By way of contrast, Toye et al. (2014; 2017) resisted choosing an
+index paper for both a meta-ethnography and a mega-ethnography, citing concerns about
+(i) being constrained by a priori concepts, (ii) difficulties in deciding which paper to use
+as an index paper, particularly as it can potentially affect ‘the resulting interpretation’,
+
+=== p. 272 ===
+
+   and (iii) recognition that a review team may not ‘find the conceptually “richest” study at
+   the outset’.
+
+   FAQ 8.4 How many studies do I need for my qualitative synthesis?
+   As with any such question there is no definitive answer. However, you should bear in mind several important considerations. The available data must fulfil the GRADE-CERQual criterion for
+   adequacy, which factors in the number of studies and the richness/thickness of the data. If the
+   objective is to explore the effect of context then you require sufficient thickness of contextual
+   detail to distinguish between studies. If you want to generate theorising then you require sufficient richness of data to allow conceptual development. Certain qualitative syntheses methods favour certain thresholds of numbers of studies. Typically, aggregative methods such as
+   meta-aggregation, framework synthesis and thematic synthesis can accommodate larger
+   numbers of studies. Interpretative reviews require more interpretation and so, potentially,
+   may be impaired by larger numbers of studies (Campbell et al., 2011). France et al. (2014)
+   report an average of 21 papers (range 3–77) in their sample of meta-ethnographies. However,
+   such distinctions are becoming less definitive as Toye et al., (2014) report analysing over 70
+   papers by harnessing the functionality of NVivo software. Conversely, several commentators,
+   such as Thorne (2015; 2017) and Bergdahl (2019), express concern at superficial analyses that
+   may result from large numbers of thin studies, time constraints or relative analytical naivete
+   of the reviewers.
+
+   FAQ 8.5 What guidance is available for reporting qualitative synthesis?
+   You should provide a rationale for how searching was conducted, following appropriate
+   guidance/good practice for reporting literature searches, for example PRISMA-S (Rethlefsen
+   et al., 2021) and STARLITE (Booth, 2006; 2016). In contrast, with quantitative systematic
+   reviews and meta-analysis few published reporting guidelines exist for qualitative synthesis
+   (France et al., 2014; Tong et al., 2012). The enhancing transparency in reporting the synthesis of qualitative research (ENTREQ) statement (Tong et al., 2012) was developed by a small
+   international group of researchers to encourage transparency in the reporting of syntheses.
+   The ENTREQ statement contains 21 items grouped into five domains: introduction; methods and methodology; literature search and selection; appraisal; and synthesis of findings.
+   Uptake of the ENTREQ statement is relatively poor (France et al., 2014), perhaps reflecting
+   its generic origins. In contrast, the eMERGe guidelines for meta-ethnography followed systematic processes of literature review and consensus development (France et al., 2019a).
+   As a consequence, you may find the eMERGe guidelines a useful model even if you have
+   not undertaken a meta-ethnography. Further details on reporting standards are given in
+   Chapter 10.
+
+Get more hands-on guidance!
+Visit https://study.sagepub.com/booth3e for downloadable versions of the exercises, as well as
+some suggested answers. You can also access a glossary, literature review templates, source trackers, and a collated list of online tools to help you put together a successful literature review.
+
+=== p. 273 ===
+
+                  suggestions for further information
+
+Finfgeld-Connett D (2018) A Guide to Qualitative Meta-synthesis. London: Routledge.
+Although targeted at ‘theory-generating meta-synthesis’ this book describes standard procedures for systematic reviews of qualitative research. It includes chapters that map closely to
+the SALSA process.
+
+Hannes K & Lockwood C (2011) Synthesizing Qualitative Research: Choosing the Right
+   Approach. Chichester: Wiley.
+Tackles the choices offered by qualitative synthesis methods. Devotes a chapter to each main
+method of qualitative synthesis and walks through each methodology with a worked case
+example.
+
+Munn Z, Tufanaru C & Aromataris E (2014) JBI’s systematic reviews: data extraction and synthesis. American Journal of Nursing, 114(7): 49–54.
+From a mini-series on systematic reviews from staff at the Joanna Briggs Institute (JBI), this
+article covers data extraction; often neglected in step-by-step guides.
+
+Ring N, Ritchie K, Mandava L & Jepson R (2010) A guide to synthesising qualitative research
+   for researchers undertaking health technology assessments and systematic reviews. NHS
+   Improvement, Scotland.
+The first text to examine qualitative synthesis within the context of health technology assessment, this report provides a good cross-sectional view of qualitative synthesis.
+
+SBU (2016) Evaluation and synthesis of studies using qualitative methods of analysis. Swedish
+   Agency for Health Technology Assessment and Assessment of Social Services (SBU),
+   Stockholm.
+An accessible text from the SBU that provides a good contemporaneous view of current methods and issues.
+
+Soilemezi D & Linceviciute S (2018) Synthesizing qualitative research: reflections and lessons
+   learnt by two new reviewers. International Journal of Qualitative Methods. https://doi.
+   org/10.1177/1609406918768014
+Refreshingly open reflection from novice reviewers on challenges and pitfalls in planning and
+conducting a QES. Particular challenges for new reviewers include how to identify relevant
+research to answer the review question and pitfalls during screening and evaluation.
+

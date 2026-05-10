@@ -1,0 +1,770 @@
+=== chunk: sofaer-strech-2012-systematic-reviews-of-reasons/whole ===
+title: Sofaer & Strech, "The Need for Systematic Reviews of Reasons" (2012)
+source_pdf: docs/sources/sofaer-strech-2012-systematic-reviews-of-reasons/full.pdf
+pdf_pages: 1-14
+page_scheme: pdf
+plan_page_start: 1
+plan_page_end: 14
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 1 ===
+
+Bioethics ISSN 0269-9702 (print); 1467-8519 (online)                                                                     doi:10.1111/j.1467-8519.2011.01858.x
+
+THE NEED FOR SYSTEMATIC REVIEWS OF REASONS
+
+NEEMA SOFAER AND DANIEL STRECH
+
+Keywords
+review literature as topic,                            ABSTRACT
+systematic review,                                     There are many ethical decisions in the practice of health research and
+ethics,                                                care, and in the creation of policy and guidelines. We argue that those
+bioethics,                                             charged with making such decisions need a new genre of review. The new
+policy making,                                         genre is an application of the systematic review, which was developed over
+delivery of health care,                               decades to inform medical decision-makers about what the totality of
+human experimentation                                  studies that investigate links between smoking and cancer, for example,
+                                                       implies about whether smoking causes cancer. We argue that there is a
+                                                       need for similarly inclusive and rigorous reviews of reason-based bioethics,
+                                                       which uses reasoning to address ethical questions. After presenting a brief
+                                                       history of the systematic review, we reject the only existing model for writing
+                                                       a systematic review of reason-based bioethics, which holds that such a
+                                                       review should address an ethical question. We argue that such a systematic review may mislead decision-makers when a literature is incomplete, or
+                                                       when there are mutually incompatible but individually reasonable answers
+                                                       to the ethical question. Furthermore, such a review can be written without
+                                                       identifying all the reasons given when the ethical questions are discussed,
+                                                       their alleged implications for the ethical question, and the attitudes taken to
+                                                       the reasons. The reviews we propose address instead the empirical question of which reasons have been given when addressing a specified ethical
+                                                       question, and present such detailed information on the reasons. We argue
+                                                       that this information is likely to improve decision-making, both directly and
+                                                       indirectly, and also the academic literature. We explain the limitations of our
+                                                       alternative model for systematic reviews.
+
+INTRODUCTION                                                                   sub-field of bioethics does use the results of empirical
+                                                                               studies. (To avoid oversimplification, we should point out
+1. Reason-based versus empirical bioethics                                     that the authors of reason-based bioethics use disparate
+                                                                               methods and have different intellectual backgrounds2 and
+Reason-based bioethics uses reasoning to address norma-                        varying competence at reasoning.) Most bioethics is
+tive questions, for example, about whether participants in                     philosophical;3 for many authors, ‘bioethics’ refers to
+a drug trial are morally entitled to have access to the trial                  reason-based bioethics. Whereas this paper concerns only
+drug after the trial.1 The methods of reason-based bioet-                      reason-based bioethics, we need to contrast it with the
+hics exclude conducting empirical studies, although this                       newer field of empirical bioethics, which conducts
+  Reason-based bioethics is sometimes called philosophical or argument-          The reason-based bioethics literature has been written by philoso-based bioethics. J. Ives & H. Draper. Appropriate Methodologies for            phers, principlists, casuists, narrativists, and normatively-minded social
+Empirical Bioethics: It’s All Relative. Bioethics 2009; 23: 249–258; L.B.      scientists. We thank an anonymous reviewer for this point.
+McCullough, J.H. Coverdale & F.A. Chervenak. Constructing a Sys-                 P. Borry, P. Schotsmans & K. Dierickx. Empirical Research in
+tematic Review for Argument-based Clinical Ethics Literature: The              Bioethical Journals. A Quantitative Analysis. J Med Ethics 2006; 32:
+Example of Concealed Medications. J Med Philos 2007; 32: 65–76.                240–245.
+
+Address for correspondence: Dr. Neema Sofaer, King’s College London – Centre of Medical Law and Ethics, Strand London WC2R 2LS, UK.
+neema.sofaer@kcl.ac.uk
+Conflict of interest statement: No conflicts declared
+Re-use of this article is permitted in accordance with the Terms and Conditions set out at http://wileyonlinelibrary.com/onlineopen#
+OnlineOpen_Terms.
+
+© 2011 Blackwell Publishing Ltd., 9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main Street, Malden, MA 02148, USA.
+
+=== p. 2 ===
+
+qualitative or quantitative studies designed to answer                   incidence. The systematic review then concludes whether
+empirical questions relevant to reason-based bioethics or                smoking increases cancer incidence, based on all the relpolicy-making. A typical research question might be:                     evant publications, taking into account the extent to which
+What are the attitudes and opinions of participants in US                we should accept each individual publication’s answers/
+clinical trials about whether or not, and why, they should               conclusions.
+be ensured access, after the trial, to the trial drug, health               The primary purpose of the systematic review is to
+care and information?4                                                   improve decisions: to enable decisions that are maximally
+   Publications in reason-based bioethics rarely articulate              informed and minimally biased. The need for systematic
+their relevance to clinical decision-makers or policy-                   reviews arises because, for most empirical questions, the
+makers. This has led us to wonder if there is a way to                   relevant literature is extensive. Decision-makers, for
+make reason-based bioethics accessible to such decision-                 example clinicians and policymakers, lack the time and
+makers, given that the field addresses so many of the                    skills to retrieve all the relevant literature, appraise it and
+questions they face.                                                     synthesize it in order to identify the relevant literature’s
+                                                                         all-things-considered answer to the research question.
+                                                                         Without a systematic review, decisions are likely to be
+2. The classical systematic review                                       based on a subset of publications, which may not be
+A systematic review answers a specific empirical research                representative of the whole literature, and the risk arises
+question. The question has a set form: it must refer to the              that the reviewers will consciously or unconsciously
+population, the intervention or exposure, the comparison                 ‘cherry-pick,’ that is, select publications best supporting
+and the outcome. One question might be: ‘[POPULA-                        their views. Systematic reviews undertake the substantial
+TION] In humans aged 18 or over, [INTERVENTION]                          project of identifying, assessing and synthesizing the lit-does smoking more than 12 cigarettes a day, [COM-                        erature using techniques that minimize bias, and they
+PARISON] versus not smoking, [OUTCOME] increase                          present the synthesis in a format accessible to decision-the lifetime incidence of lung cancer?’ The systematic                   makers.6 Unsurprisingly, systematic reviews are used
+review answers the question based on the entire literature               increasingly to make clinical decisions, write clinical
+and tells us how confidently we should accept the answer;                guidelines and set research agendas.
+alternatively, it concludes that the question is not yet                    We will call this the ‘classical systematic review’ to
+settled: further research is needed.                                     distinguish it from later applications. Two features make
+   To write a systematic review, one first conducts a                    it classical: the fact that the review answers an empirical
+search designed to identify all the relevant publications.               question of the specific form we described, and the
+This is called an ‘exhaustive search’. The term is mislead-              process used to answer the question.
+ing, as a search designed to be exhaustive may fail to be
+so. Publications are considered relevant if, and only if,                3. Newer applications of the systematic review
+they meet pre-decided and explicit conditions for inclusion. The search should be reproducible and the written                  Systematic evaluation and synthesis emerged in the late
+review should describe it in sufficient detail to enable                 1970s in social science to address questions, for example,
+its reproduction. The result of this search should be the                about the relation between class size and pupil achieve-entire literature that addresses the research question.                  ment, and later spread to medicine and various fields
+   Next, one extracts from each selected publication the                 including qualitative health research.7 Recently, one of us
+conclusion that it draws (its answer to the research ques-               6
+                                                                           J.P.T. Higgins & S. Green. eds. 2009. Cochrane Handbook for Sys-tion) and other data. One assesses the degree to which
+                                                                         tematic Reviews of Interventions Version 5.0.2 (updated Sep 2009).
+we should believe the answer/conclusion; sometimes, and                  The Cochrane Collaboration. Available at: http://www.cochraneas recommended when writing a systematic review that                     handbook.org/ [Accessed 3 Feb 2010].
+will inform clinical guidelines, one grades the answer/                  7
+                                                                           L.A. Jensen & M.N. Allen. Meta-synthesis of Qualitative Findings.
+conclusion to reflect this degree.5 A particular study might             Qual Health Res 1996; 6: 553–560; J. Popay, A. Rogers & G. Williams.
+                                                                         Rationale and Standards for the Systematic Review of Qualitative Lit-give us strong reason to believe that smoking slightly
+                                                                         erature in Health Services Research. Qual Health Res 1998; 8: 341–351;
+increases cancer incidence; another might give us weak                   B. Lemmer, R. Grellier & J. Steven. Systematic Review of Nonrandom
+reason to believe that smoking greatly increases cancer                  and Qualitative Research Literature: Exploring and Uncovering an
+                                                                         Evidence Base for Health Visiting and Decision Making. Qual Health
+  N. Sofaer et al. Subjects’ Views of Obligations to Ensure Post-trial   Res 1999; 9: 315–328; E. Mills et al. (2005). Systematic review of quali-Access to Drugs, Care, and Information: Qualitative Results from the     tative studies exploring parental beliefs and attitudes toward childhood
+Experiences of Participants in Clinical Trials (EPIC) Study. J Med       vaccination identifies common barriers to vaccination. J Clin Epidemiol;
+Ethics 2009; 35: 183–188.                                                58: 1081–1088; G.V. Glass & M.L. Smith. Meta-Analysis of Research
+  G.H. Guyatt et al. GRADE: An Emerging Consensus on Rating              on Class Size and Achievement. Ed. Eval. and Pol. Analysis. 1979; 1:
+Quality of Evidence and Strength of Recommendations. Br Med J 2008;      2–16; R.J. Light & D.B. Pillemer. 1985. Summing Up. Cambridge, MA:
+336: 924–926.                                                            Harvard University Press.
+
+=== p. 3 ===
+
+                                        The Need for Systematic Reviews of Reasons                                                               3
+
+argued that the systematic review should be transferred to                   with mental disorders), intervention (use of medications
+empirical bioethics, and proposed a model.8 Further-                         concealed in food or drink), comparison (prescribing
+more, Laurence McCullough and colleagues have argued                         medications in the usual way or forcibly administering
+that reason-based bioethics needs systematic reviews.9                       them), and outcome (whether or not the intervention is
+They outlined a model and illustrated it by conducting a                     ethically justifiable). In short, the question remains
+systematic review of a seven-article literature. We will call                focused on outcomes or, in other words again, on the
+this outline model the ‘McCullough Model’. To our                            conclusions drawn by different publications, their
+knowledge, this is the only model for systematic reviews                     answers to the research question.
+of reason-based bioethics.                                                      Though it passes unremarked by McCullough and col-There are challenges to each of these newer applica-                      leagues, one change does occur in the research question in
+tions. One of us has shown that a systematic review of                       the shift from clinical epidemiology to reason-based bio-empirical bioethics needs to address a different form of                     ethics: a change in the nature of the outcome, from a
+research question from the classical systematic review, and                  physical outcome, for example increased mortality, to an
+to use a modified search strategy.10 Similarly, Laurence                     ethical outcome, for example ethical justifiability.13
+McCullough and colleagues have highlighted challenges
+to searching for reason-based bioethics literature.
+   The rationale given for each new application is analo-                    4b. No need to extract detailed information
+gous to that for the classical systematic review. For                        on reasons
+example, McCullough and colleagues express concern
+                                                                             The type of research question that the McCullough
+that doctors may lack the skills to retrieve all of the
+                                                                             Model prescribes can be answered without extracting
+relevant reason-based literature and to assess its quality,
+                                                                             each occurrence of a reason from every included publica-and that consequently, if there are no systematic reviews
+                                                                             tion. (We contrast the occurrence of a reason in a publi-of reason-based literature, doctors’ ethically relevant
+                                                                             cation with a type of reason, which may have different
+decisions are likely to be biased.11
+                                                                             occurrences in different publications.) Nor does answer-We will next identify key features of the McCullough
+                                                                             ing the question require extraction of information on
+Model. Then, we will argue that systematic reviews based
+                                                                             whether these reason occurrences were used to argue for
+on it may comprise an insufficiently informative, and
+                                                                             or against the ethical view in question, or whether a spe-misleading, brief for decision-makers; and they are also
+                                                                             cific occurrence of a reason for the view was accepted or
+of limited use to reason-based bioethicists, and to empiri-rejected.
+cal scientists conducting research relevant to policy.
+
+4. Key features of the McCullough Model                                      4c. Need to assess degree to which we believe each
+                                                                             publication’s conclusion
+4a. Same type of research question as classical
+                                                                             Because a McCullough Model systematic review seeks to
+systematic review
+                                                                             draw the literature’s all-things-considered ethical conclu-The model prescribes the same form of research question                      sion, it needs to assess the extent to which we should
+as the classical review. Consider McCullough and col-                        believe the conclusions of individual publications. As
+leagues’ research question: ‘In patients with mental dis-                    acknowledged by McCullough and colleagues, the key
+orders . . . is use of concealed medications in food or                      challenge is that the methods for assessing the quality of
+drink, rather than prescribing medications in the usual                      an empirical study do not apply to moral reasoning.
+way or forcibly administering them, ethically justifi-                       Their model proposes that, for each included publication,
+able?’12 The question mentions the population (patients                      a systematic review of reason-based literature should
+                                                                             assign a score (0, 1/2 or 1) to each of the following:
+    D. Strech, M. Synofzik & G. Marckmann. Systematic Reviews of
+Empirical Bioethics. J Med Ethics 2008; 34: 472–477.
+                                                                             1. Whether a focused question is stated
+    McCullough et al., op. cit. note 1; see also E.J. Emanuel et al. 2008.   2. Whether a literature search was performed and the
+Introduction. In The Oxford Textbook of Clinical Research Ethic. E.J.           extent to which it was clearly described
+Emanuel et al. New York: Oxford University Press: 3–6.                       3. The ‘quality of the ethical analysis and argument’ in
+    Strech et al., op. cit. note 8; D. Strech, M. Synofzik & G. Marck-          the publication
+mann. How Physicians Allocate Scarce Resources at the Bedside: A
+Systematic Review of Qualitative Studies. J Med Philos 2008; 33: 80–99;
+                                                                             4. Whether or not a conclusion is given and its clarity,
+D. Strech et al. Are Physicians Willing to Ration Health Care? Con-             and
+flicting Findings in a Systematic Review of Survey Research. Health
+Policy 2009; 90: 113–124.                                                       Other possible outcomes presumably include the ethical permissibilMcCullough et al., op. cit. note 1.                                      ity or impermissibility of the intervention, and whether or not the
+    McCullough et al., op. cit. note 1, p. 68.                               intervention should be required by guidelines.
+
+=== p. 4 ===
+
+5. Whether there is a ‘clear statement of the clinical                           reviews of reasons, as we call them. We will then outline
+   application of the ethical analysis and argument and                          our alternative model for writing systematic reviews of
+   their conclusion’.14                                                          philosophical bioethics, and explain why it is less vulnerable to the same types of objection. Next, we will defend
+   One then sums these five scores to obtain the publica-our claims that reason-based bioethics needs reviews that
+tion’s overall score for ‘adequacy of . . . ethical analysis
+                                                                                 are both of reasons and systematic, and that the reviews
+and argument’.15 An earlier paper by the same author team
+                                                                                 we advocate deserve to be called ‘systematic’. We will also
+explains the factors that influence the ‘quality of the arti-outline their limitations and identify other necessary
+cle’s analysis and argument’ (point 3, above); this quality
+                                                                                 components of a decision-maker’s brief.
+is said to depend on the ‘validity’ and ‘soundness’ of all the
+                                                                                    We will thereby argue that systematic reviews of reasons
+publication’s reasons for its overall conclusion.16
+                                                                                 are good tools, better than both informal reviews17 of
+   In sum: the McCullough Model for writing systematic
+                                                                                 reasons and McCullough Model systematic reviews, for
+reviews of reason-based bioethics is a model for writing
+                                                                                 promoting the following: (1) minimally biased, maximally
+systematic reviews that address an ethical question based
+                                                                                 informed decisions in policy-making and governance,
+on the answers to this question given in the literature.
+                                                                                 health care and medical research,18 (2) research that
+Furthermore, writing such reviews requires measuring
+                                                                                 informs policy-making, and thus indirectly aids decision-the quality of reasoning.
+                                                                                 making, and (3) progress in reason-based bioethics. Our
+                                                                                 arguments show also why we all – the public, bioethicists,
+                                                                                 social scientists, and decision-makers – need systematic
+THE NEED FOR SYSTEMATIC REVIEWS                                                  reviews of reasons in reason-based bioethics.
+OF REASONS
+
+We agree with McCullough and colleagues that, if the                             1. Our objections to the McCullough Model
+research question is an ethical question, the key challenge
+                                                                                 If a literature omits reasons or inadequately presents
+is to measure the quality of reasoning, because we need to
+                                                                                 reasons that are potentially strong, its all-thingsassess the degree to which we should believe each publi-considered ethical conclusion will be uninteresting.
+cation’s ethical conclusion. However, as we next argue, a
+                                                                                 Objections arise even if a literature is comprehensive and
+systematic review of reason-based bioethics needs to
+                                                                                 uniformly excellent. The all-things-considered conclusion
+address a different type of research question – just as a
+                                                                                 may be only one of several conflicting but individually
+systematic review of empirical bioethics needs to address
+                                                                                 reasonable conclusions that could be drawn from that set
+a different type of research question from a classical
+                                                                                 of reasons. The same set of reasons might better support
+systematic review. This objection and others to the
+                                                                                 a different conclusion given a change in the context or
+McCullough Model will comprise the first part of our
+                                                                                 weighting of the reasons. In any case, the reasons under-case for our thesis that there is a need for systematic
+                                                                                 lying the literature’s all-things-considered conclusion
+   McCullough et al., op. cit. note 1, p. 69.
+                                                                                 must be scrutinized prior to making clinical decisions or
+   McCullough et al., op. cit. note 1, p. 67. We find the measure of             policy. Thus, we hypothesize, McCullough Model sys-adequacy confusing, because the summary score and score for the third            tematic reviews of reason-based bioethics potentially
+feature measure the same thing: the quality of the ethical analysis and          mislead decision-makers, who may fail to appreciate the
+argument.                                                                        previous points.
+   L.B. McCullough, J.H. Coverdale & F.A. Chervenak. Argument-based Medical Ethics: A Formal Tool for Critically Appraising the
+                                                                                    McCullough and colleagues might reply that a system-Normative Medical Ethics Literature. Am J Obstet Gynecol 2004; 191:              atic review must include disclosures about factors that
+1097–1102 (p. 1100). The paper expresses non-standard concepts of                limit the degree to which we should believe its all-thingsvalidity and soundness. A standard definition of validity holds that an          considered conclusion. They indeed concede that the
+argument is valid if and only if it is necessary that, if all the premises are   burden of proof created by their review’s all-thingstrue, then the conclusion is true (A.P. Martinich. 2005. Philosophical
+Writing. An Introduction. Malden: Blackwell Publishing: 20). Validity
+                                                                                 considered conclusion is ‘modest’ given the reviewed lit-does not imply that the premises are true and does not imply non-                erature’s limitations19 and, in their discussion, they reject
+circularity. However, for McCullough, a valid argument must be more
+than logically valid: it must also be the case that ‘relevant clinical and          The operational definition of informal review is given in our system-other facts [are] clearly identified and supported’ and that the argument        atic review: N. Sofaer & D. Strech. Reasons why Post-trial Access to
+comprises ‘a coherent whole’ (p. 1100). Similarly, ‘[a] sound argument is        Trial Drugs Should, or Need not be Ensured to Research Participants:
+an argument which is valid and which contains only true premises’                A Systematic Review. Unpublished Manuscript.
+(Martinich, op. cit. note 16, p. 20). But, for McCullough, a sound                  Decision-makers who may benefit from such systematic reviews
+argument is, among other things, one with a conclusion on which the              include regulators, Institutional Review Boards (Research Ethics Com-physician can act with confidence that patient care will be improved as          mittees) and designers of research protocols, for example researchers,
+a result. Such an argument must be more than sound: for example, it              sponsors of research, and Contract Research Organizations.
+must also be relevant to the clinical decision.                                     McCullough et al., op. cit. note 1, p. 73.
+
+=== p. 5 ===
+
+                                       The Need for Systematic Reviews of Reasons                                                          5
+
+a key reason given in the reviewed literature for the con-                    Nonetheless, a third objection, about the measurement
+clusion that the majority of the reviewed publications                     of quality, remains. It may take considerable research to
+draw. Nevertheless, we fear that policymakers may                          assess whether or not an argument’s premises are all true:
+ignore or discount the disclosures and, in any case, may                   the truth-value of factual premises may be as yet
+choose to accept the all-things-considered conclusion for                  unknown, and there may be reasonable disagreement
+lack of an alternative conclusion. As we will argue below,                 about moral premises.
+a full set of published reasons for or against the view in                    We therefore conclude that the McCullough Model’s
+question is more useful than a conclusion that is inad-                    measure of the quality of reasoning in a publication is an
+equate – whether due to limitations of the literature                      inadequate indicator of the extent to which we should
+reviewed or of the systematic review’s methodology.                        believe the publication’s all-things-considered ethical
+    We also object to the McCullough Model’s measure of                    conclusion. In any case, even if one found a satisfactory
+the quality of reasoning. First, we present a superficial                  measure of quality, and used it to replace the Model’s
+objection, which is that whether a specific instance of                    measure of quality, our (in our opinion, decisive) objec-reasoning is adequate depends partly on the type of pub-                   tions to the fact that the research question is supposed to
+lication in which it appears: (1) greater detail is required               be an ethical question would remain.
+in a philosophy article that scrutinizes a specific argument
+than in a policy report that considers many arguments for
+a specific view. (2) A good philosophy article can consider                2. Key features of our alternative model
+just one argument, but a good policy article must con-                     This section outlines our alternative model, which is a
+sider a range of reasons or else justify why it does not. (3)              model for writing systematic reviews of reasons.
+A good philosophy article need not present evidence and
+discuss its quality – it may proceed, for example, on the
+basis of hypothetical scenarios – but a good policy article                2a. Different type of research question from
+must do both. (4) For many bioethics questions, the dis-                   classical systematic review
+cussion occurs in various fields and genres, such as philosophy articles and policy pieces.                                        Our alternative model holds that a systematic review of
+    This objection is an unfair objection to the specific                  reason-based bioethics should address not an ethical
+systematic review presented by McCullough and col-                         question, but the empirical question of which reasons
+leagues because the only publications it covers are articles               have been given when the ethical question was addressed.
+in reason-based bioethics. However, the McCullough                         More precisely, the research question should ask, for
+Model is intended to apply to reason-based bioethics in                    example, which reasons have been given for or against the
+general. The objection is nonetheless superficial because                  view that the relevant intervention or action is morally
+it is possible to develop criteria for the quality of different            justifiable, impermissible, permissible or obligatory, or
+types of publication: a publication would then receive its                 for the views that a specific intervention should, or need
+score of 0, 1/2 or 1 according to the relevant criteria.                   not, be made.
+    The remaining objections are not superficial. The                         To illustrate: we recently completed what we believe is
+second objection is that independent coders are likely to                  the first systematic review of reasons, as well as the first
+score differently the quality of reasoning in the same                     systematic review of a large, mature reason-based bioet-publication. The McCullough Model intends one number                       hics literature.21
+(0, 1/2 or 1) to score both validity and soundness.                           It addresses the question: ‘which reasons have been
+However, it is unclear, and is left unclear, what score to                 given for the views that former participants in a drug trial
+assign to a valid argument with false premises: how good                   should, or need not, be ensured post-trial access to the
+should we consider such an argument? Similarly, it is                      trial drug?’ A secondary research question is: ‘how have
+unclear, and is left unclear, how to score the quality of                  these reasons been used to argue that post-trial access
+reasoning in a publication when it presents some reasons                   should, or need not, be ensured?’ These are factual ques-competently but not others. This objection can be                          tions about reasons used in ethical discussions and in
+avoided to some extent by measuring quality other than                     drawing ethical conclusions, as distinct from correspond-by using a summary measure; we note that the Cochrane                      ing conclusion-focused, ethical question that the
+Handbook, which is the main handbook for writing clas-                     McCullough team would instead address: ‘is it obligatory
+sical systematic reviews, ‘. . . recommend[s] against the                  to ensure that former participants are given post-trial
+use of scales yielding a summary score’.20
+                                                                           2008). The Cochrane Collaboration,2008. Available at www.cochranehandbook.org [Accessed 3 Feb 2010]; J.P.T. Higgins & S. Green,
+    J.P.T. Higgins & D.G. Altman. eds. Chapter 8: Assessing risk of bias   eds. The Cochrane Collaboration. Available at: www.cochranein included studies. In J.P.T. Higgins & S. Green. eds. Cochrane Hand-     handbook.org [Accessed 15 Feb 2010], section called ‘Key points’.
+book for Systematic Reviews of Interventions Version 5.0.1 (updated Sep       Sofaer & Strech, op. cit. note 17.
+
+=== p. 6 ===
+
+access to the trial drug?’ The latter could be rewritten in                 mentioned type of reason may be never endorsed and
+the standard form prescribed by the classical and                           never rejected, or always rejected.
+McCullough Model systematic reviews, in terms of popu-                         After removing reasons that are repeated in a source,
+lation, intervention, comparison and outcome. Note that,                    the authors should present data on (1) the broad and
+despite the fact that the literature to be reviewed is                      narrow types of reason given in the literature when the
+reason-based, the proposed research questions are                           ethical question is discussed, (2) the number of occurempirical/descriptive, not ethical/normative.                               rences of each broad and narrow type, (3) whether occur-For the sake of simplicity, we will use the case of post-                rences of the same type are used to argue for or against
+trial access throughout this paper. However, it is impor-                   the view in question, or sometimes for and sometimes
+tant to point out that, for every ethical question, for                     against, and (4) whether different occurrences of the same
+example, whether abortion is permissible or whether                         type that have the same alleged implication are accepted
+there is a right to euthanasia, there is a corresponding                    and/or rejected. It is crucial that the systematic review
+reason-focused question. Our thesis that reason-based                       should contain a comprehensible taxonomy and visual
+bioethics needs systematic reviews of reasons is not                        presentation of all the reasons and their uses, including
+limited to any particular sub-field of reason-based bioet-                  the implications that they have been taken to have for the
+hics. Similarly, although we will not elaborate on this                     research question. There are various options for such a
+point, many arguments in our case for the need for sys-                     presentation. We discuss these and present one else-tematic reviews of reasons in bioethics apply to reason-                    where.24 Often, additional qualitative results will be
+based fields other than reason-based bioethics, such as                     appropriate. For example, the authors might compare
+law and parts of economics. This paper should be taken                      and contrast the variants of the same reason given in
+to present a case for systematic reviews of reasons more                    different publications, and identify major trends regard-generally.                                                                  ing the attitudes taken to commonly-mentioned reasons.
+                                                                               The authors should also collect and present data on the
+                                                                            publications that together comprise the included litera-2b. Need to extract detailed information on reasons                         ture, for example, on the type of publication (such as
+                                                                            article, chapter in edited book), year of publication and
+The form of the research question requires the collection
+                                                                            field of publication (such as medicine, philosophy). They
+of detailed information about reasons. For example, to
+                                                                            should also list the included publications, and a table of
+answer our review’s research questions about reasons why
+                                                                            the positions taken by each publication (the reasons
+post-trial access should, or need not be ensured, authors
+                                                                            endorsed and any final conclusion reached). Further
+should identify each reason occurrence in every included
+                                                                            details of the methodology we advocate are given
+publication, and apply major and minor codes to each
+                                                                            elsewhere.25
+occurrence that refer respectively to the occurrence’s
+broad type of reason and narrow type of reason. One
+broad type might be reasons based on the obligation to
+                                                                            2c. No need to assess the degree to which we should
+avoid exploitation; narrow types would include the obligation to avoid exploiting participants and the obligation                  believe each publication’s conclusion
+to avoid exploiting countries that host research. Another                   The form of the research question also implies that one
+broad type might be reasons based on legal requirements                     does not need to assess the quality of reasons. However,
+regarding post-trial access.22 One difference between the                   information on quality is essential, in particular, to clini-McCullough Model and ours is that our model proposes                        cal decision-makers and policymakers, so we return to
+the extraction of detailed data on each occurrence of                       the issue of quality assessment later.
+reason in each publication, while the McCullough Model
+proposes merely to assign 0, 1/2 or 1 to an entire publication
+on the basis of its overall reasoning.                                      3. Why systematic reviews of reasons?
+   The authors of a systematic review should record also
+whether the reason occurrence is used to argue for or                       One might object that if a literature omits relevant
+against the view in question: occurrences of the same                       reasons when addressing a question or presents poten-reason type may have occurrences with different alleged                     tially strong reasons inadequately – as do some literaimplications.23 They should note whether the occurrence                     tures, in particular, young literatures – a systematic
+is accepted or rejected (or neither), because a commonly-                   review of reasons will be as uninteresting as one of conclusions. We will next explain, using illustrations from
+  N. Sofaer & D. Strech, op. cit. note 17.
+  To be precise, in our systematic review, we recorded whether reason          D. Strech & N. Sofaer. How to Write a Systematic Review of
+occurrences were used to argue that post-trial access should, or need not   Reasons. Unpublished manuscript; Sofaer & Strech, op. cit. note 17.
+be provided.                                                                   Strech & Sofaer, op. cit. note 24.
+
+=== p. 7 ===
+
+                                       The Need for Systematic Reviews of Reasons                                                                     7
+
+our particular systematic review, why our proposed sys-                    publications were major reports by prominent bodies
+tematic reviews of reasons are useful even when the lit-                   such as the US’s National Bioethics Advisory Commis-erature reviewed is uninteresting, and why they are, in                    sion29 and the UK’s National Council on Bioethics,30
+general, less vulnerable to the objections we have                         which both failed to mention major families of reasons
+advanced against the systematic reviews advocated by                       identified by our systematic review, as well as frequently
+McCullough and colleagues. We will also explain why                        published versions of specific reasons. The most-there is a need for systematic reviews of reasons, even                    mentioned reason was avoiding exploitation of partici-though there are already informal reviews of reasons and                   pants, their countries or communities (96 mentions). For
+reports promulgated by official bodies, which also offer                   this and many other reasons, publications differed about
+decision-makers an intermediate option between reading                     the reason’s interpretation, implications and/or persua-all the reasons themselves and a summary of select,                        siveness. Publications differed also on the facts about the
+weighted reasons.                                                          costs, feasibility and legality of PTA.
+   Before we proceed, it is crucial to point out that a                       These results are from a single – indeed, the only –
+systematic review of reasons cannot be the only item in                    systematic review of reasons. We hypothesize generally
+a decision-makers’ brief. Such a review does not help                      that: (1) current informal reviews of reason-based bioetdecision-makers to select the strong reasons from the                      hics and reports produced by official bodies do not iden-published ones or to weight the strong reasons. Depend-                    tify all the published reasons. (2) For any question in
+ing on the scope of the literature reviewed, it may also                   reason-based bioethics, a systematic review of reasons
+fail adequately to represent the arguments and views                       will identify a broader variety of published reasons,
+advanced by industry, regulators, research participants                    alleged implications of reasons and attitudes taken to
+and other stakeholders. The brief should also include,
+                                                                           tation and Developing Countries: The Ethics of Clinical Research. J.S.
+among other items, a distillation of the strong reasons
+                                                                           Hawkins & E.J. Emanuel, eds. Princeton & Oxford: Princeton Univer-and their implications, and guidance on weighting these                    sity Press: 206–245; E. Chang. Fitting a Square Peg into a Round Hole?
+reasons that indicates, as appropriate, the possibility of                 Imposing Informed Consent and Post-trial Obligations on United
+drawing from these reasons, severally and jointly, alter-                  States Sponsored Clinical Trials in Developing Countries. South Calif
+native, individually reasonable conclusions. Yet, as the                   Interdiscip Law J 2002; 11: 339–360; E.J. Emanuel. 2008. Benefits to
+                                                                           Host Countries. In The Oxford Textbook of Clinical Research Ethics.
+arguments below imply, distillation should occur only
+                                                                           E.J. Emanuel et al., eds. Princeton & Oxford: Princeton University
+after a systematic review such as this one has captured all                Press: 719–736; C. Grady. The Challenge of Assuring Continued Post-the published reasons and how they have been used.26 The                   trial Access to Beneficial Treatment. Yale J Health Policy Law Ethics
+systematic review remains an essential ingredient of a                     2005; 5: 425–435; B. Greenwood & W.P. Hausdorff. 2003. After a Trial
+decision-makers’ brief for the reasons above and because                   is Over: The Ethical Issues. Available at: http://www.scidev.net/en/
+                                                                           policy-briefs/after-a-trial-is-over-the-ethical-issues-1.html [Accessed 6
+of decision-makers’ need to check the distillation and its
+                                                                           July 2010]; L.E. Hutt. Freebies for Subject 641: A Discussion of the
+legitimacy.                                                                Ethical Prospect of Providing Drug Trial Subjects with Post-trial Access
+   By way of introduction, we will need key results from                   to the Drug Tested – A Canadian Perspective. Health Law J 1998; 6
+our systematic review: this identified 36 broad and 235                    Spec No: 169–187; Lavery, op. cit. note 27; A.J. London. Responsive-narrow types of reasons, based on a wide variety of                        ness to Host Community Health Needs. In The Oxford Textbook of
+                                                                           Clinical Research Ethics. E.J. Emanuel et al., eds. Princeton & Oxford:
+moral, legal and practical considerations. None of the 75
+                                                                           Princeton University Press: 737–744; R. Macklin. 2004. Double Stan-publications included in the review reported more than 22                  dards in Medical Research in Developing Countries. Cambridge, UK:
+broad and 59 narrow types, even though the publication                     Cambridge University Press; J. Millum. Post-trial Access to Antiretro-that reported these was an excellent informal review.27                    virals: Who Owes What to Whom? Bioethics 2009. DOI: BIOT1736 [pii]
+The mean informal review reported only 24 narrow types                     10.1111/j.1467-8519.2009.01736.x [doi]; National Bioethics Advisory
+                                                                           Commission (NBAC), op cit. note 29; D. Orentlicher. Universality and
+of reason, compared to our review’s 235.28 Among the
+                                                                           its Limits: When Research Ethics can Reflect Local Circumstances. J
+                                                                           Law Med Ethics 2002; 30: 403–410; A.K. Page. Prior Agreements in
+   There is need for research to determine how best to distil and to       International Clinical Trials: Ensuring the Benefits of Research to
+construct a suitable measure of quality.                                   Developing Countries. Yale J Health Policy Law Ethics 2002; 3: 35–66;
+   J.V. Lavery. 2008. The Obligation to Ensure Access to Beneficial        Z. Zong. Should Post-trial Provision of Beneficial Experimental Inter-Treatments for Research Participants at the Conclusion of Clinical         ventions be Mandatory in Developing Countries? J Med Ethics 2008;
+Trials. In The Oxford Textbook of Clinical Research Ethics; E.J.           34: 188–192.
+Emanuel et al. New York: Oxford University Press: 697–708.                    Now disbanded. National Bioethics Advisory (NBAC) Commission.
+   These wide disparities were only slightly reduced when types of         2001. Ethical and policy issues in international research: Clinical trials in
+reason were broadened to ensure that the disparity was not an artifact     developing countries. Bethesda, MD: NBAC. Available at: http://
+of having very narrowly individuated reasons. The informal reviews         bioethics.georgetown.edu/nbac/clinical/Vol1.pdf [Accessed 6 Jul 2010].
+included in our systematic review were: R. Ashcroft. 2005. After the          Nuffield Council on Bioethics (NCOB). 2002. The ethics of research
+Trial is over: What are the Sponsor’s Obligations? Available at: http://   related to healthcare in developing countries. London: NCOB. Available
+www.scidev.net/en/policy-briefs/after-the-trial-is-over-what-are-the-      at: http://www.nuffieldbioethics.org/sites/default/files/Ethics%20of%20
+sponsor-s-obl.html [Accessed 6 July 2010]; A.L. Carse & M.O. Little.       research%20related%20to%20healthcare%20in%20developing%20
+2008. Exploitation and the Enterprise of Medical Research. In Exploi-      countries%20I.pdf [Accessed 6 Jul 2010].
+
+=== p. 8 ===
+
+reasons than searches typically conducted by those                          strong reasons, a systematic review of reasons is still
+writing in reason-based bioethics or by the authors of                      crucial. First, it is a minimally based starting point for
+official reports.                                                           identifying the strong reasons. Second, imagination,
+   If these hypotheses are true, what is their significance?                knowledge of reasons mentioned in other literatures, and
+Policymakers considering, for example, whether or not                       analytical skills are not always optimal and, in any case,
+to require that trial participants are ensured access to                    are sometimes insufficient to identify all the relevant
+the trial drug after the trial must identify all the relevant               reasons. Thought is stimulated by discovering differences
+reasons why post-trial access should, or need not be                        between publications regarding the formulation, implica-ensured to participants.31 Bioethicists seeking to under-                   tions or persuasiveness of reasons, and differences in how
+stand when and why post-trial access should be ensured                      often they are mentioned. Because the readers of a sys-must do the same. As mentioned above, a systematic                          tematic review of reasons do not have to reinvent the
+review of reasons should include a digestible visual pre-                   wheels or, at any rate, need to invent fewer wheels, we
+sentation of all the published reasons and their alleged                    surmise that they are less likely to miss relevant reasons
+implications for the research question. The differences                     and likelier to formulate relevant reasons plausibly and to
+between our systematic review on the one hand, and                          understand their implications.33
+informal reviews and reports on the other hand, suggest                        There are further ways in which a systematic review of
+that such a presentation is currently the best tool that                    reasons is directly relevant to decision-making. Our sysdecision-makers and bioethicists have to ensure they do                     tematic finding that the most-endorsed reasons included
+not overlook possibly relevant reasons and their alleged                    ones used just for ensuring PTA and others just for the
+implications. In particular, a systematic review of                         view that PTA need not be ensured, provides a salutary
+reasons brings to light reasons that have been infre-                       warning to decision-makers against considering only
+quently published and only inadequately presented,                          reasons on one side of the case. Other systematic reviews
+such as – in the case of our systematic review – rights-                    of reasons are likely to provide similar warnings. Also, a
+based reasons. If the publishing world works well, these                    systematic review may also imply that a procedural solu-less prominently published reasons will be a distraction.                   tion will be needed to set guidelines.34 Our systematic
+However, the most prominently published ones may                            review suggested that reason-based bioethicists may fail
+simply be the best publicized, perhaps due to conflicts of                  to reach agreement, in that it showed that the most-interest that induce authors to endorse weak reasons                        endorsed reasons included ones used just for ensuring
+and to ignore or reject strong reasons. In the absence of                   PTA, and others used just for the view that PTA need not
+evidence either way, a systematic review based on a                         be ensured.
+well-constructed search is crucial, in that it gives even                      Possible users of systematic reviews of reasons such as
+such reasons an equal voice prior to selection and                          ours include the members of a committee, within a phar-appraisal of the relevant reasons.32                                        maceutical company or government agency, charged with
+   Some reasons given in published discussions of the                       developing guidelines on post-trial access to trial drugs.
+research question may, in fact, not be strong reasons or                    NS’s essential preparation for drafting the guidelines on
+perhaps not even relevant to the research question.                         post-trial access to trial drugs in collaboration with the
+Although decision-makers and bioethicists need the                          UK’s National Research Ethics Service included writing
+                                                                            a systematic review of reasons why such access should, or
+                                                                            need not be ensured.35 Such a review would also be useful
+   We lack evidence that neglect of relevant reasons leads to poor          for designers of research protocols such as researchers,
+decision-making. However, this seems to us to be a probable assump-         research sponsors, and Contract Research Organizations,
+tion, particularly when – as revealed by our systematic review of reasons
+                                                                            particularly given the fact that current guidance on post– many and entire classes of published reasons are ignored. The content
+of the decision, which might be the selection of a policy, plausibly        trial access is inconsistent, ambiguous and silent on many
+depends on the reasons considered. The fact that official bodies place
+such emphasis on collecting the relevant literature and giving voice to
+different groups of stakeholders suggest that they share this assumption.
+Furthermore, even if ignoring a relevant reason makes no difference to         Admittedly, the risk arises that readers presented with what purports
+the content of the decision, it does make a difference to its perceived     to be a comprehensive review will be less likely to wonder what it omits.
+legitimacy. Particularly when the reason is associated with particular      The review’s limitations must be clearly identified so that readers remain
+stakeholder groups, its omission will lay decision-makers open to the       alive to the possibility that there may be relevant reasons which have
+criticism that they ignored those stakeholders’ perspective.                never been published.
+   Of course, this is only true to the extent that such reasons are            N. Daniels. 2008. Just Health: Meeting Health Needs Fairly. Cam-found by the systematic review. It is true that a systematic review         bridge, New York: Cambridge University Press.
+increases the pool of findable reasons. However, since a systematic            It was also necessary to conduct an extensive consultation because
+review relies on specific sources of data, such as particular databases,    the systematic review did not adequately capture the views, for example,
+these in turn become the gate-keepers and must be scrutinized for           of industry and patients, and because of the need for legitimacy. Further
+comprehensiveness.                                                          limitations are given in the text.
+
+=== p. 9 ===
+
+                                        The Need for Systematic Reviews of Reasons                                                              9
+
+aspects of post-trial access.36 The public needs these other                bility or legality of ensuring post-trial access to trial
+parties to read systematic reviews of reasons.                              drugs. The empirical testing of these assumptions – which
+   We surmise that a systematic review of reasons is also                   will require prior operationalization of appropriate con-indirectly relevant to decision-making, in that it is a par-                cepts, e.g. of cost – will improve the information base of
+ticularly good tool for inspiring and guiding empirical                     decisions, whether in practice or policy. For example,
+and conceptual research that improves the information                       prominent international research ethics guidelines state
+base of decisions.37 Various examples follow. First, such a                 that payments to research subjects should not be so large
+review may identify moral views that differ between pub-                    that they induce individuals to participate in research
+lications or indeed trends in attitudes taken to a specific                 against their better judgment.39 Many ethics commenta-view. Our review identified a trend towards rejecting the                   tors argue that payments to research participants that do
+view that avoiding exploitation requires post-trial access.                 more than reimburse their costs should not be permitted
+This view was common in the early literature and                            because they may lead individuals to underestimate or
+assumed by prominent guidelines written during this                         undervalue the risks of participating.40 Limited evidence
+early stage (see e.g.38). Thus, our review suggested the                    now shows that increasing payments to research partici-need to scrutinize these guidelines. Second, a systematic                   pants is not associated with reducing the ability to assess
+review may identify, as did ours, reasons that have been                    risk.41 It may be that the case for the current guidelines on
+presented only inadequately. Third, as mentioned, iden-                     payments to research subjects remains compelling, even if
+tifying all the different published formulations of a                       the reason (apparently incorrectly) based on the effect of
+reason will better enable the selection of the relevant                     payments on risk assessment is removed from the case.
+one(s). Fourth, such a review can also show, as did ours,                   Nonetheless, the legitimacy of a guideline based on a
+that many authors, who used specific interpretations of a                   falsehood is questionable. A systematic review seems best
+reason, did not express awareness of some or any other                      placed to identify empirical assumptions that need
+interpretations, or relevant literature in the same and                     testing.
+other fields, and that some of the reasoning is incomplete                     Also, our systematic review aids bioethicists’ identifi-or appears invalid. Fifth, the stark differences that our                   cation of reasons relevant to determining whether there
+systematic review identified in authors’ use of terms for                   are other obligations, such as ensuring PTA to trial
+key concepts such as exploitation and reciprocity suggest                   results,42 providing ART to participants who seroconvert
+that bioethicists should investigate how to distinguish                     in HIV vaccine trials,43 or providing participants with
+such concepts. In some cases, the systematic review will                    care not necessary to conduct the research, to prevent or
+simplify this task into that of deciding which of the entries               address research-related injury, or to fulfil morally
+in its list of very finely individuated reasons should be                   optional promises.44
+considered to be reasons of the same type.                                     For all the above reasons, a systematic review of
+   Sixth, a systematic review of reasons may identify, as                   reasons remains helpful even if some of the published
+did ours, empirical assumptions that differ between pub-                    reasons turn out to be irrelevant, or the implications of
+lications, for example, assumptions about the cost, feasi-                  the reasons for the research questions have been misunderstood. We surmise that a systematic review of a young
+   NBAC, op. cit. note 29; NCOB, op. cit. note 30; CIOMS. 2002.
+                                                                            literature may hasten its maturation by identifying short-International Ethical Guidelines for Biomedical Research Involving
+Human Subjects. Geneva: Council for International Organizations of          falls and areas for further research. We surmise also that
+Medical Sciences. Available at: http://www.cioms.ch/publications/           the main value of a systematic review of a mature literaguidelines/guidelines_nov_2002_blurb.htm [Accessed 9 July 2010];            ture is to identify the major trends and reversals in what
+World Medical Association. 2008. World Medical Association Declaration of Helsinki: Ethical Principles for Medical Research involving          CIOMS, op. cit. note 36.
+Human Subjects. Ferney-Voltaire: World Medical Association.                    R. Macklin. On Paying Money to Research Subjects: ‘Due’ and
+Available at: http://www.wma.net/en/30publications/10policies/b3/           ‘Undue’ Inducements. IRB 1981; 3: 1–6; N. Dickert N & C. Grady.
+index.html [Accessed 9 July 2010].                                          What’s the Price of a Research Subject? Approaches to Payment for
+   Systematic reviews of reasons should be updated frequently, as is        Research Participation. N Engl J Med 1999; 341: 198–203.
+recommended in the case of classical systematic reviews. J.P.T. Higgins,       S.D. Halpern. Towards Evidence Based Bioethics. BMJ 2005; 331:
+S. Green & R.J.P.M. Scholten. 2008. Chapter 3: Maintaining Reviews:         901–903.
+Updates, Amendments and Feedback. In Cochrane Handbook for Sys-                C.V. Fernandez, E. Kodish & C. Weijer. Informing Study Partici-tematic Reviews of Interventions Version 5.0.1 (updated September           pants of Research Results: An Ethical Imperative. IRB 2003; 25: 12–19.
+2008). J.P.T. Higgins & S. Green (eds). The Cochrane Collaboration.            S. Berkley. Thorny Issues in the Ethics of AIDS Vaccine Trials.
+Available at: www.cochrane-handbook.org/ [Accessed 3 Feb 2010].             Lancet 2003; 362: 992; C. Slack et al. Provision of HIV Treatment in
+   CIOMS, op. cit. note 36; L.H. Glantz et al. Research in Developing       HIV Preventive Vaccine Trials: A Developing Country Perspective. Soc
+Countries: Taking ‘Benefit’ Seriously. Hastings Cent Rep 1998; 28:          Sci Med 2005; 60: 1197–1208.
+38–42; Participants in the 2001 conference on ethical aspects of research      H.S. Richardson, L. Belsky. The Ancillary-care Responsibilities of
+in developing countries. Moral Standards for Research in Developing         Medical Researchers: An Ethical Framework for Thinking about the
+Countries: From ‘Reasonable Availability’ to ‘Fair Benefits’. Hastings      Clinical Care that Researchers Owe their Subjects. Hastings Cent Rep
+Cent Rep 2004; 34: 17–27.                                                   2004; 34: 25–33.
+
+=== p. 10 ===
+
+will typically be a literature too vast, fragmented and                     finding. Thus, our model is less vulnerable to objections
+complex for most decision-makers to collect and                             to the measurement of the quality of reasoning.
+appraise. Possibly, the direct relevance to decision-                          This consideration is superficial because, as noted,
+makers of a systematic review of reasons increases as the                   decision-makers will also need information on quality.
+field matures. As with any systematic review, decision-                     Worse, one might object that decision-makers may
+makers may lack the time to wait for one to be written.                     confuse the most commonly-presented reasons with the
+While ours was extremely time-consuming, the process                        strongest reasons, just as they may confuse the litera-should be speedier now that the methodology has been                        ture’s all-things-considered conclusion (presented by a
+developed. That methodology, which we report elsewhere                      McCullough Model systematic review) with the truth.
+as a step-wise process,45 could be further automated,                       The explanation of why the most commonly-presented
+increasing its value to decision-makers. If the methodol-                   reasons may fail to be the strongest ones presumably
+ogy is also applied to write reviews within large fields                    varies with context, as mentioned above. Whatever the
+such as law or economics, the incentive to automate the                     explanation, this objection threatens our view that, with
+process will increase and (amortized) cost decrease.46                      regards to reason-based bioethics, systematic reviews of
+   The limitations of the literature revealed by our sys-                   reasons are superior.
+tematic review suggest that a systematic review that                           In reply, particularly because our systematic review
+answers the question ‘should PTA be ensured to former                       showed that publications presenting the same common
+participants in a clinical trial?’, as the only alternative                 reason differed regarding its implications and persuasive-model of SRs of reason-based literature proposes,47                         ness, we consider it unlikely that readers would assume
+would not be useful to decision-makers, because the                         that the more commonly-presented reasons are the stron-answers given by many publications are unreliable. For                      ger ones. However, we concede that a common reason for
+the same reason, such a review would not place a burden                     a specific conclusion might be commonly presented,
+of proof on those who disagree with the most common                         always endorsed, yet invalid. We therefore propose that
+answer given in the literature to this question. Further-                   systematic review methodology should be improved to
+more, all-things-considered conclusions may distract                        enable it to identify possible conflicts of interest,49 and
+decision-makers, given that different weightings of values                  that – in the absence of a measure of quality – systematic
+and different contexts could yield different conclusions.                   reviews should warn readers against assuming that the
+Because the aim of systematic reviews of reasons is not to                  more commonly presented reasons are the stronger rea-present the literature’s all-things-considered conclusion,                  sons.50 Furthermore, research should also be conducted
+they avoid giving decision-makers the impression that                       to understand whether or not such a warning suffices to
+this conclusion is the correct one. Furthermore, a system-                  prevent readers from making this assumption. The results
+atic review of conclusions that does not extract data on                    should be used to assess whether the risk that invalid
+reasons will be uninteresting to philosophers, whatever                     reasons will mislead policymakers is more, or less, serious
+the completeness or quality of the literature reviewed, as                  than the risk that policymakers will fail to take into
+they will still need to ‘go back to first principles’: to                   account potentially strong reasons that were excluded
+consider all the relevant reasons, their implications for                   from the review because the literature presented them
+the specific issue and their relative weight.                               only as invalid reasons.
+   A merely pragmatic consideration in favour of system-                       If it turns out that such a warning does not suffice, we
+atic reviews of reasons is that there is no need to measure                 recommend writing different systematic reviews for bio-the quality of reasoning: a complete answer does not                        ethicists versus policymakers. Bioethicists should be
+require this. However, a key feature of the classical sys-                  given all the published reasons, because this furthers their
+tematic review is ‘an assessment of the validity of the                     interest of identifying all the published reasons and
+findings of the included studies’.48 If the relevant finding is             because they are trained to assess reasons. Policymakers
+that a specific reason has been published, the publication                  should, instead, be given a subset of the published
+of the reason suffices to establish the validity of the                     reasons, that is, the strong reasons; if necessary, the data
+                                                                            on how often the (strong) reasons were presented should
+                                                                            be withheld. It may be necessary to construct a measure
+   Strech & Sofaer, op. cit. note 24.
+   Automating a procedure to be applied more broadly will probably be
+more expensive than automating a more specific procedure. However,              A sufficiently large literature enables the testing of correlations
+the former is likely to be less expensive to its end users, over whom the   between reasons presented (or endorsed) and author characteristics.
+costs are amortized. We thank Reuben Thomas for this point.                     Even if a McCullough Model systematic review discloses that the
+   McCullough et al., op. cit. note 1.                                      literature’s all-things-considered ethical conclusion may not be the
+   S. Green et al. 2008. Introduction. In Cochrane Handbook for Sys-        truth, and the disclosure prevents readers from thinking that the con-tematic Reviews of Interventions Version 5.0.1 (updated Sep 2008).          clusion is the truth, a systematic review of reasons is still preferable, in
+J.P.T. Higgins & S. Green, eds. The Cochrane Collaboration. Available       that only it presents the detailed data on reasons that decision-makers,
+at www.cochrane-handbook.org [Accessed 15 Feb 2010], section 1.2.           scientists and academics need.
+
+=== p. 11 ===
+
+                                        The Need for Systematic Reviews of Reasons                                                                11
+
+of quality; and this poses various challenges. For                           obviating the need for hundreds of hours of hard-to-find,
+example, it will be necessary to consider whether the                        skilled labour to retrieve relevant publications. Further-review should include only valid reasons, or the narrower                    more, medical professionals may be better appraisers of
+set of reasons that are valid and sound. It will also be                     clinical epidemiology than of reason-based bioethics.
+necessary to decide whether to include a reason when                         Also, a systematic review’s summary of the positions
+there is legitimate disagreement about its validity and                      taken by individual publications (reasons endorsed and
+soundness. It is important to note that, even in the                         any final conclusion reached) enables decision-makers to
+absence of a measure of quality, the systematic reviews                      grasp key publications immediately without trawling
+we advocate can be coupled with publications that                            through typically large amounts of text. Both these addi-discuss the quality and implications of the reasons iden-                    tional items – the complete reference list and summary of
+tified by the systematic review.                                             positions – save decision-makers time and greatly reduce
+                                                                             the scope for error. Last, in the case of our particular
+                                                                             systematic review at least, guidance is inconsistent and
+4. Why systematic reviews?                                                   incomplete, and so an additional aid to decision-making
+                                                                             is necessary. Admittedly, a systematic review makes more
+As mentioned above, the rationale given by McCullough                        demands on decision-makers than an informal review,
+and colleagues for writing systematic reviews of reason-                     but its advantages justify these demands. Unlike the
+based bioethics is the same as in the case of classical                      informal reviews and reports covered by our systematic
+systematic reviews, namely, that systematic reviews make                     review,52 our systematic review identifies all the empirical
+possible maximally informed, minimally biased decisions.                     or ethical points of dissent and so sets the research
+We add here that society has an interest in clinical deci-                   agenda. Our systematic review’s identification of stark
+sions and policies that are maximally informed and mini-                     differences between publications, for example, on matters
+mally biased. Furthermore, various clinical decisions,                       of fact, shows that multi-disciplinary research is urgently
+policies and policy tools that appear to be based on solely
+factual considerations are in fact influenced by ethical
+considerations – in some cases ethical judgments that are                    52
+                                                                                R. Ashcroft. After the Trial is over: What are the Sponsor’s Obliga-implicit and unjustified.51                                                  tions? 2005: Available at: http://www.scidev.net/en/policy-briefs/afterThe rationale for writing systematic reviews of reason-                   the-trial-is-over-what-are-the-sponsor-s-obl.html [Accessed 6 July
+                                                                             2010]; A.L. Carse & M.O. Little. 2008. Exploitation and the Enterprise
+based bioethics may, in some respects, be stronger than in                   of Medical Research. In Exploitation and Developing Countries: The
+the case of clinical epidemiology: reason-based bioethics                    Ethics of Clinical Research. J.S. Hawkins & E.J. Emanuel, eds. Princ-is particularly contentious, and the reason-based bioeth-                    eton & Oxford: Princeton University Press: 206–245; E. Chang. Fitting
+ics literature is especially difficult to retrieve, not only for             a Square Peg into a Round Hole? Imposing Informed Consent and
+medical professionals, who are not trained to retrieve it,                   Post-trial Obligations on United States Sponsored Clinical Trials in
+                                                                             Developing Countries. South Calif Interdiscip Law J 2002; 11: 339–360;
+but also for reference librarians. This is because the lit-                  E.J. Emanuel. 2008. Benefits to Host Countries. In The Oxford Text-erature is fragmented across different fields, a greater                     book of Clinical Research Ethics. E.J. Emanuel et al., eds. Princeton &
+proportion of reason-based bioethics literature appears                      Oxford: Princeton University Press: 719–728; C. Grady. The Challenge
+in books, and the literature has been inadequately                           of Assuring Continued Post-trial Access to Beneficial Treatment. Yale J
+indexed. A systematic review’s complete reference list is                    Health Policy Law Ethics 2005; 5: 425–435; B. Greenwood & W.P.
+                                                                             Hausdorff. 2003. After a Trial is Over: The Ethical Issues. Available at:
+an important aid for both decision-makers and scholars,                      http://www.scidev.net/en/policy-briefs/after-a-trial-is-over-the-ethicalissues-1.html [Accessed 6 July 2010]; L.E. Hutt. Freebies for Subject
+   I. Miljeteig et al. Impact of Ethics and Economics on End-of-life         641: A Discussion of the Ethical Prospect of Providing Drug Trial
+Decisions in an Indian Neonatal Unit. Pediatrics 2009; 124: 322–328;         Subjects with Post-trial Access to the Drug Tested – A Canadian PerK.A. Johansson, B. Robberstad & O.F. Norheim. Further Benefits by            spective. Health Law J 1998; 6 Spec No: 169–187; Lavery, op. cit. note
+Early Start of HIV Treatment in Low Income Countries: Survival Esti-         27; A.J. London. Responsiveness to Host Community Health Needs. In
+mates of Early Versus Deferred Antiretroviral Therapy. AIDS Research         The Oxford Textbook of Clinical Research Ethics. E.J. Emanuel et al.,
+and Therapy 2010; 7; D.W. Brock. 2003. Ethical Issues in the Use of          eds. Princeton & Oxford: Princeton University Press: 737–744; R.
+Cost-effectiveness Analysis for the Prioritization of Health Care            Macklin. 2004. Double Standards in Medical Research in Developing
+Resources. In Making choices in health: WHO Guide to Cost-                   Countries. Cambridge, UK: Cambridge University Press; J. Millum.
+Effectiveness Analysis. T. Tan-Torres Edejer et al. eds. Geneva: World       Post-trial Access to Antiretrovirals: Who Owes What to Whom? Bioet-Health Organization: 289–312; S. Anand & K. Hanson. Disability-              hics 2009. DOI: BIOT1736 [pii] 10.1111/j.1467-8519.2009.01736.x [doi];
+adjusted Life Years: A Critical Review. J Health Econ 1997; 16: 685–         National Bioethics Advisory Commission (NBAC), op. cit. note 29; D.
+702; N. Sofaer et al. Is the Selection of Patients for Anti-retroviral       Orentlicher. Universality and its Limits: When Research Ethics can
+Treatment in Uganda Fair? A Qualitative Study. Health Policy 2009;           Reflect Local Circumstances. J Law Med Ethics 2002; 30: 403–410; A.K.
+91: 33–42; D. Strech & J. Tilburt. Value Judgments in the Analysis and       Page. Prior Agreements in International Clinical Trials: Ensuring the
+Synthesis of Evidence. J Clin Epidemiol 2008; 61: 521–524; B. Molewijk       Benefits of Research to Developing Countries. Yale J Health Policy Law
+et al. First the Facts, then the Values? Implicit Normativity in Evidence-   Ethics 2002; 3: 35–66; Z. Zong. Should Post-trial Provision of Beneficial
+based Decision Aids for Shared Decision-making. Z Evid Fortbild Qual         Experimental Interventions be Mandatory in Developing Countries? J
+Gesundhwes 2008; 102: 415–420.                                               Med Ethics 2008; 34: 188–192.
+
+=== p. 12 ===
+
+needed to understand the costs,53 feasibility, legality and               relevant literature, and thus helps them reach the appro-effects of requiring PTA, and any tendency of PTA offers                  priate degree of confidence in the systematic review’s
+to potential participants to boost recruitment or to                      findings. The analysis provided by a systematic review
+reduce the quality of informed consent. Its identification                written according to our model should interest policy-of inter-publication differences in the formulation and                   makers more than the limited analysis given in informal
+implications of moral reasons suggests that further                       reviews. Only the former is designed to identify differreason-based research is needed.                                          ences in the alleged implications of a reason or differences
+   One might object that systematic reviews of reason-                    in how persuasive different publications find the reason.
+based bioethics are unnecessary to enable maximally                       Furthermore, only the former provides rankings of
+informed, minimally biased decisions: informal reviews                    reasons in terms of how frequently they were mentioned,
+suffice. According to this view, it suffices to sample quali-             endorsed, or rejected.
+fying publications until no new reasons emerge from                          Thus, paradoxically, a systematic review of reasons is
+additional publications, a point that qualitative research-               better placed than a systematic review of conclusions (as
+ers call ‘theoretical saturation’. Arguably, this is standard             well as better placed than an informal review) to show
+philosophical practice, although philosophers neither use                 both when we should take the field’s all-things-considered
+standard techniques to maximize the chance of retrieving                  conclusion seriously and when that conclusion places a
+all relevant material nor report reproducible searches.                   burden of proof on those who hold different views.
+   We have already argued why a review of reasons must
+be based on an exhaustive search and explained the direct
+and indirect relevance to decision-making of a list of all                5. Are reviews written according to our model
+the published reasons. We add here that appropriate                       really systematic?
+aggregation of exhaustive data on reasons, and appropri-                  The issue of whether our proposed reviews are properly
+ate data on publications, can be combined to identify bias                called systematic is not merely definitional: systematic
+due to the fact that some arguments are published more                    reviews have a special authority for clinical decision-frequently than others, in higher impact publications, or                 makers and policymakers. It is therefore crucial to
+across a broader variety of journals. Our systematic                      address possible objections.54
+review suggested that all these sources of bias were                         One objection is that although our proposed reviews
+present. A systematic review of reasons has, due to its                   do synthesize the literature, they do not draw the litera-methodology, a much lower risk of bias than the indi-                     ture’s all-things-considered conclusion to the question
+vidual publications it covers, which decision-makers                      that the literature actually addresses. A systematic
+would otherwise use to identify relevant reasons (or                      review, this objection continues, should include such a
+should use, in the absence of a systematic review of                      substantial synthesis, but our proposed reviews chiefly list
+reasons). Bias minimization is crucial: most bioethics                    the reasons that have been given for or against this view.
+issues are highly contentious and stakeholders often have                    Our reply is that the reviews that we propose do indeed
+unequal power.                                                            include a substantial synthesis: the list of reasons and their
+   Furthermore, while much of the value of a systematic                   variants, and aggregate data for example on the number of
+review of reasons lies in its list of all the published                   narrow types of reason mentioned in the literature. Fur-reasons, two other components are of direct use to                        thermore, our proposed synthesis better furthers the clasdecision-makers. One is its complete reference list, as                   sical systematic review’s aim of enabling maximally
+mentioned previously. Particularly when the literature is                 informed, minimally biased decision-making than a sys-mature and fragmented, decision-makers are likely to                      tematic review of conclusions. The latter may indeed jeop-lack the time and skills to retrieve all the publications.                ardize this aim by misleading decision-makers.
+The other is the table that summarizes the position taken                    A second objection focuses on the lack of guidance our
+by each included publication: the reasons it endorsed,                    systematic reviews offer on the quality of reasons to poli-and the all-things-considered conclusion reached. When                    cymakers facing ethical decisions. The objection points
+a publication is long and difficult, such a table can greatly             out that this makes them a considerably less useful tool
+help decision-makers who wish to understand the posi-                     than classical systematic reviews to policymakers facing
+tions taken by a specific publication. A systematic search                decisions concerning, for example, which drug to use for
+seeks to be not only exhaustive but reproducible.                         a disease.
+Describing a reproducible search enables readers to                          Our reply is that we agree that the systematic reviews
+assess whether the search is likely to have retrieved all                 we propose would be more useful if they assessed the
+                                                                          quality of reasons. However, in the absence of evaluation,
+   Such multidisciplinary research should include the identification of
+an appropriate, measurable concept of cost as well as empirical              D. Strech. Evidence-based Ethics – What it Should Be and What it
+research.                                                                 Shouldn’t. BMC Med Ethics 2008; 9.
+
+=== p. 13 ===
+
+                                     The Need for Systematic Reviews of Reasons                                                          13
+
+their methodology and the extent to which they have the                 they use pre-determined inclusion conditions and inde-potential to improve decision-making leads us to con-                   pendent reviewers, as well as various quality control
+clude that the second objection is not decisive. Further-               mechanisms. We should also remember that many clas-more, as mentioned, decision-makers can also be given                   sical systematic reviews have some bias.58
+careful analyses of individual reasons, for example, an
+analysis of reciprocity-based arguments for the view that
+former participants in ART trials should always have                    CONCLUDING REMARKS
+continued access to ART.55
+   A third objection arises when reviewing a body of lit-               We have argued that systematic reviews of reason-based
+erature, such as the literature on post-trial access, where             bioethics should not seek to answer an ethical question
+the same term (for example reciprocity) is used by differ-              based on the quality-adjusted responses of the included
+ent publications to express different reason concepts (for              publications. This is because such reviews may mislead
+example the concepts of reciprocity and of distributive                 decision-makers when a literature is incomplete, or when
+justice). As we explain elsewhere,56 inconsistencies in the             there are mutually incompatible, but individually reason-usage of language mean that one should not assign types                 able answers to the ethical question. Furthermore, they
+of reason to reason occurrences on the basis of language                can be written without identifying all the reasons given
+alone: one must assign types partly on the basis of the                 when the ethical questions are discussed, their alleged
+concepts expressed by the language. Unfortunately, it                   implications for the ethical question, and the attitudes
+sometimes happens that one author uses the word ‘reci-                  taken to the reasons. However, we contended, there is a
+procity’ to express a concept that another author calls                 need for systematic reviews of reasons, which address the
+‘distributive justice’, and some concepts such as reciproc-             factual question of which reasons have been given when
+ity and distributive justice may actually overlap. Further-             addressing an ethical question, and present detailed infor-more, there is reasonable disagreement about how to                     mation on such reasons. We explained that systematic
+individuate concepts. Therefore, coding on the basis of                 reviews of reasons potentially improve decision-making
+concepts, instead of language, increases the chance that                directly, in that their lists of published reasons, and of
+individual reviewers might code passages differently, as                publications, best reduce the respective chances that there
+would different teams of reviewers. The risk of bias is                 are relevant reasons, and publications, of which decision-thus substantially increased. The objection continues that              makers are unaware. Also, their summary of positions
+a systematic review must have a minimal risk of bias, and               taken – the reasons endorsed and any conclusion drawn
+so a review that codes reason occurrences on the basis of               by individual publications – enables decision-makers
+concepts cannot be systematic. If consistency of language               quickly and accurately to grasp publications, some of
+usage is an indicator of the quality of literature, the                 which are voluminous or unclear. Last, such reviews can
+problem arises that systematic reviews of the worst litera-             improve decision-making indirectly, through the reliable
+tures, which presumably most need systematic reviews,                   identification of any necessary research that would
+are simply not feasible.57                                              improve the information-base and provision of research
+   The second objection does not apply when a litera-                   tools, and thus also improve the academic literature.
+ture’s language usage is consistent, but we concede that                However, we stressed, a systematic review of reasons
+there may be few such literatures. We would like to point               cannot be the only item in a decision-makers’ brief: this
+out that, plausibly, a review’s methodology can have sub-               should also contain, among other items, a distillation of
+stantial validity, although not optimal validity, when                  the best reasons that remains alive to the possibility of
+independent reviewers reach consensus on how to assign                  alternative, reasonable conclusions that can be drawn
+reason types or they appeal to an independent reviewer to               from individual reasons and the totality of reasons.
+resolve disagreement. In any case, we find it plausible to              Further research is needed on measuring the quality of
+believe (in the absence of contrary evidence) that a multi-             reasons.
+author systematic review will be more valid than the
+typical single-author informal review, which is written on
+the basis of an undocumented search and analysis. At
+                                                                        Acknowledgements
+least, the burden of proof falls on the single author of the
+informal review to disprove this. Furthermore, reviews                  For very helpful comments, the authors would like to thank Bioethics’
+written according to our model use most of the tech-                    anonymous reviewers, Penney Lewis, Marcel Mertz, Reuben Thomas,
+                                                                        Leif Wenar and the audience of the LABTEC (London & Brighton
+niques of the classical systematic review. For example,                 Translational Ethics Centre) colloquium at King’s College London.
+   M. Merritt & C. Grady. Reciprocity and Post-trial Access for Participants in Antiretroviral Therapy Trials. AIDS 2006; 20: 1791–1794.     D. Moher et al. Preferred Reporting Items for Systematic Reviews
+   Strech & Sofaer, op. cit. note 24.                                   and Meta-Analyses: The PRISMA Statement. Ann Intern Med 2009;
+   We thank Leif Wenar for this point.                                  151: 264–269.
+
+=== p. 14 ===
+
+Neema Sofaer was supported by a Research Fellowship in Biomedical          Philosophy from Massachusetts Institute of Technology, and then
+Ethics from the Wellcome Trust, grant number 088360. Daniel Strech         returned to Harvard as a Research Fellow in Ethics and Health to train
+was partly supported by a grant from the German Research Society           in social scientific methods. Her research focuses on the ethics of
+(DFG), grant number STR 1070/2-1.                                          research and of resource allocation.
+
+Neema Sofaer is a Wellcome Trust Research Fellow at the Centre of          Daniel Strech is Assistant Professor of Medical Ethics at Hannover
+Medical Law and Ethics at King’s College London. She has a three-year      Medical School and a member of the advisory board for the German
+grant from the Wellcome Trust to conduct research on the ethical and       Network of Evidence-based Medicine (DNEbM). He holds a PhD in
+legal aspects of post-trial access to trial drugs, healthcare and infor-   Philosophy and a MD degree, both from the University of Düsseldorf.
+mation. She obtained a double-first BA Honours in English and              His research focuses mainly on the ethics of public health and of clini-Philosophy, and a M.Phil in Philosophy, both from Trinity College,         cal research; he also works on how to improve transparency in
+Cambridge. After studying philosophy and classics at Harvard as a          medical decision-making and how to make such decision-making
+Kennedy Memorial Scholar, she received a PhD in Linguistics and            more systematic.
+

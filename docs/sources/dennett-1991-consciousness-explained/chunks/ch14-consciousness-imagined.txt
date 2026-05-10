@@ -1,0 +1,963 @@
+=== chunk: dennett-1991-consciousness-explained/ch14-consciousness-imagined ===
+title: Consciousness Imagined
+source_pdf: docs/sources/dennett-1991-consciousness-explained/full.pdf
+pdf_pages: 446-471
+page_scheme: book
+plan_page_start: 431
+plan_page_end: 456
+extracted_pages: 25 (plan nominally 26; trailing blank trimmed)
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 431 ===
+
+                                            CONSCIOUSNESS
+                                                        IMAGINED
+
+     1.   IMAGINING A CONSCIOUS ROBOT
+
+      The phenomena of human consciousness have been explained in
+the preceding chapters in terms of the operations of a virtual machine,"
+a sort of evolved (and evolving) computer program that shapes the
+activities of the brain. There is no Cartesian Theater; there are just
+Multiple Drafts composed by processes of content fixation playing various semi-independent roles in the brain's larger economy of controlling
+a human body's Journey through life. The astonishingly persistent conviction that there is a Cartesian Theater is the result of a variety of
+cognitive illusions that have now been exposed and explained.
+"Qualia" have been replaced by complex dispositional states of the
+brain, and the self (otherwise known as the Audience in the Cartesian
+Theater, the Central Meaner, or the Witness) turns out to be a valuable
+abstraction, a theorist's fiction rather than an internal observer or boss.
+      if the self is "just" the Center of Narrative Gravity, and if all the
+phenomena of human consciousness are explicable as "just" the activities of a virtual machine realized in the astronomically adjustable connections of a human brain, then, in principle, a suitably "programmed"
+robot, with a silicon-based computer brain, would be conscious, would
+have a self. More aptly, there would be a conscious self whose body
+was the robot and whose brain was the computer. This implication of
+my theory strikes some people as obvious and unobjectionable. "Of
+course we're machines! We're just very, very complicated, evolved machines made of organic molecules instead of metal and silicon, and we
+
+=== p. 432 ===
+
+are conscious, so there can be conscious machines — us." For these
+readers, this implication was a foregone conclusion. What has proved
+to be interesting to them, I hope, are the variety of unobvious implications encountered along the way, in particular those that show how
+much of the commonsense Cartesian picture must be replaced as we
+learn more about the actual machinery of the brain.
+      Other people, however, find the implication that there could be,
+in principle, a conscious robot so incredible that it amounts in their
+eyes to the reductio ad absurdum of my theory. A friend of mine once
+responded to my theory with the following heartfelt admission: "But,
+Dan, I just can't imagine a conscious robot!" Some readers may be
+inclined to endorse his claim. They should resist the inclination, for
+he misspoke. His error was simple, but it draws attention to a fundamental confusion blocking progress on understanding consciousness.
+"You know that's false," I replied. "You've often imagined conscious
+robots. It's not that you can't imagine a conscious robot; it's that you
+can't imagine how a robot could be conscious."
+      Anyone who has seen R2D2 and C3PO in Star Wars, or listened
+to Hal in 2001, has imagined a conscious robot (or a conscious computer — whether the system is up-and-about, like R2D2, or bedridden,
+like Hal, is not really that crucial to the task of imagination). It is literally
+child's play to imagine the stream of consciousness of an "inanimate"
+thing. Children do it all the time. Not only do teddy bears have inner
+lives, but so does the Little Engine That Could. Balsam trees stand
+silently in the woods, fearing the woodsman's ax but at the same time
+yearning to become a Christmas tree in some nice warm house, surrounded by happy children. Children's literature (to say nothing of
+television) is chock full of opportunities to imagine the conscious lives
+of such mere things. The artists who illustrate these fantasies usually
+help the children's imagination by drawing expressive faces on these
+phony agents, but it's not essential. Speaking—as Hal does—will
+serve about as well, in the absence of an expressive face, to secure the
+illusion that there is someone in there, that it is like something to be
+Hal, or a teddy bear, or a choo-choo train.
+      That's the rub, of course; These are all illusions — or so it seems.
+There are differences among them. It's obvious that no teddy bear is
+conscious, but it's really not obvious that no robot could be. What is
+obvious is just that it's hard to imagine how they could be. Since my
+friend found it hard to imagine how a robot could be conscious, he was
+reluctant to imagine a robot to be conscious — though he could easily
+have done so. There is all the difference in the world between these
+
+=== p. 433 ===
+
+two feats of imagination, but people tend to confuse them. It is indeed
+mind-bogglingly difficult to imagine how the computer-brain of a robot
+could support consciousness. How could a complicated slew of information-processing events in a bunch of silicon chips amount to conscious experiences? But it's just as difficult to imagine how an organic
+human brain could support consciousness. How could a complicated
+slew of electrochemical interactions between billions of neurons
+amount to conscious experiences? And yet we readily imagine human
+beings to be conscious, even if we still can't imagine how this could
+be.
+      How could the brain be the seat of consciousness? This has usually
+been treated as a rhetorical question by philosophers, suggesting that
+an answer to it would be quite beyond human comprehension. A primary goal of this book has been to demolish that presumption. I have
+argued that you can imagine how all that complicated slew of activity
+in the brain amounts to conscious experience. My argument is straightforward: I have shown you how to do it. It turns out that the way to
+imagine this is to think of the brain as a computer of sorts. The concepts
+of computer science provide the crutches of imagination we need if we
+are to stumble across the terra incognita between our phenomenology
+as we know it by "introspection" and our brains as science reveals
+them to us. By thinking of our brains as information-processing systems,
+we can gradually dispel the fog and pick our way across the great divide,
+discovering how it might be that our brains produce all the phenomena.
+There are many treacherous pitfalls to avoid — such inviting dead ends
+as the Central Meaner, "filling in," and "qualia," for instance — and
+no doubt there are still some residual confusions and outright errors
+in the sketch I have provided, but at least we can now see what a path
+would be like.
+      Some philosophers have declared, however, that crossing this divide is strictly impossible. Thomas Nagel (1974, 1986) has claimed that
+there is no getting to the subjective level of phenomenology from the
+objective level of physiology. More recently Cohn McGinn has claimed
+that consciousness has a "hidden structure" that lies beyond both phenomenology and physiology, and while this hidden structure could
+bridge the gap, it is probably forever inaccessible to us.
+
+      The kind of hidden structure I envisage would lie at neither of
+      the levels suggested by Nagel: it would be situated somewhere
+      between them. Neither phenomenological nor physical, this mediating level would not (by definition) be fashioned on the model
+
+=== p. 434 ===
+
+     of either side of the divide, and hence would not find itself unable
+     to reach out to the other side. Its characterization would call for
+     radical conceptual innovation (which I have argued is probably
+     beyond us). [McGinn, 1991, pp. 102—103]
+
+       The "software' or "virtual machine" level of description I have
+exploited in this book is exactly the sort of mediating level McGinn
+describes: not explicitly physiological or mechanical and yet capable
+of providing the necessary bridges to the brain machinery on the one
+hand, while on the other hand not being explicitly phenomenological
+and yet capable of providing the necessary bridges to the world of
+content, the worlds of (hetero-)phenomenology. We've done it! We have
+imagined how a brain could produce conscious experience. Why does
+McGinn think it is beyond us to engage in this "radical conceptual
+innovation"? Does he subject the various software approaches to the
+mind to a rigorous and detailed analysis that demonstrates their futility?
+No. He doesn't examine them at all. He doesn't even try to imagine the
+intermediate level he posits; he just notes that it seems obvious to him
+that there is nothing to hope for from this quarter.
+       This spurious "obviousness" is a great obstacle to progress in
+understanding consciousness. It is the most natural thing in the world
+to think of consciousness as occurring in some sort of Cartesian Theater,
+and to suppose that there is nothing really wrong with thinking this
+way. This seems obvious until you look quite hard at what we might
+learn about the brain's activities, and begin trying to imagine, in detail,
+an alternative model. Then what happens is rather like the effect of
+learning how a stage magician performs a conjuring trick. Once we take
+a serious look backstage, we discover that we didn't actually see what
+we thought we saw onstage. The huge gap between phenomenology
+and physiology shrinks a bit; we see that some of the "obvious" features
+of phenomenology are not real at all: There is no filling in with figment;
+there are no intrinsic qualia; there is no central fount of meaning and
+action; there is no magic place where the understanding happens. In
+fact, there is no Cartesian Theater; the very distinction between onstage
+experiences and backstage processes loses its appeal. We still have
+plenty of amazing phenomena to explain, but a few of the most mind-boggling special effects just don't exist at all, and hence require no
+explanation.
+       Once we make some progress on the difficult task, imagining how
+a brain produces the phenomena of consciousness, we get to make some
+slight adjustments in the easy task: imagining someone or something
+
+=== p. 435 ===
+
+to be conscious. We may continue to think of this by positing a stream
+of consciousness of sorts, but we no longer endow that stream with all
+of its traditional properties. Now that the stream of consciousness has
+been reconceived as the operations of a virtual machine realized in the
+brain, it is no longer "obvious" that we are succumbing to an illusion
+when we imagine such a stream occurring in the computer brain of a
+robot, for instance.
+      McGinn invites his readers to join him in surrender: It's just impossible to imagine how software could make a robot conscious. Don't
+even try, he says. Other philosophers have fostered this attitude by
+devising thought experiments that "work" precisely because they dissuade the reader from trying to imagine, in detail, how software could
+accomplish this. Curiously, the two best known both involve allusions
+to China: Ned Block's (1978) Chinese Nation and John Searle's (1980,
+1982, 1984, 1988) Chinese Room.1 Both thought experiments rely on
+the same misdirection of imagination, and since Searle's has been the
+more widely discussed, I will concentrate on it. Searle invites us to
+imagine him locked in a room, hand-simulating a giant Al program,
+which putatively understands Chinese. He stipulates that the program
+passes the Turing test, foiling all attempts by human interlocutors to
+distinguish it from a genuine understander of Chinese. It does not follow, he says, from this merely behavioral indistinguishability that there
+is any genuine understanding of Chinese, or any Chinese consciousness,
+in the Chinese Room. Searle, locked in the room and busily manipulating the symbol strings of the program according to the program,
+doesn't thereby gain any understanding of Chinese, and there is nothing
+else in the room that understands Chinese either (this is "just obvious,"
+as Frank Jackson would say).
+      This thought experiment is supposed to prove the impossibility
+of what Searle calls "strong Al," the thesis that "the appropriately
+programmed digital computer with the right inputs and outputs would
+thereby have a mind in exactly the sense that human beings have
+minds" (Searle, 1966a). There has been a huge outpouring of reaction
+to Searle's many versions of this thought experiment over the last dec-
+
+       1. Try to imagine the state of mind of Ji Mu-Mm, my graduate student from Beijing,
+whose introduction to Anglo-American philosophy of mind (while his English was still
+quite rudimentary) was sitting in a seminar where students and professors vigorously
+debated what would be the case if the entire population of China were somehow forced
+to participate in a massive realization of a putatively conscious Al program (Block's
+example) and then went on to discuss, with equal obliviousness to the sensitivities of a
+Chinese observer, Searle's Chinese Room.
+
+=== p. 436 ===
+
+ade, and while philosophers and others have always found flaws in his
+thought experiment when it is considered as a logical argument,2 it is
+undeniable that its "conclusion' continues to seem "obvious" to many
+people. Why? Because people don't actually imagine the case in the
+detail that it requires.
+      Here is an informal experiment that will help us see if my diagnosis is correct. First, let's imagine a brief excerpt from the Chinese
+Room's winning dialogue with the judge in the Turing test. (For con-venieiice, I've translated it from Chinese to English.)
+       JUDGE: Did you hear about the Irishman who found a magic lamp?
+       When he rubbed it a genie appeared and granted him three wishes.
+       "I'll have a pint of Guixmess!" the Irishman replied, and immediately it appeared. The Irishman eagerly set to sipping and then
+       gulping, but the level of Guinness in the glass was always magically restored. After a while the genie became impatient. "Well,
+       what about your second wish?" he asked. Replied the Irishman
+       between gulps, "Oh well, I guess I'll have another one of these!"
+             CHINESE ROOM: Very funny. No, I hadn't heard it — but you
+       know, I find ethnic jokes in bad taste. I laughed in spite of myself,
+       but really, I think you should find other topics for us to discuss.
+             J: Fair enough, but I told you the joke because I want you to
+      explain it to me.
+             CR: Boring! You should never explain jokes.
+             J: Nevertheless, this is my test question. Can you explain to
+      me how and why the joke "works"?
+             CR: If you insist. You see, it depends on the assumption that
+      the magically refilling glass will go on refilling forever, so the
+      Irishman has all the stout he can ever drink. So he hardly has a
+      reason for wanting a duplicate, but he is so stupid (that's the part
+      I object to) or so besotted by the alcohol, that he doesn't recognize
+      this, and so, unthinkingly endorsing his delight with his first wish
+      come true, he asks for seconds. These background assumptions
+      aren't true, of course, but just part of the ambient lore of joke-
+
+       2. The definitive refutation, still never adequately responded to by Searle, is Doug-las Hofstadter's. in Hofstadter and Dennett (1981). pp. 373—382. There have been many
+other incisive criticisms over the years. tn 'Fast Thinking (in Dennett, 1987a), I offered
+a new diagnosis of the sources of confusion in his thought experiment. His response was
+to declare, with no supporting argument, that all its points are irrelevant (Searle. 1988b).
+No conjuror enjoys having his tricks exp'ained to the public,
+
+=== p. 437 ===
+
+     telling, in which we suspend our disbelief in magic, and so forth.
+     By the way, we could imagine a somewhat labored continuation
+     in which the Irishman turned out to be "right" in his second wish
+     after all — perhaps he's planning to throw a big party, and one
+     glass won't refill fast enough to satisfy all his thirsty guests (and
+     it's no use saving it up in advance — we all know how stale stout
+     loses its taste). We tend not to think of such complications, which
+     is part of the explanation of why jokes work. Is that enough?
+
+      This conversation is not dazzling, but let's suppose it was good
+enough to fool the judge. Now we are invited to imagine all these
+speeches by CR being composed by the giant program Searle is diligently hand-simulating. I-lard to imagine? Of course, but since Searle
+stipulates that the program passes the Turing test, and since this level
+of conversational sophistication would surely be within its powers,
+unless we try to imagine the complexities of a program capable of
+generating this sort of conversation, we are not following directions.
+Of course we should also imagine that Searle hasn't any inkling of what
+he is doing in the Chinese Room; he just sees zeros and ones that he
+manipulates according to the progTam. It is important, by the way, that
+Searle invites us to imagine that he manipulates inscrutable Chinese
+characters instead of zeros and ones, for this may lull us into the (unwarranted) supposition that the giant program would work by somehow
+simply "matching up" the input Chinese characters with some output
+Chinese characters. No such program would work, of course — do CR's
+speeches in English "match up" with the judge's questions?
+       A program that could actually generate CR's speeches in response
+to J's questions might look something like this in action (viewed from
+the virtual-machine level, not from Searle's                   level). On
+parsing the first words, "Did you hear about       some of the program's
+joke-detecting demons were activated, which called up a host of strategies for dealing with fiction, "second intention" language, and the
+like, so when the words "magic lamp" came to be parsed, the program
+had already put a low priority on responses complaining that there
+were no such things as magic lamps. A variety of standard genie-joke
+narrative frames (Minsky, 1975) or scripts (Schank and Abelson, 1977)
+were activated, creating various expectations for continuations, but
+ these were short-circuited, in effect, by the punch line, which invoked
+ a more mundane script (the script for "asking for seconds"), and the
+ unexpectedness of this was not lost on the program.. At the same
+                                                           .
+
+=== p. 438 ===
+
+ time, demons sensitive to the negative connotations of ethnic-joketelling were also alerted, eventually leading to the second theme of CR's
+ first response. . And so forth, in vastly more detail than I have tried
+                  .
+
+ to sketch here.
+        That fact is that any program that could actually hold up its end
+ in the conversation depicted would have to be an extraordinarily supple, sophisticated, and multilayered system, brimming with "world
+ knowledge" and meta-knowledge and meta-meta-knowledge about its
+ own responses, the likely responses of its interlocutor, its own "motivations" and the motivations of its interlocutor, and much, much
+ more. Searle does not deny that programs can have all this structure,
+ of course. He simply discourages us from attending to it. But if we are
+ to do a good job imagining the case, we are not only entitled but obliged
+ to imagine that the program Searle is hand-simulating has all this structure — and more, if only we can imagine it. But then it is no longer
+ obvious, I trust, that there is no genuine understanding of the joke going
+ on. Maybe the billions of actions of all those highly structured parts
+ produce genuine understanding in the system after all. if your response
+ to this hypothesis is that you haven't the faintest idea whether there
+ would be genuine understanding in such a complex system, that is
+ already enough to show that Searles thought experiment depends, illicitly, on your imagining too simple a case, an irrelevant case, and
+ drawing the "obvious" conclusion from it.
+        Here is how the misdirection occurs. We see clearly enough that
+ if there were understanding in such a giant system, it would not be
+Searle's understanding (since he is just a cog in the machinery, oblivious to the context of what he is doing). We also see clearly that there
+ is nothing remotely like genuine understanding in any hunk of programming small enough to imagine readily — whatever it is, it's just a
+mindless routine for transforming symbol strings into other symbol
+strings according to some mechanical or syntactical recipe. Then comes
+the suppressed premise: Surely more of the same, no matter how much
+more, would never add up to genuine understanding. But why should
+anyone think this was true? Cartesian dualists would think so, because
+they think that even human brains are unable to accomplish understanding all by themselves; according to the Cartesian view, it takes an
+immaterial soul to pull off the miracle of understanding. If, on the other
+hand, we are materialists who are convinced that one way or another
+our brains are responsible on their own, without miraculous assistance,
+for our understanding, we must admit that genuine understanding is
+somehow achieved by a process composed of interactions between a
+
+=== p. 439 ===
+
+host of subsystems none of which understand a thing by themselves.
+The argument that begins this little bit of brain activity doesn't understand Chinese, and neither does this bigger bit of which it is a
+part       is headed for the unwanted conclusion that even the activity
+of the whole brain is insufficient to account for understanding Chinese.
+It is hard to imagine how "just more of the same" could add up to
+understanding, but we have very good reason to believe that it does,
+so in this case, we should try harder, not give up.
+      How might we try harder? With the help of some handy concepts:
+the intermediate-level software concepts that were designed by computer scientists precisely to help us keep track of otherwise unimaginable complexities in large systems. At the intermediate levels we see
+many entities that are quite invisible at more microscopic levels, such
+as the "demons" alluded to above, to which a modicum of quasi-understanding is attributed. Then it becomes not so difficult to imagine
+how "more of the same" could amount to genuine understanding. All
+these demons and other entities are organized into a huge system, the
+activities of which organize themselves around its own Center of Narrative Gravity. Searle, laboring in the Chinese Room, does not understand Chinese, but he is not alone in the room. There is also the System,
+CR, and it is to that self that we should attribute any understanding of
+the joke.
+      This reply to Searle's example is what he calls the Systems Reply.
+It has been the standard reply of people in Al from the earliest outings
+of his thought experiment, more than a decade ago, but it is seldom
+appreciated by people outside of Al. Why not? Probably because they
+haven't learned how to imagine such a system. They just can't imagine
+how understanding could be a property that emerges from lots of distributed quasi-understanding in a large system. They certainly can't if
+they don't try, but how could they be helped along on this difficult
+exercise? Is it "cheating" to think of the software as composed of homunculi who quasi-understand, or is that just the right crutch to help
+the imagination make sense of astronomical complexity? Searle begs
+the question. He invites us to imagine that the giant program consists
+of some simple table-lookup architecture that directly matches Chinese
+character strings to others, as if such a program could stand in, fairly,
+for any program at all. We have no business imagining such a simple
+program and assuming that it is the program Searle is simulating, since
+no such program could produce the sorts of results that would pass the
+Turing test, as advertised. (For a similar move and its rebuttal, see Block,
+1982; and Dennett, 1985).
+
+=== p. 440 ===
+
+       Complexity does matter. if it didn't, there would be a much shorter
+ argument against strong Al: "Hey, look at this hand calculator. It doesn't
+ understand Chinese, and any conceivable computer is just a giant hand
+ calculator, so no computer could understand Chinese. Q.E.D." When
+ we factor in the complexity, as we must, we really have to factor it
+ in — and not just pretend to factor it in. That is hard to do, but until
+ we do, any intuitions we have about what is "obviously" not present
+ are not to be trusted. Like Frank Jackson's case of Mary the color scientist, Searle's thought experiment yields a strong, clear conviction
+only when we fail to follow instructions. These intuition pumps are
+defective; they do not enhance but mislead our imaginations.
+       But what, then, of my own intuition pumps? What of Shakey the
+robot, or the CADBLIND Mark II, or the biofeedback-trained blindsight
+patient, for instance? Are they not equally suspect, equally guilty of
+misleading the reader? I've certainly done my best in telling these tales
+to lead your imagination down certain paths, and to keep you from
+bogging down in complexities I deemed unnecessary to the point I was
+attempting to make. There is some asymmetry, however: My intuition
+pumps are, for the most part, intended to help you imagine new possibilities, not convince you that certain prospects are impossible. There
+are exceptions. My variation on the brain in the vat that opened the
+book was designed to impress on you the impossibility of certain sorts
+of deception, and some of the thought experiments in chapter 5 were
+intended to show that, unless there were a Cartesian Theater, there
+could not be a fact of the matter distinguishing Orwellian from Stalin-esque content revisions. These thought experiments proceeded, however, by heightening the vividness for the "opposition"; the examples
+of the woman in the hat at the party and the long-haired woman with
+glasses, for instance, were designed to sharpen the very intuition I then
+sought to discredit by argument.
+      Still, let the reader beware: My intuition pumps, like anyone else's,
+are not the straightforward demonstrations they may seem to be; they
+are more art than science. (For further warnings about philosophers'
+thought experiments, see Wilkes, 1988.) If they help us conceive of new
+possibilities, which we can then confirm by more systematic methods,
+that is an achievement; if they lure us down the primrose path, that is
+a pity. Even good tools can be misused, and like any other workers, we
+will do better if we understand how our tools work.
+
+=== p. 441 ===
+
+     2. WHAT IT IS LIKE TO BE A BAT
+
+     The most widely cited and influential thought experiment about
+consciousness is Thomas Nagel's "What 15 It Like to Be a Bat?" (1974).
+He answers his title question by claiming that this is impossible for us
+to imagine. This claim is congenial to many, apparently; one sometimes
+sees his paper cited by scientists as if it were that rarity of rarities, a
+philosophical "result" — a received demonstration of a fact that any
+theory must subsequently accommodate.
+       Nagel chose his target creatures well. Bats, as fellow mammals,
+are enough like us to support the conviction that of course they are
+conscious. (If he had written "What Is It Like to Be a Spider?" many
+would be inclined to wonder what made him so sure it was like anything at all.) But thanks to their system of echolocation — bats can "see
+with their ears" — they are also different enough from us so that
+we can sense the vast gulf. Had he written a paper called "What Is It
+Like to Be a Chimpanzee?" or, more to the point, "What Is It Like to
+Be a Cat?" the opinion that his pessimistic conclusion was obvious
+would not be so close to unanimity. There are many people who are
+supremely confident that they know Just what it's like to be a cat. (They
+are wrongs of course, unless they have supplemented all their loving
+and empathetic observation with vast amounts of physiological research, but they would be erring on the wrong side, from Nagel's point
+ of view.)
+        For better or worse, most people seem quite cheerful about accepting Nagel's "result" regarding the inaccessibility to us of bat consciousness. Some philosophers have challenged it,                   and for
+ good   reason               1981; Hardin, 1988; Leiber,  1988; Akins, 1990).
+ First we must be clear about Just which result it is. It is not just the
+ epistemological or evidential claim that even if someone succeeded
+ ("by accidents') in imagining what it is like to be a bate we would never
+ be able to confirm that this successful feat of imagination had occurred.
+ It is rather that we human beings don't have and could never acquire
+ the wherewithal, the representational                   to represent to ourselves what it is like to be a bat.
+        The distinction is important. In chapter 12 we looked at the similar
+ feat of imagining what it must have been like to be a Leipziger hearing
+ one of Bach's cantatas for the first time. The epistemological problem
+  is difficult, but straightforwardly addressable by the usual sorts of research. Figuring out Just what sorts of experiences they would have
+  had, and how these would differ from our experiences of Bach, is a
+
+=== p. 442 ===
+
+ matter of historical, cultural, psychological, and, maybe, physiological
+ investigation. We can figure out some of this quite readily, including
+ some of the most striking differences from our own experience, but if
+ we were to try to put ourselves into the very sequence of experiential
+ states such a person would enjoy, we would face diminishing returns.
+ The task would require us to subject ourselves to vast transformations — forgetting much of what we know, losing associations and
+ habits, acquiring new habits and associations. We can use our "thirdperson" research to say what these transformations would be, but actually undergoing them would involve terrible costs of isolation from
+our contemporary culture — no listening to the radio, no reading about
+ post-Bach political and social developments, and so forth. There is no
+need to go to those lengths to learn about Leipziger consciousness.
+       The same is true about imagining what it is like to be a bat. We
+should be interested in what we can know about the bat's consciousness
+(if any), not whether we can turn our minds temporarily or permanently
+into bat minds. In chapter 12, we undermined the presumption that
+there were "intrinsic" properties — qualia — that constitute what it is
+like to have one conscious experience or another, and as Akins (1990)
+points out, even if there were residual nondispositional, nonrelatjonal
+properties of bat experiences, becoming intimately acquainted with
+them, while remaining ignorant of the researchable facts about the systematic structure of bat perception and behavior, would leave us ignorant of what it is like to be a bat. There is at least a lot that we can
+know about what it is like to be a bat, and neither Nagel nor anyone
+else has given us a good reason to believe there is anything interesting
+or theoretically important that is inaccessible to us.
+      Nagel claims that no amount of third-person knowledge could tell
+us what it is like to be a bat, and I flatly deny that claim. How might
+we resolve this dispute? By engaging in something that starts out as
+child's play — a game in which one person imagines what it is like to
+be x, and the other then tries to demonstrate that there is something
+wrong with that particular exercise of heterophenomenology.
+     Here are some simple warmup exercises:
+
+     A: Here's Pooh the teddy bear, thinking how nice it would be to
+     have some honey for breakfast!
+           B: Wrong. The teddy bear has no provision for distinguishing
+     honey from anything else. No operating sense organs, and not even
+     a stomach. The teddy bear is filled with inert stuffing. It is not
+     like anything to be a teddy bear.
+
+=== p. 443 ===
+
+           A. Here's Bambi the deer, admiring the beautiful sunset, until
+     the bright orange sky suddenly reminds him of the evil hunter's
+     jacket'
+           B. Wrong. Deer are colorblind (well, they may have some
+     sort of dichrornatic vision). Whatever deer are conscious of (if
+     anything), they don't distinguish colors such as orange.
+           A. Here's Billy the bat perceiving, in his special sonar sort
+     of way, that the flying thing swooping down toward him was not
+     his cousin Bob, but an eagle, with pinfeathers spread and talons
+     poised for the kill!
+           B. Hang on — how far away did you say the eagle was? A
+     bat's echolocation is only good for a few meters.
+           A. Urn, well. .  And the eagle was already only two meters
+                             .
+
+     away!
+           B. Ah, now this is harder to say. Just what are the resolution
+     limits of a bat's echolocation? Is it used to identify objects at all,
+     or just as an alerter and tracker for capture? Would a bat be able
+     to distinguish pinleathers spread horn pinleathers closed just
+     using echolocation? I doubt it, but we will have to design sorne
+     experiments to see, and also, of course, some experiments to discover whether bats are capable of keeping track of, and reidenti-fying, their kin. Some mammals can, and others, we have good
+     reason to believe, are utterly oblivious of such matters.
+
+     The sorts of investigation suggested by this exercise would take
+us a long way into an account of the structure of the bat's perceptual
+and behavioral world, so we could rank order heterophenomenological
+narratives for realisrn, discarding those that asserted or presupposed
+discrirninatory talents, or reactive dispositions, demonstrably not provided for in the ecology and neurophysiology of the bat. For example,
+we would learn that bats would not be bothered by the loud squeaks
+they ernit in order to produce their echoes, because they have a cleverly
+designed muscle that shuts down their ears in perfect timing with their
+squeaks, not unlike the timing devices that permit sensitive radar systems to avoid being blasted by their own outgoing signals. A lot of
+research has already been done on these issues, so we can already say
+much more, for instance about why bats use different frequency patterns
+for their squeaks, depending on whether they are scanning for prey,
+approaching a target, or horning in for the kill (Akins, 1989, 1990).
+      When we arrive at heterophenomenological narratives that no
+critic can find any positive grounds for rejecting, we should accept
+
+=== p. 444 ===
+
+them — tentatively, pending further discoveries — as accurate accounts of what it is like to be the creature in question. That, after all,
+is how we treat each other. In recommending that we treat bats and
+other candidates for interpretation the same way, I am not shifting the
+burden of proof but extending the normal, human, burden of proof to
+ other entities.
+       We could use these investigations to dispel all sorts of overly
+ romantic illusions about bat consciousness. We know that Randall Jar-rell's delightful children's book, The Bat-Poet (1963), is fantasy, because
+we know that bats don't talk! Less obviously fantastical claims about
+their phenomenology succumb to less obvious, but still public, facts
+about their physiology and behavior. These investigations would show
+us a great deal about what a bat could and could not be conscious of
+under various conditions, by showing us what provisions there were
+ in their nervous systems for representing this and that, and by checking
+experimentally to make sure the bat actually put the information to use
+in the modulation of its behavior. It is hard to imagine how much can
+be gleaned from this sort of research until you actually look into it.
+(For a surprisingly detailed preliminary investigation of what it is like
+to be a vervet monkey, for instance, see Cheney and Seyfarth, How
+Monkeys See the World, 1990.)
+       This invites an obvious objection: These investigations would
+show us a great deal about brain organization and information-processing in the bat, but they would show us only what bats are
+not conscious of, leaving entirely open what, if anything, bats are conscious of. As we know, much of the information-processing in
+nervous systems is entirely unconscious, so these methods of investigation will do nothing to rule out the hypothesis that bats are. flying
+
+zombies, creatures it is not like anything to be! (Wilkes, 1988, p. 224,
+wonders whether bat echolocation is a sort of blindsight, not like anything at all.)
+      Ah, the bat is out of the bag. This is indeed the ominous direction
+in which this discussion seems to be sliding, and we must head it off.
+Richard Dawkins (1986), in an illuminating discussion of the design of
+echolocation in horseshoe bats, gives us a clear version of the image
+that is lurking.
+
+     The Doppler Effect is used in police radar speed-traps for motorists. .. By comparing the outgoing frequency with the frequency
+            .
+
+     of the returning echo the police, or rather their automatic instrument [my emphasisi, can calculate the speed of each car. .. By       .
+
+=== p. 445 ===
+
+                                       CONSOOUSNESS IMAGINED        445
+
+     comparing the pitch of its cry with the pitch of the returning echo,
+     therefore, the bat (or rather its on-board computer in the brain)
+      my emphasis] could, in theory, calculate how fast it was moving
+     towards the tree. [pp. 30—311
+
+It is tempting to ask: Is there something in the bat that is situated relative
+to its "onboard computer" (which operates without a smidgen of consciousness) as the police are situated relative to their "automatic device"? The police don't have to calculate the Doppler shift consciously,
+but they do have to experience, consciously, the readout on their device
+that says, in bright red LED symbols: "75MPH." That is their cue for
+leaping on their motorcycles and starting up their sirens. We may plausibly suppose that the bat also does not consciously calculate the Dop-pler shift — its onboard computer takes care of that — but then isn't
+there a role left over, in the bat, for something like the experiencing
+cop, a witness to appreciate (consciously) the "output" of the bat's
+Doppler-effect-analysis computer? Note that we could easily enough
+replace the police officers with an automatic device that somehow recorded the registration number of the offending vehicle, looked up the
+operator's name and address and sent him or her a ticket. There is
+nothing special about the task the police are doing that shows it could
+not be done without any experiencing of anything. The same holds, it
+would seem, for the bat. A bat might be a zombie. It would be a zombie — so this line of reasoning suggests — unless there were an inner
+observer in it that reacts to an inner presentation in much the way the
+officers react to the flashing red lights on their instruments.
+      Don't fall in the trap. This is our old nemesis, the Audience in
+the Cartesian Theater. Your consciousness does not consist in the fact
+that your brain is inhabited by an inner agent to whom your brain
+presents displays, so our inability to find such a central agent in the
+bat's brain would not jeopardize its claim to consciousness, or our claim
+to be able to say what its consciousness was like. In order to understand
+a bat's consciousness, we must simply apply the same principles to the
+bat that we apply to ourselves.
+      But what could a bat do, then, that would be special enough to
+ convince us that we were in the presence of genuine consciousness? It
+ may seem that no matter what fancy output-users we situate behind
+ the bat's Doppler-transducer, there could be no convincing, from-theoutside, "third-person" reason to grant the bat conscious experience.
+ Not so. If the bat could talk, for instance, it would generate a text from
+ which we could generate a heterophenomenological world, and that
+
+=== p. 446 ===
+
+ would give us exactly the same grounds for granting it consciousness
+ that serve for any person. But, as we just noted, bats can't talk. They
+can, however, behave in many nonverbal ways that can provide a clear
+basis for describing their heterophenomenological world, or, as the
+pioneer researcher von Uexküll (1909) called it, their Umwelt und In-nenwelt, their Surroundworld and Innerworld.
+       Heterophenomenology without a text is not impossible, just difficult (Dennett, 1988a, 1988b, 1989a, 1989b). One branch of animal
+heterophenomenology is known as cognitive ethology, the attempt to
+model animals minds by studying — and experimenting on — their
+behavior in the field. The possibilities and difficulties of this sort of
+investigation are well represented in Cheney and Seyfarth (1990), Whiten and Byrne (1988), and in Ristau (1991), a festschrift dedicated to
+Donald Griffin, the pioneer investigator of bat echolocation and the
+creator of the field of cognitive ethology. One of the frustrating difficulties encountered by these investigators is that many of the experiments one dreams of running turn out to be utterly impractical in the
+absence of language; one simply cannot set up subjects (and know that
+one has set them up) in the ways these experiments would require
+without conversing with the subjects (Dennett, 1988a).
+      This is not just an epistemological problem for the heterophe-nomenologist; the very difficulty of creating the requisite experimental
+circumstances in the natural environment demonstrates something
+more fundamental about the minds of languageless creatures. It shows
+that the ecological situations of these animals have never provided them
+with opportunities for the development (by evolution, by learning, or
+by both) of many of the advanced mental activities that shape our minds,
+and so we can be quite sure they have never developed them. For
+instance, consider the concept of a secret. A secret is not just something
+you know that others don't know. For you to have a secret you need
+to know that the others           know it, and you have to be able to control
+that fact. (If you are the first to see the approaching stampede, you may
+know something the others don't know, but not for long; you can't keep
+this bit of privileged information secret.) The behavioral ecology of a
+species has to be rather specially structured for there to be any role for
+secrets at all. Antelopes, in their herds, have no Secrets and no way of
+getting any. So an antelope is probably no more capable of hatching a
+secret plan than it is capable of counting to a hundred or enjoying the
+colors of a sunset. Bats, who engage in relatively solitary forays during
+which they might be able to recognize that very isolation from their
+rivals, meet one of the necessary conditions for having secrets. Do they
+
+=== p. 447 ===
+
+also have interests that might be noticeably well served by exploiting
+secrets? (What could a clam do with a secret? Just sit there in the mud,
+chuckling to itself?) Do bats also have habits of stealth or deception in
+hunting that might be adapted for more elaborate secret-keeping activity? There are in fact many questions of this sort that, once raised,
+suggest further investigations and experiments. The structure of a bat's
+mind is just as accessible as the structure of a bat's digestive system;
+the way to investigate either one is to go back and forth systematically
+between an assay of its contents and an assay of the world from which
+its contents were derived, paying attention to the methods and goals
+of the derivation.
+      Wittgenstein once said, "If a lion could talk, we could not understand him" (1958, p. 223). I think, on the contrary, that if a lion
+could talk, that lion would have a mind so different from the general
+run of lion minds, that although we could understand him just fine,
+we would learn little about ordinary lions from him. Language, as we
+saw in earlier chapters, plays an enormous role in the structuring of a
+human mind, and the mind of a creature lacking language — and having
+really no need for language — should not be supposed to be structured
+in these ways. Does this mean that languageless animals "are not conscious at all" (as Descartes insisted)? This question always arises at this
+moment as a sort of incredulous challenge, but we shouldn't feel obliged
+to answer it as it stands. Notice that it presupposes something we have
+worked hard to escape: the assumption that consciousness is a special
+all-or-nothing property that sunders the universe into two vastly different categories: the things that have it (the things that it is like something to be, as Nagel would put it) and the things that lack it. Even in
+our own case, we cannot draw the line separating our conscious mental
+states from our unconscious mental states. The theory of consciousness
+we have sketched allows for many variations of functional architecture,
+and while the presence of language marks a particularly dramatic increase in imaginative range, versatility, and self-control (to mention a
+few of the more obvious powers of the Joycean virtual machine), these
+powers do not have the further power of turning on some special inner
+light that would otherwise be off.
+      When we imagine what it is like to be a languageless creature, we
+start, naturally, from our own experience, and most of what then springs
+to mind has to be adjusted (mainly downward). The sort of consciousness such animals enjoy is dramatically truncated, compared to ours.
+A bat, for instance, not only can't wonder whether it's Friday; it can't
+even wonder whether it's a bat; there is no role for wondering to play
+
+=== p. 448 ===
+
+in its cognitive structure. While a bat, like even the lowly lobster, has
+a biological self, it has no selfy sell to speak of — no Center of Narrative
+Gravity, or at most a negligible one. No words-on-the-tip-of-its-tongue,
+but also no regrets, no complex yearnings, no nostalgic reminiscences,
+no grand schemes, no reflections on what it is like to be a cat, or even
+on what it is like to be a bat. This list of dismissals would be cheap
+skepticism if we didn't have a positive empirical theory on which to
+base it. Am I claiming to have proven that bats could not have these
+mental states? Well, no, but I also can't prove that mushrooms could
+not be intergalactic spaceships spying on us.
+      Isn't this an awfully anthropocentric prejudice? Besides, what
+about deaf-mutes? Aren't they conscious? Of course they are — but let's
+not jump to extravagant conclusions about their consciousness, out of
+misguided sympathy. When a deaf-mute acquires language (in partic-Sign language, the most natural language a deaf-mute can learn),
+  full-fledged human mind is born, clearly different in discoverable
+ways from the mind of a hearing person, but capable of all the reflective
+intricacy and generative power — perhaps more. But without a natural
+language, a deaf-mute's mind is terribly stunted. (See Sacks, 1989, especially the annotated bibliography.) As the philosopher Ian Hacking
+(1990) notes in a review of Sacks's book, "It takes a vivid imagination
+even to have a sense of what a deaf child is missing." One does not do
+deaf-mutes a favor by imagining that in the absence of language they
+enjoy all the mental delights we hearing human beings enjoy, and one
+does not do a favor to nonhuman animals by trying to obscure the
+available facts about the limitations of their minds.
+       And this, as many of you are aching to point out, is a subtext that
+has been struggling to get to the surface for quite a while: Many people
+are afraid to see consciousness explained because they fear that if we
+succeed in explaining it, we will lose our moral bearings. Maybe we
+can imagine a conscious computer (or the consciousness of a bat) but
+we shouldn't try, they think. If we get into that bad habit, we will start
+treating animals as if they were wind-up toys, babies and deaf-mutes
+as if they were teddy bears, and — just to add insult to injury — robots
+as if they were real people.
+
+     3. MINDING AND MAUERING
+
+     I take the title of this section from an article by Marian Stamp
+Dawkins (1987), who has done careful investigations of the moral implications of animal heterophenomenology. (Her early work is reported
+
+=== p. 449 ===
+
+in her book Animal Suffering: The Science of Animal Welfare, 1980.)
+As she notes, our moral attitudes towards other animals are full of
+inconsistencies.
+        We have only to think of various different sorts of animals to show
+        up our inconsistencies. There are demonstrations against killing
+        baby harp seals, but there are no comparable campaigns to stop
+        the killing of rats. Many people are quite happy to eat pigs or
+        sheep but horrified by the idea of eating dogs or horses. Ip. 150]
+       Dawkins points out that there are two main strands to this tangle:
+the ability to reason and the ability to suffer. Descartes made much of
+the inability of nonhuman animals to reason (at least the way human
+beings reason), which provoked a famous response from the British
+utilitarian philosopher Jeremy Bentham: "a full-grown horse or dog is
+beyond comparison a more rational, as well as a more conversible
+animal than an infant of a day or a week, or even a month old. But
+suppose they were otherwise, what would it avail? The question is not,
+Can they reason? nor, Can they talk, but Can they suffer?" (Bentham,
+1789) These usually appear to be opposing benchmarks of moral standing, but as Dawkins argues, "giving ethical value to the ability to suffer
+will in the end lead us to value animals that are clever. Even if we start
+out by rejecting Descartes' reasoning criterion, it is the reasoning animals that are the ones most likely to possess the capacity to suffer" (p.
+153).
+      The reasons for this are implicit in the theory of consciousness
+we have developed. Suffering is not a matter of being visited by some
+ineffable but intrinsically awful state, but of having one's life hopes,
+life plans, life projects blighted by circumstances imposed on one's
+desires, thwarting one's intentions — whatever they are. The idea of
+suffering being somehow explicable as the presence of some intrinsic
+property — horribility, let's say — is as hopeless as the idea of amusement being somehow explicable as the presence of intrinsic hilarity.
+So the presumed inaccessibility, the ultimate unknowability, of another's suffering is just as misleading as the other fantasies about intrinsic
+qualia we have unmasked, though more obviously pernicious. It follows — and this does strike an intuitive chord — that the capacity to
+suffer is a function of the capacity to have articulated, wide-ranging,
+highly discriminative desires, expectations, and other sophisticated
+mental states.
+      Human beings are not the only creatues smart enough to suffer:
+Bentham's horse and dog show by their behavior that they have enough
+
+=== p. 450 ===
+
+mental complexity to distinguish — and care about — a spectrum of
+pains and other impositions that is far from negligible, even if it is a
+narrow window compared to the scope of possibilities of human suffering. Other mammals, notably apes, elephants, and dolphins, apparently have much greater ranges.
+      In compensation for having to endure all the suffering, the smart
+creatures get to have all the fun. You have to have a cognitive economy
+with a budget for exploration and self-stimulation to provide the space
+for the recursive stacks of derived desires that make fun possible. You
+have taken a first step when your architecture permits you to appreciate
+the meaning of "Stop it, I love it!" Shallow versions of this building
+power are manifest in some higher species, but it takes a luxuriant
+imagination, and leisure time — something most species cannot afford — to grow a broad spectrum of pleasures. The greater the scope,
+the richer the detail, the more finely discriminative the desires, the
+worse it is when those desires are thwarted.
+      But why should it matter, you may want to ask, that a creature's
+desires are thwarted if they aren't conscious desires? I reply: Why would
+it matter more if they were conscious — especially if consciousness
+were a property, as some think, that forever eludes investigation? Why
+should a "zombie's" crushed hopes matter less than a conscious person's crushed hopes? There is a trick with mirrors here that should be
+exposed and discarded. Consciousness, you say, is what matters, but
+then you cling to doctrines about consciousness that systematically
+prevent us from getting any purchase on why it matters. Postulating
+special inner qualities that are not only private and intrinsically valuable, but also unconfirmable and uninvestigatable is just obscurantism.
+      Dawkins shows how the investigatable differences — the only differences that could possibly matter — can be experimentally explored,
+and it is worth a few details to show how much insight can be gleaned
+even from simple experiments with a rather unprepossessing species.
+
+     Hens kept outside or in large litter pens spend a lot of their time
+     scratching around and I therefore suspected that the lack of litter
+     in battery cages might cause hens to suffer. Sure enough, when I
+     gave them a choice between a cage with a wire floor and one with
+     litter in which they could scratch, they chose the litter-floored
+     cage. In fact they would enter a tiny cage (so small that they could
+     hardly turn round) if this was the only way they could gain access
+     to litter. Even birds which had been reared all their lives in cages
+
+=== p. 451 ===
+
+     and had never before had experience of litter chose the cage with
+     litter on the floor. Although this was suggestive, it was not enough.
+     I had to show that not only did the hens have a preference for
+     litter but also that they had a preference which was strong enough
+     to say that they might suffer if kept without it.
+            Hens were then offered a slightly different choice. This time
+     they had to choose between a wire-floored cage which had food
+     and water and a litter-floored cage without food and water.  .   .The.
+
+     result was that they spent a lot of time in the litter cage, with
+     much less time being spent in the wire cage, even though this was
+     the only place they could feed and drink. Then a complication
+     was introduced. The birds had to "work" to move between the
+     cages. They either had to jump from a corridor or push through
+     a curtain of black plastic. So changing from one cage to another
+     now had a cost.. The hens still spent the same amount of time
+
+     in the wire cage with food as previously when there was no difficulty in entering it. But they spent hardly any time in the litter
+     cage. They simply didn't seem prepared to work or pay any cost
+     to get into the litter cage. .. Quite contrary to what I had expected,
+                                  .
+
+     the birds seemed to be saying that litter did not really matter to
+     them. [pp. 157—1591
+
+     She concludes that "Suffering by the emotional mind is revealed
+by animals that have enough of a rational mind to be able to do something about the conditions that make them suffer," and she goes on to
+note that "it is also likely that organisms without the capacity to do
+anything to remove themselves from a source of danger would not
+evolve the capacity to suffer. There would be no evolutionary point in
+a tree which was having its branches cut off having the capacity to
+suffer in silence" (p. 159). As we saw in chapter 7 (see also chapter 3,
+footnote 9), one must be careful in framing such evolutionary arguments
+about function, for history plays a big role in evolution, and history
+can play tricks. But in the absence of positive grounds for imputing
+suffering, or positive grounds for suspecting that such positive grounds
+are for one reason or another systematically concealed, we should conclude that there is no suffering. We need not fear that this austere rule
+will lead us to slight our obligations to our fellow creatures. It still
+provides ample grounds for positive conclusions: Many, but not all,
+animals are capable of significant degrees of suffering. A more persuasive case in support of humane treatment can be mounted by acknowledging the vast differences in degrees, than by piously promulgating
+
+=== p. 452 ===
+
+an unsupportable dogma about the universality and equality of animal
+pain.
+      This may settle the objective question about the presence or absence of suffering, but it does not settle the moral sentiments upset by
+the prospect of explaining consciousness in such heartlessly mechanistic ways. There is more at stake.
+      I have a farm in Maine. and I love the fact that there are bears and
+coyotes living in my woods. I very seldom see them, or even see signs
+of their presence, but I just like knowing that they are there, and would
+be very unhappy to learn that they had left. I would also not feel myself
+entirely compensated for the loss if some of my Al friends stocked my
+woods with lots of robot beasties (though the idea, if imagined in detail,
+is enchanting). It matters to me that there are wild creatures, descendants of wild creatures, living so close to me. Similarly, it delights me
+that there are concerts going on in the Boston area that I not only do
+not hear, but never even hear about.
+      These are facts of a special sort. They are facts that are important
+to us simply because one part of the environment that matters to us is
+our belief environment. And since we are not easily gulled into continuing to believe propositions after the support for them has evaporated, it mailers to us that the beliefs be true, even when we won't
+ourselves see any direct evidence for them. Like any other part of the
+environment, a belief environment can be fragile, composed of parts
+that are interconnected by both historical accidents and well-designed
+links. Consider, for instance, that delicate part of our belief environment
+concerned with the disposition of our bodies after death. Few people
+believe that the soul resides in the body after death — even people who
+believe in souls don't believe that. And yet few if any of us would
+tolerate a "reform" that encouraged people to dispose of their dead kin
+by putting them in plastic bags in the trash, or otherwise unceremoniously discarding them. Why not? Not because we believe that corpses
+can actually suffer some indignity. A corpse can no more suffer an
+indignity than a log can. And yet, the idea is shocking, repulsive. Why?
+      The reasons are complex, but we can distill a few simple points
+for now. A person is not just a body; a person has a body. That corpse
+is the body of dear old Jones, a Center of Narrative Gravity that owes
+its reality as much to our collaborative efforts of mutual heterophe-nomenological interpretation as to the body that is now lifeless. The
+boundaries of Jones are not identical to the boundaries of Jones's body,
+and the interests of Jones, thanks to the curious human practice of self-spinning, can extend beyond the basic biological interests that spawned
+
+=== p. 453 ===
+
+the practice. We treat his corpse with respect because it is important
+for the preservation of the belief environment in which we all live, if
+we start treating corpses as garbage, for instance, it might change the
+way we treat near-corpses — those who are still alive but dying. If we
+don't err on the side of prolonging the rituals and practices of respect
+well beyond the threshold of death, the dying (and those who care
+about them) will face an anxiety, an affront, a possibility, that risks
+offending them. Treating a corpse "badly" may not directly harm any
+dying person, and certainly doesn't harm the corpse, but, if it became
+common practice and this became widely known (as it would), this
+would significantly change the belief environment that surrounds
+dying. People would imagine the events that were due to follow their
+demise differently from the way they now imagine them, and in ways
+that would be particularly depressing. Maybe not for any good reason,
+but so what? if people are going to be depressed, that in itself is a good
+reason for not adopting a policy.
+      So there are indirect, but still creditable, legitimate, weighty reasons for continuing to respect corpses. We don't need any mythology
+about something special that actually resides in corpses that makes
+them privileged. That might be a useful myth to spread among the
+unsophisticated, but it would be patronizing in the extreme to think
+that we among the better informed had to preserve such myths. Similarly, there are perfectly good reasons for treating all living animals
+with care and solicitude. These reasons are somewhat independent of
+the facts about just which animals feel which kinds of pain. They
+depend more directly on the fact that various beliefs are ambient in
+our culture, and matter to us, whether they ought to matter or not. Since
+they now matter, they matter. But the rationality of the belief environment — the fact that silly or baseless beliefs do tend to be extinguished
+in the long run, in spite of superstition — does imply that things that
+matter now may not always matter.
+      But then, as we anticipated in chapter 2, a theory that radically
+assaults the general belief environment has a genuine potential for
+doing harm, for causing suffering (in people who particularly care about
+animals, for instance, whether or not what happens to the animals
+amounts to suffering). Does this mean that we should suppress the
+investigation of these issues, for fear of opening Pandora's box? That
+might be justified, if we could convince ourselves that our current belief
+environment, myth-ridden or not, was clearly a morally acceptable,
+benign environment, but I submit that it is clear that it is not. Those
+who are worried about the costs threatened by this unasked-for enlight-
+
+=== p. 454 ===
+
+enment should take a hard look at the costs of the current myths. Do
+we really think what we are currently confronted with is worth protecting with some creative obscurantism? Do we think, for instance,
+that vast resources should be set aside to preserve the imaginary prospects of a renewed mental life for deeply comatose people, while there
+are no resources to spare to enhance the desperate, but far from imaginary, expectations of the poor? Myths about the sanctity of life, or of
+consciousness, cut both ways. They may be useful in erecting bartiers
+(against euthanasia, against capital punishment, against abortion,
+against eating meat) to impress the unimaginative, but at the price of
+offensive hypocrisy or ridiculous self-deception among the more enlightened.
+      Absolutist barriers, like the Maginot Line, seldom do the work
+they were designed for. The campaign that used to be waged against
+materialism has already succumbed to embartassment, and the campaign against "strong A!," while equally well intentioned, can offer
+only the most threadbare alternative models of the mind. Surely it
+would be better to try to foster an appreciation for the nonabsolutist,
+nonintrinsic, nondichotomized grounds for moral concern that can coexist with our increasing knowledge of the inner workings of that most
+amazing machine, the brain. The moral arguments on both sides of the
+issues of capital punishment, abortion, eating meat, and experimenting
+on nonhuman animals, for instance, are raised to a higher, more appropriate standard when we explicitly jettison the myths that are beyond protection in any case.
+
+     4. CONSCIOUSNESS EXPLAINED, OR EXPLAINED AWAY?
+
+      When we learn that the only difference between gold and silver
+is the number of subatomic particles in their atoms, we may feel cheated
+or angry — those physicists have explained something away: The gold-ness is gone from gold; they've left out the very silveriness of silver
+that we appreciate. And when they explain the way reflection and
+absorption of electromagnetic radiation accounts for colors and color
+vision, they seem to neglect the very thing that matters most. But of
+course there has to be some "leaving out" — otherwise we wouldn't
+have begun to explain. Leaving something out is not a feature of failed
+explanations, but of successful explanations.
+     Only a theory that explained conscious events in terms of unconscious events could explain consciousness at all. If your model of how
+pain is a product of brain activity still has a box in it labeled "pain,"
+
+=== p. 455 ===
+
+you havent yet begun to explain what pain is, and if your model of
+consciousness carries along nicely until the magic moment when you
+have to say "then a miracle occurs" you haven't begun to explain what
+consciousness is.
+      This leads some people to insist that consciousness can never be
+explained. But why should consciousness be the only thing that cant
+be explained? Solids and liquids and gases can be explained in terms
+of things that aren't themselves solids or liquids or gases. Surely life
+can be explained in terms of things that aren't themselves alive— and
+the explanation doesn't leave living things lifeless. The illusion that
+consciousness is the exception comes about, I suspect, because of a
+failure to understand this general feature of successful explanation.
+Thinking, mistakenly, that the explanation leaves something out, we
+think to save what otherwise would be lost by putting it back into the
+observer as a quale — or some other "intrinsically" wonderful property.
+The psyche becomes the protective skirt under which all these beloved
+kittens can hide. There may be motives for thinking that consciousness
+cannot be explained, but, I hope I have shown, there are good reasons
+for thinking that it can.
+      My explanation of consciousness is far from complete. One might
+even say that it was just a beginning, but it is a beginning, because it
+breaks the spell of the enchanted circle of ideas that made explaining
+consciousness seem impossible. I haven't replaced a metaphorical theory, the Cartesian Theater, with a nonmetaphorical ("literal, scientific')
+theory. All I have done, really, is to replace one family of metaphors
+and images with another, trading in the Theater, the Witness, the Central Meaner, the Figment, for Software, Virtual Machines, Multiple
+Drafts, a Pandemonium of Homunculi. It's just a war of metaphors, you
+say — but metaphors are not "just" metaphors; metaphors are the tools
+of thought. No one can think about consciousness without them, so it
+is important to equip yourself with the best set of tools available. Look
+what we have built with our tools. Could you have imagined it without
+them?
+

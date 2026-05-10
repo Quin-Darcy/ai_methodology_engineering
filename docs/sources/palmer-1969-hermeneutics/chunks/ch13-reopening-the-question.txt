@@ -1,0 +1,727 @@
+=== chunk: palmer-1969-hermeneutics/ch13-reopening-the-question ===
+title: Toward Reopening the Question — What Is Interpretation?
+source_pdf: docs/sources/palmer-1969-hermeneutics/full.pdf
+pdf_pages: 237-255
+page_scheme: book
+plan_page_start: 223
+plan_page_end: 241
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 223 ===
+
+13 I Toward Reopening
+           the Question:
+           What is Interpretation?
+
+     WHAT DOES UNDERSTANDING A TEXT MEAN?
+
+            A M E R I C A N L I T E R A R Y I N T E R P R E T E R S and theorists
+have fallen into a crassly naturalistic and technological way of
+seeing their task. They cannot within their present perspective
+even meaningfully ask themselves the very question they most
+need to pose: What happens when one "understands" a literary7
+text? Such a question is either treated in an abstract, logical,
+and technological way, or pushed aside as irrelevant, since it
+would seem to deal not with the object of analysis but with the
+subjective experience of it.
+    But what is assumed? That one can speak of an object of
+analysis in terms of its form and "objective meaning" in such
+a way that the work seems to exist independently of our experience of it! Gradually there comes to be no correlation between the analysis of the object and our own experience of it
+in understanding. The abstract analysis of form and of logical
+contradictions comes to be the hallmark of subtle interpretation, and ultimately the dynamics of experiencing the work are
+unconsciously bypassed, or dropped as leading to "fallacy."
+Yet such objectivity assumes a rational rather than experiential
+access to the work; it takes interpretation out of its living context and purges it of its historical character.
+    It should be said at the outset that the subject-object model
+of interpretation is a realist fiction. It is not derived from the
+experience of understanding but is a model constructed reflex! vely and projected back onto the interpretive situation.
+                                     [223]
+
+=== p. 224 ===
+
+'There is no such thing as a nonpositional subject, and there-tore there is also no such thing as a nonpositional understanding. Understanding is always positional; it stands at a given
+point in history. There is no privileged access to a work of literature, no access that stands outside of history and outside one's
+o w n horizon of understanding. Some interpreters apparently
+wish that this were so, but wishing will not make it so. To
+bring up the historieality and positional!ty of understanding is
+not to drag in an irrelevant and subjective element (the use of
+the word "subjective" in this context rests on untenable conceptions of objectivity); it is a fact about the interpretive situation which our disregard will not change. To Ignore It is to
+w e a k e n one's conception of interpretation, for it has led in
+some extreme formalist critics to the assumption that literature
+i s not essentially historical in nature, and that understanding-literature is not a deeply historical act.
+      The indictment of the future of contemporary formalism
+will be for its lack of real historical consciousness. By historical
+consciousness I do not mean merely sensing the "historical
+e l e m e n t " in a literary work, but rather a genuine comprehension of the way that history is constantly at work In understanding, and a consciousness of the creative tension between
+the horizon of the work and that of one's own present time.
+
+    T H E C O N S E Q U E N C E S OF T H E S U B J E C T - O B J E C T
+                               SCHEMA
+
+             To A S K M E A N I N G F U L L Y about what happens when
+one understands a literary work means transcending the
+prevailing definition of the interpretive situation in terms of
+t h e subject-object schema. Let us look at some of the general
+consequences of assuming the subject-object model of the
+interpretive encounter. Within this framework, when the interpreter confronts a literary work, consciousness is encountering
+a n "object." The status of the object is as object for a subject,
+so that ultimately its status, like that of the whole world, is
+traceable back to subjectivity and the reflexive operations of
+t h e mind. "Scientific objectivity," for instance, stands within
+this interpretive framework and asserts that it wants to acquire
+only clean, clear ideas about these "objects." Numbers are the
+
+=== p. 225 ===
+
+cleanest, clearest, and abstractest of ideas, so they are especially
+prized. Then comes everything that is measurable, repeatable, or visualizable as schema. Knowledge and experience that
+are not reducible to the forms of a primarily ideational (visualizing) thinking tend to be regarded as unreal or unimportant.
+    In such a framework for viewing Interpretation, the power
+and ubiquity of language and history In one's existing are unperceived. Language is seen as an object to communicate
+"meaning." Man is considered a symbol-making animal, with
+language his master system of symbols. But all this is rooted
+in the erroneous metaphysics of the modern perspective since
+Descartes. The reason we today see language as a set of manmade signs and history as merely past events Is that we take
+without question a nonhistorical human subjectivity as the
+origin and reference point for everything. Thus despite the
+word "objectivity," the center from which our bearings are
+taken is subjectivity. But if everything goes back to subjectivity
+and, there is no reference point outside it, human will-topower becomes the mainspring of human activity. This shallow
+subjectivism is the chief ground for the modern frenzy for
+technological knowledge; when human subjectivity is the
+final court of appeals, there is nothing left for man but to control the "objects" in his world ever more completely.
+    Despite the protestations in modern criticism on behalf of
+the humane, the mode and focus of modern literary interpretation have become technological, a matter of mastering the object of analysis. The New Criticism constitutes in some ways
+an exception to this, with its references to "surrendering" to
+a being of a work, with its wholesome effort to avoid the heresy
+of paraphrase in favor of the direct experience of the work,
+and its intention to speak about the form and content of the
+work rather than becoming lost in a mire of extrinsic information about it. This movement has restored tremendous vitality
+and meaningfulness to the study of literature and rescued It
+from dry historieism and philology. Yet the philosophical base
+of New Criticism was always shaky and uncertain, vacillating
+between realism and idealism. What it needed was a greater
+philosophical clarity as to the character of interpretation; too
+often its contextualism did not concentrate on the perception
+of the work as the true locus of the "work" and fell into an
+
+  3. See Murray Krieger, The New Apologists   for   Poetry.
+
+=== p. 226 ===
+
+Aristotelian realism, organicism, or formalism. Such a formalism, unclear about its ground in experience rather than in the
+" f o r m " of the work as an object, too often fell victim to an
+atemporal and ahistorical conception of interpretation, and
+interpretations often seemed to be in terms of static knowledge
+rather than - aal experience.
+      Such a conception of interpretation tends to equate conceptual mastery with understanding. The work when conceived
+as an object (instead of a work) becomes simply an entity about
+which knowledge is acquired through spatializing ideation,
+dissection, and analysis. Such an approach represents the transposition into criticism of a technological approach to the world,
+a n approach which looks only for such knowledge of an object
+a s will give mastery and control over it. With this comes a profound misconception of literary understanding, for the critic
+sees his task as trying to say how a work is constructed, how
+it evolves, and ultimately whether it is a success (generally
+in terms of achieving logical contradictions and irony). Thus
+  fie interpreter does not see his task as removing hindrances
+to understanding so that an event of understanding can take
+place in Its fullness and the work can speak with truth and
+power, but rather as bringing the work under control through
+conceptual mastery. Would such a critic, if he had a profound
+religious experience, speak objectively and conceptually about
+it in terms of its ''structure and pattern"? Of course not (unless he were the abstractest of men), for the decisive thing is
+not pattern but what happened. The hubris of trying to be the
+absolute master of a religious experience is apparent; the hubris
+o f trying to be the master in the literary encounter is less apparent but no less real.
+      A further flaw in modern-style objectivity is that to see a
+work as "object" rather than as "work" places the reader at a
+distance from the text; the purpose of literary interpretation,
+however, is to overcome the reader's estrangement from the
+text. It Is not enough to know a work in the way a psychoanalyst
+k n o w s his patient's problems; literary interpretation should
+enable the language event to seize and overpower and trans-f o r m the interpreter himself. A work does not speak by being
+c u t to pieces in order for the analytical reader to see how and
+w h y it is made as it is: one must enable a work to speak by
+knowing how to listen, both to what is spoken in the words and
+w h a t is left unsaid but still present behind the words. To put
+
+=== p. 227 ===
+
+the matter hi the familiar terminology of Martin Ruber's I-thou
+relationship, it is helpful to see the work not as an it that is at
+my disposal but as a thou who addresses me, and to remember
+that meaning is not an objective, eternal idea but something
+that arises in relationship. A wrong relationship will produce
+a distorted and incomplete meaning.
+   Methodical questioning runs the risk of closing to the interpreter the possibility of being led by the work Itself. 4 A method
+will pose a list of questions, thus structuring in advance the
+encounter one will have with the work. These dangers of
+method or methodical analysis need not, of course, foreclose its
+use altogether nor lead to the rejection, root and branch, of all
+methods of conceptual analysis. Nor is it suggested that one
+should purposely take a simple-minded attitude toward reading
+a literary text and abandon with a sigh of relief the rigors
+of conceptual thought. It means, rather, that the interpreter
+needs to realize in a more comprehensive way the limitations
+of method, and the way that conceptual analysis can all too
+easily serve as a substitute for experiential understanding,
+especially w h e n one has no adequate concept of literary understanding Itself.
+
+                  TOWARD A MORE COMPREHENSIVE
+                  C O N C E P T I O N OF U N D E R S T A N D I N G
+
+           I T I S T H E S E R V I C E OF M A R T I N H E I D E G G E R I N Being
+and Time to have opened up the ontological character of
+understanding in a way that moves radically beyond the older
+conception of it within the subject-object schema." According
+to Heidegger, understanding is not some faculty among others
+that man possesses; understanding is his fundamental mode
+of existing in the world. Through understanding we are able
+to have a sense of the way we are placed, we grasp meaning
+through language, and something like world can come to be
+the horizon in which we exist. If we start with subjectivity,
+then understanding will seem to be a faculty of man; if we
+start with the facticity (Faktizitat)             of the world, however,
+understanding becomes the way in which the facticity of the
+    4, See WM 435 ff,
+    5. See also Heidegger, " W i s s e n s c h a f t und B e s i n n u n g " and " U b e r w i n d u n g
+der Metapllysik, ? , VA 45~99-
+
+=== p. 228 ===
+
+ world is presented to man. Heidegger takes this latter approach,
+and therefore understanding is seen as grounded not in the
+autonomous reflexive activity of man but in the act of the world,
+the facticity of the world, on man. Understanding is then the
+medium by which the world comes to stand before a man;
+understanding is the medium of ontological disclosure.
+     Understanding is not a tool for something else —like consciousness -but rather the medium in which and through
+which one exists. It can never be objectified, for it is within
+understanding that all objectification takes place. An existing
+human being cannot survey understanding from without;
+understanding is always the position from which all that is
+seen is seen. Now understanding, just because it stands under
+everything, is not an empty and amorphous mass, a flickering
+translucence totally filled with the sensations of the present
+moment. On the contrary, understanding is always necessarily
+"in terms of" the character of the seeing that is handed down,
+of our understanding of the present situation, and of a sense of
+what the future can or will hold. Thus this ground upon which
+w e stand in understanding has a fairly definite topography , and
+every act of interpretation stands within its horizon. The repository of the past and the medium of our way of seeing is language. Language is equally as primordial as understanding,
+for understanding is linguistic; it is through language that
+something like a world can arise for us. This world is a shared
+world; it is the realm of openness created by shared understand-i n g in the form of language. The realm of openness created
+by shared understanding through language has, as has just
+been noted, a certain definiteness. It is finite and changes with
+the passage of time. This means it is historically formed and
+that every act of understanding     contains   the acting   of   history in and through      understanding.
+    It may be said, then, that understanding is linguistic, historical, and ontological. Because Heidegger's analysis takes the
+facticity of understanding as its starting point, it asserts that
+what comes to stand in understanding is not something subjective but something which encounters man from the outside
+and discloses itself to understanding as world. Understanding
+is thus not a projection of the reflexive consciousness but the
+medium by which a situation or matter is disclosed as it is.
+Understanding does not impose its categories on the world,
+
+=== p. 229 ===
+
+ Heidegger asserts; the subject-matter of world imposes Itself
+ on understanding, and understanding conforms to it. But was
+ it not just asserted that all understanding is in terms of the
+ topography of understanding built up in time and mediated In
+ language? If so, then Is not the subject projecting this understanding 011 what comes* to meet him in the situation and not
+ purely receiving it from the outside as it actually is? No, again.
+ What discloses itself is the being of the object as it is disclosed
+ to understanding. To speak of the being of a thing as it "actually is" is to indulge in metaphysical speculation: as it Is for
+ whom? There Is no human perspective from which one can say
+what a being "actually Is." On the other hand, what the subject
+seems to "project" in understanding is nothing personal or
+reflexive,, although it is admittedly nonobjective and largely
+11 onobjectifiahie. The subject understands through the shared
+world of understanding already given in and through his
+language and the historical positionality in which his understanding stands. To call this subjective or to trace it back to the
+individual consciousness is untenable, since the individual
+did not create the shared understanding and language but only
+participates in them. They are, in a word, objectively real; at
+the same time they are not traced back to an empty reflexive
+consciousness or to a transcendental ego. Shared understanding, historicality, and language become the ground from winch
+a position can be derived that goes beyond the scientisrn and
+subject-centeredness of the subject-object schema within
+which we, today, tend unconsciously to operate, and which
+prevailing aesthetic and literary theory presupposes.
+    With the new position opened up by Heidegger's conception
+of understanding as the organ of ontological disclosure, it
+becomes possible to speak of the objectivity of language in
+the sense that language is what it is and we conform to it. Take,
+for example, a case in which one is searching for words to convey a situation to another person. He will try one word and
+then another and then perhaps find a third which is satisfactory.
+Do we have a right to speak of the reflexive consciousness
+"expressing" itself here? Not necessarily, for what is coming
+to expression is the being of the situation, the way in which
+it discloses itself to us. If the situation did not itself hold the
+possibility to be seen in this way, it could not come to expression. Were the first and second words he found unsatisfactory
+
+=== p. 230 ===
+
+for any other reason than that the matter itself demanded the
+third word? This is the sense in which we can speak of the
+objectivity of language.
+      The erroneous theory of language as basically an "instrument of communication" again reveals the way in which a
+conception has been distorted by subject-object thinking, the
+scientific predilection for ideation, and the will-to-power tech
+nological vision of man as master of the universe and manipulator of tools. Language is not man's means of putting wordless
+thoughts and wordless experience into a form to which he has
+assigned a meaning; thinking, understanding, and experience
+are all completely linguistic, for it is through language that
+one has the world of understanding in and through which
+objects take their place in his experience. Nor is language
+something that can be invented; only in the most artificial
+situation is any word "assigned" a meaning. Rather, it always
+has a general meaning already, one chosen to express a situation. Although sometimes a word may be used daringly in an
+unusual way to express something unusual about the situation,
+is it not what is unusual in the situation, not the user, that has
+given the word the new significance?
+      Thus we do not originate meanings. When a scientist coins
+a new word, he generally takes an already existing word and
+gives it a restricted meaning. This, however, is not so much
+creating a new word as paring down and partially destroying
+the primal saying power of the original word--the power which
+actually brought it into being —in the interest of creating a
+specific and narrow concept. Very seldom is a word coined by
+randomly putting together sounds, and then it is usually ugly
+and hopelessly vague. The creating of artificial languages on
+a n experimental basis does not refute our position here, since
+these languages derive their real and only power by reference
+to a living language. The image of man "creating a language"
+and using it as a tool, then, is a naive fiction of science-oriented
+imaginations, a fiction denied by the patent fact that we do not
+in fact invent our language, nor do we assign the meanings
+that the words have, nor can we solely through subjective
+willing make words say something other than what they in
+f a c t do say. This is the objectivity of language. And of course
+the structure of understanding as being always and fully
+linguistic makes the "sign theory" of language, based as it
+
+=== p. 231 ===
+
+is on a total misconception of consciousness and on an ignorance of how understanding operates, obviously a mere theoretical cons traction based on erroneous realist presuppositions,
+    Gadamer makes clear in Wahrheit and Methode that language is the medium in and through which one has a "world";
+it makes an open place in being through the disclosure of
+being/ This disclosure is not personal and private but a shared
+understanding which language enables us to have in the first
+place, as well as enabling us to communicate It. One does not
+invent and manipulate language to suit himself; he participates in language and allows a situation to come to stand in
+language. Language, like understanding, can never be simply
+an object in the world, since it pervades the world as the medium
+in and through which one sees every object. Only a profound
+misconception of understanding as being nonlinguistic, then,
+can lead to the belief that language is merely a set of objects
+in the world, which can be manipulated and modified at one's
+personal whim,
+
+            D E F I N I N G U N D E R S T A N D I N G I N T E R M S OF
+                                EXPERIENCE7
+
+            NOWHERE    M O R E T H A N I N literary Interpretation
+does the poverty of seeing understanding in terms of conceptual knowing become so apparent. It leads to extensive
+analyses which contribute little to enabling one to experience
+in a compelling way the saying power of the work. All analysis
+must be measured in the light of whether it deepens the language event of understanding; some analysis can even be
+harmful by causing one to ask meaningless questions and thus
+leading to a shallow conceptual event of understanding.
+   To understand a work is to experience it. Experience is not
+some subschema within the framework of the subject-object
+dichotomy: it is not some nonhistorical, nontemporal, abstract
+knowing outside time and space where an empty, placeless
+
+        6. See csp. Pr. III. "Ontolo^ische W e n d u n g der H e r m e n e u t i k a m L e i t f a d e n
+der S p r a c h e . " WM 3 6 1 - 4 6 5
+        7. Sec "Der Be griff der E i l a h r u n g u n d das W e s e n der h e r m e n e u t i s c h e n
+E r t a h r u i i g , " ibid., 329-44.
+
+=== p. 232 ===
+
+consciousness receives a configuration of sensations or perceptions. Experience is something that happens in living,
+historical human beings. Let us for a moment, desert the
+abstractness of the scientific model of our knowing of the
+world, and ask what happens in experience, what is meant in
+the ordinary usage of the word "experience."
+     One learns through experience, it is said, and only secondarily through precept. Hidden in this expression is an element
+of negativity, for the experience referred to is primarily negative and painful experience in which one learns what he did
+not know before and did not expect. In experience, then, there
+is a shattering of expectations, and one emerges as a sadder
+and wiser person. We would like to save our children from pain-f u l experiences, especially those experiences we have had
+ourselves, yet from experience itself nothing can save them.
+     Inquiring from outside experience as to its structure, what
+is noticed immediately is the temporal character of its relation
+to expectations developed in the past, held in the present, and
+extending into the future. Experience, as has been observed;
+contradicts expectations, and thus it is the great teacher, for
+which there is no substitute. Like language, experience can
+never be an object for us, yet it participates invisibly in every
+event of understanding. A man who is "experienced" in judging people (or simply in living)^ cannot really put his experience into the form of precept. He might write a book on "how
+to judge character on sight," but he would convey empty knowledge and not his own power to judge.
+     The truly experienced person, one who has wisdom and
+not just knowledge, has learned the limitations, the finitude,
+of all expectations. Experience teaches him not so much a
+storehouse of facts that will enable him to solve the same problem better next time but how to expect the unexpected, to be
+open to new experience. It teaches him, in short, the poverty
+of knowledge in comparison with experience.
+     For literary interpretation, the lesson we learn from the
+structure of experience is to remain sensitive to the fact that
+Its dimensions transcend every conceptualization; the richness of the experience of understanding a text and the richness
+of the text's experience are not to be mistranslated into the
+shallow categories of knowledge. And it suggests, in view of
+the limitations of conceptual knowledge, a stance of dialectical
+openness to the text.
+
+=== p. 233 ===
+
+    T H E D I A L E C T I C OF Q U E S T I O N A N D A N S W E R IN
+           THE H E R M E N E U T I C A L E X P E R I E N C E
+
+            T H E E N C O U N T E R with an historically transmitted
+work has the structure not of simple knowing but of experience—it may be called the hermeneutical experience, 8 It has
+not only the encompassing, nonobjectifiable character of
+experience, as described above, but also its dynamic dialec-ticality. The creative negativity of true questioning, which is
+essentially the negativity in experience that teaches and transforms, is the heart of the hermeneutical experience. For to
+experience is to understand not better but differently; experience does not tell one what he expected, but tends to transcend and negate expectations. A "deep" experience teaches
+us not to understand better what is already partially understood so much as that we were understanding wrongly.
+   But we cannot understand "differently" if w e ask all the
+questions. A question, after all, posits a preliminary way of
+seeing; just as understanding is not placeless and empty, so
+questioning is not without its own horizon of expectations.
+The point is that our own presuppositions must not be taken
+as absolute (for these are the foundation of our expectations)
+but as something subject to change. Analysis and methodical
+questioning, however, tend not to call into question their own
+guiding presuppositions but rather to operate within a system,
+so that the answer is always potentially present and expected
+within the system. Thus they are not so m u c h forms of true
+questioning as of testing. But experience does not follow the
+model of solving a problem within a system; it is the means of
+reaching outside the system, a means of creative transcendence
+and a striking down of the system. When any truly great work
+of art or literature is encountered, it transforms one's understanding; it is a fresh way of seeing life. It is for this "freshness" that a work is read, but just this freshness is what escapes
+analytical seeing (which might also be called "analytical blindness"), The element of creative negativity is absent from most
+methods, for the truly creative moment lay in the creation of
+the method itself— a moment not methodically arrived at, in
+most cases. Creative negativity, then, may be called the life
+and ground of true dialectical questioning.
+
+  8. Ibid.
+
+=== p. 234 ===
+
+      2^      I    a   H E R ivi E N E U T I C A L       A N i FE ST G
+
+    What is needed in literary interpretation is a dialectical
+questioning which does not simply interrogate the text but
+allows the thing said in the text to Interrogate back, to call the
+mfcarpj-eter's own horizon into question ana to work a fundamental transformation of one's understanding of the subject
+This does not mean a denial of the interpreter's horizon, nor
+does it mean making one's own horizon absolute, as Ls implicit
+in most analysis and method; It means a creative fusion of
+horizons. It Is but partially true that one can understand only
+within one's own horizon and through it. If this were so, no
+significant alteration of horizons could occur. Rather, in true
+experience there is a partial negation of one's own horizon, and
+through this a more encompassing understanding emerges.
+The dialectical approach of Socrates may serve as a model for
+all truly dialectical questioning, for in his vacillation between
+knowing and not knowing, in the playful probing of the subject
+from different angles, lies the willingness to risk everything
+and to be instructed by the subject-matter itself. Beneath the
+artful shiftiness of Socrates is the serious intention to let the
+subject under discussion lead the way. He circles the subject,
+flexible, open, undogrnatic, always trying new approaches.
+Instead of trying to weaken his opponent's arguments, he tries
+to find their true strength, so that his own understanding may
+be transformed. The literary interpreter today needs to cultivate
+this kind of openness to what is being "said" in a literary text,
+in dialogue with the text, the questioning and being placed in
+question must go both ways.
+
+       O N B E I N G A B L E TO H E A R W H A T T H E T E X T
+                             DID NOT SAY
+
+             I T T A K E S A G R E A T L I S T E N E R to hear what is actually
+said, a greater one to hear what was not said but what comes
+to light in the speaking. To focus purely on the positivity of
+what a text explicitly says is to do an injustice to the hermeneu
+iical task. It is necessary to go behind the text to find what the
+text did not, and perhaps could not, say,9
+    Just as every question contains a preliminary assertion, so
+every assertion may be seen as the answer to a question. A
+     9, See KPM 181; English trans., 206.
+
+=== p. 235 ===
+
+literary text is such an assertion. The assertion must not be
+ seen as some independent and discrete entity but as the response to a question, as something whose meaning stands
+within a certain horizon of thinking. Thus to interpret the work
+means to step into the question horizon within which the text
+moves. But this means also that the interpreter moves into a
+horizon within which other answers are possible. It is In terms
+of these other answers —In the temporal context of the work
+and also in the present day—that one must understand what the
+text is saying. What is said can be understood, in other words,
+only in terms of what is not said.
+    The reconstruction of the question that called the text into
+being is not a matter of simple historical reconstruction, of
+mere "restoration"; such taxonomy would be no less absurd
+than any effort to bring back what is gone forever. Nor Is it
+a matter of simply finding out the author's Intentions, although
+this may be relevant; for what Is speaking in the text is the
+subject-matter about which it was written, the question that
+called it into being and to which it is an answer. Yet the interpreter too approaches the text questioning^ and the text
+must light up the horizon of the Interpreter or the process of
+understanding it is an empty and abstract exercise. Here the
+historical task arises of hearing in the text what it says today-to hear, in other words, what it did not and could not say. Queasiness about "doing violence to the text" must not become an
+excuse for turning away from the hermeneutical task of hearing deeply into the "what" behind the explicitness of the text.
+
+         O N T H E S I G N I F I C A N C E OF A P P L I C A T I O N
+                         TO T H E P R E S E N T
+
+            J U S T AS I N T E R P R E T A T I O N S which deal only with
+the explicit meaning of a text fail to do justice to the hermeneutical task, so also theories of interpretation which satisfy
+themselves solely in terms of the past horizon of meaning are
+misconceptions of what interpretation demands. Such theories
+see interpretation basically as reconstruction and restoration
+of the past, following in the path of nineteenth-century apostles
+of objectivity (Leopold von Ranke, for example) who imagined
+historical understanding to be a matter of merely reconstructing a past age. But this rests on a misconception of the dialectic
+
+=== p. 236 ===
+
+of understanding. One addresses a question to the text, a question btanding within one's own horizon; to assert otherwise
+is to assume absurdly that one engages in historical research
+with no purpose. One has a reason for wanting to understand,
+and that reason is really a question put to the text. In every
+interpretation, then, something like an application to the
+present takes place.10
+    Literary interpretation, therefore, does well not to take its
+lead methodologically from the objectivist perspectives of philology and historical research but to study the problems that
+confront theological and juridical theory of interpretation. For
+both juridical and theological hermeneutics are obliged to see
+understanding not simply as an antiquarian effort to enter
+another world for its own sake but as an effort to bridge the distance between the text and the present situation. Whether it be
+handing down judgment or preaching a sermon, the moment of
+Interpretation is not merely explaining what the text means in
+its own world but what it means to us. Juridical and theological
+hermeneutics both tend to reject the idea that one ''understands" a text because of some intrinsic congeniality with its
+author; one can interpret a biblical or legal text and even personally disapprove of its author. A text is understood not on the
+basis of congeniality but because the subject-matter of the text
+is something shared. The ground of this sharing is not strictly
+personal, it is language. One exists in and through language,
+and interprets his very being through language; even when he
+has to bridge the gap of two different languages, he is still interpreting within a linguistic world where being comes to stand
+in language.
+    Literary interpreters can learn from juridical and theological
+Interpretation in another respect. In both, the objective is to
+let the text lead the understanding and open up the subject.
+The interpreter is not so much applying a method to the text
+as air observed object, but rather trying to adjust his own
+thinking to the text. He is not appropriating another possession
+for his closet of knowledge, but being appropriated himself by
+the governing claim of the text. In other words, interpreting
+either the will of the law or of God is not a form of dominating
+the subject of the text but of serving it.
+    Both the interpreter of law and the interpreter of the Bible
+must have an acute sense of the tension between the past and
+   10. See WM 290-95, 3 1 2 - 1 6 , 322, 381.
+
+=== p. 237 ===
+
+the present. Both must sense what is applicable and meaning-f u l and what is secondary and inapplicable. To do so is really
+to go behind the text to the question w h i c h brought it into
+being; to do so is to ask what the text did not or could not say.
+Since the creative bridging of the tension between the horizon
+of the text and that of the interpreter is the task of interpretation, the basic importance of an authentic historical consciousness can hardly be disputed. Literary interpreters in
+America need to be reminded that literary interpretation,
+because it bridges temporal distance, is an intrinsically historical act and requires an understanding of the nature of
+historical encounter, for hermeneutical experience is historical
+encounter.
+
+      O N T H E C A T E G O R Y OF T H E A E S T H E T I C , A N D
+              ATTENDANT MISCONCEPTIONS
+
+             T H E I D E A , which has come down to us from the
+Enlightenment, of "the aesthetic" or of a purely "aesthetic"
+element in a work of art is a reflexive fiction.11 T h e aesthetic
+dimension of a literary work, in particular, cannot be considered
+apart from its meaning, i.e., the meaning of its words and
+therefore its "historical" meaning. The use of such words as
+"pleasure" and "delight" in reference to a literary work should
+not be construed as a reaction to the "purely f o r m a l " side of a
+work, to its construction and the craftsmanship of its composition. On the contrary, an authentic reaction to a great poem
+or work of literature is to what it says; the "way in w h i c h it is
+said" is in fact not separable from " w h a t it says." To believe
+that such separation is possible is an error of modern subjecti-vized aesthetics since Kant, 12 w h i c h wrongly speaks of the encounter with a work of art only from the side of the perceiving
+subject.
+   Aristotle, in the Ethics, gave a better perspective on pleasure w h e n he defined it as a by-product of the proper functioning
+of an organ. He pointed out that a life directed specifically
+toward the acquisition of pleasure was untenable; one should
+aim at virtue, and pleasure will come as a by-product of virtuous
+activity. Likewise in literature, the pleasure of reading is the
+  11. Ibicl,   77-96, esp. 83.
+  12. Ibid., 39-52.
+
+=== p. 238 ===
+
+pleasure of understanding in and through form; it is not a
+response to form as such. The separation of form from what
+is said is a reflexive act, a conceptual construction based not
+on a dichotomization occurring in experience but rather on a
+philosophically untenable conception of experience that separates thinking and truth from feeling and "perceptual pleasure 5 '
+in form — as if a configuration of sensations were pleasurable
+111 themselves as sensations. Try the experiment, for instance,
+of asking someone who does not speak German to listen to a
+poem by Goethe and say whether it is ugly or beautiful.
+     The content-form separation is simply another highly misleading fiction of the modern suhjectivized approach to art.
+What is central to the aesthetic experience of a work of art is
+neither content nor form but the thing meant, totally mediated
+intu an Image and form, into a world with its own dynamics.
+In the aesthetic encounter with poetry, one does not separate
+out the raw materials; in witnessing a musical or dramatic
+performance, one is truest to the experience of the work as
+art when he does not reflexively differentiate between work
+and performance. To differentiate between the materials, the.
+work, and the performance of it represents a falling away from
+the aesthetic experience. During a performance one is seized by
+what is being spoken in the work. To turn aside from this to
+see the performance as performance or the material aspects
+of the work as materials is to make trivial the aesthetic moment
+of encounter with the work. When one turns aside in either of
+these directions, the work of art is no longer a subject speaking
+but an object being judged and evaluated by the reflexive
+processes of thought. Thus to focus on form as form apart from
+the "speaking" of the work is not really to find its "purely
+aesthetic" side but to move away from the aesthetic moment
+itself. Aesthetic pleasure is not a sensuous response to form
+hut to the total movement of meaning in the form of a work
+o f art. To state the matter more explicitly: aesthetic pleasure
+i s a by-product of one's encounter with the fresh truth of being
+set forth in the world of a work of art.
+     To render this sudden reference to "truth" in art intelligible,
+and at the same time to show more conclusively why the Idea
+of form as "pure sensuous form" apart from meaning is a
+fabrication of reflective thinking, let us clarify what makes
+a n art work "art." It is not craftsmanship or the appeal of a
+pure formal harmony as an end in itself; a work of art has its
+
+=== p. 239 ===
+
+being as art in setting forth a world into material form. This
+is not to deny the formal side of art; on the contrary, form is
+ central to art, but in a way that "formalists" often do not realize.
+ It is not a pleasure in form setting forth a world differentiated
+from the form, which makes the work of art really art. The
+ world known through form in art is so set into the materials
+that the "thought" cannot be differentiated from it, nor indeed
+ the "aesthetic" differentiated from the "nonaesthetic" elements. 13 As Heidegger makes clear in Der Ursprung des Kunst-werkes, a Greek temple creates an "open space in being" so
+that one can stand in the light of this clearing. 1 4 To put the
+matter in Heidegger's ontological terms, it is so with every
+great work of art: it creates, through its form, a world in which
+being comes to stand. Being is encountered in understanding
+not as a discrete entity but as a part of a unity, in relation to
+the horizon of understanding or what may be called "world."
+Phenomenologically speaking, then, form cannot be seen as
+the expression of an idea prior to the form; form and idea come
+to stand together in an indivisible unity as world, and apart
+from world neither has any true existence. World is the unity
+that appears in the work of art, and the work of art is art only
+as it causes a world to stand.
+     Art, then, is ultimately not a matter of knowing through
+sense perceptions but of understanding. WTien one encounters
+a great work of art, he finds the horizons of his own world, his
+way of seeing his world, his self-understanding, broadened;
+he sees "in a different light," sometimes as for the first time,
+but always in a more "experienced" way. This shows that the
+world in the work of art is not a world divorced from one's
+own; it is contiguous with it and illuminates self-understanding
+even as one comes to understand it. In the encounter with a
+great work, one does not go into a foreign universe and step
+outside time and history; one does not finally separate aesthetic understanding from one's total understanding so as to
+leave the "nonaesthetic" behind and go into the "aesthetic"
+realm. Rather, one becomes more fully present to himself;
+when one understands a great work of literary art, he brings
+everything he has and is with him. To understand it and to
+fuse its world in its fullness to one's own means to place one's
+self-understanding in the balance. Gone is the myth that the
+  13. Ibid,, 88.
+  14. Ho 7-68; UK   7-101.
+
+=== p. 240 ===
+
+     240    /'   a   HERMENEUTICAL             MANIFESTO
+
+interpreter is interrogating a mere object possessed of sensuously pleasurable harmonies; the work of art Is putting a
+question to him, the question that called It into being. Because
+the experience of a work of art is encompassed and takes place-in the unity and continuity of self-understanding, It is tested
+not by the norms of formal harmony but by truth. Art reveals
+being, discloses "the way things are" —truth.
+    This is the reason that when one enters the world of a great
+work of art, one does not leave the norms of his own self-understanding unrisked and safe at home; he "comes home,"
+He says In a burst of ontological recognition: Truly it is so! The
+artist has said what is. The artist has not conjured up an enchanted never-never-land, but rather has broken through to a
+deeper level of the world of experience and self-understanding
+i n which one lives. The universality of art, then, is an ontological universality; all great art reveals being. The transformation
+into form which is enacted by the artist is not an expression of
+his subjectivity; it is not "feeling" transmuted into "form."
+T h e transformation is really truth, the truth of being, transmuted totally into the unity of the work of art. The legitimation
+of art is not that it gives aesthetic pleasure but that it reveals
+being.
+
+    The time has come to renounce the splendid isolation that
+has been artificially granted the "aesthetic phenomenon" by
+identifying it with pure sensuous form in art and by making
+form-content distinctions which have no part in the phenomenology of the aesthetic encounter. These distinctions have not
+served the cause of art but have in the last century and a half
+proved inimical to it. We have found, with the isolation of the
+aesthetic, the absurdity of "art for art's sake," the loss of any
+legitimation for the claim that art presents us with truth, the
+loss of historical consciousness in the understanding of art, the
+loss of the place of the artist in society, and further, the loss of
+the place of art itself in society. In literature, we are confronted
+with the situation that if poetry is for pleasure and delight,
+many students decide that they prefer other pleasures. And
+among pleasures there is no disputing, as among tastes —unless
+there is a standard outside of pleasure by which the pleasure
+itself is measured. But our subject-centered aesthetics can
+find no objective legitimation of art. The time has come to
+xeject the unconscious taking of human subjectivity as our
+
+=== p. 241 ===
+
+reference point (which all thinking within the subject-object
+schema presupposes), to stop asking how art affects us, and to
+start with the way of being of the work of art. The way of being
+of a work of art is disclosure —disclosure of a world, an event in
+which being comes to stand. The legitimation of art is that it
+discloses being to our self-understanding so that our own world,
+the horizon within which we live and move and have our whole
+existence, is broadened and given greater definition. Beauty is
+truth, the truth of being which discloses itself to us in art.15
+   We now see that the experience of encountering a work of
+art is an opening up of a world; this is especially true of a work
+of art in language. But. it was necessary here to advert to the
+aesthetic phenomenon in nonlinguistic art to render explicit
+the grounds of rejecting the "pure aesthetic" in isolation from
+the total impact of a work of art, and to clarify the ontological
+content of art, i.e., its "truth" value.
+    To this conception of the inseparable place of the aesthetic
+within the total experience of what a work of art says, we now
+may add all we have said about questioning, experience, understanding, language, and historical consciousness for a unified
+conception of the hermeneutical experience. Within this conception, we may see what is Involved in literary interpretation.
+To recapitulate what has been set forth here, and partially to
+build on it, I have formulated a series of thirty assertions or
+theses relating to literary interpretation, or the hermeneutical
+experience. These are set forth In the next chapter.
+
+   15. The reason the meaning of the assertion that ''beauty is truth" remains
+obscure and even completely hidden from us lies partly in the fact that, as
+Heidegger has shown, we hold to a subjectivity-centered (ironically) "objective" definition of truth as correspondence or agreement— i.e., truth is defined
+merely as a verifiable statement.
+

@@ -1,0 +1,969 @@
+=== chunk: ricoeur-1981-hermeneutics-human-sciences/ch8-model-of-the-text ===
+title: The model of the text: meaningful action considered as a text
+source_pdf: docs/sources/ricoeur-1981-hermeneutics-human-sciences/full.pdf
+pdf_pages: 210-234
+page_scheme: book
+plan_page_start: 159
+plan_page_end: 183
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 159 ===
+
+      The model of the text: meaningful
+         action considered as a text
+
+                                 B
+My aim in this essay is to test an hypothesis which I shall expound briefly.
+   I assume that the primary sense of the word ‘hermeneutics’ concerns
+the rules required for the interpretation of the written documents of
+our culture. In assuming this starting point I am remaining faithful to
+the concept of Auslegung as it was stated by Wilhelm Dilthey; whereas
+Verstehen (understanding, comprehension) relies on the recognition of
+what a foreign subject means or intends on the basis of all kinds of signs
+in which psychic life expresses itself (Lebensäusserungen), Auslegung (interpretation, exegesis) implies something more specific: it covers only a
+limited category of signs, those which are fixed by writing, including all
+the sorts of documents and monuments which entail a fixation similar
+to writing.
+   Now my hypothesis is this: if there are specific problems which are
+raised by the interpretation of texts because they are texts and not spoken
+language, and if these problems are the ones which constitute hermeneutics as such, then the human sciences may be said to be hermeneutical
+(1) inasmuch as their object displays some of the features constitutive of a
+text as text, and (2) inasmuch as their methodology develops the same kind
+of procedures as those of Auslegung or text-interpretation.
+   Hence the two questions to which my essay will be devoted are: (1) To
+what extent may we consider the notion of text as a good paradigm for
+the so-called object of the social sciences? (2) To what extent may we use
+the methodology of text-interpretation as a paradigm for interpretation in
+general in the field of the human sciences?
+
+I.   The paradigm of text
+In order to justify the distinction between spoken and written language,
+I want to introduce a preliminary concept, that of discourse. It is as discourse that language is either spoken or written.
+
+=== p. 160 ===
+
+   Now what is discourse? We shall not seek the answer from the logicians,
+not even from the exponents of linguistic analysis, but from the linguists
+themselves. Discourse is the counterpart of what linguists call language-systems or linguistic codes. Discourse is language-event or linguistic
+usage. [. . .]
+   If the sign (phonological or lexical) is the basic unit of language, the
+sentence is the basic unit of discourse. Therefore it is the linguistics of the
+sentence which supports the theory of speech as an event. I shall retain
+four traits from this linguistics of the sentence which will help me to
+elaborate the hermeneutics of the event and of discourse.
+   First trait: Discourse is always realised temporally and in the present,
+whereas the language system is virtual and outside of time. Emile Benve-niste calls this the ‘instance of discourse’.
+   Second trait: Whereas language lacks a subject – in the sense that the
+question ‘Who is speaking?’ does not apply at its level – discourse refers
+back to its speaker by means of a complex set of indicators such as the
+personal pronouns. We shall say that the ‘instance of discourse’ is self-referential.
+   Third trait: Whereas the signs in language only refer to other signs
+within the same system, and whereas language therefore lacks a world
+just as it lacks temporality and subjectivity, discourse is always about
+something. It refers to a world which it claims to describe, to express, or to
+represent. It is in discourse that the symbolic function of language is
+actualised.
+   Fourth trait: Whereas language is only the condition for communication
+for which it provides the codes, it is in discourse that all messages are
+exchanged. In this sense, discourse alone has not only a world, but an
+other, another person, an interlocutor to whom it is addressed.
+   These four traits taken together constitute speech as an event. [. . .] Let
+us see how differently these four traits are actualised in spoken and
+written language.
+
+(1) Discourse, as we said, only exists as a temporal and present instance
+of discourse. This first trait is realised differently in living speech and in
+writing. In living speech, the instance of discourse has the character of a
+fleeting event. The event appears and disappears. This is why there is a
+problem of fixation, of inscription. What we want to fix is what disappears. If, by extension, we can say that one fixes language – inscription of
+the alphabet, lexical inscription, syntactical inscription – it is for the sake of
+that which alone has to be fixed, discourse. Only discourse is to be fixed,
+
+=== p. 161 ===
+
+because discourse disappears. The atemporal system neither appears nor
+disappears; it does not happen. Here is the place to recall the myth in
+Plato’s Phaedo. Writing was given to men to ‘come to the rescue’ of the
+‘weakness of discourse’, a weakness which was that of the event. The gift
+of the grammata – of that ‘external’ thing, of those ‘external marks’, of that
+materialising alienation – was just that of a ‘remedy’ brought to our
+memory. The Egyptian king of Thebes could well respond to the god
+Theuth that writing was a false remedy in that it replaced true reminiscence by material conservation, and real wisdom by the semblance of
+knowing. This inscription, in spite of its perils, is discourse’s destination.
+What in effect does writing fix? Not the event of speaking, but the ‘said’ of
+speaking, where we understand by the ‘said’ of speaking that intentional
+exteriorisation constitutive of the aim of discourse thanks to which the
+sagen – the saying – wants to become Aus-sage – the enunciation, the
+enunciated. In short, what we write, what we inscribe, is the noema of
+the speaking. It is the meaning of the speech event, not the event as event.
+   What, in effect, does writing fix? If it is not the speech event, it is speech
+itself insofar as it is said. But what is said?
+   Here I should like to propose that hermeneutics has to appeal not only
+to linguistics (linguistics of discourse versus linguistics of language) as it
+does above, but also to the theory of the speech-act such as we find it in
+Austin and Searle. The act of speaking, according to these authors, is
+constituted by a hierarchy of subordinate acts which are distributed on
+three levels: (1) the level of the locutionary or propositional act, the act of
+saying; (2) the level of the illocutionary act or force, that which we do in
+saying; and (3) the level of the perlocutionary act, that which we do by
+saying. [. . .]
+   What is the implication of these distinctions for our problem of the
+intentional exteriorisation by which the event surpasses itself in the meaning and lends itself to material fixation? The locutionary act exteriorises
+itself in the sentence. The sentence can in effect be identified and reiden-tified as being the same sentence. A sentence becomes an utterance
+(Aus-sage) and thus is transferred to others as being such-and-such a
+sentence with such-and-such a meaning. But the illocutionary act can also
+be exteriorised through grammatical paradigms (indicative, imperative,
+and subjunctive modes, and other procedures expressive of the illocutionary force) which permit its identification and reidentification. Certainly, in
+spoken discourse, the illocutionary force leans upon mimicry and gestural
+elements and upon the non-articulated aspects of discourse, what we call
+prosody. In this sense, the illocutionary force is less completely inscribed
+
+=== p. 162 ===
+
+in grammar than is the propositional meaning. In every case, its inscription in a syntactic articulation is itself gathered up in specific paradigms
+which in principle make possible fixation by writing. Without a doubt we
+must concede that the perlocutionary act is the least inscribable aspect of
+discourse and that by preference it characterises spoken language. But the
+perlocutionary action is precisely what is the least discourse in discourse.
+It is the discourse as stimulus. It acts, not by my interlocutor’s recognition
+of my intention, but sort of energetically, by direct influence upon the
+emotions and the affective dispositions. Thus the propositional act, the
+illocutionary force, and the perlocutionary action are apt, in a decreasing
+order, for the intentional exteriorisation which makes inscription in
+writing possible.
+   Therefore it is necessary to understand by the meaning of the speech-act,
+or by the noema of the saying, not only the sentence, in the narrow sense of
+the propositional act, but also the illocutionary force and even the perlocutionary action in the measure that these three aspects of the speech-act are
+codified, gathered into paradigms, and where, consequently, they can be
+identified and reidentified as having the same meaning. Therefore I am
+here giving the word ‘meaning’ a very large acceptation which covers all
+the aspects and levels of the intentional exteriorisation that makes the
+inscription of discourse possible.
+   The destiny of the other three traits of discourse in passing from discourse to writing will permit us to make more precise the meaning of this
+elevation of saying to what is said.
+
+(2) In discourse, we said – and this was the second differential trait of
+discourse in relation to language – the sentence designates its speaker by
+diverse indicators of subjectivity and personality. In spoken discourse, this
+reference by discourse to the speaking subject presents a character of
+immediacy that we can explain in the following way. The subjective
+intention of the speaking subject and the meaning of the discourse overlap
+each other in such a way that it is the same thing to understand what
+the speaker means and what his discourse means. The ambiguity of the
+French expression vouloir-dire, the German meinen, and the English ‘to
+mean’, attests to this overlapping. It is almost the same thing to ask ‘What
+do you mean?’ and ‘What does that mean?’ With written discourse, the
+author’s intention and the meaning of the text cease to coincide. This
+dissociation of the verbal meaning of the text and the mental intention is
+what is really at stake in the inscription of discourse. Not that we can
+conceive of a text without an author; the tie between the speaker and the
+
+=== p. 163 ===
+
+discourse is not abolished, but distended and complicated. The dissociation of the meaning and the intention is still an adventure of the reference
+of discourse to the speaking subject. But the text’s career escapes the finite
+horizon lived by its author. What the text says now matters more than
+what the author meant to say, and every exegesis unfolds its procedures
+within the circumference of a meaning that has broken its moorings to the
+psychology of its author. Using Plato’s expression again, written discourse
+cannot be ‘rescued’ by all the processes by which spoken discourse supports itself in order to be understood – intonation, delivery, mimicry,
+gestures. In this sense, the inscription in ‘external marks’ which first
+appeared to alienate discourse, marks the actual spirituality of discourse.
+Henceforth, only the meaning ‘rescues’ the meaning, without the contribution of the physical and psychological presence of the author. But to
+say that the meaning rescues the meaning is to say that only interpretation
+is the ‘remedy’ for the weakness of discourse which its author can no
+longer ‘save’.
+
+(3) The event is surpassed by the meaning a third time. Discourse, we
+said, is what refers to the world, to a world. In spoken discourse this
+means that what the dialogue ultimately refers to is the situation common
+to the interlocutors. This situation in a way surrounds the dialogue, and its
+landmarks can all be shown by a gesture, or by pointing a finger, or
+designated in an ostensive manner by the discourse itself through the
+oblique reference of those other indicators which are the demonstratives,
+the adverbs of time and place, and the tense of the verb. In oral discourse,
+we are saying, reference is ostensive. What happens to it in written discourse? Are we saying that the text no longer has a reference? This would
+be to confound reference and monstration, world and situation. Discourse
+cannot fail to be about something. In saying this, I am separating myself
+from any ideology of an absolute text. Only a few sophisticated texts
+satisfy this ideal of a text without reference. They are texts where the play
+of the signifier breaks away from the signified. But this new form is only
+valuable as an exception and cannot give the key to all other texts which in
+one manner or another speak about the world. But what then is the subject
+of texts when nothing can be shown? Far from saying that the text is then
+without a world, I shall now say without paradox that only man has a
+world and not just a situation. In the same manner that the text frees its
+meaning from the tutelage of the mental intention, it frees its reference
+from the limits of ostensive reference. For us, the world is the ensemble
+of references opened up by the texts. Thus we speak about the ‘world’ of
+
+=== p. 164 ===
+
+Greece, not to designate any more what were the situations for those who
+lived them, but to designate the non-situational references which outlive
+the effacement of the first and which henceforth are offered as possible
+modes of being, as symbolic dimensions of our being-in-the-world. For me,
+this is the referent of all literature; no longer the Umwelt of the ostensive
+references of dialogue, but the Welt projected by the non-ostensive references of every text that we have read, understood, and loved. To understand a text is at the same time to light up our own situation, or, if you will,
+to interpolate among the predicates of our situation all the significations
+which make a Welt of our Umwelt. It is this enlarging of the Umwelt into the
+Welt which permits us to speak of the references opened up by the text – it
+would be better to say that the references open up the world. Here again the
+spirituality of discourse manifests itself through writing, which frees us
+from the visibility and limitation of situations by opening up a world for
+us, that is, new dimensions of our being-in-the-world.
+   In this sense, Heidegger rightly says – in his analysis of verstehen in Being
+and Time – that what we understand first in a discourse is not another
+person, but a project, that is, the outline of a new being-in-the-world. Only
+writing, in freeing itself, not only from its author, but from the narrowness
+of the dialogical situation, reveals this destination of discourse as projecting a world.
+   In thus tying reference to the projection of a world, it is not only
+Heidegger whom we rediscover, but Wilhelm von Humboldt for whom
+the great justification of language is to establish the relation of man to the
+world. If you suppress this referential function, only an absurd game of
+errant signifiers remains.
+
+(4) But it is perhaps with the fourth trait that the accomplishment of
+discourse in writing is most exemplary. Only discourse, not language, is
+addressed to someone. This is the foundation of communication. But it is
+one thing for discourse to be addressed to an interlocutor equally present
+to the discourse situation, and another to be addressed, as is the case in
+virtually every piece of writing, to whoever knows how to read. The
+narrowness of the dialogical relation explodes. Instead of being addressed
+just to you, the second person, what is written is addressed to the audience
+that it creates itself. This, again, marks the spirituality of writing, the
+counterpart of its materiality and of the alienation which it imposes upon
+discourse. The vis-à-vis of the written is just whoever knows how to read.
+The co-presence of subjects in dialogue ceases to be the model for every
+‘understanding’. The relation writing–reading ceases to be a particular
+
+=== p. 165 ===
+
+case of the relation speaking–hearing. But at the same time, discourse is
+revealed as discourse in the universality of its address. In escaping the
+momentary character of the event, the bounds lived by the author, and the
+narrowness of ostensive reference, discourse escapes the limits of being
+face to face. It no longer has a visible auditor. An unknown, invisible
+reader has become the unprivileged addressee of the discourse.
+   To what extent may we say that the object of the human sciences
+conforms to the paradigm of the text? Max Weber defines this object as
+sinnhaft orientiertes Verhalten, as meaningfully oriented behaviour. To what
+extent may we replace the predicate ‘meaningfully oriented’ by what
+I should like to call readability-characters derived from the preceding theory
+of the text?
+   Let us try to apply our four criteria of what a text is to the concept of
+meaningful action.
+
+1. The fixation of action
+Meaningful action is an object for science only under the condition of a
+kind of objectification which is equivalent to the fixation of a discourse by
+writing. This trait presupposes a simple way to help us at this stage of our
+analysis. In the same way that interlocution is overcome in writing, interaction is overcome in numerous situations in which we treat action as a
+fixed text. These situations are overlooked in a theory of action for which
+the discourse of action is itself a part of the situation of transaction which
+flows from one agent to another, exactly as spoken language is caught in
+the process of interlocution, or, if we may use the term, of translocution.
+This is why the understanding of action at the prescientific level is only
+‘knowledge without observation’, or as E. Anscombe says, ‘practical
+knowledge’ in the sense of ‘knowing how’ as opposed to ‘knowing that’.
+But this understanding is not yet an interpretation in the strong sense which
+deserves to be called scientific interpretation.
+  My claim is that action itself, action as meaningful, may become an
+object of science, without losing its character of meaningfulness, through a
+kind of objectification similar to the fixation which occurs in writing. By
+this objectification, action is no longer a transaction to which the discourse
+of action would still belong. It constitutes a delineated pattern which has
+to be interpreted according to its inner connections.
+  This objectification is made possible by some inner traits of the action which
+are similar to the structure of the speech-act and which make doing a kind of
+utterance. In the same way as the fixation by writing is made possible by a
+dialectic of intentional exteriorisation immanent to the speech-act itself,
+
+=== p. 166 ===
+
+a similar dialectic within the process of transaction prepares the detachment
+of the meaning of the action from the event of the action.
+   First an action has the structure of a locutionary act. It has a propositional
+content which can be identified and reidentified as the same. This ‘propositional’ structure of the action has been clearly and demonstratively
+expounded by Anthony Kenny in Action, Emotion and Will.1 The verbs of
+action constitute a specific class of predicates which are similar to relations
+and which, like relations, are irreducible to all the kinds of predicates
+which may follow the copula ‘is’. The class of action predicates, in its turn,
+is irreducible to the relations and constitutes a specific set of predicates.
+Among other traits, the verbs of action allow a plurality of ‘arguments’
+capable of complementing the verb, ranging from no argument (Plato
+taught) to an indeterminate number of arguments (Brutus killed Caesar
+in the Curia, on the Ides of March, with a . . ., with the help of . . .). This
+variable polydicity of the predicative structure of the action-sentences is
+typical of the propositional structure of action. Another trait which is
+important for the transposition of the concept of fixation from the sphere
+of discourse to the sphere of action concerns the ontological status of the
+‘complements’ of the verbs of action. Whereas relations hold between
+terms equally existing (or non-existing), certain verbs of action have a
+topical subject which is identified as existing and to which the sentence
+refers, and complements which do not exist. Such is the case with the
+‘mental acts’ (to believe, to think, to will, to imagine, etc.).
+   Anthony Kenny describes some other traits of the propositional structure of actions derived from the description of the functioning of the verbs
+of action. For example, the distinction between states, activities, and
+performances can be stated according to the behaviour of the tenses of
+the verbs of action which fix some specific temporal traits of the action
+itself. The distinction between the formal and the material object of an
+action (let us say the difference between the notion of all inflammable
+things and this letter which I am now burning) belongs to the logic of
+action as mirrored in the grammar of the verbs of action. Such, roughly
+described, is the propositional content of action which gives a basis to a
+dialectic of event and meaning similar to that of the speech-act. I should like
+to speak here of the noematic structure of action. It is this noematic
+structure which may be fixed and detached from the process of interaction
+and become an object to interpret.
+
+1     Anthony Kenny, Action, Emotion and Will (London: Routledge and Kegan Paul, 1963).
+
+=== p. 167 ===
+
+   Moreover, this noema has not only a propositional content, but also
+presents ‘illocutionary’ traits very similar to those of the complete speech-act. The different classes of performative acts of discourse described by
+Austin at the end of How to do Things with Words may be taken as paradigms
+not only for the speech-acts themselves, but for the actions which fulfil the
+corresponding speech-acts.2 A typology of action, following the model of
+illocutionary acts, is therefore possible. Not only a typology, but a criteriol-ogy, inasmuch as each type implies rules, more precisely ‘constitutive rules’
+which, according to Searle in Speech Acts, allow the construction of ‘ideal
+models’ similar to the ‘ideal types’ of Max Weber.3 For example, to understand what a promise is, we have to understand what the ‘essential condition’
+is according to which a given action ‘counts as’ a promise. Searle’s ‘essential
+condition’ is not far from what Husserl called Sinngehalt, which covers both
+the ‘matter’ (propositional content) and the ‘quality’ (the illocutionary force).
+   We may now say that an action, like a speech-act, may be identified not
+only according to its propositional content, but also according to its
+illocutionary force. Both constitute its ‘sense-content’. Like the speech-act, the action-event (if we may coin this analogical expression) develops
+a similar dialectic between its temporal status as an appearing and disappearing event, and its logical status as having such-and-such identifiable
+meaning or ‘sense-content’. But if the ‘sense-content’ is what makes possible the ‘inscription’ of the action-event, what makes it real? In other
+words, what corresponds to writing in the field of action?
+   Let us return to the paradigm of the speech-act. What is fixed by
+writing, we said, is the noema of the speaking, the saying as said. To what
+extent may we say that what is done is inscribed? Certain metaphors may
+be helpful at this point. We say that such-and-such event left its mark on its
+time. We speak of marking events. Are not there ‘marks’ on time, the kind
+of thing which calls for a reading, rather than for a hearing? But what is
+meant by this metaphor of the printed mark?
+   The three other criteria of the text will help us to make the nature of this
+fixation more precise.
+
+2. The autonomisation of action
+In the same way that a text is detached from its author, an action is
+detached from its agent and develops consequences of its own. This
+
+2   J.L. Austin, How to do Things with Words (Oxford: Oxford University Press, 1962).
+3   John R. Searle, Speech Acts: An Essay in the Philosophy of Language (Cambridge: Cambridge
+    University Press, 1969), p. 56.
+
+=== p. 168 ===
+
+autonomisation of human action constitutes the social dimension of action.
+An action is a social phenomenon not only because it is done by several
+agents in such a way that the role of each of them cannot be distinguished
+from the role of the others, but also because our deeds escape us and have
+effects which we did not intend. One of the meanings of the notion of
+‘inscription’ appears here. The kind of distance which we found between
+the intention of the speaker and the verbal meaning of a text occurs also
+between the agent and its action. It is this distance which makes the
+ascription of responsibility a specific problem. We do not ask, who smiled?
+who raised his hand? The doer is present to his doing in the same way as
+the speaker is present to his speech. With simple actions like those which
+require no previous action in order to be done, the meaning (noema) and
+the intention (noesis) coincide or overlap. With complex actions some
+segments are so remote from the initial simple segments, which can be
+said to express the intention of the doer, that the ascription of these actions
+or action-segments constitutes a problem as difficult to solve as that of
+authorship in some cases of literary criticism. The assignation of an author
+becomes a mediate inference well known to the historian who tries to
+isolate the role of an historical character in the course of events.
+   We just used the expression ‘the course of events’. Could we not say that
+what we call the course of events plays the role of the material thing which
+‘rescues’ the vanishing discourse when it is written? As we said in a
+metaphorical way, some actions are events which imprint their mark on
+their time. But on what did they imprint their mark? Is it not in something
+spatial that discourse is inscribed? How could an event be printed on
+something temporal? Social time, however, is not only something which
+flees; it is also the place of durable effects, of persisting patterns. An action
+leaves a ‘trace’, it makes its ‘mark’ when it contributes to the emergence of
+such patterns which become the documents of human action.
+   Another metaphor may help us to delineate this phenomenon of the
+social ‘imprint’: the metaphor of the ‘record’ or of the ‘registration’. Joel
+Feinberg, in Reason and Responsibility, introduces this metaphor in another
+context, that of responsibility, in order to show how an action may be
+submitted to blame. Only actions, he says, which can be ‘registered’ for
+further notice, placed as an entry on somebody’s ‘record’, can be blamed.4
+And when there are no formal records (such as those which are kept by
+institutions like employment offices, schools, banks, and the police), there
+
+4     Joel Feinberg, Reason and Responsibility (Belmont, Calif.: Dickenson, 1965).
+
+=== p. 169 ===
+
+is still an informal analogue of these formal records which we call reputation and which constitutes a basis for blaming. I should like to apply this
+interesting metaphor of a record and reputation to something other than
+the quasi-judicial situations of blaming, charging, crediting, or punishing.
+Could we not say that history is itself the record of human action?
+History is this quasi-‘thing’ on which human action leaves a ‘trace’, puts
+its mark. Hence the possibility of ‘archives’. Before the archives which
+are intentionally written down by the memorialists, there is this continuous process of ‘recording’ human action which is history itself as the sum
+of ‘marks’, the fate of which escapes the control of individual actors.
+Henceforth history may appear as an autonomous entity, as a play with
+players who do not know the plot. This hypostasis of history may be
+denounced as a fallacy, but this fallacy is well entrenched in the process
+by which human action becomes social action when written down in the
+archives of history. Thanks to this sedimentation in social time, human
+deeds become ‘institutions’, in the sense that their meaning no longer
+coincides with the logical intentions of the actors. The meaning may be
+‘depsychologised’ to the point where the meaning resides in the work
+itself. In the words of P. Winch, in The Idea of a Social Science, the object of
+the social sciences is a ‘rule-governed behaviour’.5 But this rule is not
+superimposed; it is the meaning as articulated from within these sedimented or instituted works.
+   Such is the kind of ‘objectivity’ which proceeds from the ‘social fixation’
+of meaningful behaviour.
+
+3. Relevance and importance
+According to our third criterion of what a text is, we could say that
+a meaningful action is an action the importance of which goes ‘beyond’
+its relevance to its initial situation. This new trait is very similar to the
+way in which a text breaks the ties of discourse to all the ostensive
+references. As a result of this emancipation from the situational context,
+discourse can develop non-ostensive references which we called a
+‘world’, in the sense in which we speak of the Greek ‘world’, not in
+the cosmological sense of the word, but as an ontological dimension.
+What would correspond in the field of action to the non-ostensive
+references of a text?
+
+5   Peter Winch, The Idea of a Social Science and its Relation to Philosophy (London: Routledge
+    and Kegan Paul, 1958).
+
+=== p. 170 ===
+
+   We opposed, in introducing the present analysis, the importance of an
+action to its relevance as regards the situation to which it wanted to respond.
+An important action, we could say, develops meanings which can be
+actualised or fulfilled in situations other than the one in which this action
+occurred. To say the same thing in different words, the meaning of an
+important event exceeds, overcomes, transcends, the social conditions of its
+production and may be re-enacted in new social contexts. Its importance is
+its durable relevance and, in some cases, its omni-temporal relevance.
+   This third trait has important implications as regards the relation
+between cultural phenomena and their social conditions. Is it not a fundamental trait of the great works of culture to overcome the conditions of
+their social production, in the same way as a text develops new references
+and constitutes new ‘worlds’? It is in this sense that Hegel spoke, in The
+Philosophy of Right, of the institutions (in the largest sense of the word)
+which ‘actualise’ freedom as a second nature in accordance with freedom.
+This ‘realm of actual freedom’ is constituted by the deeds and works
+capable of receiving relevance in new historical situations. If this is true,
+this way of overcoming one’s own conditions of production is the key to
+the puzzling problem raised by Marxism concerning the status of the
+‘superstructures’. The autonomy of superstructures as regards their relation to their own infrastructures has its paradigm in the non-ostensive
+references of a text. A work does not only mirror its time, but it opens up a
+world which it bears within itself.
+
+4. Human action as an ‘open work’
+Finally, according to our fourth criterion of the text as text, the meaning of
+human action is also something which is addressed to an indefinite range of
+possible ‘readers’. The judges are not the contemporaries, but, as Hegel
+said, history itself. Weltgeschichte ist Weltgericht. That means that, like a
+text, human action is an open work, the meaning of which is ‘in suspense’.
+It is because it ‘opens up’ new references and receives fresh relevance from
+them, that human deeds are also waiting for fresh interpretations which
+decide their meaning. All significant events and deeds are, in this way,
+opened to this kind of practical interpretation through present praxis.
+Human action, too, is opened to anybody who can read. In the same
+way that the meaning of an event is the sense of its forthcoming interpretations, the interpretation by the contemporaries has no particular
+privilege in this process.
+   This dialectic between the work and its interpretations will be the topic
+of the methodology of interpretation that we shall now consider.
+
+=== p. 171 ===
+
+II.   The paradigm of text-interpretation
+I want now to show the fruitfulness of this analogy of the text at the level
+of methodology.
+   The main implication of our paradigm, as concerns the methods of the
+social sciences, is that it offers a fresh approach to the question of the
+relation between erklären (explanation) and verstehen (understanding,
+comprehension) in the human sciences. As is well known, Dilthey gave
+this relation the meaning of a dichotomy. For him, any model of explanation is borrowed from a different region of knowledge, that of the
+natural sciences with their inductive logic. Thereafter, the autonomy of
+the so-called Geisteswissenschaften is preserved only by recognising the
+irreducible factor of understanding a foreign psychic life on the basis of
+the signs in which this life is immediately exteriorised. But if verstehen is
+separated from erklären by this logical gap, how can the human sciences
+be scientific at all? Dilthey kept wrestling with this paradox. He discovered more and more clearly, mainly after having read Husserl’s
+Logical Investigations, that the Geisteswissenschaften are sciences inasmuch
+as the expressions of life undergo a kind of objectification which makes
+possible a scientific approach somewhat similar to that of the natural
+sciences, in spite of the logical gap between Natur and Geist, factual
+knowledge and knowledge by signs. In this way the mediation offered
+by these objectifications appeared to be more important, for a scientific
+purpose, than the immediate meaningfulness of the expressions of life for
+everyday transactions.
+   My own interrogation starts from this last perplexity in Dilthey’s
+thought. And my hypothesis is that the kind of objectification implied in
+the status of discourse as text provides a better answer to the problem
+raised by Dilthey. This answer relies on the dialectical character of the
+relation between erklären and verstehen as it is displayed in reading. Our
+task therefore will be to show to what extent the paradigm of reading,
+which is the counterpart of the paradigm of writing, provides a solution
+for the methodological paradox of the human sciences.
+   The dialectic involved in reading expresses the originality of the relation between writing and reading and its irreducibility to the dialogical
+situation based on the immediate reciprocity between speaking and hearing. There is a dialectic between explaining and comprehending because
+the writing–reading situation develops a problematic of its own which
+is not merely an extension of the speaking–hearing situation constitutive
+of dialogue.
+
+=== p. 172 ===
+
+   It is here, therefore, that our hermeneutics is most critical as regards
+the Romantic tradition in hermeneutics which took the dialogical situation as the standard for the hermeneutical operation applied to the text.
+My contention is that it is this operation, on the contrary, which reveals
+the meaning of what is already hermeneutical in dialogical understanding. So if the dialogical relation does not provide us with the paradigm
+of reading, we have to build it as an original paradigm, as a paradigm of
+its own.
+   This paradigm draws its main features from the status of the text itself
+as characterised by (1) the fixation of the meaning, (2) its dissociation
+from the mental intention of the author, (3) the display of non-ostensive
+references, and (4) the universal range of its addressees. These four traits
+taken together constitute the ‘objectivity’ of the text. From this ‘objectivity’ derives a possibility of explaining which is not derived in any way
+from another field, that of natural events, but which is congenial to this
+kind of objectivity. Therefore there is no transfer from one region of
+reality to another – let us say, from the sphere of facts to the sphere of
+signs. It is within the same sphere of signs that the process of objectification takes place and gives rise to explanatory procedures. And it is
+within the same sphere of signs that explanation and comprehension
+are confronted.
+   I propose that we consider this dialectic in two different ways: (1) as
+proceeding from comprehension to explanation, and (2) as proceeding
+from explanation to comprehension. The exchange and the reciprocity
+between both procedures will provide us with a good approximation of
+the dialectical character of the relation. At the end of each half of this
+demonstration I shall try to indicate briefly the possible extension of the
+paradigm of reading to the whole sphere of the human sciences.
+
+1. From understanding to explanation
+This first dialectic – or rather this first figure of a unique dialectic – may be
+conveniently introduced by our contention that to understand a text is not
+to rejoin the author. The disjunction of the meaning and the intention
+creates an absolutely original situation which engenders the dialectic of
+erklären and verstehen. If the objective meaning is something other than the
+subjective intention of the author, it may be construed in various ways.
+The problem of the right understanding can no longer be solved by a
+simple return to the alleged intention of the author.
+   This construction necessarily takes the form of a process. As Hirsch says
+in his book Validity in Interpretation, there are no rules for making good
+
+=== p. 173 ===
+
+guesses. But there are methods for validating guesses.6 This dialectic
+between guessing and validating constitutes one figure of our dialectic
+between comprehension and explanation.
+   In this dialectic both terms are decisive. Guessing corresponds to what
+Schleiermacher called the ‘divinatory’, validation to what he called the
+‘grammatical’. My contribution to the theory of this dialectic will be to link
+it more tightly to the theory of the text and text-reading.
+   Why do we need an art of guessing? Why do we have to ‘construe’ the
+meaning? Not only – as I tried to say a few years ago – because language is
+metaphorical and because the double meaning of metaphorical language
+requires an art of deciphering which tends to unfold the several layers of
+meaning. The case of the metaphor is only a particular case for a general
+theory of hermeneutics. In more general terms, a text has to be construed
+because it is not a mere sequence of sentences, all on an equal footing
+and separately understandable. A text is a whole, a totality. The relation
+between whole and parts – as in a work of art or in an animal – requires a
+specific kind of ‘judgement’ for which Kant gave the theory in the third
+Critique. Correctly, the whole appears as a hierarchy of topics, or primary
+and subordinate topics. The reconstruction of the text as a whole necessarily has a circular character, in the sense that the presupposition of a certain
+kind of whole is implied in the recognition of the parts. And reciprocally,
+it is in construing the details that we construe the whole. There is no
+necessity and no evidence concerning what is important and what is
+unimportant, what is essential and what is unessential. The judgement
+of importance is a guess.
+   To put the difficulty in other terms, if a text is a whole, it is once more an
+individual like an animal or a work of art. As an individual it can only be
+reached by a process of narrowing the scope of generic concepts concerning the literary genre, the class of text to which this text belongs, the
+structures of different kinds which intersect in this text. The localisation
+and the individualisation of this unique text is still a guess.
+   Still another way of expressing the same enigma is that as an individual
+the text may be reached from different sides. Like a cube, or a volume
+in space, the text presents a ‘relief’. Its different topics are not at the
+
+6   Eric D. Hirsch, Jr, Validity in Interpretation (New Haven: Yale University Press, 1967), p. 25:
+    ‘The act of understanding is at first a genial (or a mistaken) guess and there are no
+    methods for making guesses, no rules for generating insights; the methodological activity
+    of interpretation commences when we begin to test and criticize our guesses’; and further:
+    ‘A mute symbolism may be construed in several ways.’
+
+=== p. 174 ===
+
+same altitude. Therefore the reconstruction of the whole has a perspecti-vist aspect similar to that of perception. It is always possible to relate the
+same sentence in different ways to this or that sentence considered as
+the cornerstone of the text. A specific kind of onesidedness is implied
+in the act of reading. This onesidedness confirms the guess character of
+interpretation.
+   For all these reasons there is a problem of interpretation not so much
+because of the incommunicability of the psychic experience of the author,
+but because of the very nature of the verbal intention of the text. This
+intention is something other than the sum of the individual meanings of
+the individual sentences. A text is more than a linear succession of sentences. It is a cumulative, holistic process. This specific structure of the text
+cannot be derived from that of the sentence. Therefore the kind of plurivo-city which belongs to texts as texts is something other than the polysemy
+of individual words in ordinary language and the ambiguity of individual
+sentences. This plurivocity is typical of the text considered as a whole, open
+to several readings and to several constructions.
+   As concerns the procedures of validation by which we test our guesses,
+I agree with Hirsch that they are closer to a logic of probability than to a
+logic of empirical verification. To show that an interpretation is more probable in the light of what is known is something other than showing that a
+conclusion is true. In this sense, validation is not verification. Validation is
+an argumentative discipline comparable to the juridical procedures of legal
+interpretation. It is a logic of uncertainty and of qualitative probability.
+In this sense we may give an acceptable sense to the opposition between
+Geisteswissenschaften and Naturwissenschaften without conceding anything to
+the alleged dogma of the ineffability of the individual. The method of
+conveyance of indices, typical of the logic of subjective probability, gives a
+firm basis for a science of the individual deserving the name of science.
+A text is a quasi-individual, and the validation of an interpretation applied
+to it may be said, with complete legitimacy, to give a scientific knowledge
+of the text.
+   Such is the balance between the genius of guessing and the scientific
+character of validation which constitutes the modern complement of the
+dialectic between verstehen and erklären.
+   At the same time, we are prepared to give an acceptable meaning to the
+famous concept of a hermeneutical circle. Guess and validation are in a
+sense circularly related as subjective and objective approaches to the text.
+But this circle is not a vicious circularity. It would be a cage if we were
+unable to escape the kind of ‘self-confirmability’ which, according to
+
+=== p. 175 ===
+
+Hirsch,7 threatens this relation between guess and validation. To the
+procedures of validation also belong procedures of invalidation similar
+to the criteria of falsifiability emphasised by Karl Popper in his Logic
+of Scientific Discovery.8 The role of falsification is played here by the
+conflict between competing interpretations. An interpretation must not
+only be probable, but more probable than another. There are criteria of
+relative superiority which may easily be derived from the logic of subjective probability.
+   In conclusion, if it is true that there is always more than one way of
+construing a text, it is not true that all interpretations are equal and may
+be assimilated to so-called ‘rules of thumb’. The text is a limited field
+of possible constructions. The logic of validation allows us to move
+between the two limits of dogmatism and scepticism. It is always possible to argue for or against an interpretation, to confront interpretations,
+to arbitrate between them, and to seek for an agreement, even if this
+agreement remains beyond our reach.
+   To what extent is this dialectic between guessing and validating paradigmatic for the whole field of the human sciences?
+   That the meaning of human actions, of historical events, and of social
+phenomena may be construed in several different ways is well known by
+all experts in the human sciences. What is less known and understood is
+that this methodological perplexity is founded in the nature of the object
+itself and, moreover, that it does not condemn the scientist to oscillate
+between dogmatism and scepticism. As the logic of text-interpretation
+suggests, there is a specific plurivocity belonging to the meaning of human
+action. Human action, too, is a limited field of possible constructions.
+   A trait of human action which has not yet been emphasised in the
+preceding analysis may provide an interesting link between the specific
+plurivocity of the text and the analogical plurivocity of human action. This
+trait concerns the relation between the purposive and the motivational
+dimensions of action. As many philosophers in the new field of action
+theory have shown, the purposive character of an action is fully recog-nised when the answer to the question ‘what’ is explained in terms of an
+answer to the question ‘why’. I understand what you intended to do, if you
+are able to explain to me why you did such-and-such an action. Now, what
+kinds of answer to the question ‘why’ make sense? Only those answers
+which afford a motive understood as a reason for . . . and not as a cause.
+
+7   Ibid., pp. 164ff.
+8   Karl Popper, The Logic of Scientific Discovery (New York: Basic Books, 1959).
+
+=== p. 176 ===
+
+And what is a reason for . . . which is not a cause? It is, in the terms of
+E. Anscombe and A.I. Melden, an expression, or a phrase, which allows us
+to consider the action as this or that.9 If you tell me that you did this or that
+because of jealousy or in a spirit of revenge, you are asking me to put your
+action in the light of this category of feelings or dispositions. By the same
+token, you claim to make sense of your action. You claim to make it
+understandable for others and for yourself. This attempt is particularly
+helpful when applied to what Anscombe calls the ‘desirability-character’
+of wanting. Wants and beliefs have the character not only of being forces
+which make people act in such-and-such ways, but of making sense as a
+result of the apparent good which is the correlate of their desirability-character. I may have to answer the question, as what do you want this?
+On the basis of these desirability-characters and the apparent good which
+corresponds to them, it is possible to argue about the meaning of an action,
+to argue for or against this or that interpretation. In this way the account of
+motives already foreshadows a logic of argumentation procedures. Could
+we not say that what can be (and must be) construed in human action is
+the motivational basis of this action, i.e., the set of desirability-characters
+which may explain it? And could we not say that the process of arguing
+linked to the explanation of action by its motives unfolds a kind of
+plurivocity which makes action similar to a text?
+   What seems to legitimate this extension from guessing the meaning of a
+text to guessing the meaning of an action is that in arguing about the
+meaning of an action I put my wants and my beliefs at a distance and
+submit them to a concrete dialectic of confrontation with opposite points
+of view. This way of putting my action at a distance in order to make sense
+of my own motives paves the way for the kind of distanciation which
+occurs with what we called the social inscription of human action and to
+which we applied the metaphor of the ‘record’. The same actions which
+may be put into ‘records’ and henceforth ‘recorded’ may also be explained
+in different ways according to the multivocity of the arguments applied to
+their motivational background.
+   If we are correct in extending to action the concept of ‘guess’ which we
+took as a synonym for verstehen, we may also extend to the field of action
+the concept of ‘validation’ in which we saw an equivalent of erklären. Here,
+too, the modern theory of action provides us with an intermediary link
+between the procedures of literary criticism and those of the social sciences.
+
+9     G.E.M. Anscombe, Intention (Oxford: Basil Blackwell, 1972); A.I. Melden, Free Action
+      (London: Routledge and Kegan Paul, 1961).
+
+=== p. 177 ===
+
+Some thinkers have tried to elucidate the way in which we impute actions
+to agents in the light of the juridical procedures by which a judge or a
+tribunal validates a decision concerning a contract or a crime. In a famous
+article, ‘The ascription of responsibility and rights’, H.L.A. Hart shows in a
+very convincing way that juridical reasoning does not at all consist in
+applying general laws to particular cases, but each time in construing
+uniquely referring decisions.10 These decisions terminate a careful refutation of the excuses and defences which could ‘defeat’ the claim or the
+accusation. In saying that human actions are fundamentally ‘defeasible’
+and that juridical reasoning is an argumentative process which comes to
+grips with the different ways of ‘defeating’ a claim or an accusation, Hart
+has paved the way for a general theory of validation in which juridical
+reasoning would be the fundamental link between validation in literary
+criticism and validation in the social sciences. The intermediary function of
+juridical reasoning clearly shows that the procedures of validation have a
+polemical character. In front of the court, the plurivocity common to texts
+and to actions is exhibited in the form of a conflict of interpretations, and
+the final interpretation appears as a verdict to which it is possible to make
+appeal. Like legal utterances, all interpretations in the field of literary
+criticism and in the social sciences may be challenged, and the question
+‘what can defeat a claim’ is common to all argumentative situations. Only
+in the tribunal is there a moment when the procedures of appeal are
+exhausted. But it is because the decision of the judge is implemented by
+the force of public power. Neither in literary criticism, nor in the social
+sciences, is there such a last word. Or, if there is any, we call that violence.
+
+2. From explanation to understanding
+The same dialectic between comprehension and explanation may receive
+a new meaning if taken in the reverse way, from explanation to understanding. This new Gestalt of the dialectic proceeds from the nature of
+the referential function of the text. This referential function, as we said,
+exceeds the mere ostensive designation of the situation common to both
+speaker and hearer in the dialogical situation. This abstraction from the
+surrounding world gives rise to two opposite attitudes. As readers, we
+may either remain in a kind of state of suspense as regards any kind of
+referred-to world, or we may actualise the potential non-ostensive references of the text in a new situation, that of the reader. In the first case, we
+
+10 H.L.A. Hart, ‘The ascription of responsibility and rights’, Proceedings of the Aristotelian
+   Society, 49 (1948), pp. 171–94.
+
+=== p. 178 ===
+
+treat the text as a worldless entity; in the second, we create a new ostensive
+reference through the kind of ‘execution’ which the art of reading implies.
+These two possibilities are equally entailed by the act of reading, conceived as their dialectical interplay.
+   The first way of reading is exemplified today by the different structural
+schools of literary criticism. Their approach is not only possible, but
+legitimate. It proceeds from the suspension, the epoché, of the ostensive
+reference. To read, in this way, means to prolong this suspension of the
+ostensive reference to the world and to transfer oneself into the ‘place’
+where the text stands, within the ‘enclosure’ of this worldless place.
+According to this choice, the text no longer has an outside, it has only an
+inside. Once more, the very constitution of the text as text and of the
+system of texts as literature justifies this conversion of the literary thing
+into a closed system of signs, analogous to the kind of closed system which
+phonology discovered at the root of all discourse, and which de Saussure
+called la langue. Literature, according to this working hypothesis, becomes
+an analogon of la langue.
+   On the basis of this abstraction, a new kind of explanatory attitude may
+be extended to the literary object, which, contrary to the expectation of
+Dilthey, is no longer borrowed from the natural sciences, i.e., from an area
+of knowledge alien to language itself. The opposition between Natur and
+Geist is no longer operative here. If some model is borrowed, it comes from
+the same field, from the semiological field. It is henceforth possible to treat
+texts according to the elementary rules which linguistics successfully
+applied to the elementary systems of signs that underlie the use of language. We have learned from the Geneva school, the Prague school, and
+the Danish school, that it is always possible to abstract systems from
+processes and to relate these systems – whether phonological, lexical, or
+syntactical – to units which are merely defined by their opposition to other
+units of the same system. This interplay of merely distinctive entities
+within finite sets of such units defines the notion of structure in linguistics.
+   It is this structural model which is now applied to texts, i.e., to sequences
+of signs longer than the sentence, which is the last kind of unit that
+linguistics takes into account. In his Structural Anthropology, Claude Lévi-Strauss formulates this working hypothesis in regard to one category of
+texts, that of myths.11
+
+11 Claude Lévi-Strauss, Anthropologie structurale (Paris: Plon, 1958) [English translation:
+   Structural Anthropology, translated by Claire Jacobson and Brooke Grundfest Schoepf
+   (Harmondsworth: Penguin Books, 1968)].
+
+=== p. 179 ===
+
+   By means of this working hypothesis, the large units which are at least
+the same size as the sentence and which, put together, form the narrative
+proper of the myth, will be able to be treated according to the same rules as
+the smallest units known to linguistics. [. . . In this way,] we can indeed say
+that we have explained a myth, but not that we have interpreted it. We can,
+by means of structural analysis, bring out the logic of it, the operations
+which relate the ‘bundles of relations’ among themselves. This logic constitutes ‘the structural law of the myth under consideration’.12 This law is preeminently an object of reading and not at all of speaking, in the sense of
+a recitation where the power of the myth would be re-enacted in a particular situation. Here the text is only a text, thanks to the suspension of its
+meaning for us, to the postponement of all actualisation by present speech.
+   I want now to show in what way ‘explanation’ (erklären) requires
+‘understanding’ (verstehen) and brings forth in a new way the inner dialectic which constitutes ‘interpretation’ as a whole.
+   As a matter of fact, nobody stops with a conception of myths and of
+narratives as formal as this algebra of constitutive units. This can be
+shown in different ways. First, even in the most formalised presentation
+of myths by Lévi-Strauss, the units which he calls ‘mythemes’ are still
+expressed as sentences which bear meaning and reference. Can anyone
+say that their meaning as such is neutralised when they enter into the
+‘bundle of relations’ which alone is taken into account by the ‘logic’ of
+the myth? Even this bundle of relations, in its turn, must be written in the
+form of a sentence. Finally, the kind of language-game which the whole
+system of oppositions and combinations embodies, would lack any kind
+of significance if the oppositions themselves, which, according to Lévi-Strauss, the myth tends to mediate, were not meaningful oppositions
+concerning birth and death, blindness and lucidity, sexuality and truth.
+Beside these existential conflicts there would be no contradictions to
+overcome, no logical function of the myth as an attempt to solve these
+contradictions. Structural analysis does not exclude, but presupposes, the
+opposite hypothesis concerning the myth, i.e., that it has a meaning as
+a narrative of origins. Structural analysis merely represses this function.
+But it cannot suppress it. The myth would not even function as a logical
+operator if the propositions which it combines did not point toward
+boundary situations. Structural analysis, far from getting rid of this radical
+questioning, restores it at a level of higher radicality.
+
+12 Ibid., p. 241 [p. 217].†
+
+=== p. 180 ===
+
+   If this is true, could we not say that the function of structural analysis is
+to lead from a surface semantics, that of the narrated myth, to a depth
+semantics, that of the boundary situations which constitute the ultimate
+‘referent’ of the myth?
+   I really believe that if such were not the function of structural analysis, it
+would be reduced to a sterile game, a divisive algebra, and even the myth
+would be bereaved of the function which Lévi-Strauss himself assigns to it,
+that of making men aware of certain oppositions and of tending toward
+their progressive mediation. To eliminate this reference to the aporias of
+existence around which mythic thought gravitates would be to reduce the
+theory of myth to the necrology of the meaningless discourses of mankind.
+If, on the contrary, we consider structural analysis as a stage – and a
+necessary one – between a naive interpretation and a critical interpretation,
+between a surface interpretation and a depth interpretation, then it would
+be possible to locate explanation and understanding at two different stages
+of a unique hermeneutical arc. It is this depth semantics which constitutes
+the genuine object of understanding and which requires a specific affinity
+between the reader and the kind of things the text is about.
+   But we must not be misled by this notion of personal affinity. The depth
+semantics of the text is not what the author intended to say, but what the
+text is about, i.e., the non-ostensive reference of the text. And the non-ostensive reference of the text is the kind of world opened up by the depth
+semantics of the text. Therefore what we want to understand is not
+something hidden behind the text, but something disclosed in front of it.
+What has to be understood is not the initial situation of discourse, but
+what points toward a possible world. Understanding has less than ever to
+do with the author and his situation. It wants to grasp the proposed
+worlds opened up by the references of the text. To understand a text is
+to follow its movement from sense to reference, from what it says, to what
+it talks about. In this process the mediating role played by structural
+analysis constitutes both the justification of this objective approach and
+the rectification of the subjective approach. We are definitely prevented
+from identifying understanding with some kind of intuitive grasping of
+the intention underlying the text. What we have said about the depth
+semantics which structural analysis yields invites us rather to think of the
+sense of the text as an injunction starting from the text, as a new way of
+looking at things, as an injunction to think in a certain manner. [. . .]
+   This second figure or Gestalt of the dialectic between explanation and
+comprehension has a strong paradigmatic character which holds for the
+whole field of the human sciences. I want to emphasise three points.
+
+=== p. 181 ===
+
+   First, the structural model, taken as a paradigm for explanation, may be
+extended beyond textual entities to all social phenomena because it is not
+limited in its application to linguistic signs, but applies to all kinds of
+signs which are analogous to linguistic signs. The intermediary link
+between the model of the text and social phenomena is constituted by
+the notion of semiological systems. A linguistic system, from the point of
+view of semiology, is only a species within the semiotic genre, although
+this species has the privilege of being a paradigm for the other species of
+the genre. We can say therefore that a structural model of explanation can
+be generalised as far as all social phenomena which may be said to have a
+semiological character, i.e., as far as it is possible to define the typical
+relations of a semiological system at their level: the general relation
+between code and message, relations among the specific units of the code,
+the relation between signifier and signified, the typical relation within
+and among social messages, the structure of communication as an
+exchange of messages, etc. Inasmuch as the semiological model holds,
+the semiotic or symbolic function, i.e., the function of substituting signs
+for things and of representing things by the means of signs, appears to be
+more than a mere effect in social life. It is its very foundation. We should
+have to say, according to this generalised function of the semiotic, not
+only that the symbolic function is social, but that social reality is fundamentally symbolic.
+   If we follow this suggestion, then the kind of explanation which is
+implied by the structural model appears to be quite different from the
+classical causal model, especially if causation is interpreted in Humean
+terms as a regular sequence of antecedents and consequents with no inner
+logical connection between them. Structural systems imply relations of
+a quite different kind, correlative rather than sequential or consecutive.
+If this is true, the classical debate about motives and causes which has
+plagued the theory of action these last decades loses its importance. If the
+search for correlations within semiotic systems is the main task of explanation, then we have to reformulate the problem of motivation in social
+groups in new terms. But it is not the aim of this essay to develop this
+implication.
+   Secondly, the second paradigmatic factor in our previous concept of
+text-interpretation proceeds from the role which we assigned to depth
+semantics between structural analysis and appropriation. This mediating
+function of depth semantics must not be overlooked, since the appropri-ation’s losing its psychological and subjective character and receiving a
+genuine epistemological function depends on it.
+
+=== p. 182 ===
+
+   Is there something similar to the depth semantics of a text in social
+phenomena? I should tend to say that the search for correlations within
+and between social phenomena treated as semiotic entities would lose
+importance and interest if it did not yield something like a depth semantics.
+In the same way as language-games are forms of life, according to the
+famous aphorism of Wittgenstein, social structures are also attempts to
+cope with existential perplexities, human predicaments and deep-rooted
+conflicts. In this sense, these structures, too, have a referential dimension.
+They point toward the aporias of social existence, the same aporias around
+which mythical thought gravitates. And this analogical function of
+reference develops traits very similar to what we called the non-ostensive
+reference of a text, i.e., the display of a Welt which is no longer an Umwelt,
+the projection of a world which is more than a situation. May we not say
+that in social science, too, we proceed from naive interpretations to critical
+interpretations, from surface interpretations to depth interpretations
+through structural analysis? But it is depth interpretation which gives
+meaning to the whole process.
+   This last remark leads us to our third and last point. If we follow the
+paradigm of the dialectic between explanation and understanding to its
+end, we must say that the meaningful patterns which a depth interpretation wants to grasp cannot be understood without a kind of personal
+commitment similar to that of the reader who grasps the depth semantics
+of the text and makes it his ‘own’. Everybody knows the objection which
+an extension of the concept of appropriation to the social sciences is
+exposed to. Does it not legitimate the intrusion of personal prejudices,
+of subjective bias into the field of scientific inquiry? Does it not introduce
+all the paradoxes of the hermeneutical circle into the human sciences?
+In other words, does not the paradigm of disclosure plus appropriation
+destroy the very concept of a human science? The way in which we
+introduced this pair of terms within the framework of text-interpretation
+provides us not only with a paradigmatic problem, but with a paradigmatic solution. This solution is not to deny the role of personal commitment in understanding human phenomena, but to qualify it.
+   As the model of text-interpretation shows, understanding has nothing
+to do with an immediate grasping of a foreign psychic life or with an
+emotional identification with a mental intention. Understanding is entirely
+mediated by the whole of explanatory procedures which precede it and
+accompany it. The counterpart of this personal appropriation is not
+something which can be felt, it is the dynamic meaning released by the
+
+=== p. 183 ===
+
+explanation which we identified earlier with the reference of the text, i.e.,
+its power of disclosing a world.
+   The paradigmatic character of text-interpretation must be applied down
+to this ultimate implication. This means that the conditions of an authentic
+appropriation, as they were displayed in relation to texts, are themselves
+paradigmatic. Therefore we are not allowed to exclude the final act of
+personal commitment from the whole of objective and explanatory procedures which mediate it.
+   This qualification of the notion of personal commitment does not eliminate the ‘hermeneutical circle’. This circle remains an insuperable structure of knowledge when it is applied to human things, but this
+qualification prevents it from becoming a vicious circle.
+   Ultimately, the correlation between explanation and understanding,
+between understanding and explanation, is the ‘hermeneutical circle’.
+

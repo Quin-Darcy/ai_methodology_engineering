@@ -1,0 +1,813 @@
+=== chunk: cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense ===
+title: Beiser, "History of Ideas: A Defense"
+source_pdf: docs/sources/cappelen-gendler-hawthorne-2016-oxford-handbook/full.pdf
+pdf_pages: 522-541
+page_scheme: book
+plan_page_start: 505
+plan_page_end: 524
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 505 ===
+
+                                      Chapter 26
+
+                     History of Ide as
+                                           A Defense
+
+                              Frederick C. Beiser
+
+        1. Philosophy and the History of Ideas
+
+The history of ideas, as Arthur Lovejoy defined it in 1940 in the opening number of the
+Journal of the History of Ideas, is “a duly analytical and critical inquiry into the nature, genesis, development, diffusion, interplay and effects of the ideas which generations of men
+have cherished, quarrelled over, and apparently been moved by.”1 The ideas that were the
+object of Lovejoy’s study he understood in a very broad sense. They could be ideas from any
+discipline or activity, the ideas of science, art, literature, religion, and politics, and last, but
+certainly not least, philosophy. Lovejoy’s definition, coming from a great master of the discipline and in the inaugural issue of its signature journal, has some authority of its own; it is
+as good a definition as we are likely to get.
+   Though Lovejoy did not live to see it, the history of ideas gradually split into two
+branches: intellectual history, which studies the ideas of a particular person, movement,
+school, or epoch; and the history of concepts, or what the Germans call Begriffsgeschichte,
+which studies the development and variations of a concept in different persons, movements, schools, or epochs. Begriffsgeschichte attempts to do for concepts—​whatever they
+are—​what etymology does for words.2
+   The history of ideas, in both its branches, has its origins in nineteenth-​century German
+historicism.3 It grew out of the attempt to apply the methods of history, as developed and
+
+     Arthur Lovejoy, ‘Reflections on the History of Ideas’, The Journal of the History of Ideas, 1 (1940),
+3–​23, p. 8.
+   2 See the journal Archiv für Begriffsgeschichte (Bonn: Bouvier, 1955f), begun by Erich Rothacker and
+
+now edited by the Akademie der Wissenschaften. On the origins of “Begriffsgeschichte”, see the article
+by H. G. Meier in Historisches Wörterbuch der Philosophie, ed. Joachim Ritter et al. (Basel: Schwabe &
+Co. 1971), I, 788–​808. The entire dictionary is a paradigmatic product of the discipline.
+   3 On this tradition, see my The German Historicist Tradition (Oxford: Oxford University
+
+Press, 2011).
+
+=== p. 506 ===
+
+refined by such nineteenth-​century historians as Barthold Niebuhr (1776–​1831), Leopold
+Ranke (1795–​1886), Johann Droysen (1838–​1908) and Wilhelm Dilthey (1883–​1911), to intellectual life. With the same methods that we use to produce a history of Rome or Prussia,
+these thinkers believed, we can also have a history of philosophy, science, or art. These
+methods were critical (viz., assessing the authenticity of sources), genetic (viz., determining origins and causes), holistic (viz., placing historical phenomena in context and crossing
+artificial disciplinary boundaries), and individualizing (viz., determining what was unique
+to a historical phenomena). Later historians of ideas in the twentieth century, not least the
+contributors to Lovejoy’s journal, very much followed these methods, even if they were
+unaware of their source.
+   There is a tendency among Marxists and positivist historians to dismiss the history
+of ideas as a bogus discipline because it is based on hypostasis. Ideas are not, we are told,
+things, and so they have no histories.4 But this objection is bunkum. It confuses historicism
+with the idealist theory of history, especially with Hegel’s and Humboldt’s metaphysics,
+which makes the idea the ultimate force behind history. Thinkers in the historicist tradition
+distanced themselves from metaphysics, especially Hegel’s philosophy of history: nominalists by inclination, they too rejected ascribing causal agency or essential meanings to
+ideas. Their intention was to make intellectual history as rigorous an empirical discipline
+as history in general.
+   The history of philosophy is a branch of the history of ideas, namely, the history of philosophical ideas. Some object to placing the history of philosophy within the history of ideas
+because it will deprive it of its critical or philosophical dimension. But it is worth noting
+that the great practitioners of the history of ideas never saw it as an uncritical enterprise.
+Lovejoy pleaded that intellectual historians should never forget that their texts contain
+claims to truth which are honored only through criticism.5
+   Still, the history of philosophy is a peculiar branch of the history of ideas. Other branches
+allow for a critical component; they do not demand it. The art historian is not required to
+be a good critic; the religious historian need not be a seer; and the historian of science is not
+expected to be a good scientist. The historian of philosophy, however, is supposed to be a
+good philosopher. The evaluative or critical dimension is not only permitted but required.
+The philosopher is expected, not only to understand texts as historical documents, but also
+to criticize them as philosophical doctrines. Why this extra demand is placed on the philosophical historian is not so easy to understand. Philosophy, it is often said, has an especially
+intimate connection with its past. A contemporary philosopher develops his or her ideas
+by engaging with past philosophers in ways in which contemporary scientists, artists, or
+critics do not. Just as the historian of philosophy is expected to know philosophy, the philosopher is supposed to know the history of his subject. While an economist or physicist is
+
+     The latest purveyer of this objection is Skinner, who refuses to accept that an idea can be “an
+appropriate unit of historical investigation”. See his “Meaning and Understanding in the History of
+Ideas”, History and Theory 8 (1969), 3–​53, p. 31. Skinner maintains there is no “determinate idea” but
+only “a variety of statements made with words by a variety of agents with a variety of intentions”,
+so that “there is no history of the idea to be written” (p. 36). But most advocates of Begriffsgeschichte
+would not disagree with Skinner that there is no such thing as the “essential meaning” of an idea. Their
+aim is to trace change in meaning through change in use.
+   5 See Lovejoy, “Reflections”, pp. 19–​20.
+
+=== p. 507 ===
+
+not expected to read Smith or Newton, a philosopher should read Plato or Aristotle. This is
+perhaps because philosophical ideas are not so prone to obsolescence, refutation, or falling
+out of fashion as artistic, scientific, or literary ones.
+   Whatever the reason for the peculiarity of the discipline, it imposes special burdens
+upon its practitioners. It is not so easy to be both philosopher and historian. History and
+philosophy are very different disciplines, which require very different skills to solve very
+different kinds of problems. Asking for a good historian of philosophy is like asking for
+someone who is both a good psychoanalyst and plumber. The philosopher is concerned
+with Begriffsspiel, with the validity of arguments, with the logical structure of ideas (their
+premises and conclusions, their relations of compatibility and incompatibility with other
+ideas), and he does not have to worry about their origins or causes. The historian, however, is concerned precisely with the origins and causes of ideas and arguments, and it does
+not matter to him whether the ideas are true or false, or whether the arguments are valid
+or invalid. To use an old Kantian distinction: the philosopher deals with the quid juris?—​
+“What right or justification do I have for a belief?”—​while the historian answers the quid
+facti?—​“What are the causes for such a belief?”
+   The need to juggle these conflicting demands, to answer these very different questions,
+is a perennial challenge for the historian of philosophy. While historians complain that his
+work is too philosophical, philosophers gripe that it is too historical. There are indeed serious dangers in leaning too far in one direction or the other. If a historian of philosophy is
+too historical, he flirts with antiquarianism, i.e., talking about the dead for their own sake
+when that interests no one; and if he is too philosophical, he runs the risk of anachronism,
+i.e., attributing to the past the interests of the present.
+   Given the very different concerns of philosophy and history, it should not be surprising
+that the history of philosophy has a tendency to fracture into historical and philosophical
+halves. This is exactly what happened to the discipline in Britain in the second half of the
+twentieth century. Some made it almost entirely philosophical, others almost completely
+historical. We are still living with this split today; everyone has felt it, though few are aware
+of its origins and context. So it is now time that I tell a story.
+
+                       2. A Disasterous Divorce
+
+Once upon a time, more than a half century ago, the young Peter Strawson gave his lectures on Kant’s Critique of Pure Reason at Oxford. These lectures, begun in the late 1950s,
+came to fruition in 1966 when Strawson first published his The Bounds of Sense.6 Strawson
+wanted to read Kant’s book on purely philosophical terms, to examine and appraise its
+main arguments by engaging directly with the text in the Kemp Smith translation; he made
+no attempt to read it in German, to consult the commentaries on it, or to study the many
+controversies about it, in the nearly two centuries since its publication.7 To many at the
+
+  6 P. F. Strawson, The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason.
+
+(London: Metheun, 1966).
+  7 See the “Preface” to The Bounds of Sense, p. 11.
+
+=== p. 508 ===
+
+time, Strawson’s work seemed liberating: it was as if one could get to the philosophy pure
+and simple without having to take on the onerous tasks of learning German or a tradition
+of scholarship.
+   The precedent set by Strawson was followed by Jonathan Bennett, who published his
+Kant’s Analytic also in 1966 and then his Kant’s Dialectic in 1974.8 Bennett shared in the
+excitement of those years, attempting to tackle Kant’s text directly without having to
+take on the burden of historical scholarship. Brusquely, he pushed aside the opinion of
+one reviewer who wrote that he was “more interested in what Kant ought to have thought
+than in what he actually did think.”9 By the early 1970s Bennett and Strawson had become
+the new orthodoxy in Oxford, where their books became “recommended” (i.e. required)
+reading for the “Special Paper” on Kant’s Critique of Pure Reason.10
+   Around the same time as Strawson and Bennett were liberating the history of philosophy from history, some young historians in Cambridge were liberating it from philosophy. In the late 1960s, Quentin Skinner advocated an approach to the history of ideas that
+stressed the importance of historical understanding over philosophical criticism.11 His
+approach was later refined and radicalized by James Tully in the 1980s.12 Their chief goals
+were to recover the original intentions of the author, to place him in historical context, and
+to understand him in his own terms. Because of their concern to recover intention and context, Skinner and Tully were skeptical of the value of philosophical criticism, which, they
+feared, would be only anachronistic.
+   Remarkably, these very different approaches created little friction. There was no debate
+about methodological issues, though there well should have been. But, then again, Oxford
+and Cambridge have never had much to do with one another, and it would make little difference if they were on different continents rather than just sixty miles apart. It is tempting
+to say with Richard Rorty that there is really no conflict between these methods, that they
+simply have different purposes.13 But this irenic strategy sweeps too much under the carpet.
+The Cambridge historians, if they only had made a fleeting glance toward their colleagues
+in philosophy, would have questioned the value of not only their philosophical criticism,
+but also their a-​historical interpretations of texts.
+
+      Jonathan Bennett, Kant’s Analytic (Cambridge: Cambridge University Press, 1966) and Kant’s
+Dialectic (Cambridge: Cambridge University Press, 1974).
+   9 Bennett, Kant’s Dialectic, p. viii.
+   10 In the interests of full disclosure, the present author should reveal that he was one undergraduate
+
+subjected to this regimen, and that his rebellion against it set the course of his career. The proscribed
+texts, “read in the loo”, that fuelled this rebellion were some classics of the German historicist
+tradition, especially Haym and Dilthey, which gave him a very different idea of how to pursue the
+history of philosophy.
+       See Quentin Skinner, “Meaning and Understanding”, 3–​53. See also his “Social Meaning and the
+Explanation of Social Action”, in Philosophy, Politics and Society (fourth series), eds. Peter Laslett, W.
+G. Runcimann, and Quentin Skinner (Oxford: Blackwell, 1972), 136–​57; and “Motives, Intentions and
+the Interpretation of Texts” in On Literary Intention, ed. D. Newton de Molina (Edinburgh: Edinburgh
+University Press, 1976), 210–​21.
+   12 See James Tully, “The pen is a mighty sword’, in Meaning and Context, ed. James Tully
+
+(Cambridge: Polity Press, 1988), 7–​25.
+   13 This is the position of Richard Rorty, “The historiography of philosophy: Four genres”,
+
+in Philosophy in History, ed. Richard Rorty, J. B. Schneewind, and Quentin Skinner
+(Cambridge: Cambridge University Press, 1984), 49–​76, pp. 49–​56.
+
+=== p. 509 ===
+
+   This fissure between philosophy and history in the history of ideas was possible only in a
+definite time and place, namely, Britain in the 1950s and 1960s. Since the end of World War
+II, Britain lived in a more self-​enclosed, isolated, and provincial world than ever before in
+its history. Forced self-​reliance during the war became intellectual self-​sufficiency after it.
+One of the foremost symptoms of that isolation was the virtual disappearance from the
+British intellectual horizon of the German historicist tradition, which had been a major
+force in Germany, and even in Britain and the US, throughout the nineteenth and early
+twentieth centuries. Had this tradition stayed more in public view, had it been more assimilated by English intellectuals, it is very unlikely that there would have ever been a divorce
+between philosophy and history in the history of ideas. For the historicist tradition not only
+questioned the kind of a-​historical philosophizing presupposed by Strawson and Bennett,
+but it also stressed the importance of joining the historical and critical components of the
+history of philosophy. The great works of philosophical history of the historicist tradition—​Rudolf Haym’s Herder and Die romantische Schule, Kuno Fischer’s Geschichte der
+modernen Philosophie, Eduard Zeller’s Geschichte der griechischen Philosophie, Wilhelm
+Dilthey’s Leben Schleiermachers, Ernst Cassirer’s Das Erkenntnisproblem in der Philosophie
+und Wissenschaft der neueren Zeit—​had managed to achieve something like a synthesis
+of the historical and critical in the history of philosophy. These works were exemplary,
+not only in explaining an author’s intentions, context, and culture, but also in criticizing his main ideas; and because their criticisms came from within, after the most sympathetic reconstructions, they were all the more cogent and compelling.14 Unfortunately,
+they remained untranslated and largely unknown. Lacking knowledge of such precedents,
+Strawson and Bennett were free to pursue philosophy with little or no history, and Skinner
+and Tully were able to do their history with little or no philosophy. The fissure into the
+historical and philosophical history of ideas was, therefore, an original and characteristic
+English phenomenon, one unheard of in Germany. For a German, the phenomenon was
+bound to appear “unheimlich”.
+   The signs of the disappearance of the historicist tradition were everywhere in Britain in
+the late 1940s and early 1950s. Collingwood’s The Idea of History, first published in 1946,
+said little about it, and what little it does say is hackneyed and inaccurate.15 Popper’s The
+Poverty of Historicism gave the British public the idea that historicism is the doctrine that
+history conforms to laws, and that it was the rationale for all the atrocities of totalitarian
+regimes.16 Little did people realize that Popper’s usage was eccentric, and that the term
+“Historismus” in Germany had for decades virtually the opposite meaning: namely, the
+doctrine that history has no laws but consists in unique events.17 Last but not least there
+
+      I am not claiming that all these works are the non plus ultra of historical scholarship and
+philosophical criticism, and that we should go back to read them today. They are exemplary chiefly
+in their general approach, in their attempt to join the philosophical and historical. Their importance
+today is mainly historical: they created the modern discipline we know as the history of ideas.
+      R. G. Collingwood, The Idea of History (Oxford: Oxford University Press, 1946).
+   16 Karl Popper, The Poverty of Historicism (London: Routledge, 1957).
+   17 On the history of the term, see Dwight Lees and Robert Beck, “The Meaning of ‘Historicism’ ”,
+
+American Historical Review 59 (1953–​54), pp. 568–​77; Gunter Scholtz, “Historizismus” in Historisches
+Wörterbuch der Philosophie (Stuttgart: Schwabe & Co., 1974), III, 1141–​7; Christopher Thornhill,
+“Historicism” in the Routledge Encyclopedia of Philosophy (London: Routledge, 1998), IV, 443–​6; Georg
+Iggers, “Historicism” in Dictionary of the History of Ideas (New York: Scribner, 1973), II, 456–​64; Erich
+
+=== p. 510 ===
+
+was W. H. Walsh’s very popular The Philosophy of History: An Introduction, which virtually jerrymandered the German historicist tradition out of existence.18 Walsh claimed that
+the Germans were only interested in the speculative philosophy of history, rather than the
+logical analysis of historical method—​t hough the exact opposite had been the case from
+Chladenius to Weber. And so it came to pass that the history of ideas had for a generation
+only one exemplar in Oxford: Isaiah Berlin.
+   The causes for the disappearance of historicism from the British intellectual horizon are
+all too understandable, having their roots in the tragic aftermath of two world wars. The
+historian of philosophy, however, has to learn to see beyond this, for the simple reason that
+the origins of his discipline lie within the historicist tradition. All philosophy benefits in
+knowing its roots, in going back to its past and seeing how it derives from a long history;
+and this is especially true for the history of philosophy itself. We can heal the rift between
+history and philosophy in the history of philosophy—​so I will argue—​only by rehabilitating classical historicist themes.
+   My chief aim here is to defend the history of ideas, as propagated by Lovejoy in the anglophone world and as first conceived by the German historicists. It has come under increasing
+criticism lately, from both the new historicists and philosophers. But it was, as originally
+conceived and largely practiced, what the history of philosophy should be: a synthesis of
+the historical and philosophical. Most criticisms of this tradition, as we shall see, have been
+based upon ignorance and misconception.
+   The division of the discipline into extreme historical and philosophical halves has been
+an ongoing disaster. It has produced anachronistic philosophy and antiquarian history.
+Richard Rorty recommends that the halves stay apart because they have such different
+methods and purposes;19 but this is the problem, not the solution. Such a policy will only
+aggravate the shortcomings of each discipline when taken on its own. We will get archaic
+history that interests no philosopher, and anachronistic philosophical reconstructions that
+concern no historian. Philosophers will never get beyond their own contemporary intellectual horizons, and historians will treat the claim to truth in texts of the past as if they are
+no concern to us now. The ideal method of the history of philosophy should get beyond this
+division; it should be a synthesis of its historical and philosophical halves.20
+   Despite its disasterous consequences, the fissure of the disciple has had one redeeming
+value: we can see clearly the problems that result from dividing it, and the need to reconcile
+its two halves. We shall investigate each of these one-​sided extremes in sections 3.1 and 4.1,
+showing how they generate problems when taken on their own. We shall then, in two short
+concluding sections, show how the old historicism can be compatible with the search for
+truth in the history of philosophy.
+
+Rothacker, “Historismus”, in Schmollers Jahrbuch 62 (1938), 388–​99, and by the same author, “Das
+Wort ‘Historismus’ ” Zeitschrift für deutsche Wortforschung 16 (1960), 3–​6.
+  18 W. H. Walsh, The Philosophy of History: An Introduction (London: Hutchinson & Co., 1951).
+
+A revised edition was published in 1958; by 1966 the book had gone through several printings. It was
+the introduction to the subject in Britain and the US for decades.
+  19 Rorty, “Historiography of Philosophy”, pp. 53, 55.
+  20 The case for synthesizing the two forms was stated long ago by John Dunn, “The Identity of the
+
+History of Ideas”, Philosophy 43 (1968), 85–​104.
+
+=== p. 511 ===
+
+       3. The Analytic Method and its Travails
+
+The main aim of Strawson’s and Bennett’s approach to the history of philosophy, which
+we will call for short “the analytic method”, has been to assess the philosophical content of
+a text. This method could be summarized in three basic rules. First, identify the problem
+behind a passage, the question the author is attempting to answer. Second, reconstruct the
+arguments the author gives for its solution, i.e., formulate them into premises and conclusion. Third, appraise these arguments, determining their formal validity and the quality of
+the evidence for them. This method reflects a certain view about philosophy itself: that it
+consists in problems and the attempt to solve them through syllogistic reasoning. The main
+reason to study the history of philosophy, we are told, is to see the strengths and weaknesses
+of different strategies for solving problems, so that we will then be in a better position to
+solve these problems ourselves. Thus the history of philosophy becomes something like a
+treasure chest of parables for contemporary philosophers.
+   As it stands, there is nothing necessarily a-​h istorical or anti-​h istorical about the
+analytic method. There are historians of philosophy who attempt to practice this
+method along with an historical one. They reconstruct the arguments behind a text
+with full knowledge of its background context and the author’s intentions. However,
+as Strawson and Bennett practiced this method, it did become a-​h istorical, indeed
+anti-​h istorical. We need to recall that Strawson and Bennett themselves wanted to dispense as far as possible with historical scholarship. They believed that they could get to
+the essential meaning of the text, reconstruct its arguments with accuracy, and assess
+them with fairness, without having to engage in a study of an author’s intentions and
+context. Thus Strawson, in the preface to The Bounds of Sense, admitted: “I have not
+been assiduous in studying the writings of Kant’s lesser predecessors, his own minor
+works or the very numerous commentaries which two succeeding centuries have produced.”21 And Bennett warned in his A Study of Spinoza’s Ethics that “delving into
+backgrounds is subject to a law of diminishing returns”, and that we are “more likely
+to get his [Spinoza’s] text straight by wrestling with it directly, given just a fair grasp
+of his immediate background.”22 Of Henry Wolfson’s massive work to set Spinoza in
+his medieval context, 23 Bennett stated: “the labour and learning are awesome, but the
+philosophical proft is almost nil.”
+   This a-​historical practice was not gentlemanly idleness on Strawson’s and Bennett’s
+part, however much Oxford might be infected with that aristocratic affectation. Rather, it
+stemmed from a guiding hermeneutical assumption: that to understand a text is to formulate it in our own contemporary terms. If we must put a text in our terms, there is no need
+to understand it in the author’s, so that historical scholarship becomes dispensable.
+Bennett stated this assumption perfectly explicitly: “To understand someone’s thought
+you must get it into your own terms, terms that you understand. The only alternative is
+
+      Strawson, The Bounds of Sense, p. 11.
+      Bennett, A Study of Spinoza’s Ethics, (Indianapolis: Hackett, 2984), p. 16.
+   23 Henry Wolfson, The Philosophy of Spinoza (Cambridge, Mass: Harvard University Press, 1934),
+
+=== p. 512 ===
+
+to parrot his [the author’s] words.”24 Strawson fully shared Bennett’s approach, for in his
+review of Kant’s Analytic he praised Bennett for making Kant our contemporary and for
+saving him from “the wrong kind of respect”.25 Strawson and Bennett had an unlikely ally
+in their approach: Richard Rorty, who claimed that to reconstruct philosophical significance of a text is to translate it into contemporary terms, into what it means for us with our
+current philosophical interests.26
+    While I accept the aim of the analytic method—​the reconstruction and appraisal of
+arguments—​as a necessary part of the philosophical enterprise, and while I also endorse
+the analytic method as formulated in the three rules above, I find Strawson’s and Bennett’s
+attempt to practice this method on its own without the aid of historical scholarship problematic. If our aim should be simply reconstructing and appraising arguments, as Strawson
+and Bennett insist, we are not likely to achieve these goals without historical knowledge
+of an author. The problem here is basic and insurmountable: that we cannot reproduce
+arguments with any accuracy, or evaluate them with any fairness, without a sound knowledge of their historical context and content. If we read a text on its own, we run the risk of
+missing key variables: the meaning of central terms, hidden presuppositions, underlying
+problems, how an author is responding to objections raised by contemporaries, and so on.
+Attempting to interpret a text by itself, apart from a knowledge of the other texts to which
+it responds, is like hearing only one fragment of a larger conversation, not knowing what
+other interlocuters have said and why they have said it. As Skinner put it, it is like attending a trial and only hearing the arguments for the defense.27 The crucial point to see here
+is that knowledge of this context is crucial for understanding the argument of the text, its
+philosophical content; it is not simply a requirement for knowing its historical details and
+background. The philosophy is in the history, and we have to dig it out by careful historical
+excavation.
+    Attempting to skirt the need for historical scholarship by resorting to our own imagination, by consulting our intuitions about “what he [the author] could possibly mean”, is a
+strategy of desperation. Such armchair a priori reconstructions work on the extravagent
+premise that our present cultural discourse and practices will be exhaustive of all logical
+possibilities. But there is no a priori reason to think that the boundaries of our contemporary imagination will be able to fathom the discourse and practices of another culture,
+which depend upon many factors, such as language, culture, and history, all of which we
+can know only a posteriori. It is indeed in just this respect that the historicist is likely to
+object that the analytic philosopher is only reading his own philosophical and cultural
+concerns into the products of past cultures. He will warn us that analytic reconstructions not based upon knowledge of historical context run the risk of ethnocentrism and
+anachronism.
+    The Strawson and Bennett approach is likely to work best on texts within our own culture and recent historical past. It breaks down completely, however, for texts written in very
+different epochs, in very different languages and very different cultures. We then face the
+
+  24 Bennett, “Response to Garber and Rée”, in Doing Philosophy Historically, ed. Peter Hare (Buffalo:
+
+Prometheus Books, 1988), pp. 66–​7.
+  25 Strawson, Philosophical Review 77 (1968), p. 332.
+  26 Rorty, “The historiography of philosophy’, pp. 52–​3n1.
+  27 The metaphor is in Skinner, ‘A Reply to My Critics’, Meaning and Context, p. 274.
+
+=== p. 513 ===
+
+perennial problems of translating, editing, and reconstructing often fragmentary or undecipherable texts. Strawson and Bennett presupposed that such work had already been done
+for them and that it was accurate and reliable. Having little knowledge of German, they
+relied entirely on Kemp Smith’s translation of the Kritik der reinen Vernunft. Fortunate
+they were to have had such a translator. But what is the philosophical historian to do in
+the absence of translations? He has no recourse but to learn the language and to study the
+culture of the past. A division of labor between philosophical interpreters and historical
+translators and editors is not advisable for the all too simple and familiar reason that meaning depends on language and context. No discipline is more sensitive to the exact meaning
+of words than philosophy, and that exact meaning is something very individual, depending
+on a specific language and how it is used in a specific time and place. A philosopher needs
+to know this meaning, and he cannot rely on others to deliver it to him because translations always contain mistakes and they offer only one choice in the decipherment of meaning. This point is a commonplace for classical scholars, but it needs stressing for scholars
+of modern thought too. Paul Kristeller has declared unequivocally: “Anything written on
+Greek philosophy by a person who knows little or no Greek, whatever his other merits or
+gifts, has no validity or authority whatsoever.”28 The same holds, I would add, for writings
+on French and German philosophy.
+   All these criticisms, it might be replied, simply miss the point behind Strawson’s and
+Bennett’s practice. They want to make a historical work relevant to our contemporary philosophical culture, and they make no claim that this is what some historical figure actually
+meant. What matters is what he or she means to us, and not what he or she meant to his or
+her contemporaries in that past context. Bennett has expressed this point perfectly clearly
+by saying his attitude toward a text is entirely “instrumental”, i.e., he wants to get something out of it for himself, making it serve his own ends and interests.29 Rorty has come to
+his aid on this point by stressing that there is nothing wrong in principle with such instrumental practices “if they are conducted in full knowledge of their anachronism”.30
+   There are two responses to be made to this defense. First, if we interpret texts simply by
+putting them in our contemporary terms, by making them useful for our purposes, we forfeit one of the great values of the history of philosophy: broadening our intellectual horizons
+by seeing different ways of conceptualizing the universe. One major point of doing the history of philosophy is getting beyond the limits of our conceptual age and learning that what
+seems natural and necessary might be only the result of our own cultural habits and prejudices. Philosophers too are victims of ethnocentrism, and their only means of escaping it
+is by acquiring the broader vistas of history. Second, philosophers who engage in recasting
+the past in contemporary terms rarely leave it at that: they almost always go on to claim
+that these terms are also the correct historical ones. Rorty is perfectly correct that philosophers who engage in these practices need to be fully self-​conscious of their anachronism. The problem, however, is that such self-​awareness is rare and not easily sustained. For
+the most part, these philosophers assume that they are explaining “what an author really
+
+      Paul Kristeller, “Philosophy and its Historiography”, The Journal of Philosophy 82 (1985), 618–​25,
+p. 622.
+   29 “Response to Garber and Rée”, pp. 67–​8.
+   30 Rorty, “The historiography of philosophy”, p. 53.
+
+=== p. 514 ===
+
+meant”, that they are capturing “the spirit of his doctrines”. There is rarely a complete
+disengagement from the historical object; one waits in vain for a confession that they are
+talking only about “what the author ought to have meant”. Bennett, for example, does not
+claim to provide simply a creation re-interpretation of his historical figures but also a historical understanding of them; he claims to be trying “to get the author right, i.e., to find
+out what he actually meant.”31 We are told that putting an author in our own terms is the
+condition for understanding him, not only for making him relevant and useful for our concerns. Another example of someone caught in this confusion is John Rawls, who is at first
+very careful to distinguish the historical Kant from the Kant who anticipates his theory
+of justice; but even Rawls slips back into the language of talking about what Kant really
+meant.32 These instrumental interpretations, or creative re-​interpretations, if they are fully
+self-​conscious and consistent, would have to detach themselves entirely from their alleged
+historical object. They would have to admit that they create a fiction useful for philosophical purposes but having no bearing on any historical person. To continue to attribute some
+vestige of historical reality to them would be to create a monster, a being that has both a
+normative and factual existence.
+    It is worthwhile to contrast the Bennett–​Strawson instrumental conception of the history of philosophy with the aesthetic conception, which was once commonplace in the historicist tradition. According to this competing conception, each philosophical text should
+be treated like a work of art, i.e., as an end in itself and as having an organic unity where
+all parts fit together to form a whole. This conception is closely connected with the principle of interpretive charity, according to which we should seek coherence and unity in a
+work before criticizing it. Just as we should have sympathy for a work of art and must feel
+ourselves into its world, so, it is held, we should do the same for a work of philosophy. This
+metaphor gives us a very different reason why we should do the history of philosophy. Since
+these works are ends in themselves, just like art works, they have more than an instrumental value. We no more expect them to solve our current conceptual problems than we
+expect a Beethoven symphony to bring home our groceries.
+    Strawson, Bennett, and Skinner have complained about notions of interpretive sympathy, about attempts to seek coherence and unity in a text. They think that it blinds us to
+imperfections, that it finds coherence and order where there is often incoherence and disorder. Strawson and Bennett also object that this paradigm involves an attitude of reverence
+where criticism is more appropriate (“the right kind of respect”). All these warnings have
+a point. There are indeed limits to the organic metaphor, because works of philosophy are
+so often not like works of art: unlike Bach fugues, Goya portraits, and Wren buildings,
+they are terribly flawed, marred with inconsistencies, ambiguities, fallacies, and straightforward falsehoods. But we should not take this point too far. It is important to recall that
+the aesthetic conception was really intended as a regulative ideal: that we should proceed as
+if there were unity, as if the philosopher’s work were a rational whole. Its critics have read it
+
+      “Response to Garber and Rée”, p. 67.
+      See John Rawls, A Theory of Justice, Revised Edition (Cambridge, MA: Harvard University Press,
+1999), pp. 221–​7. Rawls is very careful to say that he is not providing an interpretation of Kant’s texts;
+but he still warns against misunderstanding Kant and insists that Kant’s “main aim is to deepen and
+to justify Rousseau’s idea that liberty is acting according to laws that we give to ourselves.” (p. 225; my
+italics)
+
+=== p. 515 ===
+
+as if it were a constitutive principle, a claim about the actual structure of a text. The purpose
+of the ideal was not to instill reverence but to make criticisms. It was assumed that such a
+principle of regulative charity, if pursued to its limits, is an aid to help us to discover irresolvable inconsistency and problems in a work; the reasoning behind it was that if apparent inconsistencies and ambiguities do not disappear after the most concerted attempt to
+find unity and clarity, then they really are irresolvable, true difficulties rather than apparent ones. This policy would thus assure us against premature and superficial criticisms; it
+assumed that the most compelling criticisms come after the deepest sympathy and charity.
+This point was another staple of the historicist tradition. Following it would have greatly
+improved Strawson’s and Bennett’s work, which has proven exasperating for most of its
+readers because it all too often shoots first and asks questions later; their criticisms are all
+too often premature, based on misunderstandings which a greater effort to take the text in
+its own terms and to interpret as a whole would have avoided.
+
+           4. Pitfalls of the New Historicism
+
+The chief goal of the new historicism, as advanced by Skinner and Tully, has been to understand the historical meaning of a text. Its method too could be summarized in three basic
+rules. First, identify the historical context behind a text, which consists in two dimensions,
+one of which is intellectual, i.e., what has been written on the same topic by contemporaries and predecessors, and the other of which is social and political, i.e., the current crises,
+problems, and conflicts of the culture in which the author is writing. Second, recover the
+intention of the author, the specific purposes for which he or she wrote at a specific time
+and place. Third, attempt as far as possible to understand the text from the standpoint of
+the person who wrote it. The chief reason that we do the history of philosophy, these historians tell us, is to escape the intellectual confines of our own age, to broaden our intellectual horizons by grasping the values and beliefs of another age. Only in this way do we
+attain full self-​k nowledge and the ability to discriminate between the contingent and necessary in the sphere of culture.33
+   These rules are all perfectly sound and important on their own, and following them
+would go a long way toward removing some of the problems that arise in applying the
+analytic method in an unhistorical way. However, taken as a complete or sufficient guide
+in the history of ideas, they are inadequate and reduce the history of philosophy down to
+history alone.
+   The main problem with the new historicism is that it has virtually abandoned the question of truth. It is not simply that it has found this question irrelevant for the sake of historical understanding: it thinks that attempting to pursue truth through historical texts
+leads nowhere. It has two reasons for bracketing the whole question of truth. First, it fears
+that criticism of a historical text is bound to be question-​begging, imposing the beliefs and
+values of our own time upon texts written in an age having different beliefs and values; in
+other words, criticism is bound to be anachronistic or ethnocentric. Second, it thinks that
+
+                           Skinner, “Meaning and Understanding”, pp. 52–​3.
+
+=== p. 516 ===
+
+once the meaning of a text has been sufficiently placed within its own context, then the
+question of truth becomes irrelevant, because the issues and arguments were important
+only at that time; they served ends peculiar to that historical context, and those ends have
+disappeared with history. Thus it is not of much interest to us now whether Hobbes’ arguments for absolute sovereignty are valid, because, when placed in their proper seventeenth-​
+century context, it becomes clear that all that was at stake was the powers of the monarch in
+seventeenth-​century Britain.
+   That the new historicists have pushed the matter to this extreme there should not be the
+slightest doubt. They have been explicit and emphatic enough. Skinner, while repudiating
+the charge of relativism to his methods, tells us fairly and squarely that “the suggestion that
+we need to consider the truth of the beliefs under examination is I think likely to strike the
+historian as strange.”34 The main aim of the intellectual historian, he declares, is “to serve as
+a recording angel, not a hanging judge … to recover the past and place it before the present,
+without trying to employ the local and defeasible standards of the present as a way of praising or blaming the past.”35 And Tully has defended bracketing the question of truth on the
+grounds that we have no universal standards of right and wrong.36
+   However, there are still reasons for thinking that the search for truth is vital to the history of ideas. The problem of abandoning it is not only the risk of antiquarianism: to do
+so also violates the historicist’s own rules by failing to honor an author’s intentions. It is
+almost always a vital part of the author’s intention, not only to respond to crises of his
+age, but also to address more general intellectual problems. Although his texts are very
+much the product of his context, they also make claims to truth about general issues which
+transcend the confines of his age. This is the case even for the most historically situated
+texts. Aristotle’s arguments about slavery, for example, are surely only comprehensible in
+the light of the politics of the Greek city state around the fifth century bc; yet they also
+claim to be true about human beings as such and to be valid for all societies. Hobbes’ theory
+of sovereignty, though a response to the civil conflicts of the 1640s, is still controversial
+because it pretends to outline an ideal government. We do not fully understand or appreciate Aristotle’s or Hobbes’ arguments if we limit them to their particular historical context,
+as if they were intended for their own age alone.
+   But insisting on making truth an intellectual objective of the history of philosophy raises
+a difficult question: How can the historian of philosophy criticize the past without lapsing
+into the very dangers of enthnocentrism and anachronism pointed out by the historicists?
+There was an old solution to this problem in the historicist tradition, one which is still valid
+today. This solution was worked out by Herder, Friedrich Schlegel, and Hegel in the late
+eighteenth and early nineteenth centuries, when they confronted a very similar problem in
+the wake of their own historicism. Refusing to drop the demand of criticism, yet still aware
+of the dangers of anachronism and ethnocentrism, Herder, Schlegel, and Hegel stressed
+the importance of an internal or immanent critique of a text. Attempting to criticize a
+text from an external standard, from some purported universal criterion of reason, they
+regarded with suspicion, because such standards and criteria all too often proved to be only
+
+            Skinner, “A Reply to My Critics”, p. 256.
+            Skinner, Machiavelli (Oxford: Oxford University Press, 1981), p. 88.
+         36 James Tully, “The pen is a mighty sword”, in Meaning and Context, pp. 19–​22.
+
+=== p. 517 ===
+
+the values of our age universalized for all mankind; applying them to a text and criticizing
+it through them was therefore bound to be question-​begging. So all sound and secure criticism should be made according to the goals and standards of the author himself.
+    This solution still seems to me to be plausible and promising. It indeed provides us with
+our middle path between the current dilemma of “epistemology” and “hermeneutics”.37 Of
+course, the method of internal critique does not tell us which standpoint is true, nor does it
+provide us with positive evidence of any kind. All that it permits us to do is to reject a standpoint; in Popperian terms, it serves only as a means of falsification rather than verification.
+Still, it would be a mistake to underrate the value of such a tool. There are many aspects of
+a text, besides simple consistency, that can be taken into account with such an internal critique: whether the author has achieved his own goals; whether he gives sufficient evidence
+for his premises; whether his premises entail his conclusions; whether and how his meaning is ambiguous; and so on. All aspects of the formal structure of a text, as well as whether
+the author follows his intentions, are fair game for the critic.
+    It is important to do away with the common assumption, then, that all criticism somehow does violence to texts, as if it were always necessarily imposed by some alien hand.
+If we are skilled practitioners of internal criticism, then we have a right to say that texts
+simply criticize themselves, or, as Hegel put it, they “suffer violence at their own hands”.
+Such internal criticism is not only possible but necessary, imposed by the very nature of a
+philosophical text. As Lovejoy, who always insisted on the value of criticism in the history
+of ideas, put it:
+
+       When a man has given a reason for his belief, his moral approbation or disapprobation, his
+       aesthetic preference, he is—​happily or otherwise—​caught in a trap; for the reason is likely
+       to entail, or to seem to entail, consequences far beyond and, it may be, contrary to, the desire
+       which generated it.38
+
+   Besides its forfeiture of criticism, there is another problem with the method of the new
+historicism. While its rules are perfectly sound as far as they go, we must not take them
+too far, as if they were sufficient for a full understanding of a text. Its rules seem to reduce
+understanding down to its historical dimensions, i.e., knowing the author’s intentions and
+context. But the problem is that even if we knew everything about these historical factors,
+we would still have a weak understanding of a philosophical text. They leave out of account
+the logical dimension of a text, its internal formal structure. Such a structure involves what
+we might call its “logical geography”, which comprises such factors as: 1) the premises necessary to justify a proposition; 2) the implications or consequences of a proposition; 3) the
+various meanings of central terms, 4) whether sufficient evidence is offered for a proposition; 5) internal contradictions, and so on. We say that we have understood a text only when
+we know this logical geography, only when we have learned to play with or manipulate its
+fundamental concepts to see what follows from them and what they depend upon. This is
+understanding in a deeper sense than simply knowing the historical context and intention,
+
+      This dilemma is posed by Rorty in his Philosophy and the Mirror of Nature (Princeton,
+N.J.: Princeton University Press, 1979), pp. 315–​94. That this is a false dilemma is fully recognized by
+  38 Lovejoy, “Reflections on the History of Ideas”, p. 19.
+
+=== p. 518 ===
+
+for it involves the interpreters active appropriation and assimilation of the structure of the
+author’s thought. Here we no longer learn but also explore.
+   In general, to understand and interpret a work involves knowing both dimensions, its
+innner structure and coherence, as well as its intention and context. If we admit that knowing the inner structure of a text, its logical geography, is central to its understanding, then
+it becomes difficult to separate the domains of interpretation and criticism, of historical
+explanation and philosophical truth. For in determining the logical structure of a text,
+we are also testing its concepts, stretching them to see what consequences they have and
+what basic facts they explain. In exploring that geography we inevitably come across problems, apparent inconsistencies and inadequacies, because we fail to find internal coherence
+and unity.
+   But if it is difficult to separate the tasks of historical understanding and philosophical
+criticism, then it is legitimate to demand that the historical method be complemented by
+the analytic one. For what the historicists have always demanded is that we have the deepest possible understanding of a text, that the task of understanding the past involves “trying as far as possible to think as they thought and to see things in their way”.39 But this
+entails not only knowing an author’s intentions and context, but also knowing the logical
+geography of a work, grasping “the logical powers” of its central contentions, for these too
+determine how an author understands his world.
+
+      5. The Role of Intentions in the History
+                   of Philosophy
+
+From all I have said so far in criticism of the analytic and historical methods, it follows that
+the best method of the history of philosophy is a synthesis of both. This synthesis would
+consist in reconstructing arguments on the basis of their historical context, and appraising
+them according to an internal critique. This would ensure that we are reconstructing arguments accurately, and that we are appraising them fairly, not begging questions against
+them by imposing standards of our own upon them. Rather than wasting our time and
+energy on bashing a straw man, we would at least know that we are engaging some actual
+historical figure.
+   Such a synthesis would keep alive a sense in which the history of philosophy is a search
+for truth, though, admittedly, it would secure this sense in a rather modest way. We would
+be able to determine what is true or false only within the context of a particular text, or only
+with respect to the views of a particular historical thinker. We would be far from having
+a knowledge of what is true or false on any general issue. Still, this is not a negligible gain,
+given that the internal critique of another philosopher is the first step in forming one’s own
+philosophical views. I take it that this is what Bennett meant when he claimed to be learning philosophy from the criticism of a historical text. If this is so, his enterprise is sound
+and laudable.
+
+=== p. 519 ===
+
+    However, if we limit the history of philosophy to the synthesis of these methods as I have
+described them so far, something would still be missing from it. I have described this synthesis as if the chief goal of the history of philosophy were the reconstruction and appraisal
+of arguments. But this should not be the sole goal of the history of philosophy. Simply to
+reconstruct and appraise arguments is never sufficient in the history of philosophy for the
+simple reason that it alone does not tell us why someone put forward an argument in the
+first place. The historian of philosophy should not just be a logician who concerns himself with the validity of arguments given by the great dead philosophers in times past: he
+also needs to know why someone made these arguments—​t he purpose, motive or intention
+behind them. To this extent, Skinner is entirely correct in emphasizing the importance of
+an author’s intention in historical understanding.
+    Why should we bother with knowing the author’s intention, his motives in putting forward an argument? It is because by this means we can see why ideas and arguments are
+important to people, why they matter to them. This alone shows us what is at stake in intellectual discourse. To ignore intentions and motives, as if the only or essential concern of the
+historian of philosophy were with the truth of ideas and the validity of arguments, is naive.
+It is not a simple concern for the truth as such that motivates people to make arguments: as
+a matter of historical fact, they also have moral, political, and religious ends, which determine what they regard as the truth.
+    As soon as we add the concern with intentions and motives to the history of philosophy, it inevitably becomes a much more historical discipline. For to uncover these motives,
+we have to do detailed historical research. We need to know biographical facts about the
+author, including his or her religious beliefs or political allegiances, and we need to know
+how they were placed in the context of the religious, cultural, and political struggles of the
+day. A concern with these motives, and the historical facts necessary to understand them,
+had always been central to the historicist tradition, and it is not least in this respect that
+many of its works are still illuminating.
+    Some historians of philosophy, however, have stoutly resisted adding this dimension to
+their discipline.40 To them, it seems to threaten the autonomy of philosophy, to sully its
+concern with the pure logic of arguments where questions of validity alone matter. The
+internal critique of a philosopher’s work, they argue, should assess it on the basis of philosophical reasons alone, regardless of the author’s motives in writing it. We should explain
+and assess a philosopher’s views only in light of his conversation with other philosophers,
+these philosophical historians insist, and not go outside philosophical discourse, looking for non-​philosophical motives, unless there is some kind of breakdown in the philosophical reasoning of the author which makes it impossible to understand him purely
+philosophically.41
+    But this conception of the autonomy of philosophy is a philosopher’s fiction: it is false
+that philosophers are such a-​historical beings, such purely rational beings concerned
+
+   40 See Michael Frede, Essays in Ancient Philosophy (Minneapolis: University of Minnesota Press,
+
+1987), xv–​x vii; and his “The History of Philosophy as a Discipline”, The Journal of Philosophy 85
+(1988), 666–​72, pp. 670–​1. See also Jorge Gracia, Philosophy and its History (Albany: SUNY Press,
+1992) pp. 221–​34; and Calvin Normore, “Doxology and the History of Philosophy”, Canadian Journal
+of Philosophy, 20 Supplementary Volume 16 (1990), 203–​26, p. 222.
+   41 Thus Frede, Essays, p. xv.
+
+=== p. 520 ===
+
+with only the truth as such; even when there are the best philosophical reasons for holding a position, a philosopher will usually have moral, religious, and political motives for
+propounding it. It should not be only in exceptional cases, when the philosophical argument breaks down, when we resort to explanation by intention: this should be a constant
+effort on the part of the historian of philosophy, even when a philosophical explanation is
+perfectly illuminating on its own. This conception of philosophy presents us with a false
+dilemma: either reasons or causes; and only when we can find no reasons should we resort
+to causes. But there are almost always reasons and causes. It is only in the most abstract
+and abstruse areas of metaphysics and logic that a philosopher’s reasons are also likely to
+be the sole causes, though, often enough, even in these rarified realms we can usually trace
+a moral, religious, and political motive at work. No one should assume that metaphysics,
+just because it is abstract and arcane, escapes history. Descartes’ Meditations, despite its a-​
+historical pretensions, is a defense of the Roman Catholic Church; Berkeley’s Principles are
+an apology for his High-​Church politics against materialists, free-​t hinkers and skeptics;
+and Hegel’s Logik grew out of his attempt to find reason in history, a position intended as a
+middle path between radicals and reactionaries.
+   Some philosophers complain that raising questions of intentions and motives confuse
+questions about the origins of a belief with questions about its justification. They commit
+nothing less than the “genetic fallacy”, as if simply knowing the motives behind a proposition or argument were sufficient to discredit it. Appraising the motives is a very different business, they say, from assessing the argument. An argument put forward with the
+best motives can be fallacious; and an argument motivated by the basest motives can be
+formally valid.
+   These warnings about a genetic fallacy are well taken, but there is no reason why addressing the question of an author’s intentions should fly in their face. We can investigate the
+motives behind a philosophy without claiming that these motives alone validate or discredit its ideas and arguments. The investigation of these motives should have for its
+purpose historical understanding rather than philosophical truth. It tells us why the philosopher made the argument, though it reveals nothing about its formal validity or truth.
+   That said, there is still an extent to which knowing the purpose or motive behind an
+argument does add an extra dimension to its appraisal. We can now ask whether the author
+achieves the purpose he or she intended through argument, whether it suffices for his or her
+ends. If the argument were true, would it fully establish what the author intended? Would it
+really support his or her cause? In assessing an argument in this way we are not committing
+the genetic fallacy, because it is one thing to ask whether an argument serves an author’s
+ends and quite another to disregard it because one disapproves of his or her ends.
+
+                6. Historicism and Relativism
+
+One might admit all these points about an author’s intentions but still have qualms about a
+more historical approach to the history of philosophy, especially one that introduces questions about a philosopher’s motives and historical context. The chief worry here is relativism. If a philosophy is the product of the author’s moral, religious, or political motives, and
+
+=== p. 521 ===
+
+if morals, religion, and politics change over time, then there is the danger that philosophy
+too will become completely historical, that truth itself will depend on and vary with culture
+and epoch.
+   Judging from history, the danger of relativism is indeed not exaggerated. Some historicist thinkers, viz., Dilthey, came close to relativism, even if they did not expound it, and
+the relativism later proclaimed by Nietzsche and Spengler had its roots in the historicist
+tradition. The classic statement of historicist relativism is Hegel’s famous dictum that every
+philosophy is the self-​consciousness of its own age, that it is “its own time comprehended in
+thought.”42 It was because of statements like Hegel’s that relativism became the chief objection to historicism for decades. Indeed, in the early decades of the twentieth century, historicism was virtually synomous with relativism.
+   Are these fears of relativism overstated? This raises a very large question that we cannot fully pursue here. But we can go some way toward resolving the anxiety if we examine
+the rationale for Hegel’s statement and see whether it had the dire consequences so often
+attributed to it.
+   Part of the basis for Hegel’s dictum was his social anthropology, one common to the
+historicist tradition. According to that social anthropology, the very identity of a human
+being depends on the society and culture of which he or she is a part; the needs,values
+and beliefs of each person are the product of education, which forms everyone according to the specific values and beliefs of a culture. This social anthropology was a reaction
+against the anthropology of the Enlightenment, according to which there is a universal
+human nature which remains the same in all cultures and all epochs, as if each individual has its fixed identity no matter the specific culture or epoch to which it belongs.
+If we hold that the identity of an individual is formed by society and culture, and if
+we also hold that societies and cultures change throughout time, then we must deny
+that individual identity is self-​sufficient and permanent. We have to say instead that the
+individual is an essentially plastic, historical being. Its beliefs, values, and needs will be
+the product of its time and place.
+   Another part of the rationale for Hegel’s dictum was a theory of meaning, which
+first appeared in Hamann and Herder, but which later became a common doctrine
+of the historicist tradition. Its classic expression appears in Wilhelm von Humboldt’s
+essays on language. This theory tells us that the meaning of a word very much depends
+on the specific context and language in which it is embodied; we can grasp that meaning in its fullness only insofar as we know the language in which it is expressed and the
+culture in which it is situated. If we ask about the meaning of a word in any language,
+we have to ask ourselves how it is used by speakers and writers in that culture and language at that specific time and place. Through translation we can make equivalences
+to the languages and cultures of other people, but all translation is a form of abstraction, and often much is lost through it, viz., the very particularity and uniqueness that
+gives a word its full and concrete meaning. It is no accident that Hamann and Herder
+developed their theory in studying the poetry of different cultures, where the individual identity of words and phrases, their flavor and nuance, is most evident and important; while they hesitated to apply it to science, they were less wary about applying it
+
+       Hegel, “Vorrede”, Grundlinien der Philosophie des Rechts (Berlin: Nicolai, 1821), pp. xxi–​x xii.
+
+=== p. 522 ===
+
+to philosophy, where the meaning of central concepts is also determined by culture
+and usage.
+   Both these premises—​t he social anthropology and theory of meaning—​make philosophy very much a historical enterprise. Both what I say, and why I say it, will be historically
+conditioned and determined. The theory of meaning entails that what I say—​t he very content of my statements—​w ill depend on my language and cultural context. What I mean
+will be determined both by the rules of my language at a particular time and place, and
+by my place in a conversation at a particular time and place, i.e, by what I intend to say
+in relation to past interlocuters. The social anthropology means why I say something also
+depends on the social and historical context. The central ideals behind a philosophy, the
+basic values that motivate it, are going to be historical because they will be the product of a
+specific culture and epoch.
+   Although philosophy is, in all these ways, deeply historical, it still does not follow that is
+entirely so and that all truth in philosophy must be relative. There is still an aspect of philosophy that is a-​historical, which has to do with its logic, with the relations between propositions whatever the meaning of the propositions themselves. Given the meaning of the
+basic terms, however historically caused and constituted, when placed in propositions we
+can determine with universality and necessity their logical relation to other propositions.
+What a proposition implies, what it follows from, how it is compatible or incompatible with
+other propositions, are matters of sheer logic, and they will be valid for anyone who understands the meaning of its terms from the context in which they take place. Assuming that
+we know all the historically relevant facts that determine meaning, we can evaluate the
+strengths and weaknesses of the arguments of a philosopher, assured that our assessment is
+valid for everyone alike.
+   In his A Study of Spinoza’s Ethics Jonathan Bennett tells us that he read Spinoza’s great
+work because he wanted to learn philosophy from it, and because he hoped to discover
+“philosophical truth”.43 In the light of historicism this all sounds very naive. Yet, as we have
+seen, no historicist, no matter how relativist, can undermine the value and validity of an
+internal critique of a philosopher, provided that it is properly historically informed. It is at
+least in this limited and qualified sense that the search for truth has its place in the history
+of philosophy.
+   In the end, then, neither the introduction of an author’s intentions nor the historical
+study of context should undermine the philosophical search for truth in the history of philosophy. The history of philosophy can be both history and philosophy in equal measure,
+and it can be pursued as a single discipline.
+   Of course, these are demands of a high order, because our historian of philosophy
+will be both philosopher and historian, a master at Begriffsspiel and a maestro of history. He or she will learn to endure with patience and compassion the criticisms of
+colleagues, who complain about veering too much toward history or too much toward
+philosophy. Above all, he or she will know how to revere and pay dues to the two gods
+of his discipline: content and context. Both these gods are very jealous; but for just
+that reason the historian of philosophy will always do best by serving them in equal
+measure.
+
+                             Bennett, A Study of Spinoza’s Ethics, pp. 15, 35.
+
+=== p. 523 ===
+
+References
+Beiser, Frederick, The German Historicist Tradition. Oxford: Oxford University Press, 2011.
+Bennet, Jonathan, Kant’s Dialectic. Cambridge: Cambridge University Press, 1974.
+Bennet, Jonathan, Kant’s Analytic. Cambridge: Cambridge University Press, 1966.
+Bennet, Jonathan, A Study of Spinoza’s Ethics. Indianapolis: Hackett, 1984.
+Bennet, Jonathan, “Response to Garber and Rée”, in Doing Philosophy Historically, ed. Peter
+  Hare. Buffalo: Prometheus Books, 1988, 62–​9.
+Frede, Michael, “The History of Philosophy as a Discipline”, The Journal of Philosophy 85
+  (1988), 666–​72.
+Frede, Michael, Essays in Ancient Philosophy. Minneapolis: University of Minnesota
+  Press, 1987.
+Collingwood, R.G., The Idea of History. Oxford: Oxford University Press, 1946.
+Dunn, John, “The Identity of the History of Ideas”, Philosophy 43 (1968), 85–​104.
+Gracia, Jorge, Philosophy and its History. Albany: SUNY Press, 1992.
+ Hegel, G. W. F., Grundlinien der Philosophie des Rechts. Berlin: Nicolai, 1821.
+Iggers, Georg, “Historicism”, in Dictionary of the History of Ideas. New York: Scribner, 1973.
+  II, 456–​64.
+Kristeller, Paul, “Philosophy and its Historiography”, The Journal of Philosophy 82 (1985),
+Lees, Dwight and Beck, Robert, “The Meaning of Historicism”, American Historical Review
+  59 (1953–​54), 568–​77.
+Lovejoy, Arthur, “Reflections on the History of Ideas”, The Journal of the History of Ideas 1
+  (1940), 3–​23.
+Meier, H. G., “Begriffsgeschichte”, Historisches Wörterbuch der Philosophie, ed. Joachim
+  Ritter. Basel: Schwabe, 1971, I, 788–​808.
+Normore, Calvin, “Doxology and the History of Philosophy”, Canadian Journal of Philosophy
+  20, Supplementary Volume 16 (1990), 203–​26.
+Popper, Karl, The Poverty of Historicism. London: Routledge, 1957.
+Rawls, John, A Theory of Justice. Revised Edition. Cambridge, MA: Harvard University
+  Press, 1999.
+Rothacker, Erich, ed., Archiv für Begriffsgeschichte. Bonn: Bouvier, 1955.
+Rothacker, Erich, “Historismus”, Schmollers Jahrbuch 62 (1938), 388–​99.
+Rothacker, Erich, “Das Wort ‘Historismus’”, Zeitschrift für deutsche Wortforschung 16
+  (1960), 3–​6.
+Rorty, Richard, “The historiography of philosophy: Four genres”, in Philosophy in History, ed.
+  Richard Rorty, J. B. Schneewind and Quentin Skinner. Cambridge: Cambridge University
+  Press, 1984. pp. 49–​76.
+Rorty, Richard, Philosophy and the Mirror of Nature. Princeton, N.J.: Princeton University
+  Press, 1979.
+Scholtz, Gunter, “Historizismus”, in Historisches Wörterbuch der Philosophie. Stuttgart:
+  Schwabe, 1974. III, 1141–​7.
+Skinner, Quentin, “Meaning and Understanding in the History of Ideas”, History and Theory
+  8 (1969), 3–​53.
+Skinner, Quentin, “Social Meaning and the Explanation of Social Action”, Philosophy, Politics
+  and Society (fourth series), eds. Peter Laslett, W. G. Runcimann, and Quentin Skinner.
+  Oxford: Blackwell, 1972. pp. 136–​57.
+
+=== p. 524 ===
+
+Skinner, Quentin, “Motives, Intentions and the Interpretation of Texts”, in On Literary
+   Intentions, ed. D. Newton de Molina. Edinburgh: Edinburgh University Press, 1976. pp.
+Skinner, Quentin, “A Reply to My Critics”, in Meaning and Context, ed. James Tully.
+   Princeton: Princeton University Press, 1988. pp. 231–​88.
+Skinner, Quentin, Machiavelli. Oxford: Oxford University Press, 1981.
+Strawson, Peter, The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason.
+   London: Metheun, 1966.
+Thornhill, Christopher, “Historicism”, Routledge Encyclopedia of Philosophy. London:
+   Routledge, 1988. IV, 443–​6.
+ Tully, James, “The pen is a mighty sword”, in Meaning and Context, ed. James Tully.
+   Cambridge: Polity Press, 1988), 7–​25.
+Walsh, W. H., The Philosophy of History: An Introduction. London: Hutchinson & Co., 1951.
+Wolfson, Henry, The Philosophy of Spinoza. Cambridge, MA: Harvard University Press, 1934.
+

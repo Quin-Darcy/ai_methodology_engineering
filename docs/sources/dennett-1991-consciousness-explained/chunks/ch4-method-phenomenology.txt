@@ -1,0 +1,1216 @@
+=== chunk: dennett-1991-consciousness-explained/ch4-method-phenomenology ===
+title: A Method for Phenomenology
+source_pdf: docs/sources/dennett-1991-consciousness-explained/full.pdf
+pdf_pages: 81-115
+page_scheme: book
+plan_page_start: 66
+plan_page_end: 100
+extracted_pages: 34 (plan nominally 35; trailing blank trimmed)
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 66 ===
+
+                                             A METHOD FOR
+                                        PHENOMENOLOGY
+
+      1. FIRST PERSON PLURAL
+
+       You don't do serious zoology by just strolling through the zoo,
+ noting this and that, and marveling at the curiosities. Serious zoology
+ demands precision, which depends on having agreed-upon methods of
+ description and analysis, so that other zoologists can be sure they understand what you're saying. Serious phenomenology is in even greater
+ need of a clear, neutral method of description, because, it seems, no
+ two people use the words the same way, and everybody's an expert. It
+ is just astonishing to see how often "academic" discussions of phenomenological controversies degenerate into desk-thumping cacophony, with everybody talking past everybody else. This is all the more
+ surprising, in a way, because according to long-standing philosophical
+ tradition, we all agree on what we find when we "look inside" at our
+ own phenomenology.
+       Doing phenomenology has usually seemed to be a reliable communal practice, a matter of pooling shared observations. When Des-cartes wrote his Meditations as a first-person-singular soliloquy, he
+clearly expected his readers to concur with each of his observations,
+by performing in their own minds the explorations he described, and
+getting the same results. The British Empiricists, Locke, Berkeley, and
+Hume, likewise wrote with the presumption that what they were doing,
+much of the time, was introspecting, and that their introspections
+would be readily replicated by their readers. Locke enshrined this presumption in his Essay Concerning Human Understanding (1690) by
+
+=== p. 67 ===
+
+                                 A METHOD FOR PHENOMENOL.OGY         67
+
+calling his method the "historical, plain method" — no abstruse deductions or a priori theorizing for him, just setting down the observed
+facts, reminding his readers of what was manifest to all who looked.
+In fact, just about every author who has written about consciousness
+has made what we might call the first-person-plural presumption:
+Whatever mysteries consciousness may hold, we (you, gentle reader,
+and I) may speak comfortably together about our mutual
+the things we both find in our streams of consciousness. And with a
+few obstreperous exceptions, readers have always gone along with the
+conspiracy.
+      This would be fine if it weren't for the embarrassing fact that
+controversy and contradiction bedevil the claims made under these
+conditions of polite mutual agreement. We are fooling ourselves about
+something. Perhaps we are fooling ourselves about the extent to which
+we are all basically alike. Perhaps when people first encounter the
+different schools of thought on                        they join the school
+that sounds right to them, and each school of        phenomenological      description is basically right about its own members'        sorts of inner life,
+and then just innocently overgeneralizes, making unsupported claims
+about how it is with everyone.
+       Or perhaps we are fooling ourselves about the high reliability of
+Introspection, our personal powers of self-observation of our own conscious minds. Ever since Descartes and his "cogito ergo sum," this
+capacity of ours has been seen as somehow immune to error; we have
+privileged access to our own thoughts and feelings, an access guaranteed to be better than the access of any outsider. ("Imagine anyone
+ trying to tell you that you are wrong about what you are thinking and
+ feeling!") We are either "infallible" — always guaranteed to be right —
+ or at least "incorrigible" — right or wrong, no one else could correct
+ us (Rorty, 1970).
+       But perhaps this doctrine of infallibility is just a mistake, however
+ well entrenched. Perhaps even if we are all basically alike in our phenomenology, some observers just get it all wrong when they try to
+ describe it, but since they are so sure they are right, they are relatively
+ invulnerable to correction. (They are incorrigible in the derogatory
+ sense.) Either way, controversy ensues. And there is yet another possibility, which I think is much closer to the truth: what we are fooling
+ ourselves about is the idea that the activity of "introspection" is ever
+ a matter of just "looking and seeing." I suspect that when we claim to
+ be just using our powers of inner observation, we are always actually
+ engaging in a sort of impromptu theorizing — and we are remarkably
+
+=== p. 68 ===
+
+   gullible theorizers, precisely because there is so little to "observe" and
+   so much to pontificate about without fear of contradiction. When we
+   introspect, communally, we are really very much in the position of the
+   legendary blind men examining different parts of the elephant. This
+   seems at first to be a preposterous idea, but let us see what can be said
+   for it.
+         Did anything you encountered in the tour of the phenom in the
+   previous chapter surprise you? Were you surprised, for instance, that
+  you could not identify the playing card until it was almost dead center
+  in front of you? Most people, I find, are surprised — even those who
+  know about the limited acuity of peripheral vision. If it surprised you,
+  that must mean that had you held forth on the topic before the surprising
+  demonstration, you would very likely have got it wrong. People often
+  claim a direct acquaintance with more content in their peripheral visual
+  field than in fact they have. Why do people make such claims? Not
+  because they directly and incorrigibly observed themselves to enjoy
+  such peripheral content, but because it seems to stand to reason. After
+  all, you       notice any gaping blanks in your visual field under normal
+  conditions, and surely if there was an area there that            positively
+  colored,          notice the discrepancy, and besides, everywhere you
+  look, there you find everything colored and detailed. If you think that
+ your subjective visual field is basically an inner picture composed of
+ colored shapes, then it stands to reason that each portion of the canvas
+ must be colored some color — even raw canvas is some color! But that
+ is a conclusion drawn from a dubious model of your subjective visual
+ field, not anything you directly observe. -
+         Am I saying we have absolutely no privileged access to our conscious experience? No, but I am saying that we tend to think we are
+ much more immune to error than we are. People generally admit, when
+ challenged in this way about their privileged                that they don't
+ have any special access to the causes and effects of their conscious
+ experiences. For instance, they may be surprised to learn that they taste
+ with their noses or hear bass notes through their            but they never
+ claimed to be authoritative about the causes or sources of their experiences. They are authoritative, they say, only about the experiences
+themselves, in isolation from their causes and effects. But although
+people may say they are ciaiming authority only about the isolated
+contents of their experiences, not their causes and effects, they often
+overstep their self-imposed restraints. For instance, would you be prepared to bet on the following propositions? (I made up at least one of
+them.)
+
+=== p. 69 ===
+
+     (1) You can experience a patch that is red and green all over at
+         the same time — a patch that is both colors (not mixed) at
+         once.
+     (2) If you look at a yellow circle on a blue background (in good
+         light), and the luminance or brightness of the yellow and blue
+         are then adjusted to be equal, the boundary between the yellow
+         and blue disappears.
+     (3) There is a sound, sometimes called the auditory barber pole,
+         which seems to keep on rising in pitch forever, without ever
+         getting any higher.
+     (4) There is an herb an overdose of which makes you incapable
+         of understanding spoken sentences in your native language.
+         Until the effect wears off, your hearing is unimpaired, with
+         no fuzziness or added noise, but the words you hear sound to
+         you like an entirely foreign language, even though you somehow know they aren't.
+     (5) if you are blindfolded, and a vibrator is applied to a point on
+         your ann while you touch your nose, you will feel your nose
+         growing like Pinocchio's; if the vibrator is moved to another
+         point, you will then have the eerie feeling of pushing your
+          nose inside out, with your index finger coming to rest somewhere inside your skull.
+      In fact, I made up number 4, though for all I know it might be
+true. After all, in the well-studied neuropathology called prosopagno-sia, your vision is completely unimpaired and you can readily identify
+most things by sight, but the faces of your closest friends and associates
+are entirely unrecognizable.' My point, once again, is not that you have
+no privileged access to the nature or content of your conscious experience, but just that we should be alert to vety tempting overconfidence
+on that score.
+      During the guided tour of the phenom, I proposed a number of
+simple experiments for you to do. This was not in the spirit of "pure"
+phenomenology. Phenomenologists tend to argue that since we are
+not authoritative about the physiological causes and effects of our
+phenomenology, we should ignore such causes and effects in our at-
+
+      I. For the red and green patch, see Crane and Piantanida (1983) and Hardin (1988);
+for the disappearing color boundary, the Liebmann (1927) effect. see Spiliman and Werner
+(1990): for the auditory barber pole, see Shepard (1964): for the Pinocchio effect. see
+Lackner (1988). For more on prosopagnosia. see Damasio. Damasio. and Van Floesen
+(1982); Tranel and Damasio (1988); Tranel, Damasio and Damasio (1988).
+
+=== p. 70 ===
+
+ tempt to give a pure, neutral, pretheoretical description of what we
+ find "given" in the course of everyday experience. Perhaps, but then
+ just see how many curious denizens of the phenom we would never
+ even meet! A zoologist who attempted to extrapolate the whole science
+ from observation of a dog, a cat, a horse, a robin, and a goldfish would
+ probably miss a few things.
+
+      2. THE THIRD-PERSON PERSPECTIVE
+
+      Since we are going to indulge in impure phenomenology, we need
+ to be more careful than ever about method. The standard perspective
+ adopted by phenomenologists is Descartes's first-person perspective,
+ in which I describe in a monologue (which I let you overhear) what I
+ find in my conscious experience, counting on us to agree. I have tried
+ to show, however, that the cozy complicity of the resultingfirst-personplural perspective is a treacherous incubator of errors. in the history
+ of psychology, in fact, it was the growing recognition of this methodological problem that led to the downfall of Introspectionism and the
+ rise of Behaviorism. The Behaviorists were meticulous about avoiding
+ speculation about what was going on in my mind or your mind or his
+ or her or its mind. In effect, they championed the third-person perspective, in which only facts garnered "from the outside" count as data.
+ You can videotape people in action and then measure error rates on
+ tasks involving bodily motion, or reaction times when pushing buttons
+ or levers, pulse rate, brain waves, eye movements, blushing (so long as
+ you have a machine that measures it objectively), and galvanic skin
+ response (the electrical conductivity detected by "lie detectors"). You
+ can open up subjects' skulls (surgically or by brain-scanning devices)
+ to see what is going on in their brains, but you must not make any
+ assumptions about what is going on in their minds, for that is something
+you         get any data about while using the intersubjectively verifiable
+methods of physical science.
+      The idea at its simplest was that since you can never "see directly"
+into people's minds, but have to take their word for it, any such facts
+as there are about mental events are not among the data of science,
+since they can never be properly verified by objective methods. This
+methodological scruple, which is the ruling principle of all experimental psychology and neuroscience today (not just "behaviorist" research), has too often been elevated into one or another ideological
+principle, such as:
+
+=== p. 71 ===
+
+     Mental events don't exist. (Period! — this has been well called
+       "barefoot behaviorism.")
+     Mental events exist, but they have no effects whatever, so science
+      can't study them (epiphenomenalism — see chapter 12, section
+        5).
+     Mental events exist, and have effects, but those effects can't be
+      studied by science, which will have to content itself with theories of the "peripheral" or "lower" effects and processes in
+      the brain. (This view is quite common among neuroscientists,
+       especially those who are dubious of "theorizers." It is actually
+       dualism; these researchers apparently agree with Descartes that
+       the mind is not the brain, and they are prepared to settle for
+       having a theory of the brain alone.)
+
+     These views all jump to one unwarranted conclusion or another.
+Even if mental events are not among the data of science, this does not
+mean we cannot study them scientifically. Black holes and genes are
+not among the data of science, but we have developed good scientific
+theories of them. The challenge is to construct a theory of mental events,
+using the data that scientific method permits.
+     Such a theory will have to be constructed from the third-person
+point of view, since all science is constructed from that
+Some people will tell you that such a theory of the conscious mind is
+impossible. Most notably, the philosopher Thomas Nagel has claimed
+that
+
+     There are things about the world and life and ourselves that cannot
+     be adequately understood from a maximally objective standpoint,
+     however much it may extend our understanding beyond the point
+     from which we started. A great deal is essentially connected to a
+     particular point of view, or type of point of view, and the attempt
+     to give a complete account of the world in objective terms detached
+     from these perspectives inevitably leads to false reductions or to
+     outright denial that certain patently real phenomena exist at all.
+     [Nagel, 1986, p. 7]
+
+We shall see. It is premature to argue about what can and can't be
+accounted for by a theory until we see what the theory actually says.
+But if we are to give a fair hearing to a theory, in the face of such
+skepticism, we will need to have a neutral way of describing the data —
+a way that does not prejudge this issue. It might seem that no such
+
+=== p. 72 ===
+
+ method could exist, but in fact there is such a neutral method, which
+ I   will first describe, and then adopt.
+
+        3. THE METHOD OF HETEROPHENOMENOLOGy2
+
+      The term is ominous; not just phenomenology but heterophenom-enology. What can it be? It is in fact something familiar to us all, layman
+ and scientist alike, but we must introduce it with fanatical caution,
+ noting exactly what it presupposes and implies, since it involves taking
+a giant theoretical step. Ignoring all tempting shortcuts, then, here is
+ the neutral path leading from objective physical science and its insistence on the third-person point of view, to a method of phenomenological description that can (in principle) do justice to the most
+private and ineffable subjective experiences, while never abandoning
+the methodological scruples of science.
+      We want to have a theory of consciousness, but there is controversy about just which entities have consciousness. Do newborn human
+babies? Do frogs? What about oysters, ants, plants, robots, zombies. .
+We should remain neutral about all this for the time being, but there
+is one class of entities that is held by just about everyone to exhibit
+consciousness, and that is our fellow adult human beings.
+      Now, some of these adult human beings may be zombies — in the
+philosophers' "technical" sense. The term zombie apparently comes
+from Haitian voodoo lore and refers, in that context, to a "living dead"
+person, punished for some misdeed and doomed to shuffle around,
+mumbling and staring out of dead-looking eyes, mindlessly doing the
+bidding of some voodoo priest or shaman, We have all seen zombies
+in horror movies, and they are iiumediately distinguishable from normal people. (Roughly speaking, Haitian zombies can't dance, tell jokes,
+hold animated philosophical discussions, keep up their end in a witty
+conversation — and they look just               But philosophers use the
+
+     2. This and the following sections draw on several earlier accounts of mine of the
+methodological underpinnings of heterophenomenology: Dennett (1978c. 1982a).
+       3. Several years ago. Wade Davis, a young Harvard-trained anthropologist, announced that he had deciphered the mystery of voodoo zombies, and in his book The
+Serpent and the Hainbow (1985) described the neuropharmacological potion prepared
+by voodoo practitioners that can putatively put human beings into a deathlike state: after
+being buried alive for several days. these unfortunate people are sometimes exhumed
+and given a hallucinogen that causes some disorientation and amnesia. As a result of
+either the hallucinogen or brain damage caused by oxygen deprivation during their
+entombment, they then do indeed shuffle about roughly the way the zombies in the
+
+=== p. 73 ===
+
+term zombie for a different category of imaginary human being. According to common agreement among philosophers, a zombie is or
+would be a human being who exhibits perfectly natural, alert, loquacious, vivacious behavior but is in fact not conscious at all, but rather
+some sort of automaton. The whole point of the philosopher's notion
+of zombie is that you can't tell a zombie from a normal person by
+examining external behavior. Since that is all we ever get to see of
+our friends and neighbors, some of your best friends may be zombies.
+That, at any rate, is the tradition I must be neutral about at the outset. So, while the method I describe makes no assumption about the
+actual consciousness of any apparently normal adult human beings,
+it does focus on this class of normal adult human beings, since if consciousness is anywhere, it is in them. Once we have seen what the
+outlines of a theory of human consciousness might be, we can turn
+our attention to the consciousness (if any) of other species, including chimpanzees, dolphins, plants, zombies, Martians, and pop-up
+toasters (philosophers often indulge in fantasy in their thought experiments).
+      Adult human beings (henceforth, people) are studied in many
+sciences. Their bodies are probed by biologists and medical researchers,
+nutritionists, and engineers (who ask such questions as: How fast can
+human fingers type? What is the tensile strength of human hair?). They
+are also studied by psychologists and neuroscientists, who place individual people, called subjects, in various experimental situations.
+For most experiments, the subjects first must be 'categorized and prepared. Not only must it be established how old they are, which gender,
+right- or left-handed, how much schooling, and so forth, but they must
+be told what to do. This is the most striking difference between human
+subjects and, say, the biologist's virus cultures, the engineer's samples
+of exotic materials, the chemist's solutions, the animal psychologist's
+rats, cats, and pigeons.
+      People are the only objects of scientific study the preparation of
+which typically (but not always) involves verbal communication. This
+ is partly a matter of the ethics of science: people may not be used in
+ experiments without their informed consent, and it is simply not
+
+movies do, and on occasion they may have been enslaved. Because of the sensational
+nature of Davis's claims (and the film loosely based on his novelistic book). his discoveries
+have met with an undercurrent of skepticism in some quarters, but these are well rebutted
+in a second, more scholarly, book, Passage of DQrkness: The Ethnobiology of the Haitian
+Zombie (1988). See also Booth (1988) and Davis (1988b).
+
+=== p. 74 ===
+
+ possible to obtain informed consent without verbal interaction. But
+ even more important, from our point of view, is the fact that verbal
+ communication is used to set up and constrain the experiments. Subjects are asked to perform various intellectual tasks, solve problems,
+  look for items in displays, press buttons, make judgments, and so forth.
+  The validity of most experiments depends on this preparation being
+  done uniformly and successfully. if it turns out, for instance, that the
+  instructions were given in Turkish to subjects whose only language was
+  English, the failure of the experiment is pretty well guaranteed. In fact,
+  evidence of even minor misunderstandings of instructions can compromise experiments, so it is a matter of some concern that this practice
+ of preparing human subjects with verbal communication be validated.
+        What is involved in this practice of talking to subjects? It is an
+ ineliminable element in psychological experiments, but does it presuppose the consciousness of the subjects? Don't experimenters then
+ end up back with the Introspectionists, having to take a subject's un-testable word for what he or she understands? Don't we run some risk
+ of being taken in by zombies or robots or other impostors?
+        We must look more closely at the details of a generic human
+ subject experiment. Suppose, as is often the case, that multiple recordings are made of the entire experiment: videotape and sound tape, and
+ electroencephalograph, and so forth. Nothing that is not thus recorded
+ will we count as data. Let's focus on the recording of sounds — vocal
+ sounds mainly — made by the subjects and experimenters during the
+ experiment. Since the sounds made by the subjects are made by physical means, they are in principle explainable and predictable by physics, using the same principles, laws, models that we use to explain and
+ predict automobile engine noises or thunderclaps. Or, since the sounds
+are made by physiological means, we could add the principles of physiology and attempt to explain the sounds using the resources of that
+science, just as we explain belches, snores, growling stomachs, and
+creaking joints. But the sounds we are primarily interested in, of course,
+are the vocal sounds, and more particularly the subset of them (ignoring
+the occasional burps, sneezes, and yawns) that are apparently amenable
+to a linguistic or semantic analysis. It is not always obvious just which
+sounds to include in this subset, but there is a way of playing it safe:
+we give copies of the tape recordings to three trained stenographers
+and have them independently prepare transcripts of the raw data.
+       This simple step is freighted with implications; we move by it
+from one world — the world of mere physical sounds — into another:
+the world of words and meanings, syntax and semantics. This step
+
+=== p. 75 ===
+
+yields a radical reconstrual of the data, an abstraction from its acoustic
+and other physical properties to strings of words (though still adorned
+with precise timing — see, e.g., Ericsson and Simon, 1984). What governs this reconstrual? Although there presumably are regular and discoverable relationships between the physical properties of the acoustic
+wave recorded on the tape and the phonemes that the typists hear and
+then further transcribe into words, we don't yet know enough about
+the relationships to describe them in detail. (If we did, the problem of
+making a machine that could take dictation would be solved. Although
+great progress has been made on this, there are still some major perplexities.) Pending the completion of that research in acoustics and
+phonology, we can still trust our transcripts as objective renditions of
+the data so long as we take a few elementary precautions. First, having
+stenographers prepare the transcripts (instead of entrusting that job to
+the experimenter, for instance) guards against both willful and unwitting bias or overinterpretation. (Court stenographers fulfill the same
+neutral role.) Having three independent transcripts prepared gives us
+a measure of how objective the process is. Presumably, if the recording
+is good, the transcripts will agree word-for-word on all but a tiny fraction of one percent of the words. Wherever the transcripts disagree, we
+can simply throw out the data if we wish, or use agreement of two out
+of three transcripts to fix the transcript of record.
+      The transcript or text is not, strictly speaking, given as data, for,
+as we have seen, it is created by putting the raw data through a process
+of interpretation. This process of interpretation depends on assumptions about which language is being spoken, and on some of the speaker's intentions. To bring this out clearly, compare the task we have
+given the stenographers with the task of typing up transcripts of recordings of birdsongs or pig grunts. When the human speaker utters
+"Djamind if a push da buddin wid ma leff hand" the stenographers all
+agree that he asked, "Do you mind if I push the button with my left
+hand?" — but that is because they know English. and this is what makes
+sense, obviously, in the context. And if the subject says, "Now the spot
+is moving from reft to light" we will allow the stenographers to improve
+this to "Now the spot is moving from left to right." No similar purification strategy is available for transcribing birdsongs or pig grunts —
+at least not until some researcher discovers that there are norms for
+such noises, and devises and codifies a description system.
+      We effortlessly — in fact involuntarily — "make sense" of the
+sound stream in the process of turning it into words. (We had better
+allow the stenographers to change "from reft to light" to "from left to
+
+=== p. 76 ===
+
+ right," for they will probably change it without even noticing.) The fact
+ that the process is both highly reliable and all but unnoticeable in
+ normal circumstances should not conceal from us the fact that it is a
+ sophisticated process even when it doesn't proceed all the way to understanding but stops short at word recognition. When the stenographer
+transcribes "To me, there was a plangent sort of thereness to my presentiment, a beckoning undercurrent of foretaste and affront, a manifold
+of anticipatory confirmations that revealed surfaces behind surfaces,"
+he may not have the faintest idea what this means, but be quite certain
+that those were indeed the words the speaker intended to speak, and
+succeeded in speaking, whatever they mean.
+       It is always possible that the speaker also had no idea what the
+words mean. The subject, after all, just might be a zombie, or a parrot
+dressed up in a people suit, or a computer driving a speech-synthesizer
+program. Or, less extravagantly, the subject may have been confused,
+or in the grip of some ill-understood theory, or trying to play a trick
+on the experimenter by spouting a lot of nonsense. For the moment, I
+am saying, the process of creating a transcript or text from the data
+record is neutral with regard to all these strange possibilities, even
+though it proceeds with the methodological assumption that there is a
+text to be recovered. When no text can be recovered, we had best throw
+out the data on that subject and start over.
+       So far, the method described is cut-and-dried and uncontroversial.
+We have reached the bland conclusion that we can turn tape recordings
+into texts without giving up science. We have taken our tune securing
+this result, because the next step is the one that creates the opportunity
+to study consciousness empirically, but also creates most of the obstacles and confusions. We must move beyond the text; we must interpret
+it as a record of speech acts; not mere pronunciations or recitations but
+assertions, questions, answers, promises, comments, requests for clarification, out-loud musings, self-admonitions.
+       This sort of interpretation calls for us to adopt what I call the
+intentional stance (Dennett, 1971, 1978a, 1987a): we must treat the
+noise-emitter as an agent, indeed a rational agent, who harbors beliefs
+and desires and other mental states that exhibit intentionality or "aboutness," and whose actions can be explained (or predicted) on the basis
+of the content of these states. Thus the uttered noises are to be interpreted as things the subjects wanted to say, of propositions they meant
+to assert, for instance, for various reasons. In fact, we were already
+relying on some such assumptions in the previous step of purifying the
+text. (We reason: Why would anyone want to say "from reft to light"?)
+
+=== p. 77 ===
+
+      Whatever dangers we run by adopting the intentional stance toward these verbal behaviors, they are the price we must pay for gaining
+access to a host of reliable tniisms we exploit in the design of experiments. There are many reasons for wanting to say things, and it is
+important to exclude some of these by experimental design. Sometimes,
+for instance, people want to say things not because they believe them
+but because they believe their audience wants to hear them. It is usually
+important to take the obvious steps to diminish the likelihood that this
+desire is present or effective: we tell subjects that what we want to hear
+is whatever they believe, and we take care not to let them know what
+it is we hope they believe. We do what we can, in other words, to put
+them in a situation in which, given the desires we have inculcated in
+them (the desire to cooperate, to get paid, to be a good subject), they
+will have no better option than to try to say what in fact they believe.
+      Another application of the intentional stance toward our subjects
+is required if we are to avail ourselves of such useful event-types as
+button-pushing. Typically, pushing a button is a way of performing
+some conventionally fixed speech act, such as asserting that the two
+seen figures appear superimposed to me right now, or answering that
+yes, my hurried, snap judgment (since you have told me that speed is
+of the essence) is that the word that I have just heard was on the list I
+heard a little while ago. For many experimental purposes, then, we
+will want to unpack the meaning of these button-pushes and incorporate them as elements of the text. Which speech act a particular
+button-pushing can be taken to execute depends on the intentional
+interpretation of the interactions between subject and experimenter that
+were involved in preparing the subject for the experiment. (Not all
+button-pushing consists in speech acts; some may be make-believe
+shooting, or make-believe rocket-steering, for instance.)
+      When doubts arise about whether the subject has said what he
+meant, or understood the problem, or knows the meanings of the words
+being used, we can ask for clarifications. Usually we can resolve the
+doubts. Ideally, the effect of these measures is to remove all likely
+sources of ambiguity and uncertainty from the experimental situation,
+so that one intentional interpretation of the text (including the button-pushings) has no plausible rivals. It is taken to be the sincere, reliable
+expression by a single, unified subject of that very subject's beliefs and
+opinions.4 As •we shall see, though, there are times when this
+
+       4. In "How to Change Your Mind." in Brainstorms (1978a). I adopt a conventional
+use of "opinion that permits me to draw a distinction between beliefs proper and other
+
+=== p. 78 ===
+
+presumption is problematic — especially when our subjects exhibit one
+pathology or another. What should we make, for instance, of the apparently sincere complaints of blindness in cases of so-called hysterical
+blindness, and the apparently sincere denials of blindness in blind
+people with anosognosia (blindness denial or Anton's syndrome)?
+These phenomena will be examined in later chapters, and if we are to
+get at what these people are experiencing, it will not be by any straightforward interview alone.
+
+      4. FICTIONAL WORLDS AND HETEROPHENOMENOLOGICAL
+            WORLDS
+
+      In addition to the particular problems raised by strange cases, there
+rr    seem to be a general problem. Doesn't the very practice of inter-verbal behavior in this way presuppose the consciousness of
+ ne subject and hence beg the zombie question? Suppose you are confronted by a "speaking" computer, and suppose you succeed in interpreting its output as speech acts expressing its beliefs and opinions,
+presumably "about" its conscious states. The fact that there is a single,
+coherent interpretation of a sequence of behavior doesn't establish that
+the interpretation is true; it might be only as if the "subject" were
+conscious; we risk being taken in by a zombie with no inner life at all.
+You could not confirm that the computer was conscious of anything
+by this method of interpretation. Fair enough. We can't be sure that the
+speech acts we observe express real beliefs about actual experiences;
+perhaps they express only apparent beliefs about nonexistent experiences. Still, the fact that we had found even one stable interpretation
+of some entity's behavior as speech acts would always be a fact worthy
+of attention. Anyone who found an intersubjectively uniform way of
+interpreting the waving of a tree's branches in the breeze as "commentaries" by "the weather" on current political events would have found
+something wonderful demanding an explanation, even if it turned
+out to be effects of an ingenious device created by some prankish engineer.
+      Happily, there is an analogy at hand to help us describe such facts
+
+more language-infected states, which I call opinions. Animals without language can have
+beliefs, but not opinions. People have both, but if you believe that tomorrow is Friday.
+this should [n my terms be called your           that tomorrow is Friday. It is not the sort
+of cognitive state one could have without language. while I will not presuppose familiarity with that distinction here. I do intend my claims to apply to both categories.
+
+=== p. 79 ===
+
+without at the same time presumptively explaining them: We can compare the heterophenomenologist's task of interpreting subjects' behavior to the reader's task of interpreting a work of fiction. Some texts,
+such as novels and short stories, are known — or assumed — to be
+           but this does not stand in the way of their interpretation. In
+facts in some regards it makes the task of interpretation easier, by canceling or postponing difficult questions about sincerity, truth, and reference.
+       Consider some uncontroversial facts about the semantics of fiction
+(Walton, 1973, 1978; Lewis, 1978; Howell, 1979). A novel tells a story,
+but not a true story, except by accident. In spite of our knowledge or
+assumption that the story told is not true, we can, and do, speak of
+what is true in the story. "We can truly say that Sherlock Holmes lived
+in Baker Street and that he liked to show off his mental powers. We
+cannot truly say that he was a devoted family man, or that he worked
+in close cooperation with the police" (Lewis, 1978, p. 37). What is true
+in the story is much, much more than what is explicitly asserted in the
+text. It is true that there are no jet planes in Holmes's London (though
+this is not asserted explicitly or even logically implied in the text), but
+also true that there are piano tuners (though — as best I recall — none
+is mentioned,               logically implied). In addition to what is true
+and false in the story, there is a large indeterminate area: while it is
+true that Holmes and Watson took the 11:10 from Waterloo Station to
+Aldershot one summer's day, it is neither true nor false that that day
+was a Wednesday ("The Crooked Man").
+       There are delicious philosophical problems about how to say
+(strictly) all the things we unperplexedly want to say when we talk
+about fictions but these will not concern us. Perhaps some people are
+deeply perplexed about the metaphysical status of fictional people and
+objects, but not I. In my cheerful optimism I don't suppose there is any
+deep philosophical problem about the way we should respond, ontologically, to the results of fiction; fiction is fiction; there is no Sherlock
+Holmes. Setting aside the intricacies, then, and the ingenious technical
+proposals for dealing with them, I want to draw attention to a simple
+fact: the interpretation of fiction is undeniably do-able, with certain
+uncontroversial results. First, the fleshing out of the story, the exploration of "the world of Sherlock Holmes," for instance, is not pointless
+or idle; one can learn a great deal about a novel, about its text, about
+the point, about the author, even about the real world, by learning
+about the world portrayed by the novel. Second, if we are cautious
+about identifying and excluding judgments of taste or preference (e.g.,
+
+=== p. 80 ===
+
+"Watson is a boring prig"), we can amass a volume of unchallengeably
+objective fact about the world portrayed. All interpreters agree that
+Holmes was smarter than Watson; in crashing obviousness lies objectivity.
+      Third — and this fact is a great relief to students — knowledge of
+the world portrayed by a novel can be independent of knowledge of
+the actual text of the novel. I could probably write a passing term paper
+on Madame Bovary, but Fve never read the novel — even in English
+translation. I've seen the BBC television series, so I know the story. I
+know what happens in that world. The general point illustrated is this:
+facts about the world of a fiction are purely semantic level facts about
+that fiction; they are independent of the syntactic facts about the text
+(if the fiction is a text). We can compare the stage musical or the film
+West Side Story with Shakespeare's play Romeo and Juliet; by describing similarities and differences in what happens in those worlds, we
+see similarities in the works of art that are not describable in the terms
+appropriate to the syntactical or textual (let alone physical) description
+of the concrete instantiations of the fictions. The fact that in each world
+there is a pair of lovers who belong to different factions is not a fact
+about the vocabulary, sentence structure, length (in words or frames of
+film), or size, shape, and weight of any particular physical instantiation
+of the works.
+       In general, one can describe what is represented in a work of art
+(e.g., Madame Bovary) independently of describing how the representing is accomplished. (Typically, of course, one doesn't try for this
+separation, and mixes commentary on the world portrayed with commentary on the author's means of accomplishing the portrayal, but the
+separation is possible.) One can even imagine knowing enough about
+a world portrayed to be able to identify the author of a fiction, in
+ignorance of the text or anything purporting to be a faithful translation.
+Learning indirectly what happens in a fiction one might be prepared
+to claim: only Wodehouse could have invented that preposterous misadventure. We think we can identify sorts of events and circumstances
+(and not merely sorts of descriptions of events and circumstances) as
+Kafkaesque, and we are prepared to declare characters to be pure Shake-speare. Many of these plausible convictions are no doubt mistaken (as
+ingenious experiments might show), but not all of them. I mention them
+just to illustrate how much one might be able to glean just from what
+is represented, in spite of having scant knowledge of how the representing is accomplished.
+
+=== p. 81 ===
+
+        Now let's apply the analogy to the problem facing the experimenter who wants to interpret the texts produced by subjects, without begging any questions about whether his subjects are zombies,
+ computers, lying, or confused. Consider the advantages of adopting
+ the tactic of interpreting these texts as fictions of a sort, not as literature of course, but as generators of a theorist's fiction (which might,
+ of course, prove to be true after all). The reader of a novel lets the text
+constitute a (fictional) world, a world determined by fiat by the text,
+exhaustively extrapolated as far as extrapolation will go and indeterminate beyond; our experimenter, the heterophenomenologist, lets the
+ subject's text constitute that subject's heterophenomenological world,
+a world determined by fiat by the text (as interpreted) and indeterminate beyond. This permits the heterophenomenologist to postpone
+the knotty problems about what the relation might be between that
+ (fictional) world and the real world. This permits theorists to agree in
+detail about just what a subject's heterophenomenological world is,
+while offering entirely different accounts of how heterophenomenol-ogical worlds map onto events in the brain (or the soul, for that matter). The subject's heterophenomenological world will be a stable,
+intersubjectively confirmable theoretical posit, having the same metaphysical status as, say, Sherlock Holmes's London or the world according to Garp.
+       As in fiction, what the author (the apparent author) says goes.
+More precisely, what the apparent author says provides a text that,
+when interpreted according to the rules just mentioned, goes to stipulate the way a certain "world" is. We don't ask how Conan Doyle
+came to know the color of Holmes's easy chair, and we don't raise the
+possibility that he might have got it wrong; we do correct typographical
+errors and otherwise put the best, most coherent, reading on the text
+we can find. Similarly, we don't ask how subjects (the apparent subjects)
+know what they assert, and we don't (at this point) even entertain the
+possibility that they might be mistaken; we take them at their (interpreted) word. Note, too, that although novels often include a proviso
+to the effect that the descriptions therein are not intended to portray
+any real people, living or dead, the tactic of letting a text constitute a
+world need not be restricted to literary works intended as fiction by
+their authors; we can describe a certain biographer's Queen Victoria,
+or the world of Henry Kissinger, with blithe disregard of the author's
+presumed intentions to be telling the truth and to be referring, non-coincidentally, to real people.
+
+=== p. 82 ===
+
+     5. THE DISCREET CHARM OF THE ANTHROPOLOGIST
+
+      This way of treating people as generators of a (theorists') fiction
+is not our normal way of treating people. Simply conceding constitutive
+authority to their pronouncements can be rather patronizing, offering
+mock respect in the place of genuine respect. This comes out clearly
+in a slightly different application of the heterophenomenological tactic
+by anthropologists. An example will make the point clear. Suppose
+anthropologists were to discover a tribe that believed in a hithertounheard-of god of the forest, called Feenoman. Upon learning of Feeno-man, the anthropologists are faced with a fundamental choice: they
+may convert to the native religion and believe wholeheartedly in the
+real existence and good works of Feenoman, or they can study the cult
+with an agnostic attitude. Consider the agnostic path. While not believing in Feenoman, the anthropologists nevertheless decide to study
+and systematize as best they can the religion of these people. They set
+down descriptions of Feenoman given by native informants. They look
+for agreement, but don't always find it (some say Feenoman is blue-eyed, others say he — or she — is brown-eyed). They seek to explain
+and eliminate these disagreements, identifying and ignoring the wiseguys, exploring reformulations with their informants, and perhaps even
+mediating disputes. Gradually a logical construct emerges: Feenoman
+the forest god, complete with a list of traits and habits and a biography.
+These agnostic scientists (who call themselves Feenomanologists), have
+described, ordered, catalogued a part of the world constituted by the
+beliefs of the natives, and (if they have done their job of interpretation
+well) have compiled the definitive description of Feenoman. The beliefs
+of the native believers (Feenomanists, we may call them) are authoritative (he's their god, after all), but only because Feenoman is being
+treated as merely an "intentional object," a mere fiction so far as the
+infidels are concerned, and hence as entirely a creature of the beliefs
+(true or false) of the Feenomanists. Since those beliefs may contradict
+each other, Feenoman, as logical construct, may have contradictory
+properties attributed to him — but that's all right in the Feenomanol-ogists' eyes since he is only a construct to them. The Feenomanologists
+try to present the best logical construct they can, but they have no
+overriding obligation to resolve all contradictions. They are prepared
+to discover unresolved and undismissible disagreements among the
+      Feenomanists, of course, don't see it that way — by definition, for
+they are the believers to whom Feenoman is no mere intentional object,
+
+=== p. 83 ===
+
+but someone as real as you or 1. Their attitude toward their own authority about the traits of Feenoman is — or ought to be — a bit more
+complicated. On the one hand they do believe that they know all about
+Feenoman — they are Feenomanists, after all, and who should know
+better than they? Yet unless they hold themselves to have something
+like papal infallibility, they allow as how they could in principle be
+wrong in some details. They could just possibly be instructed about
+the true nature of Feenoman. For instance, Feenoman himself might
+set them straight about a few details. So they should be slightly ill at
+ease about the bland credulity (as it appears to them) of the investigating
+Feenomanologists, who almost always take them scrupulously at their
+word, never challenging, never doubting, only respectfully asking
+how to resolve ambiguities and apparent conflicts. A native Feeno-manist who fell in with the visiting anthropologists and adopted their
+stance would have to adopt an attitude of distance or neutrality toward his own convictions (or shouldn't we say his own prior convictions?), and would in the process pass from the ranks of the truly
+      The heterophenomenological method neither challenges nor accepts as entirely true the assertions of subjects, but rather maintains a
+constructive and sympathetic neutrality, in the hopes of compiling a
+definitive description of the world according to the subjects. Any subject made uneasy by being granted this constitutive authority might
+protest: "No, really! These things I am describing to you are
+real, and have exactly the properties I am asserting them to have!" The
+heterophenomenologist's honest response might be to nod and assure
+the subject that of course his sincerity was not being doubted. But since
+believers in general want more — they want their assertions to be believed and, failing that, they want to know whenever their audience
+disbelieves them — it is in general more politic for heterophenome-nologists, whether anthropologists or experimenters studying consciousness in the laboratory, to avoid drawing attention to their official
+neutrality.
+      That deviation from normal interpersonal relations is the price
+that must be paid for the neutrality a science of consciousness demands.
+Officially, we have to keep an open mind about whether our apparent
+subjects are liars, zombies, or parrots dressed up in people suits, but
+we don't have to risk upsetting them by advertising the fact. Besides,
+this tactic of neutrality is only a temporary way station on the path to
+devising and confirming an empirical theory that could in principle
+vindicate the subjects.
+
+=== p. 84 ===
+
+     6. DISCOVERING WHAT SOMEONE IS REALLY TALKING ABOUT
+
+       What would it be to confirm subjects beliefs in their own phenomenology? We can see the possibilities better with the help of our
+analogies. Consider how we might confirm that some "novel" was in
+fact a true (or largely true) biography. We might begin by asking: Upon
+what real person in the author's acquaintance is this character modeled?
+Is this character really the author's mother in disguise? What real events
+in the author's childhood have been transmogrified in this fictional
+episode? What is the author really trying to say? Asking the author
+might well not be the best way of answering these questions, for the
+author may not really know. Sometimes it can plausibly be argued that
+the author has been forced, unwittingly, to express himself allegorically
+or metaphorically. The only expressive resources available to the author — for whatever reason — did not permit a direct, factual, unme-taphorical recounting of the events he wished to recount; the story he
+has composed is a compromise or net effect. As such it may be drastically reinterpreted (if necessary over the author's anguished protests)
+to reveal a true tale, about real people and real events. Since, one may
+sometimes argue, it is surely no coincidence that such-and-such a fictional character has these traits, we may reinterpret the text that portrays
+this character in such a way that its terms can then be seen to refer —
+in genuine, nonfictional reference — to the traits and actions of a real
+person. Portraying fictional Molly as a slut may quite properly be seen
+as slandering real Polly, for all the talk about Molly is really about
+Polly. The author's protestations to the contrary may convince us,
+rightly or wrongly, that the slander is not, in any event, a conscious or
+deliberate slander, but we have long since been persuaded by Freud
+and others that authors, like the rest of us, are often quite in the dark
+about the deeper welisprings of their intentions. If there can be unconscious slander, there must be unwitting reference to go along with it.
+      Or, to revert to our other analogy, consider what would happen
+if an anthropologist confirmed that there really was a blue-eyed fellow
+named Feenoman who healed the sick and swung through the forest
+like Tarzan. Not a god, and not capable of flying or being in two places
+at once, but still undoubtedly the real source of most of the sightings,
+legends, beliefs of the Feenomanists. This would naturally occasion
+some wrenching disillusionment among the faithful, some perhaps in
+favor of revision and diminution of the creed, others holding out for
+the orthodox version, even if it means yoking up the "real" Feenoman
+(supernatural properties intact) in parallel with his flesh-and-blood
+
+=== p. 85 ===
+
+agent in the world. One could understand the resistance of the orthodox
+to the idea that they could have been that wrong about Feenoman. And
+unless the anthropologists' candidate for the real referent of Feeno-manist doctrine bore a striking resemblance, in properties and deeds,
+to the Feenoman constituted by legend, they would have no warrant
+for proposing any such discovery. (Compare: "I have discovered that
+Santa Claus is real. He is in fact a tall, thin violinist living in Miami
+under the name of Fred Dudley; he hates children and never buys
+gifts.")
+      My suggestion, then, is that if we were to find real goings-on in
+people's brains that had enough of the "defining" properties of the
+items that populate their heterophenomenological worlds, we could
+reasonably propose that we had discovered what they were really talking about — even if they initially resisted the identifications. And if
+we discovered that the real goings-on bore only a minor resemblance
+to the heterophenomenological items, we could reasonably declare that
+people were just mistaken in the beliefs they expressed, in spite of their
+sincerity. It would always be open to someone to insist — like the
+diehard Feenomanist — that the real phenomenological items accompanied the goings-on without being identical to them, but whether or
+not this claim would carry conviction is another matter.
+       Like anthropologists, we can remain neutral while exploring the
+matter. This neutrality may seem pointless — isn't it simply unimaginable that scientists might discover neurophysiological phenomena that
+just were the items celebrated by subjects in their heterophenomenol-ogles? Brain events seem too different from phenomenological items to
+be the real referents of the beliefs we express in our introspective reports. (As we saw in chapter 1, mind stuff seems to be needed to be
+the stuff out of which purple cows and the like are composed.) I suspect
+that most people still do find the prospect of this identification utterly
+unimaginable, but rather than concede that it is therefore impossible,
+I want to try to stretch our imaginations some more, with yet another
+fable. This one closes in somewhat on a particularly puzzling phenomenological item, the mental image, and has the virtue of being largely
+a true story, somewhat simplified and embellished.
+
+      7. SHAKEY'S MENTAL IMAGES
+
+     In the short history of robots, Shakey, developed at Stanford Research Institute in Menlo Park, California, in the late 1960s by Nils
+Nilsson, Bertram Raphael, and their colleagues, deserves legendary
+
+=== p. 86 ===
+
+status, not because he did anything particularly well, or was a particularly realistic simulation of any feature of human psychology, but
+because in his alien way he opened up some possibilities of thought
+and closed down others (Raphael, 1976; Nilsson, 1984). He was the sort
+of robot a philosopher could admire, a sort of rolling argument.
+
+     Shakey was a box on wheels with a television eye, and instead of
+carrying his brain around with him, he was linked to it (a large stationary computer back in those days) by radio. Shakey lived indoors
+in a few rooms in which the only other objects were a few boxes,
+pyramids, ramps, and platforms, carefully colored and lit to make "vision" easier for Shakey. One could communicate with Shakey by typing
+messages at a terminal attached to his computer brain, in a severely
+restricted vocabulary of semi-English, "PUSH THE BOX OFF THE PLATFORM" would send Shakey out, finding the box, locating a ramp, pushing the ramp into position, rolling up the ramp onto the platform, and
+pushing the box off.
+
+=== p. 87 ===
+
+     Now how did Shakey do this? Was there, perhaps, a human midget
+inside Shakey, looking at a TV screen and pushing control buttons?
+Such a single, smart homunculus would be one — cheating — way of
+doing it. Another way would be by locating a human controller outside
+Shakey, in radio remote control. This would be the Cartesian solution,
+with the transmitter/receiver in Shakey playing the role of the pineal
+gland, and radio signals being the nonmiraculous stand-tn for Des-cartes's nonphysical soul-messages. The emptiness of these "solutions"
+is obvious; but what could a nonempty solution be? It may seem inconceivable at first — or at least unimaginably complex — but it is just
+such obstacles to imagination we need to confront and overcome. It
+turns out to be easier than you may have supposed to imagine how
+Shakey performed his deeds without the help of a homo ex machina.
+     How, in particular, did Shakey distinguish boxes from pyramids
+with the aid of his television eye? The answer, in outline, was readily
+apparent to observers, who could watch the process happen on a computer monitor. A single frame of grainy television, an image of a box,
+say, would appear on the monitor; the image would then be purified
+and rectified and sharpened in various ways, and then, marvelously,
+the boundaries of the box would be outlined in white — and the entire
+image turned into a line drawing (Figure 4.3, page 88).
+     Then Shakey would analyze the line drawing; each vertex was
+identifiable as either an L or a T or an X or an arrow or a Y. if a Y
+vertex was discovered, the object had to be a box, not a pyramid; from
+no vantage point would a pyramid project a Y vertex.
+
+                                               Arrow
+
+=== p. 88 ===
+
+    1                       •
+    h   ~—--
+
+/                                       •
+
+I              .   .
+                       Of
+         r_
+
+                                    •
+
+                                f
+
+=== p. 89 ===
+
+     That is something of an oversimplification, but it illustrates the
+general principles relied upon; Shakey had a "line semantics" program
+for wielding such general rules to determine the category of the object
+whose image was on the monitor. Watching the monitor, observers
+might be expected to suffer a sudden dizziness when it eventually
+occurred to them that there was something strange going on: They were
+watching a process of image transformation on a monitor, but S ha key
+wasn't looking at it. Moreover, Shakey wasn't looking at any other
+monitor on which the same images were being transformed and analyzed. There were no other monitors in the hardware, and for that matter
+the monitor they were watching could be turned off or unplugged without detriment to Shakey's processes of perceptual analysis. Was this
+monitor some kind of fraud? For whose benefit was it? Only for the
+observers. What relation, then, did the events they saw on the monitor
+bear to the events going on inside Shakey?
+       The monitor was for the observers, but the idea of the monitor
+was also for the designers of Shakey. Consider the almost unimaginable
+task they faced: How on earth could you take the output from a simple
+television camera and somehow extract from it reliable box-identifications? Of all the kazillions of possible frames the camera could send
+ to the computer, a tiny subset of them are pictures of boxes; each frame
+ consists simply of an array of black and white cells or pixels, offs and
+ ons, zeros and ones. How could a program be written that would identify all and only the frames that were pictures of boxes? Suppose, to
+ oversimplify, the retina of the camera was a grid of 10,000 pixels, 100
+ by 100. Then each frame would be one of the possible sequences of
+ 10,000 zeroes and ones. What patterns in the zeroes and ones would
+ line up reliably with the presence of boxes?
+       To begin with, think of placing all those zeros and ones in an
+ array, actually reproducing the camera image in space, as in the array
+ of pixels visible on the monitor. Number the pixels in each row from
+ left to right, like words on a page (and unlike commercial television.
+ which does a zigzag scan). Notice, then, that dark regions are mainly
+ composed of zeroes and light regions of ones. Moreover, a vertical
+ boundary between a dark region to the left and a light region to the
+ right can be given a simple description in terms of the sequence of
+ zeroes and ones: a sequence of mostly zeroes up to pixel number n,
+ followed by a sequence of mostly ones, followed exactly 100 digits
+ later (in the next line) by another sequence of mostly zeroes lip to pixel
+ n + 100, followed by mostly ones, and so forth, in multiples of 100.
+      A program that would hunt for such periodicities in the stream
+
+=== p. 90 ===
+
+         06                   aNy
+
+     L00000L00000L00000L0000 LOL LOLL L LI LOLL L L L L LOLL L
+     LOLOLII0000000I000000L0000LOO ILL LOt L L L LOILOL
+     LOOL0000000LOI0000000LO L L L LOLOL LOLOL L L L L LOLIL        I
+
+     L0000000000L00000L00000 LOLOL L L L L LI L L LOLL L ILL OL
+     L0000000L0000000L00000LO LOLOL L L LOLL L L L L L L LOLL L
+     L0000000000L00000000000 L L L L LOLL L L L L L L L LOLL L L L L
+     L0000000000000L00000000 L LOLL L L L L LI L L L LL LL L L I. L L
+     L0000000L00000000000000 L L L L L L LOLL L L L L L L L L L L L L L
+     LOL000000000000L00000000 L L L L L L L L L L L LOLL L L L L L L L
+     OLI.LLLLLLLLOLLLLLLLLLLLL00000000000000000L0000
+     LOOL0000000000000000000 L LOLL L L L L L L L L L L L LL L L L L L
+     L000000000000000L000000 L L L L L L L L LOLL L L L L L L L L L L L
+                                                    t1'
+jo                        WOIJ at.p eiamea                aq ajqe     aieaoi qans
+                           ,puno; qans B Anpunoq                  aq pau.Irn OW! e
+1B3!PaA                 auq Sq                                  jo soo.ioz 1MM sauo PUB
+aaiA 'P5104 OS                   SU!tpouios °111 000tt000 s.iflaaO                      £1949
+parpunq SUOII!SOd U! aqi aauanbas
+     L0000000000000000000000 0000000000000000000000L
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+     L0000000000000000000000 L 0000000000000000000000
+                                                    SP
+
+        v tInuoz!.Ioq                     Aiepunoq              se Asea   :wds e aaejd
+     aqi aauanbas                  e £unij sooiazjo           paoqaa '001 '003 pue ooc
+spthp                          a £Lxn[ jo sauo
+
+     L000 L00000000 L000000000L00000000000 00000000000
+     L0000000000 LO L00000000000000 L00000000000000000
+     L00000000 L00000000000 L0000000000000 OL000000000
+     L0000 L000000000000000L00000000000 L0000000 00000
+     000000000 L 00000000000000 L 000000000000000000000
+     L000000000000000000 L000000000 00000000000000000
+     L L L L L L L L LOLL L L L L L L L L L L L L LOLL L L L L L L L L L L L LOOL L L L
+     L L L L                       LOLL L L L L L L L L L L L L L L LOLL L L L L L L L L L
+               L L L L L L L L L L L
+     L L L L L L L L L L L L L L L L L L L L L L LOLL L L L L L L L L L L L L L LOLL L L L
+
+     LOL L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L
+      L L L L L L L L L L L L L L L L L L L L L LOL
+     L L L L L L L   LOLL L L L L L L L L L L L L L L L L L L L L L LOLL L L L L L L L L L L
+                                                    9t
+
+=== p. 91 ===
+
+       Sloping boundaries are only a little trickier; the program must
+look for a progression in the sequence. Once all the boundaries are
+located and drawn in white, the line drawing is complete, and the next,
+more sophisticated, step takes over: "templates" are "placed" on bits
+of the line segment so that the vertices can be identified. Once the
+vertices have been identified, it is a straightforward matter to use the
+line semantics program to categorize the object in the image — it might
+in some cases be as simple a task as looking for a single Y vertex.
+       Several features of this process are important to us. First, each
+subprocess is "stupid" and mechanical. That is, no part of the computer
+has to understand what it is doing or why, and there is no mystery
+about how each of the steps is mechanically done. Nevertheless, the
+clever organization of these stupid, mechanical processes yields a device that takes the place of a knowledgeable observer. (Put the whole
+vision system in a "black box" whose task is to "tell Shakey what he
+needs to know" about what is in front of it, based on TV frames that
+enter as input. Initially we might be inclined to think the only way to
+do this would be to put a little man in the black box, watching a screen.
+We now see a way this homunculus, with his limited job, can be replaced by a machine.)
+       Once we see how it is done, we can see that while the process is
+strongly analogous to a process of actually looking at (and drawing and
+erasing) black and white dots on a screen, the actual location in the
+computer of the individual operations of changing zeroes to ones and
+vice versa doesn't matter, so long as the numbers that are the temporary
+"addresses" of the individual digits code the information about which
+pixels are next to which. Suppose we turn off the monitor. Then even
+though there is (or need be) no actual two-dimensional image locatable
+ in the space inside the computer (say, as a "pattern of excitation in the
+hardware"), the operations are homomorphic (parallel) to the events
+we were watching on the monitor. Those events were genuinely imagistic: a two-dimensional surface of excited phosphor dots forming a
+shape of a particular size, color, location, and orientation. So in one
+strict sense, Shakey does not detect boxes by a series of image transformations; the last real image in the process is the one that is focused
+ on the receptive field of the camera. In another strict but metaphorical
+ sense, Shakey does detect boxes by a series of image transformations —
+ the process just described, which turns light-dark boundaries into a
+ line drawing and then categorizes vertices. The fact that this strict sense
+ is nevertheless metaphorical can be brought out by noting that there
+ are a variety of properties one would expect any real images to have
+
+=== p. 92 ===
+
+that the "images" transformed by Shakey lack: They have no color, no
+size, no orientation. (We could make a nice riddle out of such an image:
+I'm thinking of an image that is neither larger nor smaller than the
+Mona Lisa, is neither in color nor in black and white, and faces in no
+compass direction. What is it?)
+      The process Shakey used to extract information about objects from
+the light in its environment was hardly at all like the processes of human
+vision, and probably not like the visual processes of any creature. But
+we may ignore this for the moment, in order to see a rather abstract
+possibility about how the mental images that human subjects report
+might be discovered in the brain. The account of Shakey's vision system
+was oversimplified to permit the basic theoretical points to emerge
+vividly. Now we're going to embark on some science fiction to make
+another point: Suppose we were to cross Shakey with another famous
+character in artificial intelligence, Terry Winograd's (1972) SHRDLU,
+who manipulated (imaginary) blocks and then answered questions
+about what it was doing and why. SHRLDU's answers were mainly
+"canned" — stored ready-made sentences and sentence-templates that
+Winograd had composed. The point of SHRDLU was to explore abstractly some of the information-handling tasks faced by any interlocutor, not to model human speech production realistically, and this is
+in the spirit of our thought experiment. (In chapter 8 we will look at
+more realistic models of speech production.) An interchange with our
+new version of Shakey, redesigned to include a more sophisticated
+repertoire of verbal actions, might go like this:
+     Why did you move the ramp?
+     SO I COULD ROLL UP ON THE PLATFORM.
+    And why did you want to do that?
+    TO PUSH THE BOX OFF.
+    And why did you want to do that?
+    BECAUSE YOU TOLD ME TO.
+
+But suppose we then asked Shakey:
+    How do you tell the boxes from the pyramids?
+     What should we design Shakey to "say" in reply? Here are three
+possibilities:
+    (1)   I scan each 10,000-digit-long sequence of Os and is from my
+          camera, looking for certain patterns of sequences, such as
+          blahblahblah (a very long answer if we let Shakey go into the
+          details).
+
+=== p. 93 ===
+
+     (2) 1 find the light-dark boundaries and draw white lines around
+         them in my mind's eye; then I look at the vertices; if I find a
+         Y vertex, for instance, I know I have a box.
+     (3) I don't know; some things just look boxy. It just comes to me.
+         It's by intuition.
+
+Which is the right sort of thing for Shakey to say? Each answer is true
+in its way; they are descriptions of the information processing at different depths or grain levels. Which answer we design Shakey to be
+able to give is largely a matter of deciding how much access Shakey's
+expressive capacity (his SHRDLU black box) should have to his perceptual processes. Perhaps there would be good reasons of engineering
+to deny deep (detailed, time-consuming) access to the intermediate
+analysis processes. But whatever self-descriptive capacities we endow
+Shakey with, there will be a limit to the depth and detail of his expressible "knowledge" of what is going on in him, what he is doing.
+If the best answer he can give is (3), then he is in the same position
+with regard to the question of how he tells pyramids from boxes that
+we are in when asked how we tell the word "sun" from the word
+"shun"; we don't know how we do it; one sounds like "sun" and the
+other like "shun" — that's the best we can do. And if Shakey is designed
+to respond with (2), there will still be other questions he cannot answer,
+such as "How do you draw white lines on your mental images?" or
+"How do you identify a vertex as an arrow?"
+      Suppose we design Shakey to have type-(2) access to his perceptual analysis processes; when we ask him how he does it, he tells us
+of the image-transforming he does. Unbeknownst to him, we unplug
+the monitor. Are we then entitled to tell him that we know better? He
+isn't really processing images, though he thinks he is? (He says he is,
+and so, following the heterophenomenological strategy, we interpret
+this as an expression of his belief.) if he were a realistic simulation of
+a person, he might well retort that we were in no position to tell him
+what was going on in his own mind! He knew what he was doing, what
+he was really doing! If he were more sophisticated, he might grant that
+what he was doing might be only allegorically describable as image
+ processing — though he felt overwhelmingly inclined so to describe
+ what was happening. In this case we would be able to tell him that his
+ metaphorical way of putting it was entirely apt.
+       If we were more diabolical, on the other hand, we could rig Shakey
+ to have entirely spurious ways of talking about what he was doing. We
+ could design him to want to say things about what was going on in
+
+=== p. 94 ===
+
+ him that bore no regular relationship to what was actually going on ("I
+ use my TV input to drive an internal chisel, which hews a three-dimensional shape out of a block of mental clay. Then if my homunculus can sit on it, it's a box; if he falls off, it's a pyramid.") There
+ would be no truth-preserving interpretation of this report; Shakey would
+ just be confabulating — making up a story without "realizing" it.
+       And this possibility, in us, shows why we have to go to the round..
+ about trouble of treating heterophenomenology as analogous to the
+ interpretation of fiction. As we have already seen, there are circumstances in which people are just wrong about what they are doing and
+ how they are doing it. It is not that they lie in the experimental situation,
+ but that they confabulate; they fill in the gaps, guess, speculate, mistake
+ theorizing for observing. The relation between what they say and whatever it is that drives them to say what they say could hardly be more
+ obscure, both to us heterophenomenologists on the outside and to the
+ subjects themselves. They don't have any way of "seeing" (with an
+ inner eye, presumably) the processes that govern their assertions, but
+ that doesn't stop them from having heartfelt opinions to express.
+       To sum up, subjects are unwitting creators of fiction, but to say
+that they are unwitting is to grant that what they say is, or can be, an
+account of exactly how it seems to them. They tell us what it is like to
+them to solve the problem, make the decision, recognize the object.
+Because they are sincere (apparently), we grant that that must be what
+it is like to them, but then it follows that what it is like to them is at
+best an uncertain guide to what is going on in them. Sometimes, the
+unwitting fictions we subjects create can be shown to be true after all,
+if we allow for some metaphorical slack as we did with Shakey's answer
+in style (2). For instance, recent research on imagery by cognitive psychologists shows that our introspective claims about the mental images
+we enjoy (whether of purple cows or pyramids) are not utterly false
+(Shepard and Cooper, 1982; Kosslyn, 1980; Kosslyn, Holtzman, Gaz-zaniga, and Farah, 1985). This will be discussed in more detail in
+chapter 10, and we will see how our introspective reports of imagery
+can be interpreted so they come out true. Like the earthly Feenoman,
+however, who turns out not to be able to fly or be in two places at once,
+the actual things we find in the brain to identih' as the mental images
+will not have all the wonderful properties subjects have confidently
+endowed their images with. Shakey's "images" provide an example of
+how something that really wasn't an image at all could be the very
+thing someone was talking about under the guise of an image. While
+the processes in the brain underlying human imagery are probably not
+
+=== p. 95 ===
+
+very much like Shakey's processes, we have opened up a space of
+possibilities that was otherwise hard to imagine.
+
+     8. THE NEUTRALITY OF HETEROPHENOMENOLOGY
+
+      At the outset of this chapter I promised to describe a method, the
+heterophenomenological method, that was neutral with regard to the
+debates about subjective versus objective approaches to phenomenology, and about the physical or nonphysical reality of phenomenological
+items. Let's review the method to see that this is so.
+      First, what about the zombie problem? Very simply, heterophe-nomenology by itself cannot distinguish between zombies and real,
+conscious people, and hence does not claim to solve the zombie problem or dismiss it. Ex hypothesi, zombies behave Just like real people,
+and since heterophenomenology is a way of interpreting behavior (including the internal behavior of brains, etc.), it will arrive at exactly
+the same heterophenomenological world for Zoe and for Zombie-Zoe,
+her unconscious twin. Zombies have a heterophenomenological world,
+but that just means that when theorists go to interpret them, they succeed at exactly the same task, using exactly the same means, as we use
+to interpret our friends. Of course, as noted before, some of our friends
+may be zombies. (It's hard for me to keep a straight face through all
+this, but since some very serious philosophers take the zombie problem
+seriously, I feel obliged to reciprocate.)
+       There is surely nothing wrong, nothing nonneutral, in granting
+zombies a heterophenomenological world, since it grants so little. This
+is the metaphysical minimalism of heterophenomenology. The method
+describes a world, the subject's heterophenomenological world, in
+which are found various objects (intentional objects, in the jargon of
+philosophy), and in which various things happen to these objects. If
+someone asks: "What are those objects, and what are they made of?"
+the answer might be "Nothing!" What is Mr. Pickwick made of? Nothing. Mr. Pickwick is a fictional object, and so are the objects described,
+ named, mentioned by the heterophenomenologist.
+        — 'But isn't it embarrassing to admit, as a theorist, that you are
+ talking about fictional entities — things that don't exist?" Not at all.
+ Literary theorists do valuable, honest intellectual work describing fictional entities, and so do anthropologists who study the gods and
+ witches of various cultures. So indeed do physicists, who, if asked
+ what a center of gravity was made of, would say, "Nothing!" Hetero-phenomenological objects are, like centers of gravity or the Equator,
+
+=== p. 96 ===
+
+ abstracta, not concreta (Dennett, 1987a, 1991a). They are not idle fantasies but hardworking theorists' fictions. Moreover, unlike centers of
+ gravity, the way is left open to trade them in for concreta if progress
+ in empirical science warrants it.
+       There are two ways of studying Noah's Flood: You can assume
+that it is sheer myth but still an eminently studiable myth, or you can
+ask whether some actual meteorological or geological catastrophe lies
+behind it. Both investigations can be scientific, but the first is less
+speculative, If you want to speculate along the second lines, the first
+thing you should do is conduct a careful investigation along the first
+lines to gather what hints there are. Similarly, if you want to study how
+(or even if) phenomenological items are really events in the brain, the
+first thing you should do is a careful heterophenomenological catalogue
+of the objects. This risks offending the subjects (in the same way anthropologists studying Feenoman risk offending their informants), but
+ it is the only way to avoid the battle of "intuitions" that otherwise
+ passes for phenomenology.
+        Still, what of the objection that heterophenomenology, by starting
+out from the third-person point of view, leaves the real problems of
+consciousness untouched? Nagel, as we saw, insists on this, and so
+does the philosopher John Searle, who has explicitly warned against
+my approach: "Remember," he admonishes, "in these discussions, always insist on the first person point of view. The first step in the
+operationalist sleight of hand occurs when we try to figure out how we
+would know what it would be like for others" (Searle, 1980, p. 451).
+But this is not what happens. Notice that when you are put in the
+heterophenomenologist's clutches, you get the last word. You get to
+edit, revise, and disavow ad lib, and so long as you avoid presumptuous
+theorizing about the causes or the metaphysical status of the items you
+report, whatever you insist upon is granted constitutive authority to
+determine what happens in your heterophenomenological world.
+You're the novelist, and what you say goes. What more could you want?
+       If you want us to believe everything you say about your phenomenology, you are asking not just to be taken seriously but to be granted
+papal infallibility, and that is asking too much. You are not authoritative
+about what is happening in you, but only about what seems to be
+happening in you, and we are giving you total, dictatorial authority
+over the account of how it seems to you, about what it is like to be you.
+And if you complain that some parts of how it seems to you are ineffable,
+we heterophenomenologists will grant that too. What better grounds
+could we have for believing that you are unable to describe something
+
+=== p. 97 ===
+
+than that (1) you don't describe it, and (2) confess that you cannot? Of
+course you might be lying, but we'll give you the benefit of the doubt.
+If you retort, °I'm not just saying that I can't describe it; I'm saying it's
+indescribable!" we heterophenomenologists will note that at least you
+can't describe it now, and since you're the only one in a position to
+describe it, it is at this time indescribable. Later, perhaps, you will
+come to be able to describe it, but of course at that time it will be
+something different, something describable.
+     When I announce that the objects of heterophenomenology are
+theorist's fictions, you may be tempted (many are, I find) to pounce on
+this and say,
+     That's just what distinguishes the objects of real phenomenology
+     from the objects of heterophenomenology. My autophenomolog-ical objects aren't fictional objects — they're perfectly real, though
+     I haven't a clue what to say they are made of. When I tell you,
+     sincerely, that I am imagining a purple cow, I am not just unconsciously producing a word-string to that effect (like Shakey), cunningly contrived to coincide with some faintly analogous physical
+     happening in my brain; I am consciously and deliberately reporting the existence of something that is really there! It is no
+     mere theorist's fiction to me!
+     Reflect cautiously on this speech. You are not just unconsciously
+producing a word-string you say. Well, you are unconsciously producing a word-string; you haven't a clue to how you do that, or to what
+goes into its production. But, you insist, you are not just doing that;
+you know why you're doing it; you understand the word-string, and
+mean it. I agree. That's why what you say works so well to constitute
+a heterophenomenological world. If you were just parroting words more
+or less at random, the odds against the sequence of words yielding such
+an interpretation would be astronomical. Surely there is a good explanation of how and why you say what you do, an explanation that
+accounts for the difference between just saying something and saying
+it and meaning it, but you don't have that explanation yet. At least not
+all of it. (In chapter 8 we will explore this issue.) Probably you are
+talking about something real, at least most of the time. Let us see if we
+can find out what it is.
+      These reassurances are not enough for some people. Some people
+ just won't play by these rules. Some devoutly religious people, for
+ instance, take offense when interlocutors so much as hint that there
+ might be some alternative true religion. These people do not view
+
+=== p. 98 ===
+
+  agnosticism as neutrality, but as an affront, because one of the tenets
+  of their creed is that disbelief in it is itself sinful. People who
+                                                                      believe
+    this way are entitled to their belief, and entitled (if that is the right
+   word) to the hurt feelings they suffer when they encounter skeptics or
+   agnostics, but unless they can master the anxiety they feel when they
+   learn that someone does not (yet) believe what they say, they rule
+   themselves out of academic inquiry.
+         In this chapter we have developed a neutral method for investigating and describing phenomenology. It involves extracting and purifying texts from (apparently) speaking subjects, and using those texts
+   to generate a theorist's fiction, the subject's heterophenomenological
+   world. This fictional world is populated with all the images, events,
+  sounds, smells, hunches, presentiments, and feelings that the subject
+  (apparently) sincerely believes to exist in his or her (or its) stream of
+  consciousness. Maximally extended, it is a neutral portrayal of exactly
+  what it is like to be that subject — in the subject's own terms, given
+  the best interpretation we can muster.
+         Having extracted such a heterophenomenology, theorists can then
+  turn to the question of what might explain the existence of this het-erophenomenology in all its details. The heterophenomenology exists — just as uncontroversially as novels and other fictions exist.
+  People undoubtedly do believe they have mental images, pains, perceptual experiences, and all the rest, and these facts — the facts about
+  what people believe, and report when they express their beliefs — are
+  phenomena any scientific theory of the mind must account for. We
+  organize our data regarding these phenomena into theorist's fictions,
+  "intentional objects" in heterophenomenological worlds. Then the
+ question of whether items thus portrayed exist as real objects, events,
+ and states in the brain — or in the soul, for that matter — is an empirical
+ matter to investigate, if suitable real candidates are uncovered, we can
+ identify them as the long-sought referents of the subject's terms; if not,
+ we will have to explain why it seems to subjects that these items exist.
+        Now that our methodological presuppositions are in place, we can
+ turn to the empirical theory of consciousness itself. We will begin by
+ tackling a problem about the timing and ordering of items in our streams
+of consciousness. In chapter 5, I will present a first sketch of the theory
+and exhibit how it handles a simple case. In chapter 6, we will see how
+the theory permits us to reinterpret some much more complicated phenomena that have perplexed the theorists. Chapters 7 through 9 will
+develop the theory beyond the initial sketch, warding off misinterpretations and objections, and further illustrating its strengths.
+
+=== p. 99 ===
+
+            PART TWO
+
+AN EMPIRICAL THEORY
+        OF THE MIND
+

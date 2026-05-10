@@ -1,0 +1,1232 @@
+=== chunk: rorty-1984-four-genres/whole ===
+title: Rorty, "The Historiography of Philosophy: Four Genres" (1984)
+source_pdf: docs/sources/rorty-1984-four-genres/full.pdf
+pdf_pages: 1-28
+page_scheme: pdf
+plan_page_start: 1
+plan_page_end: 28
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 1 ===
+
+                       The historiography of philosophy:
+                                   four genres
+                                                   RICHARD RORTY
+
+                                    I Rational and historical reconstructions
+               Analytic philosophers who have attempted 'rational reconstructions' of
+               the arguments of great dead philosophers have done so in the hope of
+               treating these philosophers as contemporaries, as colleagues with whom
+               they can exchange views. They have argued that unless one does this one
+               might as well turn over the history of philosophy to historians - whom
+               they picture as mere doxographers, rather than seekers after philosophical
+               truth. Such reconstructions, however, have led to charges of anachronism.
+               Analytic historians of philosophy are frequently accused of beating texts
+               into the shape of propositions currently being debated in the philosophical
+               journals. It is urged that we should not force Aristotle or Kant to take sides
+               in current debates within philosophy of language or metaethics. There
+               seems to be a dilemma: either we anachronistically impose enough of our
+               problems and vocabulary on the dead to make them conversational
+               partners, or we confine our interpretive activity to making their falsehoods
+               look less silly by placing them in the context of the benighted times in
+               which they were written.
+                  Those alternatives, however, do not constitute a dilemma. We should do
+               both of these things, but do them separately. We should treat the history of
+               philosophy as we treat the history of science. In the latterfield,we have no
+               reluctance in saying that we know better than our ancestors what they were
+               talking about. We do not think it anachronistic to say that Aristotle had a
+               false model of the heavens, or that Galen did not understand how the
+               circulatory system worked. We take the pardonable ignorance of great
+               dead scientists for granted. We should be equally willing to say that
+               Aristotle was unfortunately ignorant that there are no such things as real
+               essences, or Leibniz that God does not exist, or Descartes that the mind is
+               just the central nervous system under an alternative description. We
+               hesitate merely because we have colleagues who are themselves ignorant of
+               such facts, and whom we courteously describe not as 'ignorant', but as
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 2 ===
+
+              'holding different philosophical views'. Historians of science have no
+              colleagues who believe in crystalline spheres, or who doubt Harvey's
+              account of circulation, and they are thus free from such constraints.
+                 There is nothing wrong with self-consciously letting our own
+              philosophical views dictate terms in which to describe the dead. But there
+              are reasons for also describing them in other terms, their own terms. It is
+              useful to recreate the intellectual scene in which the dead lived their lives -
+              in particular, the real and imagined conversations they might have had with
+              their contemporaries (or near-contemporaries). There are purposes for
+              which it is useful to know how people talked who did not know as much as
+              we do - to know this in enough detail so that we can imagine ourselves
+              talking the same outdated language. The anthropologist wants to know
+              how primitives talk to fellow-primitives as well as how they react to
+              instruction from missionaries. For this purpose he tries to get inside their
+              heads, and to think in terms which he would never dream of employing at
+              home. Similarly, the historian of science, who can imagine what Aristotle
+              might have said in a dialogue in heaven with Aristarchus and Ptolemy,
+              knows something interesting which remains unknown to the Whiggish
+              astrophysicist who sees only how Aristotle would have been crushed by
+              Galileo's arguments. There is knowledge - historical knowledge - to be
+              gained which one can only get by bracketing one's own better knowledge
+               about, e.g., the movements of the heavens or the existence of God.
+                 The pursuit of such historical knowledge must obey a constraint
+               formulated by Quentin Skinner:
+               No agent can eventually be said to have meant or done something which he could
+               never be brought to accept as a correct description of what he had meant or done.
+                                                                               (Skinner 1969: 28)
+
+              Skinner says that this maxim excludes 'the possibility that an acceptable
+              account of an agent's behaviour could ever survive the demonstration that
+              it was itself dependent on the use of criteria of description and classification
+              not available to the agent himself. There is an important sense of 'what the
+              agent meant or did', as of 'account of the agent's behaviour', for which this
+              is an ineluctable constraint. If we want an account of Aristotle's or Locke's
+              behaviour which obeys this constraint, however, we shall have to confine
+              ourselves to one which, at its ideal limit, tells us what they might have said
+              in response to all the criticisms or questions which would have been aimed
+              at them by their contemporaries (or, more precisely, by that selection of
+              their contemporaries or near-contemporaries whose criticisms and questions they could have understood right off the bat - all the people who,
+              roughly speaking, 'spoke the same language', not least because they were
+              just as ignorant of what we now know as the great dead philosopher him-
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 3 ===
+
+                                   The historiography of philosophy: four genres                                      51
+              self). We may want to go on to ask questions like 'What would Aristotle
+              have said about the moons of Jupiter (or about Quine's anti-essentialism)?'
+              or 'What would Locke have said about labour unions (or about Rawls)?' or
+              'What would Berkeley have said about Ayer's or Bennett's attempt to
+              "linguistify" his views on sense-perception and matter?' But we shall not
+              describe the answers we envisage them giving to such questions as
+              descriptions of what they 'meant or did', in Skinner's sense of these terms.
+                 The main reason we want historical knowledge of what unre-educated
+              primitives, or dead philosophers and scientists, would have said to each
+              other is that it helps us to recognize that there have been different forms of
+              intellectual life than ours. As Skinner (1969:52-3) rightly says, 'the
+              indispensable value of studying the history of ideas' is to learn 'the
+              distinction between what is necessary and what is the product merely of
+              our own contingent arrangements'. The latter is indeed, as he goes on to
+              say, 'the key to self-awareness itself. But we also want to imagine
+              conversations between ourselves (whose contingent arrangements include
+              general agreement that, e.g., there are no real essences, no God, etc.) and
+              the mighty dead. We want this not simply because it is nice to feel one up
+              on one's betters, but because we would like to be able to see the history of
+              our race as a long conversational interchange. We want to be able to see it
+               that way in order to assure ourselves that there has been rational progress in
+               the course of recorded history - that we differ from our ancestors on
+               grounds which our ancestors could be led to accept. The need for
+               reassurance on this point is as great as the need for self-awareness. We need
+               to imagine Aristotle studying Galileo or Quine and changing his mind,
+               Aquinas reading Newton or Hume and changing his, etc. We need to think
+               that, in philosophy as in science, the mighty mistaken dead look down
+               from heaven at our recent successes, and are happy to find that their
+               mistakes have been corrected.
+                  This means that we are interested not only in what the Aristotle who
+               walked the streets of Athens 'could be brought to accept as a correct
+               description of what he had meant or done' but in what an ideally reasonable
+               and educable Aristotle could be brought to accept as such a description.
+               The ideal aborigine can eventually be brought to accept a description of
+               himself as having cooperated in the continuation of a kinship system
+               designed to facilitate the unjust economic arrangements of his tribe. An
+               ideal Gulag guard can eventually be brought to regard himself as having
+               betrayed his loyalty to his fellow-Russians. An ideal Aristotle can be
+               brought to describe himself as having mistaken the preparatory taxonomic
+               stages of biological research for the essence of all scientific inquiry. Each of
+               these imaginary people, by the time he has been brought to accept such a
+               new description of what he meant or did, has become 'one of us'. He is our
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 4 ===
+
+              contemporary, or our fellow-citizen, or a fellow-member of the same
+              disciplinary matrix.
+                 To give an example of such conversation with the re-educated dead,
+              consider Strawson (1966) on Kant. The Bounds of Sense is inspired by the
+              same motives as Individuals - the conviction that Humean psychological
+              atomism is deeply misguided and artificial, and that attempts to replace the
+              common-sense' Aristotelian' framework of things with 'events' or 'stimuli'
+              (in the manner common to Whitehead and Quine) are deeply misguided.
+              Since Kant agreed with this line of thought, and since much of the
+              'Transcendental Analytic' is devoted to making similar points, it is natural
+              for someone with Strawson's concerns to want to show Kant how he can
+              make those points without saying some other, less plausible, things which
+              he said. These are things which the progress of philosophy since Kant's day
+              has freed us from the temptation to say. Strawson can, for example, show
+              Kant how to get along without notions like 'in the mind' or 'created by the
+              mind', notions from which Wittgenstein and Ryle liberated us. Strawson's
+              conversation with Kant is the sort one has with somebody who is
+              brilliantly and originally right about something dear to one's heart, but
+              who exasperatingly mixes up this topic with a lot of outdated foolishness.
+              Other examples of such conversations are Ayer's (1936) and Bennett's
+              (1971) conversations with the British Empiricists about phenomenalism -
+              conversations which try to filter out the pure essence of phenomenalism
+              from questions about the physiology of perception and about the existence
+              of God (subjects about which we are now better informed, and thus able to
+              perceive the irrelevance). Here again we have a fulfillment of the natural
+              desire to talk to people some of whose ideas are quite like our own, in the
+              hope of getting them to admit that we have gotten those ideas clearer, or in
+              the hope of getting them clearer still in the course of the conversation.1
+
+                   Thus I cannot agree with Michael Ayers' strictures on such attempts, nor with his claim that
+                   it is an 'illusion' that ideas in metaphysics, logic, and epistemology, share with Euclid's
+                   mathematical ideas 'an independence of the accidents of history' (Ayers 1978: 46). I agree
+                   with Jonathan Bennett's claim, quoted by Ayers at p. 54 of his essay, that 'we understand
+                   Kant only in proportion as we can say, clearly and in contemporary terms, what his
+                   problems were, which of them are still problems and what contribution Kant makes to
+                   their solution'. Ayers' reply is that 'On its natural interpretation, this statement [of
+                   Bennett's] implies that there can be no such thing as understanding a philosopher in his
+                   own terms as something distinct from, and prior to, the difficult achievement of relating his
+                   thought to what we ourselves might want to say.' I would rejoin, on Bennett's behalf, that
+                   there is indeed a sense in which we can understand what a philosopher says in his own terms
+                   before relating his thought to ours, but that this minimal sort of understanding is like being
+                   able to exchange courtesies in a foreign tongue without being able to translate what one is
+                   saying into our native language. Similarly, one might learn to prove Euclid's mathematical
+                   theorems in Greek before learning how to translate them into contemporary mathematical
+                   jargon. Translation is necessary if 'understanding' is to mean something more than
+                   engaging in rituals of which we do not see the point, and translating an utterance means
+                   fitting it into our practices. (See fn. 3 below.) Successful historical reconstructions can only
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 5 ===
+
+                                   The historiography of philosophy: four genres                                       53
+                 Such enterprises in commensuration are, of course, anachronistic. But if
+              they are conducted in full knowledge of their anachronism, they are
+              unobjectionable. The only problems they raise are the verbal one of
+              whether rational reconstructions are to be viewed as 'making clear what the
+              dead really said', and the equally verbal one of whether rational reconstruc-tors are 'really' doing history. Nothing turns on the answer to either
+              question. It is natural to describe Columbus as discovering America rather
+              than Cathay, and not knowing that he had done so. It is almost equally
+              natural to describe Aristotle as unwittingly describing the effects of gravity
+              rather than of natural downward motion. It is slightly more strained, but
+              just a further step along the same line, to describe Plato as having
+              unconsciously believed that all words were names (or whatever other
+              premise modern semantically minded commentators find handy in
+              reconstructing his arguments). It is fairly clear that in Skinner's sense of
+              'mean* Plato meant nothing like this. When we anachronistically say that
+              he 'really* held such doctrines we mean that, in an imagined argument with
+              present-day philosophers about whether he should have held certain other
+              views, he would have been driven back on a premise which he never
+              formulated, dealing with a topic he never considered - a premise which
+               may have to be suggested to him by a friendly rational reconstructor.
+                 Historical reconstructions of what unre-educated dead thinkers would
+               have said to their contemporaries - reconstructions which abide by
+               Skinner's maxim - are, ideally, reconstructions on which all historians can
+               agree. If the question is what Locke would be likely to have said to a
+               Hobbes who had lived and retained his faculties for a few more decades,
+               there is no reason why historians should not arrive at a consensus, a
+               consensus which might be confirmed by the discovery of a manuscript of
+               Locke's in which he imagines a conversation between himself and Hobbes.
+
+                  be performed by people who have some idea of v/hat they themselves think about the issues
+                  under discussion, even if only that they are pseudo-issues. Attempts at historical
+                  reconstruction which are selfless in this respect (e.g., Wolfson's book on Spinoza) are not
+                  so much reconstructions as assemblages of raw material for such reconstructions. So when
+                  Avers says at p. 61 that 'Instead of holding Locke's terminology up against that of our own
+                  theories, we should try to understand his purposes in relating thought and sensation as he
+                  does', I would urge that we cannot do much of the latter until we have done quite a bit of the
+                  former. If you do not believe that there are such mental faculties as 'thought' and
+                  'sensation' (as many of us post-Wittgensteinian philosophers of mind do not), you are
+                  going to have to spend some time figuring out acceptable equivalents to Locke's terms
+                  before reading on to see how he uses them - the same sort of thing we atheists have to do
+                  when reading works of moral theology. In general, I think that Ayers overdoes the
+                  opposition between 'our terms' and 'his terms' when he suggests that one can do historical
+                  reconstruction first and leave rational reconstruction for later. The two genres can never be
+                  that independent, because you will not know much about what the dead meant prior to
+                  figuring out how much truth they knew. These two topics should be seen as moments in a
+                  continuing movement around the hermeneutic circle, a circle one has to have gone round a
+                  good many times before one can begin to do either sort of reconstruction.
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 6 ===
+
+              Rational reconstructions, on the other hand, are not likely to converge, and
+              there is no reason why they should. Somebody who thinks that the
+              question of whether all words are names, or some other semantical thesis, is
+              the sort of question which is decisive for one's views about lots of other
+              topics will have a quite different imaginary conversation with Plato than
+              somebody who thinks that philosophy of language is a passing fad,
+              irrelevant to the real issues which divide Plato from his great modern
+              antagonists (Whitehead, Heidegger, or Popper, for example). The Fregean,
+              the Kripkean, the Popperian, the Whiteheadian, and the Heideggerian will
+              each re-educate Plato in a different way before starting to argue with him.
+                  If we picture discussion of great dead philosophers as alternating
+              between historical reconstruction, which depends on obeying Skinner's
+              maxim, and rational reconstruction, which depends on ignoring it, there
+              need be no conflict between the two. When we respect Skinner's maxim we
+              shall give an account of the dead thinker 'in his own terms', ignoring the
+              fact that we should think ill of anyone who still used those terms today.
+              When we ignore Skinner's maxim, we give an account 'in our terms',
+              ignoring the fact that the dead thinker, in his linguistic habits as he lived,
+              would have repudiated these terms as foreign to his interests and intentions. The contrast between these two tasks, however, should not be
+              phrased as that between finding out what the dead thinker meant and
+              finding out whether what he said was true. Finding out what someone
+              meant is a matter of finding out how his utterance fits into his general
+              pattern of linguistic and other behaviour - roughly, finding out what he
+              would have said in reply to questions about what he said previously. So
+               'what he meant' is different depending upon who is asking such questions.
+               More generally, 'what is meant' is different depending upon how large a
+               range of actual and possible behavior one evisages. People often say, quite
+               reasonably, that they only found out what they meant by listening to what
+               they said later on - when they heard themselves reacting to the consequences of their original utterance. It is perfectly reasonable to describe
+               Locke as finding out what he really meant, what he was really getting at in
+               the Second Treatise, only after conversations in heaven with, successively,
+               Jefferson, Marx, and Rawls. It is also perfectly reasonable to set aside the
+               question of what an ideal and immortal Locke would have decided that he
+               meant. We do the latter if we are interested in the differences between what
+               it was like to be a political thinker in Locke's England and in our twentieth-century trans-Atlantic culture.
+                   We can, of course, restrict the term 'meaning' to what we are after in the
+                latter, Skinnerian, enterprise, rather than using it in a way which permits
+                there to be as many meanings of a text as there are dialectical contexts in
+                which it can be placed. If we wish to so restrict it, we can adopt E. D.
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 7 ===
+
+                                   The historiography of philosophy: four genres                                      55
+              Hirsch's distinction between l e a n i n g ' and 'significance', and confine the
+              former term to what accords with the author's intentions around the time
+              of composition, using Significance' for the place of the text in some other
+              context.2 But nothing hangs on this, unless we choose to insist that it is the
+              task of the 'historian' to discover 'meaning' and (in the case of philosophical texts) of 'the philosopher' to inquire into 'significance' and eventually
+              into truth. What does matter is making clear that grasping the meaning of
+              an assertion is a matter of placing that assertion in a context - not of digging
+              a little nugget of sense out of the mind of the assertor. Whether we privilege
+              the context which consists of what the assertor was thinking about around
+              the time he or she made the assertion depends upon what we want to get
+              out of thinking about the assertion. If we want, as Skinner says, 'selfawareness', then we need to avoid anachronism as much as possible. If we
+              want self-justification through conversation with the dead thinkers about
+              our current problems, then we are free to indulge in as much of it as we like,
+              as long as we realize that we are doing so.
+                 What, then, of finding out whether what the dead thinker said was true?
+              Just as determining meaning is a matter of placing an assertion in a context
+              of actual and possible behavior, so determining truth is a matter of placing
+              it in the context of assertions which we ourselves should be willing to
+              make. Since what counts for us as an intelligible pattern of behavior is a
+              function of what we believe to be true, truth and meaning are not to be
+               ascertained independently of one another.3 There will be as many rational
+               reconstructions which purport to find significant truths, or pregnant and
+               important falsehoods, in the work of a great dead philosopher, as there are
+               importantly different contexts in which his works can be placed. To repeat
+               my initial point, the appearance of difference between the history of
+               science and the history of philosophy is little more than a reflection of the
+               uninteresting fact that some of these differing contexts represent the
+               differing opinions of members of the same profession. That is why we find
+               more disagreement about how many truths are to be found in the writings
+               of Aristotle among historians of philosophy than among historians of
+
+                 See Hirsch 1976: 2ff for this distinction. I would disagree with Hirsch's Ayers-like claim
+                 that we cannot start discovering significance unless we first discover meaning, for the same
+                 Davidsonian reasons as I disagreed with Ayers in the previous note.
+                 See Donald Davidson's articles, collected in his forthcoming Inquiries Into Interpretation
+                 and Truth, for a defense of my claim in the previous notes that we cannot find out what
+                 somebody means prior to finding out how his linguistic and other practices resemble and
+                 differ from ours, nor independently of the charitable assumption that most of his beliefs are
+                 true. Ayers' assumption that historical reconstruction is naturally prior to rational
+                 reconstruction, and Hirsch's that discovery of meaning is naturally prior to discovery of
+                 significance, both seem to me to rest on an insufficiently holistic account of interpretation -
+                 an account which I have defended elsewhere (e.g., in 'Pragmatism, Davidson and truth',
+                 forthcoming in a volume of essays on Davidson to be edited by Ernest Lepore).
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 8 ===
+
+              biology. The resolution of these debates is a 'philosophical* rather than an
+              'historical' question. If similar discord obtained among historians of
+              biology, then its resolution would be a 'biological' rather than an 'historical' matter.
+
+                                      II Geistesgeschichte as canon-formation
+              So far I have been suggesting that the history of philosophy differs only
+              incidentally from the history of one of the natural sciences. In both we have
+              a contrast between contextualist accounts which block off later developments from sight and 'Whiggish' accounts which draw on our own better
+              knowledge. The only difference I have mentioned is that, because philosophy is more controversial than biology, anachronistic reconstructions of
+              great dead philosophers are more various than those of great dead biologists. But my discussion so far has ignored the problem of how one picks
+              out who counts as a great dead philosopher, as opposed to a great dead
+              something else. So it has ignored the problem of how one picks out the
+              history of philosophy from the history of 'thought' or 'culture'. The latter
+              sort of problem does not arise for history of biology, because it is coextensive with the history of writing about plants and animals. The
+              problem arises only in a relatively trivial form for the history of chemistry,
+              because nobody much cares whether we call Paracelsus a chemist, an
+              alchemist, or both. Questions about whether Pliny was a biologist in the
+              same sense as Mendel, or about whether Aristotle's De Generatione et
+              Corruptione counts as chemistry, do not inspire profound passions. This is
+              because we have, in these areas, clear stories of progress to tell. It does not
+              make much difference at what point we start telling the story - at what
+              point we see a 'discipline' emerging out of a chaos of speculation.
+                 It does, however, make a difference when we come to the history of
+              philosophy. This is because 'history of philosophy' covers a third genre, in
+              addition to the two I have discussed so far. Besides such Skinnerian
+              historical reconstructions as John Dunn's of Locke or J. B. Schneewind's
+              of Sidgwick, and the sort of rational reconstructions offered by Bennett of
+               the British Empiricists or Strawson of Kant, there are the big sweeping
+              geistesgeschichtlich stories - the genre of which Hegel is paradigmatic. This
+               genre is represented in our time by, for example, Heidegger, Reichenbach,
+               Foucault, Blumenberg, and Maclntyre. 4 It aims at self-justification in the
+                    I am thinking of Heidegger 1973, and of the way in which his later works fill out these
+                    sketches. I have discussed Reichenbach's The Rise of Scientific Philosophy (the most
+                    comprehensive version of the positivist story of how philosophy gradually emerged from
+                    prejudice and confusion) in Rorty 1982: 21 iff. Foucault's The Order of Things is discussed
+                    as an example of Geistesgeschichte in section IV of this essay. My references to Blumenbei:g
+                    and to Maclntyre are to The Legitimacy of the Modern Age and After Virtue respectively.
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 9 ===
+
+                                   The historiography of philosophy: four genres                                      57
+              same way as does rational reconstruction, but on a different scale. Rational
+              reconstructions typically aim at saying that the great dead philosopher had
+              some excellent ideas, but unfortunately couldn't get them straight because
+              of 'the limitations of his time'. They usually confine themselves to a
+              relatively small portion of the philosopher's work - e.g., Kant on the
+              relation between appearance and reality, or Leibniz on modality, or
+              Aristotle on the notions of essence, existence, and prediction. They are
+              written in the light of some recent work in philosophy which can
+              reasonably be said to be 'about the same questions' as the great dead
+              philosopher was discussing. They are designed to show that the answers he
+              gave to these questions, though plausible and exciting, need restatement or
+              purification - or, perhaps, the kind of precise refutation which further
+              work in the field has recently made possible. In contrast, Geistesgeschichte,
+              works at the level of problematics rather than of solutions to problems. It
+              spends more of its time asking cWhy should anyone have made the
+              question of — central to his thought?' or 'Why did anyone take the
+              problem of — seriously?' than on asking in what respect the great dead
+              philosopher's answer or solution accords with that of contemporary
+              philosophers. It typically describes the philosopher in terms of his entire
+              work rather than in terms of his most celebrated arguments (e.g., Kant as
+              the author of all three Critiques, the enthusiast for the French Revolution,
+              the forerunner of Schleiermacher's theology, etc., rather than Kant as the
+              author of the 'Transcendental analytic'). It wants to justify the historian
+              and his friends in having the sort of philosophical concerns they have - in
+              taking philosophy to be what they take it to be - rather than in giving the
+              particular solutions to philosophical problems which they give. It wants to
+              give plausibility to a certain image of philosophy, rather than to give
+              plausibility to a particular solution of a given philosophical problem by
+              pointing out how a great dead philosopher anticipated, or interestingly
+              failed to anticipate, this solution.
+                 The existence of this third, geistesgeschichtlich, sort of history of
+               philosophy is an additional reason for the prima facie difference between
+               history of science and history of philosophy. Historians of science feel no
+               need to justify our physicists' concern with elementary particles or our
+               biologists' with DNA. If you can synthesize steroids, you do not require
+               historical legitimation. But philosophers do need to justify their concern
+
+                  When I say that these are works of self-justification, I of course do not mean that they
+                  justify the present state of things, but rather that they justify the author's attitude towards
+                  the present state of things. Heidegger's, Foucault's, and Maclntyre's downbeat stories
+                  condemn present practices but justify the adoption of their authors' views towards those
+                  practices, thereby justifying their selection of what counts as a pressing philosophical issue
+                  - the same function as is performed by Hegel's, Reichenbach's, and Blumenberg's upbeat
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 10 ===
+
+              with semantics, or perception, or the unity of Subject and Object, or the
+              enlargement of human freedom, or whatever the philosopher who is telling
+              the big sweeping story is in fact concerned with. The question of which
+              problems are 'the problems of philosophy', which questions are
+              philosophical questions, are the questions to which geistesgeschichtlich
+              histories of philosophy are principally devoted. By contrast, histories of
+              biology or chemistry can dismiss such questions as verbal. They can simply
+              take the currently uncontroversial portions of the discipline in question as
+              that to which history leads up. The terminus ad quern of history-ofscience-as-story-of-progress is not in dispute.
+                  I said above that one reason for the apparent difference between the
+              history of philosophy and the history of science stemmed from the fact that
+              philosophers who differ about, say, the existence of God are nevertheless
+              professional colleagues. The second reason for the apparent difference is
+              that those who differ about whether the existence of God is an important or
+              interesting or 'real' question are also professional colleagues. The academic
+              discipline called 'philosophy' encompasses not only different answers to
+              philosophical questions but total disagreement on what questions are
+              philosophical. Rational reconstructions and geistesgeschichtlich reinterpretations are, from this point of view, different only in degree - degree of
+              disagreement with the great dead philosopher who is being reconstructed
+              or reinterpreted. If one disagrees with him mainly about solutions to
+              problems, rather than about which problems need discussion, one will
+              think of oneself as reconstructing him (as, e.g., Ayer reconstructed
+              Berkeley). If one thinks of oneself as showing that one need not think
+              about what he tried to think about (as in, e.g., Ayer's dismissive interpretation of Heidegger, or Heidegger's dismissive description of Kierkegaard as
+               a 'religious writer' rather than a 'thinker') then one will think of oneself as
+               explaining why he should not count as a fellow-philosopher. One will
+               redefine 'philosophy' so as to read him out of the canon.
+                  Canon-formation is not an issue for the history of science. There is no
+               need to affiliate one's own scientific activity to that of a great dead scientist
+               in order to make it look more respectable, nor to disparage some purportedly distinguished predecessor as a pseudo-scientist in order to justify
+               one's own concerns. Canon-formation is important in the history of
+               philosophy because 'philosophy' has an important honorific use, in
+               addition to its descriptive uses. Used descriptively, the term 'philosophical
+               question' can mean a question which is currently being debated by some
+               contemporary 'school', or it can mean a question debated by all or many of
+               those historical figures customarily catalogued as 'philosophers'. Used
+               honorifically, however, it means questions which ought to be debated -
+               which are so general and so important that they should have been on the
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 11 ===
+
+                                   The histerriography ofphilosophy: four genres                                      59
+              minds of thinkers of all places and times, whether these thinkers managed
+              to formulate these questions explicitly or not. s
+                 This honorific use of philosophical question' is, in theory, irrelevant to
+              rational reconstructions. A contemporary philosopher who wants to argue
+              with Descartes about mind-body dualism or with Kant about the
+              appearance-reality distinction or with Aristotle about meaning and
+              reference need not, and usually does not, claim that these topics are
+              inescapable whenever human beings reflect upon their condition and their
+              fate. The rational reconstructor typically confines himself to saying that
+              these are topics which have had an interesting career and on which
+              interesting work is still being done - as an historian of science might say the
+              same about the taxonomy of birds or the varieties of insanity. For purposes
+              of rational reconstruction and ensuing argument, there is no need to worry
+              about whether a topic is 'inescapable'. For Geistesgeschichte, the sort of
+              intellectual history which has a moral, there is such a need. For the moral to
+              be drawn is that we have, or have not, been on the right track in raising the
+              philosophical questions we have recently been raising, and that the
+              Geisteshistoriker is justified in adopting a certain problematic. The rational
+              reconstructor, by contrast, feels no more need to ask whether philosophy
+              is on the right track than the historian of science needs to ask whether
+              contemporary biochemistry is in good shape.
+                 The honorific use of 'philosophy' is also irrelevant, in theory, to
+              historical reconstruction. If the Geistesgeschichte of the day reads Locke or
+              Kierkegaard out of the philosophical canon, contextualist historians can
+              continue imperturbably describing what it was like to be Locke or
+               Kierkegaard. From the point of view of contextualist history, there is no
+              need for great big stories, sweeping over many centuries, in which to
+              embed an account of what it was like to be concerned with politics in
+               seventeenth-century England or with religion in nineteenth-century
+               Denmark. For such historians, the question of whether their chosen figure
+              was 'really' a major philosopher, a minor philosopher, a politician, a
+               theologian, or a belle-lettrist, is as irrelevant as the taxonomic activities of
+               the American Ornithological Union are to the field naturalist taking notes
+               on the mating behavior of a flicker, one which the AOU has just
+                   The need for an honorific use of 'philosophy', for a canon, and for self-justification seems
+                   to me to explain what John Dunn calls 'the weird tendency of much writing, in the history
+                   of political thought especially, to be made up of what propositions in what great books
+                   remind the author of what propositions in what other great books' (1980: 15). This
+                   tendency is the mark of most Geistesgeschichte, and does not seem to me weird. It is the
+                   tendency both historians and philosophers indulge when they doff their robes and
+                   converse about what they have found useful in their favorite great books. The nice thing
+                   about Geistesgeschichte, in my view - the thing that makes it indispensable - is that it meets
+                   needs which neither unphilosophical history nor unhistorical philosophy is likely to fulfill.
+                   (See section IV below for discussion of the suggestion that we repress these needs.)
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 12 ===
+
+              reclassified behind his back. One might, in one's philosophical capacity,
+              share the Anglo-Saxon belief that no philosophical progress occurred
+              between Kant and Frege and still, as an historian, delight in recapturing the
+              concerns of Schiller and Schelling.
+                 But this theoretical independence of both historical and rational
+              reconstructions from canon-formation is rarely lived up to in practice.
+              Rational reconstructors do not really want to bother reconstructing, and
+              arguing with, minor philosophers. Historical reconstructors would like to
+              reconstruct people who were Significant' in the development of something
+              - if not philosophy, then perhaps 'European thought' or 'the modern'.
+              Work in both reconstructive genres is always done with one eye out for the
+              most recent work in canon-formation, and that is the prerogative of the
+              Geistesbistoriker. For he is the person who wields terms like 'philosophy'
+              and 'philosophical question' in their honorific senses. He is thus the person
+              who decides what is worth thinking about - which questions are matters of
+              the 'contingent arrangements' of our day and which are the ones which tie
+              us together with our ancestors. As the person who decides who was
+              'getting at' what was really important and who was merely distracted by
+              the epiphenomena of his times, he plays the role which, in the ancient
+              world, was played by the sage. One difference between that world and ours
+              is that the high culture of modern times has become aware that the
+              questions human beings have thought inescapable have changed over the
+              centuries. We have become aware, as the ancient world was not, that we
+              may not know which questions are the really important ones. We fear that
+              we may still be working with philosophical vocabularies which are to 'the
+               real' problems as, say, Aristotle's vocabulary was to 'the real' subject-matter of astrophysics. This sense that one's choice of vocabulary matters
+               at least as much as one's answers to the questions posed within a given
+               vocabulary has caused the Geisteshistoriker to displace the philosopher (or,
+               as with Hegel, Nietzsche and Heidegger, has caused 'philosophy' to be
+               used as the name of a certain particularly abstract and free-wheeling kind of
+               intellectual history).
+                  This last point can be put more simply by saying that nowadays nobody
+               is sure that the descriptive senses of 'philosophical question' have anything
+               much to do with the honorific sense of this term. Nobody is quite sure
+               whether the issues discussed by contemporary philosophy professors (of
+               any school) are issues which are 'necessary' or merely part of our
+               'contingent arrangements'. Furthermore, nobody is sure whether the
+               issues discussed by all or most of the canon of great dead philosophers
+               offered by books called The History of Western Philosophy - e.g., universals, mind and body, free will, appearance and reality, fact and value, etc. -
+               are important issues. Occasionally, both inside and outside of philosophy,
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 13 ===
+
+                                   The historiography ofphilosophy: four genres                                         61
+              the suspicion is voiced that some or all of these are 'merely philosophical' -
+              a term used in the same pejorative way as a chemist uses 'alchemical', or a
+              Marxist 'superstructural', or an aristocrat 'middle class'. The self-awareness which historical reconstructions have given us is the awareness that
+              some people who were our intellectual and moral equals were not interested in questions which seem to us inescapable and profound. Because
+              such historical reconstructions are a source of doubt about whether
+              philosophy (in either of its descriptive senses) is important, the
+              Geisteshistoriker now puts the philosopher in his place, rather than the
+              converse. He does this by assembling a cast of historical characters, and a
+              dramatic narrative, which shows how we have come to ask the questions
+              we now think inescapable and profound. Where these characters left
+              writings behind, those writings then form a canon, a reading-list which one
+              must have gone through in order to justify being what one is.
+                  I can sum up what I have been saying about the third genre of
+              historiography of philosophy by saying that it is the genre which takes
+              responsibility for identifying which writers are 'the gread dead philosophers'. In this role, it is parasitic upon, and synthesises, the first two
+              genres - historical reconstructions and reconstructions. Unlike rational
+              reconstructions, and unlike the history of science, it has to worry about
+              anachronism, for it cannot regard the question of who counts as a
+              philosopher as settled by the practices of those presently so described.
+              Unlike historical reconstructions, however, it cannot stay within the
+              vocabulary used by a pastfigure.It has to 'place' that vocabulary in a series
+              of vocabularies and estimate its importance by placing it in a narrative
+              which traces changes in vocabulary. It is self-justificatory in the way that
+              rational reconstruction is, but it is moved by the same hope for greater self-awareness which leads people to engage in historical reconstructions. For
+               Geistesgeschichte wants to keep us aware of the fact that we are still en route
+              - that the dramatic narrative it offers us is to be continued by our
+              descendants. When it is fully self-conscious it wonders whether all the
+               issues discussed so far may not have been part of the 'contingent arrangements' of earlier times. It insists on the point that even if some of them
+               really were necessary and inescapable, we have no certainty about which
+               these were.
+
+                                                        Ill Doxography
+               The three genres I have described so far bear little relation to the genre
+               which comes first to mind when the term 'history of philosophy' is used.
+               This genre, my fourth, is the most familiar and most dubious. I shall call it
+               doxography. This is exemplified by books which start from Thales or
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 14 ===
+
+              6l                                      RICHARD RORTY
+
+              Descartes and wind up with some figure roughly contemporary with the
+              author, ticking off what various figures traditionally called 'philosophers'
+              had to say about problems traditionally called philosophical'. It is this
+              genre which inspires boredom and despair. It is the one to which Gilbert
+              Ryle (1971: x) referred when he offhandedly said, as an excuse for his own
+              risky rational reconstructions of Plato and others, that the existence of 'our
+              standard histories of philosophy' was 'calamity itself, and not the mere risk
+              of it'. I suspect that most of his readers heartily agreed. Even the most
+              honest and conscientious and exhaustive books called A History of Philosophy - especially these, indeed - seem to decorticate the thinkers they
+              discuss. It is this calamity to which proponents of historical reconstruction
+              respond by insisting on the need for spelling out the contexts in which the
+              texts were written, and to which proponents of rational reconstruction
+              respond by insisting that we look at the great dead philosophers in the light
+              of 'the best work now being done on the problems they discussed'. Both
+              are attempts to revitalize figures who have unintentionally been mummified.
+                 The explanation of the calamity, I think, is that most historians of
+              philosophy who try to tell 'the story of philosophy from the pre-Socratics
+              to our own day' know in advance what most of their chapter headings are
+              going to be. Indeed, they know their publishers would not accept their
+              manuscripts if a substantial number of the expected headings were missing.
+              They work, typically, with a canon which made sense in terms of
+              nineteenth-century neo-Kantian notions of 'the central problems of philosophy', notions which few modern readers take seriously. This has
+              resulted in desperate attempts to make Leibniz and Hegel, Mill and
+              Nietzsche, Descartes and Carnap, talk about some common topics,
+              whether the historian or his readers have any interest in those topics or not.
+                 In the sense in which I shall be using the term, doxography is the attempt
+              to impose a problematic on a canon drawn up without reference to that
+              problematic, or, conversely, to impose a canon on a problematic constructed without reference to that canon. Diogenes Laetius gave doxogra-phy a bad name by insisting on answering the question 'What did X think
+              the good was?' for every X in an antecedently formulated canon.
+              Nineteenth-century historians gave it a worse one by insisting on answering the question 'What did X think the nature of knowledge was?' for every
+              X in another such canon. Analytic philosophers are in a fair way to
+              worsening the situation by insisting on an answer to the question 'What
+              was X's theory of meaning?' as are Heideggerians by insisting on an answer
+              to 'What did X think Being was?' Such awkward attempts to make a new
+              question fit an old canon remind us, however, that new doxographies
+              usually started off as fresh, brave, revisionist attempts to dispel the dullness
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 15 ===
+
+                                   The historiography of philosophy: four genres                                      63
+              of the previous doxographic tradition, attempts inspired by the conviction
+              that the true problematic of philosophy had finally been discovered. So the
+              real trouble with doxography is that it is a half-hearted attempt to tell a new
+              story of intellectual progress by describing all texts in the light of recent
+              discoveries. It is half-hearted because it lacks the courage to readjust the
+              canon to suit the new discoveries.
+                  The main reason for this recurrent half-heartedness is the idea that
+              'philosophy' is the name of a natural kind - the name of a discipline which,
+              in all ages and places, has managed to dig down to the same deep,
+              fundamental, questions. So once somebody has somehow been identified
+              as a 'great philosopher' (as opposed to a great poet, scientist, theologian,
+              political theorist, or whatever), he has to be described as studying those
+              questions.6 Since each new generation of philosophers claims to have
+              discovered what those deep fundamental questions really are, each has to
+              figure out how the great philosopher can be viewed as having been
+              concerned with them. So we get brave new doxographies which look, a few
+              generations further on, just as calamitous as their predecessors.
+                  To get rid of this idea that philosophy is a natural kind, we need more
+              and better contextualist historical reconstructions on the one hand, and
+              more self-confident Geistesgeschichte on the other. We need to realize that
+              the questions which the 'contingent arrangements' of the present time lead
+              us to regard as the questions are questions which may be better than those
+              which our ancestors asked, but need not be the same. They are not
+               questions which any reflective human being must necessarily have
+               encountered. We need to see ourselves not as responding to the same
+               stimuli to which our ancestors responded, but as having created new and
+               more interesting stimuli for ourselves. We should justify ourselves by
+               claiming to be asking better questions, not by claiming to give better
+               answers to the permanent 'deep, fundamental questions' which our
+              ancestors answered badly. We can think of the fundamental questions of
+               philosophy as the ones which everybody really ought to have asked, or as
+               the ones which everybody would have asked if they could, but not as the
+               ones which everybody did ask whether they knew it or not. It is one thing
+               to say that a great dead philosopher would have been driven to have a view
+               on a certain topic if we had had a chance to talk to him, thus enabling him
+               to see what the fundamental questions of philosophy really were. It is
+                   Jonathan Ree is very informative on the development of the idea that there is a common
+                   ahistorical set of questions for philosophers to answer. In his excellent essay 'Philosophy
+                   and the history of philosophy', Ree speaks of Renouvier's conviction that 'the so-called
+                   history of philosophy was really only the story of individuals opting for different
+                   philosophical positions; the positions themselves were always there, eternally available and
+                   unchanging' (Ree 1978: 17). This is the guiding assumption of what I am calling
+                   doxography.
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 16 ===
+
+              another thing to say that he had an 'implicit' view on that topic which we
+              can dig out of what he wrote. What is interesting about him often is that it
+              never crossed his mind that he had to have a view on the topic. This is just
+              the sort of interesting information we get from contextualist historical
+              reconstructions.
+                 My claim that philosophy is not a natural kind can be restated with
+              reference to the popular notion that philosophy deals with 'methodological', or 'conceptual', meta-issues thrown off by the special disciplines, or
+              more generally by other areas of culture. Such a claim is plausible if it
+              means that, in every period, there have been questions which arose from
+              the clash between old ideas and new ideas (in the sciences, in art, in politics,
+              etc.) and that these questions are the concern of the more original,
+              dilettantish and imaginative intellectuals of the day. But it becomes
+              implausible if it means that these questions are always about the same
+              topics - e.g., the nature of knowledge, or reality, or truth, or meaning, or
+              the good, or some other abstraction sufficiently fuzzy to blur the differences between historical epochs. One can parody this notion of philosophy by imagining that, at the dawn of the study of animals, a distinction
+              became established between 'primary biology' and 'secondary biology',
+              analogous to Aristotle's distinction between 'first philosophy' and
+              'physics'. On this conception, the larger, more salient, more impressive
+              and paradigmatic animals were the concern of a special discipline. So
+              theories were developed about the common features of the python, the
+              bear, the lion, the eagle, the ostrich, and the whale. Such theories,
+              formulated with the help of some suitably fuzzy abstractions, were rather
+              clever and interesting. But people kept coming along with other things to
+              be fitted into the canon of 'primary animals'. The giant rat of Sumatra, the
+              giant butterflies of Brazil, and (more controversially) the unicorn had to be
+              taken into account. Criteria for the adequacy of theories in primary
+              biology became less clear as the canon was enlarged. Then came the bones
+              of the moa and the mammoth. Things got still more complicated. Eventually the secondary biologists got so good at producing new forms of life in
+              test tubes that they amused themselves by bringing their gargantuan new
+              creations upstairs and challenging the bewildered primary biologists to
+               make a place for them. Watching the contortions of the primary biologists
+               as they tried to devise theories which would accommodate these new
+               canonical items engendered a certain contempt for primary biology as an
+               autonomous discipline.
+                  The analogies I wish to draw are between 'primary biology' and 'history
+               of philosophy', and between 'secondary biology' and 'intellectual history'.
+               History of philosophy, disconnected from the wider history of the
+               intellectuals, makes some sense if it covers only a century or two - if it is,
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 17 ===
+
+                                   The historiography ofphilosophy: four genres                                       65
+              for example, a story of the steps which led from Descartes to Kant. Hegel's
+              story of the unfolding of Cartesian subjectivity into transcendental philosophy, or Gilson's story of the reductio ad absurdum of representationalist
+              theories of knowledge, are examples of interesting narratives which can be
+              constructed by ignoring wider contexts. These are just two among many
+              plausible and interesting ways of noting similarities and differences
+              between a dozen salient and impressive figures who span about 175 years
+              (Descartes, Hobbes, Malebranche, Locke, Condillac, Leibniz, Wolff,
+              Berkeley, Hume, and Kant - plus or minus a few names at the historian of
+              philosophy's discretion). But when one tries to tack on Hegel himself at
+              one end of such a story, or Bacon and Ramus at the other, things get rather
+              tendentious. When one tries to tie in Plato and Aristotle, there seem so
+              many ways to do so - depending upon which Platonic dialogue or
+              Aristotelian treatise one takes as 'fundamental' - that alternative stories
+              proliferate wildly. Further, Plato and Aristotle are so big and impressive
+              that describing them in terms originally developed for use on people like
+              Hobbes and Berkeley begins to seem a little odd. Then there is the problem
+              of whether to treat Augustine and Aquinas and Ockham as philosophers or
+              as theologians - not to mention the problems raised by Lao Tse, Shankara,
+              and similar exotic specimens. To make everything worse, all the time that
+              historians of philosophy are wondering how to get all these people in under
+              the old rubrics, mischievous intellectuals keep concocting new intellectual
+              compounds and daring historians of philosophy to refuse to call them
+               'philosophies'. Once it becomes necessary to contrive a story which
+              connects all or most of the people previously mentioned with G. E. Moore,
+               Saul Kripke and Gilles Deleuze, historians of philosophy are about ready
+               to give up.
+                  They should give up. We should just stop trying to write books called A
+              History of Philosophy which begin with Thales and end with, say, Wittgen-stein. Such books are interspersed with desperately factitious excuses for
+               not discussing, e.g., Plotinus, Comte, or Kierkegaard. They gallantly
+               attempt to find a few 'continuing concerns' which run through all the great
+               philosophers who do get included. But they are continually embarrassed
+               by the failure of even the most silent and unskippable figures to discuss
+               some of those concerns, and by those vast arid stretches in which one or
+               other concern seems to have escaped everybody's mind (They have to
+               worry, for example, about the absence or the skimpiness of chapters
+               headed 'Epistemology in the sixteenth century' or 'Moral philosophy in
+               the twelfth century' or 'Logic in the eighteenth century'.) It is no wonder
+               that geistesgeschichtlich intellectual historians - those who write the great
+               sweeping self-justifying stories - are often contemptuous of the sort of
+               doxography common to Windelband and Russell. Nor is it any wonder
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 18 ===
+
+              that analytic philosophers and Heideggerians should try - each in their
+              separate ways - to find something new for the history of philosophy to be.
+              The attempt to skim the cream off intellectual history by writing a history
+              'of philosophy' is as foredoomed as the attempt of my imaginary primary
+              biologists' to skim the cream off the animal kingdom. Both attempts
+              assume that certain elementary components of the miscellaneous stuff
+              churning around at the bottom naturally float up to the top.
+                  This cream-skimming picture assumes a contrast between the higher and
+              purer history of something called 'philosophy' - the quest for knowledge
+              about permanent and enduring topics by people who specialized in that
+              sort of thing - and 'intellectual history' as the chronicle of quaint tergiversations of opinion among people who were, at best, litterateurs or political
+              activists or clergymen. When this picture, and this implicit contrast, are
+              challenged, offense is often taken at the suggestion that philosophy is not
+              the pursuit of knowledge, that it is (as the freshmen like to say) 'all a matter
+              of opinion'. Alternatively, this same offense is expressed by saying if we
+              discard the traditional contrast we shall have reduced philosophy to
+              'rhetoric' (as opposed to 'logic') or 'persuasion' (as opposed to 'argument')
+              or something else low and literary rather than high and scientific. Since the
+              self-image of philosophy as a professional discipline still depends upon its
+              quasi-scientific character, criticism of the assumption behind the cream-skimming picture is taken as a challenge to philosophy itself as a professional activity, not merely to one branch of it called 'history of
+              philosophy'.
+                  One can mitigate the offense while still avoiding the cream-skimming
+              picture by adopting a sociological view of the distinction between knowledge and opinion. On this view, to say that something is a matter of
+              opinion is just to say that deviance from the current consensus on that topic
+               is compatible with membership in some relevant community. To say that it
+               is knowledge is to say that deviance is incompatible. For example, in
+               America the choice of whom to vote for is 'a matter of opinion' but we
+               know that the press should be free from government censorship. Good-thinking Russians know that such censorship is necessary, but they regard
+               the question of whether to send dissidents to labor camps or asylums as a
+               matter of opinion. These two communities do not accept as members those
+               who fail to claim as knowledge what is generally so claimed. Analogously,
+               to say that the existence of real essences, or of God, is a 'matter of opinion'
+               within philosophy departments is to say that people who differ on this
+               point can still get grants from, or be employed by, the same institutions,
+               can award degrees to the same students, etc. By contrast, those who share
+               Ptolemy's opinions on the planets or William Jennings Bryan's on the
+               origin of species are excluded from respectable astronomy and biology
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 19 ===
+
+                                   The historiography of philosophy: four genres                                      67
+              departments, for membership there requires that one know that these
+              opinions are false. So anybody can legitimize his use of the term
+              philosophical knowledge' simply by pointing to a self-conscious community of philosophers, admission to which requires agreement on certain
+              points (e.g., that there are, or are not, real essences or inalienable human
+              rights, or God). Within that community, we shall have agreement on
+              known premises, and the pursuit of further knowledge, in just the sense in
+              which we find such premises and such a pursuit in biology and astronomy
+              departments.
+                 The existence of such a community is, however, entirely irrelevant to the
+              question of whether anything links that community to Aristotle, Plotinus,
+              Descartes, Kant, Moore, Kripke, or Deleuze. Such communities should be
+              at liberty to seek out their own intellectual ancestors, without reference to a
+              previously established canon of great dead philosophers. They should also
+              be free to claim to have no ancestors at all. They should feel free to pick out
+              whatever bits of the past they like and call those 'the history of philosophy', without reference to anything anybody has previously called
+              'philosophy', or to ignore the past entirely. Anybody who is willing to give
+              up the attempt to find common interests which unite him or her with all the
+              other members of, say, the American Philosophical Association or the
+              Mind Association or the Deutsche Philosophische Gesellschaft (and one
+              would have to be a bit mad to be unwilling to give up that attempt) is thus
+              free to give up the attempt to write A History of Philosophy with the usual
+              chapter headings. He or she is free to create a new canon, as long as they
+              respect the right of others to create alternative canons. We should welcome
+              people who, like Reichenbach, wave Hegel aside. We should encourage
+              people who are tempted to dismiss Aristotle as a biologist who got out of
+              his depth, or Berkeley as an eccentric bishop, or Frege as an original
+              logician with unjustified epistemological pretensions, or Moore as a
+              charming amateur who never quite understood what the professionals
+              were doing. They should be urged to try it, and to see what sort of
+              historical story they can tell when these people are left out and some
+              unfamiliar people are brought in. It is only with the aid of such experimental alterations of the canon that doxography can be avoided. It is just such
+              alterations which Geistesgeschichte makes possible and which doxography
+              discourages.
+
+                                                   IV Intellectual history
+               So far I have distinguished four genres and suggested that one of them be
+               allowed to wither away. The remaining three are indispensable and do not
+               compete with one another. Rational reconstructions are necessary to help
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 20 ===
+
+              us present-day philosophers think through our problems. Historical
+              reconstructions are needed to remind us that these problems are historical
+              products, by demonstrating that they were invisible to our ancestors.
+              Geistesgeschichte is needed to justify our belief that we are better off than
+              those ancestors by virtue of having become aware of those problems. Any
+              given book in the history of philosophy will, of course, be a mixture of
+              these three genres. But usually one or another motive dominates, since
+              there are three distinct tasks to be performed. The distinctness of these
+              tasks is important and not to be broken down. It is precisely the tension
+              between the brisk Whiggery of the rational reconstructors and the mediated and ironic empathy of the contextualists - between the need to get on
+              with the task at hand and the need to see everything, including that task, as
+              one more contingent arrangement - that produces the need for Geistesges-chichte, for the self-justification which this third genre provides. Each such
+              Justification, however, insures the eventual appearance of a new set of
+              complacent doxographies, disgust with which will inspire new rational
+              reconstructions, under the aegis of new philosophical problematics which
+              will have arisen in the meantime. These three genres thus form a nice
+              example of the standard Hegelian dialectical triad.
+                 I should like to use the term 'intellectual history' for a much richer and
+              more diffuse genre - one which falls outside this triad. In my sense,
+              intellectual history consists of descriptions of what the intellectuals were
+              up to at a given time, and of their interaction with the rest of society -
+              descriptions which, for the most part, bracket the question of what
+              activities which intellectuals were conducting. Intellectual history can
+              ignore certain problems which must be settled in order to write the history
+              of a discipline - questions about which people count as scientists, which as
+              poets, which as philosophers, etc. Descriptions of the sort I have in mind
+              may occur in treatises called something like 'Intellectual life in fifteenth-century Bologna', but they may also occur in the odd chapter or paragraph
+              of political or social or economic or diplomatic histories, or indeed in the
+              odd chapter or paragraph of histories of philosophy (of any of the four
+               genres distinguished above). Such treatises, chapters and paragraphs produce, when read and pondered by someone interested in a certain spatiotemporal region, a sense of what it was like to be an intellectual in that
+               region - what sort of books one read, what sorts of things one had to worry
+               about, what choices one had of vocabularies, hopes, friends, enemies, and
+               careers.
+                 To have a sense of what it was to be a young and intellectually curious
+               person in such a region one has to know a lot of social, political and
+               economic history as well as a lot of disciplinary history. A book like E. P.
+               Thompson's Making of the English Working Class (1963) tells one a lot
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 21 ===
+
+                                   The historiography qfphilosophy: four genres                                       69
+              about the chances and audiences open to Paine and Cobbett as well as
+              about wages, the living conditions of miners and weavers, and the tactics of
+              politicians. A book like Norman Fiering's Moral Philosophy at Seventeenth-Century Harvard (1981) tells one a lot about what kind of intellectual it was possible to be at Harvard in that period. Fiering's book flows
+              together with passages in biographies of Harvard presidents and Mas-sachusetts governors to produce a sense of how these possibilities changed.
+              Passages in Thompson's flow together with passages in biographies of
+              Bentham and of Melbourne to show how other possibilities changed. The
+              totality of such books and passages comes together in the minds of those
+              who read them in such a way as to produce a sense of the differences
+              between the options open to an intellectual at different times and places.
+                 I should want to include under 'intellectual history' books about all
+              those enormously influential people who do not get into the canon of great
+              dead philosophers, but who are often called 'philosophers' either because
+              they held a chair so described, or for lack of any better idea - people like
+              Erigena, Bruno, Ramus, Mersenne, Wolff, Diderot, Cousin, Schopen-hauer, Hamilton, McCosh, Bergson and Austin. Discussion of these
+              'minor figures' often coalesces with thick description of institutional
+              arrangements and disciplinary matrices, since part of the historical problem they pose is to explain why these non-great philosophers or quasi-philosophers should have been taken so much more seriously than the
+              certifiably great philosophers of their day. Then there are the books about
+              the thought and influence of people who are not usually called 'philosophers' but are at least borderline cases of the species. These are people
+              who in fact did the jobs which philosophers are popularly supposed to do -
+              impelling social reform, supplying new vocabularies for moral deliberation, deflecting the course of scientific and literary disciplines into new
+              channels. They include, for example, Paracelsus, Montaigne, Grotius,
+               Bayle, Lessing, Paine, Coleridge, Alexander von Humboldt, Emerson, T.
+              H. Huxley, Mathew Arnold, Weber, Freud, Franz Boas, Walter Lippman,
+               D. H. Lawrence, and T. S. Kuhn - not to mention all those unfamiliar
+              people (e.g., the authors of influential treatises on the philosophical
+               foundations of Polizeiwissenschaft) who turn up in the footnotes to
+               Foucault's books. If one wants to understand what it was to be a scholar in
+               sixteenth-century Germany or a political thinker in eighteenth-century
+               America or a scientist in late-nineteenth-century France or a journalist in
+               early-twentieth-century Britain - if one wants to know what sort of issues
+               and temptations and dilemmas confronted a young person who wanted to
+               become part of the high culture of those times and places - these are the sort
+               of people one has to know about. If one knows enough about enough of
+               them, one can tell a detailed and convincing story of the conversation of
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 22 ===
+
+              Europe, a story which may mention Descartes, Hume, Kant, and Hegel
+              only in passing.
+                 Once we drop below the skipping-from-peak-to-peak level of
+              Geistesgeschichte to the nitty-gritty of intellectual history, the distinctions
+              between great and non-great dead philosophers, between clear and
+              borderline cases of 'philosophy', and between philosophy, literature,
+              politics, religion and social science, are of less and less importance. The
+              question of whether Weber was a sociologist or a philosopher, Arnold a
+              literary critic or a philosopher, Freud a psychologist or a philosopher,
+              Lippman a philosopher or a journalist, like the question of whether we can
+              include Francis Bacon as a philosopher if we exclude Robert Fludd, are
+              obviously matters to be settled after we have written our intellectual
+              history rather than before. Interesting filiations which connect these
+              borderline cases with clearer cases of 'philosophy' will or will not appear,
+              and on the basis of such filiations we shall adjust our taxonomies.
+              Furthermore, new paradigm cases of philosophy produce new termini for
+              such filiations. New accounts of intellectual history interact with contemporary developments to readjust continually the list of 'philosophers',
+              and eventually these readjustments produce new canons of great dead
+              philosophers. Like the history of anything else, history of philosophy is
+              written by the victors. Victors get to choose their ancestors, in the sense
+              that they decide which among their all too various ancestors to mention,
+              write biographies of, and commend to their descendants.
+                  As long as 'philosophy' has an honorific use it will matter which figures
+              count as 'philosophers'. So if things go well we can expect continual
+               revisions of the philosophical canon in order to bring it into line with the
+              present needs of high culture. If they go badly, we can expect the stubborn
+               perpetuation of a canon - one which will look quainter and more factitious
+               as the decades pass. On the picture I wish to present, intellectual history is
+               the raw material for the historiography of philosophy - or, to vary the
+               metaphor, the ground out of which histories of philosophy grow. The
+               Hegelian triad I have sketched becomes possible only once we have, with
+               an eye both to contemporary needs and to the recent writings of revisionist
+               intellectual historians, formulated a philosophical canon. Doxography, on
+               the other hand, as the genre which pretends to find a continuous streak of
+               philosophical ore running through all the space-time chunks which the
+               intellectual historians describe, is relatively independent of current
+               developments in intellectual history. Its roots are in the past - in the
+               forgotten combination of transcended cultural needs and outdated intellectual history which produced the canon it enshrines.
+                  This role as inspiration for the reformulation of the (philosophical and
+               other) canons is, however, not the only use for intellectual history.
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 23 ===
+
+                                    The historiography of philosophy: four genres                                      71
+               Another is to play the same dialectical role with respect to Geistesges-chichte as historical reconstruction plays to rational reconstruction. I have
+               said that historical reconstructions remind us of all those quaint little
+               controversies the big-name philosophers worried about, the ones which
+               distracted them from the 'real' and 'enduring' problems which we moderns
+               have managed to get in clearer focus. By so reminding us, they induce a
+               healthy skepticism about whether we are all that clear and whether our
+               problems are all that real. Analogously, Ong on Ramus, Yates on Lull,
+               Fiering on Mather, Wartofsky on Feuerbach, and so on remind us that the
+               great dead philosophers whom we spend our time reconstructing were
+               often less influential - less central to the conversation of their own and
+               several intervening generations - than a lot of people we have never
+               thought about. They also make us see the people in our current canon as
+               less original, less distinctive, than they had seemed before. They come to
+               look like specimens reiterating an extinct type rather than mountain peaks.
+               So intellectual history works to keep Geistesgeschichte honest, just as
+               historical reconstruction operates to keep rational reconstructions honest.
+                   Honesty here consists in keeping in mind the possibility that our self-justifying conversation is with creatures of our own phantasy rather than
+               with historical personages, even ideally re-educated historical personages.
+               Such a possibility needs to be acknowledged by those setting out to write
+               Geistesgeschichte, because they need to worry about whether their own
+               chapter headings may have been too much influenced by those of the
+               doxographies. In particular, when a professor of philosophy sets out on
+               such a self-justificatory project he usually does so only after decades of
+               giving courses on various great dead philosophers - those whose names
+               appear in the syllabus for examinations to be taken by his students, a
+                syllabus he is likely to have inherited rather than composed. It is natural for
+               him to write Geistesgeschichte by stringing a lot of those notes together,
+                thus skipping between the same old peaks, passing over in silence the
+                philosophical flatlands of, e.g., the third and fifteenth centuries. This sort
+                of thing leads to such extreme cases as Heidegger's attempt to write 'the
+                history of Being' by commenting upon texts mentioned in Ph.D. examinations in philosophy in German universities early in this century. In the
+                aftermath of being enthralled by the drama Heidegger stages, one may
+                begin to find it suspicious that Being stuck so closely to the syllabus.
+                   Heidegger's followers changed the syllabus in order to make everything
+                lead up to Nietzche and Heidegger, just as Russell's changed the syllabus to
+                make it lead up to Frege and Russell. Geistesgeschichte can change canons
+                in a way that doxography does not. But such partial canon-revision
+                highlights the fact that Nietzsche may only seem that important to people
+                overly impressed by Kantian ethics, just as Frege may only seem that
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 24 ===
+
+              Jl                                      RICHARD RORTY
+               important to people overly impressed by Kantian epistemology. It still
+               leaves us bemused by the question how Kant ever got to be that important
+               in the first place. We tend to explain to our students that their own
+               philosophical thinking must go through Kant rather than around him, but
+               it is not clear that we mean more than that they will not understand our
+               own books if they have not read Kant's. When we draw back from the
+               philosophical canon in the way made possible by reading the detailed and
+               thickly interwoven stories found in intellectual history, we can ask
+               whether it is all that important for the students to understand what we
+               contemporary philosophers are doing. That is the sort of honest self-doubt
+               which gives people the motive and the courage to write radically innovative
+               Geistesgeschichte - the kind exemplified by Foucault's The Order of
+                Things, with its famous reference to 'the figure we call Hume'.
+                   Foucauldians may object to my description of that book as Geistesges-chichte, but it is important for my argument to group it together with, e.g.
+               Hegel's and Blumenberg's histories. For all of Foucault's insistence on
+               materiality and contingency, his conscious opposition to the geistlich and
+               dialectical character of Hegel's story, there are lots of resemblances
+               between that story and his own. Both help to answer the question which
+                doxography eschews: in what ways are we better and in what ways worse
+               off than this or that set of predecessors? Both assign us a place in an epic,
+                the epic of modern Europe, though in Foucault's case it is an epic over
+               which no Geschick presides. Foucault's, like Hegel's, is a story with a
+               moral; it is true that both Foucault and his readers have trouble formulating that.moral, but we should remember that the same was true for Hegel
+               and his readers. Foucault ties in 'the figure we call Hume' with what the
+               doctors and the police were up to at the time, just as Hegel tied in various
+               philosophers with what the priests and the tyrants of their times were
+               doing. Hegel's subsumption of the material under the spiritual attempts the
+               same task as Foucault's account of truth in terms of power. Both try to
+               convince us intellectuals of something we badly need to believe - that the
+                high culture of a given period is not just froth, but rather an expression of
+                something that goes all the way down.
+                   I insist on this point because the example of Foucault, taken together
+               with the suspicion I have voiced about philosophy as a natural kind, and
+               about the cream-skimming model of the relation between intellectual
+               history and the history of philosophy, might lead one to suggest that if
+               doxography goes it should take Geistesgeschichte with it. Many admirers of
+               Foucault are inclined to think that we do not need any more accounts of
+                how die Gipfel sehen einander. Indeed, one might be tempted to go
+               further and suggest that 'the historiography of philosophy' is itself a notion
+               which has outlived its usefulness - because, roughly, the honorific use of
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 25 ===
+
+                                   The historiography ofphilosophy: four genres                                       73
+              'philosophy' has outlived its. If we have the sort of complicated, thick,
+              intellectual history which is wary of canons (philosophical, literary,
+              scientific, or other) do not we have enough? Is there any need for history of
+              something special called 'philosophy' any more than there is a need to carry
+              on a discipline which goes by that name? If we really believe that there is no
+              God, no real essences, nor any surrogate for either, if we follow Foucault in
+              being consistently materialistic and nominalist, will we not want to stir
+              things up so that there is no way at all to distinguish the cream from the
+              milk, the conceptual and philosophical from the empirical and historical?7
+                 As a good materialist and nominalist, I am obviously sympathetic to this
+              line of thought. But as an amateur of Geistesgeschichte I want to resist it. I
+              am all for getting rid of canons which have become merely quaint, but I do
+              not think that we can get along without canons. This is because we cannot
+              get along without heroes. We need mountain peaks to look up towards. We
+              need to tell ourselves detailed stories about the mighty dead in order to
+              make our hopes of surpassing them concrete. We also need the idea that
+              there is such a thing as 'philosophy' in the honorific sense - the idea that
+              there are, had we but the wit to pose them, certain questions which
+              everybody should always have been asking. We cannot give up this idea
+              without giving up the notion that the intellectuals of the previous epochs of
+              European history form a community, a community of which it is good to
+              be a member. If we are to persist in this image of ourselves, then we have to
+              have both imaginary conversations with the dead and the conviction that
+              we have seen further than they. That means that we need Geistesgeschichte,
+              self-justificatory conversations. The alternative is the attempt which Fou-cault once adumbrated but which he has, I hope, given up - the attempt to
+              have no face, to transcend the community of the European intellectuals by
+              affecting a context-less anonymity, like those characters in Beckett who
+              have given up self-justification, conversational interchange, and hope. If
+              one does wish to make such an attempt, of course, then Geistesgeschichte -
+              even the sort of materialistic, nominalistic, entzauberte Geistesgeschichte I
+              am attributing to Foucault - is one of the first things one has to get rid of. I
+              have been writing on the assumption that we do not want to make this
+               attempt, but rather want to make our conversation with the dead richer and
+              fuller.
+                  On this assumption, what we need is to see the history of philosophy as
+               the story of the people who made splendid but largely unsuccessful
+                    One expression of this sceptical line of thought is Jonathan Ree's polemic against the role of
+                    'the idea of the History of Philosophy' in presenting 'philosophy as a self-contained,
+                    eternal sector of intellectual production' and as having 'a history of its own going back like
+                    a tunnel through the centuries' (Ree 1978:32). I entirely agree with Ree, but think that one
+                    can avoid this myth, while continuing the three genres I have commended, simply by self-consciously using 'philosophy' as an honorific rather than a descriptive term.
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 26 ===
+
+              attempts to ask the questions which we ought to be asking. These will be
+              the people who are candidates for a canon - a list of authors whom one
+              would be well advised to read before trying to figure out what questions are
+              the philosophical ones, in the honorific sense of 'philosophy'. Obviously,
+              any given candidate may or may not share the concerns of this or that
+              group of contemporary philosophers. One will not be in a position to
+              know whether this is his fault, or the fault of the group in question, until
+              one has read all the other candidates and settled on one's own canon - told
+              one's own Geistesgeschichte. The more intellectual history we can get, of
+              the kind which does not worry about what questions are philosophical and
+              who counts as a philosopher, the better our chances of having a suitably
+              large list of candidates for a canon. The more various the canons we adopt-the more competing Geistesgeschichten we have at hand - the more likely
+              we are to reconstruct, first rationally and then historically, interesting
+              thinkers. As this competition grows more intense, the tendency to write
+              doxographies will be less strong, and this will be all to the good. The
+              competition is not likely ever to be resolved, but as long as it continues we
+              shall not lose that sense of community which only impassioned conversation makes possible.8
+
+                                                        REFERENCES
+               Ayer, A. J. 1936. Language, Truth and Logic. London: Gollancz
+               Ayers, Michael. 1978. * Analytical philosophy and the history of philosophy', in
+                  Jonathan Ree, Michael Ayers and Adam Westoby, Philosophy and its Past.
+                   Brighton: Harvester Press
+               Bennett, Jonathan. 1971. Locke, Berkeley, Hume: Central Themes. Oxford:
+                      Oxford University Press
+               Dunn, John. 1980. Political Obligation in its Historical Context. Cambridge:
+                    Cambridge University Press
+               Fiering, Norman. 1981. Moral Philosophy at Seventeenth-Century Harvard: A
+                    Discipline in Transition. Chapel Hill: University of North Carolina Press
+               Heidegger, M. 1973. 'Sketches for a history of being', in The End of Philosophy,
+                    trans. Joan Stambaugh. New York: Harper & Row
+               Hirsch, E. D., Jr. 1976. The Aims of Interpretation. Chicago: University of
+                    Chicago Press
+               Ree, Jonathan. 1978. 'Philosophy and the history of philosophy', in Jonathan Ree,
+                    Michael Ayers and Adam Westoby, Philosophy and its Past. Brighton:
+                    Harvester Press
+               Rorty, Richard. 1982. Consequences of Pragmatism. Minneapolis: University of
+                    Minnesota Press
+                    I am grateful to David Hollinger for helpful remarks on an earlier version of this paper, and
+                    to the Center for Advanced Study in the Behavioral Sciences for providing ideal circumstances for its composition.
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 27 ===
+
+                                   The historiography of philosophy: four genres                                      75
+              Ryle, Gilbert, 1971. Collected Papers, vol. 1. London: Hutchison
+              Skinner, Quentin. 1969. 'Meaning and understanding in the history of ideas',
+                  History and Theory 8: 3-53
+              Strawson, P. F. 1966. The Bounds of Sense: An Essay on Kant's 'Critique of Pure
+                  Reason3. London: Methuen
+              Thompson, E. P. 1963. The Making of the English Working Class. Baltimore:
+                  Penguin Books
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+
+=== p. 28 ===
+
+Downloaded from https://www.cambridge.org/core. University of Sussex Library, on 25 Jul 2018 at 13:50:46, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. Cambridge University Press, 2010
+

@@ -1,0 +1,917 @@
+=== chunk: cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology ===
+title: Dever, "What is Philosophical Methodology?"
+source_pdf: docs/sources/cappelen-gendler-hawthorne-2016-oxford-handbook/full.pdf
+pdf_pages: 20-43
+page_scheme: book
+plan_page_start: 3
+plan_page_end: 26
+extracted_pages: 23 (plan nominally 24; trailing blank trimmed)
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 3 ===
+
+                                       Chapter 1
+
+        W h at is Phil osophica l
+             M ethodol ogy?
+                                       Josh Dever
+
+                                  1. Introduction
+
+Philosophical methodology has been a hot topic recently. (I hear they’re devoting entire
+handbooks to it!) But what is the topic? What do we talk about when we talk about philosophical methodology? The goal of this chapter is to address that metamethodological
+question.1 I won’t attempt to say what good philosophical methodology is, or to answer any
+first-​order methodological questions, but only to figure out what kind of thing a philosophical methodology (good or not) would be, and what kind of questions would count as methodological questions.
+   A persistent ambiguity dogs any discussion of the metamethodological question of
+what kind of thing philosophical methodology is, rather than (e.g.) what instances of that
+type are typically or ideally realized. The question “What is philosophical methodology?”
+admits of a “lower-​order” reading, on which admissible answers are the use of thought
+experiments to test conceptual analyses, or understanding us and our environments in a way
+conducive to human flourishing. But the same question admits of a “higher-​order” reading,
+on which admissible answers are the epistemological methods that distinguish philosophy
+from the natural sciences (on one side) and the humanities (on the other side), or the pursuit
+of a description of reality at the most fundamental level. It is the “higher-​order” reading
+that I will be primarily interested in in this chapter, but to avoid ambiguity or the need
+for lengthy disambiguations, I will use “Philosophical Methodology” to pick out questions
+
+  1 I use “meta” here in a loosely type-​t heoretic sense, so that metamethodological questions are
+
+questions that refer to something referring to methodology, rather than merely questions that refer to
+methodology. The use of the “meta”-​label is also a way of characterizing the subfield of philosophical
+methodology—​it is presumably not an orthographic accident that it is often called “metaphilosophy.”
+The current topic, in that terminology, is metametaphilosophy. The question of the relation between
+the two occurrences of “meta” in this label is taken up in section 5.
+
+=== p. 4 ===
+
+of the higher order, and “philosophical methodology” to pick out questions of the lower
+order.2
+   It is perhaps appropriate to begin this investigation into the nature of Philosophical
+Methodology with a brief description of the methodology that the investigation itself
+will use.3 We’ll start by treating this as a problem in (not so) ordinary language philosophy: there is a term “philosophical methodology” at use in philosophical talk and writing, and we want to know what that term picks out. To provide a robust data pool, I’ll take
+all occurrences of the word “methodological” in entries of the Stanford Encyclopedia of
+Philosophy (SEP), and see what plausible theories of Philosophical Methodology can be fitted onto the bed of that range of usage.4
+   We will turn shortly to the consideration of some theories of Philosophical Methodology
+on the basis of this data pool, but let’s begin by looking at a few representative usages to get
+a sense for the shape and difficulty of the task. Here are five samples from the data pool,
+selected (from among many other suitable candidates) to display some of the paradigm
+usage types:
+
+    1. [Aquinas] employs, through all his works, a methodological axiom: X’s nature is
+       understood by understanding X’s capacities, which are understood by understanding their act[uation]s, which are understood by understanding their objects. (John
+       Finnis, SEP, “Natural Law Theories”)5
+    2. From this vantage point, general covariance is but the most recent refinement of the
+       methodological principle of “unity of determination” governing the constitution
+       of objects of physical knowledge, completing the transposition in physics from concepts of substance into functional and relational concepts. (Thomas Ryckman, SEP,
+       “Early Philosophical Interpretations of General Relativity”)
+    3. Is there any a priori support for “There is nothing”? One might respond with a
+       methodological principle that propels the empty world to the top of the agenda. For
+       instance, many feel that whoever asserts the existence of something has the burden
+       of proof. (Roy Sorensen, SEP, “Nothingness”)
+
+   2 So “What philosophical methodology should we use to determine what Philosophical
+
+Methodology is?” is the question of what member of some type T we should use in coming to
+understand the nature of type T itself. The lower-​order questions will typically be more amenable to
+normative instances, because the metaphysical/​conceptual questions of the nature of the category are
+less normative (which is not to say wholly non-​normative) than questions about the use of members of
+the category.
+     Is it also perhaps incoherent, on the grounds that we are in no position to consider a particular
+methodology until we’ve determined what Methodology is? No, for familiar Meno-​t ype reasons. It
+suffices that we have a recognitional capacity with respect to methods. So long as you recognize what
+I give as a method, that will suffice to begin the process of determining what kind of thing you are
+thereby recognizing it as being.
+   4 A brief summary of the data: there are (as of 2010, when the original data was collected) 285
+
+entries in the Stanford Encyclopedia of Philosophy that use the word “methodological.” The full list of
+those entries (in the order produced by the search engine) is shown in Appendix 1 of this chapter.
+   5 Bolding of “methodological” and cognates is added to quotations throughout. All other forms of
+
+emphasis are in the original.
+
+=== p. 5 ===
+
+      4. Aristotle approaches his account of the nutritive soul by relying on a methodological precept which informs much of his psychological theorizing, namely that
+         a capacity is individuated by its objects, so that, e.g. perception is distinguished
+         from mind by being arrayed toward sensible qualities rather than intelligible forms.
+         (Christopher Shields, SEP, “Aristotle’s Psychology”)
+      5. Cognitive science raises many interesting methodological questions that are worthy of investigation by philosophers of science. What is the nature of representation?
+         What role do computational models play in the development of cognitive theories?
+         What is the relation among apparently competing accounts of mind involving symbolic processing, neural networks, and dynamical systems? What is the relation
+         among the various fields of cognitive science such as psychology, linguistics, and
+         neuroscience? Are psychological phenomena subject to reductionist explanations
+         via neuroscience? (Paul Thagard, SEP, “Cognitive Science”)
+
+Whatever Philosophical Methodology is, it is apparently the source of axioms, principles,
+precepts, and questions. Making the bold assumption that axioms, principles, and precepts
+are all the same thing, we have a short list of propositions wearing the “methodological”
+honorific:
+
+  • (A) X’s nature is understood by X’s capacities, (B) “For the physical description of the
+    processes of nature no particular reference body should be distinguished above all
+    others”,6 (C) Whoever asserts the existence of something has the burden of proof, (D)
+    A capacity is individuated by its objects
+
+We also have a list of questions distinguished as “methodological”, including “What role
+do computational models play in the development of cognitive theories?” and “Are psychological phenomena subject to reductionist explanations via neuroscience?”.
+   Even the small sample of propositions (A) through (D) shows a considerable diversity.
+(D) is a straightforward proposition of metaphysics and (C) a straightforward proposition of epistemology. (A) lands either in metaphysics or in epistemology, depending on
+whether “understood” is given a metaphysical (e.g. grounding) or an epistemological
+(e.g. explanatory) reading. (B) is a normative claim, in which the relevant norm is something like a (non-​a lethic?) norm of theory selection. The additional methodological
+questions rapidly add to the diversity. It is tempting, in order to constrain the class of the
+Methodological, to hypothesize that a methodological question is not a methodological
+question simply in virtue of being a question whose answer is a methodological proposition (=axiom, principle, etc.), but rather that it is somehow distinctively the question that
+is methodological. At this early point in the investigation, however, it is not transparent
+how to make this distinction.
+   What, then, do we talk about when we talk about philosophical methodology? I think
+even this small sample of the usage suffices to show that there’s no obvious and straightforward fitting of an account of Philosophical Methodology onto the way in which
+
+    The “principle of the unity of determination”, from Cassirer (1921), as discussed in Ryckman
+(2005).
+
+=== p. 6 ===
+
+philosophers use “methodological” talk.7 In the remainder of this investigation I’ll set out
+a sequence of attempted fittings, which will be tested against a wider range of the data as we
+proceed. More or less each attempt will try to respond to the shortcomings of the previous
+attempt, so if all goes well there will be some accumulation of virtues along the way.
+   It’s a long journey through the sequence of attempts, though, so I’ll start with a math
+problem to mull over if you weary of Methodological hypotheses:
+   The Puzzle: Springfield is a town of 1,000 people, whose residents have a mania for forming clubs. The residents of Springfield place two requirements on their clubs:
+
+    1. Each club must have an odd number of members.
+    2. Any two distinct clubs must have an even number (possibly 0) of members in
+       common.
+
+  Determine (with proof) the largest number of clubs that the residents of Springfield
+can form.
+
+                2. Hypothesis #1: Eliminativism
+
+Let’s begin with the simplest view: there’s nothing at all meant by “methodological” in philosophical contexts. It can simply be globally eliminated without any content being lost.8 To
+see why one might be tempted by Eliminativism, consider claims such as:
+
+  • A simple scientific example can be found in the rationale behind the sensible methodological adage that “correlation does not imply causation.” (Kyle Stanford, SEP,
+    “Underdetermination of Scientific Theory”)
+  • There is, then, at the very least, a methodological issue separating DRT from non-​
+    representational frameworks: a non-​representational framework is defined with a
+    natural criterion for identity of meaning of two sentences in mind, and this criterion is
+    related to the information conveyed by those sentences. But in a representational framework like DRT the representations themselves provide the only criterion for judging
+    identity of meaning. So is representationalism only methodological, a mere convenience? (Bart Geurts and David Beaver, SEP, “Discourse Representation Theory”)
+
+     One hypothesis is that the subfield of “Philosophical Methodology” is not, in fact, beholden to
+how philosophers at large use the “methodological” vocabulary, but rather only to how philosophers
+engaged in the “Philosophical Methodology’ subfield use the “methodological” vocabulary. (There is
+a worry here about how to identify the relevant subfield, but we might get started by ostension, or
+by characterizing a distinctive “meta” syntactic profile that distinguishes talk about Philosophical
+Methodology in the relevant sense.) I won’t pursue this hypothesis here, but plausibly it would lead (for
+reasons that are alluded to in section 4) to something similar to what I call “Epistemologism” about
+Philosophical Methodology.
+   8 Plausibly Eliminativism should be the null hypothesis for all philosophical vocabulary.
+
+=== p. 7 ===
+
+Now re-​read those claims deleting the occurrences of “methodological.”9 How much is lost
+by taking “causation does not imply correlation” to be merely an adage, without specifying
+that it is a methodological adage, or by taking the difference in criterion for the identity of
+meaning to be an issue separating representational from non-​representational semantic
+frameworks, without specifying that it is a methodological issue?
+   Or, to venture outside the bounds of the Stanford Encyclopedia of Philosophy, consider
+Bonevac, Dever, and Sosa (2011)’s “First Methodological Observation”:
+
+  • Counterexamples must be deployed as counterexamples to specific proposals. The
+    example of a glass packed in Styrofoam can perhaps show that fragile cannot be analyzed as would break if struck, but it shows nothing about a proposed analysis of fragile
+    as would break if struck when unwrapped, and certainly shows nothing about any proposed analysis of a different dispositional term, such as irascible.
+
+Again, it’s not clear that anything is gained by calling this a methodological observation,
+rather than just an observation, beyond a certain weightiness of style.10
+   Eliminativism about Philosophical Methodology can’t be taken too seriously as a proposal. Methodological talk is widespread throughout philosophy, and Eliminativism
+would require a rather stark error theory about our stance toward our own philosophical
+practice. What does emerge from the consideration of Eliminativism is that, while there
+is surely a robust and substantive notion of Philosophical Methodology embedded in our
+practice, it also looks undeniable that philosophical rhetoric has an inclination toward
+“methodological creep”—​there is a temptation to achieve gravitas by calling points
+methodological.11 It’s thus at least a minor desideratum for a theory of Philosophical
+Methodology that it explain why “methodological” is, as it were, a high status word (at
+least among philosophers).
+
+       3. Hypothesis #2: Working-​Hypothesism
+
+Consider the use of “methodological” language in the discussion of methodological reduc-tionism in Ingo Brigandt and Alan Love’s SEP entry on reductionism in biology:
+
+  • Methodological reduction is the idea that biological systems are most fruitfully investigated at the lowest possible level, and that experimental studies should be aimed at
+    uncovering molecular and biochemical causes. A common characterization of this
+
+      And making appropriate syntactic adjustments.
+      A certain amount of uncomfortable autobiographical reflection was involved in the writing of
+this piece, as will manifest again in this chapter.
+   11 Of course, the apparent eliminability of “methodological” from any particular bit of
+
+philosophical text is inadequate to determine that that usage is rhetorical, rather than substantive.
+Even if nothing in the content of a given text requires or determines a non-​vacuous meaning
+of “methodological”, the text can still be exploiting a substantive conception of Philosophical
+Methodology determined by other parts of the practice.
+
+=== p. 8 ===
+
+     type of strategy is what has been termed “decomposition and localization” (Bechtel
+     and Richardson 1993). While methodological reductionism is often motivated by the
+     presumption of ontological reduction, this procedural recommendation does not follow directly from it. (Brigandt and Love, SEP, “Reductionism in Biology”)
+
+Eliminitivism is not a plausible analysis of this use of “methodological”—​because methodological reductionism is being contrasted with other forms of reductionism, some substantive theory of what makes a form of reductionism peculiarly methodological is needed.
+    Here’s a crude diagnosis: we focus on Brigandt and Love’s claim that methodological
+reductionism is a technique for securing fruitful biological theorizing by, in effect, acting as
+if (biological) reductionism is true, whether or not it is in fact true. We see a similar idea in
+Zoltán Szabό’s SEP article on compositionality. Here, under the subsection “Methodology”,
+Szabό says:
+
+  • By far the most popular reason for believing in compositionality is that it works.
+    Linguists have adopted various versions of the principle as a working hypothesis and
+    developed semantic theories on their basis. These theories have provided intuitively
+    satisfactory explanations for certain data, such as the validity or invalidity of certain
+    inferences or for various sorts of contrasts between certain minimal pairs. (Szabό,
+    SEP, “Compositionality”)
+
+Like Brigandt and Love, Szabό characterizes a principle as methodological on the grounds
+that guiding theorizing by it produces better final theories. (Szabό differs from Brigandt
+and Love by characterizing the theoretical fruitfulness of the principle as something people take as a reason for belief in the principle, although he proceeds to say that “despite its
+popularity, this is not a very good reason to believe in compositionality”, and most of his
+methodological discussion is independent of the question of outright belief in the methodological principle.)
+   Philosophical Methodology is, on this conception, the task of identifying “working
+hypotheses”, tentative assumptions, and norms of investigation that lead to good theorizing. Working hypotheses in the relevant sense can be claims that we suspect, but don’t yet
+know, to be true, such as the principle of compositionality in semantic theorizing. Here the
+pursuit of compositional meaning theories is perhaps fruitful in part because (we suspect)
+the one true semantic theory is in fact compositional, so our working hypothesis directs
+us to the proper part of logical space. But the compositional pursuit can also be fruitful
+because it helps us avoid certain kinds of mistakes by lowering the complexity of the theory,
+or because it makes it easier for us to integrate modular theories for different semantic phenomena. Working hypotheses can also be claims that are (we suspect) false, such as a claim
+of ontological reductionism in biology. In adopting reductionism as a working hypothesis,
+we perhaps obtain better theories, not because the biological systems are genuinely reductive, but rather because there are de facto widespread explanatory relations, not sufficient
+for reductionism, from the microphenomena to the macrophenomena.
+   The relevant tentative assumptions can, it would appear, be arbitrarily diverse in their
+content—​they need not be, for example, exclusively “deep” metaphysical or epistemological principles. “Working hypotheses” in this sense can also cover simple advice on
+
+=== p. 9 ===
+
+how to do good philosophical theorizing, as in Bonevac, Dever, and Sosa (2011)’s “Third
+Methodological Observation”:
+
+  • Philosophical discussions of conditionals should not assume that the logical options
+    are limited to the material condition, the C. I. Lewis strict conditional, and the Lewis/​
+    Stalnaker variably strict counterfactual conditional.12
+
+But if Philosophical Methodology amounts simply to nuggets of advice on how to get
+good philosophy done, there is a worry about how to carve out a philosophically interesting enterprise under the “Philosophical Methodology” banner, rather than a glorified
+anthology of avuncular wisdom. There is no clear stopping point on the spectrum from
+“assume until forced to do otherwise that biological phenomena have reductive biochemical explanations” to “try to make your semantic theories compositional, unless that gets
+hopelessly messy”, to “consider a wide range of logical options”, to “don’t do philosophy
+while drunk”.13
+
+               4. Hypothesis #3: Epistemologism
+
+Many instances of “methodological” talk focus on epistemological questions of how we
+achieve knowledge through philosophical activity. Consider some representative samples:
+
+  • However it is often thought that knowledge of animal minds—​what Allen & Bekoff
+    (1997) refer to as “the other species of mind problem” and Prinz (2005) calls “The Who
+    Problem”—​presents special methodological difficulties because we cannot interrogate animals directly about their experiences (but see Sober 2000 for discussion of
+    tractability within an evolutionary framework, and Farah 2008 for a neuroscientist’s perspective). Although there have been attempts to teach human-​like languages
+    to members of other species, none has reached a level of conversational ability that
+    would solve this problem directly (see Anderson 2004 for a review). (Colin Allen, SEP,
+    “Animal Consciousness”)
+  • Ironically, the identification of empathy and understanding and the associated claim
+    that empathy is the sole and unique method of the human sciences also facilitated the
+    decline of the empathy concept and its almost utter disregard by philosophers of the
+    human and social sciences later on, in both the analytic and continental/​hermeneutic
+    traditions of philosophy. Within both traditions, proponents of empathy were—​for
+    very different reasons—​generally seen as advocating an epistemically naïve and insufficiently broad conception of the methodological proceedings in the human sciences.
+    As a result, most philosophers of the human and social sciences maintained their distance from the idea that empathy is central for our understanding of other minds and
+    mental phenomena. (Karsten Stueber, SEP, “Empathy”)
+
+           A certain amount of uncomfortable autobiographical reflection is reflected here also.
+           Or “don’t do philosophy while sober”, if that’s your preference. I’m not here to judge.
+
+=== p. 10 ===
+
+  • Informed by his reading of Schleiermacher, Droysen, and Dilthey, Martin Heidegger’s
+    Sein und Zeit (1927) completely transformed the discipline of hermeneutics. In
+    Heidegger’s view, hermeneutics is not a matter of understanding linguistic communication. Nor is it about providing a methodological basis for the human sciences.
+    (Bjørn Ramberg and Kristin Gjesdal, SEP, “Hermeneutics”)
+
+The difficulties created by animal minds are specifically methodological difficulties because
+they are epistemological difficulties—​t he problems here are not, for example, problems in
+accounting for the metaphysics of animal minds, but for our knowledge of them. Similarly,
+empathy is a methodological issue because it is (in context) an epistemic tool for reaching
+conclusions in the human sciences. The general hypothesis, then, is that Philosophical
+Methodology is the study of the means by which we come to achieve knowledge14 in
+philosophy.
+   On the assumption that what we are trying to do when we do philosophy is to come to
+know various (philosophical) truths about the world, Epistemologism about Philosophical
+Methodology sweeps in the “working hypothesis” view as a special case. Methods as working hypotheses are tools to help us do philosophy better, which then translates into tools for
+achieving knowledge. But the “methodological tidbits” considered in section 3 will represent ad hoc tinkering about the edges of the problem, while the central topic will be a thorough characterization of our epistemic relation to philosophical claims.
+   Epistemologism about Philosophical Methodology encompasses much of the recent
+work that goes under the specific banner of “philosophical methodology.” We can distinguish two classes of issues that emerge in Epistemologist Philosophical Methodology.
+There are descriptive issues, centering on a specification of the epistemic methods that
+are conducive to philosophical knowledge. And there are normative issues, centering on
+the question of why the methods specified when addressing the descriptive question are the
+right methods to use.15
+   Recent discussion of the descriptive issues has revolved around renewed interest in characterizing philosophical investigation. One persistent topic has been the role of thought
+experiments as a tool for testing philosophical theses. The descriptive questions here are
+numerous. We need to know what kind of philosophical thesis can be tested by thought
+experiments (only necessary theses?), what kinds of things thought experiments are (for
+example, what the content of a thought experiment is), whether thought experiments are a
+global epistemic device across philosophy or whether their application is limited to specific
+subdomains of philosophy, whether the reactions of all subjects to thought experiments are
+
+     Or justification, or etc. We needn’t fuss about the precise epistemological category here.
+     The labeling here is tricky, because the epistemic methods being enumerated and described in
+addressing the descriptive question are themselves normative methods, or at least intimately related to
+normative claims. Answering the descriptive question will lead us to say, for example, that intuitions
+justify philosophical claims, or that experimental methods ought to be used to check judgments on
+thought experiments, or that good theorizing is done through conceptual analysis. Answering the
+normative question leads us to say that intuitions justify because intellectual seemings, like perceptual
+seemings, grant default entitlement, or that conceptual analysis grounds apparent synthetic a priori
+knowledge via our ability to create truth through stipulation. We might equally well call the two
+categories the normative and the metanormative.
+
+=== p. 11 ===
+
+equally valid or whether successful/​epistemically weighty evaluation of a thought experiment requires specific skills or expertise, whether evaluation of a thought experiment is
+underwritten by specific epistemic faculties such as intuition or a generic capacity for the
+evaluation of counterfactuals, and so on.
+    More generally, the descriptive issues in Epistemologist Philosophical Methodology
+tend to blend seamlessly into general epistemological questions, especially in the epistemology of a priori knowledge. Since many of the propositions we want to assess in philosophy appear to be either a priori true or a priori false (although the extent of the involvement
+of a prioricity in philosophical practice is another topic in Epistemologist Philosophical
+Methodology), describing the epistemic methods of philosophy will largely involve
+describing the methods of achieving a priori knowledge. Questions about the role of intuitions, deductive reasoning, and conceptual analysis all reside in this aspect of the topic.16
+    The normative issues in Epistemologist Philosophical Methodology then flow from the
+descriptive issues. If intuitions play a crucial role in our philosophical method, what could
+the epistemology of intuitions be, such that they could be a source of knowledge? If conceptual analysis underwrites our philosophical knowledge, how does conceptual mastery
+translate into justification for analytic truths? And so on.
+    There is undeniably a rich and robust philosophical enterprise being described by
+Epistemologist Philosophical Methodology. It is, however, unclear whether that enterprise
+is in any way distinct from epistemology tout court. The worry here is twofold. First, it is an
+open question whether there is anything distinctively philosophical in philosophical methodology, taken in this epistemological sense. Maybe the ways of coming to know philosophical truths are different from the ways of coming to know non-​philosophical truths (either
+because some general ways of knowing are not applicable in the philosophical domain,
+or because some distinctively philosophical ways of knowing are not applicable outside
+philosophy). But certainly an examination of the actual practice of philosophers does not
+give grounds for optimism about this kind of philosophical exceptionalism. Actual philosophical practice involves pretty much every imaginable epistemic method: arguments
+deductive and inductive, experimentation, opinion survey, reflective equilibrium, critical
+self-​examination, phenomenological introspection, textual exigesis and eisigesis, and so
+on. If there is nothing distinctively philosophical in philosophical methodology, and philosophical methodology is just the epistemology of philosophical practice, then philosophical methodology collapses into epistemology.
+    Second, even if there are distinctively and uniquely philosophical epistemic tools, the
+normative characterization about those tools may be continuous with the characterization of general epistemic tools. Perhaps evaluation of thought experiments is a distinctive
+philosophical epistemic method, but perhaps also the underlying account of our ability to
+
+      Interest in these topics is not, of course, a novelty in philosophy. While there has certainly been
+a recent resurgence of writing on these sorts of methodological questions, attempts to characterize
+the epistemic methodology of philosophers appear recurrently throughout the historical record.
+To pick one of many possible examples, Russell extensively characterizes his method of analysis in
+The Philosophy of Logical Atomism and elsewhere. Stebbing’s classic “The Method of Analysis in
+Metaphysics” makes important steps toward addressing the normative questions by asking, not just
+what the method of analysis is, but what the relation between that method and metaphysics could be,
+such that analysis would be a way of coming to know metaphysical truths.
+
+=== p. 12 ===
+
+achieve justified beliefs through consideration of thought experiments runs, Williamson-​
+style, through “off-​line” deployment of very general faculties for the representation and
+modeling of the world around us. If this is the case, then again philosophical methodology
+becomes indistinguishable from epistemology in general.
+   Not that there’s anything wrong with epistemology. But there are aspects of the use
+of “methodology” language that are hard to square with the thought that Philosophical
+Methodology is just another name for epistemology. We’ll turn to some specific recalcitrant data in section 5, but I’ll close this section with a different sort of concern. One occasionally encounters criticisms of mainstream “analytic philosophy” for “methodological
+narrowness.” Both continental and feminist critiques, for example, will at times raise such
+methodological concerns. Thus consider Nancy Tuana’s “Approaches to Feminism” entry
+in the SEP, which says:
+
+  • There has been significant debate within feminist philosophical circles concerning
+    the effectiveness of particular methods within philosophy for feminist goals. Some,
+    for example, have found the methods of analytic philosophy to provide clarity of
+    both form and argumentation not found in some schools of Continental philosophy,
+    while others have argued that such alleged clarity comes at the expense of rhetorical
+    styles and methodological approaches that provide insights into affective, psychic, or
+    embodied components of human experience. Other feminists find approaches within
+    American pragmatism to provide the clarity of form and argumentation sometimes
+    missing in Continental approaches and the connection to real world concerns sometimes missing in analytic approaches. (Tuana, SEP, “Approaches to Feminism”)
+
+The concerns raised here, despite their “methodological” labeling, are not all manifestly
+epistemological concerns (consider, for example, the concern about “connection to real
+world concerns”). And if methodology just is epistemology, then the narrowness concerns (correct or incorrect) become thoroughly misguided—​as noted above, the epistemic
+methods used by philosophers seem to be as broad as they could possibly be.17 Charitable
+reconstruction of the narrowness concern, then, seems to require some non-​epistemic
+dimension to Philosophical Methodology.
+
+        5. Hypothesis #4: Theory Selectionism
+
+Sometimes, contra Epistemologism, “methodological” talk is explicitly contrasted with
+epistemological talk. Thus:
+
+  • Occam’s Razor may be formulated as an epistemic principle: if theory T is simpler than
+    theory T*, then it is rational (other things being equal) to believe T rather than T*. Or
+
+  17 Some narrowness concerns can be construed as worries not about what the full range of deployed
+
+epistemic methods is, but about the relative frequencies with which various methods are used. But
+not all.
+
+=== p. 13 ===
+
+     it may be formulated as a methodological principle: if T is simpler than T* then it is
+     rational to adopt T as one’s working theory for scientific purposes. (Alan Barker, SEP,
+     “Simplicity”)
+
+Here to take Occam’s Razor as a methodological principle is precisely not to take it as saying something about the role of simplicity considerations in our epistemology. As a rough
+first draft, we can distinguish between taking a realist stance toward our theories, which
+involves believing them, and taking an instrumentalist/​anti-​realist stance toward our theories, which involves merely accepting them.18
+   A view that takes Philosophical Methodology to be the principles that guide mere theory
+acceptance obviously contrasts sharply with Epistemologism, and will not account for the
+usages cited in section 4. Moreover, it will reduce Philosophical Methodology to a topic
+of interest only given a prior commitment to a particular philosophical position that asks
+for a belief/​acceptance distinction in the first place. But we can find a characterization of
+Philosophical Methodology that allows unification of these two views. Consider another
+discussion of the role of simplicity in theorizing:
+
+  • Unity can be understood as a methodological principle (Wimsatt 1976 and Wimsatt
+    2006 for the case of biology and Cat 1998 for physics). One way of doing so is as a simplicity or parsimony condition. But this kind of condition can receive two different
+    interpretations: epistemological and ontological. Sober has drawn this distinction to
+    shed light on the methodological role of unity hypotheses. He formulates it as a distinction between Peirce’s problem and Hempel’s problem of deciding between competing hypotheses, one unified and the other disunified: Hempel’s problem is how
+    to choose between two descriptively true hypotheses in terms of explanatory value;
+    Peirce’s problem is how to choose between two explanations in the light of the data
+    they explain in terms of their predictive accuracy or likelihood to be true. (Jodi Cat,
+    SEP, “The Unity of Science”)
+
+Here again an epistemological and a non-​epistemological use of simplicity is distinguished,
+but both are bundled under a common “methodological” heading. What makes them both
+“methodological”, it would seem, is that, whether epistemological or not, both are being
+used as tools for theory selection.
+   Philosophical Methodology, on this view, is the general study of criteria for theory selection. X is a methodological axiom or principle if X is a consideration which favors selecting one theory over another; X is a methodological question if X is a question such that a
+
+     This distinction, of course, has a long and, well-​distinguished history in philosophy of science,
+running through Mach, Poincaré, Carnap and the Vienna Circle, and van Fraassen. I won’t attempt
+here any non-​caricatured presentation of the nuances of scientific anti-​realism. What matters for our
+purposes is that the entanglement of “methodological” talk with the scientific realism/​a nti-​realism
+dispute, as manifested in this strand of the usage of “methodological”, seems to be responsible for
+the disproportionate representation of philosophy of science in the distribution of occurrences of
+“methodological” in the SEP. Although the historical data is sketchy, I think it’s plausible that the
+specifically philosophy-​of-​science usage is the primary point of entry for “methodological” talk into
+the rest of philosophy.
+
+=== p. 14 ===
+
+theory’s answer to that question plays a role in determining the acceptability of the that
+theory. Given that one desideratum for theory selection is that our selected theories be theories we are justified in endorsing, Epistemologism about Philosophical Methodology gets
+incorporated as a special case—​facts about how we can achieve knowledge of philosophical
+claims turn into facts about how we can select one (philosophical) theory over another.
+   Criteria for theory selection can be global considerations (simplicity and unity, support
+by intuition or experiment, and so on). But they can also be local and specific to a particular
+theoretical enterprise. When we are told:
+
+  • In the search for a theory of quantum mechanics it became a methodological requirement to Bohr that any further theory of the atom should predict values in domains of
+    high quantum numbers that should be a close approximation to the values of classical
+    physics. (Jan Faye, SEP, “Copenhagen Interpretation of Quantum Mechanics”)
+
+we are thereby given a particular desideratum for theoretical adequacy (close approximation to classical physics in domains of high quantum numbers) that is methodological
+because it is part of the method for selecting a theory of quantum mechanics, but which is
+not part of a general account of theory selection.19 Or again:
+
+  • Psychologist Zenon Pylyshyn (1984) appeals to multiple realizability to ground a
+    methodological criticism of reductionism. He described a pedestrian, having just
+    witnessed an automobile accident, rushing into a nearby phone booth and dialing a 9
+    and a 1. What will this person do next? Dial another 1, with overwhelming likelihood.
+    Why? Because of a systematic generalization holding between what he recognized,
+    his background knowledge, his resulting intentions, and that action (intentionally
+    described). (John Bickle, SEP, “Multiple Realizability”)
+
+The methodological criticism of reductionism is that reductionism will make unavailable
+generalizations crucial to the prediction and explanation of human behavior. The criticism
+is thus that a reductionist theory of mind will inevitably fail to meet certain criteria for
+theoretical adequacy.
+   Philosophical Methodology is on this picture metaphilosophy in the sense that it is an
+attempt to characterize what we are trying to do when we do philosophy, rather that a
+first-​order attempt to do philosophy. Again we can separate a descriptive and a normative aspect of the project. Normatively, the aim is to say what the goals of philosophy are
+(to give a complete catalog of truths, to give a complete catalog of fundamental truths, to
+give an explanatory account of the world, to tell us how to live our lives, to interpret the
+world in various ways, to change it). Descriptively, the aim is to say how those goals can
+be met (through intuitive assessment of thought experiments, by balancing considerations
+to achieve epoche, through endorsing simple theories, by working in the language of the
+“ontology room”). The excerpts given earlier in this section emphasized the descriptive side
+of the enterprise; the normative side is more on display in:
+
+    Of course, the local criterion may follow from global considerations combined with local facts
+about the theoretical structure of quantum mechanics.
+
+=== p. 15 ===
+
+  • The extent to which economics bears on and may be influenced by normative concerns raises methodological questions about the relationships between a positive
+    science concerning “facts” and a normative inquiry into what ought to be. Most economists and methodologists believe that there is a reasonably clear distinction between
+    facts and values, between what is and what ought to be, and they believe that most of
+    economics should be regarded as a positive science that helps policy makers choose
+    means to accomplish their ends, though it does not bear on the choice of ends itself.
+    (Daniel Hausman, SEP, “Philosophy of Economics”)
+
+The normative side of Theory Selectionism Philosophical Methodology takes center stage
+in much recent work on ontological commitment (metaontology or metametaphysics), in
+which a crucial question is what counts as an adequate theory of the world, from which
+ontological commitments can be read off.
+   If Epistemologist Philosophical Methodology threatens to relocate Philosophical
+Methodology entirely within epistemology, to what field of philosophy do methodological
+questions belong on the current conception? Metaphysics, for example, is responsible for
+providing a description of the fundamental constituents of the world—​but who is responsible for saying what kind of theory metaphysics ought to be providing? Not, on pain of
+regress, metaphysics itself. Of course, not every philosophical activity needs to have a taxonomic box to contain it. And to some extent Philosophical Methodology, so conceived, will
+be outsourced to multiple parts of philosophy. (We have already seen the epistemological
+involvement in the Philosophical Methodology project. Consider also the Williamsonian
+view that what epistemology should do is to take knowledge as a primitive, rather than seek
+an analysis of knowledge—​t his looks to be a piece of Philosophical Methodology driven
+by considerations drawn from philosophy of language about what constitutes an analysis.)
+But perhaps there is also a suggestion here that another “meta” category needs to be added
+to our traditional individuation of philosophical subfields.
+
+                  6. Hypothesis #5: Necessary
+                      Preconditionalism
+
+“Methodological” talk is used quite differently in Giuseppina D’Oro and James Connelly’s
+SEP entry on Robin George Collingwood:
+
+  • According to Collingwood, neither the proposition “mind exists” nor the proposition “matter exists” is a metaphysical proposition in the traditional sense. They are
+    not metaphysical propositions because they do not assert the existence of metaphysical kinds (mind and matter) but of the methodological assumptions that govern the
+    study of mind and nature. These propositions are, as Collingwood puts it, philosophical propositions which define the domains of enquiry or subject matters of the science of history and nature…. As already mentioned, philosophical propositions are
+    not presented as necessary existential claims but as methodologically necessary ones.
+    (D’Oro and Connelly, SEP, “Robin George Collingwood”)
+
+=== p. 16 ===
+
+What does it mean to call a proposition “methodologically necessary”? Apparently, that
+assuming that proposition is a necessary precondition to carrying out theorizing of some
+form. We see this idea at play, for example, in:
+
+  • For logical empiricism, the philosophical significance of relativity theory was above
+    all methodological, that conventions must first be laid down in order to express
+    the empirical content of a physical theory. (Ryckman, SEP, “Early Philosophical
+    Interpretations of General Relativity”)
+
+Roughly, there is methodological significance here because there is realization that conventions are a necessary precondition to scientific theorizing, because conventions are needed
+to mediate between theory and observation in order to have an account of theory confirmation and disconfirmation. This picture of Methodology is explicitly endorsed, for example, in Dever (2006):
+
+  • Call Φ a methodological principle for activity A if Φ either is, or is a logical consequence of, a claim whose truth is a constitutive feature of performance of A.20
+
+Necessary Preconditionalism provides a satisfyingly “deep” and unified account of what
+Philosophical Methodology is. Moreover, it’s an account that can subsume earlier positions
+as special cases. It is presumably a necessary precondition on engaging in theorizing of any
+sort that we have an account of what the conditions of adequacy for the theoretical enterprise are, and of what the epistemic methods are by which justification with respect to the
+tenets of the theory can be achieved. So Epistemologism and Theory Selectionism can be
+seen as pursuing particular forms of necessary preconditions.
+   However, Necessary Preconditionalism is not a satisfying account of Philosophical
+Methodology without an accompanying account of what exactly necessary preconditions
+are (or of what constitutive features of activities are), and it is not clear we have such an
+account. Recall one of our first examples of “methodological” talk—​t he “sensible methodological adage that ‘correlation does not imply causation’ ” (Stanford, “Underdetermination
+of Scientific Theory”). In what sense is the claim that correlation does not imply causation a necessary precondition for (one supposes) construction of scientific theories?
+Since causation is a significant ideological element of many scientific theories, an ability
+to individuate the causal feature of the world from the merely correlative feature, or the
+ability to reach justified conclusions about causation on the basis of distributional facts,
+will certainly be helpful in theoretical construction. But is this a necessary precondition?
+Not, it would appear, unless facts about the significant ideological elements of any enterprise are ipso facto necessary preconditions for that enterprise. At a minimum, Necessary
+Preconditionalism seems to require a strong essentialism about philosophical enterprises.
+If the deployment of causal notions is somehow essential to the scientific enterprise, then
+the “sensible methodological adage” is perhaps plausibly preconditional, but if it is a contingent theoretical discovery that causation is a central notion in scientific theorizing, then
+preconditionalism is less plausible.
+
+        And again, a certain amount of uncomfortable autobiographical reflection is involved here.
+
+=== p. 17 ===
+
+              7. Hypothesis #6: Hierarchicalism
+
+Consider three more uses of “methodological” talk, each of which has something in common with the “necessary precondition” scheme:
+
+       a. There are some complex and rather subtle issues involved in this methodological
+          controversy. It is common ground to all these theories, including Hart’s, that any
+          attempt to understand what the law is, must rely on a fairly elaborate understanding of law’s functions in society, and of the ways in which the law is constituted to
+          fulfill those functions. Furthermore, it seems very plausible to maintain, as Hart
+          himself suggested, that we cannot understand law without understanding the ways
+          in which it is typically regarded by those whose law it is, namely, by those who normally regard the law as giving reasons for their actions. (Andrei Marmor, SEP, “The
+          Nature of Law”)
+       b. [Operationalism] is commonly considered a theory of meaning which states that
+          “we mean by any concept nothing more than a set of operations; the concept is synonymous with the corresponding set of operations” (Bridgman 1927, 5). That drastic statement was made in The Logic of Modern Physics, published in 1927 by the
+          American physicist P. W. Bridgman…. However, as Bridgman’s ideas gained currency they were shaped into a general philosophical doctrine of “operationalism” or
+          “operationism”, and in that form became very influential in many areas, especially
+          in methodological debates in psychology. (Hasok Chang, SEP, “Operationalism”)
+       c. An empirical study in historical science, in the end, cannot do without a metaphysics of history. Bridging irrational reality and rational concept in historical science,
+          or overcoming hiatus irrationalis (á la Lask) without recourse to a metaphysics of
+          history still remained a problem as acutely as before. While accepting the broadly
+          neo-​Kantian conceptual template as Rickert elaborated it, Weber’s methodological
+          writings would turn mostly on this issue. (Sung Ho Kim, SEP, “Max Weber”)
+
+   The passage from Marmor appears to trace a methodological issue by holding that
+claims in philosophy of law depend on prior claims about the function of law in society, and
+that about the function of law depend on prior claims about reasons for action. Similarly,
+the Chang passage traces a methodological issue from a starting point in the philosophy of
+science to the philosophy of language. And Kim moves from a starting point in historical
+science, to issues about rationality and irrationality, to a “metaphysics of history.”
+   Schematically, all three methodological issues are characterized in terms of dependency
+hierarchies:
+
+  • Law ⇒(depends on) Collective Action ⇒(depends on) Rationality
+  • Science ⇒(depends on) Language ⇒(depends on) Epistemology21
+  • History ⇒(depends on) Epistemology ⇒(depends on) Metaphysics
+
+    The invocation of Epistemology is not overt in the given passage from Chang, but epistemological
+concerns are a standard point of engagement with operationalist theories of meaning.
+
+=== p. 18 ===
+
+This suggests a hierarchicalist picture of Philosophical Methodology: there are chains of
+dependency relations between different areas of philosophy, and “methodological” considerations are considerations that require retreat from area A up a stage in the hierarchy
+to area B on which area A depends. The hope here is to put some meat on the Necessary
+Preconditionalist bones by using the overarching hierarchical structuring of philosophical
+subdisciplines to determine what the necessary preconditions of any particular theoretical
+enterprise are. Methodology is, at heart, the right-​ordering of the philosophical disciplines.
+   Hierarchicalism validates what I take to be a common-​sense view that methodological concerns are in some way “philosophically deep”, because in raising methodological concerns we are (according to Hierarchicalism) moving up the dependency ladder.
+Unfortunately, the background assumption that there is a suitable partial ordering of the
+fields of philosophy looks to be wholly without plausibility. Many parts of philosophy have
+over the years laid claim to the title of “first philosophy”, but none of the claimants has made
+a plausible defense of the title. Which, for example, is prior: metaphysics or epistemology?
+Are we to believe that epistemology is prior to metaphysics, because we start with how we
+can know things, and then form a theory of the way the world is that is answerable to the
+epistemological concerns? Or are we to believe that metaphysics is prior to epistemology,
+because we start with the nature of the world, and then work out how our epistemic faculties could fit into and engage with that world. Neither picture seems likely to win out over
+the other, and without a victor, Hierarchicalism is impossible.22
+
+                 8. Interlude: The Puzzle Solved
+
+I have one more hypothesis on the nature of Philosophical Methodology to try out, but
+before I wrap things up I want to provide a solution to the earlier math puzzle. Order the
+residents of Springfield in some arbitrary manner. Then each club can be associated with an
+ordered 1,000-​tuple of 0’s and 1’s—​w ith a position in the tuple filled by 1 if the corresponding Springfield resident is a club member, and by a 0 otherwise. No two clubs can have
+exactly the same members—​t he two clubs would both have an odd number of members,
+and hence an odd number of members in common. Thus 1,000-​tuples are uniquely associated with clubs.
+   Consider these 1,000-​tuples as vectors in the vector space on the field {0,1}. Now consider
+dot products of these vectors. Here are two observations:
+
+       a. The dot product of any club vector with itself is 1. The dot product of a vector with
+          itself will produce a sum of 1’s for each 1 in the original vector. Since the club must
+          have an odd number of members, this sum must be a sum of an odd number of 1’s.
+          But in the field {0,1}, the sum of an odd number of 1’s is 1.
+
+     There is furthermore a tension between the two thoughts that (a) the “methodological stance” is
+available in every area of philosophy, and (b) philosophy is, in a roughly Tarskian sense, a semantically
+closed enterprise. From (a) we will derive that the hierarchy of philosophy is not well-​founded, which
+seems to deprive us of the foundational stance underwriting the universality required by (b).
+
+=== p. 19 ===
+
+    b. The dot product of any two distinct club vectors is 0. The dot product will produce
+       1’s in its sum only for residents who are members of both clubs. But there must be an
+       even number of such residents. So the dot product is a sum of an even number of 1’s.
+       In the field {0,1}, such a sum is 0.
+
+But this shows that the club vectors form part of a basis for the vector space. The vector
+space is a 1,000-​dimensional space, so any basis contains 1,000 vectors. Thus there can be at
+most 100 club vectors, and hence at most 1,000 clubs. It’s then easy to see that this number
+can be realized.
+   This is a common pattern in mathematical work. A problem apparently in one area (here,
+combinatorics) is revealed to be “really” a problem in another area (linear algebra), and a
+powerful and elegant solution of a previously difficult problem is produced by recharacter-izing the problem in the new area and bringing to bear the resources of that other area. It’s
+often a recipe for achieving “deep” insights in mathematics. (Another example: seeing that
+the compactness of propositional logic can be proved by appeal to Tychonoff’s Theorem
+opens up insights into the relation between logic and topology.) End of interlude (but hold
+the thought).
+
+            9. Hypothesis #7: Eliminatedivism
+
+The final hypothesis about Philosophical Methodology begins with the thought that there’s
+something right about Hierarchicalism. “Methodological” or “meta-​” is often a label we
+apply to philosophical moves that invoke the relevance of considerations from philosophical sub-​discipline Y to a question in philosophical sub-​discipline X. A couple of representative instances:
+
+  • Metaethics invokes, roughly, metaphysics and philosophy of language in approaching
+    questions in ethics.
+  • Meta-​ontology invokes, roughly, questions in philosophy of language and epistemology in approaching questions in metaphysics.
+
+It’s easy to think we’re “moving upward”; getting closer and closer to the deep and fundamental issues.
+    But consider a sample bit of philosophical reasoning in more detail:
+
+  • We’re interested in (say) the contextualism/​relativism dispute in philosophy of language. We invoke some philosophy of logic to see that the two sides agree on all the
+    moving parts of the logical machinery, on one way of construing it. The disagreement
+    is over which parts are under the control of the semantics, and which under the control of the pragmatics. This leads to the question of where to draw the semantics/​pragmatics line, which in turn leads to questions of what aspects of linguistic engagements
+    can be explained through general principles of rational action and which through
+    game-​theoretic consequences of information manipulation. In thinking through
+
+=== p. 20 ===
+
+     the game theory, we come to realize that the crucial issue is whether information is
+     characterized via a relational or a monadic truth predicate. This transitions to a question in metaphysics: how substantive is our notion of truth, and what features of the
+     world does it answer to? Examining a substantive notion of truth leads to developing a
+     theory of facts, which in turn leads to consideration of the Bradley regress argument.
+     We’re then put back into semantics, as we consider the role of unsaturated senses in
+     resolving this argument. And so on.
+
+   There’s no hierarchy here. We move from philosophy of language to philosophy of logic to
+metaphysics, but then from metaphysics back to philosophy of language. So there is movement from one area of philosophy to another, and movement that is, in some important
+sense, methodologically driven. But the movement isn’t the tracing of a pre-​given hierarchical structuring of the field. It is rather, as in the example of The Puzzle, part of the ongoing
+attempt to do better work, and achieve more and deeper insights, by thinking about how
+various components of the field relate to one another, rather than allowing one’s work to
+reside entirely in one subdiscipline of philosophy.
+   Here, then, is a final picture. Philosophical Methodology is the study of philosophical method: how to do philosophy well. But at the end of the day there isn’t much to say
+about how to do philosophy well. There are some general guiding aphorisms, and “be on
+the lookout for the relevance of epistemology to your questions in philosophy of language”
+is one of them. But the guiding aphorisms guide only very loosely—​t here’s no recipe telling you precisely when to invoke epistemological considerations in linguistic theorizing. There’s only the skillful receptiveness to possible fruitful interactions. On this view,
+there’s a half-​triumph for the first hypothesis of Eliminativism. There is such a thing as
+Philosophical Methodology—​it’s the study of the rules of good philosophical practice. But
+there are no rules of good philosophical practice, so we have instead Eliminativism about
+philosophical methodology. Philosophical Methodology is not itself eliminated, but has an
+eliminated topic.
+
+                                         appendix
+
+ Entries in the Stanford Encyclopedia of Philosophy
+       That Use the word “Methodological”
+
+Methodological Individualism, Naturalism, Naturalism in Philosophy of Mathematics,
+Philosophy of Economics, Behaviorism, Physicalism, Historicist Theories of Rationality,
+Reductionism in Biology, Robin George Collingwood, Max Weber, Unity of Science,
+Holism and Nonseparability in Physics, Formal Learning Theory, Creationism, The
+Incommensurability of Scientific Theories, The Pure Theory of Law, The Nature of
+Law, Early Philosophical Interpretations of General Relativity, Naturalism in Legal
+Philosophy, Simplicity, Dedekind’s Contributions to the Foundations of Mathematics,
+Thomas Kuhn, Analysis, Collective Responsibility, Philosophy of Biology, Feminist
+History of Philosophy, Feminist Perspectives on Science, Lvov-​Warsaw School, Identity
+and Individuation in Quantum Theory, Quantum Gravity, Paul Feyerabend, Analytic
+
+=== p. 21 ===
+
+Feminism, Comparative Philosophy: Chinese and Western, Hermeneutics, Hume’s
+Naturalism and Anti-​Naturalism, Animal Consciousness, Empathy, Theory and Bioethics,
+Cosmology: Methodological Debates in the 1930s and 1940s, Max Horkheimer, Mathematical
+Style, Moral Non-​Naturalism, Multiple Realizability, Scientific Progress, Symmetry and
+Symmetry Breaking, Copenhagen Interpretation of Quantum Mechanics, Religion and
+Science, Cognitive Science, The Kokugaku, The Theology of Aristotle, John Stuart Mill,
+Aristotle’s Biology, The Biological Notion of Self and Non-​Self, Darwinism, Discourse
+Representation Theory, Edmund Husserl, Monism, Operationalism, Underdetermination
+of Scientific Theory, Scientific Realism, Philosophy of Technology, Teleological Theories of
+Mental Content, Personal Identity and Ethics, Moral Psychology: Empirical Approaches,
+Bell’s Theorem, Rene Descartes, Jurgen Habermas, The Philosophy of Neuroscience,
+Evolution, Feminist Epistemology and Philosophy of Science, Colonialism, Naturalized
+Epistemology, Business Ethics, Pragmatist Feminism, Hans-​        Georg Gadamer, Charles
+Hartshorne, James Mill, Karl Jaspers, Karl Marx, Richard Rorty, Scientific Revolutions,
+Aristotelianism in the Renaissance, Approaches to Feminism, Implicature, Public
+Justification, Joseph Kaspi, Communitarianism, Externalism About Mental Content,
+Dewey’s Moral Philosophy, Ecology, Philosophy of Education, Einstein’s Philosophy of
+Science, Francis Bacon, Distributive Justice, The Analysis of Knowledge, Combining Logics,
+Paul Natorp, Plato, Alfred Schulz, Thermodynamic Asymmetries in Time, Wilhelm von
+Humboldt, Vienna Circle, Logic and Artificial Intelligence, Arabic and Islamic Philosophy
+of Language and Logic, Attention, Russell’s Logical Atomism, Moral Epistemology,
+Experiment in Physics, Units and Levels of Selection, Albert the Great, Aristotle, Aristotle on
+Causality, Luitzen Egbertus Jan Brouwer, Critical Theory, Evolutionary Epistemology, The
+Frame Problem, Pierre Gassendi, Johan Gottfriend von Herder, Hobbes’s Moral and Political
+Philosophy, Epistemic Logic, Indispensibility Arguments in the Philosophy of Mathematics,
+Abilities, Aristotle’s Psychology, Auguste Comte, Etienne Bonnot de Condillac, Pierre
+Duhem, John Duns Scotus, Ernst Mach, Feminist Social Epistemology, Gadamer’s
+Aesthetics, Herman von Helmholtz, Hilbert’s Program, Japanese Zen Buddhist Philosophy,
+Kant’s Philosophy of Science, Law and Language, Legal Obligation and Authority, Models
+in Science, Nothingness, William of Ockham, Panpsychism, Personalism, Phenomenology,
+Pseudo-​ Dionysius the Areopagite, Carl Stumpf, Truthlikeness, 18th Century French
+Aesthetics, Joseph Albo, Antonio Rosmini, Peirre Bayle, Philosophy for Children,
+Contradiction, Decision-​Making Capacity, Defaults in Semantics and Pragmatics, Doing
+vs. Allowing Harm, Epiphenomenalism, Shem Tov Ibn Falaquera, Feminist Metaphysics,
+Michel Foucault, Galileo Galilei, Ibn Kammuna, The Historical Controversies Surrounding
+Innateness, William James, The Economic Analysis of Law, The Natural Law Tradition
+in Ethics, Simpson’s Paradox, Francesco Patrizi, John Philoponus, Giovannia Pico della
+Mirandola, Platonism in the Philosophy of Mathematics, Science and Pseudo-​Science, Reid
+on Memory and Personal Identity, Saadya, The Social Dimensions of Scientific Knowledge,
+Scottish Philosophy in the 19th Century, Wilfrid Sellars, Chauncey Wright, Bolzano’s Logic,
+Roderick Chisholm, Feminist Philosophy of Religion, Intentionality, Leibniz’s Philosophy of
+Physics, Stanislaw Lesniewski, Philosophy of Mathematics, Quantum Field Theory, Roger
+Bacon, Eugen Rosenstock-​Huessy, Franz Rosenzweig, The Problem of Induction, Neutral
+Monism, Relativism, Animal Cognition, Descriptions, Plato’s Ethics: An Overview, Henry
+Sedgwick, Epistemological Problems of Testimony, Cosmological Argument, Nicholas of
+Cusa, Delusion, Descartes’ Physics, Dialetheism, Wilhelm Dilthey, Feminist Perspectives on
+Disability, Feminist Bioethics, Feminist Perspectives on Power, Fictionalism, Herman Lotze,
+Identity, The Distinction Between Innate and Acquired Characteristics, Liberalism, Locke’s
+
+=== p. 22 ===
+
+Philosophy of Science, The Logic of Action, Mental Illness, Maurice Merleau-​Ponty, Moral
+Relativism, Is Either Moral Realism or Moral Anti-​Realism More Intuitive Than the Other,
+Natural Law Theories, Postmodernism, Pragmatism, Private Language, Petrus Ramus,
+Paul Ricoeur, Gilbert Ryle, August Wilhelm von Schlegel, Phenomenological Approaches
+to Self-​ Consciousness, Naturalistic Approaches to Social Construction, Space and
+Time: Inertial Frames, Species, Alfred Tarski, Teleological Arguments for God’s Existence,
+Wihelm Maximilian Wundt, Bernard Bolzano, Introspection, The Kyoto School, Mental
+Imagery, Saint Thomas Aquinas, Aquinas’ Moral, Political, and Legal Philosophy, Isaiah
+Berlin, The Metaphysics of Causation, Probabilistic Causation, Epistemic Contextualism,
+Evidence, Kant’s Philosophical Development, Kant and Hume on Causality, Alexius
+Meinong, Molecular Genetics, Moral Anti-​Realism, Auditory Perception, Method and
+Metaphysics in Plato’s Sophist and Statesman, Pornography and Censorship, John Rawls,
+Social Institutions, Structural Realism, Temporal Parts, Truth Values, Bernard Williams,
+Game Theory, Aristotle’s Ethics, Chaos, Consciousness, Continuity and Infinitesimals,
+Analytic Philosophy in Early Modern India, Kurt Godel, Thomas Hill Green, International
+Justice, Independence Friendly Logic, Molecular Biology, Newton’s Philosophiae Naturalis
+Principia Mathematica, Pain, Paradoxes and Contemporary Logic, Philosophy of Religion,
+Scientific Explanation, Sidney Hook, Absolute and Relational Theories of Space and
+Motion, Empathy: The Study of Cognitive Empathy and Empathic Accuracy, Innateness
+and Language, Mental Imagery: European Responses of Jaensch, Freud, and Gestalt
+Psychology, Mental Imagery: Founders of Experimental Psychology Wilhelm Wundt and
+William James, Experiment in Physics Appendix 4: The Fall of the Fifth Force, Thomas Reid,
+18th Century German Aesthetics, Pleasure, David Lewis’s Metaphysics: The Contingency
+of Humean Supervenience, Sociobiology: Construction of Sociobiological Explanations,
+Analysis: Conceptions of Analysis in Analytic Philosophy, Analysis: Definitions and
+Descriptions of Analysis
+   To give a rough classification of these articles: 97 are in history of philosophy (with all articles devoted to specific persons counted as history), 53 are in philosophy of science (20 in
+general philosophy of science, 19 in philosophy of physics, and 14 in philosophy of biology), 28
+are in philosophy of mind, 15 are in ethics, 14 are in epistemology, 13 are in metaphysics, 12 are
+in philosophy of language, 12 are in feminist philosophy, nine are in logic, nine are in philosophy of mathematics, seven are in non-​Western philosophy, six are in philosophy of law, five
+are in political philosophy, two are in philosophy of action, two are in philosophy of education, and one is in Continental philosophy. One interesting question (which I won’t attempt
+to answer here) is why “methodological” talk is so heavily concentrated in historical pieces.
+The phenomenon is partially explained by the prevalence of named-​figure articles in the SEP
+devoted to figures from the philosophy of science (the strong representation of philosophy
+of science in “methodological” talk was addressed in section 5), but that partial explanation
+leaves a substantial phenomenon unexplained.
+
+References
+Allen, Colin, “Animal Consciousness”, The Stanford Encyclopedia of Philosophy (Winter
+  2011 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​w in2011/​
+  entries/​consciousness-​animal/​>, accessed September 9, 2015.
+
+=== p. 23 ===
+
+Baker, Alan, “Simplicity”, The Stanford Encyclopedia of Philosophy (Fall 2013 Edition),
+  Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​fall2013/​entries/​simplicity/​>, accessed September 9, 2015.
+Bickle, John, “Multiple Realizability”, The Stanford Encyclopedia of Philosophy (Spring 2013
+  Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​spr2013/​
+  entries/​multiple-​realizability/​>, accessed September 9, 2015.
+Brigandt, Ingo and Love, Alan, “Reductionism in Biology”, The Stanford Encyclopedia of
+  Philosophy (Summer 2012 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.
+  edu/​archives/​sum2012/​entries/​reduction-​biology/​>, accessed September 9, 2015.
+Cassirer, Ernst (1921), Einstein’s Theory of Relativity. Chicago: Open Court.
+Cat, Jordi, “The Unity of Science”, The Stanford Encyclopedia of Philosophy (Summer 2013
+  Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​sum2013/​
+  entries/​scientific-​unity/​>, accessed September 9, 2015.
+Chang, Hasok, “Operationalism”, The Stanford Encyclopedia of Philosophy (Fall 2009
+  Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​fall2009/​
+  entries/​operationalism/​>, accessed September 9, 2015.
+Dever, Josh (2006). “Compositionality”. In Ernest Lepore and Barry Smith, eds., The Oxford
+  Handbook of Philosophy of Language, pp. 633–666. Oxford University Press.
+D’Oro, Giuseppina and Connelly, James, “Robin George Collingwood”, The Stanford
+  Encyclopedia of Philosophy (Summer 2010 Edition), Edward N. Zalta (ed.), URL = <http://​
+  plato.stanford.edu/​archives/​sum2010/​entries/​collingwood/​>, accessed September 9, 2015.
+Faye, Jan, “Copenhagen Interpretation of Quantum Mechanics”, The Stanford Encyclopedia
+  of Philosophy (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​
+  archives/​fall2008/​entries/​qm-​copenhagen/​>, accessed September 9, 2015.
+Finnis, John, “Natural Law Theories”, The Stanford Encyclopedia of Philosophy (Fall 2011
+  Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​fall2011/​
+  entries/​natural-​law-​t heories/​>, accessed September 9, 2015.
+Geurts, Bart and Beaver, David I., “Discourse Representation Theory”, The Stanford
+  Encyclopedia of Philosophy (Fall 2011 Edition), Edward N. Zalta (ed.), URL = <http://​
+  plato.stanford.edu/​archives/​fall2011/​entries/​discourse-​representation-​t heory/​>, accessed
+Hausman, Daniel M., “Philosophy of Economics”, The Stanford Encyclopedia of Philosophy
+  (Spring 2013 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​
+  spr2013/​entries/​economics/​>, accessed September 9, 2015.
+Kim, Sung Ho, “Max Weber”, The Stanford Encyclopedia of Philosophy (Fall 2012 Edition),
+  Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​fall2012/​entries/​weber/​
+  >, accessed September 9, 2015.
+Marmor, Andrei, “The Nature of Law”, The Stanford Encyclopedia of Philosophy (Winter
+  2011 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​w in2011/​
+  entries/​lawphil-​nature/​>, accessed September 9, 2015.
+Ramberg, Bjørn and Gjesdal, Kristin, “Hermeneutics”, The Stanford Encyclopedia of
+  Philosophy (Summer 2013 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.
+  edu/​archives/​sum2013/​entries/​hermeneutics/​>, accessed September 9, 2015.
+Russell, Bertrand (1918), The Philosophy of Logical Atomism. New York: Routledge.
+Ryckman, Thomas A. (2005), The Reign of Relativity: Philosophy in Physics 1915-​              1925.
+  Oxford: Oxford University Press.
+
+=== p. 24 ===
+
+Ryckman, Thomas A., “Early Philosophical Interpretations of General Relativity”, The Stanford
+   Encyclopedia of Philosophy (Fall 2012 Edition), Edward N. Zalta (ed.), URL = <http://​plato.
+   stanford.edu/​archives/​fall2012/​entries/​genrel-​early/​>, accessed September 9, 2015.
+Shields, Christopher, “Aristotle’s Psychology”, The Stanford Encyclopedia of Philosophy
+   (Spring 2011 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​
+   spr2011/​entries/​aristotle-​psychology/​>, accessed September 9, 2015.
+Sorensen, Roy, “Nothingness”, The Stanford Encyclopedia of Philosophy (Winter 2012
+   Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​w in2012/​
+   entries/​nothingness/​>, accessed September 9, 2015.
+Stanford, Kyle, “Underdetermination of Scientific Theory”, The Stanford Encyclopedia of
+   Philosophy (Winter 2013 Edition), Edward N. Zalta (ed.), forthcoming URL = <http://​
+   plato.stanford.edu/​archives/​w in2013/​entries/​scientific-​underdetermination/​>, accessed
+Stebbing, Susan (1932). “The Method of Analysis in Metaphysics”. Proceedings of the
+   Aristotelian Society 33: 65–​94.
+Stueber, Karsten, “Empathy”, The Stanford Encyclopedia of Philosophy (Summer 2013
+   Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​sum2013/​
+   entries/​empathy/​>, accessed September 9, 2015.
+Szabó, Zoltán Gendler, “Compositionality”, The Stanford Encyclopedia of Philosophy (Fall
+   2013 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​fall2013/​
+   entries/​compositionality/​>, accessed September 9, 2015.
+Thagard, Paul, “Cognitive Science”, The Stanford Encyclopedia of Philosophy (Fall 2012
+   Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​fall2012/​
+   entries/​cognitive-​science/​>, accessed September 9, 2015.
+Tuana, Nancy, “Approaches to Feminism”, The Stanford Encyclopedia of Philosophy (Spring
+   2011 Edition), Edward N. Zalta (ed.), URL = <http://​plato.stanford.edu/​archives/​spr2011/​
+   entries/​feminism-​approaches/​>, accessed September 9, 2015.
+
+=== p. 25 ===
+
+      Pa rt I I
+
+T R A DI T IONS A N D
+   A PPROAC H E S
+

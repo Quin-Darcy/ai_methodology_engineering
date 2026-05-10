@@ -1,0 +1,1588 @@
+=== chunk: booth-sutton-2022-systematic-approaches/ch6-assessing-evidence ===
+title: Assessing the Evidence Base (quality, validity, hierarchies)
+source_pdf: docs/sources/booth-sutton-2022-systematic-approaches/full.pdf
+pdf_pages: 193-228
+page_scheme: book
+plan_page_start: 158
+plan_page_end: 193
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 158 ===
+
+   ASSESSING THE EVIDENCE
+           BASE
+
+                 in a nutshell
+
+Selecting studies to include in your review and assessing their quality
+• Different roles and challenges are associated with assessing the evidence base for quality
+  and relevance.
+• You must be able to assess studies for relevance and select studies to include in your literature review.
+• Key concepts in quality assessment relate to validity and reliability; this chapter explores
+  their importance within literature reviews.
+• Other important concepts include applicability, transferability or generalisability.
+• Identifying appropriate quality assessment resources, undertaking quality assessment and
+  presenting the results of quality assessments are the key challenges of the quality assessment process.
+
+                  key terms explained
+
+   external validity: the extent to which you can reasonably apply the results of a study to
+   a definable population in a particular setting in day-to-day practice. Often described as
+   applicability.
+
+   internal validity: the extent to which the design of a study demonstrates precautions that
+   have been taken to avoid systematic errors or bias.
+
+=== p. 159 ===
+
+      quality assessment: evaluation of the methodological quality of a research design within
+      a study report to assess the extent to which the design and conduct of that study might
+      impact on the credibility of the research findings.
+
+      quality assessment checklist: a tool used to perform a transparent and explicit evaluation of the methodological quality of a research design, using items, criteria or prompts.
+
+      subgroup analysis: analytical technique that involves dividing studies into subgroups
+      according to a particular study design feature that might impact on study findings, for
+      example the country in which the study was undertaken, or studies with large and small
+      sample sizes, and exploring how these features might impact on the findings of the review.
+
+      Sensitivity analysis: a subgroup analysis to examine whether the results change if poor-quality studies are omitted.
+
+INTRODUCTION
+Assessing the evidence base is the point in the review process that focuses on the particular
+value that individual studies hold for your review question and the practical application of
+research. After searching the literature (Chapter 5), you will have identified a potential evidence
+base for your review, which often can be large and diffuse. From this list of references, you need
+to select systematically those that are relevant for your review question and exclude those that
+are not relevant. Once you have finalised your list of included studies for your literature review,
+you need to plan how to assess the evidence base. How exactly you will assess your included
+studies depends on the type of review being undertaken (see Chapter 3). Assessing the evidence base might simply involve briefly characterising the literature, for example in a mapping
+review. Alternatively, assessment might extend to a detailed examination of the methods and
+conduct of each study included in a systematic review. Within this overall assessment process
+this detailed examination is known as ‘critical appraisal or quality assessment’.
+  ‘Critical appraisal’ or ‘quality assessment’ are often used synonymously. Essentially, critical
+appraisal or quality assessment both focus on ‘whether we can believe a study’, and this
+is often referred to as internal validity. We tend to privilege the term ‘critical appraisal’ when
+referring to the assessment of a single study, perhaps with a view to applying it directly within
+professional practice. We prefer ‘quality assessment’ when referring to the procedure that examines numerous studies in a standardised way as part of a systematic review or evidence synthesis.
+  Systematic reviews carry out quality assessment as a standard procedure, and extensive
+multidisciplinary guidance exists on how to do this (Billotta et al., 2014; Higgins et al., 2021).
+We also need to assess generalisability or applicability, also known as external validity.
+Often this process is considered alongside quality assessment, but its focus is slightly different. Put simply, we assess the generalisability or applicability of an individual study by asking, ‘Is the study relevant to the population targeted by our review question?’. Typically issues
+concerning internal validity are presented in the Results section of a review, while external
+validity is considered in the Discussion/Recommendations/Conclusion (see Chapter 10 for
+how to write up your review); however, many reviewers prefer to assess both in a single process,
+alongside data extraction (see Chapter 7).
+  This chapter discusses how to assess the evidence base, while focusing on quality assessment
+procedures (we will use this term throughout this chapter). The chapter starts by discussing how
+
+=== p. 160 ===
+
+to select relevant studies for a literature review in a systematic way. Then the chapter considers
+how to start to assess the evidence base and how the effort spent on assessment depends on
+the function of, and type of, literature review. The next section introduces the need for quality
+assessment. The section also outlines the different properties that you might assess in studies
+included in your review: validity, reliability and generalisability/applicability. Next, we provide
+an overview of different study designs, focusing on the implications of study design features.
+This is followed by a section on conducting your quality and relevance assessment, including presenting results and challenges of the process. The chapter details tools for assessing the
+evidence base. Throughout the chapter, we refer to examples from within different disciplines;
+however, you can consider how each section applies to your own review topic.
+
+HOW TO ASSESS THE RELEVANCE OF STUDIES TO
+YOUR REVIEW QUESTION
+At this stage, you have completed your literature search (Chapter 5), and as a result you have
+a list of potential studies for your literature review. From this ‘long list’ you need to select, for
+inclusion in your review, those studies that are relevant to the review question you formulated
+in Chapter 4. In some instances, depending on the quantity of research in your topic area, this
+can be a very long list of studies. At this point, you may feel overloaded with information!
+  Being systematic when selecting studies from the results of your literature search allows you
+to exclude studies that are not relevant to your review while ensuring that you do not miss studies that are relevant. This is important to help reduce selection bias within the review – the
+review findings should be based upon all relevant studies. It is essential that you have a clear
+idea of what is relevant to your review. Chapter 4 discussed formulating explicit inclusion criteria and exclusion criteria. It is at this stage where, if you devised an appropriately focused
+review question, you will find that selecting studies is made much easier. You look at your inclusion and exclusion criteria and assess how each potentially relevant study identified from the
+literature fulfils each criterion in turn. If a study does not fulfil a specific inclusion criterion or if
+it meets any of the exclusion criteria, you should not include that study in your review.
+  Looking forward to your review write-up, it is essential to keep a good audit trail of which references you have included and excluded, along with reasons for study exclusion. For references
+excluded when assessing titles and abstracts you should identify the main reason for exclusion at this stage, likely linked to your PICO criteria. You only need to document one reason
+when excluding any reference at the title and abstract stage (e.g. inappropriate population etc.).
+Systematic review software allows you to record that decision quickly and easily.
+  Documenting your decisions on inclusion and exclusion are equally important at the full text
+stage. Again, there may be multiple reasons why a specific paper might be excluded but you will
+only need to document one of these to justify your decision. Again software allows you to select
+a reason for exclusion from a list that you have pre-specified. Usually, for practical reasons, you
+will choose the most immediately apparent reason for exclusion; however, in some cases you
+may want to emphasise the impact of a particular criterion. For example, if you are only including randomised controlled trials but additional evidence is present in non-randomised studies
+you may want to document how many of these you have excluded. This information may help
+a funder to decide to commission a further review that takes into account these alternative
+study designs. A valuable function of a scoping or mapping review is to code the presence or
+absence of multiple characteristics so that you can ‘model’ the impact of each characteristic on
+the numbers of included studies and therefore decide where the boundaries (in terms of country
+
+=== p. 161 ===
+
+of origin, specific population or study type) might be drawn to produce a review that is both
+feasible and meaningful.
+
+Steps in the study selection process
+Experience suggests that the most efficient way of screening studies for inclusion in a literature
+review is first to examine the titles of articles from your literature searches. However, where time
+is at a premium, reviewers often combine screening of titles with the next stage which involves
+screening the abstracts. Often you can tell from the title of an article whether or not it is relevant. After screening titles, you move on to look at the abstracts of any studies where you could
+not judge relevance from the title alone.
+
+                       rapid review tip 11
+
+   Title and abstract screening
+   You will find it helpful to develop a standardised title and abstract form (e.g. an Excel spreadsheet) and then conduct a pilot exercise using the same 30–50 abstracts for the entire
+   screening team. The pilot helps to calibrate and test the review form efficiently. As time often
+   does not permit independent double observer screening, you can use two reviewers to dual-screen at least 20% (ideally more) of abstracts, with conflict resolution. One reviewer then
+   screens the remaining abstracts and a second reviewer screens all excluded abstracts (to
+   minimise the risk of discarding relevant studies), and if needed they also resolve conflicts.
+
+                                                                                    Garritty et al. (2021)
+
+Finally, you examine the full text of studies obtained on the basis of how relevant these abstracts are to
+your inclusion criteria. When excluding studies examined at the full text stage, you will find it useful
+to record reasons for exclusion of each study for the sake of transparency and to help in subsequent
+reporting. If you are using systematic review software, you can use it to record your decisions (Munn
+et al., 2019). Some literature reviews list studies excluded by this full text screen, usually only those that
+superficially look like they should have been included, together with reasons, in an appendix. This list
+offers transparency and allows you to justify decisions you make in the study selection phase. You can
+also anticipate queries as to why a particular study was excluded from your review.
+
+                       rapid review tip 12
+
+   Full text screening
+   As for title/abstract screening, you should use a standardised full text form. For this stage you
+   pilot the review form on the same 5–10 full text articles across the entire screening team. A
+   single reviewer then screens all included full text articles and a second reviewer screens all
+   excluded full text articles.
+
+                                                                                    Garritty et al. (2021)
+
+=== p. 162 ===
+
+Using software for study selection
+Chapter 5 presented different types of reference management software available to help you
+manage the literature review process. You can tag records or apply keywords to fields in your
+reference management database. For example, you can tag references that you have selected
+for inclusion in your review at the abstract stage with the keyword ‘include abstract’ in one
+of the unassigned database fields. This function allows you to retrieve a list of included
+studies in the review by searching in that field for the keyword ’include abstract‘. Tagging
+references in this way also provides you with an audit trail for decisions you have made
+during the study selection process. At all times you should be able to know exactly which
+studies have been included or excluded, at what stage (title, abstract or full text examination) and, within a team, by whom they have been excluded. Systematic review software
+works in a similar way, automatically keeping track for you as you make inclusion and
+exclusion decisions. Chapter 10 discusses why it is important to keep accurate records of the
+study selection process.
+  Free software packages (such as Rayyan) or commercial packages (such as Covidence or EPPI-Reviewer) allow you to import references from databases. You can then devise review-specific
+menus of reasons for exclusion. If using systematic review software is not an option then there
+are alternatives. Often those conducting reviews, especially reviews that offer a mapping function, import the bibliographic records either directly from the electronic databases or from reference management software into Microsoft Excel (or some similar spreadsheet package) and
+construct pre-defined drop-down menus for each of the inclusion/exclusion criteria. You then
+proceed systematically through the list of studies, viewing the abstract in the top panel of the
+spreadsheet, and selecting the relevant category from the drop-down ‘pick list’ created in Excel.
+Categorising each reference in this way helps when completing the subsequent PRISMA flowchart (see Figure 10.1). Categorising also helps when mapping different types of studies and
+their frequencies. You can also filter on particular columns in Excel, to gain an instant result for
+how many studies met or failed a particular inclusion/exclusion criterion.
+  To apply the inclusion and exclusion criteria for your review for study selection,
+complete Exercise 6.1.
+
+   Study selection
+   Now, revisit your inclusion and exclusion criteria from Chapter 5 and write them in the grid
+   provided. Keep this grid to hand while you go through your study selection process.
+
+      Tool for focusing your question – PICO, SPICE, etc.
+
+      Inclusion criteria                              Exclusion criteria
+
+      Population                                      Population
+
+      Intervention/exposure/focus of interest         Intervention/exposure/focus of interest
+
+=== p. 163 ===
+
+    Comparator (if present)                         Comparator (if present)
+
+    Outcome(s)                                      Outcome(s)
+
+    Context                                         Context
+
+ASSESSING YOUR INCLUDED STUDIES – FIRST STEPS
+Once you have selected the articles for inclusion in your review, the next stage is to assess this evidence base in more detail. Here you are seeking to become immersed in, and familiar with, each
+study so that you start to see how you might analyse and present your data. By this point, you
+have produced a list of studies judged to have met all your review inclusion criteria (matched on
+population, intervention/exposure/focus of interest, comparator, etc.; and study design) so you
+know that each included study will provide findings that answer your review question in some
+way. You need to examine each study in detail, taking all the meaningful information from each
+included study (data extraction), before you start compiling and synthesising the information.
+For whichever type of literature review you are undertaking, at this stage you are reading, becoming familiar with, digesting, reflecting upon and, perhaps unknowingly, making judgements on
+each study included in your review. All these processes are involved in assessing the evidence base.
+  The extent to which you assess the evidence base depends on the type of review and its aim.
+For example, a systematic review generally involves an in-depth quality assessment of included
+studies. Systematic reviews require you to reflect upon the credibility of the review’s findings; it
+is essential that you identify how weaknesses or flaws of included studies impact upon review
+findings. However, for a mapping review, where the aim is to map out and categorise the
+literature as well as to identify any gaps (James et al., 2016), you assess the evidence base to
+identify its key characteristics, such as study design, country of publication or general direction
+of study findings, offering a rich picture of the literature to be described. The very existence of
+a study may be meaningful, regardless of quality. Having recorded that a particular aspect of a
+phenomenon has been studied, your secondary questions might then be ‘and is the study good
+quality? … and can I trust its conclusions?’.
+  All literature reviews involve, and benefit from, some assessment of the evidence base, which
+helps to guide the subsequent stages of synthesis and writing up. If nothing else, at this stage
+your assessment allows you to familiarise yourself with the intricacies of each study and to spot
+where findings from studies agree with or differ from each another. More importantly, you will
+start to suggest possible reasons for study similarities or differences. For example, what does an
+individual study contribute to your review? Does it add strength to an argument, a conflicting
+argument, a new argument, perspective or theory, or, perhaps, nothing new at all?
+  To begin with, you should ask yourself, ‘What do I need to find out from my included
+studies to fulfil the aim of my literature review?’. Table 6.1 presents four types of review
+(introduced in Chapter 3) and looks at their aims in relation to how you might assess the
+evidence base. For each review type, you can consider particular ‘key questions’ when assessing the evidence base (see Table 6.1). Answers to each question help to shape how you will
+proceed with your review. Hopefully, you can identify which questions apply to each particular review type. For example, in a systematic review most, if not all, of the questions in
+Table 6.1 are appropriate.
+
+=== p. 164 ===
+
+Table 6.1   Assessing the evidence base in different types of reviews
+
+Type of review    evidence base                Practical application           Review example
+Scoping review    •   Do any previous          Identifies previous reviews     A scoping review of the
+                      reviews exist?           on your topic area to avoid     association between
+                  •   How much evidence        duplication                     rural medical education
+                      exists on my review                                      and rural practice
+                                               If there is a significant
+                      question?                                                location (Farmer et al.,
+                                               volume of evidence, you
+                  •   What type of                                             2015)
+                                               might want to consider
+                      evidence is available?   refining your scope. Too
+                                               little evidence and you
+                                               might want to broaden your
+                                               question
+                                               ‘Firms up’ review question
+                                               by exploring what kind of
+                                               evidence is out there. For
+                                               example, if your review
+                                               is limited to randomised
+                                               controlled trials (RCTs) but
+                                               your scoping search finds
+                                               no trials, you may need
+                                               to consider other types of
+                                               research design. Similarly,
+                                               if you have limited your
+                                               review question to UK
+                                               studies but found no UK
+                                               studies in your scoping
+                                               search, you may wish to
+                                               widen to include research
+                                               beyond the UK. It is
+                                               particularly important to
+                                               assess generalisability if
+                                               looking at studies outside of
+                                               the setting (context) of your
+                                               review question
+
+Mapping review    •   Where is evidence        Focus for subsequent            Maternity care
+                      plentiful?               literature reviews              services and culture:
+                  •   Where is evidence                                        a systematic
+                                               Key features of evidence
+                      lacking (gaps)?                                          global mapping of
+                                               base include study design,
+                  •   How can I describe                                       interventions (Coast
+                                               country of publication,
+                      the evidence?                                            et al., 2014)
+                                               populations or subgroups,
+                  •   Are there                nature of intervention or
+                      relationships or key     exposures analysed (are
+                      themes occurring?        they similar or do they
+                                               differ greatly?)
+                                               Explores:
+
+                                               •   Directional effects
+                                                   (A affects B)
+                                               •   Whether studies are in
+                                                   agreement
+                                               •   Whether findings
+                                                   conflict
+
+=== p. 165 ===
+
+Type of review    evidence base                Practical application          Review example
+
+Systematic        •   How can I describe       Key features might include     Psychosocial
+review                the evidence?            study design, country of       interventions for school
+                  •   Are there                publication, populations       refusal with primary
+                      relationships or key     or subgroups, nature of        and secondary school
+                      themes occurring?        intervention or exposures      students: a systematic
+                  •   How credible is the      analysed (are they similar     review (Maynard et al.,
+                      evidence?                or do they differ greatly?)    2015)
+                  •   How applicable is        Directional (A affects B)
+                      the evidence to my
+                      situation/scenario?      Studies in agreement
+                  •   Where is evidence        Conflicting studies
+                      lacking (gaps)?
+                                               Quality of the study conduct
+                                               and design: subgroup
+                                               analyses
+                                               Generalisability of research
+                                               Areas for future research
+
+Qualitative       •   How can I describe       Key features, for example      Treatment non-systematic            the evidence?            perspectives, settings         adherence in pediatric
+review            •   What themes or           (are they similar or differ    long-term medical
+                      constructs are           greatly?)                      conditions: systematic
+                      present between                                         review and synthesis
+                                               Interpretation of a
+                      or within individual                                    of qualitative studies
+                                               phenomenon – broaden
+                      studies?                                                of caregivers’ views
+                                               understanding
+                  •   What is the quality of                                  (Santer et al., 2014)
+                      the evidence?            Does this mediate the
+                                               findings?
+
+  Now consider your own review, and use Exercise 6.2 to decide the level of quality assessment
+required.
+
+   Assessing the evidence base for your review
+   Consider the types of review in Table 6.1. Think about what questions you might want to ask
+   when assessing the evidence base for your review:
+
+      Your review question:
+
+      Which key questions do you need to ask for your review?
+
+      What is the practical application of your questions?
+
+=== p. 166 ===
+
+ASSESSING THE EVIDENCE BASE IN DETAIL
+Systematic reviews of either quantitative or qualitative research studies require a transparent
+and explicit exploration of study strengths and weaknesses to assess the impact of study quality
+on the findings of each individual study included in the review. Quality assessment then moves
+on to consider the findings of the literature review as a set of studies, documenting systemic
+flaws in a discussion of the strengths and limitations of the evidence base. The rest of this chapter
+considers quality assessment and its role in the review process.
+  The first step of quality assessment is to decide whether an article is worth reading. Complete
+Exercise 6.3 to practise this skill.
+
+   When is an article worth reading?
+   Before introducing quality assessment in more detail, when you come across a research study
+   in a journal, consider:
+
+   1. How do you decide whether an article is worth reading?
+   2. What makes an article believable?
+
+   In addressing Exercise 6.3 you can probably divide your factors into three distinct groups:
+
+   • Applicability – the topic of the study, how important it is to you at the moment, the similarity of the setting to the one in which you work, the level at which it is written, the
+     professional group or discipline for whom it is written, etc.
+   • Extrinsic factors – those external factors assumed to relate to, but not always associated
+     with, the quality of the article: who wrote it, where they work, what their job or qualifications are, whether you have heard of them, who paid for the study, in which journal it is
+     published, whether the authors have written on the subject before.
+   • Intrinsic factors – factors that relate to the study itself: the appropriateness of the study
+     design to the question being asked, the suitability of the sample, the methods used to
+     recruit the sample, and the methods used to obtain the results.
+
+Assessing the quality of included studies – what is it
+and why do we do it?
+Quality assessment asks you to discard prejudices you may have regarding the extrinsic factors. It asks you to make an initial judgement about the relevance of the study, to look then
+exclusively at the intrinsic factors using a structured checklist, before finally returning to
+issues that relate to its suitability to your practice. In this way you follow a process that is as
+objective and explicit as possible. On this basis, you can judge if a paper is worth reading, and if
+it is believable. Quality assessment forms part of the examination of confidence in research
+
+=== p. 167 ===
+
+findings. Quality assessment is critical ‘for judging the overall strength of evidence on given
+research questions and is considered in evaluation of the methodological quality of a research
+design and implementation rather than the intervention’s true effect in the process of research’
+(Seo & Kim, 2012).
+  Generalisability or applicability is often considered alongside quality assessment, and
+reflects on how research findings (if at all) impact on practice. In the context of qualitative
+studies you consider whether the findings are transferable. Considering how the research is
+applicable, transferable or generalisable defines the difference between critical appraisal and
+a simple ‘critical reading’ of the research (Booth & Brice, 2004).
+  Every study included in your literature review has weaknesses or flaws. You need to identify
+each weakness or flaw to determine, first, its potential impact on the findings of an individual
+study and, second, its implications for the findings of your review as a whole. You need to
+become aware of both the strengths and flaws of included studies in your review so that you can
+take these into account when presenting and discussing your review findings.
+  All studies have weaknesses but, by considering their impact upon the study findings, you
+can determine which flaws are critical and which are not. Remember that undertaking research
+is fraught with difficulties. Several things can ‘go wrong’ or not as originally planned in research
+studies (e.g. failing to recruit sufficient participants to your study). You may find yourself becoming very scathing about studies when you are assessing their quality! This belief that no paper is
+ever good enough has been labelled critical appraisal ‘nihilism’ (Sackett et al., 1997). However,
+the function of quality assessment is not to pursue some ideal of study perfection (Petticrew
+& Roberts, 2006). Assessing the evidence base focuses on how to apply research in practice and
+you need to be similarly practical when performing quality assessment. Therefore, if a particular
+flaw has minimal or limited impact on the findings of a study, is it really that important?
+  However, you do not only use quality assessment to identify study flaws. Using a structured
+formal approach allows you to explore the detailed contents of a paper in terms of both its methodology and findings. It is therefore basically a type of ‘sensitisation’ to a study; an important
+journey of discovery for the reader (Booth, 2007). By critically examining published research,
+you become aware of how others have conducted research. This also mean, you become better
+at designing and conducting your own research studies. For example, if you identify certain
+weaknesses in the design of a particular study, you might recommend that the research should
+be repeated using a stronger study design. Where a study failed to recruit enough participants,
+you might recommend repeating the study with a larger sample to determine conclusive results.
+  Lastly, quality assessment is helpful in identifying differences between studies; the technical
+term is heterogeneity. Heterogeneity is discussed further in Chapters 7 and 8. For example,
+smaller studies tend to overestimate findings in comparison to larger studies (Higgins et al., 2021).
+
+Study designs – is there a hierarchy of evidence?
+Before exploring quality assessment in more detail, you will find it useful to understand the
+different types of study design used in research. Some research designs are better able to answer
+certain questions. Therefore, early in the process of quality assessment, you need to consider: ‘Is
+this the most appropriate study design to answer this research question?’. If you are not familiar
+with study designs, take a look at the resources available on the Oxford Centre for Evidence-Based Medicine website (www.cebm.net, Centre for Evidence-Based Medicine, 2020).
+
+=== p. 168 ===
+
+Question                 Step 1                    Step 2                     Step 3                 Step 4                      Step 5 (Level 5)
+                         (Level 1*)                (Level 2*)                 (Level 3*)             (Level 4*)
+How common is the        Local and current         Systematic review          Local non-random       Case-series**               n/a
+problem?                 random sample             of surveys that allow      sample**
+                         surveys (or censuses)     matching to local
+                                                   circumstances**
+Is this diagnostic       Systematic review of      Individual cross           Non-consecutive        Case-control studies, or    Mechanism-based
+or monitoring test       cross sectional studies   sectional studies with     studies, or studies    poor or non-independent     reasoning
+accurate?                with consistently         consistently applied       without consistently   reference standard**
+(Diagnosis)              applied reference         reference standard and     applied reference
+                         standard and blinding     blinding                   standards**
+What will happen if we   Systematic review         Inception cohort studies   Cohort study or        Case-series or case-        n/a
+do not add a therapy?    of inception cohort                                  control arm of         control studies, or poor
+(Prognosis)              studies                                              randomized trial*      quality prognostic cohort
+                                                                                                     study**
+Does this intervention   Systematic review of      Randomized trial or        Non-randomized         Case-series, case-          Mechanism-based
+help?                    randomized trials or      observational study with   controlled cohort/     control studies, or         reasoning
+(Treatment Benefits)     n-of-1 trials             dramatic effect            follow-up study**      historically controlled
+                                                                                                     studies**
+
+=== p. 169 ===
+
+ Question                            Step 1                           Step 2                             Step 3                           Step 4                             Step 5 (Level 5)
+                                     (Level 1*)                       (Level 2*)                         (Level 3*)                       (Level 4*)
+ What are the COMMON                 Systematic review                Individual randomized              Non-randomized                   Case-series, case-                 Mechanism-based
+ harms?                              of randomized trials,            trial or (exceptionally)           controlled cohort/               control, or historically           reasoning
+ (Treatment Harms)                   systematic review of             observational study with           follow-up study                  controlled studies**
+                                     nested case-control              dramatic effect                    (post-marketing
+                                     studies, n of- 1 trial                                              surveillance) provided
+                                     with the patient you are                                            there are sufficient
+                                     raising the question                                                numbers to rule out a
+                                     about, or observational                                             common harm. (For
+                                     study with dramatic                                                 long-term harms the
+                                     effect                                                              duration of follow-up
+ What are the RARE                   Systematic review of             Randomized trial                   must be sufficient.)**
+ harms?                              randomized trials or             or (exceptionally)
+ (Treatment Harms)                   n-of-1 trial                     observational study with
+                                                                      dramatic effect
+ Is this (early detection)           Systematic review of             Randomized trial                   Non-randomized                   Case-series, case-                 Mechanism-based
+ test worthwhile?                    randomized trials                                                   controlled cohort/               control, or historically           reasoning
+ (Screening)                                                                                             follow-up study**                controlled studies**
+
+Figure 6.1 Oxford Centre for Evidence-Based Medicine 2011 Levels of Evidence
+* Level may be graded down on the basis of study quality, imprecision, indirectness (study PICO does not match questions PICO), because of inconsistency between studies, or because the absolute
+effect size is very small; Level may be graded up if there is a large or very large effect size.
+
+** As always, a systematic review is generally better than an individual study.
+
+How to cite the Levels of Evidence Table
+OCEBM Levels of Evidence Working Group*. “The Oxford 2011 Levels of Evidence”.
+Oxford Centre for Evidence-Based Medicine. http://www.cebm.net/index.aspx?o=5653
+* OCEBM Table of Evidence Working Group = Jeremy Howick, Iain Chalmers (James Lind Library), Paul Glasziou, Trish Greenhalgh, Carl Heneghan, Alessandro Liberati, Ivan Moschetti, Bob Phillips, Hazel Thornton,
+Olive Goddard and Mary Hodgkinson
+
+=== p. 170 ===
+
+  Health research pays particular attention to how well particular study designs can answer particular types of research questions; the randomised controlled trial (RCT) is considered the gold
+standard study design to answer whether an intervention is effective. The idea of the ‘best
+study design for a research question’ has been used prescriptively within health research, where
+hierarchies of evidence have been proposed. These hierarchies rank study designs from the
+most robust down to the least robust for answering a type of question. For example, for reviews of
+effectiveness of an intervention, randomised controlled trials are normally placed at the top of the
+hierarchy with case studies at the bottom. Of course, high-quality systematic reviews that combine multiple well-conducted examples will always be considered superior to the findings of an
+individual well-conducted study. Checklists such as AMSTAR 2 or ROBIS perform similarly when
+used to assess whether systematic reviews are to be considered high-quality (Pieper et al., 2019).
+  One of the most cited examples of a published hierarchy is the ‘Levels of Evidence’ produced
+by the Oxford Centre for Evidence-Based Medicine (Howick et al., n.d.) (Figure 6.1). This hierarchy allows the reader to select a particular type of research question and to identify which study
+designs are the most robust.
+  However, classifying research designs in this way may cause problems (Petticrew & Roberts,
+2003; Greenhalgh et al., 2018). First, hierarchies can give a false impression that a poorly conducted randomised controlled trial offers better evidence than a well-conducted observational
+study. Second, it is often not straightforward to determine which research design is the most
+appropriate since the choice may be limited by practical and ethical considerations. For example, it would not be ethical to randomise study participants to smoking tobacco cigarettes, so
+you could only observe what happens when people choose cigarettes for themselves. Third,
+hierarchies of evidence are not good at exploring the quality of qualitative research; a study
+design where a researcher lives alongside study participants is quite different from one where
+the researcher comes in as an outsider (Taylor et al., 2007). Finally, most hierarchies are health
+research focused, and their value is contested by researchers within other disciplines (Taylor
+et al., 2007). A more flexible approach creates a taxonomy for each type of question, so that you
+pick the appropriate taxonomy to match the question type (Petticrew & Roberts, 2003).
+  Whatever your discipline, you will find it invaluable to be aware of different types of study
+design, the flaws or biases to which they are prone and, particularly, their effect on study findings. However, in a multidisciplinary setting, you may find it more helpful to consider when
+particular studies may be reasonably used and what their strengths or weaknesses are. Thus, this
+section takes a broad look at three ‘families’ of study design: descriptive, analytic experimental
+and analytical observational.
+  Studies can be broadly classified into descriptive or analytic designs. Descriptive study
+designs focus on describing or giving us a picture of what is happening in a population (e.g.
+cross-sectional surveys and qualitative studies). Analytic studies try to quantify relationships between factors (Centre for Evidence-Based Medicine, 2020); for example, the effect
+of an Information Technology (IT) intervention on maths ability. Analytic studies are further
+classified according to whether or not researchers measure the effects of an exposure without
+manipulating the intervention or exposure in any way. In an experimental analytic study the
+researcher manipulates an intervention or exposure, for example in an RCT by allocating participants to different intervention or exposure groups.
+  The key characteristic of experimental studies is that they are designed to control bias. Beyond
+this they may differ in key features of their study design. Experimental studies may measure an
+outcome at a single point in time (cross-sectional) or measure that same outcome over an
+
+=== p. 171 ===
+
+extended period (longitudinal). Studies may also differ in whether they collect data as they go
+forwards in time (prospective) or whether they look backwards to collect data, whether from
+records or recollection (retrospective). Further variation will see studies containing a single or
+multiple group(s) of participants (including random or non-random allocation of study participants to groups within a study), and being described as either blind or open label. Each feature
+of an experimental study design has implications for the research, as explored in Tables 6.2–6.6.
+
+Table 6.2 Cross-sectional versus longitudinal studies
+
+Study design feature        Implications                                         this feature
+Cross-sectional:            Cheap and simple          Cannot determine           Survey
+records outcomes            to set up. Ideal for      a cause-and-effect
+or examines                 pinpointing the           relationship between
+relationships between       prevalence of a           two variables
+variables at one point      particular situation,
+in time only (snapshot      for example what
+in time)                    number of higher
+                            education students
+                            visit their public
+                            library?
+Longitudinal: records       Changes over time         More complicated to        Cohort study
+observations over a         are recorded in a         set up and more costly     Randomised controlled
+period of time (can be      population or outcome     than cross-sectional       trial
+several years)              so more plausible to      studies. Causality may
+                            determine a cause-        only be determined if
+                            and-effect relationship   confounding factors are
+                                                      controlled for
+
+Table 6.3     Prospective versus retrospective studies
+
+Study design feature         Implications                                              use this feature
+Prospective: forward-        Able to determine            Can be prone to              Cohort study
+looking and observe          cause and effect and         large loss of study          Randomised
+for outcomes. Typically,     provide ‘real’ incidence     participants (attrition).    controlled trial
+a group or cohort of         rates. Can uncover           The outcome of interest
+individuals is identified    unanticipated outcomes       must be common or the
+and followed for a long      or associations              study will fail to recruit
+period of time                                            enough participants
+                                                          to make the findings
+                                                          meaningful
+
+Retrospective: identify      Able to determine cause      Looking ‘backwards’,         Case–control studies
+a group of individuals       and effect; particularly     particularly when            Cohort studies
+who have had a               useful when an outcome       asking study                 (occasionally)
+particular outcome and       is rare                      participants to
+then look back in time                                    remember events or
+to record details about                                   details in the past
+what interventions                                        makes retrospective
+or exposures they                                         studies particularly
+received                                                  prone to recall bias
+
+=== p. 172 ===
+
+Table 6.4   Studies with one group versus studies with more than one group
+
+Study design feature    Implications                                            this feature
+One group of study      Fewer participants need     Between-group               Survey
+participants            be recruited to the study   comparisons cannot          Cohort study
+                                                    be made
+                                                                                Case–control study
+                                                    Confounding factors
+                                                    may not be taken
+                                                    into account
+                                                    as easily
+
+Two groups of study     Between-group               Requires extra              Survey
+participants            comparisons to be made      participants to be          Cohort study
+                                                    recruited
+                        Confounding factors can                                 Case control study
+                        be taken into account
+                        more easily                                             RCT
+
+                        Groups can be balanced
+
+Table 6.5   Random versus not random allocation
+
+Study design feature    Implications                                             use this feature
+Non-random allocation   Not always possible or      Because participants         Cohort study
+                        ethical to randomise        may have chosen              Case–control study
+                        participants to different   which study group
+                        groups (e.g. in a study     they are in (or the
+                        investigating smokers       researcher has done
+                        and non-smokers)            so for them), this
+                                                    significantly biases the
+                                                    For example, if there
+                                                    were two groups of
+                                                    children – Group 1 in the
+                                                    top set for maths and
+                                                    Group 2 in the bottom
+                                                    set for maths – and
+                                                    a study investigated
+                                                    performance in
+                                                    physics, the two groups
+                                                    of children are not
+                                                    similar
+
+Random allocation       Allows equal balancing      Not always possible or       RCT
+                        of confounding factors      ethical to randomise
+                                                    participants to
+                        Limits bias in terms of
+                                                    different groups
+                        participant selection
+                        of an intervention or
+                        exposure
+
+=== p. 173 ===
+
+Table 6.6     Blind versus open-label studies
+
+Study design feature      Implications                                           use this feature
+Blinding: an individual   Anticipation of the      Not always possible or        RCT
+is not aware of what      placebo effect: a        ethical to blind-study        Cohort study
+intervention or           phenomenon whereby       participants or researchers
+exposure they are         study participants
+given.                    experience
+Individuals who           improvement in
+can be blinded            an outcome after
+                          receiving ‘something’
+include participants,
+                          that should in
+researchers and
+                          theory not produce
+analysts. So a study
+                          an improvement in
+can be single, double
+or triple blind
+                          Prevention of observer
+                          bias in researchers
+                          and analysts
+
+Open label: an            Not always possible      Participants may              RCT
+individual is aware       or ethical to blind-     exaggerate an                 Cohort study
+of what intervention      study participants or    improvement if they
+or exposure they are      research personnel,      think they are receiving
+receiving                 e.g. in a study          something that is supposed
+                          investigating surgery    to have an effect
+Again, this includes
+                          versus no surgery
+participants,                                      Researchers may
+researchers and                                    exaggerate findings
+analysts                                           according to their
+                                                   own biases
+
+Quality assessment: validity, reliability and applicability
+To undertake quality assessment, you need to understand the principles underpinning the process. These can be split into the three key concepts of validity, reliability and applicability.
+We consider each concept in turn.
+
+Validity (are the results of a study true?)
+The way in which research is designed and undertaken has an influence on whether the results
+can be considered ‘true’ or ‘valid’. Are there any flaws in how the research has been carried out
+that may invalidate the findings? Simply the act of undertaking research can alter study findings
+from reality. Imagine if one of your tutors told you that the occupational health department
+wanted you and your fellow course participants to take part in a study of how often you wash
+your hands. Would you be likely to alter your hand-washing practices? Would the findings of
+the study accurately represent hand-washing practices or would they present a distorted picture?
+  So in assessing validity we ask, ‘How much have the methods used to obtain the results
+thrown into question the findings themselves?’(Booth & Brice, 2004). The rigour of the research
+refers to the degree to which the design of the study and its conduct minimises the risk of bias
+
+=== p. 174 ===
+
+and takes into account confounding, two key flaws that can affect all studies. Bias is ‘anything
+that erroneously influences the conclusions about groups and distorts comparisons’ (Rose &
+Barker, 1994). Systematic errors in the conduct of a study include how participants are selected
+to take part, how outcomes are measured or how data is analysed. All of these can lead to inaccurate results (Cameron et al., 2014). Confounding is where you cannot ascertain whether an
+effect is caused by the variable you are interested in or by another variable. For example, a study
+may demonstrate a link between alcohol consumption and lung cancer. However, alcohol consumption is commonly associated with smoking, and thus smoking is a potential confounder
+for your study. Studies can be designed to take account of potential confounding at the analysis
+stage, or to ensure that groups within the study are stratified to achieve equal distribution of
+participants with the confounding factor (in this example, smoking). Whichever method is
+chosen, the researcher should demonstrate that they have identified potential confounders at
+the beginning of the study. Common confounding variables include age, sex and ethnicity.
+  To illustrate sources of bias and confounding, read the accompanying study scenario
+(Exercise 6.4). Try to answer the accompanying questions.
+
+      Study scenario – identifying sources of bias
+      Can an IT intervention improve primary schoolchildren’s performance in solving maths
+      problems?
+         A teacher selects 20 primary schoolchildren to take part in this study as a reward for good
+      behaviour. At the start of the study, each child completes a maths problems test consisting of
+      10 questions. Each child then completes a one-hour online workbook in which they complete a
+      series of maths problems in the form of fun games and exercises. The children then complete
+      another maths problems test of 10 questions, and the number answered correctly is recorded.
+      The teacher asks each child to recall how many they got correct in the maths test before the
+      study started.
+
+      1. What sources of bias can you see?
+
+         Hint 1: might the children selected to take part in the study differ in any way from those
+         who did not take part?
+
+         Hint 2: do you think the children could accurately (and truthfully!) recall their score for the
+         test they took at the beginning of the study?
+
+      2. Aside from the sources of bias in this study, what other factors might limit the credibility of the study findings?
+
+Reliability (what are the results?)
+All research results are subject to the possible effects of chance. Reliability refers to the trustworthiness of the results: ‘What is the likelihood that this study reports something that is
+
+=== p. 175 ===
+
+reproducible as opposed to being a “fluke or chance result”?’ (Booth & Brice, 2004). Researchers
+can run statistical tests to determine how likely it is that results are due to chance. Techniques
+generate a range of plausible values for the repeated measurement of the effect. You can then
+judge whether you would make the same decision based on the very best and the very worst
+estimate of the effect. However, statisticians choose arbitrary thresholds for determining chance,
+typically 5% or 1 in 20; if something occurs more frequently than this, it is considered unlikely
+to be due to the influence of chance (Booth & Brice, 2004) and is labelled statistically significant. You should also consider whether results are meaningful – is the effect large enough to
+be practically significant? For example, a study might demonstrate a change in five points
+on a scale that measures improvement in computer skills. This change of five points might be
+statistically significant but a teacher may only consider a change of ten points or more to
+be practically significant.
+
+Applicability (can we generalise the results?)
+Once you have assessed the validity and reliability of a study, you need to determine whether
+the results actually are useful. Validity and reliability are concerned with estimating the strength
+of the evidence, whereas applicability is concerned with the strength of recommendations for
+practice (based on the study results).
+  Continuing with our study scenario, imagine you are the headteacher of a primary school and
+you are reading the results of a systematic literature review investigating whether an IT intervention improves primary schoolchildren’s performance in solving maths problems. The review
+found seven studies designed to test this research question; however, the results are conflicting
+between the studies. Five studies found that IT did improve students’ performance in a weekly
+maths test, while two showed no evidence of such an effect. By examining the studies in more
+detail, you realise that the five supportive studies were undertaken in a group of children aged
+8–9 years old, whereas the two studies that did not find a positive effect were undertaken in
+children of a younger age group (4–5 years old). You might reasonably suggest that the IT-based
+maths computer program should only be taken up by classes of older children at the school.
+Note this is not a flaw of the individual studies included in the review, but simply reflects differences in the age of study participants. It thus relates to how your findings apply in practice.
+
+Carrying out quality assessment
+Now that we have covered the theory, how do you tackle the quality assessment? While every
+article is different, assessment of quality can be split into four stages (LoBiondo-Wood et al.,
+2002) (Box 6.1).
+  Even if you do not undertake full quality assessment for your review, you always need to follow the first two steps in Box 6.1. In developing a preliminary and then comprehensive understanding of each study, you arrive at an overall understanding of the individual contribution
+of that study. Most literature reviews involve some form of analysis understanding. The depth
+to which you break down the study into parts depends on which data is most important for
+your review. For example, in a mapping review you may be concerned with a few items of
+
+=== p. 176 ===
+
+information such as the type of studies, country and key themes. In contrast, in a systematic
+review, the details of study design are required in great depth, and so this involves ‘drilling
+down’ into the study for much of the necessary detail.
+
+      Four stages of quality assessment
+
+      Preliminary understanding – skimming or quickly reading to gain familiarity with the content
+      and layout of the paper.
+
+      Comprehensive understanding – increasing understanding of concepts and research terms.
+
+      Analysis understanding – breaking the study into parts and seeking to understand each part.
+
+      Synthesis understanding – pulling the above steps together to make a (new) whole, making
+      sense of it and explaining relationships.
+
+A useful place to start is by reading the abstract. The format of the abstract varies between disciplines. Increasingly within the medical literature, structured abstracts (with headings) are being
+adopted. These help the reader quickly assess the study design, participants and key results.
+Abstracts in other disciplines may be less structured but give a flavour of what the study is about.
+After reading the abstract, to gain a deeper understanding of the study, you start to read the
+paper in full. While the Introduction, Discussion and Conclusion can help in understanding
+the paper, it is the Methods section that allows you to determine the quality of the paper. The
+Results section, too, may indicate the significance of the individual study. Remember that practical relevance may not feature in the Results section but may be considered in the Discussion
+section. An ‘anatomy of a systematic review’ is a useful tool to assist with understanding the
+parts that make up a systematic review and covers what information you would expect to find in
+each section of a review (National Collaborating Centre for Methods and Tools, 2017).
+
+Published reviews in your subject area
+You can start to understand quality assessment in your discipline by investigating methods
+used in reviews in your topic. You can start to understand why particular approaches have been
+chosen, which checklists (or combinations of checklists) are widely used, and how authors present information on study features (see, for example, Zhou et al., 2015). Finally, a review from
+a similar topic may help you to identify which key study flaws and strengths are most likely to
+occur in your review.
+  Different approaches to quality and relevance assessment are demonstrated by systematic
+reviews from different disciplines (Table 6.7). Similar variation is apparent for other types of literature reviews such as mapping and scoping reviews (examine the reviews listed in Table 6.1).
+Other types of reviews featured throughout this book may also be useful. Further examples are
+found in the EPPI-Centre, the Campbell Library, the Cochrane Library and the Environmental
+Evidence Library of Evidence Syntheses.
+
+=== p. 177 ===
+
+Table 6.7 Examples of systematic reviews from different disciplines
+
+Health           Breathing exercises for    As per Cochrane Handbook criteria of assessment of risk
+                 asthma (Santino et al.,    of bias version 2 (Higgins et al., 2021)
+                 2020)
+
+Social welfare   The impact of              Studies assessed using extension of Cochrane
+                 detention on the health    Collaboration’s original risk of bias tool. The extension
+                 of asylum seekers: a       covers risk of bias in non-randomised studies with a well-systematic review          defined control group
+                 (Filges et al., 2015)      The risk of bias model used is based on nine items:
+
+                                            •   sequence generation
+                                            •   allocation concealment
+                                            •   confounders
+                                            •   blinding
+                                            •   incomplete outcome data
+                                            •   selective outcome reporting
+                                            •   other potential threats to validity
+                                            •   a priori protocol
+                                            •   a priori analysis plan
+
+Psychology       Psychological              Quality assessment addressed:
+                 and educational
+                                            •   Randomisation (method of generation and
+                 interventions for atopic
+                                                concealment of allocation)
+                 eczema in children
+                                            •   Blinding of observers (blinding of participants
+                 (Ersser et al., 2014)
+                                                was not possible because of the nature of the
+                                                intervention)
+                                            •   Loss to follow-up (presence of dropouts and
+                                                withdrawals and the analysis of these)
+                                            •   Other bias
+
+                                            Each component was categorised as low risk, unclear risk
+                                            or high risk as advised by the Cochrane Handbook for
+                                            Systematic Reviews of Interventions
+
+Education        Impacts of after-          The study reviewers listed 39 qualities that they felt
+                 school programmes          should be included in the reporting of a rigorous
+                 on student outcomes        experimental study. These were adapted from the What
+                 (Goerlich Zief et al.,     Works Clearinghouse Study Review Standards (2005).
+                 2006)                      Four specific standards were selected for a study to be
+                                            included:
+                                            (a) no specific evidence of control group contamination
+                                            (b) neither overall study attrition nor differential attrition
+                                                would bias impact estimates
+                                            (c) appropriate statistical measures used for analyses and
+                                            (d) primary impact analyses conducted on all available
+                                                sample members at follow-up
+
+                                            Two reviewers independently read each full study, applied
+                                            study quality criteria and recommended whether study
+                                            should be included
+
+=== p. 178 ===
+
+Library and     The attitudes and            When selecting studies for inclusion, authors categorised
+information     behaviours of illegal        literature into four ‘classes’, which included assessment
+science         downloaders (Williams        of quality:
+                et al., 2010)
+                                             •   Class A – Studies with high validity and a
+                                                 robust methodology that have been highly cited.
+                                                 (Note: high citations do not necessarily indicate high
+                                                 quality – a study could equally be cited as
+                                                 bad research!)
+                                             •   Class B – Credible studies with a lesser degree of
+                                                 confidence, typically related to methodological issues:
+                                                 small-scale surveys, convenience sampling, limited
+                                                 case study interviews, etc.
+                                             •   Class C – Research that was not very sound in terms
+                                                 of methodology, rigour and validity
+                                             •   Class D – Minimal or no real research content (e.g.
+                                                 opinion pieces)
+
+Computer        Using text mining for        Critical appraisal conducted within data extraction tool.
+sciences        study identification in      Quality assessed by two questions:
+                systematic reviews: a
+                systematic review of         •   Sampling of test cases – how generalisable is the
+                current approaches               sample of reviews selected?
+                (O’Mara-Eves et al., 2015)   •   Is the method sufficiently described to be replicated?
+
+Using checklists
+For experienced and novice reviewers alike, checklists can be particularly helpful in guiding
+the process of quality and relevance assessment. For the novice reviewer, checklists provide
+a comprehensive list of what to consider for quality assessment. Checklists may also help
+when considering study relevance, typically considered by the last three questions on Critical
+Appraisal Skills Programme checklists (CASP, n.d.). However, as you become experienced at
+quality assessment, checklists act as a prompt to help you consider all relevant points. The
+tools in this chapter point to various multidisciplinary sources of checklists for diverse study
+designs. However, be sure to investigate reviews within your discipline to give you pointers
+on how quality assessment is undertaken within your research area (Davoudi et al., 2015). For
+example, checklists in social work and social care have been discussed (Wells & Littell, 2009)
+and developed (Taylor et al., 2007). Also consider whether a generic checklist for each type of
+question, such as CASP, meets your needs or whether you need to adapt a checklist to your
+own topic area. If you adapt a published checklist, be sure to note this when writing up the
+methodology for your review. However, we advise that you try to avoid devising your own
+checklist as far as possible; it may indicate you have not looked carefully enough for an appropriate tool, it makes it difficult to compare your assessments to other reviews, and checklist
+development is now a science (Whiting et al., 2017) requiring its own literature review and
+expert panel!
+
+=== p. 179 ===
+
+   The CASP set of critical appraisal checklists
+   Access the CASP Set of Critical Appraisal Checklists (https://casp-uk.net/casp-toolschecklists/). This set of eight critical appraisal tools is designed for use when reading
+   research. Browse through the checklists and select a checklist of potential interest (e.g.
+   the checklists for systematic reviews or qualitative research). Familiarise yourself with the
+   checklist structure and the individual question items. How can you tell that this checklist was
+   designed for appraising individual papers and was not intended for quality assessing papers
+   for inclusion in a review?
+
+Table 6.8 lists a few key checklist resources by study design or topic. See Box 6.3 for tips on selecting a checklist. A recent article summarises the principal checklists for common study designs
+(Ma et al., 2020).
+
+Table 6.8 Key quality assessment checklist resources – quantitative designs
+
+                                      Study design checklists
+Systematic Reviews Toolbox        Searchable online catalogue of tools to support systematic
+(http://systematicreviewtools.    reviews. Focuses on automated tools (software), but other tools
+com/)                             (e.g. checklists) also included. For quality assessment tools,
+                                  select ‘Other Tools’ in ‘Advanced Search’ function and ‘quality
+                                  assessment’ from ‘Find Me’ feature list
+
+Critical Appraisal Skills         Checklists for following study designs:
+Programme (CASP)
+                                  •   Case–control studies
+                                  •   Clinical prediction rules
+                                  •   Cohort studies
+                                  •   Diagnostic test studies
+                                  •   Economic evaluation studies
+                                  •   Randomised controlled trials (RCTs)
+                                  •   Systematic reviews
+
+STROBE (STrengthening the         Checklists for:
+Reporting of OBservational
+                                  •   Case–control studies
+studies in Epidemiology)
+                                  •   Cohort studies
+                                  •   Cohort, case–control, and cross-sectional studies (combined)
+                                  •   Cross-sectional studies
+
+ROBINS-I: A tool for              In target trial, effect of interest is typically that of either:
+assessing risk of bias in         assignment to intervention at baseline (start of follow-up),
+non-randomised studies of         regardless of the extent to which intervention was received during
+interventions                     follow-up (sometimes referred to as ‘intention-to-treat’ effect); or
+                                  starting and adhering to intervention as indicated in trial protocol
+                                  (sometimes referred to as ‘per-protocol’ effect)
+
+=== p. 180 ===
+
+JBI Critical Appraisal Tools      Checklists for following study designs:
+(https://joannabriggs.org/ebp/    Cohort, case–control and cross-sectional studies (combined)
+critical_appraisal_tools)
+                                  Analytical cross-sectional studies
+                                  Case–control studies
+                                  Case reports
+                                  Case series
+                                  Cohort studies
+                                  Diagnostic test accuracy studies
+                                  Economic evaluations
+                                  Prevalence studies
+                                  Quasi-experimental studies (non-randomised experimental
+                                  studies)
+                                  Randomised controlled trials
+                                  Systematic reviews
+                                  Text and opinion
+
+AMSTAR 2: Assessing the           An instrument for critically appraising systematic reviews of
+methodological quality of         randomised controlled trials:
+systematic reviews                https://amstar.ca/Amstar-2.php
+
+ROBIS: A risk of bias             Tool completed in three phases:
+assessment tool for
+                                  1. Assess relevance (optional)
+systematic reviews (https://
+                                  2. Identify concerns with the review process:
+www.bristol.ac.uk/populationhealth-sciences/projects/             •   Study eligibility criteria
+robis/robis-tool/)                    •   Identification and selection of studies
+                                      •   Data collection and study appraisal
+                                      •   Synthesis and findings
+
+                                  3. Judge risk of bias
+
+Case studies (Atkins &            Case studies
+Sampson, 2002)
+
+Mixed methods studies (Pluye      http://mixedmethodsappraisaltoolpublic.pbworks.com/w/
+& Hong, 2014)                     page/24607821/FrontPage
+
+                                     Topic-specific checklists
+
+Evidence-based library and information science (http://ebltoolkit.pbworks.com/f/
+EBLCriticalAppraisalChecklist.pdf)
+
+Education – ReLIANT (Readers guide to the Literature on Interventions Addressing the Need for
+education and Training) (Koufogiannakis et al., 2006)
+
+                                          Generic checklists
+
+Standard quality assessment criteria for evaluating primary research papers from a variety of fields
+(Kmet et al., 2004)
+
+=== p. 181 ===
+
+TOOLBOX – QUALITY ASSESSMENT CHECKLISTS
+Do not be put off by the first few occasions you undertake quality assessment. From our experience quality assessment of a complicated study is time consuming and may require you to
+revisit your quality judgements, perhaps on multiple occasions. However, you will soon become
+proficient and, consequently, quicker – especially as you become familiar with a specific quality
+assessment method. The more quality assessments you undertake, the more adept you become
+at spotting the key strengths or weaknesses of a study – the same flaws in published studies often
+occur again and again, especially in the same topic area.
+
+   Tips on checklists
+   • Remember quality and relevance assessment vary by discipline. Take a look at reviews in
+     your discipline and examine how authors have undertaken quality and relevance assessment, and also which checklist they have used. See Table 6.7 for examples and key features
+     of reviews in different disciplines.
+   • Stick to checklists that have been validated or widely accepted in your discipline. Again,
+     examining reviews in your discipline will help to identify the accepted checklists.
+   • Avoid checklists that employ scoring systems. It is dangerous to label studies with scores,
+     and not particularly helpful in understanding how the study strengths and weaknesses
+     contribute to the validity of the study findings. In fact, the Cochrane methods guide for
+     systematic reviews actively discourages use of checklists that assess quality using a scoring system (Higgins et al., 2021).
+   • Remember what you are trying to achieve through quality and relevance assessment –
+     checklists are only a guide. You may spot study features that are not picked up by your
+     checklist and these can still be reported.
+   • Lastly, if a suitable tool really does not exist, rather than trying to create your own
+     checklist from scratch (which is not advised), you could adapt an existing checklist, or
+     select criteria from different checklists and devise your own meta-checklist. (However,
+     do remember to justify why you have had to do so and reference the contributing
+     checklist.)
+
+Case Study – Drafting a checklist
+When undertaking work for a UK national quasi-governmental organisation in 2017 we identified an absence of checklists for quality assessing mapping reviews and scoping reviews.
+We therefore produced two checklists that focused on how review methods are reported (i.e.
+how closely they follow recognised review methods) to help when reviewing types. Abbreviated
+versions of these two checklists are summarised in Tables 6.9 and 6.10. Subsequently a checklist
+for scoping reviews has been published (Cooper et al., 2021).
+
+=== p. 182 ===
+
+Table 6.9    Thirteen questions to help you make sense of a mapping review
+
+Questions 1–3 are screening questions. You can answer these quickly. If your answer is ‘yes’, it is worth
+proceeding with the remaining questions. Prompts are given after each question. These remind you
+why the question is important
+Whereas a scoping review provides an overview of ‘what is out there’ on a particular topic, a
+mapping review focuses on where literature is found
+(A) Are the results of the mapping review valid?
+
+Screening questions
+Hint: Scope can be ‘focused’ in terms of PICOS, publication types, geographical/time limits/setting
+Hint: ‘The best sort of studies’ would address the review’s question and match a pre-specified list of
+study designs, if feasible
+3. Is a mapping review the         Yes/No/Cannot Tell
+Hint: A mapping review seeks: to examine the extent, range and nature of research activity, and areas
+within a topic already adequately addressed by research/systematic reviews; to familiarise the reader
+with the current state of knowledge; to identify absolute gaps not adequately addressed by research
+and synthesis gaps not adequately addressed by systematic reviews; and to determine where full
+systematic reviews might usefully be targeted
+Hint: Look for databases used; details of the search strategy and the terms used; journals in the topic
+area; vulnerability to time trends; use of reference lists, inclusion of unpublished/published studies/
+non-English language studies, if appropriate
+Note: Bias in a mapping review depends not on whether content has been critically evaluated, but on
+how comprehensively/consistently the protocol has been followed and how well processes, decisions
+and results have been documented
+   stakeholders, if appropriate?
+Hint: Consider whether: review team sought published research and research in progress; stakeholder
+perspectives are included; stakeholders informed review scope, identification of literature, analysis
+and/or interpretation of review
+6. Have authors used a             Yes/No/Cannot Tell
+   meaningful taxonomy or
+   classification to organise/
+   present results?
+Hint: Consider whether: users would recognise categories/classification/labels used; authors have
+used a recognised framework/coding system; when using a pre-existing taxonomy/classification, is
+there a clear/transparent link between categories used and literature coded within each category?
+
+=== p. 183 ===
+
+7. Are categories mutually           Yes/No/Cannot Tell
+   exclusive, clearly defined,
+   explicit and at an appropriate
+   level of granularity for the
+   review purpose?
+Hint: Consider whether definitions offer consistency of coding and/or of interpretation of results;
+inter-rater reliability is considered for categorisation
+
+8. Do the authors characterise       Yes/No/Cannot Tell
+   the quantity of included
+   studies?
+Hint: Consider whether the review authors present total numbers of studies identified within
+meaningful sub-categories; discuss likelihood of missing studies; assess limitations of search process
+and implications for the mapping review
+
+9. Do the authors characterise       Yes/No/Cannot Tell
+   the likely quality/types of
+   study designs of included
+   studies?
+Hint: Consider whether the review presents overall data on study quality or categorises study designs
+within meaningful sub-categories; whether authors consider types of study/study design missed by search
+strategy; whether authors assess if the types of study retrieved by search answer the review question
+
+10. Do the authors use               Yes/No/Cannot Tell
+    appropriate narrative/
+    tabular/graphical displays
+    to present distribution of
+    included articles, concepts
+    within literature or linkages?
+
+    statement of implications
+    of the evidence base for
+    further research/further
+    reviews, identifying
+    strengths, weaknesses,
+    opportunities or gaps?
+
+12. Does the review offer            Yes/No/Cannot Tell
+    yielded by further research/
+    reviews?
+Hint: Consider whether authors suggest a clearly defined role for a further review
+
+13. Is the data mapped within        Yes/No/Cannot Tell
+    the review sufficient to
+    sustain further related
+    questions or analyses?
+Hint: Consider if: coding is sufficiently clear, transparent and comprehensive to sustain additional
+   lines of enquiry/analyses; data supplements/complementary database are available for further
+   analyses; authors can suggest topics or issues for further exploration and acknowledge
+   uncertainties or volatility around interpretation of the map
+
+=== p. 184 ===
+
+Table 6.10    Eleven questions to help you make sense of a scoping review
+
+Questions 1–3 are screening questions and can be answered quickly. If your answer is ‘yes’, you can
+proceed to the remaining questions. Prompts are given after each question. These remind you why
+the question is important
+Scoping reviews are used to identify knowledge gaps, set research agendas and identify implications
+for decision-making
+(A) Are the results of the scoping review valid?
+Screening Questions
+Hint: Scope can be ‘focused’ in terms of PICOS and publication types
+Hint: ‘The best sort of studies’ would address the review’s question and have an appropriate study
+design
+3. Is a scoping review the         Yes/No/Cannot Tell
+Hint: A scoping review would seek to examine the extent, range and nature of research activity and
+the extent to which the topic is already addressed by research/systematic reviews; to determine
+the value of undertaking a full systematic review; to summarise and disseminate research findings;
+to identify uncertainties to be addressed by a focused systematic review question; and to identify
+research gaps (synthesis gaps) in the literature to position a subsequent systematic review
+Hint: Look for databases used; use of reference lists; personal contact with experts; inclusion of
+unpublished/published studies/non-English language studies, if appropriate
+   stakeholders?
+Hint: Consider whether review team asked stakeholders to suggest items for inclusion, used
+stakeholders to establish the relevance of the scope or results, conducted a consultation exercise to
+establish a future research agenda
+6. Did the review authors          Yes/No/Cannot Tell
+   assess the quality of the
+   included studies?
+Hint: This is not a formal requirement of a scoping review but if the review authors did assess quality
+consider: how well was quality assessment performed and how did the review team use the results of
+the assessments?
+7. What is the overall quantity    Yes/No/Cannot Tell
+
+=== p. 185 ===
+
+Hint: Consider whether the review authors present total numbers of studies identified, within
+meaningful sub-categories; discuss what might have been missed by the search strategy; assess
+limitations of the search process and implications for the scoping process
+    8. What is the overall quality    Yes/No/Cannot Tell
+Hint: Consider whether the review authors present overall data on study quality or categorise study
+designs within meaningful sub-categories; discuss what types of study/study designs have been
+retrieved/missed by the search strategy; assess whether types of study retrieved by the search could
+answer the review question.
+    9. Do the review authors          Yes/No/Cannot Tell
+       present the results of
+       the scoping review using
+       numerical, tabular and
+       thematic approaches?
+Hint: Consider whether data provided by the review authors allows exploration of multiple options for
+finalisation of scope and their relative implications in terms of information yield and effort required
+    statement of the
+    implications of the evidence
+    base for a future systematic
+    review/further primary
+    research, including potential
+    boundaries for scope?
+Hint: Consider whether the authors make recommendations for the conduct of a future systematic
+review/primary research
+11. Do the authors offer              Yes/No/Cannot Tell
+    of a future systematic
+    review/further primary
+    research?
+Hint: Consider whether the review authors suggest how a further review would be useful and can
+identify specific contributions that a further review might make
+
+Evidence summaries
+It is helpful to identify published examples where someone has performed a quality assessment
+of a published study, so investigate the journals and key organisations (grey literature) in your
+discipline to see if they do.
+     Examples include:
+
+•       BMJ clinical evidence summaries | The BMJ (https://www.bmj.com/specialties/bmj-clinicalevidence-summaries)
+•       Evidence Based Library and Information Practice (EBLIP) (https://journals.library.ualberta.
+        ca/eblip/)
+
+=== p. 186 ===
+
+•     NICE (National Institute for Health Care and Excellence) Evidence Summaries | NICE advice
+      | Our programmes | What we do | About | NICE (https://www.nice.org.uk/about/what-wedo/our-programmes/nice-advice/evidence-summaries)
+•     Education Endowment Foundation Evidence summaries | Education Endowment Foundation
+      | EEF(Toolkits) (https://educationendowmentfoundation.org.uk/evidence-summaries/)
+
+Quality assessment of qualitative research
+Considerable debate surrounds the quality assessment of qualitative research as to whether it
+can, or indeed should, be done. There is little consensus within qualitative research with
+over a hundred sets of proposals on quality in qualitative research (Munthe-Kaas et al., 2019)
+and widely opposing views. Essentially, two extremes exist: those who believe that concepts
+used in quantitative research apply equally to qualitative research, without further interpretation (reliability, validity); and those who believe that there are no quality criteria by which
+qualitative research can be assessed (Popay et al., 1998; Mays & Pope, 2020b). Further contention surrounds how best to approach quality assessment given evidence that it cannot be
+performed reliably; results from quality assessment differed across three appraisal approaches
+and six different reviewers (Dixon-Woods et al., 2007). In recent times, debate has shifted
+from whether or not quality assessment should be done and towards what criteria should be
+used (Carroll & Booth, 2015). A survey of 82 qualitative evidence syntheses (QES) published
+between 1998 and 2008 (Hannes & Macaitis, 2012) found that critical appraisal had been
+conducted in most cases, with only five reviews explicitly stating, and justifying, the absence
+of critical appraisal. Limitations included a focus on reporting rather than conduct and the
+presence of items that are separate from, or tangential to, consideration of study quality (e.g.
+ethical approval).
+    Cochrane Qualitative and Implementation Methods Group (CQIMG) guidance recommends that review authors should ‘distinguish between assessment of study quality and
+assessment of risk of bias by focusing on assessment of methodological strengths and limitations as a marker of study rigour (a ‘risk to rigour’ approach)’ (Noyes et al., 2018a; 2021).
+In the absence of a definitive risk to rigour tool, Cochrane further recommends that review
+authors select from published, commonly used and validated (i.e. evaluated) tools that focus
+on ‘the assessment of the methodological strengths and limitations of qualitative studies’. For details on quality assessment of qualitative research, read the highly cited CQIMG
+Supplementary Guidance Paper 3 (Noyes et al., 2018a). This guidance informs Chapter 21 on
+Qualitative Evidence from the Cochrane Handbook for Systematic Reviews of Interventions
+(Noyes et al., 2021).
+    When undertaking quality assessment for your own qualitative review, you need to consider
+which checklist to use (Table 6.9). One review identified almost 100 appraisal tools for assessing primary qualitative studies (Munthe-Kaas et al., 2019). A review of eight tools identified
+six quality assessment/critical appraisal checklists (JBI, Popay, Walsh, ETQS, QF and CASP) (see
+Table 6.11) (Majid & Vanstone, 2018). The remaining two tools (COREQ and SRQR) focus on the
+quality of reporting, not on the appropriateness of methods used (see Chapter 8), a frequently
+noted limitation (Carroll et al., 2012). Checklists have been criticised for focusing only upon
+the ‘technical/mechanical management of the creation and sorting of data’ while ignoring the
+‘value of the product of the research’ and failing to ‘address the originality, the substance, the
+
+=== p. 187 ===
+
+contribution, and the potential results to the actual topic—which is after all the purpose of the
+project itself’ (Morse, 2021). Alternatively, brief prompts for quality assessment of qualitative
+research have also been suggested (Dixon-Woods et al., 2004; 2006).
+
+Table 6.11   Key quality assessment checklist resources – qualitative designs
+
+                                Qualitative study design checklists
+
+Critical Appraisal Skills Programme (CASP)        10 questions to help you make sense of a qualitative
+                                                  research. Designed for reading single qualitative
+https://casp-uk.net/wp-content/
+                                                  research articles but extensively used in qualitative
+uploads/2018/01/CASP-Qualitativeevidence syntheses
+Checklist-2018.pdf
+
+Evaluation Tool to assess the Quality of          38 unstructured questions organised under
+qualitative research Studies (ETQS) (Long &       4 themes. Designed for qualitative evidence
+Godfrey, 2004)                                    synthesis
+
+Joanna Briggs Institute (JBI)                     Developed by JBI and collaborators and approved
+                                                  by JBI Scientific Committee following extensive
+https://joannabriggs.org/sites/default/
+                                                  peer review. Designed for use in systematic reviews,
+files/2020-08/Checklist_for_Qualitative_
+                                                  but also used to create Critically Appraised Topics
+Research.pdf
+                                                  (CAT), in journal clubs and as an educational tool
+
+National Institute for Health and Clinical        Designed for those with basic knowledge of
+Excellence (NICE)                                 qualitative research. Used in producing public
+                                                  health guidance. 14 questions with categorical
+https://www.nice.org.uk/process/pmg4/
+                                                  responses
+chapter/appendix-h-quality-appraisal-checklistqualitative-studies#checklist-2
+
+Popay (Popay et al., 1998)                        Designed for qualitative evidence synthesis.
+                                                  Eight ‘markers’: findings illuminate subjective
+                                                  meaning; iterative nature of research methods;
+                                                  appropriateness of sample; adequate description
+                                                  of findings; triangulation between data sources;
+                                                  flow of data/examples; interpretation; and claims of
+                                                  generalisability
+
+Qualitative research (Dixon-Woods et al.,         Brief prompts for qualitative research designed for
+2006)                                             experienced qualitative researchers
+
+Quality Framework (Cabinet Office)                Exhaustive tool for social research compiled from
+https://www.gov.uk/government/publications/       literature review of quality assessment concepts
+government-social-research-framework-forassessing-research-evidence
+
+Specialist Unit for Review Evidence (SURE)        Adapted/updated from former Health Evidence
+                                                  Bulletins Wales checklist with reference to NICE
+https://www.cardiff.ac.uk/__data/assets/
+                                                  Public Health Methods Manual (2012) and previous
+pdf_file/0007/1142971/SURE-CA-form-forversions of Critical Appraisal Skills Programme
+Qualitative_2018.pdf
+                                                  (CASP) checklist
+
+Walsh (Walsh & Downe, 2006)                       Designed for quality assessment in a qualitative
+                                                  evidence synthesis, particularly for use in rapid
+                                                  reviews in policy
+
+=== p. 188 ===
+
+  Second, reflect on why you plan to undertake quality assessment of qualitative research. The
+review of 100 appraisal tools was looking for a tool to facilitate GRADE-CERQual ratings of
+review findings (Munthe-Kaas et al., 2019). Examples exist where studies are excluded on the
+basis of quality (Brunton et al., 2006); however, most qualitative reviews do not exclude studies
+for that reason. You should be careful when using checklists to exclude studies from a review,
+making sure that all exclusions are supported by an explicit account of the researcher’s view of
+‘good’ and ‘bad’ studies, and reason for exclusions (Sandelowski et al., 1997). It is good practice
+to look routinely at the effect on the review of both including and excluding poor-quality studies, so-called ‘qualitative sensitivity analysis’ (Carroll & Booth, 2015).
+  Lastly, you should recognise that quality assessment of qualitative research is contested with
+methods work still ongoing (Garside, 2014; Munthe-Kaas et al., 2019; Morse, 2021). Research
+suggests that assessing qualitative studies for qualitative systematic reviews has little impact on
+overall review findings – exclusion of weaker studies shows no effect (Thomas & Harden, 2008).
+Exclusion of ‘inadequately reported’ studies from two exemplar reviews had no meaningful
+effect on the synthesis (Carroll et al., 2012). However, in one of the reviews, on online education, excluding inadequately reported studies could lead to exclusion of the views of one particular
+group of health professionals. For the moment, the main reason for assessing study quality for
+qualitative syntheses appears to be that editors and peer reviewers expect that quality assessment should be reported.
+
+Quality assessment for mixed methods reviews
+Quality assessment for mixed methods reviews is particularly demanding. It requires that you
+are familiar with the design features of both qualitative and quantitative methods with a knowledge of their strengths and weaknesses. You also need to consider the implications of bringing
+the two study designs together; for example, participants who have already been recruited to a
+trial may reflect distinctive attitudes or values if subsequently asked about their experience of
+a particular condition. Quality assessment of mixed methods studies is covered in Chapter 9.
+For the moment, it suffices to highlight three main options: using an all-in-one checklist, using
+compatible checklists from the same stable (from the analogy of a string of race horses) or using
+the ‘best of class’ checklist for each study (Table 6.12) (Noyes et al., 2019).
+
+Table 6.12 Three options for quality assessment in mixed methods reviews
+
+Option                             Strengths                         Weaknesses
+
+‘All-In-One Checklist’ (e.g. the   Looks at individual study         Uses scoring system
+Mixed Methods Appraisal Tool       features and also effect of
+(MMAT))                            integration
+
+‘Same Stable Checklists’           Harnesses compatible              Designed as ‘reader’s
+(e.g. CASP (RCTs) and CASP         checklist structures to aid       checklists’ and do not reflect
+(Qualitative))                     cross-study comparison            state of the art
+
+‘Best of Class Checklists’ (e.g.   Uses current best options for     Not designed for compatibility
+Cochrane Risk of Bias for RCTs     each individual study             and integration of designs
+and JBI for Qualitative)                                             is ignored
+
+=== p. 189 ===
+
+Applying quality assessment
+Quality assessment of studies generates large quantities of information. Typically, in systematic
+reviews where quality assessment is the default, the Results section presents a few paragraphs
+that attempt to synthesise information on overall study quality, focusing on its impact on individual study findings. The information can also be tabulated by drawing out the key points
+of the checklist. Generally, the Discussion focuses on the key flaws, but you should not forget
+to include what has been done well! As mentioned previously, you should be aware of which
+flaws are critical and which are not – remember that it is the impact on the study findings that
+is crucial.
+  Reviewers do not generally exclude studies on the basis of quality. However, sometimes they
+perform a subgroup analysis to examine whether the results change if poor-quality studies
+are omitted (i.e. are results sensitive to study quality?). This form of subgroup analysis is usually
+referred to as a sensitivity analysis. Subgroup analysis may also be performed by splitting the
+studies into subgroups according to a particular study design feature that might impact on study
+findings, for example the country in which the study was undertaken or studies with large and
+small sample sizes, and exploring how these aspects of studies might impact on the findings of
+the review. For example, smaller studies may overestimate study findings (Higgins et al., 2021)
+and subgroup analysis has the potential to demonstrate this.
+  Finally, be cautious about labelling studies according to a level of quality (e.g. high, medium
+and low). While in principle this might appear useful, you need to be explicit about the criteria
+by which studies are categorised, so that ultimately the classification of studies could be reliably
+reproduced. Given this may be a highly subjective exercise, you do not want to mislead your
+audience as their concept of a high-quality study may differ from your own.
+
+Issues and challenges in quality assessment
+Assessing the quality of research is time consuming, particularly when you are new to the
+process. With experience, you become quicker as you become more familiar with the study
+designs and their inherent and anticipated weaknesses. You may also find it difficult to choose
+a checklist given the number from which to choose. As discussed earlier, you could examine
+examples of reviews in your subject area to identify common and well-used checklists for your
+research discipline.
+  Quality assessment is a subjective process. For systematic reviews, methods guides suggest
+that quality assessment should be carried out by more than one person and the results compared (Higgins et al., 2021). However, this is not always practical or necessary. Having a second
+reviewer check a sample of quality assessments offers a reasonable alternative, particularly for
+those elements of which you are unsure (with a supervisor or mentor perhaps). Use of checklists
+typically makes it easier to achieve consensus. As previously stated, fundamental issues concerning the subjectivity of quality assessment of qualitative research remain to be resolved.
+  Lastly, remember that quality assessment examines what is reported within a study report,
+and thus studies can only be as good as their reporting. Often studies do not report enough
+details of the methods employed and quality assessment can only measure what is reported.
+While it is possible to track authors down to elicit missing details, a good paper should include
+sufficient detail to allow you to assess its quality. The quality of reporting of primary and
+
+=== p. 190 ===
+
+secondary research (see Chapter 10) has been a subject of attention. The EQUATOR Network
+provides a comprehensive list of reporting guidelines (www.equator-network.org/ see Box 10.5).
+Over time, as more journals adopt standards for reporting the studies they publish, quality
+assessment should become easier – assuming that standardised reporting does not conceal more
+than it reveals, by making it difficult to identify poorer studies.
+  Use Exercise 6.5 to practise your quality assessment skills.
+
+   Quality assessment
+   In Table 6.13, three articles and their citations are presented for you to test out your quality
+   assessment skills. Each of the three articles is open access and therefore freely available
+   online.
+        We have selected articles that report different study designs and different topics. Skills
+   that you acquire from undertaking this exercise will transfer to assessing studies from other
+   disciplines, including your own.
+        First, read the full article and undertake a quality assessment using an appropriate checklist (suggested checklists are provided in Tables 6.9 and 6.10). Then look at the model answers
+   for each article on the companion website. Based on the suggested checklists, see if you have
+   identified the key points. Try to undertake the exercise before looking at the corresponding
+   model answers! Then look to see whether you have identified the key points. Do not worry if
+   some of your judgements disagree with the sample answers. Disagreements over the quality
+   of individual studies can, and frequently do, happen within systematic review teams. This is
+   why two reviewers make initial judgements, discuss discrepancies and, where agreement cannot be reached, a third reviewer acts as adjudicator to reach a final, agreed judgement. You
+   are likely to have identified points that our sample answers have overlooked.
+
+Table 6.13 Quality assessment of an article
+
+Study reference                                Study design   Checklist
+Chocolate flavanols and skin                   RCT            Critical Appraisal Skills Programme:
+photoprotection: a parallel, double-blind,                    https://casp-uk.net/wp-content/
+randomized clinical trial. (Mogollon et al.,                  uploads/2018/01/CASP-Randomised2014)                                                         Controlled-Trial-Checklist-2018.pdf
+Dying to be famous: retrospective cohort       Cohort study   Critical Appraisal Skills Programme:
+study of rock and pop star mortality and                      https://casp-uk.net/wp-content/
+its association with adverse childhood                        uploads/2018/01/CASP-Qualitativeexperiences (Bellis et al., 2012)                             Checklist-2018.pdf
+Robotic seals as therapeutic tools in an       Qualitative    Critical Appraisal Skills Programme:
+aged care facility: a qualitative study        study          https://casp-uk.net/wp-content/
+(Birks et al., 2016)                                          uploads/2018/01/CASP-Cohort-StudyChecklist_2018.pdf
+
+=== p. 191 ===
+
+SUMMARY
+All literature reviews involve an assessment of the evidence base. The first step is to select systematically those studies identified by the literature search that are relevant to your review
+question. The type of review that you are undertaking and its purpose will determine the
+approach you will use to assess the included studies in your literature review. For some reviews,
+you may briefly characterise the key features of the evidence base. In other reviews, you need
+to conduct an in-depth assessment of study quality to address the review question. Checklists
+that elicit a Yes/No/Cannot Tell response to questions can help you to accomplish this process,
+particularly if you are a novice reviewer. An experienced reviewer may progress to responding
+to a series of prompts. In both instances it is important to document the individual judgements
+and to use these assessments when interpreting the review findings. Many useful resources exist
+to support the quality assessment process. Quality assessment is, initially at least, a difficult and
+time-consuming process, although it does become easier with experience and practice. However,
+be sure to persevere as the process often alerts you to methodological flaws in studies included
+in a review. You may be surprised (or even shocked!) at the potential impact of a flawed study on
+the findings and conclusions of your review.
+
+                      key learning points
+
+   • Use the inclusion and exclusion criteria you devised in Chapter 4 to help you select studies
+     for your review in a transparent manner.
+   • Consider the extent to which you need to assess the evidence base for your review by
+     thinking about the aim of your review.
+   • Consider how the design features of studies included in your review can impact upon the
+     research findings.
+   • Three core components of quality assessment to consider when reading a study are:
+
+      �   Are the results of a study true? (Validity)
+      �   What are the results? (Reliability)
+      �   Can I generalise the results? (Generalisability)
+
+   • Quality assessment checklists help to guide the process of quality and relevance assessment.
+   • Look at research within your discipline, particularly reviews, to see how quality assessment is undertaken in your topic area.
+
+                      frequently asked questions (FAQS)
+
+   FAQ 6.1 I am unsure whether to include a study in my review, what can I do?
+   You could ask for a second opinion, for example from your supervisor or mentor. Alternatively,
+   you could hand a colleague your inclusion and exclusion criteria and ask them to apply these
+   to the study in question to see what decision they reach. Systematic reviews being conducted by research teams, particularly those that are funded, would double-screen at least
+
+=== p. 192 ===
+
+  a proportion of the studies, therefore any uncertainty can usually be resolved, including the
+  opinion of a third reviewer/colleague if required.
+
+  FAQ 6.2 Do I need to record a reason for all the studies I exclude?
+  It will help to record the reasons for exclusion at each stage of screening. This will then help
+  you to report how many studies were excluded at the title and abstract screen, and how
+  many studies were recorded at the full-text screen. For your write-up, you only need to record
+  reasons for any studies you exclude at full text. Systematic reviews usually include in the
+  appendices a list of these with a (brief) reason for why they did not meet the inclusion criteria
+  (such as incorrect population).
+
+  FAQ 6.3 How do I keep track of what I have included and excluded and at
+  what stage?
+  The important thing is to have a system, whether manual or electronic. Reference management tools can help, as you can tag or label references accordingly as you go through the
+  selection process – such as include-abstract or exclude-full-text. You can then retrieve lists
+  based on the various tags/labels, for example to generate a list of excluded at full text studies
+  for your appendices. Free software exists to help with the review process, for example Rayyan.
+  Many reviewers use home-made solutions such as Excel spreadsheets with drop-down menus,
+  importing references into the spreadsheet, so that they can filter and sort on inclusion/exclusion criteria and perform quick counts according to record status (Include/Exclude/Proceed
+  to Full Text etc.) If you have access to systematic review software via your institution, or can
+  afford to include it in the budget for your review, ‘keeping track’ is built into these programmes.
+
+  FAQ 6.4 I am unsure how much effort I will need to spend on quality assessment
+  and how I should approach it for my review?
+  Refer to Table 6.1 as a starting point. You will find it helpful to look at reviews of a similar
+  type (e.g. so if planning a scoping review, look at existing scoping reviews) and reviews in
+  your topic (to identify subject-specific checklists or to see if researchers have used/adapted
+  generic checklists). The Systematic Review Toolbox (www.systematicreviewtools.com) is a
+  good source of quality assessment checklists and guidelines covering different disciplines.
+
+  FAQ 6.5 I am critically appraising a systematic review and I want to assess the
+  issue of heterogeneity, whereabouts in the review should I look for this?
+  Reviewers may describe how they planned to deal with heterogeneity upfront in the Methods
+  section. Also, check the Results section to see how they handled heterogeneity in practice.
+  If the review presents a meta-analysis, you can check the forest plot to see whether it was
+  appropriate to combine the results of the individual studies. A useful ‘Anatomy of a Systematic
+  Review’ (National Collaborating Centre for Methods and Tools, 2017) tool will assist you when
+  analysing others’ reviews.
+
+  FAQ 6.6 Can I combine my data extraction with my quality assessment, so I
+  don’t need to read each study twice?
+  It is possible to record the data extraction and quality assessment together, and in the same
+  data extraction repository (e.g. an Excel file or Word table). Various examples exist, including
+  sample data extraction forms from the Cochrane Collaboration Developmental, Psychosocial
+  and Learning Problems group: https://dplp.cochrane.org/data-extraction-forms. It really is a
+
+=== p. 193 ===
+
+   matter of choice and what you find best for you. With any data extraction form, whether including critical appraisal or not, it is useful to pilot it first before using it throughout your review.
+
+Get more hands-on guidance!
+Visit https://study.sagepub.com/booth3e for downloadable versions of the exercises, as
+well as some suggested answers. You can also access a glossary, literature review templates,
+source trackers, and a collated list of online tools to help you put together a successful
+literature review.
+
+                      suggestions for further information
+
+   Ajetunmobi O (2002) Making Sense of Critical Appraisal. London: Arnold.
+   A useful book with a chapter on appraising each key study design. Read the chapter(s) that
+   cover the study designs of your evidence base. New edition (2nd) planned for January 2021.
+
+   Aveyard H (2018) How do I critically appraise the literature? In: Doing a Literature Review in
+       Health and Social Care, 4th edition. Maidenhead: Open University Press, 75–123.
+   This chapter gives an overview of critical appraisal. Particularly helpful is the ‘six questions to
+   trigger critical thinking’. Appraisal of a variety of information types is covered – quantitative
+   and qualitative research, theory, practice literature, policy and guidelines, and information
+   on websites.
+
+   Greenhalgh J & Brown T (2017) Quality assessment: where do I begin? In: Boland A, Cherry MG
+      & Dickson R, Doing a Systematic Review, 2nd edition. London: Sage, 107–30.
+   This chapter covers the process of quality assessment from beginning to end, in a 6-step guide.
+
+   Greenhalgh T (2019) How to Read a Paper: The Basics of Evidence-Based Medicine and
+      Healthcare, 6th edition. Oxford: Wiley Blackwell.
+   Now in its 6th edition, this essential book gives an overview of the evidence-based medicine
+   process. Chapter 3, ‘Getting your bearings: what is this paper about?’, provides an introduction to quality assessment, before moving on to a chapter on assessing methodological quality
+   (Chapter 4). Chapter 5, ‘Statistics for the non-statistician’, is particularly useful for familiaris-ing yourself with the key statistical aspects of studies to inform your critical appraisal.
+
+   Oliver P (2012) How to select literature for inclusion. In: Succeeding with Your Literature
+       Review. Maidenhead: Open University Press, 58–74.
+   A good introduction to quality assessment, does not cover formal critical appraisal, but highlights issues to consider when selecting studies to include in your review.
+
+   Porritt K, Gomersall J & Lockwood C (2014) JBI’s systematic reviews: study selection and critical appraisal. American Journal of Nursing, 114(6): 47–52.
+   Part of a series presenting a step-by-step guide to systematic review, this article focuses on
+   study selection and critical appraisal, with the aim of ensuring that your review produces valid
+   results capable of providing a useful basis for informing policy, clinical practice and future
+   research. The article helpfully presents appraising evidence of effectiveness (quantitative
+   studies) and appraising evidence of experiences (qualitative studies).
+

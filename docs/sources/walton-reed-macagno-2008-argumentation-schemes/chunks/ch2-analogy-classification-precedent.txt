@@ -1,0 +1,2077 @@
+=== chunk: walton-reed-macagno-2008-argumentation-schemes/ch2-analogy-classification-precedent ===
+title: Schemes for Argument from Analogy, Classification, and Precedent
+source_pdf: docs/sources/walton-reed-macagno-2008-argumentation-schemes/full.pdf
+pdf_pages: 53-96
+page_scheme: book
+plan_page_start: 43
+plan_page_end: 86
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 43 ===
+
+    Argumentation Schemes for Arguments from
+          Analogy, Classification, and Precedent
+
+Argument from analogy is one of the fun damen tal forms of argumen ta­
+tion on which many other forms of argument - argument from preceden t
+i n law, for example - arc based ( Gordon , 1 99!); Wei n reb, 2oos ) . O u r sys­
+tem of Anglo-American law is based on mlio dt>ridnuli, thl' pri n ci ple that
+if a case has been decided by a court in a certain way, then a new case that
+is similar to i t should be decided i n the same way. Indeed, argument from
+analogy is the foundation of all case-based reasoning ( CBR) in wh ich the
+argumentation turns on a comparison of one cao;e to another (Ashley
+and Rissland. 2003 ) . CBR not only compares one cao;e to another as
+similar, but also compares cases as more similar to others v.i th respt•ct
+to a given case , depending on the description of the problem posed in
+the given cao;e. Th us argument from analogy is an extremely important
+and fundamen tal species of argu men ta tion . S o much has been wri tten
+on it, in so many fields, i ncluding philosophy, cogn itive science, artifi­
+cial i n telligence, linguistics, psycholob'Y· law. and computing. that we can
+barely scratch the surface here . Our more lim ited aim is to devl'lop tools
+that can be used to iden tify the precise form of argume n ts from anal­
+ogy, allowi ng us to better understand its close relationsh ips with other
+important schemes, especially those represe n ting argument from verbal
+classification and argument from p recedent.
+    Those who have wri tten on the subject of argument from analogy i n
+law tend t o fall into two camps, "skeptics" a n d "mystics." both of which
+leaw the j ustification of argument from analogy as a r<llional form of
+argument twisting i n the wind. The skt•ptics th ink ei tlwr that it is a form
+of deductive reason ing, or that it docs not represent any kind of form
+
+=== p. 44 ===
+
+44                                        A rgu mentation Srhemes
+
+of nttional argument at all ( Sc hauer, 1 995 · p. 1 87 ; Brewer, 1 gg 6 ) . ' The
+mystics th ink that reason i ng by analogy from precedents can be j ustified
+as having procedural benefits, even though it is sometimes wrong, and
+that it Jacks rntional force even when it is righ t (Sherwi n , 1 999) . Both
+views assume that reasoning from analogy does not have "rational force"
+as a distinctive form of argument used to j ustify inferring a conclusion
+from a set of premises, apart from crite ria of deductive or inductive
+reasoning, or purely prngmatic criteria, which can be applied to it in a
+piecemeal way. I n this chapter, we will challenge this central assumption
+of both sides by taking positive steps to map out an argumen tation scheme
+that represen ts a distinctive logical form of reasoning from analogy. This
+scheme, along with others related to it, is used to show how argument'!
+from analogy in legal reasoning can be analyzed and evalua ted in a
+way differe n t from conventional methods used to evaluate deduc t ive or
+inductive reasoning.
+   We consider a classical case from the legal l i terature on argumt•nt
+from analogy concerning the issue of whether a police officer's use of a
+dmg-sn iffing dog constitutes a search for legal purposes ( B rewer, 1 gg6) .
+Applying rt>cen tly developed tools in argumentation and artificial in tel­
+ligence, we show that the legal reasoning in this case can be identi fied,
+analyzed, and evaluated using argumentation schemes. We show not
+only that argument from analogy is involved, hut also that several closely
+related argumen tation schemes, like those for argument from classifica­
+tion , are comhined with argument from analogy in interesting ways. We
+consider how sets of critical questions matching each of these sch emes
+can be used as devices to aid in the eval uation of typical legal arguments
+like those in the case of the dmg-sniffing dog. We show that artificial
+intelligence systems hased on argument from analogy, of a kind fun­
+damentally important in the analysis of legal reasoning (Chorley and
+Bench-Capon , 200 4 ) , reveal that there are two side s to a cao;e , each of
+which set'i up a chain of defeao;ible reasoning, leading to a concl usion
+that re p rese n t'! its claim or h yp othesis i n the case . We survey standard
+treatments of argumen t from analogy in logic, and show how these treat­
+menLo; help to hring out key factors used to specify the fo rm of argument
+from analogy and related argument forms. Most importan tly. we show
+how typical instances of argu ment from analoh'Y in legal reasoning are
+
+ 1   In a •urn·y of work on ar�o:unw n t from analoJ.:\'. .J u t lw ( :.!< K >;j . p. 1 ) poin t.• out that ph i lo­
+     ,;oplwrs tt·nd to t h i n k that argu m e n t.• from analog\' nm,;t lw H·fonnulatt·d imo clt-dtKtiw
+     or indtlt't in· argunwnts in order to ht• valid ar�o:umt• J l ls hc:caust• t h e i r method of argu i n �o:
+     j,; to lind <"< l l l l l tt· H·xamples to a uniw,-,.al prem ise .
+
+=== p. 45 ===
+
+          A rgu mmtation from Anawgy, Classifiration, and Prf'redent         45
+
+based on argument from classification, which is in turn based on other
+argumentation schemes like the scheme for argument from an estab­
+l ished rule and the scheme for argument from precedent. We suggest
+that a consideration of how all these schemes tit together and apply to
+typical cases of legal reasoni ng, like that of the drug-sniffing dog, should
+suggest the need for a new approac h to the role of argument from anal­
+ogy in analyzing the structure of such arguments . Finally. we propose a
+hypothesis about how argument from analogy works as a fallacy, and pose
+some unsolved problems about evaluating arguments from analogy.
+
+              1.   T H E C A S E O F T H F. D R U G- S N I FFI N G D O ( ;
+
+Brewer ( 1 gg6 ) describes the process of analogical reasoning as havi ng
+th ree stages. At the first stage , the analogical reasoner is unct·rt.ain about
+how to classify something with respect to a matter in qut·stion. He oflers
+the following question as an example. If a trained dog sniffs luggage left
+in a public place and signals to the police that it contains d rugs, should
+this event be classi fied as a search according to the Fourth Amendment?
+This decision about how to classify the event has legal consequences. If
+it can be classi fied as a searc h . i n formation obtained as a result of the
+dog's sniffing the luggage is not adm issibll' as evidence in a case against
+the owner of the luggage . If the sniffing is not classi fied as a search, the
+information so obtained is adm issible as evidence. On Brewer's analysis,
+this fi rst classi ficatory stage of reasoning by analogy leads to a later evalu­
+ative stage in which the given eve n t is compared to other cases that have
+already been clao;sified legally as being searches or as not being searches.
+   How argument from classification works i n legal reason i ng has been
+illustrated by the classic illustnttion of Hart ( 1 9 5 7-58 ) concerning a rule
+that vehicles are not allowed in a public park. According to this rule,
+clearly a car is a vehicle, whereas a bicycle is not classified as a veh icle.
+We then come to the u ndecided question of whether a skateboard can
+be classified as a \'chicle. This decision , of course, involves analogy to
+some extent, for i t has to be cons i dered whether a skate b oard i s more
+like a car or more like a bicycle, in respect to the q uestion of whether
+it is a vehicle. I n this example. various kinds of arguments are i nvolved.
+The type of argument i n i tially is one of classification , but it later gives
+rise to an argument from analogy. Argument from preceden t is also
+i nvolved. Suppose it has already been decided in court that a bicycle is
+not a vehicle. That decision can later provide grounds for supporti ng the
+argument that a skateboard is not a veh icle, assuming that a skateboard
+
+=== p. 46 ===
+
+                                   Argumentation Schnnes
+
+is simil ar to a bicycle, insofar as the question of whether it should be
+class i fied as a veh icle is concerned.
+   Consider once again Brewer's case of the d rug-sn iffing dog. Suppose
+the fol lowi ng three general rules (Wei nreb, 2005, p. 2 4 ) have already
+been established by prior kinds of cases decided by a court.
+
+  Ruu 1 : I f a police officer s ee s someth i n g i n plai n view i n a public plan· . tht�
+    i n formation collected is not cla ssi fi e d as a se a n· h .
+  R u u .2 : I f a police oflicer opens l uggagt• a n d t h e n observe s so m et h i ng i nsidt�
+     the l uggage, the i n fonnation collec ted is cla'i.�ified as a searc h    .
+
+  Ruk 1: If a police oflker l istens surrepti tiously to a conversation in a private
+    plact', i t is classi fi ed as a sea rc h .
+
+These are th ree specific rules that are accepted based o n specific kinds
+of ca�es that migh t previously have been decided by the courts.
+   There is a more general kind of rule involved as well , called an 'analogy­
+warra n ting rule ' by Brewer. I n the case of the d rug-sniffing dog, the
+analogy-warranting rule (AWR) can be stated as follows (Weinreb, 2005 ,
+p. 2 4 ) .
+
+  AWR: I f a police officer obta i n s i n formation about a pe rso n or t h i n g i n a public
+    pl a c e without i n trusion on the person or taking possession of o r i n terfering
+    wi th the use of the thing, it is not a search for purposes of the Fou rth
+    Amend mt• n t .
+
+Brewer claims that the analogy-warrant i n g rule provides a generalization
+that enables a conclusion to be d rawn on the basis of the facts i n a par­
+ticular case by deductive reasoni ng. Wei nreb ( p. 2 5 ) supporl'l Brewer's
+claim that th is rule as stated is sufficien t to resolve the issue deductively
+in the case of the d rug- sn i ffi ng dog. However, he adds the qualification
+that it may have to be refi ned i n another case wi th different facts, citing
+the following question ( ibid. ) : "if a police officer were to use an X-ray
+machine that allowed him to see what is i nside a con tainer without open­
+ing it or taki ng possession of it would the information he collected be
+a search?" Wei n reb ( ibid . ) adds that i n order to deal with this new kind
+of case one may wan t to a dd the q ualification "and without using a tech­
+nological device" to the generalization (or one may not wan t to ) . The
+issue raised by this kind of question is whether or not the generalization
+should be qual ified.
+   According to the accou n t given by Wei n rt·b ( 2005, p. 3 1 ) , the initial
+version of the analogy-warra n ti n g rule i n a case like that of the d rug­
+sniffing dog is only a prelimi nary step in the process of eval uating an
+argument from analogy. As the argumentation moves on, there is what
+
+=== p. 47 ===
+
+          Argumentation from A nalogy, CulSsijiration, and Prerecknl           47
+
+is described as a process of "reciprocal reflective adj ustment" that arrives
+at a form ulation of the rule that fits the particular issue to be decided
+in an individual case. For example , one such rule migh t be (p. 2 6 ) : if a
+dog is made to sn iff luggage, wi thout i n terfering wi th i t or i L'i owner, for
+the purpose of revealing whether i t contains d rugs, there is not a search
+to which the requirements of the Fourth Amendment apply. This rule
+bridges the specific case being decided to the general rule found in the
+Fourth Amendment. H ere we have yet another kind of rule involved i n
+t h e chain o f argumentation . T h e sequence o f argumentation appears to
+go back and forth from the specific case to the statute that is the basis
+of the general rule, combi n i ng facts and rules with various other rules of
+wider or narrower generali ty.
+    As already noted, Brewer sees the sequence of argumen tation in the
+d rug-sn iffing dog example as an argument from analogy that is part of a
+wider th ree-stage process in which it is embedded. As Brewer describes
+the whole process, the reasoner formulates a rule covering the phe­
+nomenon that provoked the i nquiry, applies it to the particular case ,
+and the n , by means of a valid deductive inference, reaches the appropri­
+ate conclusion . Wei n reb ( 2005 , p. 2 7 ) com ments that although Brewer
+refers to the th ree-stage process as an argument from analogy, the work of
+the analogy is really completed by the end of the fi rst stage. On Brewer's
+account, the role that the argument from analogy plays in the process is
+not logical or a matter ofj ustfication, but psychological or epistemolog­
+ical i n nature ( p . 2 7 ) . On h is account, it is merely a discovery process
+that explains how a lawyer or j udge happened to h i t on that particular
+rule. Once having formulated the rule, the j udge or lawyer proceeds by
+a process of deductive reasoning i n which the analogy has no more work
+to do. Brewer is i nclined to see the persuasive force of argument from
+analogy as being "mystical," or i mpossible to explain or clearly formulate
+by any precise model of logical reaso n i ng. H is reasoning is that once
+ the three stages of argumentation from analogy have been completed in
+a particular case, the argument depends on the deduc tive relationsh i p
+between t h e premises a n d t h e conclusion , a n d i ts rational force i s no
+greater with the analogy than wi thout i t (p. 30) . Thus Brewer tends to
+be dismissive of argumen tation from analogy, seeing i t as a psychological
+or mystical process that, once completed, no longer plays any importan t
+ role in reconstructing the process of logical reasoning used as rational
+j ustification for the legal concl usion fi n ally arrived at.
+    The i n teresting question raised by the case of the d rug-sniffi ng dog
+ is how argumen t from classification and argument from analogy can be
+
+=== p. 48 ===
+
+                                     Argummlalion Srhf7TU's
+
+combined with other forms of lebral reasoni ng, like argument from prece­
+dent, by a logical process of fitting rules to fac ts. Part of this task is to
+u n tangle how each type of argument is related to the others in a typical
+case of the kind Brewer ci tes. There may be various grounds support­
+ing argument from clao;sification , and, ao; noted earlier, some of them
+may be based on argument from analogy. Argument from precedent and
+argument from an established rule also fit i n to the sequence of argu­
+men tation that makes up the process according to which an ultimate
+conclusion is drawn . Our analysis will help to un tangle the individual
+steps in the process. I t will define argument from analogy as a sped fic
+argumentation scheme. disti nguishing it from argument from classifica­
+tion , defined as a different argumentation scheme. By th is means, it will
+be shown that argument from analogy is not merely a mystical device of
+argument inve n tion, and that i t has a form that can be precisely defined
+as a strunure of reasoning that can be used to j ustify a claim by ghing
+reao;ons to support it that can be criticized and eval uated.
+
+                2 . A RG U M EN T FROM A N A LOGY AS TREATED
+                                   IN LOG I C TEXTBOOKS
+
+Aristotle wa'i also vt�ry wel l aware of the power of argument fi·om analogy
+and presen ted a nu mber of i n terest ing examples of its use. This one
+is based on the assumption that choosi ng magistrates hlr office by lot
+( lottery) is a bad practice, just as wrestlers chosen by lot do not perform
+well, bt·cause they arc not able to contend.
+
+  Were om· to say t h a t i t is not fi t t i n g t h e magist r.ll e s r h oscn b y lot should
+  be i n offire; for i t is just t h e same thing as though ont· Wt're to pirk nut
+  wrestlers by lot; not taking surh ali are able to ron tt·ncl, but t h ose on whom
+  the lot may fal l . ( Rh,torir, t l:!!) l . I I , x x , 4· p. t 66 )
+
+This argument from analogy is based on t h e allegt•d similarity between
+wrestlers chosen by lot, who do not perform well, and magistrates chosen
+by lot. The conclusion drawn is that they do not perform well either. The
+ul timate conclusion of the argument is that magistrates should not be
+chosen by lot. Such a policy is a bad practice, becaust• , like wrestlers
+chosen the same way, they will not perform wel l.
+   Twen tieth-century logic textbooks tend to see argumcnt from analogy
+as dangerous and misleadi ng. Some e\·en classi fy it ao; fallacy, based on
+
+=== p. 49 ===
+
+            A rgummtation Jmm A n a log)' Ua.uijiratio11, and Preredmt
+                                             .                              49
+
+the assumption that i t is, generally speaking. a fallacious form of argu­
+mentatio n . For exam ple, in an early in fluen tial text ( Beardsley, 1 950,
+p. 1 Oj ) , the argu ment from analogy is considered a fallacy. Analogies, on
+his \iew, can he used to illustrate, or may lead to a tentative hypothesis,
+hut when they are used as argument<�, as reac;ons to support a clai m , tlu�
+reasoning is not val id. His attack on argument from analogy deri\'l·s from
+the following formal ization of the argumentation schcmt• ( ibid . ) :
+
+    X has certain characteristics a , b, r . . .
+    Y has the charactt·ristics a, b, r . . .
+    But Y also hao; the characteristics x, _)', :: . . .
+    Thert'fore, X has the characteristics x, _v, ::.
+
+Argumen Lc; fitting this scheme art· hdd to ht• htllacious, because "no
+matter how many characteristics a pair of things have in common , there
+may he any number of other ways in which they an· different" ( Beardsley.
+ 1 950, p. 1 o�;) . In other words, the warranting premise underlyi ng tlw
+argument from analogy. " if X and Y have a n umber of characteristics in
+common , then any fu rther charac teristics found i n Y wil l also he found
+i n X" ( Beardsley, 1 956, p. 6 5 ) , is not val id. On Beardsley's theory, the
+strength that an argument from analogy might have stems from the
+number of simi lari ties between the things being compart•d, and not
+from an underlying principle that explai ns the similari ties. On this view,
+arguments from analogy are not bac;ed on a generalization con necting
+the observed similari ties and the attributed property.
+    Beardsley's theory is based on a principle of isomorphism or matching
+of two cases that is rem i n isce n t of what is now called pattern recogn ition
+i n computing. Like a map of the geographic features of an art•a, the two
+terms of an analogy must share the h ighest number of characteristics
+i n order for the argument to be strong. The problem seems to he that
+argument from analogy is a plausible form of argumen t only when it is
+used for guessing; it is not good enough to be used to prove a clai m .
+I t can be confused wi th a deductive arg ument, where t h e two terms of
+comparison are related by a general ization that may or may not hold
+up. If not, the argument may default, and thus prove to be fallacious.
+For instance, the difference between the followi ng two examples lies
+in the different natur e of the generalization . In the fi rst example, the
+generalization "All people whose parents both have blue eyes are people
+wi th blue eyes" is based on genetic laws, and thus the generalization
+could warrant the conclw;ion. The second case , however, is based on a
+
+\
+
+=== p. 50 ===
+
+                                     Argumentation Schemes
+
+gene raliza tion a pparently, but wrongly, t ransforming the argument i n to
+a valid dedu ction ( Barker, 1 g8g, p. 1 8g ) .
+
+  .Joh n '
+        s pare n ts both have blue eyes, and so do J i m 's; .J o h n has blue eyes;
+   therefore J im m ust have blue eyes.
+     Joh n 's pare n ts both read Greek, and so do J i m 's; John likes horseradish;
+   therefore J im m ust like horsemdish. ( Beardsley. 1 956, p. 66)
+
+ In the second ca">e, no accepted warrdnting principle or generalization
+ can be found as the ba">is of the two com parisons. Hence this case is an
+ i nstance of fallacious argument from analogy.
+     The development of modern treatments of argument from analogy
+ could be described as a series of attempts to overcome the problem that
+ Beardsley has ide n tified . � Beardsley's criticism of argument from analogy
+ is in teresti ng because it poi n ts out important features of the scheme. The
+ key factor is not the number of common features that are the basis of the
+ analogy, but the class u nder which the terms are categorized. I n some
+ cases, elements that don ' t fit the classification are suppressed ( Barker,
+  1 989, p. 1 92 ) . On the other hand, the idea of a generalization war­
+ ranting the conclusion , based on the principle j ust outli ned, is different
+ from the idea of comparison of terms. A classification is different from
+ a generalization. A resemblance must be d istinguished from common
+ characteristics (p. 1 90) . The gcnerali1.ation i n the example j ust given,
+ for i nstance, must be disti n guished from the classification of.John and
+.Jim as genetically similar from a particular poin t of \iew.
+     I n Within &ason ( 1 990) , Burbridge describes the argument from anal­
+ ogy. He defi nes the subject of the conclusion as the Primary Subject ( PS) ,
+ the predicate refe rred to the latter as the Targeted Predicate (TP ) , the
+ object compared to it as the Analogue (A) , and the features connecting
+ the analogue with the primary subject as Similarities ( S ) . The structure
+ of the topic assumes the following form ( pp. 1 2 , 1 3 ) :
+
+Scheme                                                                  Example
+
+Premise 1 : PS is like A i n S' . . . S"          The universe and a machine are similar in
+                                                    that both arc dhided into an i n t rkate
+                                                    pattern of parL" and subparu..
+P rem i se :z: A ha.. TP.                         A mac h i n e h a" a maker.
+Conclusion: So, PS has TP.                        Therefore, the universe has a maker.
+
+ ".Jutht• ( :.! oo:,, pp. f)...H ) ha.• prmidt·d o t lw r examplt·s of argumt· n l from analogy from logic"
+   tt•xthook.•. and somt· examples from t h e his t ory of philosophy.
+
+=== p. 51 ===
+
+           A rgu mentation from A 1wwgy, Cla.�.�ifimtion, mtd Prpcedent                   51
+
+Burbridge argues that the sound ness of the reasoning is based on the
+relations between the targeted predicate and the si milari ties between
+the two compared terms. If they are closely connected, the argument
+provides good grounds for the concl usion. I f, on the contrary, they are
+more closely related to the dis.o;imilari ties between the analogue and the
+subject, the i n ference is unsound (p. t g ) . The o�jection that can he
+rdised, showing the unacceptability of the reasoning from analogy, takes
+the following form ( p. 3 1 ) .
+
+  Prrm i.�,. r: The O�jt>ctor has assumed that bt•comst> PS is the samt> as A. it shart·s
+     the targeted predicate TP.
+  Premur 2: PS and A arc not iden tical but analogues, different t h ough similar.
+  l'rnn ur J: The difference betwet•n PS and A is more closely connccwd to TP
+     than the si m i lari ty is.
+  l'remi.ft' 4: The rt•fort', T P does not apply to PS.
+
+Burbridge's evaluation of argument from analogy by the device of raising
+objections is comparable to the method of critical questions outlined
+earlier.
+   A comparable account can be found i n joh nson and Blair ( 1 983 ) . On
+their analysis of tl1e fallacy of faulty analogy, the criterion used to evaluate
+the argume n t is the similari ty in the respect required to support the
+concl usion ( p . 1 00 ) . In Copi and jackson ( 1 992 ) , the relation between
+the properties is defined in terms of relevance: "an analogy is relevant to
+establishing the presence of a given attribute prmided i t is drawn with
+respect to other circumstances affecting it. One attribute or circumstance
+is relevan t to another, for purposes of analogical argument, if the first
+affecto; the second, that is, if i t has a causal or determ i n i ng effect on the
+other" (p. t g g ) . On this analysis, the strength of the argument depends
+on the relation cause-effect or effect<ause. Analogy is claimed to depend
+on relevance, defi ned in causal tenns. More than fai l u re of relevance
+seems to be involved, howeve r, in cases where an argument from analogy
+seems to be the most serious kind of fal la<:y. This kind of case occ urs
+when the argument from analogy is so strongly persuasive at first sigh t
+that it overwhelms all resistam·c, but later, subject to cri tical questioning,
+it deflates.
+    An excellent example ofj ust how argument from analogy can be over­
+rated in this way is furn ished by t'Xamining the lcg&ll doc trim• of stri king
+similari ty. An·ording to Patry ( :wo6 ) , this doctrine was referred to as
+early as the nineteenth century, hut took on a renewed l i fe in the oftt�n­
+ci ted opin ion of.Judge Fr;m k in tlw 1 94 6 cast� of A rn.�lPin v. PorlPr. Th ! �
+                                                                                          / '
+                                                                                           �\I
+                                                                                   � ·(
+
+=== p. 52 ===
+
+                             Argumentation Srh.nMs
+
+case concerned an allegation of copyright violation based on the strik­
+ing similari ty between two songs, certain portions of which were shown
+to be almost completely ide n tical . It is part of the burden of proof for
+copyright i n fringement that both ( 1 ) access to the material and ( 2 ) copy­
+ing of it m ust be proved ( Patry, 2oo6 ) . Patry ( pe rsonal commun ication,
+2oo6 ) summarizes the components that need to be establ ished i n order
+to prove infringement of copyright.
+
+  The substantive law of copyright sa)'S that to win , defendan t must have
+  ( 1 ) c o pi e d a copyrighted work owtwd by plaintiff, and have copied a ( 2 )
+  material amou n t of material that i s copyrigh table. To copy. one must have
+  had access to the work as a practical and legal matter. At that first stage of
+  the inquiry it mattt>rs not what or how much defendant copied; it is the
+  mere fact of cop)i ng that ha� to be established. If you can 't establish access,
+  the ca'lt' will be dismissed because defendant can't have copied. Access is
+  defined ao; not just as proof defendant had the work in hand, but mon·
+  liberally as a reasonable opportunity to have been exposed to the work, at
+  least for works that are widely distributed.
+
+Similarity - for example, a similari ty between two melodies - can also be
+part of the e\idence. In some cases, h owever, the similari ty seems to be
+so striking that it can overwhelm the need to prove other elements of the
+evidence, comincing a j udge or j u ry all by i tself.
+    An in teresti ng comment on this kind of case wa'> made by Judge Alex
+Kozinski i n a paper called "How I Narrowly Escaped I nsan i ty" ( 20(H ) .
+Ju dge� Kozinski ( 200 1 , p . 1 3 0 1 ) relates that around 1 9R o he wrote a
+science fiction novel about extracting a person 's mind and implanting
+i t i n to another person 's head. When the movie Total &call came out in
+ 1 990, he found the similari ties between the mmie and his un published
+novel uncanny. The story li nes appeared to him to be identical , but
+the clincher wao; a scene near the end of the movie, where the \illain
+kicks over a fish tan k and the camera shows the fish squim1ing on the
+floor. The ident ical scene had a ppeared i n his novel. Because of this
+s tri king similarity to his own novel, he was comi nced th at h is novel had
+to have been p i rated. But later he started to have second though ts. He
+ha d never ti n isht•d the n ove l , nor had he e ve r sent it to anyone to react.
+ He concluded, in the end, that despite the s i m i larities, it was just a
+wincidenc·e. Nevertheless, for a time he found the striking simil ari ty
+stKh convincing e\idence t h a t h t· found i t very· hard to resist the feeling
+ that h i s ideas had been stolen .
+
+=== p. 53 ===
+
+           A rgu mm talion .from A nflWif)', Classifiration, and Preredtml           53
+
+ 3 · I S A R G U M E NT FROM A N A LOGY D F. D U C T I V E OR I N D U CT I V E ?
+
+There is curren tly a con troversy in logic on whether argument from
+analogy is a deduc tive or inductive form of reasoni ng. I n the follo�ing
+discussion , we will adopt the strategy of slipping between the horns of
+this dilemma by proposing a th ird alternative. But before getting to that
+poi nt. some examples ill ustrating deductive and inductive arguments
+from analogy need to be considered . We begi n wi th one of the most
+famous arguments from analogy used in philosophy, the viol inist example
+of Thomson ( 1 97 1 )   •
+
+                             The Violi n ist Exam p l e
+
+You awake to discover that you have been con nected by a machine to a
+famous, gravely ill violinist who has suffe red acu te kidney failure. The
+ma<�hine cleanses his blood; poisons i n his bloodstream will kill him
+unless he is con nected to you by this machine. You are the only perfect
+blood match for this violinist, and if you are detached from the machine,
+the \iolinist will die. Construction of a new machine that can cleanse the
+violinist's blood , so that you can be unhooked from him, will take about
+nine months.
+When confron ted with this example, most people would say that it is
+wrong for you to be compelled to remain attached to the viol i n ist. Thomp­
+son 's argu ment is that by analogy, it is wrong to com pel a woman who is
+pregnan t as the resul t of r.t pe to retain the fetus. The argument is that
+if you have the righ t to detach yuurselffrom the violi n ist, then a woman
+who is pregnant as a result of rape has a righ t to an abortion.
+   According to Waller ( 200 1 , p. 202 ) the viol in ist exam pi<· is a deductive
+argument from analogy because it is based on the following gem�ral
+principle: a person does not have an oblig-ation tu save or sustain a
+life when he or she has done noth ing to take on that obl igation . This
+pri nciple is taken to i mply, as an i nstance, that a woman who is pregna n t
+a s a resu l t o f rape d oes n o t have an o bl igation t o save or sustain t h e I if<�
+of the fetus. Waller's analysis of the violinist example parallels Bn·wer's
+analysis of the dmg-sniffi ng dog example. Both ar<� analyzed as d<·duc Li\'e
+arguments from analogy based on drawi ng a conclusion from a un iversal
+generalization as applied to a specific case that fits the req ui r<·nwnts
+stated in the gerwral ization .
+    According to Wall<·r ( 200 1 , p. 20 1 ) , deductivt� arguments by analogy
+ha\'e the filllnwi ng form .
+
+=== p. 54 ===
+
+54                          Argumentation Scheme.�
+
+  We both agree with case a.
+  The most plausible reason for believi ng a is the acceptance of princi­
+    ple C.
+  C impl ies b ( b is a case that fi ts under principle C) .
+  Therefore , consistency requires the acceptance of b.
+
+Wallt·r ( p . 202 ) classifies this form of argument, as exemplified by the
+argument from analogy in the violin example, as ded univc , not inductive.
+His reason is that it does not argue that because people ge nerally believe
+they have a righ t to detach themselves from violin ists, they are likely to
+hold that rape victims have the righ t to detach themselves from fetuses.
+I nstead of classifyi ng it as an i nductive argument, Waller classifies it as
+what he calls a deduction from pri nciple.
+   I n contrast with deductive arguments from analogy. Waller offers an
+example of an inductive argument from analogy ( 2 00 1 , p. 202 ) . Alice
+likes novels by a certain author. She concludes that since she and Barbara
+have similar tastes i n novels, Barbara will like novels by the same author.
+According to Waller, this example is not an instance of a deductive argu­
+ment from analogy, because there is no i mplication that Barbara must
+like novels by this author i n order to be logically consistent. Waller offers
+( ibid . ) the followi ng stnrctu re to represen t the form of i nduc tive argu­
+ments from analogy.
+
+  D has characteristics e, f. g, and h.
+  f: also has characteristics e, f. g, and h.
+  D also has characteristic k.
+  Having characteristics P, f. g, and h is relevan t to having character­
+    istic k.
+  Therefore, E will probably also have characteristic k.
+
+According to Waller ( p . 203 ) . important differences are obscured if
+induc tive arbrtlmt·nt s from analogy are analyzed under the pattern used
+for deductive arg uments from analogy. In using a nondeductive argu­
+ment from analogy, we ' re tryi ng to determine why we believe someth ing
+by formulati ng the general pri nciple on which our belief is based . In
+usi ng an inductive argume:>nt from analogy, a different sort of investiga­
+tion is require:>d to determ ine the relevant characteristics that are shared
+by two cases.
+   The type of argument Waller calls a dedunivt� argument from analogy
+is called an a priori nondeduc tive argu mt· n t from analogy in Govier's
+
+=== p. 55 ===
+
+           A rgu mPntation from A nahJf!:Y, Gassijimtion, and Prm�drot              55
+
+classi fication system. Govier classifies such analogical argumen ts a�
+deductive because they require discovery of an underlyi ng un iversal prin­
+ciple that may not be known in a given case , and that may be obscure. She
+also sees such arguments from analogy as not properly being classi fiable
+as dt>ductive because they are persuasive i n nature, and lose their per­
+suasive f{>rce when reca�t i n to a deductively valid f(mn . Guarini ( 2 00 4 )
+agrees with Govier that the p rinciple on which an argument from analogy
+is based is uncovered only after much reflection and analysis. Our view
+of how to classifY such arguments will be even stronger than Govier's, a<�
+opposed to Waller's, because we will argue that even the final vt· rsion of
+the argument from analogy, once this process of reflection and analysis
+has been completed, is not ( i n typical cases) deductively val id. We will
+claim that the generalization , or what Guarin i calls the principle of the
+ca<�e, is defeasible. Hence, even once form ulated and applied, it typically
+can be defeated by con tr.:lry i nstances i n the future, of a kind that cannot
+be an ticipated.
+
+         4 · TH E S C H E M ES FO R A R G U M E NT FROM A N A LO G Y
+
+Argumentation schemes represent typical patterns of reason ing used i n
+everyday conversational reasoning in persuasion dialoh'l.le, as well a<� i n
+special c o n texts l ike legal a n d scien tific reasoni ng. They art> t h e historical
+descendan ts of Aristotle's topics, recen tly studied by Hastings ( l g63 ) .
+Perelman and Ol brech to;-Tyteca ( 1 969) , Kienpoi n tner ( 1 992 ) , Pollock
+( 1 995 ) , Walton ( 1 996) , and Grennan ( 1 997 ) . Recen tly argume n tation
+schemes have been applied and developed i n a formal manner in arti ficial
+i n tell igence, where they are recogn ized as ha,;ng pote n tial as tools for
+modeling the reasoning of artificial agen ts ( Prakken and Vrt>eswi k, 2 00 2 ;
+Reed a n d Norman , 2003 ; Verhe ij , 2oo:� ; Bex, Prakke n , a n d Walton , :z oo3 ;
+Prakken, 2 oo6 ) . The movement to apply argumentation tools to AI , and
+then to use these tools to model rea<�on ing used to derive conclusions in
+le gal evidence, is p art of the new evidence scholarshi p ( N ES) that has
+grown up i n recent years (Tillers, 2002 ) . Of special importance for the
+model ing of legal rea�oning i n AI is argument from analogy. given its
+cen tral role in CBR (Ashley and Rissland, 2003 ) .
+    The argumenta tion sc heme for argument from analogy ('Wal ton , 1 9H9,
+p. 2 5 H ) is the followi ng. It is based on an ao;sumption fundamen tal to CBR,
+namely, the principle that two t·ases can he j udged to he similar to each
+other. It is a fact about human cogn i tion that we very com monly make a
+
+=== p. 56 ===
+
+                                  A rgu mnllation Srhnnl'J
+
+judgmen t that one case is similar to another i n drawi ng condusions abolll
+what to do in daily life. How we drdw such comparisons is a subject for
+ psychology. But according to a branch of AI called pattern ren1gn i tion ,
+we recogn ize patterns in what we perceive and identify as an object or
+scene, and we are skilled at matching such patterns, seeing om· thing
+as similar to another. H owever, we can easily make mistakes in such
+
+j udgments, d ue to camouflage , or because of our expectations abolll what
+we would nonnally t•ncounter in a fami liar situation. Even so, j udgmen ts
+of similari ty of one case to another are often made , and they are used
+ to provide data in the major premise of an argument from analoJ,')'.
+According to the argument a tion scheme for argument from analogy
+ ( Walton , 1g8g, p. 2 58 ) , this form of argument reasons from a source
+case, C1, to a target case , C2 .
+
+                       Argument from Analo gy : Version
+
+  Major Prem i.�t : Ge n e r.d l y, case C 1 is similar to cast� C 2 .
+  Minor Prnni.�l': Proposi tion A i s tmt• ( false ) i n case C 1 .
+  Omd11sion: Proposition A is tme ( fal se ) i n case C 2 .
+
+The followi ng example of argument from analogy, which could be called
+the shoe example, is quoted from Walton ( 1 g8g, p. 2 5 8 ) :
+
+  I infer that a nt·w pair o f s h oes wil l wt•ar well o n the grounds that I got good
+  wear from other s h oe s pre\iously purchased from the same store .
+
+I n this case, the inductive argument from analogy is quite a weak one,
+because this store migh t carry a variety of differen t kinds of shoes, and
+some of them might wear well, while other m ight not. The analogy does
+not seem to fail al together, because the new shoes are similar to the
+others in a relevant respect, coming from the same store. There could
+be some reason why this fac tor is relevant. Perhaps, for example, this
+store is ru n by an owner who selects better-quality shoes that tend to wear
+well.
+   It is often asserted that there should be a req uirement of relev-dnt
+similari ty that acts as a premise for argument from analogy ( Weinreb,
+2 005, p. 3 2 ) . For exam ple, consider the argument: this apple is red
+and tastes good ; this ball is red ; therefore , it will taste good. Here the
+argument from analogy fails because the observed similarity bt·twee n the
+source and the target is not "relev-dnt to the further similari ty that is in
+question" ( ibid. ) . The observed similari ty of being red is not relevant to
+the further similari ty of tasting good. What is importa n t here, according
+
+=== p. 57 ===
+
+              A rgu mJ>ntalion Jrmn A nalogy, Cla.�Jijimtion, and Prm•dm t            57
+
+to Waller ( 2 00 1 ) , is to determ i n e relevance for the i nductive argu m e n t .
+For example, i n the n ovels case , the a u t h o r of the book is a releva n t
+characteristic for determ i n i n g whether Barbara is l i kely t o enjoy it, wh i l e
+the c o l o r of the d u s t jacket is not a relevant characteristic for t h i s pur­
+pose . On Waller's an alysis, i n d uctive argu m e n ts from analogy need to be
+based on releva n t characteristics in a way that deductive arguments from
+analogy do not. However, it seems that not all arguments from analogy
+are based on releva n t factors shared by the two cases.
+  Guari n i ( 2 004, pp. 1 64- 1 ()() ) c i tes a ve ry i n te resting example that can
+be used to explain h ow argu m e n t from analogy is used very successfully
+in a court of law, the case of DeGraffenrricl tJ. Gmf'Tal Motors ( Crenshaw,
+1 gg 8 ) . I n this case . a group of black women sued General Motors for
+discri m i natory h i ri ng practices, argui n g that GM had not h i red en ough
+people who were both female and black. GM had already h i red many
+wh i te women and black men . The argument in this case was speci fically
+that they h ad not h i red enough people who were both female and black.
+I n i tial ly, the case was dism issed on the grounds that the s tatute cover­
+ing such cases did n o t expl icitly iden tify compound da'ises, ( e . g. , race
+combi nt•d wi th gender) as grounds for a disc ri m i nation suit. When the
+sui t was brough t forward agai n , a com pa1ison was made to a common
+pre\ious type of ca'ie i n which wh i te nu· n had sued for reverse discri m i n a­
+tio n . The basis of t h i s previous argu m e n t was the con ten tion that there
+had been discri m i nation ahrainst people i n the compou nd class of bei n g
+both m a l e a n d wh i te . Tht• argument i n favor o f black wonwn was based
+on the assumption that the two types of ca'ies should be tn�ated in the
+same way. Guari n i ( :.! oo.t ) classifies this case as an instance of deductive
+argu m e n t from analogy that depends on a pri nciplt• but does not req u i re
+rel t•vance. contr.1sting it with other exam ples of argu m e n t from analogy
+that do depen d on rdevance.
+  Guari n i distinguishes between two sc hemes for argument from anal­
+ogy. The fi rst one, which h e calls the core sc heme, has the f(>l lowi ng f(mn
+( Guari n i , 2 o04 , p. 1 6 1 ) .
+
+   a   has ft•atures fl . J2 , . . . , fn.
+   b has features fl. f2 , . . . , fn.
+   a   and b should be tn·atcd or cla'isi fied in t h e same way with respec t to
+       fi, f2, . . . , fn.
+
+Guari n i ( p. 1 6 2 ) ci tes the argume t l l from analogy i n the <"as<.· of J)p(;,.,tj:
+Jmrf'id v. Gmeral Moton as an exa m ple that fi ts the core st·ht•me .
+
+=== p. 58 ===
+
+                                 A rgumentation Schemes
+
+  Guarini argues that the core scheme can be extended in various ways.
+He postulates a second scheme for argumen t from analogy by add ing
+two further steps to the core scheme ( 2 00 4 , p. 1 62 ) :
+
+  a is X i n virtue of fl, J2 , . . . , Jn.
+  Therefore, b is X.
+
+Guari n i takes the similarities fl. f2 , . . . , fn i n t h i s scheme t o b e "relevant
+similarities" ( ibid . ) , but adds that he does not i nclude the term 'relevan t'
+in the scheme because "it appears to be common practice not to include
+relev-c1nce claims i n argument reconstruction" ( ibid. ) . On his analysis,
+all five steps are necessary to model the argument i n Thomson 's violi n
+example, b u t o n l y t h e first three are necessary t o model t h e argumen t
+in the case of DeGraffenreid v. General MottJTS. I n the latter case, he writes
+( ibid. ) , there is no need for the last two steps, because the argument
+"depends sim ply on the view that the cases in question should be treated
+in the same way, without arguing for some specific classi fication of those
+cases. " In the violin example, however, the similari ties cited have to be
+releV"clnt if the argument is to be persuasive .
+   We agree with Guari n i that the argument from analogy used in the
+violin example is fundamentally differe n t from the one used i n the case
+of DeC.ra.ffenreid v. Genn-a/ MottJTS. To take this difference i n to account,
+we propose that an additional premise be added to version one of the
+scheme to the effect that the observed similarity between the source and
+the target is relevant to the further similarity that is in question. This
+approach leads to the postulation of a new version of the argumentation
+scheme for argument from analogy.
+
+                       Argument from Analogy: Version 2
+
+   Major Prnn ise : Gt>nerally, case C 1 is similar to case c � .
+   &lrvant Simikzrity Prnn ise : T h e similarity between C 1 a n d C2 observed s o far is
+     relM-ant to the funher similarity that is in question .
+   Mi11or Prnn i.fe : Proposition A is tme ( false ) in ca'lt> C 1 .
+   CmiCiusion: Proposition A is tme ( false ) in case c � .
+
+In the following gold example, ci ted by Copi and Cohen ( 1 983 . p. 1 o 1 ) ,
+two situations, prospecting for gold and scienti fic researc h , are presen ted
+as similar in relevant respects. The reason Copi and Cohen give ( p . 1 o 1 )
+is that both fall under the category of "quest," constituted by difficulty,
+trai ni ng, and fortune.
+
+  A'l in prospecting lor gold, a scientist may dig with skill, couragt>, energy and
+   i ntelligence just a few feet away from a rich vei n - but always unsuccessfully.
+
+=== p. 59 ===
+
+           A rgu mmlalion from A nalof!J, ClasJijimtion, anti Prl'rniRTII                   59
+
+  Consequently i n sde nti lk rt-search tht- n·wa rds for i ndustry, perse\·e ram·e,
+  i magi nation and i n tl'll igence a re highlv uncerta i n . ( Kubie, 1 9 5 4 · p . 1 1 1 ,
+  q uoted i n Waho n , 1 �) 9 6, p. 7 H )
+
+These are h e l d t o h e relevant similarities, a n d t h e argument from analogy
+in the gold example is hdd to he a strong one. But what is meant by
+' relevant ' when the expression ' relevant similari ty' is used? The answer
+given is that properties shared by the two objects fall under the category
+of "quest." Isn 't this answer about how the two objects are defined or
+classified as common knowledge? That may not he a matter of relevance
+so much as a matter of making explicit further supporting premises about
+how each o�ject is dao;sificd. This matter of clao;si fication will he further
+studied.
+    Is failurt• of the requirement of relev.m t similari ty the reason why the
+argument in the red hall case fails? Maybe not. The reason may he sim ply
+the failure of the major premise , req u i ring the hall and the apple to
+be generally sim ilar. They share some properties, like being red and
+being round, but they do not seem to be generally si m ilar. Maybe , as
+in the shoe cao;e, there are some other factors in the background that
+defeat or undercut the argument. For example. we know that a ball is
+a manufactured i tem made out of some substance like rubber, wh ile we
+know that an apple is a fruit, a common food item. Just as in the shoe
+case, the argument stands or fails based on unstated but generally known
+premises that support or undermine the explicit ones. The explanation
+of whether an argument is strong or weak may turn on these factors, and
+not on some mysterious notion of relevant similari ty that seems hard to
+define or explai n . These considerations suggest that we need to look i n to
+the factors behind why an argument from analogy fails.
+    We can see from the examplt•s we have cited that argu ment from anal­
+ogy can be quite reasonable in many i nstances. Why, then, is it so often
+categorized as fallacious in the logic textbooks? There is a difference
+between a weak argument and a fallacious ont", the difference being that
+a fallacy has a power fu l tendency to deceive. An excellent example o f
+j ust how compelling an argumen t from analogy can be is provided by
+examining the legal doctri n e of striking similarity, described in section 2
+ of Chapter 2 . According to Patry ( 2oo6 ) , this doctri n e was referred to
+as early as the nineteen th century, hut took on a renewed life in the
+ often-cited opi n ion of.Judge Frank i n the 1 9 4 6 case of A rnstein v . Portf'T.
+This case concerned an allegation of copyright violation hao;ed on the
+ stri king similari ty between two songs. certain portions of which showed
+ an almost complete identity. Part nf the burden of proof for copyright
+
+=== p. 60 ===
+
+6o                                  A rgumentation Scht'111!J
+
+infringement is that both access to the material and copying of it must be
+proved ( Patry, 2 oo6 ) . Similarity - for example, a similarity between two
+melodies in a pair of songs - can also be part of the evidence. In some
+cases, however, the si mi lari ty seems to he so striking that it can overwhelm
+any need to prove other elements of the evidence, convi ncing a j udge or
+jury vi rtually by ito;elf.
+
+            5 · A R G U M ENT FROM A N A LO G Y AS A DI•:FEA S I B l.E
+                                   FO R M OF A RG U M J:o: NT
+
+One very n ice thing about ( ;uari n i 's disn1ssion of the violinist example
+is that he pul<; the argumentation sequence in the form of a dialogue, as
+follows ( 2004 . pp. I 55- 1 56) :
+
+Jack: I t h i n k abortions are alw-.tys i m m oral , exn•pt wht· n a woman's l i fe is in
+i m mediate physical danger.
+
+Jill : What about cases when• a l i ft• was made dcpt•ndent on a woman t h rough
+force, l i ke i n cases of rape?
+
+Jack: That is profoundly u n fortunate. but while r.tpe is moral ly ol�jec tionable,
+the right to l i fe of the fe tus outwe ighs the n m n� rn that the l i ft• of the ft> tus was
+made dependt• n t on the woman t h rough forn·.
+
+Jill : Wt' l l , i mabri ne that you were kid napped , knocked unnmsdous, and when you
+woke up you discovered you we re connec ted to a world famous \iol i n ist. Your
+kidneys are fi l t e ri n g h i s blood . You can disconnect yourse l f, but i f you do so tlH"
+viol i n ist dies. The only w-.t y to keep the viol i n ist alh·e is to stay hookt·d up u n t i l a
+sui table kidney is found for transplant , and that is expected to takt· about n i ne
+months. Isn ' t it okay to d iscon nect you rself?
+
+Jack: I think so
+Jill : Shoul d n ' t you then say t h a t abonions are morally acceptable in ca�es of
+rnpe?
+
+In describing how the argument from analogy works in this famous exam­
+ple, Waller ( 200 1 , p. 1 56 ) uses the term "persuasion" to suggest that the
+analogical principle used in this reasoning is defeasible. He writes that in
+the dialogue, Jack is persuaded to believe the principle, mean ing that he
+did not believe it prior to the argumentation i n the dialogue. As Guari n i
+p u ts the point, "you cannot b e persuaded o f something you already
+believe" ( 2004 , p. 1 56) . The conclusion he draws is that the analogical
+argumentation used in the dialogue does not trade on what he calls an
+"exceptionless" principle, but on what we would call a defeasible princi­
+ple, one that is inheren tly subject to exceptions. Guari ni ( ibid. ) rei n forces
+this poin t by describing how he has taught Thomson's paper many times
+
+=== p. 61 ===
+
+                          A rgummtaticm from A nalogy, Cln.f.�ijiration, and PrPrPrinlt                                61
+
+    i n un iversi ty classes. According to his experience, those who are per­
+    suaded by the argument from analogy tend to fall i n to two classes. There
+    are those who are persuaded by the principle they initially rejected, but
+    now come to accept, and there are those who are persuaded to change
+    their view even though they are not prepared to endorse any pri nciple.
+    Acmrding to Guari n i , the ones who fall into the first group are like Jack
+    in h is constmcted dialogue . Those who fall i n to the second group are so
+    "drained" by the casuistry of cases (as Guarin i describes the process ) that
+    they lose i n terest in generating and testing moral principles. This group
+    begins to suspect that any moral principle they can state on the subject of
+    abortion wi ll be found to have exceptions. Th is observation is interesting,
+    from our viewpoint, because it suggests the defeasible nature of the gen­
+    erali7.ations used in eth ical reasoning in typical casuistic disputes about
+    ethical dilemma'!. The poin t applies very well to generalizations in legal
+    reasoning ( Bex, et al . , 2 003 ; Anderson, Sch um, and Twi n i ng, 200 5 ) .
+       I n our opi nion, Guari n i 's observ.uions and discussion are very reveal­
+    ing, because they offer a lot of evidence showi ng that the argumen t from
+    analogy in the viol i n ist example is nei ther deductive nor inducti\'e in its
+    logical form . It is quite accurately desc ribed, in our opi nion, as bei ng
+    defeasible in nature. Its logic is brought out very well by the dialogue
+    that Guari u i constmcts to illustrate how one party uses the argument
+    to persuade the other to accept some con tested proposition that he did
+    not pre\iously bel ieve. In our opinion, Guari n i is quite righ t to classify
+    this kind of argumen tation a'l occurri ng i n the framework of a pt• rsuasion
+    dialogue. Moreover, i t is quite revealing that he describes the argument a­
+    tion in the case as fitting a casuistry of cases in which any moral pri nciple
+    brought foiW'clrd by one party to persuade the other party to accept some
+    conclusion is subject to exceptions that may be found by the other party.
+    This structure is known in the literatu re on AI and law as a persuasion
+    dialogue ( Bench-Capon , 2 003 : Bench-Capon and Prakke n , 2 00 !j ) .
+       The earl ier examples and list of c ri tical questions suggest that argu­
+    mem from a n alogy is best seen as a defeasible argumen tation scheme
+    that is inheren tly weak and subject to fail ure, hut that can still be rea­
+    sonable if used properly to support a conclusion. Thus it should not be
+    im paled on the dilemma of being ouly a deducti\'e or inducti\'e form
+    of argument. :i We propose that it be set·n a'> a defea'iible kind of argu­
+    ment that should be evaluated as strong or weak in spec ific respect'i hy
+
+     :1 O n thl· i m pon a n n· uf dl'f(·as i h i l i t v ;L� a property of It-gal argnnll' n t a t i o n , Sl'l' l'rakkc· n
+
+       ( 1 !19i· :wo 1 . :lt H I:l ) , Prak kc·n a n d Sannr ( 1 !l!ll i , 1 !l!li l . and l'mkkc·n a n d \'rl·l·sw ij k
+       ( :l l H >:l l .
+
+\
+
+=== p. 62 ===
+
+                              Argumentation SchnnRJ
+
+subjecting it to c ritical question ing i n a dialogue. The fi:>llowi ng c riti­
+cal questions matching version one of the scheme for argument from
+analogy are given by Wal ton ( 1 9 H 9 , p. 25 8 ) .
+
+             Critical Questions for Argumem from Analogy
+
+  CQ 1 : Is A tme ( false ) i n C 1 ?
+  CQ2 : Are C 1 and C :� similar, i n tht• respect� cited?
+  CQ� : Art' there i m portant differences ( d issi m i lari ties ) betwe en C1 and C2?
+  CQ4: Is then• some other ca�e C3 that is also similar to C 1 exn·pt that A is
+   false ( t m t• ) in C3?
+
+In this case , CQ4 is especially appropriate, as appl ied to the shoes exam­
+ple, because there m ight he quite a difference between the two pairs of
+shoes, for example, even though both were bough t at the same store.
+These four c ri tical questions represen t what is meant to be a practical
+approach to e\'aluating argumen t-; from analogy. They are important to
+keep in mind to provide a device to help studen t-; who are learning crit­
+ical thinki ng, when confron ted by an argument from analogy, to scan
+quickly to look for key poin to; of weakness in the argument in order to
+challenge its applicability and strength in a given case .
+   T h e problem o f h o w t o represen t t h e cri tical questions as w.ays of
+rebutting or undercutting arguments that fit an argumentation scheme
+is beginning to be i nvestigated in the AI literature. Verheij ( 2 00 3 ) showed
+that cri tical questions can have four roles.
+
+   1 . They can be used to question whether a premise of a scheme holds.
+  2. They can point to exceptional si tuations in which a scheme should
+      not be used.
+  3 · They can set conditions for the proper use of a scheme.
+  4 · They can poi n t to other arguments that might be used to attack
+      the scheme.
+
+Verheij argues that c ritical q uestions of kind one, which merely q uestion
+whether a given premise in a scheme is tnte, are redundant and can he
+ignored. The reason is that it is a condition of the use of any argument
+that the premises are tnte, or at leao;t are acceptable, and poi nting to
+the need for this assum ption is merely restati ng the prem ise of the argu­
+mentation scheme. Verheij and others ( Reed and Walton , 2 005 ) have
+also begun to in\'estigate whether the remaining kinds of c ritical ques­
+tions nmld he refonnulated as implicit prem ises of a scheme, or as kinds
+of coun terarguments that m ight he used to atta<·k or defeat the schemt• .
+
+=== p. 63 ===
+
+              Argummtation from A nalogy, Classification, and Preredmt                                   63
+
+Thus cri tical questions have become linked to the more general problem,
+much discussed i n AI , of how defeasible arguments are to be eval uated.
+Any fi rst pa'>s th rough the literature on defcasibility begi ns with the dis­
+tinction between undercutters and defeaters ( Pollock, 1 995 , pp. 4 o-4 1 ) .
+Pollock defines a defeater, some times called a rebuttal or refutation of an
+argument, as another argument that has the opposite ( negation ) of the
+ori gi nal conclusion a'> i ts conclusion:' Pollock defines an undercutter as
+a counterargument that attacks the inferen tial link between the premises
+and the conclusion in the origi nal argument. Pollock ( 1 995 . p. 4 1 ) offers
+the f()llowing example.
+
+  For i n stance , suppose x looks red to me. but I know that x is illumi nated
+  by red light� and red light� can makt� objccL� look red when they arc not.
+  Knowing this ddeal� the prima f'acit· reason but it is not a rt•ason fi.J r thinking
+  that x is Tlot red . After all, red o�jecl� look rt•d in red light t o o . This is an
+  rmdnrutting rkjl'alt>r. ( Pollock's i talics in both instances)
+
+The undercutter is the weaker fonn of attack, one that only raises ques­
+tions on whether the original argument supports it'> concl usion, leavi ng
+room for doubt. The defeater is the stronger form of attack.
+   Looking at the list of cri tical questions jus t given , i t would seem that
+CQ1 and CQ2 are redundan t, while CQ4 looks more like a defeater. CQ�
+could be ei ther an undercutter or a defeater, perhaps depending on how
+important the differences are. The strategy for attacking an argument
+from analogy suggested by CQ4 is to produce a cou n teranalogy. For
+instance, in the shoe example, I migh t argue that somebody else bough t
+a pai r of shoes from this same store that did not wear well at all. This
+attack would st>em to be a defeater. At any rate, the issue curren tly being
+investigated i n AI is whether the cri tical questions can be recon figured
+as undcrcuttcrs, defcatcrs, or attacking argumen ts of some sort, which
+can be modeled as arguments made up of propositions, as opposed to
+being seen as questions. For questions are much harder to model, usi ng
+current AI techn iques, than arguments made up of proposi tions that arc
+premises or conclusions.
+   Sophisticated automated systems have been developed i n computing
+to provide a more exact basis for reason i ng from analogy on the basis
+of similar cases. One is the CATO system, which teaches law students
+how to create case-based arguments . CATO has tem plates for argument
+
+· I Pollock   ( 1 !195· p . 4ol calls ,, - rebut t i ng cleft•alcr" a n· ason li>r clt·nyi n g r lw condusion
+  of an a rg unw n t whcn· lht· premist·s oiTt·r a prima facit· ( cleka.\i b l c ) rt•<t.• on for tht·
+  t on elusion .
+
+=== p. 64 ===
+
+                            A rgu mmlalion SrhemPJ
+
+moves, like argument from analogy, and it also has rules for disti nguish ing
+between cases that arc not similar, which can show how to attack a rull·
+(Ash ley and Risslancl, 2003, p. 4 1 ) . Another is the HYPO system, in trade
+secrets law, which produn�s argument'! from analogy and counterattacks
+to them. HYJ>O argues for one side by making a legal point. and then
+argues for the other side by responding with a cou n terpoi n t ( Rissland,
+1 g g o, p. 1 97 1 ) . Such argument<> are based on a give n or "old" case that
+has been decidt•d and a "new" one that has not. The new case is called
+the problem case, while the old case is called thl· base case. One way
+to evaluate argunwnts from analogy com monly used in AI is to identif}'
+so-called factors that are the basis of com parison bctWl't'n one case and
+another. This tech n ique can hl· explained by considering a legal example
+that was presen ted by Chorley and Bench-Capon ( 2004 , J>. 94 ) .
+
+                       The Wild An imals Example
+In all t h ree cao;es, the plai n tiff ( P) was chasing \\ild animals, and the
+defendant ( D ) in terrupted the chase, preve n ting P from capturi ng those
+ani mals. The issue to be decided is whether or not P hao; a legal remedy
+(a righ t to be com pensated for the loss of the g-ame) against D. In the fox
+case, Pirrson 11. Post, P wao; h u n ting a fox on open land in the tradi tional
+manner, using horse and hound, when D killed and carried ofl the fox. In
+this case , P wa'! held to have no right to the fox because he had gai ned no
+possession of it. In the ducks case, Keebk v. Hickn'in!fill, P owned a pond
+and made his living by luring wild ducks there wi th decoys. shooting
+them, and selling them for food. Out of malice, D used guns to scare
+the ducks away from the pond. Here , P won . I n the fish case, roung v.
+Hitchins, both parties were commercial fishennen. Wh ile P wa'l closing
+his nets, D sped i n to the gap. spread his own net and caugh t the fish . In
+this case , D won .
+
+The fish case ( Young) i s t h e problem case ; t h e fox c ase ( Pinson) and
+the ducks case ( Keeble) are the base cases that provide theories that can
+arguably be used for the purpose of deciding the problem case . A hypoth­
+esis is fom1ed from the base case by matching it by similarity or difference
+to the problem case. The system developed by Bench-Capon and Chor­
+ley, called AGATHA, presen t'! arguments for and ag-ainst a hypothesis as
+a dialogue between the plaintitrs side and the defendant 's side, using
+argument from analogy. The evaluation of a hypothesis is based on four
+factors, representing poi nt"> of similari ty or difference between ca'!es, and
+th ree values, which represen t goals or rules used for judgi n g the worth
+
+=== p. 65 ===
+
+           A rgu mmlation from A nalof!J, Clrusijication, and PrPudmt         65
+
+of factors. I n the wild animals case, Chorley and Bench-Capon ( 2004 ,
+p. 9 4 ) cite four factors and th ree values.
+
+                                      Four Fac tors
+
+  pNposs : The plaimitf did not have possession of the animal.
+  Jll.rmd: The plaimiff owned the land.
+  pLiv: The plain tiff wa� pursuing his livelihood.
+  d/.it•: The defcndalll w.ts pursuing his livd i hond.
+
+                                      Th ree Val ues
+
+  1./.il : the val m· nf reduci ng litigation.
+  i'ttiSrr : tlw valut" to secu re enjoymt>nt of p ro pe rty righ t�.
+  MProd : the vahw to promote productive anhi ty.
+
+The factors correspond to critical questions CQ2 and CQ'-\ · They rep­
+resen t the respect'! i n which one case can be held to be similar to or
+different from another. I ndeed, once the factors have been i d e n t i fi t· d .
+they can easily be compared . and we can calculate the respects in which
+the one case is similar to or different from the other. The argument
+from analogy can then be used to set up two sides of a dialogue , wi th
+argumento; on each side based on the factors. Each side has a hypothesis,
+a concl usion it tries to argue for, usi ng an argument from analogy. For
+
+example, the defen dant could set up his hypothesis as a conclusion by
+arguing that the fish case ( t he problem case ) is similar to the fox case , the
+base case i n wh ic h it was judged that the plai n tiff had no righ t to the fox.
+The plai n tiff could then st'l up an opposi te hypothesis by argu i n g that the
+ducks case is similar to the fish case, because in both cases the plain tifl.
+was pursuing his livelihood. Thus an extended sequence of argumen ts
+from analogy can bt• carded on , back and forth , usi ng the factors to st• t
+up hypothest'S. These argumento; can be evaluated as strong or weak,
+using the \'al ul's. Once factors and \'al ues are stated prt'cisely in a giwn
+C<\Sc , the fi nal outcome of the argument from analo gy can be computt•d
+so that one can calculatl' which side has the stronger argunw n t .
+   T h e best way t o approach a n y argument from analogy i s t o begi n by
+iden tifying the premises and concl usion of the argument i n the g i vt•n
+case. Ha\ing done that, one can probe i n to the case a bit further by
+asking one or more of the cri tical questions. The questions, along with
+the replies given to them, form a dialogue. If the case is from a wri tten
+tex t , the analyst has to supply both sides. If the arguer is presen t , she
+and the questioner can han· an actual dialogue. I n either e\·ent, as the
+
+=== p. 66 ===
+
+66                          Argummlalion Schnn�
+
+dialogue proceeds, the argument can be analyzed i n more depth by
+identifYing the factors and values. Of course, the participants may also
+dispute what the factors and values are . But once the analysis gets to
+the poi nt where factors and values are being ide n tified, a better body of
+evidence that can be used to support or refute the hypotheses on both
+sides can be developed . By this means, an argument from analogy can be
+evaluated as strong or weak, based on the evidence in a case .
+   We close this section wi th one further observatio n . I n arguments from
+analogy, the conclusion is i n ferred based on the properties presen ted
+as common to the rwo (or more ) compared cases. Ao; in the scheme
+described earlier, the elemento; are classified under a verbal category,
+and certain characteristics are poin ted out. A classification , fou nded on
+these features, is then applied to the analogous or similar case , and the
+classi fication of the similar case follows consequen tly. The main featu rt•
+of the argument that needs to be scrutinized is the relation between the
+common properties and the property predicated i n the concl usion .
+
+               6 . A R G U M ENTS FROM C LA S S I FI C A T I O N
+
+Arguments from analogy are often closely related to arguments from
+classi fication , and indeed it wil l be a prevailing theme of this chapter that
+we need to talk of argument from analogy in terms of argument from
+classification. To i n troduce argument from classification, let us begin by
+sta ting a deductive form of it, where the variable a is a th ing or individual,
+and F and G represen t classes of thi ngs.
+
+           Deductive Form of Argument from Classification
+  All F's can be classified as G's.
+  a is an F.
+  Therefore, a is a G.
+
+This form of argument is deductively valid, and it can therefore be con­
+tra'ited wi t h argument from analogy, best seen as not being deductively
+v-ct lid in the ki nds of cases that will be studied here. However, arguments
+from analogy are often so closely related to, and dependent on, argu­
+ments from classification that there is a tendency to mix them up, or
+to fail to ev·c� luate a given cao;e as i nvolving both kinds of argument. It
+may be at leao;t i n part for this reason that arguments from analogy have
+often been described as fallacious by twen tieth-century logic textbooks.
+But as we will show, they can be reasonable under the righ t condi tions,
+
+=== p. 67 ===
+
+          :\ rgu mmtation from A nalogy, Cla.ssijicatirm, a mi PrerniPn l      67
+
+even though they should often be c ritically questioned and examined
+very carefully before giving them much weigh t. They are often weak
+argumen t-; taken by themselves, hut can be pivotal, on a balance of con­
+sider.uions, in a larger mao;s of evidence of which they are a part.
+   Arguments from classi fication are based on two main compone n t-;: the
+descri ption, or presen tation , of the facts or event-;, and their dao;si fica­
+tion, proceeding from properties presented in the definition itself. The
+classification may derive from a seman tic ao;pect of the words used to
+desc ribe the event: if x is classified ao; a terrorist, the implicit prem ise that
+terrorists are clao;sified as enem ies, stemming from the accepted meaning
+of the word ' terrorist ' , automatically leads to the concl usion that x is an
+enemy. Such verbal categorization is a speaker's choice, but it may also
+be backed by common or shared knowledge . For i nstance, if we claim
+that terrorists are dangerous fanatics who need to be locked up, wt• may
+base our categorization on the common opin ion shart•d by many peopll•.
+If this classification can be taken for granted, it will then apply to our
+interlocutor ao; well, and may be taken for gran ted ao; an implicit prem ise.
+We don ' t even need to argue explici tly that terrorists are dangerous to
+society, because this assumption proceeds from common knowledge that
+is already accepted. The classification is in herent, al ready implied by the
+properties the terms are categorized as having. Classi fication is, there­
+fore, a matter of choice of words that support or attack a \iewpoint. A
+subject of a classification is taci tly included under a poin t of \iew with
+differe n t charctcteristics that are relevant to an issue. For this reason , a
+classi fication of a term based on a defi n i tion alwctys implies the exclusion
+of releva n t opposed perspectives. Definitions, especially of ethical terms,
+are rarely, if ever, argumen tatively neutral. Defi ning almost always means
+advancing • m opi nion about a situation, often one that is not explici tly
+formulated. Argument from verbal classi fication proceeds from seman­
+tic , endoxic, or shared properties of a definition. For this reason , the
+main problem concerns the acceptance of the defi n i tion itself, and this
+aspect is the key to grasping the fallacious uses of arguments from classi­
+fication.
+   A famous example is that of a religious discussion where the inter­
+locutor's position is labelled as "heresy." Based merely on this verbal
+clao;sification, it is concluded that the posi tion itself is wrong, on the
+implicit basis of the generalization that every heresy is wrong. The con­
+cealed assumption is the loaded nature of the term ' heresy' , a matter of
+defi nition . The opponent's standpoint, in fact , may be heretical on the
+grounds that everyone, the authori ties, or i to; opponent-; have classified it
+
+=== p. 68 ===
+
+under this term . On the other hand, the proponent might have used that
+definition without any backing warranting that the heresy of the position
+is known or accepted by the hearer. I n this second case , the risk is the fal­
+lacy of begging the question . Here, a prem ise supporti ng the conclusion
+can i tself be supported only by using the conclusion as a premise. If the
+latter, based on a classification or on the way a term is defined, is the only
+means to prove the former, the fallacy of question-begging epithet is said
+to have been com m itted. This kind of argument is a de\ice used to avoid
+the requirement of fulfilling a burden of proof (Walton , 1 m)6, p. 54 ) .
+   As we have j ust shown , some arguments from verbal classification are
+based on un iversal general i1.ations of a kind that are not subject to excep­
+tions. However, many arguments of this kind are based on a classification
+that can be defeasible, and su�ject to arguable exceptions. To cover
+such cast'S, the following scheme for argument from verbal classification
+(Walton, 1 996, p. 54 ) has a major premise that can reprt·sent a defeasible
+generalization in some instances.
+
+    Scheme for Defeasible Argu ment from a Verbal Classi fication
+  Major Prnn i5e: If some particular thing a can be classilit>d a� fal l i ng undt'r \'Crbal
+    category C, then n has prop(·rty F ( i n \i rtue of such a dao;si fication ) .
+  Minor l"rnni.1e: a can be clao;si fied as fal ling under verbal category C.
+  Conrlusio11 : a has property f:
+
+If there is a problem concern ing the defi n i tion of a key term , the clas­
+sification can be questioned, and the argument may be weakened or
+even defeated. This can be done by attacking the generalization or by
+questioning whether it fits the particular th ing at issue. The two c ri tical
+questions focus on the application of the generalization to the concn�te
+case, and on its strength .
+
+  CQ1 : Docs a definitely have f: or is there room for doubt?
+  CQ2 : Can the verbal classi fication ( i n the second premisl' ) be said to hold
+   strongly, or is i t one of those weak dao;.o; ifications that is subject tu doubt?
+
+I n many i nstances, the argument would not be plausible unless the prop­
+erty F had an argumenta tive value based on a commonly accepted mean­
+ing of a term . I n other words, the plausibility of the argument resides
+in the assumption that the classification , implicitly or explici tly, leads by
+inference to the conclusion claimed. I n the heresy case , the fact that
+heresy is generally considered wrong is the implicit classification that is
+the concealed basis of the plausibility of the argument. The value of the
+
+=== p. 69 ===
+
+          A rgll menlation from A nfllogy, Classijiratiou, and PTl'cnJmt     6g
+
+move is based on the commun icative impl icature that the classification
+implies.
+  Finally, i n this section we argue that part of the argument cited by
+Brewer as being the cen tral argumen t from analogy. based on the analogy­
+warranting rule (AWR) , is an i nstance of argument from classification .
+This argument can be put in th(� folloYoi ng form .
+
+         The Wa r ra n t i ng Rule Argument in the D rug-Snifli ng
+     public place \\i thout intruding on the person or taki ng possession
+     of or in terfering wi th the use of the thing, it is not a search for
+     pu rposes of the Fou rth Amendment.
+  I n the case of the d rug-sniffing dog, the police officer obtained i n for­
+     mation about a person or thing in a publ ic place wi thout i nt ruding
+     the thi ng.
+  The case of the drug-sniffing dog is not classified as a search for purposes of the Fourth Amendment.
+
+The fi rst prem ise is a generalization , of the kind called a condi tional in
+logic and a rule in AI ( Bex et al . , 200 3 ) . The second prem ise spt•(·ifies
+a fac t about a spec ific case that fits the rule. The conclusion classi fies
+the specific case under the defini tion of the term 'searc h ' set out in
+the rule. Th us we classif)· t h is centrc1l argument in the d rug-sniffing dog
+case as an argument from classification, and not as an argument from
+analogy. Clearly, this thesis is con troversial, judging from the way Brewer
+and Wei n reb treat the argument in the d rug-sniffing dog case . However,
+rather than conti nuing to dispute the issue at this juncture, we mm·t·
+on to make another relevant point. I t is the poin t that argument from
+analogy can be combined with argument from classificatio n .
+   Gmier, i n h e r textbook A Practical Stud.v of A rgummt ( 1 9 92 ) , shows
+how the structure of a set of compared terms can be seen as t h e bas i s
+for analogical thinking. She bri ngs this lesson out by connecting argu­
+ment from analogy Yoi th argument from classification. On her analysis,
+argument from classification is based on determining features and the
+com monality of two com pared terms. The following form of argument
+speci fied by Gmier ( 1 992 , p. 274) can be viewed as stating a special argu­
+mentation scheme that combines argument from analogy \\ith argument
+from classifkation.
+
+=== p. 70 ===
+
+            Argum e n t fro m Analogy Based o n Classification
+
+  The analogue has features n, b, and r.
+  The primary subject has features n, b, and r.
+  I t is by virtue of features n, b, and r that the analogue is properly
+      classified as W
+  So, the primary subject ough t to be classified as \\�
+
+    This scheme shows how argument from analogy is based on classifi­
+cation and, i n many typical instances of the kind we have examined, is
+combined with argument from classification . They are related by the fact
+that they are based on a classification of the element s proceeding from
+properties pointed out in their description. Argument from classification
+leads to the conclusion that a particular case or thing h as a detenninate
+property because it may be cla'lsified as gener.dly having that property.
+On the other hand, argume n t from analogy proceeds from the similar­
+i ty of two facts under a particular point of view to their categorization
+under the same class. Thus there are many close connections between
+argument from analogy and argument from classification .
+
+     7 · A R G U M ENTS B A S E D O N R U LES A N D C LA S S I FI CATI O N S
+
+T h e pervasiveness of argument from classification a n d argument from
+analogy in the most common kinds of arguments in ethics anrl law can
+be brough t out by consideri ng the common kind of case in which an
+argument, and the reply to it, are based on applyi ng a rule to a case.
+Such arguments are fundamen tal to case-based reasoning. I n these argu­
+ments, argument from an established rule is the pragmatic coun terpart
+to argument from verbal classification . To begin wi th , the situation is cat­
+egorized as an instance of an established rule, and, therefore , the course
+of action prescri bed in it supposedly has to be applied to the specific
+case. The argument is derived from recogn izing the case a'l an i nstance
+of a general class in a rule, and from this classification of i t the conclusion
+follows that the respondent should act in accordance with the rule. For
+example, in the followi ng case , the conclusion has a concrete effect on
+the student's action . I t is a proh ibition flowi ng from the appl ication of a
+rule that leads to the refu tation of an argument.
+
+Student: I don 't think I will able to get my essay i n on Tuesday. Would i t be OK if
+I handed i t i n next week?
+
+Professor: We all agreed at the begi nning ofthe year that Tu esd ay is the deadline.
+That is the nile. (Wal ton , ' 995· p. 9 1 )
+
+=== p. 71 ===
+
+             Argu1Tll:'1l tation .from A nalof!J, Classifiration, and Precedrnt     71
+
+This is the scheme for argumem from an established rule (Walton , t gg6,
+P· 9 2 ) .
+
+              Scheme for Argument from an Established Rule
+   Major Premise: If carrying out types of actions including the state of affairs .4
+     is the established rule for x, then ( u n less the case is an exception ) , x must
+     carry out A.
+   Minor Premise: Carrying out types of actions including the state of affairs A is
+     the established rule for a.
+   Corulu.um1: Therefore, a must carry out A .
+
+It can be seen that the pattern of th is scheme is similar to that of argument
+from verbal classification. But it differs from the latter because it belongs
+to a differen t kind of dialogue , that of deliberation, and because the
+m issing premise itsel f, the generalization, is differen tly supported . The
+cri tical questions are directed against the general ization i n the rule.
+
+        Critical Questions for Argume n t from an Established Rule
+   CQt : Does the rule require carryi ng out types of actions that includt• A as an
+     i nstance?
+   CQ2 : Are there other established rules that might conflict wi th, or override,
+     this one?
+   CQ:�: Is this case an exceptional one, that is, could there be exte n uating
+     circumstances or an excuse for noncompliance ?
+
+The la'lt cri tical question concerns the problem of the exceptional case.
+I t is the problem of the classification of the situation as falling under the
+law or rule. The cou n terargument is a kind of rebuttal of the implicit
+a'!Su mption that the case i n q uestion represen ts an i nstance of the rule.
+I n the following example, the argument is rebutted by denying the clas­
+sification of the student under the class "studen ts obligated to get the
+essay in on Tuesday. " The rule, defining the condi tions under which the
+subjects are considered or not considered elemen ts of the class, excl udes
+the stude n t from being obliged to fol low the rule.
+
+Student: I don 't think I will be able to get my essay in on Tuesday. Would it be
+OK if I handed it in next week?
+Professor: We all agreed at the begi n ning of the year that Tut·sday is the deadline.
+Student: But I had a bad case of the flu la�t week, and I have a note from my
+physician to prove tt. (Wal ton , t 995 · p.gg)
+
+=== p. 72 ===
+
+                              Argtt 11lnl lation SchnneJ
+
+This reply represen ts the argumentation scheme known as argument
+from an exceptional case (Wal ton , 1 gg6, p. 92 ) .
+
+            Scheme for Argu ment from an Ex ce p ti o n a l Case
+  Major Prnn isl': If the case of x is an t>xception , then the establ ished mle can be
+    waived in the case of x.
+  Minor Prnn isl': The t·ase of a is an exception.
+  Conclusion: Therefore, the established rule can bt> waived in the cast' of a.
+
+This form of argument is based on argument from verbal dao;sifkation.
+The classification of x as an exception allows the application to i t of the
+p rop erty "to he waived." The cri tical questions stem from the classifica­
+tion .
+
+     Critical Questions for Argument from a n Exceptional Ca s e
+  CQ1 : Is the case of a a recognized type of t>xception?
+  CQ2 : If i t is not a recognized case, can evidence why the t'stablished mle docs
+    not apply to it be given?
+  CQ3 : If it is a borderline case, can comparable cao;es be ci ted ?
+
+The last c ri tical question indicates how argument from an exet·ptional
+case and i ts rebuttals are based on argument from analogy, as one case is
+compared to another. This connection wil l emerge even more dr.unati­
+cally when we consider arguments from precedent.
+
+         8 . A RG U M ENT F R O M I'RE:C EDENT A N D PRACT I C A l.
+                       A RG U M ENT FROM A N A LOGY
+
+Argume n t from an exceptional case focuses on the problem of the clao;si­
+fication of a case as an i nstance of the clao;s the norm deals wi th. Argument
+from precedent poi n ts out another aspect of the normative coun terpart
+to the argu m e n t from verbal classi ficati o n , n a m el y, the l i n k between the
+two properties. This scheme may be described as an extension of tht• pre­
+viously described scheme in which the law or rule establ ishes that the
+classification of a cao;e ao; having a property F leads to the conclusion that
+the property G applies to i t as well. I n a legal type of dialogue, where plau­
+sibility value and probative weigh t are j udged differen tly than they are in
+o rdi n ary conversational argument, precedent is j udged by similar cases
+decided in previous trials ( ratio l�Pcidl'ndz) . The c ri te ria of classification
+can be clearly established i n legal cao;es by clao;sifications and defi n i tions
+
+=== p. 73 ===
+
+            A rgu mentation from A nalogy, Cla.Hifiration, a n d Precedmt                       i :�
+
+that are codified in law. Argument from precedent can be used to apply a
+rule to a case , but it can also he used to attack a prior argument that a rule
+should be applied to a case. The following refutation sc heme reprt·sents
+this common form of attack. I t is based o n the capability of recogn izing
+and regulating the possibility of exceptions to a rule. I n law, as well as
+in e\"eryday argumen tation , argument from pren·de n t shift, the burden
+of proof to the side of the respondent. The mo\'e itself may need to
+be defended, or the major premise may he underclll and the argumen t
+refuted.
+
+Student: I d o n 't t h i n k I wil l ahie to get my essay i n on Tut·sday. Would it be OK i f
+I han ded i t i n next week?
+
+Professor: We all ag re e d at the begi n n i ng of the year th a t Tut· sd ay is the dead l i n e .
+Student: Yes. but you said to Ms. Re ason e r that she could hand her essa y in a week
+late becatl�e she has another ass i gn m en t due this week . I haw a n other assignnll' n t
+d u e . too. S o I should b e a bl e to h a n d m i n e in a week late, too. (Walton, 1 99.'>·
+P · 94 )
+
+The scheme for argument from preceden t fitting this example is the
+followi ng (Walton , t gg6, p. 94 ) . I t leads to a conclusion that the rule
+must be modified.
+
+             Refutation Scheme for Argument from Pre c e d en t
+    Major Prnn isr : Gent·rallv. according to the establ islwd rule, if x has property r:
+      then x also has property G.
+    Minor Prrm isr: I n this legi timate case. a has prope r ty F hut d oe s not have
+      property G.
+    Conclusion : Therefore. an e x c ept i o n to the rule must he rt� c ogni ze d. and tht·
+      rule mus t be appropriately modified or q u al i fied .
+
+The followi n g cri tical q uestions re p resen t strate gies to defend the argu­
+ment from established rule by attacking the opponen t's argument.
+
+              Cri tical Questions for Argument from Precedent
+    CQt : Does t h e established rule rea l ly apply t o t h i s case ?
+    CQ2 : Is the ca.�e cited l egitimate , or can it be explained a.� only an apparent
+      violation of the rule?
+    CQ:r Ca n the case c i ted Jx, deal t with under an al ready recognized category
+      of exception that does not re q u i re a change in the rule?
+
+\
+
+=== p. 74 ===
+
+74                            A rgumentation Schnnes
+
+These critical q uestions represen t possible moves to defeat an argument
+from precedent.
+   The practical coun terpart to the scheme for argumen t from analogy
+is practical reasoning from analogy. The similarity of two situations i n
+some respects is considered a reason t o act in a similar way. For i nstance,
+in the example below, the rebels are compared by Reagan to the Amer­
+ican patriots, while they are presen ted by his opponent as similar to the
+Vietcong. "Patriot" and "rebel" are the two categories used to describe
+ the same situation. The force of this argument lies in the persuasive
+force of the defin i tions. Patriots arc, by defin i tion, people who figh t for
+ their freedom and, therefore, are "good ," while rebels are people who
+do not respect the law and social order and, for this reason , arc "bad."
+The course of action of helping good or bad people is, therefore, clas­
+sified as good or bad. In th is argument, si m ilarities are fundamental to
+j ustification of the action.
+
+  President Reagan, in a speech for congressional funds to aid the Con tra
+  rebels in Nicaragua, compares the Contras to the American patriots who
+  fought in the War of l ndependenre. A speaker in Congress opposed to
+  sending aid to the Con tras compares the situation in Nicaragua to the wa r
+  in Vietnam . (Walton , 1 g8g, p. 256)
+
+The schemes for this type of practical inference are the fol lowing
+(Wal ton , 1 g8g, p. 2 57 ) :
+
+           Positive Scheme for Practical Argument from Analogy
+  The righ t thing to do in Sr was to carry out A.
+  S2 is similar to Sr.
+  Therefore, the righ t thing to do in S2 is carry out A.
+
+          Negative Scheme for Practical Argument from Analogy
+  The wrong thing to do in Sr was to carry out A.
+     S2 is similar to S r .
+  Therefore, the wrong thing to do i n S 2 is carry out A.
+
+Practical argument from analogy is the basis of another type of argu­
+menta tion scheme, the slippery slope and i ts variants. The most impor­
+tant premise is the similarity between the case beyond conten tion and
+another, a•. , . closely related, differing only in a negligible detail. The two
+cases are presen ted as almost the same: therefore, following a reason­
+ing step com parable to the prac tical argument from analogy, they arc
+
+=== p. 75 ===
+
+            A rlflmu>ntation from A naloffY. Cul.Ssijication, a11d PrPrt'dm t              75
+
+classified i n the same way. The samt• scheme is successively applied to
+a•. ,. and the analogical reasoning is followed un til the controversial case
+
+a; is reached. The chain of preceding steps proves that the latter is anal­
+
+ogous to the premise beyond contention and, therefore, that it should
+be classified in the same manner.
+
+           9 · T H E C A S E OF T H E D R U G- S N I FFI N G DOG A G A I N
+
+Return ing to the cao;e o f the drug-sniffing dog, we can see how much
+of what was considered to be argument from analogy, as that case was
+treated, is really based on e i ther argument from clao;sification or argu­
+ment from precedent. For example, consider once again the three gen­
+eral rules cited as having been establ ished by prior cases.
+
+    Ruk 1 : I f a police otllcer sees so m ething in plai n \iew in a public plan·. the
+       infonnation collected is not das.�ifi<·d as a searc h .
+    R u k 2: If a police officer opens lugg-dge a n d t h e n observes something insidt•
+       the luggage , the infonnation coll<·cted is da..�ifi<"d a..o; a s<"arc h .
+    R u k> J: If a polic<" oflker listens surrepti tiously to a c o n ve rsa ti on in a primt<"
+       place, it is classified as " search.
+
+These rules set down classi fications based on how the pre\iously clas­
+sified open-textured term was defined i n previous court rulings. The
+analogy-warranting rule, formulated by Brewer ao; the essen tial principle
+on which arguments from analogy are based, is better classified ao; an
+argumen t from classification. Brewer claims, ao; noted in section one,
+that this rule ao; stated is sufficient to resolve the issue i n the ca'>e of
+the drug-sniffing dog. But really, this ntle is not part of an argumem
+from analogy, nor does it belong to the argumen tation scheme for the
+argument from analogy. Instead , it is an argument from clao;si fication ,
+supposedly based on e\idence from the Fourth Amendment. Thus it is
+better seen as an argumen t based on classification, and perhaps also on
+statutory i n terpre tation and p recedent, that can either su pp ort or attack
+the basic argument from analogy i n the drug-sniffing dog case. We t;;tkc
+this conclusion to support our thesis that for the purposes of analyzing
+and evaluating argumenLo; from analogy i n leg-.tl argumentation, one has
+to look at supporti ng argumt•nts, defeaters and undcrcutters that can be
+stated as cri tical questions. These need to be seen ao; arguments of a differ­
+ent sort that typically surround and relate to an argument from analogy.
+   Consider onct• agai n the question of whether a quali fi<·a tion needs to
+be inserted by considt� ring the kind of case i n which a police officer ust·s
+
+\
+
+=== p. 76 ===
+
+                                      Argumentation Sr:hnneJ
+
+an X-ray machine to allow him to see what is inside a con tai ner without
+opening it or taking possession of it. Would the information collected in
+such a case be classified as a search? Once again, in this case we need to
+see that the issue, although partly one of analogy, is also partly one that
+involves argument from classification. It was noted earlier that one tool
+that could be used to deal wi th a new kind of case of this sort m igh t be the
+adding of a qualification. For example, the question migh t be reph rased
+to ask whether what the policeman is doing is a search if he is allowed
+to see what is inside a con tainer without opening it and without using a
+technological device .
+  Consider once again the argument formulated in section six, taken
+by Brewer to be deductively valid. What happens when this argument is
+confron ted with a case in which the police officer obtains the information
+using a technological device? Let's expand the reasoning in the case to
+show how this new factor affects the previous argument.
+
+ Expansion of the Warranting Rule Argument in the Dmg-Sniffing
+      public place wi thout in trusion on the person or taking possession of
+      or in terfering wi th the use of the thing, it is not a search for purposes
+      of the Fourth Amendment.
+   In the case of the d rug-sniffing dog, the police officer obtained infor­
+      mation about a person or th ing in a public place without intrusion
+      the thing.
+   Conclusion 1 : The case of the d rug-sniffing dog is not classified a'! a
+      search for purposes of the Fourth Amendment.
+
+Using the argumen t diagr.un ming system Arnucaria,:; the structure of
+this argument can be represen ted as in Figure 2 . 1 . Ao; shown i n the
+diagram , argument from verbal clao;sification is the scheme that links the
+two premises together and leads to the conclusion. Two thi ngs net•d to
+be noted. One is that in this case, the argument is a negative type of
+
+ "' Ardll<'aria ( R�·�·d ;md Rowe, :loo:;) aid� a us"r i n cnnstnu· t i n g a d iagr.un nf tlw s t ruc t u n•
+  nf an a rgunwlll by i n st·rt i n g thr I C' X l In bt· analy1.ed as a tt·xt donmw n r . F:ad1 statt•mt· n t
+  is n'prt•st• n ted i n a u'x l box that appears on the st'l"l't'n . The ust•r rom t h r n rlraw i n
+  arroWll from �·ac h prcrn ist· I n c;Kh conclusion t h a t i t supports, producing ; m argumen t
+  diagrdm nmnct· t i n g t ht· pn· m iscs and nmdusinns, ;L� w.- 11 as d isplayi ng a rJ..'lllll<'lllatinn
+  sdll'nws.
+
+=== p. 77 ===
+
+           A rgu mrntation from A nalof!J, Classifiration, and Prerelb>n l                    i7
+
+                                      A r g u m ent from Verbal
+                                      Cla ss1fica t 1o n
+                                       Conclusion 1 : The case
+                                       of the drug-snil'ling dog is
+                                       not classified n •
+                                       search for purposes of
+
+                                             · -· 1
+                                       the Fourth Amendment.
+
+                                                      �   .• . .    . - ----    -                 --
+
+                              I                   I
+                                                                              l
+                 If . poke olllcer abtllna                         In the c ne of the drug-lnforrmllon lbout .                               sniffing dog, the police
+                                                             '
+                 petSOn or thing In a                              officer obtained
+                 pubic place without                               Information about a
+                 ll*uslon Clll the p..-.on       .,                person or thing In •
+                 or lilldng po...llon of                           public place without
+                 or lrDrfwlng wfth the uu                          Intrusion on the person
+                 of the tHng. It is not a         '                or taking possession of
+                 ...-el for purpows ol                             or interfering with the
+                 the FOUI1h ArMnc1rnert.                           use of the thing .
+                        - - ---   -
+
+ t"I G LI R t 2 . 1 . Araucaria diagram of the V.'RA in the d rug-s n i lling dog l'Xample.
+
+argument from verbal classification , a type of argument not previously
+recogn ized in the l i terature. The other is that the argume n t has the f( ,rm
+of a defeasible modus ponms ( DM P ) type of argument. It is the thesis
+of Verhelj ( 2<>03a ) however, that all of the defeasible argumenta t ion
+schemes have this form ( i n broad outline ) .
+  Let 's go on to extend the reconstruction of the argument a l i t tle fur­
+ther. In a new case , the pol ice officer obtained information about a
+person or thing in a public place without intrusion on the person or
+taki ng possession of or interfering with the use of the thing by usi ng a
+technological device to see what was inside a comainer possessed by the
+suspect \\ri thout touching or opening it.
+
+  Conclusion 2: I t now becomes doubtfu l . i n the new case, whether t h is shoulrt
+    he classi fied as not being a search for pu rposes of the Fou rth Amendm <" n t.
+    as the rase of the d rug-sniffing dog was hy Conclusion 1 .
+
+This part of the argument is diagrammed in Figure 2 . 2 , showi ng how an
+implicit prt·m ise is added i n the shaded box. Th is diagram shows how
+classification is involved, but is incorporated into an argument from anal­
+ogy based on a simi larity between two cases. The old case is a precede n t
+that support� a classifica tion . A n implicit premise i s assumt·d, t o tht· dlect
+that the new case is similar to the old one. A conclusion is i n fe rred about
+how the new case m igh t be classi fied.
+
+=== p. 78 ===
+
+                                        A rgumentation Srhnru>s
+
+                                              Argument rrorn
+                                          T
+                                              Analogy
+                                                                     �
+
+                                          ' .
+                                              It now became&
+                                              doublful, in the ,_
+                                              c... whether it is not
+                                              clasliied as • uan:h
+                                              for purposes of the
+                                              Fourth Amenctnent.
+                                              as the case of the
+                                              �.ntling dog -
+                                              by conclusion 1 .
+
+                          ..                           I
+     --- •
+I In the cue of the
+                               ' ' _I.
+                               """"
+
+                               The c... of the drug•
+                                                            In the ,_ c..., the         l_n. .-caell �
+                                                                                               II!
+
+                               ll1illlng dog is not         polle omc. abmNd             ... to .. old �.
+  I �lrifftng      dog, the
+
+..
+    polle ollicer cbtlined     clasdied as • aurch          intann.lion lbcM •
+  I infonnllion � .            for purpoaa ofthe            pem111 or tting in •
+    pe�SQn or tting In •       Fourth Amenctnent.           public piKe wittlcd
+"
+
+    public piKe wittlcd                                     Intrusion on the
+i inlrualon on the                                          pem��� or Wiling
+  I pe!Son or laking                                        poa.alon of or
+    �lion of or                                             I!DrfMng wilh the USI
+    l,..rt.ring wilh the use                                of the tting by using • ·
+
+..
+I   of the lling.                                           tKhnologlclll dM:e
+                                                            lD - whit - inaldl 0
+                                                            • container �
+                                                            by the suspect wittlcd
+                                                            toucl*lg or ope'*'�! It
+
+     FIGURE 2 . 2 . Argument diagrdm for the reconstmcted developmen t of the d rug·
+
+     sniffing dog example.
+
+        We can now look at the original argument i n this new way, seeing it as
+     part of a chain of reasoning in which new cases can come in, setti ng or
+     overruling preceden ts from pre\ious arguments. The pre\ious argument
+     looked like i t could be deductively valid, because the general rule stated
+     in the first (conditional ) premise looked like a universal ( absolute) gener­
+     alization. But in the expanded version , we see how the original argument
+     could be defeated by a new case. As Weinreb ( 200 5 , p. 2 5 ) proposes, the
+     original generalization now needs to be qualified as follows.
+
+           public place without intrusion on the person or taking possession
+           of or interfering with the use of the thing, and without using a
+           tech nological de\ice, it is not a search for purposes of the Fourth
+           Amendment.
+
+     Given the insertion of this new qualifica tion (antecedent of the condi­
+     tional ) , the new conclusion is that what the police officer did when using
+     the X-ray de\ice is classified as a search.
+
+=== p. 79 ===
+
+         A rgumentation from A nalof!J, CilLssijication, and Prt>rPdenl   79
+
+  This reformu lation of the original argument is i n teresti ng, because it
+suggests that the argument is nut deductively valid after all. I t is based
+on a defeasible generalization of a kind that is subject to exceptions, one
+that can be defeated i n the future by an exception that may arise th rough
+a new case to be decided. This view of the matter suggest'> that we should
+reformulate the major premise , as follows, to classify i t as a defeasible
+general ization .
+
+  Generally, hut suqject to exceptions, if a police officer obtains infor­
+    mation about a person or th ing in a public place without in trusion
+   on the person or taking possession of or interfering with the use of
+    the th i ng, it is not a search for purposes of the Fou rth Amendment.
+
+Moreover, this general rule may fail to apply in some i nsta nces. I t should
+not he seen as an absolute generalization of the kind modeled by the
+universal quantifier i n classical deductive logic. Th us Brewer's view of
+the case as fi tting a deductively valid form of argument from analogy falls
+apart, once we take a closer look at the example of the drug-sniffing dog.
+   Really, the question here is how a search should be defined, where we
+know that the term 'searc h ' is open-textured, even though it is increas­
+ingly being made more precise by preceden ts brought forward in the
+courts. To handle such cases, Wl'inreb ( 200 5 , p. 3 1 ) suggests that there
+has to be a sequence of argumen tation moves described as a process
+of "reciprocal reflective adj ustment" in which a given rule is refined by
+taking new exceptions and preceden ts i n to account. He suggests that
+the sequence of argumenta tion in such a case goes back and forth from
+the specific case to the statute, and is mediated by precedents and by
+new cases considered by the courts that i n tervene between the statute,
+at one end, and the specific case being ruled on, at the other end. A'i
+we have noted, Brewer also sees the sequence of argumen tation in the
+drug-sniffing dog case as con taining not only an argument from analogy
+but also a wider pr01.:ess of reasoning in which it is embedded . What these
+considerations suggest is that the analyses of the drug-sniffing dog exam­
+ple considered in section one, by seeing this whole broad network of
+reason ing as an argument from analogy, have cast too wide a net. A more
+realistic analysis is that there is a cen tral argument from analogy involved,
+but that i t is situated in a massive network of evidence con taining many
+other kinds of argu ments that either support the argument from analogy
+or attack it. In a typical c ase . well exemplified by the d rug-sniffing dog
+case , many of the most important argumen ts surrounding the argument
+
+=== p. 80 ===
+
+Ro                                   A rgu"u>ntation Srhn111'.�
+
+from analogy, and most closely related to i t as interlocking supporting or
+attacking arguments, are arguments from classification and precedent.
+
+                                      I0.   C O N C LU S I O N S
+
+I n this chapter we have successfully developed tools enabling u s t o iden­
+tify precise fonns of argument from analogy, and to analyze both common
+and controversial examples of argument from analogy i n leg-al rea'lon­
+ing. By this means, we have proposed a third way between the skeptics,
+who doubt whether argument from analogy is a fom1 of rational argu­
+ment at all, and the mystics, who th i n k that argument from analogy lacks
+rational force even though i t can be j ustified in the law as having pro­
+cedural benefito;. Ba'lically, we have done this using two methods. One
+is to go between the horns of the dilemma posed i n tradi tional logic
+by seeing argument from analogy a'l not havi ng to fit one of the two
+tradi tional paradigms of rational argument, deductive or i nductive rea­
+son i ng. We have argued that in some cases argumen t from analogy can
+assume deductive and induc tive fonns, but i n the broad majority of typ­
+ical cases of argument from analogy as used in legal reasoning, it has a
+dt�feao;ihle form that is neither deductive nor inducth·e , and is best mod­
+elt•d usi ng the defeasible argumentation scht•mes we have presen ted. ''
+Another importan t thesis of this chapter has bet·n that the typical kinds
+of cases of argumt•nts dted as argumt•nt from analogy i n legal reason ing,
+like the case of the drug-sniffing dog, are not simply argumt•nts from
+analogy but involve other argumentation schemes, t•specially argument
+from verbal cla'lsification and argument from precedent. We have shown
+how, in such typical cases, a network of argumentation is funned, and
+how the arguments in it can he visualized usi ng an argument diagram,
+which typically combines argumentation fitting these various st·hemes
+into a connected ma'ls of e\idence. Thus we see that prior treatment'! of
+the subject of argument from analogy in law are oversimplified, that they
+tend to analyze these common ca'les of le gal reasoning as bei n g sim p l y
+argument-; from analogy, ignming other argu mentmion schemt·s that are
+woven together with the argument from analogy and are an important
+part of it. I n distinguishing tht•se difl'e rent types of arguments. and i n
+
+'; . J lll lll' ( :lnn;, ) su pport.• o u r condusinn that argumt·n t.• from analng\· nl t h t• mnst nmunnn
+
+  and typical kinds arc not deductive i n n a t u re , but lw takes the c\·cn stmngt'r \it•w t h a t such
+  argu mcnt.s art• aiY>"d}'S fmm partinalar to part icu lar. and art· tht•n·fnrc IW\'t•r dt•ducti\'l'ly
+  \'illid. His t lwsis is t h ;tt in an argu m e n t from analog}·. " lht· nmd usion nc\'l'r follm•'S soh·ly
+  in viruw or lht· st·manlks nr llw syn �anical st nac llln' nf lht· argu mem" ( p. :l4 ) .
+
+=== p. 81 ===
+
+           A rgu mmlalion from A nalofO', Cla.uijiration, mul Preadnzt             81
+
+show in g how th(·y fi t together with the argu men t from analogy i n such
+typical legal cases, we h ave indicated how the li terature 1ha1 has tried
+to grapple with the logical pro bl em s posed by these cases needs to be
+broadened to take these other argum e n tat ion sc h e m e s i nto a ccou n t.
+    Earlier we said that the i n te res ting question raised by the cast• of the
+d rug-sniffing dog is how argunwn ts from classification and argunw nts
+from analogy can be c o m bi ne d with otht•r argumentation schenws i n
+the wider process o f legal re ason in g i n a case that involves j u d gi n g tlw
+a d m is s i b ility of e\idence in a trial. Tlw process of untangling the individ­
+ual s tage s in this broader process o f rt• as o n in g re quires ttnet� steps. Thl·
+fi rst step is the defi n i tion of argument fro m ana logy as a s pe ci fi c argumen­
+tation scheme. The second step is that of distinguishing i t from closely
+related schemes like a rg um e n t from classi fication and argument from
+prec e de n t . The third is the e x am i nat i o n of the problem of how the c ri ti­
+cal questions match each of these argumen tation sc hemes and how t h ey
+can be used as devices for u n de rcutti n g or rebutting an argument that fi ts
+a p ar tic u l ar scheme in a gi ve n case. I n the past i t has n o t been u n reason­
+able to try to portray argument from a n a l ogy as deductively valid or, alter­
+natively, to see it as merely a mystical device that has no logical structure
+we can firmly pin d ow n . But once the argum en ta t ion scheme fc>r argu­
+men t from analogy has been precisely defined, and diflere n tiated from
+closely related schemes l i ke argument from classi fication and argumen t
+from precedent, the ai r of mystery disa ppe a rs . We can see that argu­
+ment from analogy has a form that can be precisely d e fi n e d . Now we
+are partway to our goal, because we can see how to ide n t i f}• and analyze
+argument from analogy, even tho u g h some q ue stio n s remain about the
+p re c i se form the scheme should take.
+     It may well turn out that t h e a pp roa ch we have taken t o d (•ve l o pi n g
+argumen tation schemes for argument from analogy, of a kind that would
+be adequate to modeling this argument as used in case-based reasoning
+of the kind so com mon ly found in law, is inc om pl ete . One reaso n is that
+legal reaso n i ng is based on the structural similari ty of the nu i o n a l es of
+two cases, when one is used as a precedent by a nal ogy to a no t he r. Th is
+kind of similari ty is in he rentl y complex. It may n o t he pos s ibl e to model
+i t in the simpler type of cast• we ha\·e mai nly been concerned wi th here ,
+in which o n e si tuation or event is h e l d t o b e similar t o another. Another
+reason is t ha t a cw rdi n g to the theory of Ve rh e ij and H age ( 1 mH ) , in
+order to an a l y ze argument from analogy as used i n legal reason ing,
+one h as to take into account the principles and goals that underl ie a
+legal rule as appl ied to a case, and t hereby to see how these fac tors
+
+=== p. 82 ===
+
+                              A rgummlation Srhnnes
+
+generate reasons to solve the case. They comment that classical logics,
+such as sen ten tial and fi rst-order predicate logic, are not well suited to
+dealing wi th this kind of reasoni ng. Also, classical deductive logic is not
+adequate to fully treating rule application disputes where reasons both
+for and agai nst dntwing a conclusion can be offered . By analyzing a case
+from the Dutch Supreme Court, Hage ( 2oO_rj ) h as brough t out more
+limita tions of attempts to treat argument from analo!,ry in law as based
+on the kind of deductive i n ferences we are familiar wi th ao; the model of
+logical reasoning in classical logic.
+   We agree wi th Govier, who argued that many of the most typical cases
+of argument from analogy should not be classified as deductive, because
+they are persuasive in nature and lose their persua-;ive force when recast
+into deductively valid form . We also agree with Guari ni and Govier that
+the scr<:alled principle or generalization on which an argument from
+analogy is based is uncovered only th rough a period of successive refine­
+ments during a process of reflection and analysis. We see this process a<;
+best modeled in the form of a dialogue (or investigative procedure ) in
+which the generalization is refi ned through a process of finding excep­
+tions to it that can then be built i n to the antecedents of the generaliza­
+tion . A-; the l i terature on defeasible reao;oning in artiflcial i n tell igence ha'>
+abundan tly illustrated, such genentlizations can be defeated by con trary
+instances in the future , instances of a kind that cannot be anticipated in
+all cases. We see this process as one i n which one side in a dialogue brings
+forward an argument from analogy, combined with other argumen tation
+schemes, and the other side c ri tically questions this argument, or sul�jects
+it to c ri ticism using coun terarguments. We see the argumentation i n the
+typical ca'>e of a legal dispute, like that of the dmg-sniffing dog, as best
+analyzed and evaluated as a mle-governed dialogue in which each side
+h as a burden of proof. H ow strong the argument needs to be in order to
+be acceptable is determined on the basis of whether it meets the requi re­
+ments of this burden of proof. Although we cannot include our whole
+approach to argument evaluation here, and onl y allude to it by citi n g
+some of the l i terature, the general approach can be summarized as one
+that treats defeasible argumen tation schemes using a dialogue model in
+which the cri tical questions are used ao; the vehicle for evaluating tht•
+argument in a given case. Our analysis of argument from analogy clearly
+fits t h is general format.
+   We offer the following sol u tion to the problem of analyzing how argu­
+ment from analogy works as a fallacy. In many cases, arguing from analogy
+is quite reasonable. Indeed, as we 've seen, our legal system of reasoning
+
+=== p. 83 ===
+
+            A rgu mt'll lation from A nalof!J, Clmsijication. and Preredn11                H�
+
+is funda m e n t a ll y based on it. S o when dm·s it become fa ll ac i ou s ? We
+th e o ri ze that this form of argument becomes fallacious when the simi­
+lari ty is so striking that the argument from analogy appears i m p eni ous
+to critical question ing. Consider again . J u d ge Kozinski 's s to ry d e sc r i b i n g
+how when t h e movie Total /Veal/ came out in 1 ggo, he fo und the simi­
+l a ri t i e s between the m mie and h is un publ ished n ove l st riki ng. The st o ry
+li nes appe are d to him to he idemical , and he was strongly i m p re sse d by
+a scene in whic h the villain ki c ks over a fish tan k. which seemed to h i m
+very similar t o a scene in h i s novel. He was therefore cominced that h i s
+novel h a d t o have bee n p i ra ted . T h e k ey p rem i se of this argument from
+analogy was the perceived striking simi larity. He drew what appeared to
+him to he the i n es c a p able conclusion that his story had be e n stolt'n.
+     Based on such a striking similarity, an argument from a n al o gy can look
+like a very strong form of argument. like a deductively va li d argument or
+a very strong inductive argument. However, as we 've see n , in the most
+typical cases in l e ga l reasoning argument from analogy is a de fea<� i bl c type
+of reamning. It is an i n h ere n t ly weak and fallible argument on its own .
+wh ich can nevertheless carry some evidential weight in a larger mass
+of evidence of which it is a part. We have shown how argumem from
+a na logy in typical legal cases is combined wi th other arguments. like
+argument from p rec e d e n t and argument from verbal classification . I t is
+also c ommo n l y combined with other fom1s of argument, like argument
+from expert o p in i on and a ppe a l to witness tes ti mon y. Argumem from
+an a l ogy has a l e gi tima te place a'> a veh icle for presemi ng persuas i ve
+e\idence t ha t can shift a burden of p roof, e ve n t hou gh i t is i nhe re n tl y
+def(·asible and subject to c ri t i c a l q ues tion i n g. T h e p ro b l e m of i t<� being
+a fall ac y comes i n when the stren gt h of the argument i s overra ted , when
+it is not eval uated in the comext of a m ass of relevan t e-.idence in a case
+but is seen as a strong. e ven ove rw h e lm i ng , argument that s tands on its
+own as co n v i n c ing . Later, afte r a pe riod of reflection , Judge Kozi nski
+came to realize his error. He took other e-.idence i nto accou nt. He h a d
+never finisht•d the nove l , nor had he eve r scm it to anyone to read. He
+reali zed that he had l e a pe d to a has ty conclusion. The structure of the
+argu me n ta t i o n is shown i n t h e Araucaria diagram in Figure 2 - :l · Tlw
+d arkened box rt� p rese n ts a refutation.
+     The i n i tial stage of the a rgu nw n ta t io n is p i ct ured on tlw righ t, le ad i n g
+to the <·onclusion that the novel m ust have been s tol en . At t h e second
+stage, .Judge Kozi nski was led to ret rac t h is earl ier conclusion and fo rm
+a n e w one ba-;ed on the new t•vide n c e shown in the bottom two boxes
+on the left. He now concl uded that. d e s p i te the s im i l a ri t i e s , it was just a
+
+=== p. 84 ===
+
+                                A rgu mmtation SrhPml!s
+
+                                                               Argument from
+                                                   r. =- Analogy                                              '""-'
+
+                                                                                                                �
+              !l,... .nat� - -           ""     ....         His novel had been
+                                         ....   ...-.;
+             .. ilcMII hild ... -                 '          stolen.
+                                                  I
+             ..... . .        .                                <        -                            "<J;:.,._ .
+
+                                                                                 -�I .. .
+                        t
+              Despite the simlries, It
+                                                        ; .. . _... -
+                                                                                 ,/ ;.
+
+                                                             During the prior phase,
+                                                             Judgt Kozinski had
+                                                                                          •   L� - .�.. 4        �
+
+                                                                                                                  ;
+              could have been just a                         fOW1d the striking
+                                                    I                                                            �
+              coincidence .                                  sinl'-ly so plausible
+                                                   I         that It had • powerful                              �
+
+                        t
+                                                   �         psychologlc ll Impact on                            t
+                                                             him .
+                                                   I�        ---·                                     . , -
+                                                                                                                 �
+                                                                            ..           . ·' ·· -
+
+             He hlld never finished
+             the novel, nor had he
+             ever lent It to anyone to
+              read.
+
+FIGlJ R t: 2 . 3 . Araucaria diagrdm of the fallacious inft•rence in the striking simi­
+lari ty case.
+
+coincidence. During the prior stage, he h ad found the stri king similarity
+so plausible and seductive that he could not resist the overwhelming
+conviction that his novel had been stolen. The occurrence of the fallacy of
+jumping from an analogy to a conclusion is indicated by the sequence of
+argumentation joining the two stages. The fi rst stage shows the powerful
+psychological i m pact of the stri king similari ty. The second stage shows a
+retraction of the earlier conclusion , based on a more sober rea'i.'tessment
+of the total e\idence. The new evidence supports the refutation of the
+prior conclusion .
+  The fallacy of deceptive argumt'nt from analogy can he compared to
+some other fallacies of the tradi tional kind, where there is an underlying
+rea'tonahle basis as a heuristic, hut where the fallacy is the tendency
+to leap too quickly to a conclusion wi thout considering other fac tors.
+The post hor fallacy, for exam ple, is the fallacy of leaping too quickly to
+a causal conclusion on the basis of a correlation . The correlation may
+exist, and therefore the prem ise of the causal argument may be true.
+Moreover, the correlation may suggest that the possibility of a causal
+conclusion should be further i nvestigated . The problem is, however, that
+the correlation may be sim ply a coincidence, or i t may be caused by
+some other factor that is common to both variables that are correlated. So
+arguing from a correlation to a causal conclusion is a legitimate heuristic,
+but leaping too quickly from a correlation to the causal conclusion,
+without considering or i nvestig-.uing other f�u: tors that may be involved , is
+
+=== p. 85 ===
+
+          A rgu mmtation from A nalogy, Cla..uifimtion, and PrPfedFnt        H!)
+
+a fal lacy. Appearances offer evidence, and arc a main source of e\idence ,
+but the inferences drawn from them <·an lead to a conclusion that turns
+out to be wrong.
+   There is actually an argumen tation scheme corresponding to this form
+of reasoning called argument from appearance. Henry Prakken ( 200 3 )
+used the example of this argument: this object looks like an aflidavi t:
+therefore, it is an affi d avi t. The problem with the post hoc fallacy is that
+we tend to see the world in causal terms, so when we see a striking chain
+of e\·ents in which one event occurs, and then another event occurs righ t
+after it, the second event strongly appears to be causally related to the
+first one. Hence we tend to leap to a causal conclusion. But this very
+strong conviction or appearance of causality can eao;ily be mistake n . Sim­
+ilarity is part of the evidence for copyright cases, and if there is a striking
+similarity, that could be further e\idence for d rawing the conclusion that
+there is a possiblt: violation of copyrigh t that needs to be investigated by
+looking into other relevant factors. But sim ply leaping to the conclusion
+that there has been a violation of copyrigh t, based only on the evidence of
+the stri king similari ty between two cases, is a fallacy. The stri king similar­
+ity premise suggests the conclusion that there may have been a violation
+of copyrigh t, but this i n ference is only a very weak form of abduc tive rea­
+soning that considers one possible explanation i nstead of investigating
+alternative explanations at suflicient depth to reach a conclusion bao;ed
+on evidence. Our limited experience tells us that copying is the only
+explanation for the striking simila ri ty, and we d raw on the ht·uristic that
+we believe in our perceptions.
+   The remai ning problem that also seems to ensh roud argument from
+analogy in an air of mystery is that of how to model the cri tical questions.
+The c ri tical questions appear to be part of a dialogue through which
+the scheme is matched with de\ices that can be used to pinpoint weak
+parts of the argument that should properly be subject to doubt. But how
+can this process, through which the question is used to raise doubt'! i n
+relation t o the schc>me, be modeled? T h e answer we have proposed i s
+taken from recent advances i n t h e fie l d o f artificial intelligence. The
+general research proposal is to see the critical questions as modeled by
+coumerc1rguments that can be expressed as sets of propositions ( Bex
+et al . , 200 3 : Reed and Wal ton , 200 5 ; Walton and Gordon , 200!) ) . First
+of all, cri tical questions that merely ask whetht>r or not a premise holds
+can be cla'lsified as redundant, because these kindo; of questions can be
+asked automatical ly by the automated system designed to ev-c1luate the
+argument from analogy. The uext step is to classify the remaining critical
+
+=== p. 86 ===
+
+questions as being coun terargument'! of various kinds. Some of them
+can be classified as undercutters, others as rebuttals. The problem is then
+how to model undercutters and rebuttals using the current technology of
+artificial i n telligence. We do not comment further on these investigations
+here, except to poin t to directions of advance in the recent litenlture.
+   Our conclusion is to recommend version one of the argumentation
+scheme for argument from analogy, reserving application of version two
+to cases where relevance needs to be decided . The relevant similarity
+premise makes version two a precise tool that could be useful for cum­
+paring cases in evaluating arguments from analogy. We repeat, however,
+that we see the m�or premise of version one as fulfilling quite an impor­
+tan t role in the scheme for argument from analogy. We see the major
+premise as a generalization stating that one case has been found to be
+similar enough to another case to warrant a conclusion d rc1wn by argu­
+ment from analogy proceeding from the source case to the target case.
+For such a premise to be established, or to be well supported by the
+evidence, there needs to be a significant match between the source case
+and the target case. Thus, for example , there can be a si milari ty between
+a red ball and a red apple in one respect, namely, the respect that both
+are red. However, this similarity would not be sufficient for inferri ng that
+because the apple is good to eat, the ball would also be good to eat.
+   The final remaining problem is how similar two cases have to be for us
+to be able to draw an inference by a reasonably strong argument from
+the source case to the target case. We do not attempt to give a general
+answer to this question here. All we have been able to do is to show
+that in many common cases, because of our skiii at matching patterns
+by bringing to bear knowledge that enables us to see one case as similar
+to another, we can make and judge such inferences. Our approach has
+been to take the fi rst step of explaining how an argument from analogy
+can be identified, and how the c ritical questions matching the argument
+can be modeled as rebutters or undercutters of a kind that pinpoint
+weaknesses and g-c1ps in the given argument. I n effect. we 've taken the
+negative route o f showi ng how a given argument from ana l ogy, once
+accepted or seen as being plausible in a given case , can be questioned or
+criticized by locating weak poi nts in it and exploring the backing evidence
+and supporting argument'! on wh ich it is based. We think that this is an
+important fi rst step in begi n n ing the ultimate pr�ject of learn ing how to
+evaluate arguments from analogy as strong or weak.
+

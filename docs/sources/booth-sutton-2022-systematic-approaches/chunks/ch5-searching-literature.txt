@@ -1,0 +1,1337 @@
+=== chunk: booth-sutton-2022-systematic-approaches/ch5-searching-literature ===
+title: Searching the Literature (eight-stage search process)
+source_pdf: docs/sources/booth-sutton-2022-systematic-approaches/full.pdf
+pdf_pages: 159-192
+page_scheme: book
+plan_page_start: 124
+plan_page_end: 157
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 124 ===
+
+SEARCHING THE LITERATURE
+
+                 in a nutshell
+
+How to conduct a literature search
+• Identifying studies to include is a key stage of any literature review.
+• A systematic literature search is an essential component of any systematic review.
+• Having developed a structured review question, this chapter helps you to translate that
+  question into an appropriate search strategy.
+• Tools and exercises can assist you to devise a search strategy and identify appropriate
+  sources of information to be searched.
+• Several techniques exist to make your literature search more systematic, and to review
+  and refine it as necessary.
+
+                  key terms explained
+
+   adjacency/proximity operators: database-specific commands (such as NEAR or WITH or
+   'exact phrase') that allow you to search for two or more terms occurring in close proximity.
+   These operators increase specificity by preventing the retrieval of terms when they occur
+   at a distance from one another.
+
+   Boolean logic: syntax entered into a search engine or database (e.g. AND, OR) specifying
+   the relationship between two or more concepts required for an item to be retrieved.
+
+=== p. 125 ===
+
+      grey literature: any information not produced by commercial publishers. It includes
+      research reports, working papers, conference proceedings, theses, preprints, White
+      Papers, and reports produced by government departments, academics, business and
+      industry. May be referred to as fugitive literature.
+
+      search filter: a combination of search terms designed to retrieve studies meeting particular criteria (e.g. a type of study design, population or geographic setting). Search filters are
+      typically designed scientifically and then evaluated as to their effectiveness in retrieving
+      studies eligible for inclusion.
+
+      search strategy: the process by which searches are conducted to retrieve relevant items.
+      Generically, this includes which databases were searched and which search terms were
+      used. Specifically, it relates to the exact configuration of search terms and search syntax
+      used within a specific database (e.g. ERIC, PubMed, etc.) – also known as a search string.
+
+INTRODUCTION
+The purpose of your literature search is to identify information for your review topic.
+  If you are planning to conduct your own research, you may seek literature to provide background and context; to identify a gap in the existing evidence; to provide justification for your
+work; or to investigate potential methodologies that you might use.
+  Perhaps having read the previous chapters you have identified a single, focused question that
+you want your search to address. This is where a systematic approach is most useful to ensure
+you identify the best available evidence. You may have teased out other implicit questions about
+which you are curious. Be sure to distinguish between a foreground question (an explicit review
+question requiring a systematic search) and a background question (a contextual question to
+be addressed in the introduction or discussion sections, perhaps informed by review articles or
+targeted searches) (Booth, 2019b) – if you allow your review to become hijacked by background
+issues your scope will rapidly expand out of control.
+  All searches involve a trade-off between two opposing goals: (i) retrieving all relevant results
+and (ii) minimising the number of unwanted results that you need to screen to identify what
+you are looking for (sometimes known as the number needed to read or NNR). In this chapter we will consider how to balance these two extremes (labelled as sensitivity and specificity
+respectively), a balance that depends on the type of review you are conducting and how important it is for your coverage of the topic to be comprehensive.
+  This chapter starts by describing the eight key stages in the literature searching process,
+including an analysis of methods used by a published review. A practical section then demonstrates how to translate your review question (as identified in Chapter 4) into a search strategy.
+We will refer to examples from several different disciplines and review types (including tips to
+consider within the context of rapid reviews), but you will find it useful to consider each section
+in relation to your own review topic. Reviews of complex interventions are briefly considered, but these may require alternative approaches to both planning and conducting searches;
+in the previous chapter we signposted ‘Suggestions for further information’ for those whose
+review explores complex interventions.
+
+=== p. 126 ===
+
+STAGES IN THE LITERATURE SEARCHING PROCESS
+To identify evidence systematically for the purposes of a literature review, you will need to follow
+eight ‘key stages’ of the search process, from initial decisions made at the planning stage to conducting and reporting your searches (Cooper et al., 2018a). These stages (presented in Table 5.1) are
+common to reviews across all disciplines and are taken from the best available published guidance.
+
+Table 5.1 Key stages of the literature searching process
+
+1         Who should do the          Ideally, engage an experienced information specialist/librarian
+          literature search?         to conduct searches. Maintain ongoing communication between
+                                     the person searching and the rest of the review team
+                                     If you are a student or lone researcher, you will probably need
+                                     to do the searches yourself, but may still be able to obtain
+                                     advice from an expert such as a librarian
+
+2         Aims and purpose of        Decide whether your aim is a comprehensive survey of the
+          literature searching       literature or a selective, sampling approach
+                                     To minimise bias, state clearly from the outset what types of
+                                     evidence you consider eligible for inclusion
+                                     For more iterative review types (e.g. qualitative evidence
+                                     synthesis (Chapter 8) or realist synthesis (Chapter 9)), state
+                                     how you plan to deal with emerging sub-topics
+
+3         Preparation (scoping)      Draw a concept map (see Chapter 4) and populate it with lists
+                                     of possible search terms
+                                     Conduct a scoping search to assess the size and nature of the
+                                     literature and define the boundaries around your topic (the
+                                     scope)
+
+4         The search strategy        Decide and state in your review protocol:
+
+                                     •   which sources you will search
+                                     •   at what stage of the review you will conduct them (all at
+                                         the beginning? Or over multiple iterations? Will you need to
+                                         plan update searches (or set up alerts) to notify you of any
+                                         relevant studies published while your review is in progress?)
+                                     •   which supplementary methods you will use
+
+5         Searching bibliographic    Identify appropriate database sources for your topic area. A
+          databases                  list of possible sources is provided in Table 5.2. Use advanced
+                                     search features (where available) for maximum control over
+                                     your results
+
+6         Supplementary              Consider additional searching for known authors in the field to
+          searching                  see what else they have published
+                                     Check reference lists of included papers for studies you have
+                                     missed
+                                     Search for papers which have cited your included studies
+                                     (particularly useful for following up older papers)
+                                     Search websites or general search engines to identify grey
+                                     literature (see Table 5.3)
+
+=== p. 127 ===
+
+7          Managing references           Export your search results to reference management software
+                                         to remove duplicates and facilitate study selection
+
+8          Reporting the search          Keep a search log of sources searched, terms used and how
+           process                       you have combined them. Aim to make how you have identified
+                                         evidence as transparent as possible. Consider saving one or
+                                         more search strings in full for your Appendix (for systematic
+                                         reviews this is essential)
+                                         Follow the PRISMA-S reporting guidance (Rethlefsen et al.,
+                                         2021)
+Source: Based on Cooper et al. (2018a)
+
+1. Who should conduct the literature search?
+Advice consistently recommends that the person who conducts the search should be an experienced information specialist who is familiar with the databases and other sources relevant
+to your discipline (Rethlefsen et al., 2015; Metzendorf, 2016). Involving someone with search
+expertise from the outset helps you to plan and scope your project and write a protocol. They
+may also help you to develop and run the searches. The information specialist may also advise
+you on how to write up the search methods in your final report.
+
+    Harness information expertise
+    Involve an information specialist in planning, conducting and writing up your rapid review. Ask
+    them what are the minimum core databases that cover your topic (e.g. CENTRAL, MEDLINE
+    and Embase for clinical trials) and whether data exists on database coverage or potential
+    overlap. Ask them whether they recommend searching of specialised databases (e.g. PsycInfo
+    and CINAHL) for your review topic. Ask them which sources they choose if under time pressures and which they omit when time and resources are limited. (Garritty et al., 2021)
+
+Information specialists work best when they are embedded in the review team or, at the very
+least, can work closely with subject experts – this helps to ensure that searches remain closely
+aligned with the review aims. We strongly recommend that you include your search expert as a
+named applicant on research grants and a co-author of any resulting publications.
+    If you will be running the searches yourself, consider seeking advice from a librarian/information
+professional. Although not always possible for student dissertations, information specialists
+increasingly recommend the use of the PRESS (Peer Review of Electronic Search Strategies)
+checklist (McGowan et al., 2016; Rethlefsen et al., 2021).
+    If you are working on a topic where you have limited prior subject knowledge, expert advisors can help to suggest papers to get you started (and to use for validating your searches). Such
+experts could also help to verify your search terms (perhaps distinguishing between similar
+
+=== p. 128 ===
+
+concepts, in order to clarify which are within scope). Expert input is particularly important in
+realist reviews (Abrams et al., 2020), where core papers and expert insight are used to generate
+theories which are subsequently tested and explored through targeted searches for evidence
+(Booth et al., 2018c; 2020). Realist reviews are covered in Chapter 9.
+
+2. Aims and purpose of literature searching
+Developing an optimal search strategy for your topic requires that you understand clearly the
+review methodology that you are using.
+  Systematic reviews of the effects of interventions are usually expected to cover every relevant
+study meeting their inclusion criteria. Therefore, literature searches to support effectiveness
+reviews tend to prioritise sensitivity. Decision-makers can have more confidence in review
+findings if they know that you have aimed for a comprehensive sample of the literature (Hiebl,
+2021), reducing the influence of bias and ‘the play of chance’. If you miss relevant studies
+from a meta-analysis this could distort the review findings (and, consequently, any decisions
+or guidelines informed by that review). However, the need to restrict the number of results to a
+manageable number (Aveyard, 2019b) often requires that effectiveness reviews adopt a narrow
+focus with strict rules on what should be included (eligibility criteria).
+
+   Eligibility criteria
+   If you work with key stakeholders to define clearly the scope of your review (e.g. population,
+   intervention, comparator and outcomes), and you also agree to limit the number of interventions and comparators, then you will ensure that your rapid review is manageable and timely.
+
+By contrast, qualitative evidence syntheses (which often ask open, exploratory questions) are
+not so vulnerable to missing relevant studies. Although searching for qualitative health research
+does require multiple databases and alternative search strategies (Frandsen et al., 2019), commentators argue that if you reach theoretical saturation, where no additional insights are
+gained from reading further papers, you lose little by omitting papers that represent ‘more of the
+same’. For this reason, you might best spend your remaining time for searching in undertaking
+additional purposive searches to identify disciplines or perspectives that are less well represented
+or in pursuing elusive types of publication such as grey literature (Hoffecker, 2020) or academic
+theses. More information on searching for qualitative evidence can be found in Chapter 8.
+  Rapid reviews – in truth, more a ‘family’ of review types that offer variations from a conventional systematic review process (Sutton et al., 2019) – often involve search shortcuts (agreed in
+advance with the client). For example, an information specialist may use simplified or ‘abbreviated’ search strings across a limited number of sources (Nussbaumer-Streit et al., 2018). Other
+rapid reviews may still require full, exhaustive searches but omit or abbreviate other stages of
+the review process.
+
+=== p. 129 ===
+
+     There is a direct relationship between searching and screening (study selection). High sensitivity (finding as many eligible studies as possible) is generally preferred, but may result in large
+numbers of false positives (records which appear relevant, but are not). Some reviewers prefer
+to spend time optimising the search specificity while others are content to run a broad search
+even if this increases the screening burden. Spending more time screening is typically best for
+diffuse concepts or for ‘open’ review questions, when you cannot anticipate all relevant specific
+search terms and have to resort to ‘trawling’ with general concepts. Further guidance on search
+requirements is found in Sutton et al. (2019).
+
+3. How to prepare for your review (the scoping search)
+You may find it helpful to start with a scoping search. A scoping search is a preliminary search
+designed to (i) identify existing reviews in your topic area and (ii) estimate the existing quantity
+and quality of relevant primary studies. Typically, scoping searches do not aim to be fully
+comprehensive. Scoping searches have three main objectives:
+
+1.     Identify any existing reviews around the topic (to avoid duplicating work).
+2.     Assess the nature and scale of the literature (to ensure that you can complete the review you
+       are planning within the time and resources available).
+3.     Identify key publications with which to familiarise yourself with the topic and inform your subsequent searches (sometimes described as pearl growing).
+
+Ideally you should cover a selection of both core electronic databases and grey literature sources
+in your scoping search, as suggested in Tables 5.2 and 5.3.
+
+Sources
+Table 5.2 lists common electronic databases (by subject area) and Table 5.3 lists sources of grey
+literature. Most electronic databases provide online guidance including search tips and video
+tutorials demonstrating the individual features of the database.
+
+Table 5.2 Electronic databases: subject specific
+
+Health
+Allied and Complementary             Professions allied to medicine
+Medicine Database (AMED)             Alternative and complementary medicine
+                                     Palliative care
+BIOSIS                               Biology and biomedical sciences (including botany, zoology,
+                                     microbiology, biomedical science, ecology, biotechnology,
+                                     biophysics, biochemistry and agriculture)
+British Nursing Index                Nursing and midwifery (UK focus)
+
+=== p. 130 ===
+
+CINAHL                             Nursing and allied health (international)
+The Cochrane Library, including:   Cochrane systematic reviews and protocols
+Cochrane Database of Systematic    Reports of controlled trials
+Reviews (CDSR)
+Cochrane Central Register of
+Controlled Trials (CENTRAL)
+Embase                             Biomedical and pharmacological sciences, as well as
+                                   general medicine
+HTA Database (hosted by            Health technology assessment reports from around
+INAHTA)                            the world
+MEDLINE/PubMed (includes           General medical and biomedical sciences. Includes medicine,
+MEDLINE database plus additional dentistry, nursing, allied health
+citations: ‘in process’ and ‘ahead
+of print’)
+PsycInfo                           Psychology and related fields
+Social sciences
+ASSIA                              Social sciences, includes sociology, psychology and some
+                                   anthropology, economics, medicine, law and politics
+Campbell Library                   Systematic reviews of effects of social interventions produced
+                                   by Campbell Collaboration. Includes social welfare, crime and
+                                   justice, education
+International Bibliography of      Social sciences including economics, sociology, politics and
+Social Sciences                    anthropology
+Sociological abstracts             Sociology and related disciplines
+Social Sciences Citation Index     Social sciences
+Social care
+Social care online                 Social work and community care (UK focus)
+Social services abstracts          Social work, human services and related areas
+Social work abstracts              Social work and human services
+Education
+Australian Education index         Education (Australia)
+British Education Index            Education (UK focus)
+Education Resources Information    Education (international/US emphasis)
+Centre (ERIC)
+Information studies
+Library, Information Science       Library and information sciences
+Abstracts (LISA)
+Library, Information Science and   Free research database for library and information
+Technology Abstracts (LISTA)       science studies
+Computer sciences
+Computer and information           Broad coverage of computer sciences
+systems abstracts
+
+=== p. 131 ===
+
+IEEE/IET Electronic Library (IEL)     Electrical engineering, computer science and related
+                                      technologies
+Business and management
+ABI-Inform                            Contains full-text journals and some grey literature including
+                                      dissertations, company reports and working papers
+Business Source Premier               Business research including marketing, management,
+                                      accounting, finance and economics. Contains trade journals,
+                                      newswires, market research reports, company profiles
+EconLit                               Economics
+Emerald Insight                       Books and journals on diverse subjects including accounting and
+                                      finance, management, marketing, education, information studies
+                                      and engineering
+Also consider:                        General social sciences sources like Scopus and Social Sciences
+                                      Citation Index
+Multidisciplinary
+Web of Science core collection        Comprises:
+
+                                      •   Arts and Humanities Citation Index
+                                      •   Science Citation Index expanded
+                                      •   Social Sciences Citation Index
+                                      •   Conference Proceedings Citation Index – Science
+                                      •   Conference Proceedings Citation Index – Social Sciences And
+                                          Humanities
+                                      •   Book Citation Index
+                                      •   Emerging Sources Index
+                                      Note: these indexes can be searched either individually or
+                                      simultaneously
+Scopus                                •   Chemistry, physics, mathematics, engineering
+                                      •   Life and health sciences
+                                      •   Social sciences, psychology, and economics
+                                      •   Biological, agricultural, and environmental sciences
+Google Scholar                        Although not strictly speaking a database, this search tool
+                                      dedicated to academic content can complement your searches
+                                      and is particularly useful for citation searching
+
+Table 5.3    Grey literature sources
+
+All types                        CADTH ‘Grey Matters’ (health)
+                                 GreySource (GreyNet International)
+
+Ongoing research                 Research registers such as:
+
+                                 •   ISRCTN Register
+                                 •   WHO International Clinical Trials Registry Platform (ICTRP)
+                                 •   NIHR Funding and Awards
+
+=== p. 132 ===
+
+Governmental or quasi-        Organisational websites such as:
+governmental reports and
+                              •   World Health Organization (WHO)
+guidance
+                              •   UNICEF
+                              •   National Institutes of Health (USA)
+                              •   Center for Disease Control (USA)
+                              •   Department of Health and Social Care (UK)
+                              •   National Institute for Health and Care Excellence (NICE - UK)
+
+Conference abstracts for      Conference Proceeding Indexes such as:
+ongoing or unpublished        •   Conference Proceedings Citation Index – Science via Web
+literature                        of Science
+                              •   Conference Proceedings Citation Index – Social Science &
+                                  Humanities via Web of Science
+                              •   COS Conference Papers Index via ProQuest
+                              •   Embase (conference abstracts in health)
+                              For recent papers not listed in databases, check websites of
+                              conferences in your field, e.g. in cancer: ASCO, ESMO; or in library
+                              and information science: UMBRELLA/CILIP Conference
+
+Dissertations and theses      Databases such as:
+
+                              •   ProQuest Dissertations & Theses (Global) – also known as ‘Index
+                                  To Theses’
+                              •   Networked Digital Library of Theses and Dissertations (NDLTD) –
+                                  USA
+                              •   EThOS e-theses online (via The British Library)
+
+Information from key          For example, for environmental research:
+websites in the field of
+                              •   Organisation for Economic Co-operation and Development (OECD)
+interest
+                              •   United Nations (UN)
+                              •   World Bank
+                              •   UNESCO
+                              •   World Health Organization (WHO)
+
+  If your topic is multidisciplinary, you may want your scoping search to sample purposively
+across diverse disciplines. To conduct the scoping search, revisit your review question and make
+a list of synonyms for each concept of your query.
+  For your scoping search, concentrate on terms which are specific (i.e. a paper is highly likely
+to be relevant if they are present) rather than on broader, sensitive terms. Aim for a search that
+is sufficiently sensitive to estimate the overall size of the literature but where you can quickly
+identify key papers to help you develop your main strategy.
+  By looking at the words used in titles, abstracts and other searchable fields (such as how they
+are indexed in bibliographic databases) you can identify the most useful search terms and find
+similar material. Check the reference lists for the names of key authors whose work you might
+want to explore further. Using a small number of key papers to develop your search strategy like
+this is known as pearl growing (see Figure 5.1).
+  PubReMiner (https://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi) is another way to identify
+relevant subject headings and key authors.
+
+=== p. 133 ===
+
+Figure 5.1   Illustration of citation pearl growing
+
+4. How to construct your search strategy
+Your search strategy is more than the string of terms and syntax that you enter in a specific
+database (although that is how some use the phrase). The search strategy includes conceptu-alisation of your question, which defines how your terms are grouped together; your choice of
+sources; and any supplementary methods you use (Aromataris & Riitano, 2014). When writing
+your review, you should devote a section of the text to explaining how you made these decisions
+as well as providing an example search string.
+  If you have used a question framework such as PICOS or SPICE (see Chapter 4), you will need
+to decide:
+
+   Which concepts will I include in my search (typically population/perspective and intervention) and which will be easier to identify through the study screening process?
+
+You will also need to consider:
+
+   Which terms will I handle either as synonyms or as related terms for the same concept? For
+   example, if you are interested in ‘life expectancy’ you might include terms like ‘mortality’ which are not synonyms but relate to the same concept. Sometimes you will
+   have subgroups of synonyms, some of which will be sufficiently distinct in isolation
+   while others are only of interest if paired with another term (or if found within certain
+   disciplines).
+
+   Which sources will I search, and which supplementary search methods will I use (especially when
+   seeking information from beyond the mainstream published and indexed literature) (Cooper
+   et al., 2018c)? Consider broad multidisciplinary databases, in addition to those directly
+   related to your review topic.
+
+=== p. 134 ===
+
+   Supplementary search sources
+   You will find grey literature and supplemental searching particularly valuable for some topics.
+   However, always consider the extra time that such searching requires and prioritise either
+   high-yield or ‘high-risk’ sources. If justified, search study registries and scan reference lists of
+   other SRs, or included studies after screening abstracts and full texts.
+
+   What limits will I apply (if any)? If you are only interested in certain types of study, will you
+   use a validated search filter to identify them? Further advice on searching to populate qualitative and mixed methods reviews is found in Chapters 8 and 9. If applying date limits to your
+   search, choose a date with a methodological, practice or policy justification (e.g. the date of
+   the searches for the last review on this topic; a change of government; the introduction of a
+   new intervention; or the publication of a major report) rather than arbitrary date ranges such
+   as 5 or 10 years. You can always apply a subsequent cut-off date during the study screening
+   process if you need to, remembering to amend your review protocol to reflect this.
+
+   Applying date restrictions
+   If you are considering limiting the inclusion criteria for your rapid review by study date of publication think carefully about the implications. Could loss of studies before a particular date
+   change the bottom line of any meta-analyses? Conversely, could inclusion of older qualitative
+   studies introduce contextual factors that no longer apply? Although date restrictions offer a
+   pragmatic shortcut, they should be carefully considered for each topic.
+
+For systematic reviews, you should record all decisions, taken at the scoping stage and stated in
+your protocol, a priori to minimise bias when conducting your comprehensive searches.
+
+   Justify all limitations
+   Always consider search limits within the context of each rapid review. You may find it
+   appropriate to limit your searches to literature that describes contexts similar to your own,
+   particularly if different health systems, educational systems or political systems are likely
+
+=== p. 135 ===
+
+   to affect review results. Restricting to English-only studies is not appropriate for global or
+   multi-country reviews but may be pragmatic if time and resources for translation are limited.
+   Consider whether particular geographical regions are known for a particular problem or type
+   of intervention. Above all, note down why you made the decision and document any limitations or shortcuts for use in the Discussion of your final report.
+
+For reviews using iterative search methods it is particularly useful to keep a journal, log or
+search summary table recording decisions you make as you conduct your searches and how
+many results you find via each method (Bethel et al., 2021).
+
+5. How to search bibliographic databases
+Although bibliographic databases will not identify everything you seek for your review, they
+typically form a substantial part of your search strategy. Evidence of robust, well-structured
+database searching will reassure your audience that your review has made every effort to identify
+all the relevant literature.
+  Bibliographic databases generally offer more advanced search features than other sources,
+allowing greater control over sensitivity and specificity. Search syntax varies from platform to
+platform (e.g. Ovid versus EBSCO for example), but we highlight common features to look for
+when checking ‘search tips’ or ‘Help’ pages in the respective sources. Sample search strings run
+across various database platforms are provided later in this chapter (Exercise 5.2).
+
+Free text searching
+All databases offer a basic ‘free text’ search, but the way this works varies considerably between
+platforms. Although some databases contain the full text of articles, you should not assume that
+this is the case; more often than not, full text is hosted elsewhere, meaning you will only be
+able to search article titles, abstracts and index fields. As you enter your search terms consider
+applying truncation to find singular/plural forms and other word endings (some databases
+automatically use a process called lemmatisation). Manual truncation typically involves placing an asterisk (*), or occasionally a dollar sign ($), at the end of the stem of a word. Be careful
+not to truncate too early (nurs* finds nurse, nurses and nursing, but also nursery). You can use
+wildcards where spellings vary in the middle of a word (e.g. on the Ovid platform colo?r will
+find both colour (UK) and color (US); in wom#n the # character substitutes for the a or e in
+woman or women).
+  If searching for phrases, rather than individual terms, be sure to check database help pages
+to confirm how these are interpreted; some platforms assume you are searching for an exact
+phrase, others simply look for terms occurring near to one another (you can sometimes counteract this by encasing the phrase within quotation marks, e.g. ‘zero-based budgeting’). The
+interpretation of hyphenated words and phrases can vary between databases: some platforms
+will treat a hyphen as a space. Check the help pages of the database(s) you are searching, or if
+in doubt search for all variant forms (e.g. socioeconomic or socio-economic) and combine them
+with OR.
+
+=== p. 136 ===
+
+Thesaurus searching
+Some databases, generally those which specialise in a particular discipline, offer a controlled
+vocabulary in the form of subject headings which are applied as indexing to records as they
+are added to the database. Subject headings aim to address the inconsistencies in terminology
+used by authors and make similar articles easier to discover. They do this by standardising the
+way studies are categorised using a common scheme – much as books on similar subjects would
+be shelved together in a library.
+     How useful these headings are will depend on how comfortably they match the facets of
+your review question, but where available they may suggest terms you would not otherwise
+have thought to include in your search. Moreover, thanks to the human judgement used in the
+indexing process, the presence of a term in the subject heading field often yields a higher degree
+of specificity than the same term in an abstract alone.
+     You will find that hierarchies of subject headings are helpful in suggesting how you might
+broaden your search (if required), or in identifying narrower terms beneath an umbrella concept
+in which you are interested.
+
+ Population interested in = Teenagers
+ ASSIA Thesaurus term = Adolescents
+ [+] indicates there are narrower terms below the term.
+
+ Adolescents [+] (Use For Teenagers)
+ Broader Terms = Children [+]
+ Narrower Terms =
+
+ •    Autistic adolescents
+ •    Behaviour disordered adolescents
+ •    Blind adolescents
+ •    Conduct-disordered adolescents
+ •    Deaf adolescents
+ •    Developmentally-disabled adolescents
+ •    Disadvantaged adolescents
+ •    Emotionally-disturbed adolescents
+ •    Gifted adolescents [+]
+ •    Hearing-impaired adolescents
+ •    Hyperactive adolescents
+ •    Learning-disabled adolescents
+ •    Low-intelligence quotient adolescents
+ •    Reading-disabled adolescents [+]
+ •    Runaway adolescents [+]
+ •    Sexually-abused adolescents
+ •    Sick adolescents
+ •    Special-needs adolescents
+ •    Violent adolescents
+ •    Visually impaired adolescents
+
+Figure 5.2 Example of thesaurus searching
+Note: Subject headings vary between databases, which is one of the reasons why, for systematic
+searching, it is recommended to search databases one at a time (even if they are on the same platform).
+It should also be noted that these schemes evolve over time – newer concepts (e.g. ‘social distancing’)
+may take some time to be recognised and appropriately indexed, and older headings may change their
+meaning – check the scope note if you are uncertain whether or not a heading is relevant to your topic.
+
+=== p. 137 ===
+
+Boolean, adjacency and proximity operators
+Once you have identified the search terms you will use for each of your key concepts, you can
+combine them into a search string using Boolean logic.
+     In simple terms:
+
+1.     OR is used to combine synonyms, or terms which relate to the same concept. By combining
+       terms with OR your search is broadened.
+2.     AND is used to combine different concepts which must both be present for an article to be
+       retrieved. By combining terms with AND you are narrowing your search.
+3.     NOT is used to exclude unwanted terms so is another way of narrowing your search.
+
+Using ‘OR’ and ‘AND’ will be sufficient for many searches. ‘NOT’ should be used with caution
+since it can have unintended ‘double negative’ effects (e.g. if you exclude a term which is mentioned in an article only in the context of a sentence saying the authors have excluded it). If you
+do decide to use NOT, it is always worth examining at least a sample of the records you have
+excluded to check that the effect is as you intended.
+     Since databases are primed to recognise and act upon Boolean commands, you should be careful around everyday phrases which contain one of these terms, for example:
+
+     low- and middle-income countries would be interpreted as a Boolean search for the word
+     ‘low’ AND the phrase ‘middle-income countries’ (not necessarily occurring together). To
+     avoid this, enclose the entire phrase in quotation marks.
+
+If one of your search concepts could be expressed in a number of different phrases, you might prefer to use a proximity search (sometimes known as ‘adjacency searching’). This looks for two
+or more terms occurring close to each other, within a specified number of words, in any order.
+     For example, using the syntax on Ovid databases:
+
+     (education* or academic*) adj3 (achievement* or attainment*)
+
+     would find phrases such as
+
+     ‘educational attainment’
+
+     ‘attainment in educational settings’
+
+     ‘academic or scholarly achievements’
+
+     (or any other phrase containing at least one word from the first set of brackets and one from
+     the second).
+
+Other database platforms use different proximity operators such as NEXT, NEAR or WITHIN –
+always check the help pages or ‘search tips’ for the databases you use.
+
+Limits
+Most databases offer the facility to apply limits to your search results. For example, you can
+often limit by language - though you should consider the potential risk of bias involved in
+doing so (Pieper & Puljak 2021). You can also limit results by year of publication, if there is a
+reasonable justification for doing so; though if you change your mind about your cut-off date
+
+=== p. 138 ===
+
+it is much easier to exclude records on this basis at the screening stage than to rerun all your
+searches for the years you missed. Some databases offer other limits (e.g. limiting by age group
+or study type); however, these are based on indexing which can occasionally be inaccurate or
+incomplete (especially for ‘in-process’ records recently added to the database). For this reason,
+we would advise using such limits for targeted, specificity-maximising searches only, rather than
+for those where sensitivity is critical.
+
+Search filters
+Search filters (sometimes known as hedges) are expert-designed search strategies which you can
+use ‘off the shelf’ and append to your topic search as a more robust and reliable way of limiting
+the results.
+  The best search filters have been carefully developed and tested against a ‘gold standard’
+set of results to verify their sensitivity and specificity (a process known as ‘validation’). Search
+filters are particularly useful for identifying types of research (e.g. randomised controlled trials;
+qualitative studies) or limiting results by geography (e.g. a filter listing all low- and middle-income countries). The Information Specialists’ Sub-Group of InterTASC (ISSG) maintains a filter resource of common search filters (Box 5.1).
+
+   The ISSG search filter resource
+   Access the ISSG Search Filter Resource (https://sites.google.com/a/york.ac.uk/issg-searchfilters-resource/home). The ISSG Search Filter Resource is a collaborative venture to identify,
+   assess and test search filters designed to retrieve research by study design or focus. Browse
+   through the list of study design or topic filters and select one entry. What search filters exist
+   for your chosen study design/topic?
+
+Saving your searches
+Many database platforms allow you to save your searches (advisable to allow you to rerun them
+quickly at a later date if required). You may need to rerun your searches if you realise you made
+an error or omitted an important term, or simply because you want to know if any new papers
+have been published while you have been working on your review – something which is particularly important with emerging topics and the advent of the ‘living systematic review’. Some
+databases offer optional email alerts for newly added articles matching your search terms.
+
+Searching the grey literature
+Depending on your review topic, you may be interested to a greater or lesser extent in grey (gray
+or fugitive) literature sources. Grey literature (which might include guidelines, reports,
+
+=== p. 139 ===
+
+pamphlets or dissertations) is identified as such because it is often more difficult to obtain than
+that which is published through the mainstream channels (Adams et al., 2016).
+  No single search engine covers all grey literature sources; you should consider what types of
+grey literature are required and then develop a strategy for finding them (some possible sources
+are suggested in Table 5.3). Your overall aim should be to utilise a targeted approach that balances practicality with methodological rigour (Hoffecker, 2020).
+
+   Types of grey literature
+   •   Conference papers
+   •   Official publications
+   •   Reports from non-governmental organizations (NGOs) and charities
+   •   Unpublished or ongoing research
+   •   Dissertations or theses.
+
+You will find some types of grey literature via targeted searching in Google, but you will often
+need to visit organisational websites to access content not indexed by search engines. Keep
+records of your grey literature searches so you can report how you identified the evidence you
+find (Stansfield et al., 2016).
+
+6. How to use supplementary searching
+You might find it useful to use supplementary search techniques to ensure that nothing has
+been missed by your main topic searches (Delaney & Tamás, 2017; Cooper et al., 2018c).
+
+Checking bibliographies and reference lists
+One way to verify your search strategy is to check the reference lists of your included papers for
+anything you might have missed. If you do notice any papers which appear relevant but were
+not retrieved, spend some time establishing why that was. Were they indexed in the sources
+you searched? Did you omit an important search term? Would it have made a difference to your
+review overall to miss these papers (and others like them)? If so, you may want to run some
+targeted searches to see what else was missed.
+
+Author searching
+If your scoping search identified a number of key authors working in your topic area, you may
+find it useful to search for them by name to find their other publications, even without including your other terms (provided their names are sufficiently uncommon). Consider contacting
+
+=== p. 140 ===
+
+authors directly to ask if they have any ongoing research projects which would be relevant to
+your review – they may have interim findings they would be willing to share with you. Even if
+you do not receive a response, you can report the fact that you made multiple efforts to identify
+all the relevant literature rather than relying on database searching alone.
+
+Citation searching
+If you have older papers that are highly relevant, another way to verify your searches is to look
+for more recent papers that have cited them. Citation searching (sometimes known as ‘forward
+chaining’ or ‘forward citation tracking’) is most powerful on large, multidisciplinary databases
+like Scopus or Web of Science; but you can also run simple ‘cited by’ searches using Google
+Scholar. Citation searching is most helpful for papers that are at least five years old, and which
+have been cited mainly within their own discipline (for their findings) rather than for an innovative methodological approach (which might have been applied to unrelated research).
+
+Hand searching
+Many published reviews make reference to supplementary ‘hand searching’ (or ‘handsearching’)
+which traditionally referred to browsing printed editions of a shortlist of highly relevant journals in order to identify any studies missed by your database searches. Now that many major
+journals are online only, this practice is somewhat archaic but the term is still widely used.
+A modern counterpart might be to browse online tables of contents or even search the full
+text of online journals (the latter option should not replace your database search, since the
+search functionality on most journal websites is far less sophisticated, but it could allow you
+to search for highly specific terms which were not included in the title, abstract or other
+searchable fields).
+
+7. How to manage your references
+Management of references greatly assists the process of a systematic literature review. You should
+be able to account for all references retrieved in the search throughout the systematic literature
+review to ensure your methods are transparent.
+  Electronic reference management software such as EndNote or Mendeley allows you to
+directly import references from individual databases (Peters, 2017). You can sort and search
+within your library of references; add descriptive tags or labels while screening them; and insert
+citations directly into your final report to automatically generate a reference list and bibliography
+(in diverse formats).
+  Available reference management packages include free and subscription-only, desktop and
+online options. Generally, web-based reference management systems are easier to use when
+you want to share references within a team, but they may not offer as many features as desktop
+software (e.g. they may offer fewer output citation styles). Some free packages (like Mendeley)
+offer a ‘premium’ option if you need increased storage space.
+
+=== p. 141 ===
+
+Table 5.4 Comparison of features in reference management packages (information
+correct at time of publishing)
+
+EndNote       •   Online (free)/Desktop (paid)
+              •   Online version easy to set up and share folders
+              •   Desktop version more customisable and has many more output styles (tailored
+                  for specific journals), upgraded annually
+              •   Long established and widely supported
+Mendeley      •   Online/Desktop (free, premium available)
+              •   Quick to learn, easy to set up and share
+RefWorks      •   Online (paid)
+              •   Some organisations have an institutional subscription
+Zotero        •   Online (free – open source)
+              •   A powerful, free tool but may involve a steeper learning curve than some of
+                  the other options above
+
+  Table 5.4 shows some of the features of common referencing packages; see Parabhoi et al.
+(2017) for a more in-depth discussion of the features of Mendeley and Zotero in particular.
+You can find a list of software for reference management in the Systematic Review Toolbox (SR
+Toolbox) (www.systematicreviewtools.com), an online resource of tools to assist with the systematic review processes.
+
+   Using software to accelerate your rapid review
+   Where available you should use online systematic review software (e.g. Covidence, DistillerSR,
+   Rayyan or EPPI-Reviewer) to streamline your review process. Reuse templates (e.g. a PRISMA
+   flowchart generator) and forms (e.g. quality assessment checklists) across reviews to save
+   time. Be aware that it takes time to learn new software which is time best spent in between,
+   not during, rapid reviews.
+
+8. How to report the search process
+If you are to demonstrate that you have followed systematic search processes you need to retain
+thorough documentation of all your search efforts. Increasingly, information specialists are
+devising methods to improve search documentation (Rader et al., 2014a). These include crafting
+an accompanying ‘search narrative’ (Cooper et al., 2018b) and use of a search summary table to
+improve search methods, results and efficiency (Bethel et al., 2021). Many databases allow you
+to generate an electronic copy of the strategy (typically as a text file to be copied and pasted into
+a Word document).
+
+=== p. 142 ===
+
+PRISMA-S checklist (for reporting literature searches in systematic reviews)
+
+Section/topic                        Checklist item                                                                                 reported
+Database name                   1    Name each individual database searched, stating the platform for each.
+Multi-database searching        2    If databases were searched simultaneously on a single platform, state the name of the
+                                     platform, listing all of the databases searched.
+Study registries                3    List any study registries searched.
+Online resources and browsing   4    Describe any online or print source purposefully searched or browsed (e.g. tables of
+                                     contents, print conference proceedings, web sites) and how this was done.
+Citation searching              5    Indicate whether cited references or citing references were examined and describe any
+                                     methods used for locating cited/citing references (e.g. browsing reference lists, using a
+                                     citation index, setting up email alerts for references citing included studies).
+Contacts                        6    Indicate whether additional studies or data were sought by contacting authors, experts,
+                                     manufacturers, or others.
+Other methods                   7    Describe any additional information sources or search methods used.
+SEARCH STRATEGIES
+Full search strategies          8    Include the search strategies for each database and information source, copied and pasted
+                                     exactly as run.
+Limits and restrictions         9    Specify that no limits were used, or describe any limits or restrictions applied to a search
+                                     (e.g. date or time period, language, study design) and provide justification for their use.
+Search filters                  10   Indicate whether published search filters were used (as originally designed or modified),
+                                     and if so, cite the filter(s) used.
+Prior work                      11   Indicate when search strategies from other literature reviews were adapted or reused for a
+                                     substantive part or all of the search, citing the previous review(s).
+
+=== p. 143 ===
+
+ Section/topic                                    Checklist item                                                                                            reported
+ Updates                                  12      Report the methods used to update the search(es) (e.g. rerunning searches, email alerts).
+ Dates of searches                        13      For each search strategy, provide the date when the last search occurred.
+ PEER REVIEW
+ Peer review                              14      Describe any search peer review process.
+ MANAGING RECORDS
+ Total records                            15      Document the total number of records identified from each database and other
+                                                  information sources.
+ Deduplication                            16      Describe the processes and any software used to deduplicate records from multiple
+                                                  database searches and other information sources.
+Source: Rethlefsen, M.L., Kirtley, S., Waffenschmidt, S. et al. PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.
+Systematic Reviews 10, 39 (2021). https://doi.org/10.1186/s13643-020-01542-z
+
+=== p. 144 ===
+
+Documenting your search
+A well-documented search (Niederstadt & Droste, 2010) should record:
+
+•     Databases searched (including platform or provider, e.g. MEDLINE via Ovid, CINAHL via
+      EBSCO and years covered).
+•     Date searches conducted.
+•     Description of search strategy (how your question was conceptualised; terms used and how
+      these were combined) in methods section.
+•     Any filters applied to your searches (including citations where required).
+•     Numbers of results retrieved at each stage (from each search/in total/after the removal of
+      duplicates).
+•     At least one example search string reproduced in full (including numbers of records
+      retrieved) as an appendix. Some systematic reviews provide all searches as supplementary
+      material; others will make full searches available on request.
+
+The PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) statement
+(Page et al., 2021) is an established standard for authors reporting systematic reviews and meta-analyses. PRISMA-S (Box 5.3) is an extension designed to address the variability of reporting of
+search methods.
+    Note that the PRISMA-S checklist uses the term ‘search strategy’ to refer to the terms and syntax entered into each database. Although this usage is prevalent, we prefer to use ‘string’ for the
+specific terms and syntax and the broader term ‘strategy’ to refer to the overall approach used
+to identify evidence.
+    Other standards are proposed for reporting literature searches, including the STARLITE mnemonic (Sampling strategy, Type of study, Approaches, Range of years, Limits, Inclusions and
+exclusions, Terms used, Electronic sources) (Booth, 2006).
+    Use these examples to help you, and you may also find it useful to consult existing reviews
+to see how other authors have reported the search write-up. A recent synthesis (Chojecki &
+Tjosvold, 2020) identified a longer list of search elements that you may wish to report for maximum transparency. It is important to be consistent with the method you use across all the
+searching for your review, reporting the same elements each time.
+    Now we have explored the stages of the systematic literature search process, we move on to
+look at a case study of the search process. Complete Exercise 5.1 which examines the search
+methods used in a published systematic review.
+
+    Case study of the search process
+    Table 5.5 details methods of identifying literature for a systematic review on housing interventions for ‘housing-vulnerable’ adults and the relation to well-being (Chambers et al., 2018).
+    The team retrieved 4540 unique references. Consider Table 5.5 and answer these questions:
+
+    1. How do you rate this search in terms of the number and types of sources searched? Is this
+       adequate?
+
+=== p. 145 ===
+
+2. What disadvantages can you identify in the author’s search approach?
+3. What aspects of the search process in the case study might you apply to your own review?
+
+Table 5.5 Anatomy of the search process
+
+                                      Description of review
+The objective of this review is to identify evidence on the effectiveness of housing
+interventions for ‘housing-vulnerable’ adults with an emphasis on well-being outcomes
+Focused review question          Details of the search process used in this review
+Population: ‘Vulnerable’         Key stage 1: Who should conduct the searches?
+groups (e.g. homeless            Searches were conducted by ‘highly experienced information
+persons, asylum seekers,         specialists’ as part of the project team
+victims of abuse)
+                                 Key stage 2: Purpose of search
+Interventions: Housing First;
+independent living; sheltered    ‘The aim of the searches was to identify all evidence on
+accommodation …                  housing interventions for housing-vulnerable people
+                                 that relate to the eight dimensions of well-being under
+Comparison – Not Applicable
+                                 consideration’
+Outcomes:
+                                 Key stage 3: Preparation (scoping)
+Well-being (Office of National
+                                 Initial scoping search including outcome terms for eight
+Statistics 2015 definition)
+                                 dimensions of well-being found few relevant records,
+Context: United Kingdom          suggesting that terminology was inconsistent and relevant
+                                 literature was being missed by inclusion within the search
+                                 Key stage 4: Search strategy
+                                 Broad search combining terms for housing with interventions
+                                 and vulnerable population groups (but not specifying
+                                 outcomes)
+                                 Key stage 5: Database searches
+                                 Medline, EMBASE, EconLit and PsycINFO (all via OVID), ASSIA
+                                 (via ProQuest) and Social Sciences Citation Index (via Web of
+                                 Science)
+                                 Key stage 6: Supplementary searches
+
+                                 • Scrutiny of introduction/background/reference list of
+                                   papers retrieved to identify additional papers
+                                 • Citation searching of key papers
+                                 • Search of selected topic relevant UK websites based on
+                                   research activity and recommendations from review
+                                   advisory board members (charities, think tanks and other
+                                   organisations with interest in housing for vulnerable people)
+                                 • Search discussion papers, publications and activities of UK
+                                   university research centres and groups focused on housing
+                                   research; targeted call for evidence through expert network
+                                   (the What Works Centre for Wellbeing)
+                                 Key stage 7: Reference management
+                                 Results imported into EndNote.
+                                 Key stage 8: Reporting
+                                 Sample Medline search strategy and details of the
+                                 supplementary search methods provided (in appendices of
+                                 original report)
+
+=== p. 146 ===
+
+Types of literature reviews
+Remember that systematic approaches to reviewing the literature do not necessarily require
+the fully exhaustive search that often characterises systematic reviews. Table 5.6 examines the
+search methods used by different types of review.
+
+Translating your review question into a search strategy
+As you read this chapter you will no doubt be considering how the techniques discussed apply
+to your own review topic.
+  In Chapter 4, we introduced frameworks such as PICO(S) and SPICE to conceptualise your
+question. While you will find it helpful to identify all your key concepts (or facets) for the sake
+of clarity, you will not necessarily have to include all those concepts as search terms within your
+search strategy. When searching to support systematic reviews of effectiveness, often using the
+PICO(S) model, guidance suggests that search strategies focus on population, intervention(s)
+and study type(s). Adding terms for outcomes may significantly reduce the sensitivity of a
+search, something that would run the risk of missing relevant studies for this type of review
+(Frandsen et al., 2020).
+  Exercise 5.2 involves examining sample search strings to assess how effectively they have
+translated the review question.
+
+   Examining search strings
+   These sample search strings cover diverse topics and database platforms. Look at each in
+   turn, and consider:
+
+   • How would you rate the search? Have the concepts of the research question (population,
+     intervention/exposure, outcome(s), etc.) been successfully translated into search terms?
+     Are there any other search terms that you might have included?
+   • What types of searching (thesaurus searching, free text searching) have been used and are
+     these appropriate?
+   • Which search tools have been used (Boolean operators, truncation, etc.)? Have these tools
+     been used successfully?
+
+=== p. 147 ===
+
+Table 5.6 Types of review
+
+Type of Review           Definitely Use        Consider Using ?    Not Essential X          Example
+Scoping review:          — Database Searching   — Grey Literature   — Reference List         Kelly et al. (2018) Walking on sunshine: scoping review of the
+— Aims to identify                              — Ongoing             Checking               evidence for walking and mental health. British Journal of Sports
+  key research in the                             research          — Citation Searching     Medicine, 52 (12): 800-806.
+  topic area                                                        — Contact with experts   This scoping review aimed to identify and present the evidence
+— May restrict the                                                                           base about the benefits of walking, to establish what is known and
+  number of sources                                                                          what remains unknown about the relationship to eight specific
+  searched to key                                                                            mental health outcomes.
+  ones in topic                                                                              Searches covered MEDLINE, ProQuest and Web of Science and
+  discipline(s)                                                                              combined synonyms for walking with terms for each of the eight
+— Often involve an                                                                           outcomes. No geographical limits were applied.
+  assessment of
+  ongoing research.
+
+Mapping review:          — Database Searching   — Reference list                             Emonson et al. (2019) Class time physical activity programs for
+— Several examples       — Grey Literature        checking                                   primary school aged children at specialist schools: a systematic
+  exist of exhaustive,                          — Citation                                   mapping review. International Journal of Environmental Research
+  comprehensive                                   Searching                                  & Public Health, 16 (24): 5140-5170.
+  searching in                                  — Contact with                               This review aimed to identify and map class time physical activity
+  mapping reviews.                                experts                                    programmes that have been implemented in specialist schools
+— It would be                                   — Ongoing                                    and classes. A search string was developed around synonyms for
+  reasonable to                                   research                                   participants (children with disabilities), setting (special schools)
+  use any/all of the                                                                         and intervention (physical activity) and run on eight bibliographic
+  techniques (be                                                                             databases. Additional searches for grey literature including
+  guided by your                                                                             dissertations were conducted and reference lists of included
+  topic area and/or                                                                          studies were checked.
+  aim of review).
+
+=== p. 148 ===
+
+Type of Review           Definitely Use          Consider Using ?      Not Essential X            Example
+Systematic review:       Database Searching       — Citation                                       Fuller et al. (2019) First, do no harm: a systematic review of
+                                                    Searching                                      deforestation spillovers from protected areas. Global Ecology and
+— Exhaustive,            Grey Literature
+                                                  — Contact with                                   Conservation, 18: e00591.
+  comprehensive          Reference List
+                                                    experts                                        This review examined the impact of national parks and
+  searching of           Checking
+  published and                                   — Ongoing                                        other conservation initiatives on leakages and spillovers into
+  unpublished                                       research                                       neighbouring areas. The authors followed a protocol developed
+  literature following                              (especially in                                 according to discipline-specific guidance. Searches (combining
+  a pre-defined                                     fast-moving                                    terms for deforestation, protected areas and outcomes such
+  protocol and                                      fields)                                        as displacement) were run on two broad multidisciplinary
+  reporting methods                                                                                database platforms (Web of Science and Scopus) plus ProQuest
+  in full.                                                                                         Dissertations and Theses and Google Scholar. Bibliographies of
+                                                                                                   included studies were checked for missed studies. A PRISMA
+All reasonable steps                                                                               flowchart reports the process by which included studies were
+to identify relevant                                                                               identified.
+studies should be
+used.
+Qualitative              Database Searching       Hand Searching                                   Shakibazadeh et al. (2018) Respectful care during childbirth in
+systematic review:                                                                                 health facilities globally: a qualitative evidence synthesis. BJOG:
+                         Grey Literature          Ongoing research
+                                                                                                   An International Journal of Obstetrics & Gynaecology, 125(8):
+May employ selective     Reference List                                                            932—942.
+or purposive sampling    Checking
+                                                                                                   This review presents an evidence-based typology of respectful
+Database searching       Citation Searching                                                        maternity care in health facilities globally. It conducted an
+may extend beyond
+                         Contact with experts                                                      extensive search of diverse sources, including electronic
+core databases to
+                                                                                                   databases, web resources and other grey literature including
+include theses and
+                                                                                                   theses and unpublished reports. In addition the authors
+unpublished reports.
+                                                                                                   contacted experts in relevant fields and checked the reference
+Emphasis may be                                                                                    lists of relevant papers. Search strategies are reported in three
+placed on using other                                                                              Appendices.
+search techniques
+                                                                                                   See Chapter 8 for more information about qualitative systematic
+(such as citation
+                                                                                                   reviews, including search approaches
+searching and contact
+with experts)
+
+For a more extensive set of examples of different review types and associated search requirements, see Sutton et al. (2019)
+
+=== p. 149 ===
+
+Research question A – Electricity pylons and schools
+Is the location of schools near to electromagnetic fields from electricity pylons liable to have
+adverse health effects on schoolchildren?
+
+   Suggested search string for MEDLINE via OvidSP:
+
+     1.   exp Schools/
+     2.   school*.ti,ab.
+     4.   location*.ti,ab.
+     5.   near.ti,ab.
+     6.   next to.ti,ab.
+     7.   adjacen*.ti,ab.
+     8.   proximity.ti,ab.
+     9.   4 or 5 or 6 or 7 or 8
+    11.   exp Electromagnetic Fields/
+   12.    electromagnetic* field*.ti,ab.
+
+Research question B – ICT interventions to facilitate maths
+problem solving
+Do information and communications technology (ICT) interventions improve primary schoolchildren’s performance in solving maths problems?
+
+   Suggested search string for ERIC via EBSCO:
+
+   S1 DE ‘Elementary Schools’
+
+   S2 primary school*
+
+   S3 DE ‘Children’
+
+   S4 child* or infant* or junior*
+
+   S5 S1 OR S2 OR S3 OR S4
+
+   S6 (DE ‘Problem Solving’)
+
+   S7 DE ‘Information Technology’
+
+   S8 ICT or ‘I.T.’ or information technolog* or (‘information and communication* technolog*’
+   or computer* or tablet or iPad* or hand-held device*)
+
+   S9 S7 OR S8
+
+   S10 DE ‘Mathematics Achievement’ OR DE ‘Mathematics Skills’
+
+   S11 math or maths or mathematics or numeracy
+
+   S12 S10 or S11
+
+   S13 S5 AND S6 AND S9 AND S12
+
+=== p. 150 ===
+
+Research question C – The benefits of solar-powered travel
+Is the provision of solar-powered cars likely to result in benefits to society in an industrialised nation?
+  Note that this search focuses on environmental and financial benefits.
+
+   Suggested search string for Science and Social Sciences Citation Indexes via Web of Science:
+
+   #1 Topic = (solar power*) AND (car* OR vehicle* OR automobile*)
+
+   #2 Topic = (environment* OR pollut* OR emission*)
+
+   #3 Topic = (financ* OR econom* OR cost effective* OR cost benefit*)
+
+   #4 Topic = #2 OR #3
+
+   #5 Topic = #1 AND #4
+
+Research question D – Early discharge of stroke patients
+Is early discharge of stroke patients from hospital into the community more effective than
+standard hospital care?
+
+  Suggested search string for EMBASE via Ovid:
+
+    1.    exp stroke patient/ or exp stroke/
+    2.    stroke*.ti,ab.
+    3.    cerebrovascular accident*.ti,ab.
+    4.    1 or 2 or 3
+    5.    exp hospital discharge/
+    6.    early adj2 discharge*.ti,ab.
+    9.    meta-analys:.mp. or search:.tw. or review.pt.
+
+Note how this search demonstrates the use of a search filter (step 9), in this case devised by the
+Health Information Research Unit at McMaster University. Although much shorter than many
+published filters, this short string has been found to retrieve successfully 92% of systematic
+reviews when validated against a ‘gold standard’ set of articles (Wilczynski et al., 2007).
+  Now that you have examined existing search strings it is time to turn your attention to developing one for your own topic.
+
+   Planning a literature search for your own review
+   Think …
+
+         about the purpose of your review – how comprehensive a search do you need to fulfil the
+         purpose of your review?
+
+=== p. 151 ===
+
+   about your focused question – what types of databases may index articles on your topic
+   area? Which terms might describe each concept in your focused question?
+
+   do you know of any key citations or authors in your topic area? (Hint: ideally these papers
+   should have been published at least 5 years ago in order to have accrued sufficient impact.)
+
+Decide on …
+
+   database sources to search, including sources of unpublished or grey literature (for assistance with identifying grey literature sources, see Table 5.3);
+
+   additional searching techniques: reference list checking, contact with experts, citation searching;
+
+   using a table, make a list of possible search terms for each concept within your focused
+   question – think of all the synonyms and consider which terms might allow you to broaden
+   or narrow each concept as required;
+
+   identify thesaurus terms for your search terms;
+
+   include free text terms (words you will search for in titles, abstracts and other ‘unstructured’ fields);
+
+   combine your search terms using Boolean operators (combine synonyms for each concept
+   with OR; then combine different concepts with AND).
+
+Pearl growing and author searching
+In the grid provided (also available on the companion website) list three or four key citations
+you might consider useful ‘pearls’ in your topic area. List authors or institutions who might
+have conducted research studies in your topic area.
+
+   Candidate pearls: 		                 Candidate authors or institutions for author searching:
+
+   1								1
+   2								2
+   3								3
+   4								4
+
+Sources to search
+Using Tables 5.2 and 5.3, complete the search planning worksheet in the Toolbox section of
+this chapter (also available on the companion website), listing the different sources that would
+be useful to search for your chosen review topic area. Check your list with a librarian/information
+specialist if possible.
+
+=== p. 152 ===
+
+       At the end of Chapter 4 (Defining your scope), you defined your review question as
+   concepts and made a list of synonyms for each concept. The next stage is to identify thesaurus and free text terms for each synonym within a concept. Once you have derived a
+   set of terms for each concept, you assemble your search strategy using the steps outlined
+   in Box 5.3.
+
+   Assembling your search strategy
+   1. Combine terms within the same concept (all population search terms) using OR; and terms
+      for different concepts (population AND intervention terms) with AND.
+   2. First combine population AND intervention/exposure terms to refine your strategy.
+   3. If your search result set is unmanageable, combine population AND intervention/exposure
+      AND outcome terms.
+   4. If your search result set is still unmanageable, consider either combining with comparison
+      terms OR applying limits. Note that the first step of the screening process is to read the
+      titles to ascertain whether the reference will be potentially relevant to answer your review
+      question. This is relatively quick to do, so bear this in mind when considering the number of
+      search results you can manage.
+
+   Note: If your search does not fit a ‘PICOS’ question structure (see Chapter 4), carry out the
+   same process using the headings for the structure you have chosen to define your question
+   (e.g. SPICE), brainstorming terms, and combining together in a similar way.
+       Tip: if you are struggling to assemble a search, take a look at the examples in the
+   ‘Translating your review question’ section (above) for guidance.
+
+TOOLBOX – SEARCHING THE LITERATURE
+We have devised a template (also available on the companion website) for you to record which
+sources you will search to find the literature to answer your review question. Adjust the number of sources you will search according to the requirements of your topic and the time and
+resources available.
+  Also on the companion website you will find our ‘source tracker’ spreadsheet which allows
+you to record your search process as you go along, keeping track of the databases and websites
+you have searched; what you found there; and why you may wish to include it. Some reviewers prefer to use specialist reference management software (e.g. EndNote or Mendeley) for this
+purpose (Peters, 2017).
+
+=== p. 153 ===
+
+                                                 Journals (hand
+ Databases              Grey literature          searching)               Experts to contact?
+
+SUMMARY
+Systematically searching the literature ensures that you identify relevant studies for your review
+question. The breadth and type of approach you take will depend on the type and topic area of
+your review.
+  This chapter has outlined eight key stages in the process of identifying evidence: deciding
+who is best equipped to conduct (or advise on) the search; establishing your aims; preparation (scoping); devising a search strategy; searching databases; supplementary searching;
+managing references; and reporting your methods.
+  Techniques such as thesaurus searching, free text searching, Boolean operators and
+application of limits will help you to develop a search strategy for electronic databases. Sources
+to search are determined by your subject area, and may include electronic databases, registries
+of ongoing research, websites and conference proceedings. Central to systematically reviewing
+the literature is that your review question and your search approach must be fit for purpose
+(according to review type) and designed to identify the studies you need to answer your review
+question. It is good practice for all types of literature review to report how evidence has been
+identified so that someone else might reproduce the process from the methods described; this
+will strengthen your review.
+
+=== p. 154 ===
+
+                    key learning points
+
+  • Pre-plan your search and conduct a scoping search.
+  • Select the most appropriate sources to search.
+  • Take into account limitations of the literature, such as inconsistent terminology and problematic indexing, and include alternative search terms (including those used in known
+    papers).
+  • Select the most appropriate search techniques for the sources that you have chosen.
+    Consider whether it is appropriate to use search filters.
+  • Employ supplementary search approaches (e.g. citation searching as well as traditional
+    database searching).
+  • Evaluate your search results, modify your search strategies accordingly and be sure to
+    document the search process to allow you to report it accurately when you write up your
+    review.
+
+                    frequently asked questions (FAQs)
+
+  FAQ 5.1 How do I identify synonyms for my research topic concepts?
+  You can identify synonyms during the scoping search. The more you read in your area, the
+  more familiar you will become with the terminology used. Consulting experts at the planning
+  stage will help you to confirm whether you have overlooked any search terms. If you discover
+  later in the process that you have missed a key term, you may need to run a follow-up search
+  to see what you have missed (see FAQ 5.4 below).
+
+  FAQ 5.2 How do I know when to stop searching?
+  There is some debate on the stopping rules to apply to searching for reviews. If your
+  topic is relatively narrow and focused, checking reference lists may give you a clue as you
+  might start to recognise the same set of papers being cited repeatedly, suggesting you
+  have identified all the relevant literature. For broader topics this may not work. Qualitative
+  reviewers may aim to reach data saturation where new themes are no longer identified
+  (Booth, 2010).
+
+  FAQ 5.3 Is it sensible to use NOT in a search strategy?
+  Use the operator NOT with caution as it may exclude studies that are potentially relevant. If,
+  for example, you use NOT to exclude children from your search results, you may miss studies
+  which cover multiple age groups, or studies where the abstract makes reference to earlier
+  studies in children, while itself focusing on adults (a ‘double negative’ effect). NOT tends to
+  be most useful as part of a search filter, excluding document types such as letters and editorials, or to eliminate records found in a previous version of the search, as outlined below,
+  but if you do decide to use NOT we recommend that you examine at least a sample of the
+  studies excluded.
+
+=== p. 155 ===
+
+FAQ 5.4 I have completed my searching, but have now discovered an additional
+search term that might be useful, what should I do?
+Add the term to your search strategy and rerun the search to see if additional studies are
+identified. This is one situation where you can usefully apply the Boolean NOT operator to
+exclude results already screened from your original search:
+
+   #20 [original search string]
+
+   #21 [search string with additional term]
+
+   #22 [#21 NOT #20]
+
+FAQ 5.5 Should I use abbreviations in my search terms?
+Abbreviations can be useful in search strategies. However, if you find your search results
+increase dramatically with large numbers of irrelevant references, check that the abbreviation is not meaningful in multiple different contexts. For example, a search for evidence on
+attendance at GP appointments, focusing on factors that predict ‘did not attend’ rates, using
+the abbreviation ‘DNA’, would retrieve a large number of irrelevant studies relating to ‘deoxyribonucleic acid’.
+
+FAQ 5.6 I have noticed substantial duplication between the databases I have
+searched, how do I handle this?
+Reference management software allows you to import all references from each bibliographic
+database you search into a single reference management library and to perform an automated duplicate check. You may find it necessary to perform an additional manual duplicate check as automated checks only identify duplicates that are an exact match in format.
+Experimental methods of de-duplication exist to improve sensitivity considerably over the
+default settings (Bramer et al., 2016). When writing up, note the total number of references
+found before de-duplication, and the total number of unique references (after de-duplication),
+and add these to your PRISMA flowchart. From experience, we advise retaining duplicates in
+the ‘Trash’ folder rather than deleting them completely – in this way, you can restore them, if
+necessary, for example if any have been deleted in error.
+
+FAQ 5.7 Do I need to use a search filter?
+This depends on your topic, the number of search results found and the purpose of your
+review. Conduct an initial search – if the number of references retrieved is manageable, you
+probably do not need to use a search filter. However, if you retrieve large numbers of references, you may find that a search filter is an appropriate way to limit your search. For
+example, if you are conducting a systematic review restricted only to randomised controlled
+trials (RCTs), you may find an RCT filter useful, particularly where the literature is plentiful.
+When considering a specific population, for example a geographic area, a published search
+filter (e.g. for the UK, Ayiku et al., 2020) helps to ensure that you identify all appropriate
+search terms. See the ISSG Search filter resource (https://sites.google.com/a/york.ac.uk/issgsearch-filters-resource/) for a comprehensive list of search filters.
+
+=== p. 156 ===
+
+Get more hands-on guidance!
+Visit https://study.sagepub.com/booth3e for downloadable versions of the exercises, as
+well as some suggested answers. You can also access a glossary, literature review templates,
+source trackers, and a collated list of online tools to help you put together a successful
+literature review.
+
+                     suggestions for further information
+
+   Aveyard H (2019) How do I search for literature? Chapter 4 in: Doing a Literature Review in
+      Health and Social Care: A Practical Guide, 4th edition. Maidenhead: McGraw-Hill.
+   This chapter provides a step-by-step guide to searching the literature. The focus is on health
+   and social care but it also addresses transferable skills, such as identifying inclusion and
+   exclusion criteria, identifying keywords and recording your search strategy. The chapter also
+   briefly covers using abstracts to assess relevance, retrieving references, and reference management. Tips on ‘writing up your search strategy’ are particularly useful – note these before
+   starting your literature search to ensure that you are keeping an accurate record of the information required to report your search strategy efficiently.
+
+   Booth A (2016) Searching for qualitative research for inclusion in systematic reviews: a structured methodological review. Systematic Reviews, 5(1): 74.
+   Qualitative evidence synthesis presents its own unique challenges (see Chapter 8) not least
+   in the retrieval of studies. This review examines and categorises the findings of papers on
+   methods of searching for qualitative studies.
+
+   Booth A, Briscoe S & Wright JM (2020) The ‘realist search’: a systematic scoping review of
+      current practice and reporting. Research Synthesis Methods, 11(1): 14–35.
+   Based on a review of search methods used in 34 published realist reviews (see Chapter 9),
+   these authors note more rigorous searches for empirical data but poorer reporting around
+   the process for identifying program theory. They recommend a six-component framework to
+   offer greater transparency about the search process to inform reviews of this type.
+
+   Bramer WM (2019) Serving evidence syntheses: improving literature retrieval in systematic
+      reviews. Doctoral Dissertation. Erasmus University Rotterdam. Available at: https://repub.
+      eur.nl/pub/120107
+   Showcasing an extensive body of work on searching for the purpose of systematic reviews
+   with a particular emphasis on the use of automated techniques, including de-duplication of
+   results and the translation of strategies between database platforms. Bramer’s thesis, available freely online, brings some of his key findings together into one volume.
+
+   Lefebvre C, Glanville J, Briscoe S, Littlewood A, Marshall C, Metzendorf M-I, Noel-Storr A,
+      Rader T, Shokraneh F, Thomas J, Wieland LS. (2021) Chapter 4: Searching for and selecting studies. In: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA
+      (eds), Cochrane Handbook for Systematic Reviews of Interventions version 6.2 (updated
+      February 2021). Available from www.training.cochrane.org/handbook.
+
+=== p. 157 ===
+
+Chapter from key text for systematic review methods, focusing on search methods. While
+designed for those working in evidence-based medicine, many principles apply equally to
+other disciplines.
+
+Levay P & Craven J (eds) (2018) Systematic Searching. London: Facet Publishing.
+Superb collection of essays offering a ‘deep dive’ into the world of systematic searching
+that we have introduced in this chapter. Featuring chapters focusing in depth on topics
+like grey literature searching plus innovations in text mining and automation. Highly
+recommended.
+
+Sutton A, Clowes M, Preston L & Booth A (2019) Meeting the review family: exploring review
+   types and associated information retrieval requirements. Health Information and Libraries
+   Journal, 36(3): 202–22.
+Reviews best available guidance and current practice to provide detail on the different search
+methods considered appropriate for each of 48 review types (identified as seven ‘families’
+based on their common features).
+

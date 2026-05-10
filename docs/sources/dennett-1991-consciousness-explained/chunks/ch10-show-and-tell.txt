@@ -1,0 +1,1322 @@
+=== chunk: dennett-1991-consciousness-explained/ch10-show-and-tell ===
+title: Show and Tell
+source_pdf: docs/sources/dennett-1991-consciousness-explained/full.pdf
+pdf_pages: 300-335
+page_scheme: book
+plan_page_start: 285
+plan_page_end: 320
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 285 ===
+
+                                             SHOW AND TELL
+
+     1. ROTATING IMAGES IN THE MIND'S EYE
+
+      The first challenge, before we tackle the philosophical thought
+experiments, comes from some real experiments that might seem to
+rehabilitate the Cartesian Theater. Some of the most exciting and ingenious research in cognitive science in the last twenty years has been
+on the human ability to manipulate mental images, initiated by the
+psychologist Roger Shepard's (Shepard and Metzler, 1971) classic study
+of the speed of mental rotation of figures such as these.
+
+     The subjects in the original experiment were shown such pairs of
+line drawings and asked whether or not the pair are different views of
+
+=== p. 286 ===
+
+ the same shape. In this case, as you can quickly determine, the answer
+ is yes. How did you do it? A typical answer is "I rotated one of the
+ images in my mind's eye, and superimposed it on the other." Shepard
+ varied the angular rotation distances between pairs of figures — some
+ pairs were only a few degrees out of alignment, and others required
+ large rotations to put them into alignment — and measured the time it
+ took subjects to respond, on average, to the different displays. Supposing that something like a process of actual rotation of an image in
+ the brain takes place, it should take roughly twice as long to rotate a
+ mental image through 90 degrees as through 45 degrees (if we ignore
+ acceleration and deceleration, keeping rotation speed constant).' Shep-ard's data bore out this hypothesis remarkably well, over a wide variety
+ of conditions. Hundreds of subsequent experiments, by Shepard and
+ many others, have explored the behavior of the image-manipulation
+ machinery of the brain in great detail, and — to put the still-controversial consensus as gingerly as possible — there does seem to
+ be what the psychologist Stephen Kosslyn (1980) calls a "visual buffer"
+ in the brain, which performs transformations by processes which are
+ strongly "imagistic" — or, to use Kosslyn's term, quasi-pictorial.
+       What does this mean? Have cognitive psychologists discovered
+ that the Cartesian Theater exists after all? According to Kosslyn, these
+experiments show that images are assembled for internal display in
+ much the way that images on a CRT (a cathode ray tube such as a
+television screen or computer monitor) can be created from files in a
+computer memory. Once they are on the internal screen, they can be
+rotated, searched, and otherwise manipulated by subjects who are given
+particular tasks to perform. Kosslyn stresses, however, that his CRT
+model is a metaphor. This should remind us of Shakey's metaphorical
+"image manipulation" talents. Certainly Shakey had no Cartesian Theater in its computer-brain. To get a somewhat clearer picture of what
+must actually happen in a human brain, we can start with a nonmeta-phorical model, much too strong to be true, and then "subtract" the
+undesirable properties from the model one by one. In other words, we
+will take Kosslyn's CRT metaphor, and gradually introduce the limitations on it.
+      First, consider a system that really does manipulate real images,
+
+       1. This useful oversimplification is one of the many wrinkles that have subsequently been explored by researchers, and there is now considerable evidence for "inertia' and               effects in image transformations. See Freyd (1989).
+
+=== p. 287 ===
+
+such as the computer graphics systems that are now proliferating in
+hundreds of settings: computer animation for television and films, systems that render three-dimensional objects in perspective views for
+architects and interior decorators, video games, and many more. Engineers call their versions CAD systems, for computer-aided design.
+CAD systems are revolutionizing engineering not only because they
+make drafting vastly easier in the way word processors make writing
+easier, but because engineers can readily solve problems and answer
+questions with them that would otherwise be quite difficult. Faced with
+the Shepard problem in Figure 10.1, an engineer could answer the
+question with the aid of a CAD system by putting both images on the
+CR1 screen and literally rotating one of the images and then trying to
+superimpose it on the other. A few details of the process are important.
+      Each pictured object would be entered into the computer memory
+as a virtual three-dimensional object, by breaking it down into a description of its planes and edges defined by their xyz coordinates, each
+occupied point in virtual space being an "ordered triple" of numbers
+stored in the computer's memory. The point of view of the implied
+ observer would also be entered as a point in the same virtual space,
+ defined by its own xyz coordinate triple. Here is a diagram of a cube
+ and a point of view, but it is important to remember that the only thing
+ the computer has to store is the triples for each crucial point, grouped
+ into larger groups (e.g., one for each face of the cube), together with
+ coded information for the various properties of each face (its color,
+
+           (0,0,0)
+
+=== p. 288 ===
+
+ whether or not it is opaque or transparent, its texture, and so forth).
+ Rotating one of the objects and then shifting it in the virtual space can
+ be readily computed, by simply adjusting all the x, y, and z coordinates
+ of that object by constant amounts — simple arithmetic. Then it is a
+ matter of straightforward geometry to calculate the sight lines that determine which planes of the object would then be visible from the
+ virtual point of view, and exactly how they would appear. The calculations are straightforward but laborious or "compute intensive,"
+ especially if smooth curves, shading, reflected light, and texture are to
+ be calculated as well.
+       On advanced systems, different frames can be calculated rapidly
+ enough to create apparent motion on the screen, but only if the representations are kept quite schematic. "Hidden line removal," the computational process that renders the final image opaque in the right
+places and prevents a Shepard cube from looking like a transparent
+Necker cube, is itself a relatively time-consuming process, which more
+or less sets the limits on what can be produced "in real time." For the
+gorgeously detailed image transformations by computer graphics that
+we see on television every day, the image-generation process is much
+slower, even on supercomputers, and the individual frames have to be
+stored for later display at the higher speeds that satisfy the motion-detection requirements of the human visual system.2
+
+        I                      H
+                           Before and after hidden line removal.
+      These thTee-d imensional virtual-object manipulators are magnificent new tools or toys, and they really are something new under the
+sun, not an electronic copy of something we already have in our heads.
+It is quite certain that no process analogous to these trillions of geometrical and arithmetical calculations occurs in our brains when we
+
+       2. The impressive, but noticeably jerky, animation in the popular IBM.PC program,
+"Flight Simulator. displays the limits of real-time animation of fairly complex three-dimensional scenes by a small computer.
+
+=== p. 289 ===
+
+engage in mental imagery, and nothing else could yield the richly detailed animated sequences they produce — for the reasons we explored
+in chapter 1.
+      We can satisfy ourselves that this limit on our brains is real by
+considering a slightly different Shepard-style problem that would be
+quite easy to solve with the aid of such a CAD system: Would the "red"
+X on one face of this object be visible to someone looking through the
+square hole in its front wall?
+
+      Our Shepard object with the X is a simple, schematic object, and
+since the question we want to answer is independent of texture, illumination, and other such niceties, it would be quite easy for an engineer
+to produce an animated rotation of this object on the CRT. He could
+then rotate the image every which way, moving the point of view back
+and forth — and just look for a glimpse of red through the hole. If he
+sees red, the answer is yes, otherwise, no.
+       Now, can you perform the same experiment in your mind's eye?
+Can you simply rotate the object shown and peer through the hole? If
+you can, you can do something I can't do, and all the people I have
+asked are also unable to do it with any confidence. Even those who
+ have an answer to the question are quite sure that they didn't just get
+ it by rotating and looking. (They often say they first tried rotating and
+ looking and found it doesn't work; they can "rotate it" but then it "falls
+ apart" when they try to look through the       Then they talk of "drawing in" sightlines through the hole on the unrotated image, to see if
+ they could tell where the lines would hit the back plane.) Since our
+ Shepard object is no more complex than the objects apparently successfully rotated in many experiments, this poses a puzzle: What kind
+ of a process can so readily perform some transformations (and then
+ extract information from the result), and fall down so badly on other
+
+=== p. 290 ===
+
+ operations that are apparently no more demanding? (If these operations
+ appear to us to be no more demanding, we must be looking at them
+ from the wrong vantage point, since our failures demonstrate that they
+ are more demanding.)
+      An experiment by the psychologists Daniel Reisberg and Deborah
+ Chambers (forthcoming) raises much the same question. Subjects who
+ claimed to be good imagers were shown "nonsense" shapes and asked
+ to rotate them mentally by 90 or 180 degrees in their mind's eyes and
+ then report what they "saw." They were surprised to discover that they
+ could not recognize, with their mind's eyes, what you can readily recognize when you turn the book clockwise 90 degrees to look at these
+ figures.
+
+                   /
+                                                                    T
+
+                        I                                       I
+
+     The sorts of questions engineers use CAD systems to answer are
+typically not as simple as "Is the red X visible through the hole?"
+ Usually they concern more complicated spatial properties of objects
+ being designed, such as "Will this three-jointed robot arm be able to
+ reach around and adjust the knob on the robot's back without bumping
+ into the power supply pack?" or even aesthetic properties of such objects, such as "What will the stairway in this hotel lobby look like to
+ someone walking by on the street, looking through the plate-glass windows?" When we try to visualize such scenes unaided, we get only the
+sketchiest and most unreliable results, so a CAD system can be seen as
+a sort of                          (Dennett, 1982d, 1990b). It vastly amplifies the imagining powers of a human being, but it does depend on
+the user's having normal vision — for looking at the CRT.
+       Now let's try to imagine a more ambitious prosthetic device: a
+CAD system for blind engineers! And, to keep it simple, let's suppose
+that the sorts of questions these blind engineers want to answer are of
+the relatively straightforward, geometric sort — not subtle questions
+about the aesthetics of architecture. The output will have to be in some
+nonvisual form, of course. The most user-friendly form would be ordinary language answers (in Braille or voice-synthesized) to ordinary
+
+=== p. 291 ===
+
+language questions. So we will suppose that when confronted with
+                                                                     a
+question of the sort we have just been considering, the blind engineer
+would simply pass the sentence on to the CAD system (in terms it can
+ "understand," of course) and wait for the CAD system to provide the
+answer.
+       Our Mark I CADBLIND system is inelegant, but straightforward.
+It consists of an ordinary CAD system, complete with CRT, in front
+                                                                                of
+which is perched a Vorsetzer, a   computer   vision  system,    complete     with
+TV camera aimed at the CRT and robot fingers to twiddle the knobs of
+the CAD system.3 Unlike Shakey, whose CRT was only for the benefit
+of bystanders. this system really does "look at" an image, a real
+                                                                            image
+made of glowing phosphor       dots, which  radiates   real light    of  different
+frequencies onto the light-sensitive transducers at the back of the TV
+camera. When posed our red X Shepard problem. the Mark I CADBLIND
+ produces an image with a real red X on it, visible to all, including the
+TV camera of the Vorsetzer.
+        Let us suppose. without further ado, that the Vorsetzer has solved
+ within it enough of the problems of computer vision to be able to extract
+ the sought-for information from the representations glowing on the CRT
+ screen. (No, I am not going on to claim that the Vorsetzer is conscious —
+ I )ust want to suppose that it is good enough at doing
+                                                               what it does to
+ be able to answer the questions the blind      engineer    poses    for it.) The
+ Mark I CADBLJ.ND makes and manipulates         real  images,    and   uses them
+                                             the  questions     that    a sighted
+ to answer, for the blind engineer, all
+ engineer could answer using an ordinary     CAD    system.  If  the  Mark!    system is that good, then the Mark II will be      child's  play    to  design:   We
+  just throw away the CRT and the TV     camera    looking   at  it, and   replace
+  them with a simple cable! Through this cable the CAD system sends
+  the Vorsetzer the bit-map, the array of zeros and ones that defines the
+  image on the CRT. In the Mark I's Vorsetzer, this bit-map was
+                                                                              pain.
+  stakingly reconstructed from   the outputs  of  the  optical   transducers     in
+  the camera.
+         There are scant savings in computation in the Mark II— just the
+  elimination of some unnecessary hardware. All the elaborate calculation of sight lines, hidden line removal, and the rendering of texture.
+
+         3. I call this device a Vorsetzer because it reminds me of the
+                                                                            wonderful German
+ player-piano by that name, which consisted of a separate unit with eighty-Bight
+                                                                                    the outside.
+ that could "sit before" an ordinary piano, depressing the keys and pedals from
+      like  a human    pianist. (It is important to recognize that this device is a Vorsetzer—
+ lust
+ a sitter-before — but not a Vorsitzer — a chairman or president!)
+
+=== p. 292 ===
+
+  shadows, and reflected light, which took so much computation in the
+  Mark I, is still a part of the process. Suppose the Vorsetzer in the Mark
+  if is called upon to make a depth judgment by comparing texture gradients, or interpreting a shadow. It will have to analyze the patterns
+  of bits in the relevant portions of the bit-map to arrive at discriminations
+  of the textures and shadows.
+        This means that the Mark II is still a ridiculously inefficient machine, for if the information that a particular portion of the bit-map
+  should represent a shadow is already "known" to the CAD system (if
+  this is part of the coded description of the object from which the CAD
+  system generates its images), and if that fact is part of what the Vorsetzer
+  must determine in order to make its depth judgment, why doesn't the
+  CAD system just tell the Vorsetzer? Why bother rendering the shadow
+  for the benefit of the pattern-analyzers in the Vorsetzer, when the task
+  of pattern-rendering and the task of pattern-analyzing cancel each other
+ out?
+        So our Mark Ill CADBLIND will exempt itself from huge computational tasks of image-rendering by taking much of what it "knows"
+ about the represented objects and passing it on to the Vorsetzer subsystem directly, using the format of simple codes for properties, and
+ attaching "labels" to various °places" on the bit-map array, which is
+ thereby turned from a pure image into something like a diagram. Some
+ spatial properties are represented directly — shown — in the (virtual)
+ space of the bit-map, but others are only told about by
+       This should remind us of my claim in chapter 5 that the brain
+ only has to make its discriminations once; a feature identified doesn't
+have to be redisplayed for the benefit of a master appreciator in the
+Cartesian Theater.
+       But now we can see a different aspect of the engineering: "canceling out" only works if the systems that need to communicate can
+"speak the same language." What if the format in which the CAD system
+already "knows" the relevant information — e.g., the information that
+something is a shadow — is not a format in which the Vorsetzer can
+"use" the                  Then for communication to take place it might
+
+       4. Once we have labels, we can tell about any properties of
+                                                                    the object, not just
+spatial properties or visible properties — as the old coloring-book jokes: "Here my
+boss. Color him obnoxious."
+       5. See Kosslyn (1980) for a discussion of format. Jackendoff (1989)
+                                                                           has a related
+analysis of what he calls the form of information structures.
+
+=== p. 293 ===
+
+be necessary    to "step back in order to jump forward." It might be
+necessary for the systems to engage in inforinationally profligate — you
+might say longwinded — interactions in order to interact at all. Think
+of sketching a map to give directions to a foreigner, when all he
+                                                                         needs
+to know — if only you knew how to say it in            his  tongue —  is "Turn
+left at the next traffic light." Going to all the trouble of making something
+like an image is often practically necessary, even when it's not necessary
+"in principle."
+       Since the systems in our brains are the products of several overlaid
+histories of opportunistic tinkering, the long history of natural selection
+and the short history of individual redesign-by-self-manipulations we
+should expect to find such inefficiencies. Resides, there are other rea-the
+sons for rendering information in imagelike formats (in addition to
+sheer pleasure of it), which,   if we stumble  over   them   serendipitously,
+will soon impress us as making images worth the trouble in any case.
+As we already noted, in the speculations in chapter 7 about "diagramming to yourself," such transformations of format are often highly
+effective ways of extracting information that is otherwise all but inextricable from the data. Diagrams do indeed amount to re-presentations
+ of the information — not to an inner eye, but to an inner
+                                                                       pattern-recognition mechanism that can also accept input from               a   regular
+ ("outer"?) eye. That is why the techniques of (computer)         graphics    are
+ so valuable in science, for instance. They permit huge arrays        of  data to
+                                                    pattern-recognition       ca-be presented in a format that lets the superb
+ pabilities of human vision take charge. We make graphs and maps and
+ all manner of color-coded plottings so that the sought-for
+                                                                   regularities
+ and saliencies will just "pop out" at us, thanks to      our  visual  systems.
+ Diagrams don't just help us see patterns that      might    otherwise    be imperceptible; they can help us keep track of  what   is relevant, and   remind
+  us to ask the right questions at the right times. The Swedish Al
+                                                                               re-has argued  that  such  image  generation
+  searcher Lars-Erik Janlert (1985)
+  and perusal in a computer can also be used to help solve otherwise
+  intractable problems of what we might call Inference-management in
+  systems that are "in principle" purely deductive engines. (For a different slant on the same process, see Larkin and Simon, 1987.)
+        This tactic is certainly well known to many wily thinkers, and
+  has been wonderfully described by one of the wiliest ever, the
+                                                                       physicist
+  Richard Feynmann, in Surely Youre Joking, Mr.         Feynmann'     (1985).   In
+                                                of  Tools,"   he  tells  how    he
+  a chapter aptly entitled "A Different Box
+   amazed his fellow graduate students at Princeton by "intuiting" the
+
+=== p. 294 ===
+
+  truth and falsity of the arcane theorems of topology, theorems he was
+  utterly unable to derive formally or even fully comprehend:
+
+           I had a scheme, which I still use today when somebody is
+                                                                               explaining something that I'm trying to understand: I keep making
+        up examples. For instance, the mathematicians would come in
+        with a terrific theorem, and they're all excited. As they're telling
+        me the conditions of the theorem, I construct something which
+       fits all the conditions. You know, you have a set (one ball) —
+       disjoint (two balls). Then the balls turn colors, grow hairs, or
+       whatever, in my head as they put more conditions on. Finally
+       they state the theorem, which is some dumb thing about the ball
+       which isn't true for my hairy green ball thing, so I say, "False!"
+          If it's true, they get all excited, and I let them go on for a while.
+       Then I point out my counterexample.
+          "Oh. We forgot to tell you that it's Class 2 Hausdorff homo-morphic."
+          "Well, then," I say, "It's trivial! it's trivial!" By that time I know
+       which way it goes, even though I don't know what Hausdorif
+       homomorphic means. [pp. 85—86]
+
+      Such tactics "come naturally" to some extent, but they have to be
+ learned or invented, and some people are much better at it than others.
+Those in whom these skills are highly developed have different virtual
+machines in their brains, with significantly different powers, compared
+with those who are infrequent or inept "visualizers." And the differences readily emerge in their individual heterophenomenological
+worlds.
+      So there is good reason to believe, as Kosslyn and others have
+argued, that human beings put their vision systems to work not only
+by presenting themselves with real, external images (as on the CAD
+system's CRT) but also with idiosyncratically designed internal virtual
+images or diagramlike data representations that are the suitable raw
+material for some later stage or stages of the visual-processing machinery.
+    Just which engineering solutions to which problems of internal
+communication and information-manipulation has the human brain hit
+upon, and what are their strengths and weaknesses?o These are the
+
+     6. Kosslvn (1980) not only provides a detailed defense of
+                                                                      his particular set of
+answers to these questrnns (at that time), but also provides an excellent survey
+                                                                                 of others
+
+=== p. 295 ===
+
+empirical questions addressed by the research on imagery in cognitive
+psychology, and we should be cautious about advancing a priori answers to them! We might, I suppose, have found Mark I image-manipulation systems in our brains, complete with glowing phosphor
+dots and an inner light-sensitive eye. (So far as I can see, it is not
+impossible that the creatures on some planet might be endowed with
+such contraptions.) And it takes experiments such as Reisberg and
+Chambers' to show that the shortcuts hit upon by our brains pretty well
+preclude discovering a Mark II system, with a bit-map format that never
+takes advantage of shortcuts. (If we had such a system, solving the red
+X puzzle in our heads would be easy, and so would rotating Texas.)
+        Phenomenology provides clues, pointing in both directions: The
+"sketchiness" of mental images, which is "intuitively obvious" in most
+subjects' phenomenology, points to the brain's use of shortcuts, occasions on which the brain                               This is as true of visual
+perception as oi visualizing. We already noted         in chapter 3 how hard
+ it is to draw a rose that is  right  in front  of your eyes,  or even to copy
+ a drawing, and the reason is that the      purely  spatial properties  that one
+ must identify or discriminate in     order  to draw  well  have normally   been
+ left behind in the course    of perceptual     processing,  summarized    in reports, not rendered for   further   perusal.   On the other  hand,  the  usefulness of mental images in helping us "see the pattern" or in "reminding
+  us" of details we might otherwise forget, points to the exploitation of
+ visual pattern-recognition machinery that could only occur if one part
+  of the brain went to all the trouble of preparing special-format versions
+  of the information for the benefit of those visual systems. As we already
+  saw in chapter 1, the information-handling demands of such representation are formidable, and it should not surprise us that we are
+  so poor at keeping even highly schematic diagrams stable in our
+ heads.
+      Here is a simple test to remind you how limited our abilities
+ actually are: In your mind's eye, fill in the following three-by-three
+ crossword puzzle, writing the following three words down in the columns, starting with the left column: GAS OIL DRY
+
+ experimental and theoretical work on imagery. A good review of the work in the subsequent decade can be found in Farah (1988), and in Finke, Pinker, and Farah (1989).
+        7. As Marvin Minsky puts It, "There is nothing peculiar about the
+                                                                            idea of sensing
+ events inside the brain. Agents are agents — and it is as easy for an agent to be wired to
+ detect a bruin-caused brain-event, as to detect a world-caused brain-event" (1985, p.
+ 151).
+
+=== p. 296 ===
+
+       296   THE PHILOSOPHICAL. PROBLEMS OF CONSCIOUSNESS
+
+        Can you readily read off the horizontal words? In an actual diagram on paper, these words would °pop out" at you — you would be
+ unable not to see them. That, after all, is the point of making diagrams:
+ to present the data in a format that makes a new breakdown or parsing
+ of the data easy or inevitable. A three-by-three array of alphabetic characters is not a very complicated data structure, but it is apparently not
+ something our brains can hold in place steadily enough for its visual
+ systems to do their "pop out" work. (If you want to try again, here are
+ two more groups of words for the columns: OPT NEW EGO, and FOE
+ INN TED.)
+       There is plenty of scope for individual variation in the tactics
+ employed by different visualizers, however, and some may be able to
+ find — or develop — imaging strategies that permit them to °read off"
+ these diagrams. Calculating prodigies can teach themselves how to multiply ten-digit numbers together in their heads, and so it would not be
+surprising if some people can develop prodigious talents for "crossword
+reading" in their mind's eyes. These informal demonstrations give us
+hints, but experiments can define much more incisively the sorts of
+mechanisms and processes that people must be using in these acts of
+self-manipulation. The evidence to date supports the view that we use
+a mixed strategy, getting some of the benefits of visual analysis of arrays,
+but also incorporating shortcut labels, teLling without showing.
+      Notice, however, that even in the Mark II CADBLIND system,
+which is ultrapictorial, incorporating a bit-map that renders color, shading, and texture pixel by pixel, there is still a sense — and a metaphysically important sense, as we shall see in the next two chapters —
+in which it is all "tell" and no "show." Consider the red X on our
+Shepard figure (figure 4). in the Mark I this is rendered in real red —
+
+=== p. 297 ===
+
+the CRT emits light, which has to be transduced by something in the
+TV camera analogous to the cones in your eyes that respond to frequency differences. When the Vorsetzer rotates the image back and
+forth, hunting for a glimpse of red through the hole, it is waiting
+for its red-detector demons to shout. In the Mark H, that hardware is
+thrown away, and the bit-map represents the color of each pixel by
+a number. Perhaps the shade of red is color number 37. The Vorsetzer
+in the Mark H, when it rotates the bit-map image back and forth, is
+peering through the hole for a glimpse of 37. Or in other words, it
+is asking whether any of the pixel-demons wants to tell it, "Color
+number 37 here." All the red is gone there are only numbers in
+there. In the end, all the work in a CADBLIND system must be done
+by arithmetic operations on bit strings, just as we saw at the lowest
+level of Shakey in chapter 4. And no matter how quasi-pictorial or
+imagistic the processes are that eventuate in the Vorsetzer's verbal answers to questions, they will not be generated in an inner place where
+the lost properties (the properties merely "talked about" in the bit-map)
+are somehow restored in order to be appreciated by a judge that composes the answers.
+       People are not CADBLIND systems. The fact that a CADBLIND
+system can manipulate and inspect its "mental images" without benefit
+ of a Cartesian Theater doesn't by itself prove that there is no Cartesian
+Theater in the human brain, but it does prove that we don't have to
+ postulate a Cartesian Theater to explain the human talent for solving
+ problems "in the mind's eye." There are indeed mental processes that
+ are strongly analogous to observation, but, when we strip down Koss-lyn's CRT metaphor to its essentials, we remove the very features that
+ would call for a Cartesian Theater. There need be no time and place
+ where "it all comes together" for the benefit of a single, unified discriminator; the discriminations can be accomplished in a distributed,
+ asynchronous, multilevel fashion.
+
+      2. WORDS, PICTURES, AND THOUGHTS
+      The truly "creative" aspect of language resides not in its
+      "infinite generative capacity" but in cycles of production and
+      comprehension mediated by a mind capable of reflecting upon
+      the multiple meanings attachable to an utterance, meanings
+      that need not have been present in the thought that gave
+      rise to the utterance but which become available through
+
+=== p. 298 ===
+
+      self-comprehension (Or deep interpretation of another's
+      utterance) and can 'ead to a new thought to be expressed and
+      re-interpreted, and so on indefinitely.
+      H. STEPHEN STRAIGHT (1976), p. 540.
+
+       The British economist John Maynard Keynes was once asked
+ whether he thought in words or pictures. "I think in thoughts," was
+ his reply. He was right to resist the suggestion that the "things we think
+ in" are either words or pictures, for as we have seen, "mental images"
+ are not just like pictures in the head, and "verbal" thinking is not just
+ like talking to yourself. But saying one thinks in thoughts is really no
+ improvement. It just postpones the question, for a thought is just whatever happens when we think — a topic about which there is no settled
+ agreement.
+       Now that we have considered sketches of the sorts of background
+ machinery that is causally responsible for the details of our hetero-phenomenological worlds, we can begin to account for the phenomenology of thinking, explaining not only the limits and conditions on
+ "visual" and "verbal" phenomenology, but looking for yet other varieties that escape that dichotomy.
+       One of my favorite exercises in fictional heterophenomenology is
+Vladimir Nabokov's novel The Defense (1930), about Grandmaster Lu-thin, a genius of the chessboard, who suffers a nervous breakdown in
+the middle of his climactic match. We see three stages in the development of his consciousness: his boyish mind (before his discovery of
+chess at about age ten), his chess-saturated mind (up until his nervous
+breakdown), and the sorry remains of the first two stages after his breakdown, when, imprisoned by his wife in a world without chess — without chess talk, chess playing, chess books — his mind reverts to a sort
+of spoiled infantile paranoia, brightened by stolen moments of chess —
+lightning sneak attacks on the chess diagrams and puzzles in the newspapers — but ultimately curdling into chess obsessions that culminate
+in his "sui-mate." Luzhjn, we learn, has so saturated his mind with
+chess that he sees his whole life in its terms. Here is his awkward
+courtship of the woman who will become his wife:
+    Luzhin began with a series of quiet moves, the meaning of which
+    he himself only vaguely sensed, his own peculiar declaration of
+    love. "GO on, tell me more," she repeated, despite having noticed
+    how morosely and dully he had fallen silent.
+          He sat leaning on his cane and thinking that with a Knight's
+    move of this lime tree standing on a sunlit slope one could take
+
+=== p. 299 ===
+
+     that telegraph pole over there, and simultaneously he tried to
+     remember what exactly he had just been talking about [p. 971.
+
+     With one shoulder pressed against his chest she tried with a cautious finger to raise his eyelids a little higher and the slight pressure on his eyeball caused a strange black light to leap there, to
+     leap like his black Knight which simply took the Pawn if Turati
+     moved it out on the seventh move, as he had done at their last
+     meeting. [p. 114]
+
+Here is a glimpse of his state of mind after his breakdown:
+
+     He found himself in a smoky establishment where noisy phantoms
+     were sitting. An attack was developing in every corner — and
+     pushing aside tables, a bucket with a gold-necked glass Pawn
+     sticking out of it and a drum that was being beaten by an arched,
+     thick-maned chess Knight, he made his way to a gently revolving
+     door.. .. [p. 139]
+These themes are "images" in many regards, for chess is a spatial game,
+and even the identity of the pieces is standardly fixed by their shapes,
+but the power of chess over Luzhin's mind is not exhausted by the
+visual or spatial properties of chess — everything that might be captured in photographs or films of a chessboard, its pieces in motion.
+Indeed, these visual properties provide only the most superficial flavor
+to his imagination. Much more powerful is the discipline provided by
+the rules and tactics of the game; it is the abstract structure of chess
+that he has become so obsessively familiar with, and it is his habits of
+exploration of this structure that drive his mind from "thought" to
+"thought."
+
+     [He] presently would note with despair that he had been unwary
+     again and that a delicate move had just been made in his life,
+     mercilessly continuing the fatal combination. Then he would decide to redouble his watchfulness and keep track of every second
+     of his life, for traps could be everywhere. And he was oppressed
+     most of all by the impossibility of inventing a rational defense,
+     for his opponent's aim was still hidden [p. 227].
+
+     When you first learned to ride a bicycle or drive a car, you encountered a new structure of opportunities for action, with constraints,
+signposts, ruts, vistas, a sort of abstract behavioral maze in which you
+
+=== p. 300 ===
+
+ quickly learned your way around. It soon became "second nature." You
+ quickly incorporated the structure of that external phenomenon into
+ your own control structure. In the process, you may have had periods
+ of obsessive exploration, when you couldn't get your mind off the new
+ moves. I remember a brief period of bridge mania during my adolescence during which I had obsessive and nonsensical bridge dreams. I
+ would take the same finesse a hundred times, or dream of "bidding"
+ during conversations with my teachers and classmates. My hypnogogic
+reveries (those rather hallucinatory periods people occasionally have
+as they are falling asleep or just beginning to wake up) were filled with
+problems along the lines of "what is the correct response to a preemptive bid of three books — four knives or four forks?"
+      It is quite common when encountering a new abstract structure
+in the world — musical notation, a computer programming language,
+common law, major league baseball — to find yourself trudging back
+and forth over its paths, making mind-ruts for yourself — really digging
+in and making yourself at home. Luzhin is only the extreme case; he
+has only one structure with which to play, and he uses it for everything.
+And eventually its structure dominates all other habit structures in his
+mind, channeling the sequence of his thoughts almost as rigidly as the
+sequence of instructions in a von Neumann machine program.
+      Think of all the structures you have learned, in school and elsewhere: telling time, arithmetic, money, the bus routes, using the telephone. But of all the structures we become acquainted with in the
+course of our lives, certainly the most pervasive and powerful source
+of discipline of our minds is our native tongue. (One often sees best by
+looking at contrasts; Oliver Sacks, in Seeing Voices, 1989, vividly draws
+attention to the riches language brings to a mind by recounting the
+terrible impoverishment of a deaf child's mind, if that child is denied
+early access to a natural language — Sign, or sign language.) In chapter
+8 we saw how the very vocabulary at our disposal influences not only
+the way we talk to others, but the way we talk to ourselves. Over and
+above that lexical contribution is the grammatical contribution. As
+Levelt points out (1989, sec. 3.6), the obligatory structures of sentences
+in our languages are like so many guides at our elbows, reminding
+us to check on this, to attend to that, requiring us to organize facts
+in certain ways. Some of this structure may indeed be innate, as
+Chomsky and others have argued, but it really doesn't matter where
+the dividing line is drawn between structures that are genetically deposited in the brain and those that enter as memes. These structures,
+
+=== p. 301 ===
+
+real or virtual, lay down some of the tracks on which "thoughts" can
+then travel.
+      Language infects and inflects our thought at every level. The words
+in our vocabularies are catalysts that can precipitate fixations of content
+as one part of the brain tries to communicate with another. The structures of grammar enforce a discipline on our habits of thought, shaping
+the ways in which we probe our own "data bases," trying, like Plato's
+bird-fancier, to get the right birds to come when we call. The structures
+of the stories we learn provide guidance at a different level, prompting
+us to ask ourselves the questions that are most likely to be relevant to
+our current circumstances.
+      None of this makes any sense so long as we persist in thinking of
+the mind as ideally rational, and perfectly self-transparent or unified.
+What good could talking to yourself do, if you already know what you
+intended to say? But once we see the possibility of partial understanding, imperfect rationality, problematic intercommunication of parts, we
+can see how the powerful forces that a language unleashes in a brain
+can be exploited in various forms of bootstrapping, some of them beneficial, and some of them malignant.
+      Here is an example.
+     You are magnificent!
+Here is another:
+     You are pathetic!
+You know what these sentences mean. You also know that I have just
+introduced them out of the blue, as an aid to making a philosophical
+point, and that they are not the intended speech acts of anyone. Certainly I am neither flattering you nor insulting you, and there is no one
+else around. But could you flatter yourself, or insult yourself, by helping
+yourself to one or the other of my sentences, and saying it to yourself,
+over and over, "with emphasis"? Try it, if you dare. Something happens.
+You don't believe yourself for one minute (you say to yourself), but
+you find that saying the words to yourself does kindle reactions, maybe
+even a little reddening of the ears, along with responses, retorts, disclaimers, images, recollections, projects. These reactions may go either
+way, of course. Dale Carnegie was right about the power of positive
+thinking, but like most technologies, thinking is easier to create than
+to control. When you talk to yourself, you don't have to believe yourself
+in order for reactions to set in. There are bound to be some reactions,
+
+=== p. 302 ===
+
+      302   THE PHILOSOPHICAL PROBLEMS OF CONSCtOUSNESS
+
+and they are bound to be relevant one way or the other to the meaning
+of the words with which you are stimulating yourself. Once the reactions start happening, they may lead your mind to places where you
+find yourself believing yourself after all — so be careful what you say
+to yourself.
+     The philosopher Justin Leiber sums up the role of language in
+shaping our mental lives:
+
+     Looking at ourselves from the computer viewpoint, we cannot
+     avoid seeing that natural language is our most important "programming language." This means that a vast portion of our knowledge and activity is, for us, best communicated and understood
+     in our natural language. . One could say that natural language
+                                 .
+
+     was our first great original artifact and, since, as we increasingly
+     realize, languages are machines, so natural language, with our
+     brains to run it, was our primal invention of the universal computer. One could say this except for the sneaking suspicion that
+     language isn't something we invented but something we became.
+     not something we constructed but something in which we created,
+     and recreated, ourselves. [Leiber, 1991, p. 8J
+
+       The hypothesis that language plays this all-important role in
+thinking might seem at first glance to be a version of the much-discussed
+hypothesis that there is a language of thought, a single medium in
+which all cognition proceeds (Fodor, 1975). There is an important difference, however. Leiber aptly calls natural language a programming
+language for the brain, but we may distinguish high-level programming
+languages (such as Lisp and Prolog and Pascal) from the basic "machine
+language" or slightly less basic "assembly language" out of which these
+high-level languages are composed. High-level languages are virtual
+machines, and they create (temporary) structures in a computer that
+endow it with a particular pattern of strengths and weaknesses. The
+price one pays for making certain things "easy to say" is making other
+things "hard to say" or even impossible. Such a virtual machine may
+structure only part of the computer's competence, leaving other parts
+of the underlying machinery untouched. Bearing this distinction in
+mind, it is plausible to maintain that the details of a natural language —
+the vocabulary and grammar of English or Chinese or Spanish — constrain a brain in the manner of a high-level programming language. But
+this is a far cry from asserting the dubious hypothesis that such a natural
+language provides the structure all the way down. Indeed, Fodor and
+
+=== p. 303 ===
+
+others who defend the idea of the language of thought typically insist
+that they are not talking about the level at which human languages do
+their constraining work. They are talking about a deeper, less-accessible
+level of representation. Fodor once made the point with the aid of an
+amusing confession: he acknowledged that when he was thinking his
+hardest, the only sort of linguistic items he was conscious of were
+snatches along the lines of "C'mon, Jerry, you can do it!" Those may
+have been his "thoughts," and we have just seen how they may in fact
+play an important role in helping him solve the problems that confronted him, but they are hardly the stuff out of which to fashion perceptual inferences, hypotheses to be tested, and the other postulated
+transactions of the ground-level language of thought. Keynes was right
+to resist the words-versus-pictures choice; the media used by the brain
+are only weakly analogous to the representational media of public life.
+
+     3. REPORTING AND EXPRESSING
+
+      Slowly but surely we've been chipping away at the idea of the
+Cartesian Theater. We sketched an alternative to the Central Meaner in
+chapter 8, and we've just seen how to resist the appeal of an inner CRT.
+Mere glancing blows, I fear; the Cartesian Theater is still standing, still
+exerting a tenacious pull on our imaginations. It's time to shift tactics
+and attack from within, exploding the Cartesian Theater by showing
+its incoherence in its own terms. Let's see what happens when we go
+along with tradition, accepting the terms of everyday "folk psychology"
+at face value. We can begin by reconsidering some of the plausible
+claims Otto made at the beginning of chapter 8:
+
+            When I speak, [Otto said] I mean what I say. My conscious
+     life is private, but I can choose to divulge certain aspects of it to
+     you. I can decide to tell you various things about my current or
+     past experience. When I do this, I formulate sentences that I carefully tailor to the material I wish to report on. I can go back and
+     forth between the experience and the candidate report, checking
+     the words against the experience to make sure I have found ies
+     mots justes. .. I attend to my particular conscious experience and
+                     .
+
+     anive at a judgment about which words would do the most justice
+     to its character. When I am satisfied that I have framed an accurate
+     report, I express it. From my introspective report, you can come
+     to know about some feature of my conscious experience.
+
+=== p. 304 ===
+
+      Some of this message actually fits smoothly with our proposed
+model of language-production in chapter 8. The process of back-andforth tailoring of the words to the content of the experience can be seen
+in the pandemonium that mates up the word-demons to the content-demons. What is missing, of course, is the Inner I whose judgments
+direct the matchmaking. But although Otto does go on about what "I
+choose" and what "I judges" introspection doesn't really support this.
+      We have scant access to the processes by which words "occur to
+us" to say, even in the cases where we speak deliberately, rehearsing
+our speech acts silently before uttering them. Candidates for something
+to say just spring up from we know not where. Either we find ourselves
+already saying them, or we find ourselves checking them out, sometimes
+discarding them, other times editing them slightly and then saying
+them, but even these occasional intermediate steps give us no further
+hints about how we do them. We just find ourselves accepting or discarding this word and that. If we have reasons for our judgments, they
+are seldom contemplated before the act, but only retrospectively obvious. ("I was going to use the word Jejune but stopped myself, since
+it would have sounded so pretentious.") So we really have no privileged
+insight into the processes that occur in us to get us from thought to
+speech. They might be produced by a pandemonium, for all we know.
+     But still, [Otto goes on] the Pandemonium model leaves out a level
+     or a stage in the process. What your model lacks is not a projection
+     into the "phenomenal space" of a Cartesian Theater — what a
+     ridiculous idea! — but still an extra level of articulation in the
+     psychology of the speaker. It's not enough for words to get strung
+     together by some internal mating dance and then uttered. if they
+     are to be reports of someone's conscious mental states, they have
+     to be based somehow on an act of inner apprehension. What the
+     Pandemonium model leaves out is the speaker's state of awareness
+     that guides the speech.
+      Whether or not Otto is right, he is certainly expressing the common
+wisdom: this is just how we ordinarily conceive of our ability to tell
+people about our conscious states. In a series of recent papers, the
+philosopher David Rosenthal (1986, 1989. 1990a, b) has analyzed this
+everyday concept of consciousness and its relation to our concepts of
+reporting and expressing. He uncovers some structural features we can
+put to good use. First, we can use his analysis to see, from the inside,
+what the standard picture is and why           so compelling. Second, we
+can show how it discredits the idea of zombies — with no help from
+
+=== p. 305 ===
+
+the outside. Third, we can turn the standard picture against itself, and
+use the difficulties we encounter to motivate a better picture, one that
+preserves what is right about the traditional view but discards the Carte-sian framework.
+
+      What happens when we speak? At the heart of our everyday conception of this there is a truism: Provided we're not lying or insincere,
+we say what we think. To put it more elaborately, we express one of
+our beliefs or thoughts. Suppose, for instance, you see the cat anxiously
+waiting by the refrigerator and you say, "The cat wants his supper."
+This expresses your belief that the cat wants his supper. In expressing
+your belief, you are reporting what you take to be a fact about the cat.
+In this case you're reporting the cat's desire to be fed. It's important to
+note that you're not reporting your belief, or expressing the cat's desire.
+The cat is expressing his desire by standing anxiously by the refrigerator, and you, noticing this, use it as the basis — the evidence — for
+your report. There are many ways of expressing a mental state (such
+
+=== p. 306 ===
+
+as a desire), but only one way of reporting one, and that is by uttering
+a speech act (oral or written or otherwise signaled).
+     One of the most interesting ways of expressing a mental state is
+by reporting another mental state. In the example, you report the
+ desire, thereby expressing your own belief about the cat's desire. Your
+behavior is evidence not only that the cat has the desire but also that
+you believe the cat has the desire. You might, however, have given us
+evidence of your belief in some other way — perhaps by silently getting
+up from your chair and preparing supper for the cat. This would have
+expressed the same belief without reporting anything. Or you might
+have just sat in your chair and rolled your eyes, unintentionally expressing your exasperation with the            desire just when you had
+gotten comfortable in your chair. Expressing a mental state, deliberately
+or not, is just doing something that provides good evidence for, or makes
+manifest, that state to another observer — a mind reader, if you like.
+Reporting a mental state, in contrast, is a more sophisticated activity,
+always intentional, and involving language.
+      Here, then, is an important clue about the source of the Cartesian
+Theater model: Our everyday folk psychology treats reporting one's
+own mental state on the model of reporting events in the external world.
+Your report that the cat wants his supper is based on your observation
+of the cat. Your report expresses your belief that the cat wants his
+supper, a belief about the        desire. Let's call beliefs about beliefs,
+desires about desires, beliefs about desires, hopes about fears, and so
+forth second-order mental states. And if 1(1) believe that you (2) think
+that I (3) want to have a cup of coffee, that belief of mine is a third-order belief. (For the importance of higher-order mental states in theories of mind, see my Intentional Stance, 1987a.) There can be no doubt
+that there are salient, important differences marked by these everyday
+distinctions when they are applied nonreflexively — when x believes
+that y is in some mental state and x y. There is all the difference in
+the world between the case where the cat wants to be fed and you know
+it. and the case where the cat wants to be fed and you don't know it.
+But what about the reflexive cases, where x = y? Folk psychology treats
+these cases just the same.
+      Suppose I report that I want to be fed. On the standard model I
+must be expressing a second-order belief about my desire. When I report
+my desire. I express a second-order belief — my belief about my desire.
+What if I report that second-order belief, by saying "I believe I want to
+be fed"? That report must express a third-order belief — my belief that
+I do in fact believe that I want to be fed. And so on. Our everyday
+
+=== p. 307 ===
+
+concepts of what is involved in speaking sincerely generate in this way
+a host of putatively distinct mental states: my desire is distinct from
+my belief that I have the desire, which is distinct from my belief that
+I have the belief that I have the desire, and so on.
+      Folk psychology also goes into further distinctions. As Rosenthal
+points out (along with many others), it distinguishes beliefs, which are
+the underlying dispositional states, from thoughts, which are occurrent
+or episodic states — transient events. Your belief that dogs are animals
+has persisted continuously as a state of your mind for years, but my
+drawing attention to it just now has spawned a thought in you — the
+thought that dogs are animals, an episode that no doubt would not have
+occurred in you just now without my provocation.
+      It follows, of course, that there can be first-order thoughts and
+second- and higher-order thoughts — thoughts about thoughts (about
+thoughts .). Here, then, is the crucial step: When I express a belief —
+          .   .
+
+such as my belief that I want to be fed — I do not express the higher-order belief directly; what happens is that my underlying belief yields
+an episodic thought, the higher-order thought that I want to be fed, and
+I express that thought (if I choose to do so). All this is involved, Ro-senthal argues, in the common sense model of saying what you think.
+      Since a hallmark of states of human consciousness is that they
+can be reported (barring aphasia, paralysis, or being bound and gagged,
+for instance), it follows, on Rosenthal's analysis, that "conscious states
+must be accompanied by suitable higher-order thoughts, and noncon-scious mental states cannot be thus accompanied" (1990b, p. 16). The
+higher-order thought in question must of course be about the state it
+accompanies; it must be the thought that one is in the lower-order state
+(or has just been in it — time marches on). This looks as if it is about
+to generate an infinite regress of higher-order conscious states or
+thoughts, but Rosenthal argues that folk psychology permits a striking
+inversion: The second-order thought does not itself have to be conscious in order for its jIrst-order object to be conscious. You can express
+a thought without being conscious of it, so you can express a second-order thought without being conscious of it — all you need be conscious
+of is its object, the first-order thought you report.
+      This may seem surprising at first, but on reflection we can recognize this as a familiar fact in a new perspective: You do not attend
+to the thought you express, but to the object(s) that thought is about.
+Rosenthal goes on to argue that although some second-order thoughts
+are conscious — by virtue of third-order thoughts about them — these
+are relatively rare. They are the explicitly introspective thoughts that
+
+=== p. 308 ===
+
+we would report (even to ourselves) only when in a state of hyper-sellconsciousness. ff1 say to you, "I am in pain," I report a conscious state.
+my pain, and express a second-order belief — my belief that I am in
+pain. If, waxing philosophical, I say "I think [or I am sure, or I believe]
+that I am in pain," I thereby report a second-order thought, expressing
+a third-order thought. Ordinarily, though, I would not have such a third-order thought and hence would not be conscious of such a second-order thought; I would express it, in saying "I am in pain," but would
+not normally be conscious of it.
+      This idea of unconscious higher-order thoughts may seem outrageous or paradoxical at first, but the category of episodes in question
+is not really controversial, even though the term "thought" is not ordinarily used to refer to them. Rosenthal uses "thought" as a technical
+term — roughly following Descartes's practice, in fact — to cover all
+episodic contentful states, not just the episodes that we would ordinarily call thoughts. Thus a twinge of pain or a glimpse of stocking
+would count as thoughts for Descartes and Rosenthal. Unlike Descartes,
+however, Rosenthal insists on the existence of unconscious thoughts.
+      Unconscious thoughts are, for instance, unconscious perceptual
+events, or episodic activations of beliefs, that occur naturally — that
+must occur — in the course of normal behavior control. Suppose you
+tip over your coffee cup on your desk. In a flash, you jump up from
+the chair, narrowly avoiding the coffee that drips over the edge. You
+were not conscious of thinking that the desk top would not absorb the
+coffee, or that coffee, a liquid obeying the law of gravity, would spill
+over the edge, but such unconscious thoughts must have occurred —
+for had the cup contained table salt, or the desk been covered with a
+towel, you would not have leaped up. Of all your beliefs — about coffee,
+about democracy, about baseball, about the price of tea in China —
+these and a few others were immediately relevant to your circumstances, if we are to cite them in an explanation of why you leaped up,
+they must have been momentarily accessed or activated or in some way
+tapped for a contribution to your behavior, but of course this happened
+unconsciously. These unconscious episodes would be examples of
+what Rosenthal calls unconscious thoughts. (We have already encountered unconscious thoughts in some earlier examples: for instance, the
+unconscious perceptions of vibration in the fingers that permit you to
+identify, consciously, the textures of things touched with a wand, the
+unconscious recollection of the woman with the eyeglasses, which led
+to the mistaken experience of the woman rushing by.)
+      Rosenthal points out that by finding a way of defining conscious-
+
+=== p. 309 ===
+
+ness in terms of unconscious mental states (the accompanying higher-order thoughts), he has uncovered a way of laying the foundations
+within folk psychology for a noncircular, nonmysterious theory of consciousness (1990b). What distinguishes a conscious state from a non-conscious state, he argues, is not some inexplicable intrinsic property,
+but the straightforward property of having a higher-order accompanying
+thought that is about the state in question. (See Hamad, 1982, for a
+similar strategy with some interesting variations.) This looks good for
+folk psychology: it doesn't just wallow in mystery; it has the resources,
+well mined by Rosenthal, to articulate an account of its prize category,
+consciousness, in terms of its subsidiary and less-problematic categories. Part of the bargain, if we opt for his analysis, is that it can be
+used to break down the putatively sharp distinction between conscious
+beings and zombies.
+
+     4. ZOMBIES, ZIMBOES, AND THE USER ILLUSION
+     Mind is a pattern perceived by a mind. This is perhaps circular,
+     but it is neither vicious nor paradoxical.
+     DOUGLAS HOFSTADTER (1981), p. 200
+
+      Philosophers' zombies, you will recall, seem to perform speech
+acts, seem to report on their states of consciousness, seem to introspect.
+But they are not really conscious at all, in spite of the fact that they
+are, at their best, behaviorally indistinguishable from a conscious person. They may have internal states with functional content (the sort of
+content that functionalists can assign to the inner machinery of robots),
+but these are unconscious states. Shakey — as we imagined him — is
+a paradigmatic zombie. When he "reports" an internal state, this is not
+a conscious state that is being reported, since Shakey has no conscious
+states, but an unconscious state that merely causes him to go into some
+further unconscious state that directs the process of generating and
+executing a so-called speech act composed of "canned' formulae.
+(We've been letting Otto insist on this all along.)
+      Shakey didn't first decide what to report, after observing something going on inside, and then figure out how to express it; Shakey
+just found himself with things to say. Shakey didn't have any access
+into why he wanted to say he was forming line drawings around the
+light-dark boundaries of his mental images — he was just built that
+
+=== p. 310 ===
+
+ way. The central claim of chapter 8, however, was that, contrary to first
+ appearances, the same is also true of you. You don't have any special
+ access into why you want to say what you find you want to say; you
+ are just built that way. But, unlike Shakey, you are constantly rebuilding
+ yourself, discovering new things you want to say as a result of reflecting
+ on what you have just found yourself wanting to say, and so forth.
+       But couldn't a fancier Shakey do that as well? Shakey was a particularly crude zombie, but we can now imagine a more realistic and
+ complex zombie, which monitors its own activities, including even its
+ own internal activities, in an indefinite upward spiral of reflexivity. I
+ will call such a reflective entity a zimbo. A zimbo is a zombie that, as
+ a result of self-monitoring, has internal (but unconscious) higher-order
+ informational states that are about its other, lower-order informational
+ states. (It makes no difference for this thought experiment whether a
+ zimbo is considered to be a robot or a human — or Martian — entity.)
+ Those who believe that the concept of a zombie is coherent must surely
+ accept the possibility of a zimbo. A zimbo is just a zombie that is
+ behaviorally complex, thanks to a control system that permits recursive
+ self-representation.
+       Consider how a zimbo might perform in the Turing test, Alan
+ Turing's famous proposal (1950) of an operational test for thinking in
+a computer. A computer can think, Turing proclaimed, if it can regularly
+heat a human opponent in the "imitation game": The two contestants
+are hidden from a human judge but able to communicate with the judge
+by typing messages back and forth via computer terminals. The human
+contestant simply tries to convince the judge that he or she is human,
+while the computer contestant does likewise — tries to convince the
+judge that it is human. If the judge cannot regularly spot the computer,
+the computer is deemed a thinker. Turing proposed his test as a
+conversation-stopper; it was obvious to him that this test was so ridiculously difficult to pass that any computer that could win should be
+seen by everyone to be an amazingly good thinker. He thought he had
+set the bar high enough to satisfy any skeptic. He misestimated. Many
+have argued that "passing the Turing test" would not be a sufficient
+proof of intelligence, and certainly not of consciousness. (See Hofstad-ter, 1981b, Dennett, 1985a, and French, 1991, for analyses of the
+strengths and weaknesses of the Turing test and its critics.)
+      Now, a zimbo's chances in the Turing test should be as good as
+any conscious person's, since the contestants show the judge nothing
+but their behavior, and only their verbal (typing) behavior at that. Suppose, then, that you are the judge in a Turing test, and a zimbo's (ap-
+
+=== p. 311 ===
+
+parent) speech acts have convinced you that it is conscious. These
+apparent speech acts shouldn't have convinced you — ex hypothesi,
+for it is just a zimbo, and zimboes aren't conscious. Should it have
+convinced itself, though? When a zimbo issues a report, expressing its
+own second-order unconscious state, there is nothing to prevent it from
+reflecting (unconsciously) on this very state of affairs. In fact, if it's
+going to be convincing, it's going to have to be able to respond appropriately to (or take cognizance of) its own "assertions" to you.
+       Suppose, for instance, that the zimbo is a fancier Shakey, and you,
+as judge, have just asked it to solve a problem in its mind's eye and
+then explain how it did it. It reflects on its own assertion to you that
+it has just solved the problem by forming a line drawing on a mental
+image. It would "know" that that was what it had wanted to say, and
+if it reflected further, it could come to "know" that it didn't know why
+that was what it wanted to say. The more you asked it about what it
+knew and didn't know about what it was doing, the more reflective it
+would become. Now what we have just succeeded in imagining, it
+seems, is an unconscious being that nevertheless has the capability for
+higher-order thoughts. But according to Rosenthal, when a mental state
+is accompanied by a conscious or unconscious higher-order thought to
+the effect that one has it, this ipso facto guarantees that the mental state
+is a conscious state! Does our thought experiment discredit Rosenthal's
+analysis, or discredit the definition of a zimbo?
+       We can readily see that at the very least the zimbo would (unconsciously) believe that it was in various mental states — precisely
+the mental states it is in position to report about should we ask it
+questions. It would think it was conscious, even if it wasn't! Any entity
+that could pass the Turing test would operate under the (mis?)apprehension that it was conscious. In other words, it would be a victim
+of an illusion (cf. 1-larnad, 1982). What kind of an illusion? A User
+illusion, of course. It would be the "victim" of the benign user illusion
+of its own virtual machine!
+       Isn't this a trick with mirrors, some illegitimate sort of philosopher's sleight of hand? I-low could there be a User illusion without a
+Cartesian Theater in which the illusion is perpetrated? I seem to be in
+imminent danger of being done in by my own metaphors. The problem
+is that a virtual machine's user illusion is accomplished by a presentation of material in a theater of sorts, and there is an independent,
+external audience, the User, for whose benefit the show is put on. I am
+using a computer at this very moment, typing these words into a "file"
+with the unobtrusive assistance of a word-processing program. When
+
+=== p. 312 ===
+
+I interact with the computer, I have limited access to the events occurring within it. Thanks to the schemes of presentation devised by
+ the progranuners, I am treated to an elaborate audiovisual metaphor,
+ an interactive drama acted out on the stage of keyboard, mouse, and
+ screen. I, the User, am subjected to a series of benign illusions: I seem
+ to be able to move the cursor (a powerful and visible servant) to the
+ very place in the computer where I keep my file, and once that I see
+ that the cursor has arrived "there," by pressing a key I get it to retrieve
+ the file, spreading it out on a long scroll that unrolls in front of a window
+ (the screen) at my command. I can make all sorts of things happen
+ inside the computer by typing in various commands, pressing various
+ buttons, and I don't have to know the details; I maintain control by
+ relying on my understanding of the detailed audiovisual metaphors
+ provided by the User illusion.
+       For most computer-users, it is only in terms of these metaphors
+ that they have any appreciation of what is happening inside. This is
+ one of the facts that makes a virtual machine such a tempting analogy
+ for consciousness, for it has always seemed that our access to what is
+ happening inside our own brains is limited; we don't have to know
+ how the backstage machinery of our brains does its magic; we are acquainted with its operations only as they come clothed for us in the
+ interactive metaphors of phenomenology. But if, when we avail ourselves of this tempting analogy, we maintain the "obvious" separation
+between Presentation on the one hand and User Appreciation of the
+show on the other, we seem to end up right back in the Cartesian
+Theater. How could there be a User illusion without this separation?
+       There couldn't be; the user that provides the perspective from
+which the virtual machine becomes "visible" has to be some sort of
+external observer — a Vorsetzer. And one might at first think that the
+concept of such an observer had to be the concept of a conscious observer, but we have already seen that this is not so. The Vorsetzer that
+sat in front of the CAD system in the original Mark I CADBLIND system
+was not conscious, but was nevertheless exactly as limited in its access
+to the inner workings of the CAD system as any conscious user would
+be. And once we discard the gratuitous screen-and-camera, the Presentation and User Appreciation evaporate, replaced, as so often before in
+our account, by a host of more modest transactions. The "external
+observer" can be gradually incorporated into the system, leaving behind
+a few fossil traces: bits of "interface" whose various formats continue
+to constrain the sorts of questions that can be answered, and thus con-
+
+=== p. 313 ===
+
+strain the contents that can be expressed.8 There doesn't have to be a
+single place where the Presentation happens.9 And as Rosenthal's analysis suggests to us, even our ordinary concept of consciousness, as anchored in the intuitions of common sense or folk psychology, can
+tolerate the unconsciousness of the higher-order states whose presence
+in the system accounts for the consciousness of some of its states.
+      Is the process of unconscious reflection, then, a path by which a
+zombie could turn itself into a           and thereby render itself conscious? If it is, then zombies must be conscious after all. All zombies
+axe capable of uttering convincing "speech acts" (remember, they're
+indistinguishable from our best friends), and this capability would be
+magical if the control structures or processes causally responsible for
+it in the zombie's brain (or computer or whatever) were not reflective
+about the acts and their (apparent, or functional) contents. A zombie
+might begin its career in an uncommunicative and unreflective state,
+and hence truly be a zombie, an unconscious being, but as soon as it
+began to "communicate" with others and with itself, it would become
+equipped with the very sorts of states, according to Rosenthal's analysis,
+that suffice for consciousness.
+      if, on the other hand, Rosenthal's analysis of consciousness in
+ terms of higher-order thoughts is rejected, then zombies can live on for
+ another day's thought experiments. I offer this parable of the zimboes
+ tongue in cheek, since I don't think either the concept of a zombie or
+ the folk-psychological categories of higher-order thoughts can survive
+
+        8. In chapter 7 (p. 223). I asked, "teased to the surface of what?" and promised to
+answer the question later. This is my answer. The (metaphorical) surface is determined
+by the fonnat of Interactions between the parts.
+        9. It is interesting to compare different traces of this idea of the User-in-the-brain
+in the work of widely disparate thinkers. Here is Minsky (1985): "To overstate the case
+a bit, what we call 'consciousness' consists of little more than menu lists that flash, from
+time to time, on mental screen displays that other systems use (p. 571... Divide the
+                                                                                 .
+
+brain into two parts. A and B. Connect the A-brain's inputs and outputs to the real
+world — so it can sense what happens there. But don't connect the B-brain to the outer
+world at all; instead, connect it so that the A-brain is the B-brain's world" Ip.     Minsky
+wisely refrains from venturing any anatomical dividing lines, but others are prepared to
+venture a few. When Kosslyn first speculated about consciousness as a virtual machine,
+he was Inclined to locate the User In the frontal lobes (see also Kosslyn. 1980. p. 21),
+and more recently Edelman has followed his own argument path to the same conclusion.
+put in terms of the "value-dominated self/nonself memory" that he locates in the frontal
+lobes and assigns the task of interpreting the productions of the rest of the brain (Edelman.
+ 1989, p. 102ff).
+
+=== p. 314 ===
+
+      314   THE PHILOSOPHICAL PROBLEMS OF CONSOOUSNESS
+
+except as relics of a creed outworn. Rosenthal has done us an excellent
+service in exposing the logic of these everyday concepts, however, and
+thanks to the clear view we now have of them, we can see what a better
+replacement would be.
+
+      5. PROBLEMS WITH FOLK PSYCHOLOGY
+
+      Rosenthal finds folk psychology positing an ever-expandable hierarchy of higher-order thoughts, conceived to be salient, independent,
+contentful episodes occurring in real time in the mind. How does this
+vision stand up, when we look for confirmation? Are there such distinct
+states and events in the brain? if we're generous about what counts,
+the answer must be yes. There certainly are familiar psychological differences that can be — and typically are — described in these terms.
+     It suddenly occurred to Dorothy that she wanted to leave — and
+     had wanted to leave for quite some time.
+ Here it seems Dorothy acquired the second-order belief — by having a
+ second-order thought — about her desire some time after the desire had
+ gone into effect. There are many everyday cases of this sort: "And then
+ it occurred to him that he was looking right at the missing cuff link."
+ "He loves her — he just doesn't realize it yet." It can hardly be denied
+ that these ordinary sentences allude to genuine transitions from one
+ "state of mind" to another. And intuitively, as Rosenthal points out,
+ the transition is a matter of becoming conscious of the first-order state.
+ When Freud, building on such everyday cases, postulates a vast hidden
+realm of unconscious mental states, they are precisely states that their
+ subjects do not believe they are in. These people are in states of mind
+that it hasn't yet occurred to them — via higher-order thoughts — they
+are in.
+       This way of describing these differences is familiar, but whether
+it is entirely perspicuous is another matter. These are all transitions
+into a better-informed state (to speak as neutrally as possible), and being
+better informed in this way is indeed a necessary condition for reporting
+(as opposed to merely expressing) the earlier "state of mind." Now the
+incautious way of saying this would be: In order to report a mental
+state or event, you have to have a higher-order thought which you
+express. This gives us the picture of first observing (with some inner
+sense organ) the mental state or event, thereby producing a state of
+belief, whose onset is marked by a thought, which is then expressed.
+This causal chain, as we saw, mimics the causal chain for reporting
+
+=== p. 315 ===
+
+ordinary external events: You first observe the event with the help of
+your sense organs, producing in you a belief, and then a thought, which
+you express in your report.
+       This hypothesized higher-order thought is, I think, the "extra level
+of articulation" Otto thought he could discern in his own psychology;
+it is the thought Otto's words express when he reports his own conscious experience. But according to the model of speech-generation we
+sketched in chapter 8, Otto's model has the causation just backwards.
+It is not that first one goes into a higher-order state of self-observation,
+creating a higher-order thought, so that one can then report the lower-order thought by expressing the higher-order thought. It is rather that
+the second-order state (the better-informed state) comes to be created
+by the very process of framing the report. We don't first apprehend our
+experience in the Cartesian Theater and then, on the basis of that acquired knowledge, have the ability to frame reports to express; our being
+able to say what it is like is the basis for our "higher-order beliefs."ba
+       At first a Pandemonium process of speech act design looks wrong
+because it seems to leave out the central observer/decider whose
+thought is eventually going to be expressed. But this is a strength, not
+a weakness, of this model. The emergence of the expression is precisely
+what creates or fixes the content of the higher-order thought expressed.
+There need be no additional episodic "thought." The higher-order state
+ literally depends on — causally depends on — the expression of the
+speech act. But not necessarily on the public expression of an overt
+speech act. In chapter 7, we saw how the organism's need for better
+and better internal communication of information might have led to
+the creation of habits of self-manipulation that could take the place of
+ the evolutionarily more-laborious process of creating an inner eye, an
+
+        10. This is at least close kin to a central theme in Wittgenstein's later work, but
+Wittgenstein declined to develop any positive account or model of the relation between
+what we say and what we are talking about when we (apparently) report our mental
+states. The philosopher Elizabeth Anscombe, in her frustratingly obscure classic. Intention (1957). tried to fill this gap left by Wittgenstein. arguing that it was wrong to claim
+that we know what our intentions are: rather we just can say what our intentions are.
+She also attempted to characterize a category of things we can know without observation.
+There is a flawed discussion of these claims In my Content and Consciousness (1969)
+chapters 8 and 9. 1 have always thought there was something right, and important and
+original, lurking in those passages. My second pass at them is to be found in 'Toward
+a Cognitive Theory of Consciousness' (1978) reprinted In Brainstorms, especially sections IV and V (pp. 164—171 in Brainstorms). This section is my current attempt to bring
+these ideas to light, and is a substantial departure from both earlier versions.
+
+=== p. 316 ===
+
+actual internal organ that could monitor the brain. The only way for a
+human brain to get itself into something like a higher-order belief state,
+we surmised, is to engage in the process rather like reporting first-order
+states to itself.
+      We must break the habit of positing ever-more-central observers.
+As a transitional crutch, we can reconceive of the process as not
+knowledge-by-observation but on the model of hearsay. I believe that
+p because I have been told by a reliable source that p. By whom? By
+myself — or at any rate, by one or more of my "agents." This is not an
+entirely alien way of thinking; we do speak, after all, of the testimony
+of our senses, a metaphor that suggests that our senses do not bring
+exhibits into "court" to show us, but rather tell us of things. Leaning
+on this metaphor (until we can get used to the complexities of a better
+alternative), we might rely on a slogan:
+     If I couldn't talk to myself, I'd have no way of knowing what I
+     was thinking.
+
+      This is not yet quite the right way to think of it, in several regards. First, there is the difference — which I have been glossing over —
+between one entity "talking to itself" and a variety of subsystems
+"talking to each other." A proper transition between these two ideas
+will be negotiated in chapter 13, on the self. Second, as we've seen,
+the emphasis on linguistic expression is an overstatement; there are
+other strategies of self-manipulation and self-expression that are not
+verbal.
+      It may well appear that I am proposing a poor bargain; giving up
+the relative crispness and clarity of the standard folk-psychological
+model, with its hierarchy of inner observations, for a sketchy alternative
+we can still scarcely conceive. But the clarity of the traditional model
+is an illusion, for reasons hinted at in chapter 5, when we explored the
+strange topic of real seeming. Now we can diagnose the problems more
+precisely. Otto is a spokesperson for folk psychology, and if we let him
+continue, he will soon tie himself in knots. Otto's view, which doggedly
+extends the folk-psychological categories "all the way in," generates
+an explosion of distinct "representational states," the relations between
+which generate artifactual conundrums. Otto continues:
+     My public report of a conscious state, should I choose to make
+     one, might contain a mistake. I might make a slip of the tongue,
+     or be mistaken about what a word means and thus misinform you
+     inadvertently. Any such error of expression I didn't catch would
+
+=== p. 317 ===
+
+     be liable to create a false belief in you about the facts — about the
+     way it really is with me. And the mere fact that I didn't happen
+     to catch an error wouldn't mean that there wasn't an error. On the
+     one hand, there is the truth about how it is with me, and then on
+     the other hand, there is what I eventually say about how it is with
+     me (if I choose to do so). Although I tend to be a highly reliable
+     reporter, there is always room for errors to creep in.
+
+      This is one of those situations where two hands aren't enough.
+For, as Rosenthal has shown us, in addition to "how it is with me"
+and "what I eventually say" it seems there must be an intervening third
+fact: my belief about how it is with me." For when I sincerely say what
+I say, meaning what I mean, I express one of my beliefs — my belief
+about how it is with me. Indeed, there is an intervening fourth fact: my
+episodic thought that this is how it is with me.
+      Might my belief about how it is with me be mistaken? Or might
+I only think that this is how it is with me? Or in other words, might it
+only seem to me that this was my current experience? Otto wanted one
+separation, but now we are threatened with more: between the subjective experience and the belief about it, between that belief and the
+episodic thought it spawns on the way to verbal expression, and between that thought and its ultimate expression. And, like the multiplying brooms of the sorcerer's apprentice, there are more separations
+in the offing once we accept these. Suppose I have my subjective experience (that's one thing) and it provides the grounds in me for my
+belief that I'm having it (that's a second thing) which in turn spawns
+the associated thought (a third thing) which next incites in me a communicative intention to express it (a fourth thing), which yields, finally,
+an actual expression (a fifth thing). Isn't there room for error to creep
+into the transition between each thing? Might it not be the case that I
+believe one proposition but, due to a faulty transition between states,
+come to think a different proposition? (If you can "misspeak," can't
+you also "misthink"?) Wouldn't it be possible to frame the intention
+to express a rather different proposition from the one you are thinking?
+And mightn't a defective memory in the communicative intention subsystem lead you to set out with one preverbal message to be expressed
+and end up with a different preverbal message serving as the standard
+against which errors were to be corrected? Between any two distinct
+
+     11. In   Brainstorms, I exploited this feature of folk psychology in my discussion
+of               of phenomenological beliefs'S (l978a. p. 177ff).
+
+=== p. 318 ===
+
+ things there is logical room for error, and as we multiply individual
+ states with definite contents, we discover — or create — multiple
+ sources of error.
+       There is a strong temptation to cut through this tangle by declaring
+ that my thought (or belief) about how it seems to me is just the same
+ thing as what my experience actually is. There is a temptation to insist,
+ in other words, that there is logically no room for error to creep in
+ between them, since they are one and the same thing. Such a claim has
+ some nice properties. It stops the threatened explosion at step one —
+ usually the right place to stop an explosion or regress — and it has
+ some genuine intuitive appeal, brought out nicely in a rhetorical question: What possible sense could be attached to the claim that something
+ only seemed to me to seem to me (to seem to me. .) to be a horse?
+                                                        .
+
+        But here we must tread carefully, tiptoeing around the bones of
+ defunct philosophical theories (including some of my own — cf. Den-nett, 1969, 1978c, 1979a). It might seem that we can stick with the good
+ old-fashioned folk-psychological categories of beliefs, thoughts, beliefs
+ about beliefs, thoughts about experiences, and the like, and avoid the
+ perplexities of self-knowledge by just merging the higher- and lower-order reflexive cases: by declaring that when I believe that I believe
+ that p. for instance, it follows logically that I believe that p, and in the
+ same spirit, when I think I'm in pain, it follows logically that I am in
+ pain, and so forth.
+        If this were so, when I expressed a second-order belief by reporting
+ a first-order belief, for instance, I would really just be dealing with one
+ state, one thing, and the fact that in reporting one thing I was expressing
+ "another" would be due to a mere verbal distinction, like the fact that
+Jones set out to marry his fiancée and ended up marrying his wife.
+        But this merger will not quite do the work that needs to be done.
+To see this, consider once again the role of memory, as conceived of
+in folk psychology. Even if it is intuitively plausible that you cannot
+be mistaken about how it is with you right now, it is not at all intuitively
+plausible that you cannot be mistaken about how it was with you back
+then. If the experience you are reporting is a past experience, your
+memory — on which you rely in your report — might be contaminated
+by error. Perhaps your experience was actually one way, but you now
+misremember it as having been another way. It certainly could seem
+to you now to have seemed to you then to have been a horse — even
+if in fact it seemed to you then to have been a cow. The logical possibility of misremembering is opened up no matter how short the time
+interval between actual experience and subsequent recall — this is
+
+=== p. 319 ===
+
+                                                 SI-4OWANDTELL     319
+
+what gave Orwellian theories their license. But as we saw in chapter
+5, the error that creeps into subsequent belief thanks to Orwellian
+memory-tampering is indistinguishable — both from the outside and
+the inside — from the error that creeps into original experience thanks
+to Stalinesque illusion-construction. So even if we could maintain that
+you have "direct" and "immediate" access to your current judgment
+(your second-order thought about how things seem to you now), you
+will not thereby be able to rule out the possibility that it is a misjudgment about how it seemed to you a moment ago.
+      If we individuate states (beliefs, states of consciousness, states of
+communicative intention, etc.) by their content — which is the standard means of individuation in folk psychology — we end up having
+to postulate differences that are systematically undiscoverable by any
+means, from the inside or the outside, and in the process, we lose the
+subjective intimacy or incorrigibility that is supposedly the hallmark
+of consciousness. We already saw instances of that in the discussion
+in chapter 5 of Orwellian versus Stalinesque models of temporal phenomena. And the solution is not to cling to one or the other doctrine
+made available by folk psychology, but to abandon this feature of folk
+psychology.
+      We replace the division into discrete contentful states — beliefs,
+meta-beliefs, and so forth — with a process that serves, over time, to
+ensure a good fit between an entity's internal information-bearing
+events and the entity's capacity to express (some of) the information
+ in those events in speech. That is what the higher-order states were
+ supposed (by Otto) to ensure, but they failed to carve nature at its joints.
+ Indeed, they posited joints that were systematically indiscernible in
+nature.
+      These artifacts of folk psychology live on, however, as denizens
+in the heterophenomenological worlds of the subjects whose world
+views are indeed shaped by that conceptual scheme. To put the point
+tautologically, since it really does seem to people that they have both
+these beliefs about their experiences, and (in addition) the experiences
+themselves, these experiences and beliefs-about-experiences are both
+part of how it seems to them. And so we have to explain that fact —
+not the fact that our minds are organized into hierarchies of higher-ordered representational "states" of belief, meta-belief, and so forth,
+but that our minds tend to seem to us to be so ordered.
+      I have ventured two reasons why we tend to find this such an
+attractive idea. First, we persist in the habit of positing a separate process of observation (now of inner observation) intervening between the
+
+=== p. 320 ===
+
+circumstances about which we can report and the report we issue —
+overlooking the fact that at some point this regress of interior observers
+must be stopped by a process that unites contents with their verbal
+expression without any intermediary content-appreciator. And second,
+internal communications created in this way do in fact have the effect
+of organizing our minds into indefinitely powerful reflective or self-monitoring systems. Such powers of reflection have often been claimed
+to be at the heart of consciousness, with good reason. We may use the
+oversimplified model of folk psychology as a sort of crutch for the
+imagination when we try to understand self-monitoring systems, but
+when we use it, we risk lapsing into Cartesian materialism. We should
+start learning how to get along without it, and in the next chapter, we
+will take a few more cautious steps.
+

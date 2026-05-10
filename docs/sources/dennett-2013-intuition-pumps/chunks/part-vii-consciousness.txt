@@ -1,0 +1,2228 @@
+=== chunk: dennett-2013-intuition-pumps/part-vii-consciousness ===
+title: Part VII — Tools for Thinking about Consciousness (Chs. 53–64)
+source_pdf: docs/sources/dennett-2013-intuition-pumps/full.pdf
+pdf_pages: 248-310
+page_scheme: pdf
+plan_page_start: 248
+plan_page_end: 310
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 248 ===
+
+                                           VII.
+        TOOLS FOR THINKING ABOUT CONSCIOUSNESS
+
+Well armed with dozens of thinking tools, we finally arrive at the topic
+that many regard as the most puzzling phenomenon in the whole universe.
+Indeed not a few folks have claimed that it is terminally mysterious. We
+will never ever understand consciousness, they declare; it will
+systematically defy the best efforts of our science and philosophy until the
+end of time. Since there are no good reasons to believe in this intellectual
+roadblock, I have to conclude that it is wishful thinking. Some folks hate
+the idea of our uncovering the secrets of how the conscious mind works,
+and just to make sure we don’t impose our understanding on them, they
+counsel that we give it up as a lost cause. If we take their advice, they will
+be right, so let’s ignore them and get on with this difficult, but not
+impossible, quest.
+
+=== p. 249 ===
+
+53. TWO COUNTER-IMAGES
+
+Many of the tools I have introduced earlier deal in one way or another with
+the mind—believing, thinking, and so forth—but I postponed the knotty
+problems of consciousness until now. There is a reason: when people start
+musing about consciousness, they have a way of inflating their notions of
+what consciousness must be, of bamboozling themselves. They tackle the
+hardest issues before they have had a chance to see how much of the work
+(and play) of the mind can be accounted for without first settling the
+perennial questions about conscious experience. Now that we have built a
+base camp, are we ready to tackle the summit? Yes, but if we think of it that
+way, we are already making a mistake of imagination! Our minds don’t
+have a single magnificent summit, consciousness. Contrary to a tradition
+going back at least to Descartes in the seventeenth century, conscious
+phenomena are neither the most “central” nor the “highest” phenomena in
+our minds (Jackendoff, 1987; Dennett, 1991a). A seductive bad image
+needs a counter-image to neutralize it, so here is a simple imagination-adjuster to start us off: recall Cole Porter’s wonderful song “You’re the
+Top” and reflect that maybe you’re not the top—not the summit of the
+mountain, but the whole mountain, and what you know and can tell about
+the mountain that is you is not the view from the summit, but various views
+from halfway up. You might like to think of the phenomena of
+consciousness as rather like the fringe of hair around a bald man’s pate.
+Bear that in mind.
+   And here is another: consciousness is not a medium, like television, into
+which information can get transduced or recorded, and there is no place in
+the brain where “it all comes together” for the appreciation of some Central
+Witness—I call this imaginary place the Cartesian Theater (Dennett,
+1991a). Consciousness is more like fame than television: fame in the brain,
+cerebral celebrity, a way in which some contents come to be more
+influential and memorable than the competition. Instead of arguing for this
+(for the arguments, see Dennett, 1991a, 2005b), I am simply offering you
+this thinking tool, take it or leave it, with some friendly advice: whenever
+you find yourself thinking of entry into consciousness as Arrival at
+Headquarters or as Translation from unconscious neural spike-signals into
+
+=== p. 250 ===
+
+Something Else, remind yourself of these counter-images and ask yourself
+if you might be mis-imagining the phenomena.
+
+=== p. 251 ===
+
+54. THE ZOMBIC HUNCH
+
+Most people have a hunch—it’s no better than that, really—that no robot
+(made of silicon and metal and plastic, etc.) could ever be conscious the
+way we humans are. There is something about our living, breathing,
+organic bodies and brains that is necessary for consciousness. This is an
+intuition that hardly needs pumping, so ubiquitous is it, and maybe these
+people are right. But now that we have some insight into the way our bodies
+and brains can themselves be seen as made of robots made of robots made
+of robots, and so on, all the way down to below the neuron level where the
+motor proteins and other nanobots trudge along making the whole system
+work, we can see that maybe that hunch is just an artifact of impoverished
+imagination: folks have been thinking about robots that are too simple, by
+many orders of magnitude. A friend once responded to this opening gambit
+of mine by trying to nip it in the bud: “I just can’t conceive of a conscious
+robot!” Nonsense, I replied. What you mean is that you won’t conceive of a
+conscious robot. You think it is silly and preposterous to try to take the idea
+seriously. But it’s actually child’s play to conceive of a conscious robot, or,
+for that matter, a conscious choo-choo train (The Little Engine That Could)
+or a conscious Christmas tree (all those sappy children’s stories about
+lonely little fir trees that pine for a home). Anybody who has seen Star
+Wars has spent an hour or so conceiving of R2D2 and C3PO as conscious.
+We have done this since we were children, “without a second thought” for
+the most part. It’s not just easy, it’s almost irresistible when we are
+confronted with something that acts—and especially, talks—like a human
+being.
+   Here’s an interesting fact: since the pioneering work of neuroscientist
+Wilder Penfield in Montreal back in the 1950s, there have been many
+operations that exposed the brains of wide-awake patients who were able to
+say what it was like when their brains were stimulated there or just there. I
+don’t think any participant or observer of one of these operations has ever
+thought, “Oh my gosh! This isn’t a person. This is a zombie. It has to be,
+because when we look inside, all we find is gray matter.” No, it is just too
+obvious—look! listen!—that the patient is conscious. And it would be just
+as obvious, really, if we were to open up somebody’s skull while he or she
+is conversing with us and find the cranial cavity packed with microchips.
+
+=== p. 252 ===
+
+We’d learn, perhaps to our surprise, that a conscious robot was not just easy
+to conceive of or imagine, but actual.
+   Some philosophers think that your imagination would be playing a trick
+on you if you fell for this “merely behavioral” evidence of consciousness
+and jumped to that conclusion. “Don’t fall, don’t jump!” might be their
+motto. Proving that another person is conscious is much harder than that,
+since that person might—it’s at least a logical possibility—be a “zombie.”
+Not a voodoo-style zombie of the sort that one sees in movies or dresses up
+as at Halloween. The walking dead are readily distinguishable from normal
+people by their behavior (and their horrible appearance). Philosophers’
+zombies, in contrast, can be delightful company, the life of the party, as
+loving and joyous and spontaneous as anybody you know. Some of your
+best friends might be zombies. Philosophers’ zombies are (by definition)
+behaviorally indistinguishable from normal conscious human beings, but
+“there’s nobody home”—they entirely lack any inner life, any conscious
+experience. They just appear from the outside to be conscious. If you agree
+with these philosophers that this is a serious issue, if you wonder—given
+the logical possibility of philosophers’ zombies—how there could ever be a
+scientific, materialistic theory of consciousness, then you are gripped by
+the Zombic Hunch.1
+   Let me acknowledge right away that I can feel the Zombic Hunch as
+vividly as anyone. When I squint just right, it does sort of seem that
+consciousness must be something in addition to all the things it does for us
+and to us, some kind of special private glow or here-I-am-ness that would
+be absent in any robot, and that is all but unimaginable as a “mere”
+physical activity of the brain. But I’ve learned not to credit the hunch. I
+think it is a flat-out mistake, a failure of imagination, not an insight into
+necessity. Convincing others of this, however, proves to be no easy task,
+and we will need several different intuition pumps to loosen the grip of the
+Zombic Hunch.
+   To start, we may get our bearings on this logical possibility by
+comparing it with a few others. It is logically possible that you are living in
+the Matrix, and all of the life you see around you and apparently participate
+in is a virtual reality show designed to keep you calm as your actual body
+lies motionless in a high-tech pod of some kind. It is logically possible that
+there aren’t really any carbon atoms; what appear to scientists to be carbon
+atoms are actually kazillions of tiny spaceships piloted by aliens whose life
+
+=== p. 253 ===
+
+work is to pretend that they are carbon atoms. It is logically possible that
+the entire universe was created about six thousand years ago, with all the
+so-called fossils in place and photons streaming in as if from galaxies
+light-years away. (It’s logically possible that the world was created ten
+minutes ago, complete with all the purported memories of your past
+installed in your brain.) We may find such logical possibilities amusing
+premises for fiction, but we don’t take them seriously as signs that our
+physics and chemistry and biology need to be overhauled or abandoned. Is
+there anything that makes the Zombic Hunch more substantial, more
+worthy of consideration? Many serious thinkers have thought so.
+   Perhaps the grandfather of all intuition pumps designed to yield
+something like the Zombic Hunch was invented hundreds of years ago by
+Gottfried Wilhelm Leibniz, the philosopher/mathematician who shares
+credit with Isaac Newton for inventing calculus. He was as smart and
+ingenious as any thinker in his age, and yet he fell for this intuition pump
+of his own devising.
+         And supposing there were a machine, so constructed as to think,
+         feel, and have perception, it might be conceived as increased in
+         size, while keeping the same proportions, so that one might go
+         into it as into a mill. That being so, we should, on examining its
+         interior, find only parts which work one upon another, and never
+         anything by which to explain a perception. Thus [my italics] it is
+         in a simple substance, and not in a compound or in a machine,
+         that perception must be sought for. [Leibniz, 1714, para. 17]
+   This “Thus” is one of the most glaring non sequiturs in all of philosophy.
+Leibniz doesn’t give us any intervening argument for the conclusion; he
+thinks it is too obvious to need any. Recall William Bateson, the earlytwentieth-century geneticist who couldn’t imagine that genes could be
+material entities (see p. 100). Just as Bateson had no way of taking
+seriously the extravagant idea of three-billion base-pairs in a double helix
+inside every cell (preposterous!), Leibniz had no way of taking seriously
+the idea of a “mill” with trillions of moving parts. He would insist, no
+doubt, that “just adding more parts” couldn’t take you from machinery to
+mind, but that would be only his hunch, not anything he could claim to
+demonstrate. But if Darwin, Crick, and Watson have exposed Bateson’s
+failure of imagination, Turing has rendered Leibniz’s intuition pump
+obsolete. Except that he hasn’t. Not yet. In due course, I think, the Zombic
+
+=== p. 254 ===
+
+Hunch will fade into history, a curious relic of our spirit-haunted past, but I
+doubt that it will ever go extinct. It will not survive in its current, mind-besotting form, but it will survive as a less virulent mutation, still
+psychologically powerful but stripped of authority. We’ve seen this happen
+before. It still seems as if the earth stands still and the sun and moon go
+around it, but we have learned that it is wise to disregard this as mere
+appearance. It still seems as if there’s a difference between a thing at
+absolute rest and a thing that is merely not accelerating within an inertial
+frame, but we have learned not to trust this feeling. I anticipate a day when
+philosophers and scientists and laypeople will chuckle over the fossil traces
+of our earlier bafflement about consciousness: “It still seems as if these
+mechanistic theories of consciousness leave something out, but of course
+we now understand that that’s an illusion. They do, in fact, explain
+everything about consciousness that needs explanation.”
+   Continuing allegiance to the Zombic Hunch is actually fostered by many
+philosophers’ thought experiments, such as John Searle’s famous Chinese
+Room, the inspiration for my coinage, “intuition pump.” It will soon get
+dismantled in front of your eyes. But first I want to explore the concept of
+philosophical zombies a bit more carefully.
+
+1 One reader of an early draft of this book thought I was making all of this up. If you share that
+suspicion, check out the long, deadly serious article on philosophical zombies in the august
+Stanford Encyclopedia of Philosophy, online at http://plato.stanford.edu/entries/zombies/.
+
+=== p. 255 ===
+
+55. ZOMBIES AND ZIMBOES
+
+When people say they can conceive of (philosophical) zombies, we are
+entitled to ask them how they know. Conceiving is not easy! Can you
+conceive of more than three dimensions? The curvature of space? Quantum
+entanglement? Just imagining something is not enough—and in fact,
+Descartes tells us, it is not conceiving at all. According to Descartes,
+imagining uses your (ultimately mechanistic) body, with all its limitations
+(nearsightedness, limited resolution, angle, and depth); conceiving uses just
+your mind, which is a much more powerful organ of discernment,
+unfettered by the requirements of mechanism. He offers a compelling
+example of the difference: the chiliagon, a regular thousand-sided polygon.
+Can you conceive of one? Can you imagine one? What is the difference?
+Let’s try imagining one first. Start with a pentagon, say, then imagine a
+decagon. It’s hard, but you know what to do: bend each side of the pentagon
+in the middle and push out a little bit, turning five equal sides into ten. How
+far should you push out? Just inscribe the pentagon inside a circle and push
+the new sides out till they intersect the circle. Now do it again, making an
+icosagon, with twenty sides.
+
+Do it again, and again seven more times, and you’ll have a regular 1,280sided polygon, which is well-nigh indistinguishable from a circle in
+imagination, but is as distinct in conception from a circle—and from a
+chiliagon—as a square is distinct from a circle. If I ask you to imagine a
+circle inside a chiliagon inside a circle inside a chiliagon inside a circle,
+making a sort of bull’s-eye target, can you tell in your mental image which
+
+=== p. 256 ===
+
+are the circles and which are the chiliagons? No, they all look just like
+circles, but you have no difficulty conceiving of the circumstance you’ve
+been asked to think about.
+   Descartes doesn’t tell you to perform such constructions; to him
+conception, like imagination, is a kind of direct and episodic mental act,
+glomming without bothering to picture, or something like that. You
+somehow just grasp (mentally) the relevant concepts (SIDE, THOUSAND,
+REGULAR, POLYGON), and shazam! You’ve got it. I have always been
+suspicious of this Cartesian basic act of conceiving. If you can do it, good
+for you, but I find that I can’t (any more than I can conceive a baby, in
+another sense of the term). I am not confident that I have succeeded in
+conceiving of something until I have manipulated the relevant ideas for
+some time, testing out implications in my mind, doing exercises, in effect,
+until I get fluent in handling the tools involved. (And when I do these
+mental gymnastics, I make heavy use of my imagination, exploring various
+diagrams and pictures in my head, for instance. In short, I exploit what
+Descartes would disparage as merely my imagination to accomplish what
+he would celebrate as my conception.) Can you conceive of string theory?
+Do you find all that talk about umpteen dimensions filled with superstrings
+and “branes” and the like easy to make sense of, easy to test for logical
+consistency? It is unintelligible to me, but for that very reason I wouldn’t
+be willing to declare it inconceivable or impossible (Ross, 2013). I am
+unconvinced, but I am also not so confident in my own conceptual abilities
+as to dismiss it as nonsense. I haven’t been able to conceive of the truth of
+string theory yet. We should not put much weight on blithe verdicts of
+conceivability or inconceivability in the absence of careful demonstrations.
+Bateson said that a material gene was “inconceivable,” but if he were alive
+today, he could readily learn to conceive of one. After all, children in grade
+school learn about the double helix with all its rungs, a phenomenon that
+proves readily conceivable to them once they get the hang of it. But no
+amount of new information and techniques of imagination will help us
+conceive of a round square (a regular four-sided polygon whose boundaries
+are everywhere equidistant from its center), or a largest prime number.
+   I am pretty sure that a philosophers’ zombie is conceptually incoherent,
+impossible, a bankrupt idea. But don’t take my word for it. What could you
+do to convince yourself that you can conceive of a philosophers’ zombie?
+Suppose you try to imagine that your friend Zeke “turns out to be” a
+
+=== p. 257 ===
+
+zombie. What would convince you or even tempt you to conclude that this
+is so?1 What difference would make all the difference? Remember, nothing
+Zeke could do should convince you that Zeke is, or isn’t, a zombie. I find
+that many people don’t do this exercise correctly; that is, they
+inconveniently forget or set aside part of the definition of a philosophers’
+zombie when they attempt their feat of conception. It may help you see if
+you are making this mistake if we distinguish a special subspecies of
+zombies that I call zimboes (Dennett, 1991a). All zombies have
+nonconscious (of course) control systems that extract information from the
+world (via their zombie eyeballs and ears) and exploit that information to
+avoid walking into walls and to turn when you call, and so on. They are all
+intentional systems, in other words. But a zimbo is special, a zombie that is
+also blessed with equipment that permits it to monitor its own activities,
+both internal and external, so it has internal (nonconscious) higher-order
+informational states that are about its other internal states. Further self-monitoring allows a zimbo to have and use information about those very
+self-monitoring states, and so on, indefinitely. A zimbo, in other words, is
+equipped with recursive self-representation—unconscious recursive self-representation, if that makes any sense. It is only in virtue of this special
+talent that a zimbo can participate in the following sort of conversation:
+         YOU: Zeke, do you like me?
+         ZEKE: Of course I do. You’re my best friend!
+         YOU: Did you mind my asking?
+         ZEKE: Well, yes, it was almost insulting. It bothered me that you
+         asked.
+         YOU: How do you know?
+         ZEKE: Hmm. I just recall feeling a bit annoyed or threatened or
+         maybe just surprised to hear such a question from you. Why did
+         you ask?
+         YOU: Let me ask the questions, please.
+         ZEKE: If you insist. This whole conversation is actually not sitting
+         well with me.
+Remember: since a philosophical zombie is declared to be behaviorally
+indistinguishable from a conscious person, behaviors like carrying out this
+conversation are within its repertoire, and in order to control such
+behaviors the zombie is going to need recursive self-representation. It can
+“think” (in its unconscious zombie way) about how it feels about how it felt
+
+=== p. 258 ===
+
+about what it was thinking of when it wondered whether . . . , and so forth.
+It is easy enough to imagine your dreadful suspicions being aroused if Zeke
+just draws a blank, becoming weirdly unresponsive when you query him
+this way, but that would be discovering that if Zeke is a zombie, he isn’t a
+zimbo. You should always make sure you’re thinking of a zimbo when you
+ask if a philosophers’ zombie is a real possibility, for only a being with
+recursive self-representation would be able to hold its own in everyday
+interactions like this conversation, to say nothing of writing poetry, framing
+novel scientific hypotheses, and acting in dramas, all of which are within
+the competences of zimboes—by definition.
+   Unless you go to the trouble of imagining, in detail, how
+indistinguishable “normal” Zeke would be from zimbo Zeke, you haven’t
+really tried to conceive of a philosophers’ zombie. You’re like Leibniz,
+giving up without half trying. Now ask yourself a few more questions. Why
+would you care whether Zeke is a zimbo? Or more personally, why would
+you care whether you are, or became, a zimbo? In fact, you’d never know.
+   Really? Does Zeke have beliefs? Or does he just have sorta beliefs, “you
+know, the sort of informational states-minus-consciousness that guide
+zimboes through their lives the way beliefs guide the rest of us”? Only
+here, the sorta beliefs are exactly as potent, as competent, as “the real
+thing,” so this is an improper use of the sorta operator. We can bring this
+out by imagining that left-handers (like me, DCD) are zimboes; only right-handers are conscious!
+          DCD: You say you’ve proved that we lefties are zombies? I never
+          would have guessed! Poor us? In what regard?
+          RIGHTIE: Well, by definition you’re not conscious—what could be
+          worse than that?
+          DCD: Worse for whom? If there’s nobody home, then there’s
+          nobody in the dark, missing out on everything. But what are you
+          doing, trying to have a conversation with me, a zimbo?
+          RIGHTIE: Well, there seems to me to be somebody there.
+          DCD: To me too! After all, as a zimbo, I have all manner of
+          higher-order self-monitoring competences. I know when I’m
+          frustrated, when I’m in pain, when I’m bored, when I’m amused,
+          and so forth.
+          RIGHTIE: No. You function as if you knew these things, but you
+          don’t really know anything. You only sorta know these things.
+
+=== p. 259 ===
+
+         DCD: I think that’s a misuse of the sorta operator. What you’re
+         calling my sorta knowledge is indistinguishable from your so-called real knowledge—except for your “definitional” point:
+         zimbo knowledge isn’t real.
+         RIGHTIE: But there is a difference, there must be a difference!
+         DCD: That sounds like bare prejudice to me.
+   If this isn’t enough rehearsal of what it would be like to befriend a
+zimbo, try some more. Seriously, consider writing a novel about a zimbo
+stuck in a world of conscious people, or a conscious person marooned on
+the Island of the Zimboes. What details could you dream up that would
+make this a credible tale? Or you could take an easier path: read a good
+novel while holding onto the background hypothesis that it is a novel about
+zimboes. What gives it away or disconfirms your hypothesis? Novelists
+have a choice of standpoints or narrative modes, including the first-person
+narrative used by Herman Melville in Moby-Dick and by J. D. Salinger in
+The Catcher in the Rye:
+         “Call me Ishmael.”
+         “When I really worry about something, I don’t just fool around. I
+         even have to go to the bathroom when I worry about something.
+         Only, I don’t go. I’m too worried to go. I don’t want to interrupt
+         my worrying to go.”
+Other novelists opt for the third-person omniscient narrative. Curiously,
+the first-person narrative mode might seem to lend itself more to sustaining
+the zombie hypothesis. After all, the entire story merely depicts that
+narrative behavior of Zimbo Ishmael or Zimbo Holden Caulfield. We see
+only their outsides, and what they purport to be accounts drawing on their
+inner lives! Compare those first-person narratives to these third-person
+narratives in Jane Austen’s Persuasion and Fyodor Dostoevsky’s Crime and
+Punishment, for example:
+         She [Elizabeth] felt that Mrs Musgrove and all her party ought to
+         be asked to dine with them, but she could not bear to have the
+         difference of style, the reduction of servants, which a dinner must
+         betray, witnessed by those who had been always so inferior to the
+         Elliots of Kellynch. It was a struggle between propriety and
+
+=== p. 260 ===
+
+          vanity; but vanity got the better, and then Elizabeth was happy
+          again.
+          He [Raskolnikov] looked at Sonia and felt how great her love for
+          him was, and, strange to say, he felt distressed and pained that he
+          should be loved so much. Yes, it was a queer and dreadful
+          sensation.
+   Here, it seems, the authors let us “look right into the minds” of Elizabeth
+and Raskolnikov, so how could they be zimboes? But remember: where
+conscious people have a stream of consciousness, zimboes have a stream of
+unconsciousness. After all, zimboes are not supposed to be miraculous;
+their behaviors are controlled by a host of internal goings-on of tremendous
+informational complexity, and modulated by functional emotion-analogues
+that amount to happiness, distress, and pain. So both Elizabeth and
+Raskolnikov could be zimboes, with Austen and Dostoevsky using the
+terms we all know and love from folk psychology to render descriptions of
+their inner goings-on, just as chess programmers talk about the iterated
+“searches” and risky “judgments” of their computer programs. A zimbo can
+be embarrassed by a loss of social status, or smothered by love.
+   Never forget William Bateson’s failure of imagination. When I try my
+hardest to avoid that trap, hunting for loopholes in my background
+assumptions, keeping my eye peeled for ways in which I could be proved
+wrong about zombies, I always come up with imagined discoveries that
+show, at most, that the whole concept of consciousness is seriously
+confused. For instance, I can imagine that there might be two (or seven, or
+ninety-nine) different sorts of so-called consciousness, and lefties have
+one, and righties have another, and lobsters have yet another. But the only
+way I can imagine this (so far) is by imagining that they are
+distinguishable by the following functional differences: lefties can’t do X,
+and righties can’t do Y, and so on. But those distinguishable differences
+just go to show that we’re not talking about philosophical zombies after all,
+for (by definition) there are no distinguishable-from-the-outside
+differences between philosophical zombies and “genuinely conscious”
+people. And nobody has yet been able to articulate a distinguishable-fromthe-inside mark of genuine consciousness that doesn’t somehow involve
+the putatively conscious person being able to do something “mental” that
+convinces us (and her) that she is conscious. But whatever this mental
+difference is would presumably have its counterpart sham version in the
+
+=== p. 261 ===
+
+zombie’s “stream of unconsciousness.” If not, why not? So I am quite
+confident that the whole idea of a philosophical zombie is a sort of
+intellectual hallucination, an affliction one can outgrow. Try it. I’ll provide
+some further assistance for this task of self-persuasion later in this section.
+
+1 This is another one of those places where some philosophers would like to accuse me of
+confusing a metaphysical question with an epistemological question: “Don’t ask how we would
+know someone is a zombie! Ask what it is to be a zombie!” Metaphysics so isolated from
+epistemology is, at best, an exercise in fantasy.
+
+=== p. 262 ===
+
+56. THE CURSE OF THE CAULIFLOWER
+
+I see you tucking eagerly into a helping of steaming cauliflower, the merest
+whiff of which makes me faintly nauseated, and I find myself wondering
+how you could possibly relish that taste, and then it occurs to me that to
+you, cauliflower probably tastes (must taste?) different. A plausible
+hypothesis, it seems, especially since I know that the very same food often
+tastes different to me at different times. For instance, my first sip of
+breakfast orange juice tastes much sweeter than my second sip if I
+interpose a bit of pancakes and maple syrup, but after a swallow or two of
+coffee, the orange juice goes back to tasting (roughly? exactly?) the way it
+did during the first sip. Surely (ding!) we want to say (or think about) such
+things, and surely (ding!) we are not wildly wrong when we do, so . . .
+surely (ding!) it is quite okay to talk of the way the juice tastes to Dennett
+at time t, and ask whether it is just the same as or different from the way
+the juice tastes to Dennett at time t’, or the way the juice tastes to Jones at
+time t. Call these ways things can seem to us qualia.
+   This “conclusion” seems innocent, but right here we have already made
+the big mistake. The final step presumes that we can isolate the “qualia”
+from everything else that is going on—at least in principle or for the sake
+of argument. What counts as the way the juice tastes to x can be
+distinguished, one supposes, from what is a mere accompaniment,
+contributory cause, or by-product of this “central” way. One dimly
+imagines taking such cases and stripping them down gradually to the
+essentials, leaving their common residuum, the way things look, sound,
+feel, taste, smell to various individuals at various times, independently of
+how those individuals are stimulated or non-perceptually affected, and
+independently of how they are subsequently disposed to behave or believe.
+The mistake is not in supposing that we can in practice ever or always
+perform this act of purification with certainty, but the more fundamental
+mistake of supposing that there is such a residual property to take seriously,
+however uncertain our actual attempts at isolation of instances might be.
+   The examples that seduce us are abundant in every modality. I cannot
+imagine, will never know, could never know, it seems, how Bach sounded to
+Glenn Gould. (I can barely recover in my memory the way Bach sounded to
+
+=== p. 263 ===
+
+me when I was a child.) And I cannot know, it seems, what it is like to be a
+bat (Nagel, 1974), or whether you see what I see, color-wise, when we look
+up at a clear “blue” sky. These everyday cases convince us of the reality of
+these special properties—those subjective tastes, looks, aromas, sounds—
+that we then apparently isolate for definition by this act of philosophical
+distillation. Thus are qualia born.
+   “Qualia” is a “technical” term for something that could not be more
+familiar to each of us: the ways things seem to us. Nothing, it seems, could
+you know more intimately than your own qualia; let the entire universe be
+some vast illusion, some mere figment of Descartes’s evil demon, and yet
+what the figment is made of (for you) will be the qualia of your
+hallucinatory experiences. Descartes claimed to doubt everything that
+could be doubted, but he never doubted that his conscious experiences had
+qualia, the properties by which he knew or apprehended them.
+   This definition of qualia may seem clear enough—the ways things seem
+to us—but although qualia thus introduced have been the subject of much
+analysis and discussion by philosophers, there is still no consensus about
+just what the term means or implies, technically speaking. Many cognitive
+scientists have made the charitable assumption that philosophers must
+know what they are talking about when they use this special term, and have
+added the term to their working vocabulary, but this is a tactical mistake.
+Controversy still rages on what qualia are and aren’t, quite independently
+from any empirical issues. Some years ago, in an essay, I (1988a) proposed
+that the root concept of qualia has four conditions. Qualia are
+
+1. ineffable,
+2. intrinsic,
+3. private, and
+4. directly apprehensible ways things seem to one.
+That is to say, they are (1) somehow atomic to introspection, and hence
+indescribable (“you had to be there”); (2) not relational or dispositional or
+functional (the color red may be anxiety-provoking to some people, but that
+subjective disposition is not a quale of red); (3) “You had to be there, but
+you can’t be; they’re mine and mine alone!”; and (4) your qualia are known
+to you more intimately than anything else.
+   This is still regarded as a good starting place in most circles, but since
+the point of that essay was to show that nothing could meet these four
+
+=== p. 264 ===
+
+conditions, there has been ample discussion of revised or improved
+versions of the concept, with no emerging consensus. It is not unusual for a
+much-used and generally highly regarded technical term to have multiple
+incompatible definitions—think of “gene” or “species” in biology and
+“cause” almost everywhere in science—but the disarray surrounding
+“qualia” strikes me as worse, a Trojan horse to anyone in other disciplines
+who thinks of the concept as a gift from philosophy that might come in
+handy in their own research.
+   I trotted out thirteen other intuition pumps (in addition to the
+cauliflower) in that essay, and I will not repeat any of them here, since over
+the years I have devised other, probably more powerful tools to wield in my
+continuing battle against the complacency expressed in a famous response
+to the challenge to say what, exactly, qualia are. Ned Block (1978, p. 281)
+dismissed this obstreperous query “only half in jest” by invoking Louis
+Armstrong’s legendary reply when he was asked what jazz was: “If you got
+to ask, you ain’t never gonna get to know.” This amusing tactic perfectly
+expresses the presumption that is my target. If I succeed in my task, this
+response of Block’s, which still passes muster in most circles today, will
+look as quaint and insupportable as a jocular expression of disbelief by a
+vitalist who, when confronted with a person—“a living thing, mind you!”—
+claimed to doubt the very existence of élan vital.
+
+=== p. 265 ===
+
+57. VIM: HOW MUCH IS THAT IN “REAL MONEY”?
+
+It is a common opinion that although you could construct a robotic model
+of color vision, say, that exhibited all the familiar phenomena we humans
+experience, such as complementary afterimages and color contrast
+illusions, and although the robot would have similar internal processes that
+accounted for its afterimages and so forth, since “it’s just a robot” it
+couldn’t have red and blue qualia. The functional states that signaled or
+represented colored things in front of the robot’s television camera eyes
+would not have that extra something that we have. Thomas Nagel’s famous
+essay “What Is It Like to Be a Bat?” (1974) provides us with a standard
+way of alluding to the conscious states, if any, of an entity. It wouldn’t be
+like anything to be a robot having an afterimage. Why do so many people
+think this is obvious? It might be because they are imagining a relatively
+simple robot and failing to note that you can’t draw conclusions about all
+robots from facts about all simple robots. Of course if you define qualia as
+intrinsic properties of experiences considered in isolation from all their
+causes and effects, and logically independent of all dispositional properties,
+then qualia are logically guaranteed to elude all functional analysis. No
+amount of clever engineering could endow a robot with qualia—but this is
+an empty victory, since there is no reason to believe such intrinsic
+properties exist.
+   To see this, compare the qualia of experience to the value of money.
+Some naïve Americans seem to think that dollars, unlike euros and yen,
+have intrinsic value. The tourist in the cartoon asks, “How much is that in
+real money?” meaning how much is that in dollars. Let’s push this idea a
+little farther: These naïve Americans are willing to exchange dollars for
+euros; they are happy to “reduce” the value of other currencies to their
+exchange rate with dollars (or goods and services), but when they do this,
+they have a sense that dollars are different. Every dollar, they declare, has
+something logically independent of the functional exchange powers it
+shares with all other currencies in circulation. A dollar has a certain je ne
+sais quoi. When you contemplate it, you can detect that it has an aura of
+value—less than in the olden days, perhaps, but still discernible: let’s call it
+the dollar’s vim (from the Latin, vis, meaning power). Officially, then, vim
+is the non-relational, non-dispositional, intrinsic economic value of a
+
+=== p. 266 ===
+
+dollar. Pounds sterling and euros and the like have no intrinsic value—they
+are just symbolic stand-ins; they are redeemable for dollars, and hence
+have derived economic value, but they don’t have vim! How sad for those
+Europeans! Their currencies lack intrinsic economic value! How do they
+bear it? How do they motivate themselves to earn their pay, these poor
+vimbies! Those of us fortunate enough to get paid in dollars acquire items
+with a good helping of vim attached. No wonder the U.S. dollar has been
+adopted as the currency of choice in so many nations! Even foreigners can
+sense the vim of a dollar.
+    So say our imaginary American tourists. So defined, the vim of each
+dollar is guaranteed to elude the theories of economists forever, since no
+economic theory could ever account for intrinsic economic value. So much
+the worse for economics? The existence of vim would render economics a
+seriously incomplete science, but fortunately, we have no good reason to
+believe that there is such a thing as intrinsic economic value. Vim is quite
+obviously a figment of the imagination, an artifact of the heartfelt hunches
+of those naïve Americans, and we can explain the artifact without honoring
+it.
+    Some participants in the consciousness debates are rather like the
+imaginary tourists. They simply insist, flat out, that their intuitions about
+intrinsic phenomenal properties are a nonnegotiable starting point for any
+science of consciousness. Such a conviction should be considered an
+interesting symptom deserving a diagnosis, a datum that any science of
+consciousness must account for, in the same spirit that economists and
+psychologists might set out to explain why so many people succumb to the
+potent illusion that money has intrinsic value. (When Europe switched to
+the euro, people who were used to conceiving of prices in terms of francs
+and marks and lire and the like went through an awkward period when they
+could no longer rely on “translations” into their home-grown versions of
+“real money.” See Dehaene and Marques, 2002, for a pioneering
+exploration of this phenomenon.)
+    There are many properties of conscious states that can and should be
+subjected to further scientific investigation right now, and once we get
+accounts of them in place, we may well find that they satisfy us as an
+explanation of what consciousness is. After all, this is what happened in the
+case of the erstwhile “mystery” of what life is. Vitalism—the insistence
+that there is some big, mysterious extra ingredient in all living things,
+
+=== p. 267 ===
+
+dubbed élan vital—turns out to have been a failure of imagination. Vitalism
+today is all but extinct, though there are still a few cranks around who
+haven’t given up. Inspired by that happy success story, we can proceed with
+our scientific exploration of consciousness. If the day arrives when all the
+demonstrable features of consciousness are explained, all the
+acknowledged intellectual debts are paid, and we plainly see that something
+big is missing (it should stick out like a sore thumb at some point, if it is
+really important), those with the unshakable hunch will get to say they told
+us so. In the meantime, they can worry about how to fend off the diagnosis
+that they, like the vitalists before them, have been misled by an illusion.
+Here is the challenge, then, to those who believe in qualia as intrinsic
+properties of experiences: How do they distinguish their conviction from
+the mistake of the naïve Americans? (Or are the Americans right? Dollars
+do have vim, as anybody can just intuit!)
+
+=== p. 268 ===
+
+58. THE SAD CASE OF MR. CLAPGRAS
+
+So what are qualia, then, if not intrinsic properties of conscious
+experiences? One evening, over a fine bottle of Chambertin, the
+philosopher Wilfrid Sellars said to me, “Dan, qualia are what make life
+worth living!” That’s an attractive idea. Let’s consider what it would imply
+about qualia. To see what is at issue, I will present an intuition pump
+against a background of recent work in cognitive neuroscience on several
+bizarre and counterintuitive pathologies: prosopagnosia and Capgras
+delusion.
+   Prosopagnosics have normal vision in most regards, but they cannot
+recognize faces. They can tell a male from a female, old from young,
+African from Asian, but faced with several close friends of the same gender
+and age, they are unable to tell which is which until they hear a voice or
+detect some other identifying peculiarity. Given a row of photographs of
+people, including famous politicians and movie stars, family members, and
+anonymous strangers, a prosopagnosic asked to identify any who are known
+to him will generally perform at chance. Those of us who are not
+prosopagnosics may find it difficult to imagine what it’s like to look right
+at one’s mother, say, and be unable to recognize her. Some may find it hard
+to believe that prosopagnosia exists. When I tell people about these
+phenomena, I often discover skeptics who are quite confident that I am
+making these facts up. But we must learn to treat such difficulties as
+measures of our frail powers of imagination, not insights into impossibility.
+Prosopagnosia (from the Greek prosopon, which means “face,” and
+agnosia, “not knowing”) is a well-studied, uncontroversial pathology
+afflicting thousands of people.
+   One of the most interesting facts about (many) prosopagnosics is that in
+spite of their inability to identify or recognize faces as a conscious task,
+they can respond differently to familiar and unfamiliar faces, and even
+respond in ways indicating that unbeknownst to themselves, or covertly,
+they were able to identify the faces they were unable to identify when
+asked. For instance, such covert recognition is demonstrated when
+prosopagnosics are shown pictures and given five candidate names from
+which to choose. They choose at chance, but their galvanic skin response—
+a measure of emotional arousal—shows a distinct rise when they hear the
+
+=== p. 269 ===
+
+correct name associated with the picture. Or consider this simple test:
+Which of the following are names of politicians: Marilyn Monroe, Al Gore,
+Margaret Thatcher, Mike Tyson? You should be able to execute this task
+swiftly, but if each name were shown with the wrong picture of the person,
+your response would be markedly delayed. This could be explained only if
+at some level, you were actually identifying the faces, even though it was
+strictly irrelevant to the task. It seems, then, that there are (at least) two
+largely independent visual face-recognition systems in the brain: the
+impaired conscious system, which cannot help the subjects in the task
+presented by the experiment, and the unimpaired unconscious system,
+which responds with agitation to the mismatched names and faces. Further
+tests show that the impaired system is “higher,” in the visual cortex, while
+the unimpaired system has connections to the “lower,” limbic system. This
+oversimplifies a richer story about the varieties of prosopagnosia and what
+is now known about the brain areas involved, but it will do for our
+purposes, when we turn to the even stranger pathology known as Capgras
+delusion (first described by the French psychiatrist Jean Marie Joseph
+Capgras in 1923).
+   People who suffer from Capgras delusion suddenly come to believe that
+a loved one—a spouse or lover or parent, in most cases—has been covertly
+replaced with a replica impostor. Capgras sufferers are not insane; they are
+otherwise quite normal people who, as a result of brain injury, suddenly
+acquire this particular belief, which they maintain with such confidence, in
+spite of its extravagance or its utter unlikeliness, that in some cases they
+kill or seriously harm the “impostor”—actually their loved one. At first
+glance it must seem simply impossible for any brain damage to have
+precisely this weird effect. (Should we also expect there to be people who
+get hit on the head and thereafter believe that the moon is made of green
+cheese?) But cognitive neuroscientist Andrew Young saw a pattern, and
+proposed that the Capgras delusion was simply the “opposite” of the
+pathology that produces prosopagnosia. In Capgras, the conscious, cortical
+face-recognition system is spared—that’s how the deluded sufferer
+recognizes the person standing in front of him as the spitting image of his
+loved one—but the unconscious, limbic system is disabled, draining the
+recognition of all the emotional resonance it ought to have. The absence of
+that subtle contribution to identification is so upsetting (“Something’s
+missing!”) that it amounts to a pocket veto on the positive vote of the
+
+=== p. 270 ===
+
+surviving system’s identification of the familiar person: the emergent result
+is the sufferer’s heartfelt conviction that he or she is looking at an impostor.
+Instead of blaming the mismatch on their own faulty perceptual system,
+Capgras sufferers blame the world, in a way that is so metaphysically
+extravagant, so improbable, that there can be little doubt of the power (the
+political power, in effect) that the impaired unconscious face-recognition
+system normally has in us all. When this particular system’s epistemic
+hunger goes unsatisfied, it throws such a fit that it overthrows the
+contributions of the other systems.
+   Haydn Ellis and Young first proposed this hypothesis in 1990, and since
+then Young and neuroscientist Chris Frith and others have confirmed and
+elaborated it. There are, of course, complications that I will not dwell on,
+since I want to use this particular bit of imagination-stretching cognitive
+neuroscience to open our minds to yet another possibility, not yet found but
+imaginable. This is the imaginary case of poor Mr. Clapgras, a name I have
+made up to remind us of its inspiration: the real syndrome of Capgras
+delusion. (This scenario joins a large throng of philosophers’ intuition
+pumps exploring imaginable disruptions in a person’s consciousness that
+might bear on the nature of qualia.)
+   Mr. Clapgras earns a modest living as an experimental subject in
+psychological and psychophysical experiments, so he is far from naïve
+about his own subjective states. One day he wakes up and cries out in
+despair as soon as he opens his eyes: “Aargh! There’s something wrong!
+The whole world is just . . . weird, just . . . awful, somehow wrong! I don’t
+know if I want to go on living in this world!” Clapgras closes his eyes and
+rubs them; he cautiously opens them again, only to be confronted yet again
+by a strangely disgusting world, familiar but also different in some way
+that defies description. That’s what he says. “What do you see when you
+look up?” he is asked. “Blue sky, with a few fleecy white clouds, some
+yellowish-green buds on the springtime trees, a bright red cardinal perched
+on a twig,” he replies. Apparently his color vision is normal, but just to
+check, he is given the standard Ishihara test, which shows he is not colorblind, and he correctly identifies a few-dozen Munsell color chips. Almost
+everybody is satisfied that whatever poor Mr. Clapgras’s ailment is, it
+doesn’t involve his color vision, but one researcher, Dr. Chromaphil, holds
+out for a few more tests.
+
+=== p. 271 ===
+
+   Chromaphil has been conducting research on color preferences,
+emotional responses to color, and the effects of different colors on
+attention, concentration, blood pressure, pulse rate, metabolic activity, and
+a host of other subtle visceral responses. Over the past six months he has
+accumulated a huge database of Mr. Clapgras’s responses, both
+idiosyncratic and common, on all these tests, and he wants to see if there
+have been any changes. He retests Clapgras and notices a stunning pattern:
+all the emotional and visceral responses Clapgras used to exhibit to blue he
+now exhibits to yellow, and vice versa. His preference for red over green
+has been reversed, as have all his other color preferences. Food disgusts
+him—unless he eats in the dark. Color combinations he used to rate as
+pleasing he now rates as jarring, while finding the combinations of their
+“opposites” pleasing, and so forth. The shade of shocking pink that used to
+set his pulse racing he still identifies as shocking pink (though he marvels
+that anybody could call that shade of pink shocking), but it is now calming
+to him, while its complement, a shade of lime green that used to be
+calming, now excites him. When he looks at paintings, his trajectory of
+saccades—the swift jumps our eyes make as they scan anything—is now
+profoundly unlike his earlier trajectories, which were apparently governed
+by subtle attention-grabbing, gaze-deflecting effects of the colors on the
+canvas. His ability to concentrate on mental arithmetic problems,
+heretofore seriously depressed by putting him in a bright-blue room, is now
+depressed by putting him in a bright-yellow room.
+   In short, although Clapgras does not complain about any problems of
+color vision, and indeed passes all standard color-naming and color-discriminating tests with, well, flying colors, he has undergone a profound
+inversion of all his emotional and attentional reactions to colors. What has
+happened to Clapgras, Dr. Chromaphil tells his amazed and skeptical
+colleagues, is simple: he’s undergone a total color qualia inversion, while
+leaving intact his merely high-level cognitive color talents—his ability to
+discriminate and name colors, for instance, the talents a color-sensitive
+robot could have.
+   Now what should we say? Have Clapgras’s qualia been inverted? Since
+the case is imaginary, it seems that we can answer it however we like, but
+philosophers have been taking other imaginary cases seriously for years,
+thinking that profound theoretical issues hinge on how they are decided, so
+we mustn’t just dismiss the case. First, is this a possible case? It may
+
+=== p. 272 ===
+
+depend on what kind of possibility we are talking about. Is it logically
+possible? Is it physiologically possible? These are profoundly different
+questions. Philosophers have tended to ignore the latter as quite irrelevant
+to philosophical concerns, but in this case they may relent. I can see no way
+of arguing that the case is logically impossible. Clapgras, as described, has
+a strange combination of spared abilities and shocking new inabilities;
+dispositions that are normally tightly linked are here dissociated in
+unprecedented ways, but is his condition any more radical in this regard
+than either prosopagnosia or Capgras delusion? I am not sure Clapgras’s
+condition is even physiologically impossible; there are well-studied cases
+of subjects who can discriminate colors just fine but not name them (color
+anomia), and of subjects who become color-blind but don’t notice their new
+deficit, blithely confabulating and naming colors at chance without any
+recognition that they are guessing. Clapgras, like a Capgras sufferer, has no
+problems with recognition or naming; it is the subtle ineffable flavoring
+that has gone all askew in him—all the personal dispositions that make
+paintings worth looking at, rooms worth painting, color combinations
+worth choosing. The effects of colors that contribute to making life worth
+living are what changed in Clapgras—in other words (if Sellars was right),
+his color qualia.
+   Suppose we put the issue to Clapgras and ask him if his color qualia have
+been inverted. He has three possible answers: Yes, No, and I don’t know.
+Which should he answer? If we compare my story of Clapgras with the
+many tales of inverted qualia that have been soberly promulgated and
+discussed at great length by philosophers, the most disturbing innovation is
+the prospect that Clapgras might have his qualia inverted and be none the
+wiser. Remember that Dr. Chromaphil had to propose this hypothesis to his
+skeptical colleagues, and Clapgras may well share their skepticism. After
+all, he not only hasn’t complained of any problem with his color qualia (as
+in the standard stories), but also has satisfied himself that his color vision
+is just fine in the same way he satisfied the researchers: by easily passing
+the standard color vision tests. This feature of the story ought to cause
+some discomfort, for it is commonly assumed in the philosophical
+literature that such behavioral self-testing is irrelevant: surely (ding!)
+those tests have no bearing at all on qualia. Those tests are standardly
+characterized as having no power at all to illuminate or constrain qualia
+quandaries. But, as my variation shows, philosophers’ imaginations have
+
+=== p. 273 ===
+
+overlooked the prospect of somebody being at least tempted to rely on
+these tests to secure his own confidence that his qualia have not changed.
+   Can your qualia stay constant while you undergo a change in “affect”?
+Philosophers are divided over how to answer such definitional questions
+about qualia. Consider the effect of monosodium glutamate (MSG), the
+flavor enhancer. There is no doubt that it makes food seem tastier, more
+strongly flavored, but does it change the qualia of food, or does it merely
+heighten the sensitivity of people to the qualia they were already enjoying?
+This is an appeal for a clarification of the concept of qualia, not an
+empirical question about the site of action of MSG, or the variation in
+human responses to MSG as shown by subjects’ reports, since until we
+settle the conceptual question one way or another, any discoveries about the
+underlying neural processes or heterophenomenology of the subject would
+be systematically ambiguous. What I want to know is simply how
+philosophers mean to use the word “qualia”—do they identify all changes
+in subjective response as changes in qualia, or is there some privileged
+subset of responses that in effect anchor the qualia? Is the idea of changing
+one’s aesthetic opinion about—or response to—a particular quale nonsense
+or not? Until one makes decisions about such questions of definition, the
+term is not just vague or fuzzy; it is hopelessly ambiguous, equivocating
+between two (or more) fundamentally different ideas.
+   Have Clapgras’s color qualia been inverted? Some philosophers say that
+I haven’t given enough detail in describing his condition. I have described
+his behavioral competences—he recognizes, and discriminates, and names
+colors correctly, while responding “wrong” in many other regards—while
+avoiding describing his subjective state. I haven’t said whether, when he
+looks at a ripe lemon, he experiences intrinsic subjective yellow or, say,
+intrinsic subjective blue. But that is the point: I am challenging the
+presumption that these terms name any real properties of his experience at
+all. Suppose I add that when asked, Clapgras says, “Since I still see ripe
+lemons as yellow, of course my experience includes the property of
+intrinsic subjective yellow.” Does that settle anything? Do we have any
+confidence that he knows what he means when he says these words? Should
+we believe him, or might he be in the grip of a philosophical theory that
+does not deserve his allegiance?
+   Here is the main weakness in the philosophical methods standardly used
+in these cases: philosophers tend to assume that all the competences and
+
+=== p. 274 ===
+
+dispositions that normal people exhibit regarding, say, colors, form a
+monolithic block, invulnerable to decomposition or dissociation into
+independent sub-competences and sub-dispositions. This handily excuses
+them from addressing the question of whether qualia are to be anchored to
+some subset or specific disposition. For instance, philosophers George
+Graham and Terry Horgan (2000, p. 73) speak of “direct acquaintance with
+phenomenal character itself, acquaintance that provides the experiential
+basis for [a person’s] recognitional/discriminatory capacities.” How do they
+know that this “direct acquaintance” is the “basis” for recognition or
+discrimination? Prosopagnosics presumably have direct acquaintance with
+the faces they see, or at least with the “visual qualia” of those familiar
+faces, but prosopagnosics cannot recognize them as the qualia that are
+experienced when they are looking at the faces of their friends and family.
+If, to harken back to Wilfrid Sellars once again, qualia are what make life
+worth living, then qualia may not be the “experiential basis” for our ability
+to recognize colors from day to day, to discriminate colors, to name them.
+
+=== p. 275 ===
+
+59. THE TUNED DECK
+
+In a famous paper, the philosopher David Chalmers (1995) distinguishes
+the “easy” problems about consciousness from what he calls the (capital
+“H”) Hard Problem of consciousness. What Chalmers would consider
+“easy” is still difficult enough. Consider, for example, these really
+challenging questions about consciousness:
+
+1. How does consciousness enable us to talk about what we see, the sounds
+  we hear, the aromas we smell, and so on? (Oversimplifying, how does the
+  information from the perceiving parts of the brain get used by the
+  language parts of the brain to form the reports and answers we can give?)
+2. When we are doing a routine activity (one we can “almost do in our
+  sleep”), why does our consciousness kick in whenever we run into a
+  problem, and how does consciousness help us with the problem
+  encountered?
+3. How many independently moving things can we consciously track
+  simultaneously, and how do we do it? (The answer is at least four; you
+  can see for yourself by experiencing an amazing demonstration of this
+  phenomenon, known as FINST indexing, at http://ruccs
+  .rutgers.edu/finstlab/MOT-movies/MOT-Occ-baseline .mov.)
+4. When you have something “on the tip of your tongue”—when you know
+  you know it and can almost retrieve the answer—what is going on?
+5. Why do you have to be conscious of a joke to find it funny? (See Hurley,
+  Dennett, and Adams, 2011, for the book-length answer to this one.)
+  These problems are relatively easy, according to Chalmers, because they
+involve the cognitive functions of consciousness, the things we can do,
+using the information-processing and attention-directing processes in the
+brain, the tracking and reminding and recalling activities that we engage in
+during our waking lives. However hard it may be to think up promising
+solutions to them, the solutions will be testable and refinable by
+experiments, and in fact we’re making great progress on these “easy”
+problems. We can build relatively simple computer models, for instance,
+that replicate these functions quite persuasively, so we can be quite sure the
+brain accomplishes them without magic or anything unparalleled in the rest
+
+=== p. 276 ===
+
+of nature. A robot that exhibited all these phenomena could be constructed,
+if not today then in the foreseeable future.
+   The Hard Problem, for Chalmers, is the problem of “experience,” what it
+is like to be conscious, the inexpressible, unanalyzable thusness of being
+conscious. A robot could behave just as if it were conscious, answering all
+our questions, tracking all the moving spots, succumbing to and recovering
+from the tip-of-the-tongue phenomenon, laughing at the right times, and
+being (unconsciously) puzzled or dumfounded at the right times, but in fact
+there would be nobody home in there. The robot would be a zombie,
+without the faintest shadow of the inner life you and I, as normal conscious
+people, enjoy.
+   According to Chalmers, you, gentle reader, and I know we are conscious
+whenever we are up and about. A philosophers’ zombie doesn’t know any
+such thing—it is never awake and has no inner life—it just seems from the
+outside to be conscious. And of course it insists, convincingly, that it is just
+as conscious as you and I are, and if given a lie-detector test when it says
+this, it passes the test for sincerity—but, being a zombie, it is mistaken!
+(Zombies are also indistinguishable from normal conscious people when
+neuroscientists probe their inner brain states using fMRI machines, and the
+like.) This makes it clear that telling a conscious person from a zombie is
+certainly a hard problem—if it is any problem at all. And if that is a
+problem, explaining how this difference can exist is an even harder
+problem; it is the Hard Problem. Some of us, myself included, think the
+Hard Problem is a figment of Chalmers’s imagination, but others—
+surprisingly many—have the conviction that there is or would be a real
+difference between a conscious person and a perfect zombie and that this is
+important.
+   Let me review this curious situation: some of us doubt the very existence
+of the Hard Problem, but others think we must be crazy to doubt this:
+nothing, they say, could be more obvious, more immediately intuited by
+any conscious being, than his or her own special consciousness, and it is
+this wonderful property we enjoy that defies scientific understanding (so
+far) and thus deserves to be called the Hard Problem. There is no way to
+nudge these two alternative positions closer to each other. One side or the
+other is flat wrong. I have tried for years to show that however tempting the
+intuition may be, it must be abandoned. I am quite sure that the tempting
+idea that there is a Hard Problem is simply a mistake, but I cannot prove
+
+=== p. 277 ===
+
+this. Or, better, even if I could prove this, my proof would often fall on deaf
+ears, since I am assured by some philosophers that their intuition here is
+invulnerable bedrock, an insight so obvious and undeniable that no
+argument could make it tremble, let alone shatter it. So I won’t make the
+tactical error of trying to dislodge with rational argument a conviction that
+is beyond reason.
+   This attitude reminds me of the heartfelt convictions often expressed by
+those who have just seen a spectacular display of stage magic. Every
+magician knows that people have a tendency to inflate their recollections of
+any good magic trick they have seen. The shock and bafflement of the
+moment amplifies their memories, and they earnestly and sincerely insist
+that they have just seen something that goes beyond what the magician
+tried to fool them into seeing. Some people want very much to believe in
+magic. Recall Lee Siegel’s comment about “real magic,” discussed in
+chapter 22, on wonder tissue: “Real magic . . . refers to the magic that is
+not real, while the magic that is real, that can actually be done, is not real
+magic.” (See p. 98)
+   To many people consciousness is “real magic.” If you’re not talking
+about something that is supercalifragilisticexpialidocious, then you’re not
+talking about consciousness, the Mystery Beyond All Understanding. The
+science journalist Robert Wright (2000) expresses the attitude succinctly:
+          Of course the problem here is with the claim that consciousness
+          is “identical” to physical brain states. The more Dennett et al. try
+          to explain to me what they mean by this, the more convinced I
+          become that what they really mean is that consciousness doesn’t
+          exist. [p. 398]
+   Any bag of tricks in the brain just couldn’t be consciousness, not real
+consciousness. But even those who don’t make this preemptive mistake
+often have a weakness for exaggerating the phenomena of consciousness.
+(That’s why so much of my book Consciousness Explained, 1991a, had to
+be devoted to deflation, whittling consciousness—real consciousness—
+down to size, showing people that the phenomena were not as spectacular
+as most of them think. This exercise in deflation then inspired many
+readers to joke that my book should have been entitled Consciousness
+Explained Away or—as Wright suggests—Consciousness Denied.) For
+those who doubt that they could be flummoxed into an inflated view of
+consciousness, I want to strike a glancing blow, hoping to banish their
+
+=== p. 278 ===
+
+complacency by drawing attention to a delicious and disturbing parallel
+from the world of card magic: The Tuned Deck.
+         For many years, Mr. Ralph Hull, the famous card wizard from
+         Crooksville, Ohio, has completely bewildered not only the
+         general public, but also amateur conjurors, card connoisseurs and
+         professional magicians with the series of card tricks which he is
+         pleased to call “The Tuned Deck” . . .
+                              —John Northern Hilliard, Card Magic (1938)
+  Ralph Hull’s trick looks and sounds roughly like this:
+         Boys, I have a new trick to show you. It’s called “The Tuned
+         Deck.” This deck of cards is magically tuned [Hull holds the deck
+         to his ear and riffles the cards, listening carefully to the buzz of
+         the cards]. By their finely tuned vibrations, I can hear and feel the
+         location of any card. Pick a card, any card. . . . [The deck is then
+         fanned or otherwise offered for the audience, and a card is taken
+         by a spectator, noted, and returned to the deck by one route or
+         another.] Now I listen to the Tuned Deck, and what does it tell
+         me? I hear the telltale vibrations, . . . [buzz, buzz, the cards are
+         riffled by Hull’s ear and various manipulations and rituals are
+         enacted, after which, with a flourish, the spectator’s card is
+         presented].
+   Hull would perform the trick over and over for the benefit of his select
+audience of fellow magicians, challenging them to figure it out. Nobody
+ever did. (Remember that a cardinal rule of card magic is never to repeat a
+trick for the audience; this great trick audaciously flouted that rule.)
+Magicians offered to buy the trick from him, but he would not sell it. Late
+in his life he gave his account to his friend, Hilliard, who published the
+account in his privately printed book. Here is what Hull had to say about
+his trick:
+         For years I have performed this effect and have shown it to
+         magicians and amateurs by the hundred and, to the very best of
+         my knowledge, not one of them ever figured out the secret. . . .
+         the boys have all looked for something too hard [my italics].
+  Like much great magic, the trick is over before you even realize it has
+begun. The trick, in its entirety, is in the name, “The Tuned Deck,” and
+
+=== p. 279 ===
+
+more specifically, in one word—“The”! As soon as Hull had announced his
+new trick and given its name to his eager audience, the trick was over.
+Having set up his audience in this simple way, and having passed the time
+with some obviously phony and misdirecting chatter about vibrations and
+buzz-buzz-buzz, Hull would do a relatively simple and familiar card
+presentation trick of type A (at this point I will draw the traditional curtain
+of secrecy; the further mechanical details of legerdemain, as you will see,
+do not matter). His audience, savvy magicians, would see that he might
+possibly be performing a type A trick, a hypothesis they could test by being
+stubborn and uncooperative spectators in a way that would thwart any
+attempt at a type A trick. When they then adopted the appropriate
+recalcitrance to test the hypothesis, Hull would “repeat” the trick, this time
+executing a type B card presentation trick. The spectators would then
+huddle and compare notes: Might he be doing a type B trick? They test that
+hypothesis by adopting the recalcitrance appropriate to preventing a type B
+trick, and still he does “the” trick—using method C. When they test the
+hypothesis that he’s pulling a type C trick on them, he switches to method
+D—or perhaps he goes back to method A or B, since his audience has
+“refuted” the hypothesis that he’s using method A or B. And so it would go,
+for dozens of repetitions, with Hull staying one step ahead of his
+hypothesis-testers, exploiting his realization that he could always do some
+trick or other from the pool of tricks they all knew, and concealing the fact
+that he was doing a grab bag of different tricks by the simple expedient of
+the definite article: The Tuned Deck. As Hull explained it to Hilliard,
+          Each time it is performed, the routine is such that one or more
+          ideas in the back of the spectator’s head is exploded, and sooner
+          or later he will invariably give up any further attempt to solve the
+          mystery.
+  Hull’s trick was introducing a single common word: “the”—for heaven’s
+sake! This modest monosyllable seduced his audience of experts,
+paralyzing their minds, preventing them from jootsing. They found
+themselves stuck in a system in which they were sure that they had to find a
+big, new trick, so they couldn’t see that their problem(s) had not one
+solution but many; they failed to jump out of the system.
+  I am suggesting, then, that David Chalmers has—unintentionally—
+perpetrated the same feat of conceptual sleight of hand in declaring to the
+world that he has discovered “The Hard Problem.” Is there really a Hard
+
+=== p. 280 ===
+
+Problem? Or is what appears to be the Hard Problem simply the large bag
+of tricks that constitute what Chalmers calls the Easy Problems of
+Consciousness? These all have mundane explanations, requiring no
+revolutions in physics, no emergent novelties. They succumb, with much
+effort, to the standard methods of cognitive science.
+   I cannot prove that there is no Hard Problem, and Chalmers cannot prove
+that there is one. He has one potent intuition going for him, and if it
+generated some striking new predictions, or promised to explain something
+otherwise baffling, we might join him in trying to construct a new theory of
+consciousness around it, but it stands alone, hard to deny but otherwise
+theoretically inert.
+   The inventory of known effects of consciousness is large and growing,
+and they range from the mundane to the exotic. It’s hard to keep track of
+them all, so we must be alert to the possibility that we are being victimized
+by an error of arithmetic, in effect, when we take ourselves to have added
+up all the Easy Problems and discovered a residue unaccounted for. That
+residue may already have been accommodated, without our realizing it, in
+the set of mundane phenomena for which we already have explanations—or
+at least un-mysterious paths of explanation still to be explored. How could
+we commit this “error in arithmetic” and then overlook it? By double
+counting the phenomena or by forgetting that we had already explained
+some phenomenon, and hence should have erased it from our list of “Stillto-Be-Explained Phenomena.” Is it plausible that we are making such a
+mistake? Consider this: when we looked at poor Mr. Clapgras, we saw that
+something was seriously amiss with him, but there seemed to be two
+importantly different ways of putting his plight:
+         A. His aesthetic and emotional reactions to his color qualia had
+         all been inverted (while his qualia remained constant).
+         B. His color qualia had been inverted, even though his
+         competence to distinguish, identify, and name colors had been
+         preserved.
+   Consider how one might argue (rather like the baffled magicians trying
+to figure out Hull’s trick): “A cannot be right, because the only reason we
+have for saying his color qualia have remained constant is that his naming
+and discriminating behavior has stayed constant, but that proves nothing
+about his qualia; those behaviors are (merely) cognitive, functional facts,
+
+=== p. 281 ===
+
+and qualia are, of course, independent of those. And B cannot be right,
+because it is only his reactions that have changed; Clapgras doesn’t
+complain that colors look different to him now, but just that those very
+same subjective colors don’t appeal to him now the way they used to. So
+maybe his color qualia changed and maybe they didn’t, and—you’ll note—
+there is no empirical way of telling which hypothesis is true! This is truly a
+Hard Problem!”
+   This argument overlooks the possibility that the qualia discussed in A
+and B aren’t doing any work. In both A and B, we see that the
+discrimination machinery is working just as before, while Clapgras’s
+reactions to the deliverances of that machinery are inverted. The qualia are
+interposed as a sort of hard-to-pin-down intermediary that is imagined to
+provide the basis or raw material or ground of the emotional reactions, and
+there seem then to be two places where the inversion could happen: before
+the qualia are “presented” to the appreciation machinery, or after
+“presentation,” in the way the appreciation machinery responds to those
+presented qualia. This is one presentation process too many. We know, for
+instance, that negative (alarming, fear-inducing) reactions can be triggered
+quite early in the perceptual process, and they then “color” all subsequent
+processing of that perceptual input, in which case we could say that the
+emotional reactions cause the qualia to have the subjective character they
+had for Clapgras, rather than (vice versa) that the “intrinsic” nature of the
+qualia cause or ground the emotional reactions. But if we’ve already
+arrived at the emotional (or aesthetic or affective) reactions to the
+perceptual input, we have no more “work” for the qualia to do, and, of
+course, a zimbo would be just as bummed out by inverted reactions-toperceptions as a conscious person is.
+   What does the story about the Tuned Deck add to all the other intuition
+pumps about qualia? Just a real-life example of how very clever,
+knowledgeable experts can be induced to create a phantom problem simply
+by the way an issue is presented to them. It has happened. It can happen
+again. And this yields a novel perspective on the impasse, creating a new
+burden of proof: How do you know that you have not fallen for something
+like the Tuned Deck? I’m not suggesting that this is conclusive, but just
+that it ought to give those who credit the Zombic Hunch some second
+thoughts about how “obvious” it is.
+
+=== p. 282 ===
+
+60. THE CHINESE ROOM
+
+In the late 1970s there was a wave of ballyhoo about AI—artificial
+intelligence—that oversold both the existing and the prophesied progress in
+the field. Thinking machines were just around the corner! Berkeley
+philosopher John Searle was sure he could see through this, and concocted
+a thought experiment to prove it. In 1980, he published “Minds, Brains and
+Programs,” his famous Chinese Room thought experiment purporting to
+show that “Strong AI” was impossible. He defined Strong AI as the claim
+that “the appropriately programmed computer literally has cognitive states
+and that the programs thereby explain human cognition” (Searle, 1980, p.
+417), and later clarified his definition: “the appropriately programmed
+digital computer with the right inputs and outputs would thereby have a
+mind in exactly the sense that human beings have minds” (Searle, 1988, p.
+136). The 1980 article appeared in Behavioral and Brain Sciences, the
+flagship journal of cognitive science, and BBS, as it is known, has a special
+format: each issue contains several long “target articles” accompanied by
+several-dozen commentaries by experts in the field and a response by the
+author(s). Since BBS is energetically interdisciplinary, these experts
+typically come from a variety of disciplines, giving the reader a useful and
+timely cross section of reactions. Seeing how—and whether—these other
+experts take the target article seriously is a great way of gauging how to use
+or ignore it in your own work. You also can learn a lot about the difficulties
+of interdisciplinary communication, with very confident people furiously
+talking past each other, or participating in academic tag team wrestling of
+the highest caliber. Searle’s target article provoked a fire storm of rebuttal,
+including mine (Dennett, 1980), in which I coined the term “intuition
+pump,” in the service of trying to show what was deeply misleading about
+his thought experiment.
+   It was my term, but credit should also be given to Doug Hofstadter, for
+my coinage grew out of discussions with him about Searle’s essay, which
+we reprinted, with commentary, in our anthology, The Mind’s I (Hofstadter
+and Dennett, 1981). We found his thought experiment fascinating because it
+was, on the one hand, so clearly a fallacious and misleading argument, yet,
+on the other hand, just as clearly a tremendous crowd-pleaser and
+persuader. How—and why—did it work? We looked at it from the point of
+
+=== p. 283 ===
+
+view of reverse engineering, and Doug came up with the tactic of “turning
+all the knobs” to see what makes it work. Is the story robust under
+deformation, or does it critically depend on details that ought to be
+optional?1
+   That was over thirty years ago, and I must grant that Searle’s Chinese
+Room has had tremendous appeal and staying power. It is a classic,
+presented in probably thousands of undergraduate courses and debated over
+and over to this day. I have used it for years in my own classes, and have
+learned a lot about how it works and how to show people what’s wrong with
+it.2
+   For it is, I will now show, a defective intuition pump, a boom crutch that
+can disable your imagination unless you handle it very carefully. But before
+I turn to that delicate task, I want to acknowledge that many of you are
+probably silently rolling your eyes, or even groaning. You don’t want me to
+disable this device; you like the conclusion so much—Strong AI is
+impossible, whew!—that your eyes glaze over at the prospect of being
+dragged through a meticulous critique of a vivid, entertaining argument
+that supports your fervent hope. I used to respond to this reaction with
+scorn. Those of you responding this way love the fact that an eminent
+Berkeley professor has a famous argument that purports to show that you
+are right, and you are happy to take it on his authority. The details don’t
+really interest you, only the conclusion. What an anti-intellectual copout!
+   But then I caught myself doing much the same thing and reconsidered
+my harsh verdict. I confess that I have always found quantum mechanics
+somehow repellent, deeply disorienting, and even, well, something I would
+prefer not to be true! I know that it is stunningly successful at predicting
+and explaining many phenomena, including everyday phenomena such as
+the reflection and refraction of light, and the operation of the proteins in
+our retinas that permit us to see. It lies at the very heart of science, but it is
+famously hard to make sense of, even by the experts. My several attempts
+to master the mathematics of quantum mechanics have failed, so I am an
+interested but ultimately incompetent bystander on the scientific
+controversies surrounding its interpretation, but this hasn’t prevented me
+from being deeply suspicious of much that has been said about this by
+supposedly knowledgeable experts. And then I read Murray Gell-Man’s
+book The Quark and the Jaguar: Adventures in the Simple and the Complex
+(1995, a science book for nonspecialists like me. To my delight, Gell-Mann
+
+=== p. 284 ===
+
+adopts a no-nonsense, demystifying tone, and just beats the daylights out of
+some of the more dubious pronouncements that have gained favor. (Read
+his chapter “Quantum Mechanics and Flapdoodle” to see what I mean.) I
+found myself thinking, “Hit them again, Murray! Sock it to them!” Here
+was a world-famous Nobel laureate physicist supporting my prejudice,
+using arguments that I understood. This was my kind of quantum physics!
+But then it hit me. Did I really understand his arguments, or just sorta
+understand them? Could I be sure that I wasn’t just falling for his rhetoric?
+I hoped there weren’t other physicists who would want to drag me back
+through the technicalities, showing me that I had been taken in by this
+authoritative dismissal. I liked his conclusion so much I didn’t have any
+stomach for the details. Same copout.
+   But not quite. I have conscientiously tried to assess Gell-Mann’s verdicts
+in the light of what others have written since (and so far, so good). And I
+remain open to the distinct possibility that Gell-Mann’s “common sense,”
+which I find so appealing, will turn out some day to be one more case of
+failure of imagination instead of deep insight. I would beg you to attempt
+to adopt the same open-minded attitude toward my effort to dismantle and
+neutralize Searle’s Chinese Room. I’ll make the bitter pill as palatable as I
+   Way back in 1950 Alan Turing had proposed what he claimed would be
+the acid test of intelligence in a machine, now known as the Turing test, in
+which a judge has a probing conversation with two entities, one a human
+being and the other a computer, both hidden from view and communicating
+by “teletype” (think: screen and keyboard). The human being tries to
+demonstrate her genuine humanity to the judge, and the computer tries to
+fool the judge into thinking that it is the human being. If the judge can’t
+reliably tell the difference, the computer (program) has passed the Turing
+test and would be declared not just to be intelligent, but to “have a mind in
+exactly the sense that human beings have minds,” as Searle put it in 1988.
+Passing the Turing test would be, in the eyes of many in the field, the
+vindication of Strong AI. Why? Because, they thought (along with Turing),
+you can’t have such a conversation without understanding it, so the success
+of the computer conversationalist would be proof of its understanding.3
+Notice that the Turing test doesn’t—can’t—distinguish between a zimbo
+and a “really conscious” person, since whatever a conscious person can do,
+a zimbo can do exactly as well. As many have remarked, the claim that an
+
+=== p. 285 ===
+
+entity that passes the Turing test is not just intelligent but conscious flies in
+the face of the Zombic Hunch. This may seem all by itself to disqualify
+the Turing test as a good test of mind, but we should reserve judgment on
+that until we look at the details. The program that passes the Turing test
+may have only a zimbo’s stream of unconsciousness where we have a
+stream of consciousness, but we have just seen a challenge to the Zombic
+Hunch that insists that this marks a real difference. Is the zimbo program
+only sorta conscious? In what dimension, exactly, does it fall short?
+Perhaps Searle’s intuition pump will shed light on that question: it appears
+to be a reductio ad absurdum argument to discredit the idea of Strong AI.
+   He invites us to imagine him locked in a room, hand-simulating a giant
+AI program, which putatively understands Chinese. He stipulates that the
+program passes the Turing test, foiling all attempts by human interlocutors
+to distinguish it from a genuine understander of Chinese. Searle, who
+knows no Chinese, locked in the room and busily manipulating the symbol
+strings according to the program, doesn’t thereby gain understanding of
+Chinese (obviously), and there is nothing else in the room that understands
+Chinese either. (It is empty, aside from Searle and the “bits of paper” on
+which Searle’s instructions are written. By following them precisely he is
+“hand-simulating” the giant program.) If Searle doesn’t understand
+Chinese, surely (ding!) Searle plus bits of paper doesn’t understand
+Chinese. Ergo, there is no understanding of Chinese in the Chinese Room,
+in spite of its conversational prowess, which is good enough to fool native
+Chinese-speakers. Searle, like a computer, identifies the Chinese symbols
+by their shape only; they are just different meaningless “squiggles” to him
+and to a computer, so Searle-in-the-Chinese-Room just is an
+implementation of the computer program at issue. It does its job without
+any understanding of Chinese, whether it is running on silicon or on Searle.
+   This is so simple and convincing! Can there possibly be anything wrong
+with this thought experiment? Well, yes. When Searle presented it at
+Berkeley, the computer scientists retorted with what Searle calls the
+Systems Reply (Berkeley):
+          While it is true that the individual person who is locked in the
+          room does not understand the story, the fact is that he is merely
+          part of the whole system, and the system does understand the
+          story. The person has a large ledger in front of him in which are
+          written the rules, he has a lot of scratch paper and pencils for
+
+=== p. 286 ===
+
+          doing calculations, he has “data banks” of sets of Chinese
+          symbols. Now, understanding is not being ascribed to the mere
+          individual; rather it is being ascribed to this whole system of
+          which he is a part. [Searle, 1980, p. 419]
+Searle says something very telling in the course of responding to this reply:
+          Actually I feel somewhat embarrassed . . . because the theory
+          seems to me so implausible to start with. The idea is that while a
+          person doesn’t understand Chinese, somehow the conjunction of
+          that person and bits of paper might understand Chinese. It is not
+          easy for me to imagine how someone who was not in the grip of
+          an ideology would find the idea at all plausible. [Searle, 1980, p.
+   What Searle finds so implausible is nothing other than the fundamental
+insight Turing had when he created the idea of a stored-program computer!
+The competence is all in the software. Recall that the register machine in
+chapter 24 doesn’t understand arithmetic at all, but the register machine in
+conjunction with the software does perfect arithmetic. The central
+processing unit in your laptop doesn’t know anything about chess, but when
+it is running a chess program, it can beat you at chess, and so forth, for all
+the magnificent competences of your laptop. What Searle describes as an
+ideology is at the very heart of computer science, and its soundness is
+demonstrated in every walk of life. The way to reproduce human
+competence and hence comprehension (eventually) is to stack virtual
+machines on top of virtual machines on top of virtual machines—the power
+is in the system, not in the underlying hardware. Darwin’s “strange
+inversion of reasoning” is nicely echoed by Turing’s strange inversion of
+reasoning (Dennett, forthcoming): whereas we used to think (before
+Turing) that human competence had to flow from comprehension (that
+mysterious fount of intelligence), we now appreciate that comprehension
+itself is an effect created (bubbling up) from a host of competences piled
+on competences.
+   Details matter. Searle never tells his reader at what level he is hand-simulating the giant AI program. This is his account of what it is like when
+he works through the program:
+          Now suppose that after this first batch of Chinese writing [the
+          input] I am given a second batch of Chinese script together with a
+
+=== p. 287 ===
+
+         set of rules for correlating the second batch with the first batch.
+         The rules are in English, and I understand these rules as well as
+         any other native speaker of English. They enable me to correlate
+         one set of formal symbols with another set of formal symbols. . . .
+         Now suppose also that I am given a third batch of Chinese
+         symbols together with some instructions, again in English, that
+         enable me to correlate elements of this batch with the first two
+         batches, and these rules instruct me how to give back certain
+         Chinese symbols with certain sorts of shapes in response to
+         certain sorts of shapes given me in the third batch. [Searle, 1980,
+         p. 418]
+   He contrasts this “correlation” between “batches of symbols” with what
+happens when instead an English sentence or story is input, and he responds
+in his native English.
+         From the external point of view—from the point of view of
+         somebody reading my “answers”—the answers to the Chinese
+         questions and the English questions are equally good. But in the
+         Chinese case, unlike the English case, I produce the answers by
+         manipulating uninterpreted formal symbols. [Searle, 1980, p.
+What a contrast! But look what Searle has still left out. We know he gets
+his “set of rules” (instructions) in English, but are they along the lines of
+“add the contents of register 39021192 to the contents of register
+215845085” (machine code), or “Define a constant: queue-size and set it at
+100” (source code)? Is he down in the basement, doing arithmetic at a
+furious rate (trillions of operations per second), or is he following the
+source code of a program, implemented many layers higher? And if he’s
+following the source code, does he get to read any comments? Better not,
+since they are not officially part of the program, and they would give him
+lots of hints about what was going on (“This parses the sentence, yielding
+nouns, pronouns, verbs, and modifiers, and identifies it as a question,
+declarative, imperative or interjection,” and then, a few billion operations
+later, “pun discovered; switch to repartee mode . . . ,” and then a more
+detailed set of billions of operations, in which references are refined,
+alternative answers are evaluated rather like different chess moves, and
+then finally an output sentence is generated). If the program Searle is hand-
+
+=== p. 288 ===
+
+simulating is able to carry on an impressive conversation in Chinese, it will
+have to consult huge data banks not just of “sets of Chinese symbols,” as he
+puts it, but of everyday knowledge that Chinese speakers share, and that is
+the least of it. When Searle hand-simulates, does he get any hints of all this
+layered cognitive activity, or is it just a whole lot of arithmetic to him?
+   Think of how Searle would handle the following question in English:
+          Imagine taking a capital letter D and turning it counterclockwise
+          90 degrees on its side. Now place it on top of a capital letter J.
+          What sort of weather does that remind you of?
+Now imagine that Searle is given an analogous challenge in Chinese when
+he is hard at work in the Chinese Room.
+          On June 4, 2012, the following posting of characters was blocked
+          on Sohu Weibo [a Chinese blogging service]. Can you figure out
+          why?
+
+   These are actual Chinese characters (Searle’s “squiggles”), but the
+sequence is utter gibberish. Why would it be blocked by the authorities?
+Because June 4 is the anniversary of the Tiananmen Square massacre in
+which hundreds of protesters were killed by the army. (“June 4” is as
+evocative to the Chinese as “9/11” is to Americans.) The most famous
+images that emerged were of a single brave man who faced down the tanks.
+You can see him (      means person) confronting four tanks on the left,
+which then roll over him and over him and over him and then leave at the
+right.4
+   The Chinese Room ought to “get it,” but unless Searle had access to the
+comments on the source code, he would be none the wiser, since it would
+never be apparent to him that his rule-following was framing a “mental
+image” and manipulating it and then using the result as a probe of memory.
+That is, the system would go through a set of activities before responding to
+the Chinese question that are strikingly parallel to the activities Searle went
+through knowingly to respond to the English question. You could say that
+the system has a mind of its own, unimagined by Searle, toiling away in the
+engine room.
+   Any program capable of passing the Turing test would have to go
+through “mental” operations that very closely mimicked the mental
+
+=== p. 289 ===
+
+operations we go through in the course of a conversation. Suppose, for
+instance, the questioner in the Turing test began tutoring the candidate in
+quantum physics, using the Socratic question-and-answer method, giving
+the student simple problems to solve. Searle, in the engine room, would be
+obliged to take the system through elaborate intellectual exercises in order
+to hold up its end of the conversation, but Searle would emerge from the
+ordeal as uncomprehending of quantum physics as when he went in. The
+system, in contrast, would now have a much better working understanding
+of the field than it had before the Turing test began, because it had done the
+exercises. This particular instance of the Turing test would install a new
+virtual machine in the program: the simple quantum physics machine.
+   Such facts are completely obscured by Searle’s image of “bits of paper”
+and “rules” that permit him to “correlate” Chinese symbols. I’m not saying
+that Searle deliberately concealed the complexity of the program he
+imagined he was hand-simulating, but just that he ignored the implications
+of the complexity. If you think of the program as a relatively simple bunch
+of rules, then, like Bateson thinking of “particles of chromatin,
+indistinguishable from each other and indeed almost homogeneous under
+any known test,” you are likely to find the purported comprehension
+powers of programs, like the powers of DNA, “inconceivable.”
+   Look at what we’ve just done. We’ve turned the knob on Searle’s
+intuition pump that controls the level of description of the program being
+followed. There are always many levels. At the highest level, the
+comprehending powers of the system are not unimaginable; we even get
+insight into just how the system comes to understand what it does. The
+system’s reply no longer looks embarrassing; it looks obviously correct.
+That doesn’t mean that AI of the sort Searle was criticizing actually
+achieves a level of competence worth calling understanding, nor that those
+methods, extended in the ways then imagined by those AI researchers,
+would likely have led to such high competences, but just that Searle’s
+thought experiment doesn’t succeed in what it claims to accomplish:
+demonstrating the flat-out impossibility of Strong AI.
+   There are other knobs to turn, but that task has been carried out
+extensively in the huge literature the Chinese Room has provoked. Here I
+am concentrating on the thinking tool itself, not the theories and
+propositions it was aimed at, and showing that it is a defective tool: it
+persuades by clouding our imagination, not exploiting it well.
+
+=== p. 290 ===
+
+1 Doug zeroed in on the phrase “bits of paper” in Searle’s essay, and showed how it encouraged
+people to underestimate the size and complexity of the software involved by many orders of
+magnitude. His commentary on Searle in our book featured this criticism, and led to a ferocious
+response from Searle (1982) in the pages of the New York Review of Books, because, although we
+had reprinted his article correctly, in his commentary Doug slipped and wrote “a few slips” where
+Searle had said “bits,” and this, Searle claimed, completely misrepresented his argument! If Searle
+is right about this, if that small inadvertent mutation transformed the machinery, this actually
+proved our point, in a way: if such a tiny adjustment disables or enables a thought experiment, that
+is something that should be drawn to the attention of all whose intuitions are up for pumping.
+2 Check out Hofstadter’s own virtuoso demonstration in The Mind’s I (Hofstadter and Dennett,
+1981), showing that the Chinese Room is an intuition pump with (at least) five knobs, which he
+proceeds to turn, one at a time, to derive a family of different thought experiments with different
+invited conclusions. In the closing reflections, I noted,
+            Each setting of the dials on our intuition pump yields a slightly different narrative,
+            with different problems receding into the background and different morals drawn.
+            Which version or versions should be trusted is a matter to settle by examining them
+            carefully, to see which features of the narrative are doing the work. If the
+            oversimplifications are the source of the intuitions, rather than just devices for
+            suppressing irrelevant complications, we should mistrust the conclusions we are
+            invited to draw. [p. 460]
+
+3 As has often been pointed out, this conviction echoes that of Descartes, who proposed in his
+Discourse on Method way back in 1637 that the best way to tell a machine from a person with an
+immaterial soul was to have a conversation with it.
+            It is indeed conceivable that a machine could be so made that it would utter words,
+            and even words appropriate to the presence of physical acts or objects which cause
+            some change in its organs; as, for example, if it was touched in some spot that it
+            would ask what you wanted to say to it; if in another, that it would cry that it was
+            hurt, and so on for similar things. But it could never modify its phrases to reply to the
+            sense of whatever was said in its presence, as even the most stupid men can do.
+
+Nobody knows if Turing got the inspiration for his intuition pump from Descartes’s intuition
+pump.
+4 Thanks to linguist, sinologist, and polymath David Moser for the example, which was created in
+China just as I was casting about for such an example.
+
+=== p. 291 ===
+
+61. THE TELECLONE FALL FROM MARS TO EARTH
+
+You see the moon rise in the east. You see the moon rise in the west. You
+watch two moons moving toward each other across the cold black sky, one
+soon to pass behind the other as they continue on their way. You are on
+Mars, millions of miles from home, protected from the killing, frostless
+cold of the red Martian desert by fragile membranes of terrestrial
+technology—protected but stranded, for your spaceship has broken down
+beyond repair. You will never ever return to Earth, to the friends and family
+and places you left behind.
+   But perhaps there is hope. In the communication compartment of the
+disabled craft, you find a Teleclone Mark IV teleporter and instructions for
+its use. If you turn the teleporter on, tune its beam to the Teleclone receiver
+on Earth, and then step into the sending chamber, the teleporter will swiftly
+and painlessly dismantle your body, producing a molecule-by-molecule
+blueprint to be beamed to Earth, where the receiver, its reservoirs well
+stocked with the requisite atoms, will almost instantaneously produce—
+from the beamed instructions—you! Whisked back to Earth at the speed of
+light, into the arms of your loved ones, who will soon be listening with rapt
+attention to your tales of adventures on Mars.
+   One last survey of the damaged spaceship convinces you that the
+Teleclone is your only hope. With nothing to lose, you set the transmitter
+up, flip the right switches, and step into the chamber. Five, four, three, two,
+one, FLASH! You open the door in front of you and step out of the
+Teleclone receiver chamber into the sunny, familiar atmosphere of Earth.
+You’ve come home, none the worse for wear after your long-distance
+Teleclone fall from Mars. Your narrow escape from a terrible fate on the
+red planet calls for a celebration, and as your family and friends gather
+around, you notice how everyone has changed since last you saw them. It
+has been almost three years, after all, and you’ve all grown older. Look at
+Sarah, your daughter, who must now be eight and a half. You find yourself
+thinking, “Can this be the little girl who used to sit on my lap?” Of course
+it is, you reflect, even though you must admit that you do not so much
+recognize her as extrapolate from memory and deduce her identity. She is
+so much taller, looks so much older, and knows so much more. In fact,
+most of the cells now in her body were not there when last you cast eyes on
+
+=== p. 292 ===
+
+her. But in spite of growth and change, in spite of replacement of cells,
+she’s the same little person you kissed good-bye three years ago.
+   Then it hits you: “Am I, really, the same person who kissed this little girl
+good-bye three years ago? Am I this eight-year-old child’s mother or am I
+actually a brand new human being, only several hours old, in spite of my
+memories—or apparent memories—of days and years before that?” Did
+this child’s mother recently die on Mars, dismantled and destroyed in the
+chamber of a Teleclone Mark IV?
+   Did I die on Mars? No, certainly I did not die on Mars, since I am alive
+on Earth. Perhaps, though, someone died on Mars—Sarah’s mother. Then I
+am not Sarah’s mother. But I must be! The whole point of getting into the
+Teleclone was to return home to my family. But I keep forgetting; maybe I
+never got into that Teleclone on Mars. Maybe that was someone else—if it
+ever happened at all.
+   Is that infernal machine a teleporter—a mode of transportation—or, as
+the brand name suggests, a sort of murdering twinmaker? Did Sarah’s
+mother survive the experience with the Teleclone or not? She thought she
+was going to. She entered the chamber with hope and anticipation, not
+suicidal resignation. Her act was altruistic, to be sure—she was taking steps
+to provide Sarah with a loved one to protect her—but also selfish—she was
+getting herself out of a jam and into something pleasant. Or so it seemed.
+“How do I know that’s how it seemed? Because I was there; I was Sarah’s
+mother thinking those thoughts. I am Sarah’s mother. Or so it seems.”
+   A song or a poem or a movie can undoubtedly be teleported. Is a self the
+sort of thing—a thing “made of information”—that can be teleported
+without loss? Is our reluctance to admit the teleportation of people a bit
+like the anachronistic resistance, recently overcome in most quarters, to
+electronically scanned legal signatures on documents? (I learned in 2011
+that Harvard University’s Society of Fellows would not accept a scanned
+signature on my letter of recommendation; they required some dry ink that
+had actually been laid down by the motion of my actual hand, and it took
+me half a day of riding around in taxis in Beirut to get, sign, and express-mail back the relevant form—on cream-colored bond paper. It is my
+understanding that the Society has now changed its policy, but I hope
+Harvard still insists on putting wax seals on their diplomas. There is a place
+for tradition, in all its glorious gratuitousness.)
+
+=== p. 293 ===
+
+62. THE SELF AS THE CENTER OF NARRATIVE GRAVITY
+
+What is a self? Philosophers have been grappling with this question for
+centuries. The Christian concept of an immortal soul, immaterial and
+inexplicable, captivated thinkers and deflected serious investigation for
+centuries, but it is losing adherents daily. The idea of a mind-thingy that
+goes to Heaven when somebody dies grows more incoherent every day. The
+wishful thinking that prevents us from just discarding it, along with the
+goblins and witches, is only too apparent. So those of us who are
+materialists, confident that the mind is the brain (properly understood),
+have to confront the question of why it seems that each of us has some such
+mind-thingy, or better: that each of us is some such mind-thingy inhabiting
+a body, and more particularly a brain. Do we simply find our selves when
+we look inside?
+  David Hume famously disparaged this idea in 1739:
+          For my part, when I enter most intimately into what I call myself,
+          I always stumble on some particular perception or other, of heat
+          or cold, light or shade, love or hatred, pain or pleasure. I never
+          can catch myself at any time without a perception. . . . If anyone,
+          upon serious and unprejudiced reflection, thinks he has a
+          different notion of himself, I must confess I can reason no longer
+          with him. All I can allow him is, that he may be in the right as
+          well as I, and that we are essentially different in this particular.
+          He may, perhaps, perceive something simple and continued,
+          which he calls himself; though I am certain there is no such
+          principle in me. [1964, I, iv, sect. 6]
+   Hume’s tongue-in-cheek acknowledgment that others may be different
+echoes to this day among those who muse about whether I, for instance, am
+a zombie (a zimbo, of course) innocently extrapolating from my own
+impoverished experience to how it is with others. An amusing conjecture,
+but I don’t think anybody takes it seriously.
+   It is clear what a self isn’t. It isn’t a part of the brain, like the amygdala
+or hippocampus. The frontal lobes play a crucial role in evaluating
+situations, intentions, perceptions, and the like, but I don’t think anybody
+has made the mistake of locating the self in the frontal lobes. (A prefrontal
+
+=== p. 294 ===
+
+lobotomy is a dire surgery, leaving behind someone who really is “a
+shadow of his former self,” but it isn’t a self-ectomy. As the old joke has it,
+I’d rather have a free bottle in front of me than a prefrontal lobotomy, but
+in either case I’d be there to experience it.) Then what might the self be? I
+propose that it is the same kind of thing as a center of gravity, an
+abstraction that is, in spite of its abstractness, tightly coupled to the
+physical world. You, like every other material object, have a center of
+gravity (or more properly a center of mass, but we’ll ignore that nicety
+here). If you are top-heavy, your center of gravity is higher than average for
+people of your height, you have to work harder to stay upright, and so forth.
+There are many ways of locating your center of gravity, which, depending
+on such factors as the shoes you have on and when you last ate a meal,
+moves around in a smallish area in the middle of your body. It is a
+mathematical point, not an atom or molecule. The center of gravity of a
+length of steel pipe is not made of steel and indeed is not made of anything.
+It is a point in space, the point on the midline running through the center of
+the pipe that is equidistant from the ends (roughly, depending on
+imperfections, etc.).
+   The concept of a center of gravity is a very useful thinking tool in its
+own right. In effect it averages over all the gravitational attractions
+between every particle of matter in a thing and every particle of matter on
+the planet, and tells us that we can boil all that down to two points—the
+center of the earth (its center of gravity) and the center of gravity of the
+thing—and calculate the behavior of the thing under varying conditions.
+For instance, if a thing’s center of gravity at any time falls outside all the
+points of its supporting base, it will topple. Of course, we had an intuitive
+understanding of centers of gravity long before Newton figured out gravity.
+(“Sit down! You’re rocking the boat.”) Now we can explain how and why
+the concept works in detail, and if we’re designing vehicles or floor lamps,
+for example, the goal of lowering a center of gravity, or moving it to a more
+effective location, shows the near indispensability of the concept in many
+of our activities. It may be a “theorist’s fiction,” but it is a very valuable
+fiction from which a lot of true predictions can be generated. Can such an
+abstract entity, having no material existence, actually cause anything? Not
+directly, but explanations that cite a center of gravity compete with
+explanations that are clearly causal. Why didn’t that coffee mug tip over
+
+=== p. 295 ===
+
+when the sailboat heeled so drastically? “Because it has an unusually low
+center of gravity” competes with “Because it is glued to the deck.”
+   We may call a center of gravity a theorist’s fiction because it shares with
+fictional characters the curious property of indeterminacy of properties.
+Sherlock Holmes, as described by Arthur Conan Doyle in the Sherlock
+Holmes mystery stories, has many properties, but where Conan Doyle was
+silent, there is no fact of the matter. We can extrapolate a bit: The author
+never mentions Sherlock having a third nostril, so we are entitled to assume
+that he didn’t (Lewis, 1978). We can also agree that he was not a bigamist
+with one wife in Paris and another in New York. But for many such
+questions there is no answer: Did he have a mole on his left shoulder blade?
+Was he a first cousin of Oscar Wilde? Did he own a cottage in Scotland?
+These questions and kazillions more about any real human being must have
+true answers, even if we can never discover them. Not so for Sherlock;
+being fictional he has only properties his author says or implies that he has.
+A naïve reader who thinks the Sherlock Holmes stories are true might
+wonder whether the conductor on the train to Aldershot was taller or
+shorter than Holmes, but if you understand what fiction is, you know better
+than to ask. The same is true of centers of gravity. If you wondered whether
+they might eventually “turn out to be neutrinos,” you would be missing the
+point of them as theorist’s fictions.
+   What then is a center of narrative gravity? It is also a theorist’s fiction,
+posited in order to unify and make sense of an otherwise bafflingly
+complex collection of actions, utterances, fidgets, complaints, promises,
+and so forth, that make up a person. It is the organizer of the personal level
+of explanation. Your hand didn’t sign the contract; you did. Your mouth
+didn’t tell the lie; you did. Your brain doesn’t remember Paris; you do. You
+are the “owner of record” of the living body we recognize as you. (As we
+say, it’s your body to do with what you like.) In the same way that we can
+simplify all the gravitational attractions between all the parts of the world
+and an obelisk standing on the ground by boiling it down to two points, the
+center of the earth and the center of gravity of the obelisk, we can simplify
+all the interactions—the handshakes, the spoken words, the ink scrawls, and
+much more—between two selves, the seller and the buyer, who have just
+completed a transaction. Each self is a person, with a biography, a
+“backstory,” and many ongoing projects. Unlike centers of gravity, selves
+
+=== p. 296 ===
+
+don’t just have trajectories through space and time; they gather as they go,
+accumulating memories and devising plans and expectations.
+   There are parts of the backstory that each person would probably wish to
+disavow, but what’s done is done; that part of the narrative cannot be
+revised. It can be reinterpreted, however, in the light of later biographical
+elements. “I wasn’t myself when I did that,” is a familiar refrain, and our
+tolerance for this apparently self-contradictory claim is often wise. What
+the person means is that he was in an extreme “out of character” state when
+he did that, and he is imploring us not to judge him in the present or
+extrapolate from that behavior into the future. Sometimes this is very
+plausible, sometimes not. Another familiar move: “Well, if you didn’t do
+that, who did?” “The devil made me do it.” Again, we often accept this
+claim, not on its face value, but as a sincere disavowal of the character and
+motivations that guided the action. This raises issues about responsibility
+and free will that we will tackle in the next chapter; just note, for now, how
+we need the concept of the self to draw a line (however arbitrary it may
+often turn out to be) between what you do and what happens to you.
+   Every physical object has a center of gravity and every living human
+body has a self, or rather, every living human body is owned by a self, a
+sort of live-in manager. Only one owner? Could a body be shared by two or
+more selves? The condition known as dissociative identity disorder (it used
+to be called multiple personality disorder) is apparently an example of
+many selves sharing a single body, with a dominant self (the “host”) and a
+group of “alters.” I say “apparently” because controversy rages about the
+diagnosis, running from outright fraud through folie à deux (in which a
+naïve psychiatrist unintentionally encourages a troubled patient to develop
+the symptoms) to acceptance of a few rare and genuine cases surrounded by
+various flavors of wannabes. After studying the phenomenon (and the
+people studying and treating the phenomenon) for several years,
+psychologist Nicholas Humphrey and I (1989) decided that everyone is
+right! There are frauds, exaggerations, gullible therapists with eager
+patients, and yes, a few cases in which the condition seems to have existed
+in at least rudimentary form prior to any elaboration at the hands of a
+fascinated interlocutor. This is not surprising, when we recognize that it is
+an intensification of something quite normal that we all experience to
+various degrees. Most of us lead several fairly distinct lives, at work, at
+
+=== p. 297 ===
+
+home, at play, and acquire habits and memories in each context that turn
+out not to travel well to other contexts.
+   As sociologist Erving Goffman (1959) recounted in his classic book on
+the subject, The Presentation of Self in Everyday Life, we all engage in
+presenting ourselves as characters in real-life dramas (Professor Dennett,
+Dan from up the road, Dad, Grandpa, etc.), and we effortlessly enlist the
+help of the supporting cast, who are similarly presenting themselves. We
+feed each other lines we can handle readily, becoming complicit in each
+other’s campaign of self-presentation, or we can disrupt these smoothly
+running scenarios by playing out of character, with results that are
+awkward, comic, or worse. It takes nerves of steel to do this. Can you
+imagine asking a person newly introduced to you at a party to show you
+some identification, a driver’s license, perhaps, or a passport—or, heading
+in the other direction, attempting to give her a passionate embrace? When
+people are put in extremely difficult positions, they sometimes adopt
+extreme measures, and what starts out as feigning in desperation becomes
+almost second nature. When the going gets tough, you simply depart,
+leaving behind a different center of narrative gravity, a different character,
+better equipped to deal with the problem at hand.
+   Humphrey and I learned that when you interview a putative sufferer of
+dissociative identity disorder, expect to find a naïve virtuoso in the art of
+deflecting obtrusive inquiry. To raise the questions that cry out for answers1
+or—better—to set little traps to see whether one alter really doesn’t have
+any memories of what the other alter was doing and saying, you will have
+to be downright rude, and risk giving serious offense, so in all likelihood
+you will find yourself politely going along with the gag, an accomplice
+enlisted without so much as a wink. Con artists do this deliberately, with
+great skill, but so do innocent victims of this personality disorder, without
+any recognition of what they are doing. So do we all, to one degree or
+another. But their alters are just fictional characters, right? The real person
+is the host, right? Well, it isn’t quite that straightforward.
+   That thing that is you, the person you play, whether you play multiple
+roles or really just one monolithic role, is your center of narrative gravity.
+It is how your friends recognize you (“You’re not yourself today!”), and
+how you see yourself for the most part, but it is also somewhat idealized
+(“Oh my God! Did I do that? I would never do that!”). Professional
+novelists, like con artists, create narratives with cunning and deliberate
+
+=== p. 298 ===
+
+attention to the details. The rest of us are talented amateurs, spinning our
+tales cleverly but (in the main) unwittingly, rather the way a spider spins a
+web. It is nature, not art. It is not so much that we, using our brains, spin
+our yarns, as that our brains, using yarns, spin us. There is a core of
+undeniable true biography, to be sure, but over the years large parts of it
+become as good as gone, inert and of no relevance to who you are now.
+Some of it you may actively disavow, jettison, “forget,” in the process of
+self-maintenance and self-improvement.2
+   Consider how easily you can answer some questions about your past.
+Have you ever danced with a movie star? Have you ever been to Paris?
+Have you ever ridden a camel? Have you ever strangled somebody to death
+with your bare hands? These are easy for almost all of us, whether the
+answer is yes or no. (Imagine someone who was asked the last question and
+who paused, thoughtfully, scratching his chin, before answering. Give him a
+wide berth!) We know the answers to these questions because we know
+enough about ourselves—our selves—to know that had we ever danced
+with a movie star, been to Paris, ridden a camel, or strangled someone,
+we’d now be recollecting it. When “nothing comes to mind,” we interpret
+this absence as a negative. (How else could we be so sure? Do you keep a
+list of all the things you’ve never done? All the places you’ve never been?)
+Contrast those questions with these superficially similar questions: Have
+you ever danced with a person named Smith? Have you ever been to a drug
+store that sold floor polish? Have you ever ridden in a blue Chevrolet?
+Have you ever broken a white coffee mug? Some may be easy to answer,
+and others may lead you to say you have no idea, and some may inspire you
+to give false answers without realizing it, just because they are so
+unimportant. Why would you remember it if you had done any of these
+things? A lot that has happened to us is just not memorable; a lot of things
+that we have done, good and bad, have been shed by our centers of narrative
+gravity; and a lot that never happened has been added, innocently enough,
+because for one reason or another it just fits us to a t. What you are is that
+rolling sum of experience and talent, solemn intention and daydreaming
+fantasy, bound together in one brain and body and called by a given name.
+The idea that there is, in addition, a special indissoluble nugget of you, or
+ego, or spirit, or soul, is an attractive fantasy, but nothing that we need in
+order to make sense of people, their dreams and hopes, their heroism and
+their sins.
+
+=== p. 299 ===
+
+   This center of narrative gravity may not be a mysterious nugget of mind
+stuff, but if it is just an abstraction, can it be studied scientifically? Yes, it
+
+1 Such as: How do you folks decide who is host and who are alters? How have you explained to
+yourself that your memory of recent experiences consists of brief episodes of being there
+surrounded by hours or days of oblivion? Doesn’t that strike you as alarming?
+2 In T. S. Eliot’s verse play, Murder in the Cathedral, Becket is asked about an event in his past
+and he replies:
+             You talk of seasons that are past. I remember
+             Not worth forgetting.
+
+=== p. 300 ===
+
+63. HETEROPHENOMENOLOGY
+
+Heterophenomenology is not an intuition pump, but another example of
+staging that is well worth putting in place before we tackle some difficult
+questions. The study of human consciousness involves phenomena that at
+first glance seem to occur in something rather like another dimension: the
+private, subjective, “first-person” dimension that each of us occupies with
+regard to our own consciousness, and to which nobody else can gain direct
+access. What, then, is the relation between the standard “third-person”
+objective methodologies for studying meteors or magnets (or human
+metabolism or bone density), and the methodologies for studying human
+consciousness? Do we have to create some radical or revolutionary
+alternative science, or can the standard methods be extended in such a way
+as to do justice to the phenomena of human consciousness? I defend the
+claim that there is a straightforward, conservative extension of objective
+science that handsomely covers all the ground of human consciousness,
+doing justice to all the data without ever having to abandon the rules and
+constraints of the experimental methods that have worked so well in the
+rest of science. This third-person methodology, heterophenomenology
+(phenomenology of an other not oneself), is the sound way to take the first-person point of view as seriously as it can legitimately be taken.
+   Why the multisyllabic name? “Phenomenology” originally meant a
+catalogue of phenomena, of one sort or another, before there is a good
+theory of them. In the sixteenth century, William Gilbert compiled a good
+phenomenology of magnetism, but it was centuries before all the magnetic
+phenomena he carefully described could be explained. In the early
+twentieth century, Edmund Husserl, and a group of psychologists and
+philosophers influenced by him, adopted the term, “Phenomenology” (with
+a capital “P”), for a presumably scientific study of the phenomena of
+subjective experience, to be observed using a “first-person” introspective
+method that attempted to be theory-neutral and without presuppositions.
+The school of thought continues to this day, embattled or ignored for the
+most part, for reasons good and bad. In spite of some very tantalizing
+results, well worth further exploration, as a first-person approach it has
+been shunned by objective, empirical science, which insists on data that can
+be accessible to all investigators. But we can study consciousness
+
+=== p. 301 ===
+
+objectively, and the method is really just a simple twist on Phenomenology,
+so I call it heterophenomenology, to contrast it with Husserlian
+autophenomenology. Heterophenomenology is the study of first-person
+phenomena from the third-person point of view of objective science.
+   Obviously the key difference between experiments with rocks, roses, and
+rats on the one hand, and experiments with awake, cooperative human
+subjects on the other, is that the latter can communicate in language and
+hence can collaborate with experimenters, by making suggestions,
+interacting verbally, and telling them what it is like under various
+controlled conditions. That is the core of heterophenomenology: it exploits
+our capacity to perform and interpret speech acts, yielding a catalogue of
+what the subject believes to be true about his or her conscious experience.
+This catalogue of beliefs fleshes out the subject’s heterophenomenological
+world, the world according to S, the subjective world of one subject. The
+total set of details of heterophenomenology, plus all the data we can gather
+about concurrent events in the brains of subjects and in the surrounding
+environment, comprise the total data set a theory of human consciousness
+must explain. It leaves out no objective phenomena and no subjective
+phenomena of consciousness.
+   The interpretation required to turn raw data about speech sounds and
+button pressings into reports and expressions of beliefs involves adopting
+the intentional stance: it requires the working hypothesis that the subject
+is an agent whose actions are rationally guided by beliefs and desires that
+are themselves rational, given the subject’s perceptual history and needs.
+For instance, the constraints of the intentional stance can be clearly
+discerned in the standard precautions taken in such experiments to prevent
+subjects from having experiences that might give them either beliefs or
+desires that would tend to bias their responses in ways that would distort
+our interpretation of their actions: we keep them in the dark about what we
+hope they will say, for instance, while at the same time taking steps to
+assure ourselves that they understand the tasks we set them. This adoption
+of the intentional stance is not an irreparably subjective and relativistic
+affair. Rules of interpretation can be articulated; standards of
+intersubjective agreement on interpretation can be set and met; deviations
+can be identified; the unavoidable assumption of rationality can be
+cautiously couched and treated as an adjustable, defensible, and
+
+=== p. 302 ===
+
+evolutionarily explicable assumption. (The details of these processes are
+articulated in Dennett, 1991a.)
+   This is not a proposal for a new methodology for studying consciousness.
+I am just being self-conscious about the standard methods already adopted
+by researchers in cognitive psychology, psychophysics (which studies the
+relationships between physical stimuli and subjective reactions), and
+neuroscience, and explaining and defending them. These methods, correctly
+understood and followed, obviate the need for any radical or revolutionary
+“first-person” science of consciousness, and leave no residual phenomena
+of consciousness inaccessible to controlled scientific study.
+   What kinds of things does this methodology commit us to? Beyond the
+unproblematic things all of science is committed to (neurons and electrons,
+clocks and microscopes), it commits us just to beliefs—the beliefs
+expressed by subjects and deemed constitutive of their subjectivity—and to
+desires—the desires to cooperate with the experimenters, and to tell them
+the truth as candidly as possible. (An important part of the method involves
+controlling these beliefs and desires, and any experimental result that
+shows evidence of failure to do this must be discarded.) What kind of
+things are beliefs and desires? We may stay maximally noncommittal about
+this—pending the confirmation of theory—by treating beliefs and their
+contents or objects as theorists’ fictions or abstractions similar to centers
+of mass, the equator, and parallelograms of forces.
+   Mermaid-sightings are real events, however misdescribed, whereas
+mermaids don’t exist. Similarly, a catalogue of beliefs about experience is
+not the same as a catalogue of experiences themselves. Philosopher Joseph
+Levine (1994, p. 117) has objected that “conscious experiences themselves,
+not merely our verbal judgments about them, are the primary data to which
+a theory must answer.” This can’t be right. How, in advance of theory, could
+we catalogue the experiences themselves? Consider the evidence we get
+from putting subjects into experimental situations and querying them (and
+asking them to perform whatever other actions we want them to perform).
+These sources are naturally nested by the cascade of interpretations we
+have to perform, ranked here from least raw to most raw:
+         (a) “conscious experiences themselves”
+         (b) beliefs about these conscious experiences
+         (c) the “verbal judgments” Levine mentions
+
+=== p. 303 ===
+
+          (d) the utterances of one sort or another that (can be interpreted
+          to) express those verbal judgments
+In one sense of “primary,” the utterances are primary data—recorded
+sounds and motions. Electroencephalographic (EEG) readings and
+functional magnetic resonance imaging (fMRI) readings and the like can be
+added to the primary data, as circumstances permit. Reliable methods of
+interpretation can take us to (c) and (b), so we have a catalogue of subjects’
+beliefs about what it is like to be them under these conditions. But should
+we push on to (a) in advance of theory? This is not a good idea, for two
+reasons.
+          First, if (a) outruns (b)—if you have conscious experiences you
+          don’t believe you have, then those extra conscious experiences
+          are just as inaccessible to you as to the external observers.
+So Levine’s proposed alternative garners no more usable data than
+heterophenomenology does.
+          Second, if (b) outruns (a)—if you believe you have conscious
+          experiences that you don’t in fact have, then it is your beliefs that
+          we need to explain, not the nonexistent experiences.
+Sticking to the heterophenomenological standard, then, and treating (b) as
+the maximal set of primary data, is the way to avoid any commitment to
+spurious data, while ensuring that all phenomena accessible to anybody get
+included.
+   What if some beliefs are inexpressible in verbal judgments? There is
+nothing to prevent heterophenomenologists and subjects from collaborating
+on devising analogue or other nonlinguistic modes of belief expression. For
+instance,
+          Draw a vertical line across the line segment indicating how
+          intense [in one dimension or another] the experience is:
+          Barely noticeable                                Overpowering
+Or subjects can press a button with variable pressure to indicate severity of
+pain (or anxiety or boredom or even distrust in the experiment). Then there
+are a host of physiological dependent variables to measure, from galvanic
+skin response and heart rate to changes in facial expression and posture.
+And if you, the subject, believe that there are still ineffable residues
+
+=== p. 304 ===
+
+unconveyed after exhausting such methods, you can tell this to the
+heterophenomenologists, who can add that belief to the list of beliefs in
+your primary data:
+            S claims that he has ineffable beliefs about X.
+If this belief is true, then science has the obligation to explain what such
+beliefs are and why they are ineffable. If this belief is false, science still
+has to explain why S believes (falsely) that there are these particular
+ineffable beliefs.1
+
+1 The defense of heterophenomenology as the methodology of choice for the scientific study of
+consciousness has occasioned substantial controversy. Some researchers regard it as a game-changing clarification of the conditions under which science can study consciousness, some
+regard it as just rehearsing the obvious, and still others continue to object. See Sources for
+references to some of the best work on this that has appeared to date.
+
+=== p. 305 ===
+
+64. MARY THE COLOR SCIENTIST: A BOOM CRUTCH UNVEILED
+
+Australian philosopher Frank Jackson’s thought experiment about Mary the
+color scientist, often called “the Knowledge Argument,” has been pumping
+philosophers’ intuitions with remarkable vigor since it first appeared in
+1982. For sheer volume and reliability, this must count as one of the most
+successful intuition pumps ever devised by an analytical philosopher. It is a
+classic, perennially on the list of required reading in undergraduate courses
+in the philosophy of mind all over the English-speaking world, and several
+weighty anthologies have been devoted to essays reflecting on its
+implications. It is interesting to note that its author has subsequently
+recanted, declaring that he no longer accepts its conclusion—but that has
+not diminished its popularity.
+   Here it is in its entirety, drawn slightly out of context perhaps, but still
+clear as can be:
+          Mary is a brilliant scientist who is, for whatever reason, forced to
+          investigate the world from a black and white room via a black
+          and white television monitor. She specializes in the
+          neurophysiology of vision and acquires, let us suppose, all the
+          physical information there is to obtain about what goes on when
+          we see ripe tomatoes, or the sky, and use terms like “red”, “blue”,
+          and so on. She discovers, for example, just which wavelength
+          combinations from the sky stimulate the retina, and exactly how
+          this produces via the central nervous system the contraction of
+          the vocal chords and expulsion of air from the lungs that results
+          in the uttering of the sentence “The sky is blue”. (It can hardly be
+          denied that it is in principle possible to obtain all this physical
+          information from black and white television, otherwise the Open
+          University would of necessity need to use color television.) What
+          will happen when Mary is released from her black and white
+          room or is given a color television monitor? Will she learn
+          anything or not? It seems just obvious that she will learn
+          something about the world and our visual experience of it. But
+          then it is inescapable that her previous knowledge was
+          incomplete. But she had all the physical information. Ergo there
+
+=== p. 306 ===
+
+          is more to have than that, and Physicalism [i.e., materialism, the
+          denial of dualism] is false. [Jackson, 1982, p. 130]
+   Is it a good intuition pump? Let’s turn all the knobs and see what makes
+it work. Actually, that would take us too long, but the job has been done, in
+the sizable literature on the topic. Here I will simply illustrate a few knobs
+that need to be examined, and leave the result as an exercise for you. (If
+you want, you can check your own results against the literature; two recent
+anthologies are referenced in Sources. Can you come up with a new twist?)
+More than twenty years ago, I conducted a preliminary exploration of the
+knobs, and issued a killjoy verdict that has been largely dismissed or
+disregarded: “Like a good thought experiment, its point is immediately
+evident even to the uninitiated. In fact it is a bad thought experiment, an
+intuition pump that actually encourages us to misunderstand its premises!”
+(Dennett, 1991a, p. 398). Let’s see if this is so. I claim that it is much more
+difficult to imagine the scenario correctly than people suppose, so they
+imagine something easier, and draw their conclusions from that mistaken
+base.
+          First knob: “a black and white room via a black and white
+          television monitor.”
+Presumably she wears black or white gloves and is forbidden to look at
+herself when she bathes, but the idea of cutting off all “external sources” of
+color is forlorn in any case. Would we have to rig some device that
+prevented her from rubbing her eyes (to create “phosphenes”—try it)? And
+couldn’t she have colors in her dreams before actually seeing them? If not,
+why not? Do the colors have to “get in via the eyes” before she can “store”
+them in her brain? A tangle of bad folk theory of color lies behind this
+simple suggestion.
+          Second knob: she “acquires, let us suppose, all the physical
+          information there is to obtain about what goes on when we see
+          ripe tomatoes, or the sky, and use terms like ‘red’, ‘blue’, and so
+          on.”
+All the physical information there is to obtain? How much is that? Is that
+like having all the money in the world? What would that be like? It’s not
+easy to imagine, and nothing less than all will serve to make the thought
+experiment’s intended point. It must include all the information about all
+
+=== p. 307 ===
+
+the variation in responses in all the brains, including her own, especially
+including all the emotional or affective reactions to all the colors under all
+conditions. So she will know in exquisite detail which colors calm her,
+annoy her, would grow on her with exposure, distract her, repel her, and so
+on. Is she forbidden to perform experiments on herself (without cheating,
+without smuggling any colored things into her cell)? If you didn’t imagine
+all this (and more), you didn’t follow directions. It’s like being asked to
+conceive of a chiliagon and imagining a circle instead. Lots of implications
+follow from one of these exercises of mental representation that don’t
+follow from the other. In this case, for instance, are we supposed to ignore
+the fact that if Mary acquired all this information, she would no doubt be in
+a state of total mental collapse, burdened with thousands of encyclopedia
+articles and diagrams?
+   If Jackson had stipulated that Mary had the God-like property of being
+“physically omniscient”—not just about color but about every physical fact
+at every level from the quark to the galaxy—many if not all readers would
+resist, saying that imagining such a feat is just too fantastical to take
+seriously. But stipulating that Mary knows merely all the physical facts
+about color vision is not substantially less fantastical.
+          “Imagine that Mary has a billion heads. . . .”
+          “Don’t be silly!”
+          “Ok. Make it a million heads. . . .”
+          “No problem!” (Really?)
+  In an earlier attempt to dramatize this problem of imagination, I
+encouraged people to consider a variant ending:
+          And so, one day, Mary’s captors decided it was time for her to see
+          colors. As a trick, they prepared a bright blue banana to present as
+          her first color experience ever. Mary took one look at it and said
+          “Hey! You tried to trick me! Bananas are yellow, but this one is
+          blue!” Her captors were dumfounded. How did she do it?
+          “Simple,” she replied. “You have to remember that I know
+          everything—absolutely everything—that could ever be known
+          about the physical causes and effects of color vision. So of course
+          before you brought the banana in, I had already written down, in
+          exquisite detail, exactly what physical impression a yellow object
+          or a blue object (or a green object, etc.) would make on my
+
+=== p. 308 ===
+
+          nervous system. So I already knew exactly what thoughts I would
+          have (because, after all, the ‘mere disposition’ to think about this
+          or that is not one of your famous qualia, is it?). I was not in the
+          slightest surprised by my experience of blue (what surprised me
+          was that you would try such a second-rate trick on me). I realize
+          it is hard for you to imagine that I could know so much about my
+          reactive dispositions that the way blue affected me came as no
+          surprise. Of course it’s hard for you to imagine. It’s hard for
+          anyone to imagine the consequences of someone knowing
+          absolutely everything physical about anything!’ ” [Dennett,
+          1991a, pp. 399–400]
+   It is standardly assumed that things could not proceed this way. As
+Jackson disarmingly put it, “It seems just obvious that she will learn
+something about the world and our visual experience of it.” Or as George
+Graham and Terry Horgan (2000, p. 72) say, “Surely, [ding!], we submit,
+she should be both surprised and delighted.” That is a mistake, and that is
+what is wrong with Mary as a thought experiment. It just feels so good to
+conclude that Mary has a revelation of some sort when she first sees color
+that nobody wants to bother showing that this is how the story must go. In
+fact, it needn’t go that way at all.
+   Jackson’s intuition pump excellently exposes to the light a lot of naïve
+thinking about the nature of color experience and the brain that no doubt
+serves people well most of the time, so we might grant that he nicely draws
+out some of the implications of folk theory. But his aim was to refute a
+hypothesis about the capacity of the physical sciences to account for all
+color phenomena. Of course in any real-world situation, somebody in
+Mary’s imagined position would learn something new because however
+much she knew about color, there would be lots of facts about physical
+effects of color she didn’t know. It is only the stipulated extreme case that
+makes Jackson’s “just obvious” and Graham and Horgan’s “surely” out of
+place. If you are still inclined to think that my suggested alternative ending
+of the story would have to be impossible, see if you can work out an argued
+reason for your belief. It would be interesting to see if you come up with a
+consideration that has escaped the hundreds of philosophers who have
+labored over this for years. (Of course, that very fact might be taken to
+show that this is after all a wonderful intuition pump: it has provided
+employment for philosophers for three decades.)
+
+=== p. 309 ===
+
+SUMMARY
+
+A besetting problem for the scientific study of consciousness has been the
+fact that everybody is an expert! Not really, of course, but just about
+everybody who has reflected for more than a few minutes on the topic
+seems to think the deliverances of those reflections are as authoritative as
+the results of any high-tech experiment or any mountain of statistics. It can
+be downright comical to hear them during the question-and-answer
+sessions at scientific conferences firmly correcting the mistakes they have
+just detected in the presenter’s work, by citing a recent experience they
+(think they) had. If we were, as these people typically think, infallible
+judges of the nature of our own personal experiences, they would be right!
+   But you can misremember, misinterpret, misdescribe your own most
+intimate experiences, covertly driven by some persuasive but unreliable bit
+of ideology. Here is a simple demonstration you can perform at home that
+may surprise you. Sit in front of a mirror so you can monitor your own
+compliance with the directions, which are to stare intently into your own
+eyes, fixating on them as a target instead of letting your eyes get attracted
+to peripheral goings-on. Now, without looking, take a card from the middle
+of a well-shuffled deck of cards and hold it, face-side toward you, at arm’s
+length just outside the boundaries of your peripheral vision. Wiggle the
+card. You will know you are doing it, but you won’t see it, of course. Start
+moving the card into your field of view, wiggling it as you do so. First you
+can see motion (the wiggling) but no color! You can’t tell whether it’s a red
+card or a black card or a face card, and you certainly can’t identify its
+number. As you move it more and more centrally, you will be amazed at
+how close to straight ahead it has to be for you to identify its color, or the
+fact that it is a face card or not. As the card gets closer and closer to your
+fixation point, you must concentrate on not cheating, stealing a glance at
+the card as it moves in. When you are finally able to identify the card, it is
+almost directly in front of you. Surprising? I don’t know anybody who
+wasn’t surprised the first time they experienced this. Here you’ve thought
+all along that your vision was roughly equally detailed and colored “all the
+way out to the periphery,” and now you learn that although that seems to
+“stand to reason,” and seems confirmed by casual introspection, it is
+simply not true. This is just one dimension, one phenomenon among many,
+
+=== p. 310 ===
+
+in which the apparently rich, continuous, detailed presentation of the world
+in our (visual) consciousness is an illusion. The moral is unmistakable:
+don’t think you understand the phenomena of consciousness until you see
+what science has discovered about it in recent years. The armchair theories
+of philosophers who ignore this moral are negligible at best and more often
+deeply confused and confusing. What you “learn” about your consciousness
+“through introspection” is a minor but powerfully misleading portion of
+what we can learn about your consciousness by adopting the
+heterophenomenological framework and studying consciousness
+systematically.
+   There are still difficulties aplenty in need of resolution, hard problems
+that are not the Hard Problem. If when we have solved all these “easy”
+problems there is still a deeply mysterious residue, it will then be time to
+reconsider our starting point and cast about for some radical departure from
+current assumptions about biology, physics, and even logic. In the
+meantime, let’s see how far we can get with business-as-usual science, the
+science that has brought us our current understanding of everything from
+asteroids and plate tectonics to reproduction, growth, repair, and
+metabolism in living things.
+

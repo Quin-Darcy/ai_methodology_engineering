@@ -1,0 +1,817 @@
+=== chunk: gendler-2010-intuition-imagination-philosophical-methodology/ch5-fake-barns ===
+title: The Real Guide to Fake Barns: A Catalogue (with Hawthorne)
+source_pdf: docs/sources/gendler-2010-intuition-imagination-philosophical-methodology/full.pdf
+pdf_pages: 109-126
+page_scheme: book
+plan_page_start: 98
+plan_page_end: 115
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 98 ===
+
+      The Real Guide to Fake Barns:
+      A Catalogue of Gifts for
+      Your Epistemic Enemies
+
+According to Wikipedia
+
+Show, don’t tell is an admonition to fiction writers to write in a manner that allows the
+reader to experience the story through a character’s action, words, thoughts, senses, and
+feelings rather than through the narrator’s exposition, summarization, and description.
+
+In this chapter, we attempt to show (as opposed to tell) the reader that a particular
+intuition that has played a central role in discussions of epistemology for roughly a
+quarter century is highly unstable. The larger lesson is a self-referential one: if the essay
+succeeds, this shows (in the relevant sense) the value of its own methodology.
+   As will quickly become clear, the discussion presupposes the reader’s familiarity with a
+particular literature in Anglo-American epistemology. Those who find themselves disoriented might begin by reading Alvin Goldman’s widely reprinted article “Discrimination
+and Perceptual Knowledge” (1976), in which the original “fake barn” case is presented,
+and then glance through the responses to it that can be found in any of the standard late
+twentieth-century epistemology anthologies.1
+   Alternatively, those perplexed by the essay’s jokes (including this one) might try
+consulting “The Real Guide to ‘The Real Guide to Fake Barns’,” publication information
+for which can be found in “The Real Guide to Real Guides” (Meinong Press).
+
+                                            ***
+This essay was co-authored with John Hawthorne and was first published in Philosophical
+Studies, 124 (2005), 331–52. It is reprinted with the kind permission of Springer’s Science
+and Business Media. The text that appears here is unchanged except for a few small
+stylistic alterations and typographical corrections, the incorporation of bibliographical
+footnotes into the main text, and the relocation and reconfiguration of a couple of
+contentful footnotes. As a result, several footnote numbers have changed; the original
+number of each footnote is noted in [square brackets].
+
+  1
+    [Note added in 2009: Two particularly comprehensive volumes are Sosa and Kim 2000 and
+Bernecker and Dretske 2000.]
+
+=== p. 99 ===
+
+Recently, we have come across a top-secret document from the Council of
+Intuition Adjudicators (CIA). The document reports a series of troubling developments, all stemming from efforts to exploit patented knowledge-prevention
+technology developed at the University of Michigan in the mid-1970s (Goldman 1976). Whereas traditional efforts in this area had focused on preventing
+knowledge by preventing belief—and hence had fallen afoul of Federal Belief
+Intervention (FBI) guidelines—this new generation of products is in full conformity with FBI regulations; just as neutron bombs kill while leaving buildings
+intact, these products prevent knowledge without affecting beliefs.
+  Early reports suggested that the dangers of such weapons could be safely
+contained: Intuitions concerning their effects seemed relatively stable, and
+principled articulations of the circumstances under which they were effective
+seemed possible. But the recently discovered CIA document confirms the growing suspicion of many that such ease of containment was merely an illusion.
+Rather, it seems, to stop the deployment of such weapons we need to make
+appeal to some of the most dreaded resources in the CIA arsenal: challenging
+the reliability of certain widely held intuitions about particular cases, or perhaps
+even challenging the systematicity of intuitions in this realm as a whole.
+  Below, we reproduce the CIA document in full.
+
+To: Council of Intuition Adjudicators (CIA) Epistemic Agents
+From: Agent 11.18.1976
+As all of you know, for many years we have been coming across various shady
+catalogues offering a wide range of products designed to prevent knowledge
+without preventing belief. But few of us had taken seriously the threat that they
+seem to pose. Recently, however, we have undertaken a systematic exploration
+of these documents—and have come to a rather pessimistic conclusion: rather
+than following along principled lines, intuitions about these cases seem wildly
+unstable and case-dependent.
+   Below, we reproduce a number of original documents revealing this unsettling history.
+
+1. Background
+
+Until quite recently, most catalogues offered only products such as the following:
+Exhibit One: Cardboard Building Advertisement from Let’s Get Real (a catalogue
+directed at real estate agents seeking to prevent competitors from knowing about
+various buildings in their neighborhoods). (Case codename “ORIGINAL BARN”)
+  Since their introduction in 1976, our cardboard buildings have set the
+  “Goldman standard” for facsimile edifices. Widely lauded by philosophers
+  around the world as highly effective knowledge-preventers, our patented
+  constructions are perceptually indistinguishable from their
+
+=== p. 100 ===
+
+  actual-building counterparts, and are available in a wide range of
+  styles, including the garden-variety “Ann’s arbor,” the widely
+  popularized “Arizona adobe” and—our latest—“Nouveau Brunswick.”
+    Easily installed with tools available in any epistemologist’s home,
+  these facsimiles need only to be arranged in such a way that when
+  someone approaches the target building, there will be a large number
+  of replicas in the area. If the subject’s eyes happen to fall on the real
+  house (barn, etc.), they will form the belief that it is a house (barn,
+  etc.)—but they won’t know it!
+    All of our facsimile buildings have been subjected to the most
+  rigorous thought-experimental testing, and meet or exceed industry
+  standards for knowledge-prevention.
+
+   Just to remind Agents of how this technology works, we ask them to recall the
+widely circulated 1976 document produced by Secret Agent Goldman, who had
+just been assigned to the CIA’s nascent pro-discrimination beat. Goldman
+describes an unclassified interaction between an Agent and his son, in which
+the Agent—code-named “Henry”—is identifying “various objects on the landscape as they come into view. ‘That’s a cow,’ says Henry, ‘that’s a tractor,’ ‘that’s
+a silo,’ ‘that’s a barn.’” Agent Goldman continues: “Henry has no doubt about
+the identity of these objects: in particular, he has no doubt that the last-mentioned object is a barn, which indeed it is. Each of the identified objects
+has features characteristic of its type. Moreover, each object is fully in view.
+Henry has excellent eyesight, and he has enough time to look at them reasonably carefully, since there is little traffic to distract him.” Secret Agent Goldman
+reports that “most of us would have little hesitation in saying . . . that Henry
+knows that the object is a barn” (“so long as,” he adds, “we were not in a certain
+philosophical frame of mind”).
+   But, he points out, this inclination can be sharply contrasted with “the
+inclination we would have if we were given some additional information. . . .
+Suppose,” Agent Goldman continues, that “we are told that, unknown to
+Henry, the district he has just entered is full of papier-mâché facsimiles of
+barns . . . [that] look from the road exactly like barns, but are really just
+facades . . . quite incapable of being used as barns . . . [ but] so cleverly constructed that travelers invariably mistake them for barns.” Under such circumstances, Goldman reports, we would be strongly inclined to withdraw the claim
+that Henry knows the object is a barn. (Goldman 1976: 772–3).2
+
+  2
+     [3] The technique of preventing belief by distracting the observer with a large number of
+facsimiles can, of course, be found much earlier—for instance, in the Irish folktale “Farmer Tom
+and the Leprechaun.” In that story, Tom meets a Leprechaun who eventually agrees to show
+him a gorse bush beneath which a treasure lies hidden. Poor Tom has no tool with him to use
+for digging, but he has a shovel back at home. Before setting off to retrieve the shovel, he
+carefully ties a red garter around the designated bush, and extracts from the Leprechaun a
+promise that the garter will not be removed. The Leprechaun keeps his promise. But . . . when
+
+=== p. 101 ===
+
+   Most Agents accepted the thrust of Goldman’s original diagnosis, viz: “S has
+perceptual knowledge if and only if not only does his perceptual mechanism
+produce true belief, but there are no relevant counterfactual situations in which
+the same belief would be produced via an equivalent percept and in which the
+belief would be false” (Goldman 1976: 786)—although it had long been clear
+that some modifications were required concerning the notion of “same belief.”
+For what does it mean to say that the belief Henry expresses by “that’s a barn”
+(Goldman 1976: 772 and passim) could (in a relevant counterfactual situation)
+have been false? Presumably, it’s not that that very barn could, in a relevant
+counterfactual situation, have failed to be a barn, or that that very belief could
+have, in a relevant counterfactual situation, involved a different (perhaps merely apparent) barn.3 Rather, the idea seems to be that there is a relevant counterfactual situation in which a sufficiently similar belief would have been false. It
+was widely agreed that all of this required no more than a charitable reading or,
+at most, a friendly amendment.
+   However, more intractable issues rapidly came to light. As with any technology, there was the danger that Goldman’s innovation would fall into the hands
+of those who did not fully understand its mechanisms. And this is precisely
+what began to happen. But the process of adjudicating intuitions in response to
+these cases proved much more difficult than anyone had ever expected.
+
+2. Your Friends Will Never Know
+
+The first document to reach CIA hands was associated with the obviously
+outrageous “Your Friends Will Never Know You’re Wearing a Diamond Ring”
+campaign.
+Exhibit Two: Costume jewelry advertisement from Treasures to Trinkets: Merchandise for the Modest. (Case codename: “FRIENDS NEVER KNOW”)
+
+  Recently introduced in our widely publicized “Your Friends Will Never
+  Know You’re Wearing a Diamond Ring” campaign, our costume jewelry
+  collection offers you a way of preventing others from knowing that
+  you are sporting some sort of valuable doo-dah. Just send us a
+  photograph of your genuine gem, and we’ll do the rest!
+
+Tom comes back, every gorse bush within sight has been adorned with an identical red garter,
+and poor Tom returns home no richer than when he set out. (The theme is also explored—with
+a nice Dutch Book twist—in Dr. Seuss’s fable The Sneetches.) A more serious employment of this
+technique is the (perhaps apocryphal story of the) Danish population’s decision during World
+War II to wear, en masse, the yellow star intended by Nazis as an identifying mark for Jews. All
+are vivid illustrations of the fact that we may well care about “if” only if “only if.”
+  3
+     [4] One might try to finesse the problem by appealing to a notion of “same belief” where,
+for demonstrative ingredients, the sameness in question concerns something like (Kaplanian)
+character rather than (Kaplanian) content.
+
+=== p. 102 ===
+
+    Our Diamond Ring Kit provides you with six phony diamond rings that
+  look identical to your genuine rock. Slip them surreptitiously into
+  your pocket, and whenever someone sees your ring, there will be lots of
+  fakes in the area. Result? Even when their eyes chance upon it, your
+  friends will not know you’re wearing a diamond ring!
+
+   There was no doubt among our Agents that this kit did not work, and it took
+only a few minutes for them to articulate why.4 In order to prevent an observer
+from knowing (of the actual ring) that “that’s a diamond ring,” it is not
+sufficient that there be facsimile diamond rings in the area; the facsimile rings
+need to be such that the observer is at serious risk of noticing them.5
+   But what sort of risk was at issue? Agents began considering cases like the
+following. Suppose that Always has only one ring—an authentic diamond that
+she never takes off—and suppose she walks around the mall surrounded by a
+phalanx of constant-fake-ring-wearers. When the casual observer’s gaze falls on
+Always, does he know that she is wearing a diamond ring? Most Agents agreed that
+he does not know: after all, the casual observer’s gaze might easily have fallen on
+one of the fake-ring-wearers, producing in him a relevantly similar yet false belief.
+And if a phalanx of fake-ring-wearers does the trick, most Agents agreed, so does a
+single constant-fake-ring-wearing companion—call her Never. If Always walks
+around the Mall with Never, they contended, the casual observer whose gaze
+falls upon Always’s finger does not know that Always is wearing a diamond ring.
+
+   4
+     [5] It is crucial to remember that here, as throughout, we are interested only in pairs of cases
+where (a) knowledge occurs in one case and is prevented in the other, and (b) the believer’s
+subjective state is indistinguishable in the two cases: pairs where there is knowledge in the
+distracter-free case but where, arguably, there is no knowledge in the relevant-facsimile case,
+and where the knower/believer feels no difference in her degree of doubt or uncertainty in the
+two cases. Because we are interested in the contrast between our knowledge-attributions in two
+sorts of circumstances, we need to discount interference arising from the “certain philosophical
+frame of mind” that would lead us to hesitate in saying “that Henry knows that the object is a
+barn” (or that my friends know I am wearing a diamond ring) even in the distracter-free cases.
+And because it is a presumption of such cases that the observer’s internal state is
+indistinguishable in the knowledge and non-knowledge cases (cf. the “Henry has no doubt”
+and “unknown to Henry” clauses in Goldman’s original presentation), we need to discount
+interference arising from our tendency to ascribe to the observer feelings of doubt about the
+veridicality of the perceptual information available.
+   This is not to deny that there are interesting epistemic—and practical—issues associated
+with cases that do not satisfy these criteria. Fashion magazines often caution that there is no
+point buying a genuine Chanel watch if the rest of your outfit is off-the-rack: no one will think
+that the timepiece is authentic. Analogously, they point out, if the bulk of your wardrobe is
+bona fide upmarket, you can save money here and there by filling in with facsimiles. This is
+useful advice. But these cases do not satisfy the constraints articulated above: the reason no
+one knows you are wearing a Chanel watch in the fashion blunder case is that no one believes
+that you are. Since such cases rely on belief-interference, they fall under FBI and not CIA
+jurisdiction.
+   5
+     [6] The question of what makes a risk “serious” has, of course been of long-standing interest
+to the CIA: a subcommittee has been established to explore the issues of danger and risk at play
+in this particular context: To what extent do they have epistemic ingredients? To what extent
+are they ascriber-dependent? What sort of notion of objective chance is at play?
+
+=== p. 103 ===
+
+As in ORIGINAL BARN, the salient proximity of an indistinguishable facsimile is
+sufficient to indict the casual observer’s knowledge. (“FAKE-RING COMPANION”)
+  Purveyors of facsimile rings quickly got wind of these CIA discussions, and
+several began offering product-lines in which fake-ring-sporting companions
+were dispatched to accompany genuine-gem-wearers on their daily outings. But
+the staffing costs associated with such strategies tended to be excessive, and the
+market soon foundered.
+  Then, one summer, rumors of a new sort of technology reached CIA headquarters. Treasures-to-Trinkets had revamped its product-line simply by changing the instructions that accompanied its original kits. Whereas the old kits had
+instructed subscribers to slip the fakes surreptitiously into their pockets, the
+new kits instructed them to alternate which ring they wore on any given day.
+“Even if all the facsimiles are at home in your dresser drawer,” the new kit
+advertised, “no one will ever know you are wearing a diamond ring. After all,
+on any of the other six days, you would have been wearing one of the fakes.”
+(“FAKE-RING COLLECTION”)
+  Many Agents were of the opinion that FAKE-RING COLLECTION was as
+effective at preventing knowledge as FAKE-RING COMPANION. But with the
+new technology came new complications. Suppose someone—call her Sometimes—owns one of these new kits, and follows its instructions religiously. One
+day, when she happens to be wearing her genuine diamond, she goes to the
+mall with Always. The two walk around together, and both fall under the gaze
+of a casual observer. (“ALWAYS WITH SOMETIMES”) If the casual observer
+would not know that Sometimes was wearing a diamond ring, then presumably
+she would not know that Always was. After all, there might be no intrinsic
+difference between the two rings, and minimal differences between their wearers’ fingers, hands, clothes, etc. But if so, then something remarkable was going
+on. Could one really prevent a casual observer from knowing that someone is
+wearing a diamond ring simply by walking around beside her, wearing a real
+diamond, with the habit of wearing fakes on other days?6 Could epistemic
+contagion really be so easy?
+  Agents quickly realized that they were facing a new kind of potential epidemic,7
+and divided into three main groups:
+
+  6
+     [7] Remember the caveats offered in n. 4 above.
+  7
+     [8] Some proposed describing the new epidemic as follows. Whereas the ORIGINAL BARN
+and its descendants (FAKE-RING COMPANION and FAKE-RING COLLECTION) introduce the
+possibility of what we might call primary infection, ALWAYS WITH SOMETIMES introduces the
+possibility of what we might call secondary infection. Whereas primary infection requires that
+there be some relevant counterfactual situation in which an equivalent percept produces a false
+belief, secondary infection requires only that there be some relevant counterfactual situation in
+which an equivalent percept is accompanied by a failure to know. Some Agents found the
+distinction between primary and secondary infection to be a useful one; others maintained
+that so-called cases of secondary infection were just particularly virulent cases of primary
+infection.
+
+=== p. 104 ===
+
+(1)   Some insisted that no matter how similar Always and Sometimes are in
+      appearance, the casual observer knows that one but not the other is
+      wearing a diamond ring. Even if the rings of Always and Sometimes
+      produce qualitatively indistinguishable percepts, even if the rings are
+      intrinsic duplicates, still the casual observer would know of the one but
+      not the other that it bore a diamond. To many, this purported asymmetry
+      seemed implausible, though its defenders remained steadfast.8
+(2)   Others defended the view that Sometimes is epistemically infectious,
+      maintaining that in ALWAYS WITH SOMETIMES, the casual observer
+      does not know that either one is wearing a diamond ring. But their
+      opponents worried that this would open the floodgates to excessively
+      skeptical results. Suppose Never (who wears her fake ring daily) goes to
+      the mall almost every day and sits on the bench in front of the central
+      fountain at noon. Once a week, however, she stays home to mow the lawn.
+      One day, Always goes to the mall and sits on the bench in front of the
+      central fountain at noon. It happens to be the day that Never is at home.
+      The casual observer’s gaze falls upon Always’ ring. Does he know that she is
+      wearing a diamond? (“NEVER AT NOON”)
+
+      Intuition suggests that he does, but the advocate of position (2) faces some
+      pressure to say otherwise. After all, the defender of (2) has committed
+      himself to saying that when Always walks around with Sometimes-in-hergenuine-ring, the casual observer does not know that either of them is
+      wearing a diamond. Why should the fake rings in Sometimes’ drawer indict
+      the casual observer’s knowledge in ALWAYS WITH SOMETIMES, but the
+      fake ring on Never’s finger not indict his knowledge in NEVER AT NOON?
+(3)   A final group maintained that in FAKE-RING COLLECTION, one does know
+      that the ring-wearer sports a diamond ring and, correlatively, that in ALWAYS
+      WITH SOMETIMES, one knows that both are wearing diamond rings. They
+      held that Sometimes’ habit of wearing fake rings does not introduce—even in
+      her own case—a relevant counterfactual situation in which an equivalent
+      percept produces a false belief; in order for the potential defeaters to be strong
+      enough to defeat knowledge, they maintained, the defeaters must, in
+      general, be spatially proximate—and not merely temporally so.9
+
+  8
+     [9] One Agent offered the following suggestive analogy on their behalf. Consider a series of
+pairwise-indistinguishable color chips whose colors shift gradually from red to orange. Oscar
+starts on the left, examining the chips one pair at a time. Assume that Oscar knows of the leftmost chip that it is red, but that there is some red chip further down the line that he does not
+know is red (say, because he would easily confuse it with a chip that is, in fact, orange). If so,
+then at some point during his process of pairwise comparison, he knows that the chip on the
+left is red, but does not know that the chip on the right is—even though the percepts are
+indiscriminable, and both chips are red.
+   9
+     [10] If temporal proximity were sufficient, they pointed out, then it would seem that we
+know anything at all only due to the absence of hyper-lucid dreams.
+
+=== p. 105 ===
+
+Advocates of (3) differed on what might explain this asymmetry. Some subscribed to a version of what they called the GAZE PRINCIPLE. According to that
+principle, candidate-defeaters are relevant in cases where we leave the world as
+it is (altering only the observer’s perceptual orientation within it) and irrelevant
+in cases where we leave the observer’s perceptual orientation as it is (altering
+only features of the world around her). In the first sort of case, one might say,
+the defeaters are there, but the observer’s gaze happens not to fall upon them; in
+the second sort of case, her gaze is there, but the defeaters on which it might
+have fallen happen not to be around.10 (Opponents objected that the principle
+was ad hoc, contending that there are plenty of cases where non-present but
+eminently possible fakes clearly do seem to destroy knowledge.)
+   Others subscribed to a version of what they called the LIVE-DANGER PRINCIPLE: cases where candidate-defeaters are relevant are cases where there is, on
+that occasion, a real danger of mistake; cases where candidate-defeaters are
+irrelevant are cases where there is, on that occasion, no real danger of a mistake.
+Suppose that Never could easily have shown up at that mall but that morning
+chose not to. At noon, I approach the fountain. Intuitively, there is on that
+occasion no danger of my observing Never and forming a false diamond belief.
+(This comports with general intuitions about the absence or presence of danger.
+If someone considers planting a bomb but has chosen not to, then I am not,
+later that day, in danger of being blown up.) Similarly, the story goes, when I
+approach Sometimes on her real ring day, there is on that occasion no danger of
+my gaze coming to fasten onto a fake ring. (Opponents objected that this was ad
+hoc. If I am driving by a real barn and the fakes are a few hundred yards away,
+then isn’t there some sense in which there is at that moment no danger of my
+gaze falling on a fake? It seemed quite unclear how to calibrate live danger so
+that lines are drawn where intuition suggests they ought to fall.11)
+
+3. The Contingencies of Risk
+
+A call on the Citizens’ Hotline alerted the CIA to an additional complicating
+factor that revealed diamond ring cases to have barely scratched the surface.
+
+  10
+      [11] One Agent suggested that appealing to this principle was like trying to refute Berkeley
+by staring at a stone.
+  11
+      [11] Cf. Agent Goldman’s original report: “How shall we specify alternative states of affairs
+that are candidates for being [relevant alternatives]? . . . [Clearly,] the object in the alternative
+state of affairs need not be identical with the actual object . . . [and some] alternative states of
+affairs [may] involve the same object but different properties . . . Sometimes, indeed, we may
+wish to allow non-actual possible objects. Otherwise the framework will be unable in principle
+to accommodate some of the skeptic’s favorite alternatives, e.g. those involving demons”
+(Goldman 1976: 780). . . . “An adequate account of the term ‘know’ should make the
+temptations of skepticism comprehensible” (Goldman 1976: 790).
+
+=== p. 106 ===
+
+Exhibit Three: Hotline recording (Case codename: “FAKE BAR”)
+
+  Unbeknownst to its patrons, Awful Alvin’s Bar serves genuine gin six
+  days per week—and an undetectable surrogate on Sundays. Tom goes out
+  nearly every night; Dick drinks only after his seminar on Tuesdays;
+  Harry is unpredictable but always spends Sundays at home with his
+  family. The three of them gather at Awful Alvin’s on Tuesday night,
+  and each of them orders a gin and tonic. Oscar walks in and asks each
+  one what he is drinking. “That’s gin,” each replies. Does Tom know that
+  he’s drinking gin? Does Dick? Does Harry? And does Oscar know that each
+  is imbibing authentically?
+
+   FRIENDS NEVER KNOW had taught Agents that mere proximity of a fake is
+not sufficient for the fake’s presence to prevent knowledge: the observer has to
+be at risk of noticing it. But what FAKE BAR drew attention to was that the risk
+of a fake being noticed by a particular observer may depend on highly contingent features of the observer, differences that do not, intuitively, make for a
+difference in his capacity to know the subject matter at hand. While his
+commitment to family time on Sunday may be laudable, it is odd to suppose
+that it has the additional benefit of enabling Harry, though not Tom, to know
+that a genuine gin is being poured on some Tuesday evening (given that both
+have the same perceptual exposure to the gin, and both have very similar
+discriminatory capacities).
+   Once the problem had been exposed, it was easy enough to find more
+illustrations. For example: While Ed walks past a real barn, Fred drives by and
+briefly stops his car. There are fake barns within easy driving distance—indeed it
+is quite likely that Fred will soon come upon one—though there are no fake
+barns accessible by foot. There is thus no real risk of Ed observing a fake barn,
+but there is a real risk for Fred. Or again: While Ike is short-sighted, Mike has
+excellent vision. There are fake barns in the area, perched on hilltops that can
+be observed by someone with acute eyesight. There is thus no real risk of Ike
+observing a fake barn, but a good chance of Mike doing so. Ed, Fred, Ike, and
+Mike observe a real barn at fairly close range. Should we conclude that Ed and
+Ike, but not Fred and Mike, know that there is a barn there?
+   Some Agents were happy to follow these cases where they seemed to lead,
+concluding that the knowledge-preventing capacity of fakes depends on the
+risk they induce of a subject’s perceiving them. The walker knows; the driver
+doesn’t. The short-sighted observer knows; the observer with 20–20 vision
+doesn’t. Others balked. It is intolerable, they argued, to allow that slow speed
+and short-sightedness could yield such epistemic dividends. Perceptual risk,
+they maintained, is highly observer-sensitive—in ways that knowledge is
+not—so the two cannot go hand-in-hand.
+   A CIA subcommittee has been assigned to investigate this matter further.
+
+=== p. 107 ===
+
+4. Retention and Prevention
+
+Meanwhile, additional documents gave rise to further complications.
+Exhibit Four: Travel brochure for Unpotemkin-on-Lethe: The Village Vacation She’ll
+Never Remember (Case codename: DAYTIME VOYAGE)
+  Want to send your Boss on an un-rememberable vacation? Try Unpotemkin:
+  a floating village that wends its way up and down the Lethe River. Home to
+  some of the loveliest barns in the world, Unpotemkin is certain to
+  entrance your Boss with its architectural splendors.
+     Here is the sort of exciting postcard you can expect your Boss to
+  write: “From my comfortable seat at the center of Unpotemkin village,
+  I have a lovely view of the farm that lies at its northern tip. Even
+  though I just arrived this morning, here are some things I already
+  know: That’s a tractor. That’s a silo. That’s a barn.”
+     Later that afternoon, we will unmoor the village, and send it floating
+  gently downstream. As Unpotemkin glides down the Lethe, it will pass
+  through fake barn country, where the river’s banks are strewn with
+  high-quality Goldman-standard barn facsimiles. What an exciting
+  moment! Your Boss can’t write another bragging postcard! For she no
+  longer knows that Unpotemkin sports a barn! (After all, her gaze might
+  well have just fallen upon one of the many fakes.)
+     Don’t forget to tell all your office-mates about Unpotemkin-onLethe: the vacation you can’t remember!
+
+   CIA Agents were quick to challenge the ad’s claims. Most agreed that knowledge was not lost in the way the ad suggested. (Those who demurred tended to
+be the ones who had secretly purchased fake diamonds to hide in their ex-wives’ dressers . . .)
+   Many Agents thought the key issue was the relevance of collateral information about the past. Suppose we agree that in the morning, prior to entering
+fake barn country, Boss knows that there is a barn at the end of Unpotemkin
+Village. Even if we grant that fake barns in the area in the afternoon would
+prevent a first-time onlooker from acquiring knowledge, it is hard to see that
+fake barns would interfere with Boss’s ability to retain her knowledge that a
+barn was there in the morning. Consider the barn located at location L. Assume
+that Boss knows in the afternoon that there was a barn at L in the morning, and
+assume further that Boss can reidentify location L. (The presence of fake barns
+on the bank in the afternoon would surely not impede such reidentification.)
+Then, insofar as Boss can know in the afternoon that, upon looking at location
+L, she is looking at the same object that she saw in the morning, it would seem
+that she can know in the afternoon that she is looking at a barn. Since the
+presence of fake barns on the shore would not seem to make any trouble for the
+reliability of beliefs of the form “that is the same object I saw yesterday,” it
+would seem that Boss has, after all, the basis for knowing that there is a barn in
+
+=== p. 108 ===
+
+front of her in location L, even when the banks are replete with fakes. The
+mistake is to suppose that when she looks at an Unpotemkin barn during the
+passage through fake barn country, the basis of her belief is merely the visual
+percept that the barn generates.12
+  Not all Agents were satisfied. Suppose Holly sits down on a bench in front of a
+barn in the morning when there are no fakes in the area and forms the belief
+“that’s a barn.” Just before noon, several fake barns are erected just out of view.
+Later that afternoon, Molly arrives on the scene and joins Holly on the bench
+where she has been sitting all day. Molly looks at the real barn and forms the
+belief “that’s a barn.” According to the analysis just presented, Holly but not
+Molly would know that she is looking at a barn—even though the two are
+seated side-by-side on the same bench, each having seen only a real barn, and
+each confronting the same risk of observing the newly constructed fakes that lie
+just beyond their range of sight. This, maintained the dissenters, is intuitively
+intolerable. The dispute remains unresolved.
+
+5. The Price of Caution
+
+For many years, cases confronted by the CIA were primarily concerned—like
+those above—with issues surrounding the notion of what makes a counterfactual situation relevant. Few had exploited the second main element in Gold-man’s original diagnosis—that of “equivalent percept.”13 But then the CIA
+began to come across documents like the following.
+Exhibit Five: Travel brochure for The Veldt Belt: A Place to Laugh about Animal
+Knowledge (ANIMAL SAFARI)
+
+  Does your wise old Uncle Milton want to get back at his epistemically
+  cautious cousin Isidore? Send them on one of our Veldt Belt
+  excursions . . . So long as Isidore is reluctant to make judgments about
+
+  12
+     [12] How does all this bear on Goldman’s original dictum that “S has perceptual
+knowledge if and only if not only does his perceptual mechanism produce true belief, but
+there are no relevant counterfactual situations in which the same belief would be produced via
+an equivalent percept and in which the belief would be false” (Goldman 1976: 786)? For isn’t
+this a case where we have knowledge that is arguably perceptual—despite the fact that an
+equivalent percept produces a false belief in various nearby counterfactual situations? Some
+Agents insisted that owing to the import of collateral information, it is not true in this case that
+the perceptual mechanism produces the belief (in the relevant sense of “produce”). Others
+suggested that some of the surroundings (in this case, those used to reidentify L) may here be
+considered crucial to the percept, in which case the counterfactual perceptions of fake barns
+would not generate equivalent percepts in the relevant sense.
+  13
+     [13] “S has perceptual knowledge if and only if not only does his perceptual mechanism
+produce true belief, but there are no relevant counterfactual situations in which the same belief
+would be produced via an equivalent percept and in which the belief would be false” (Goldman
+1976: 786).
+
+=== p. 109 ===
+
+  the species to which a particular animal belongs while Milton is not,
+  then Milton will know that he is seeing animals, while Isidore won’t
+  know he’s seeing animals!
+    Even if Milton and Isidore never disagree about whether something is
+  an animal—even if there is no nomically possible perceptual situation
+  in which the two of them deliver different verdicts on whether an
+  object presented is an animal—still, Milton will know that he is
+  seeing animals, and Isidore will not know that he is seeing animals.
+  Ha ha ha—the joke’s on Izzie!
+    How does this fantastic safari work? Let me tell you how. In
+  anticipation of Milton’s visit, we will populate the veldt with
+  numerous fake antelopes—and three real tigers. And then we will send
+  Milton and Izzie out in one of our Jurassic jeeps . . .
+    Milton will look at one of the tigers, form the belief that it is a
+  tiger, come to know that it is a tiger, and thereby come to know that he
+  has seen an animal. But what about Milton’s cautious cousin Izzie? He
+  will look at one of the tigers, be reluctant to form the belief that it
+  is a tiger, and instead merely form the belief that it is an animal. But
+  now we’ve got him! The area is rife with fake animals—artificial
+  antelopes on every apex! So Izzie will not know that he is seeing an
+  animal—but Milton will . . . Foolish old Izzie: he has paid the price of
+  caution!
+
+   Agents condemned the case immediately, quickly pointing out its similarity
+to Agent Goldman’s dachshund/wolf example. Suppose, proposed Goldman,
+that Oscar has a tendency to mistake wolves for dogs, and that he observes a
+dachshund in a field frequented by canis lupus. Seeing the dachshund, Oscar
+believes a dog to be present. (“DACHSHUND WOLF”) Does he know that a dog
+is present? After all, he would (falsely) believe a dog to be present even if he were
+merely to have seen one of the many wandering wolves. Goldman rejects this
+reasoning as follows:
+If Oscar believes that a dog is present because of a certain way he is “appeared to,” then
+this true belief fails to be knowledge if there is an alternative situation in which a non-dog
+produces the same belief by means of the same, or a very similar, appearance. But the wolf
+situation is not such an alternative. . . . An alternative that disqualifies a true perceptual
+belief from being perceptual knowledge must be a “perceptual equivalent” of the actual
+state of affairs. (Goldman 1976: 779)
+
+He goes on to produce a refined account of the notion of “perceptual equivalence”:
+If the percept produced by the alternative state of affairs would not differ from the actual
+percept in any respect that is causally relevant to S’s belief, this alternative situation is a
+perceptual equivalent for S of the actual situation. . . . Consider now the dachshund-wolf
+case. The hypothetical percept produced by a wolf would differ from Oscar’s actual
+percept of the dachshund in respects that are causally relevant to Oscar’s judgment that
+
+=== p. 110 ===
+
+a dog is present. Let me elaborate. There are various kinds of objects, rather different in
+shape, size, color, and texture, that would be classified by Oscar as a dog. He has a number
+of visual “schemata”, we might say, each with a distinctive set of features, such that any
+percept that “matches” or “fits” one of these schemata would elicit a “dog” classification
+. . . Now although a dachshund and a wolf would each produce a dog-belief in Oscar, the
+percepts produced by these respective stimuli would differ in respects that are causally
+relevant to Oscar’s forming a dog-belief. Since Oscar’s dachshund schema includes such
+features as having an elongated, sausage-like shape, a smallish size, and droopy ears, these
+features of the percept are all causally relevant, when a dachshund is present, to Oscar’s
+believing that a dog is present. (Goldman 1976: 782–3)
+
+Most Agents agreed that analogous reasoning could be used to account for the
+intuition that Isidore knows he is seeing animals: presumably, the cautious
+cousin uses a variety of “visual templates” to decide whether something is an
+animal, and the visual template that triggers an animal belief in the case of a
+tiger differs from the one that would have been activated by the fake antelope.
+It is for this reason that we are inclined to dismiss the fake antelopes in ANIMAL
+SAFARI as irrelevant to Isidore’s knowledge—even though he does not have the
+conceptual confidence to distinguish them by name. Caution does not carry
+that sort of epistemic cost.
+   But if the visual template analysis is correct, Agents pointed out, then if
+Isidore’s template is sufficiently permissive, ANIMAL SAFARI could describe a
+case where Milton knows that he is seeing animals, whereas Isidore does not. If
+one of the schemata that Isidore uses in animal identification is satisfied both
+by antelope-shaped creatures and tiger-shaped creatures, then he will pay the
+price not of caution, but of indifference.
+   Similarly, they continued, suppose Agent Orange is insensitive to certain
+subtleties of shading, whereas Colonel Mustard is not; there will be cases
+where Colonel Mustard will know that he is seeing a red piece of paper, whereas
+Agent Orange will not—even though Mustard and Orange never disagree
+about whether a sheet of paper is red and thus neither is more easily deceived
+(or more reliable) in redness verdicts than the other. Suppose that the two are
+sitting side by side. In front of them is a piece of paper of the shade red-36,
+surrounded by pieces of white paper that have been illuminated to look as if
+they are of the shades red-32, red-34, and red-38. Casting their gazes on the red-36 sheet, Colonel Mustard and Agent Orange both form the judgment: there is
+a red piece of paper before me. But if the visual template analysis is correct,
+Colonel Mustard knows that there is, whereas Agent Orange does not—even
+though it may be nomologically impossible for them ever to disagree in perceptual cases about whether something is red. On this picture, indifference
+brings ignorance in its wake: the narrower the range of features that play a
+causal role in bringing about a perceptual belief, the wider the range of its
+relevant defeaters.
+
+=== p. 111 ===
+
+6. Apples and Oranges: The Search for Consistent Principles
+
+But a dinner party the next week at the home of one of our protagonists
+revealed that this could not be the full story.
+Exhibit Six: Orange’s Apple
+  The Association of Fruit Lovers meets for dinner at Agent Orange’s
+  house. In the middle of his dining room table sits a clear glass bowl.
+  In the middle of the bowl sits a single real apple. Nestled around it are
+  two fake oranges, a fake cantaloupe, three fake peaches, and two fake
+  coconuts. (FRUIT BOWL)
+
+Suppose a member of the Association casts her eyes upon the bowl. According
+to the Equivalent Percept Articles (EPA), she knows that she is seeing an apple.
+After all, she looks at the apple, forms the belief that it is an apple, and
+thereby—since there are no fake apples in the area—comes to know that that
+is an apple in the bowl before her. And if she knows that there is an apple in the
+bowl, presumably she knows that there is a piece of real fruit in the bowl.
+   But does she? The intuitions of many Agents suggested otherwise.
+   Now there was trouble: for FRUIT BOWL and ANIMAL SAFARI are, Agents
+were quick to note, structurally similar. Indeed, the casual visitor in FRUIT
+BOWL—who seems clearly not to know that there is a real piece of fruit before
+her—is in the position of Uncle Milton—who seemed clearly to know that he
+had seen an animal in ANIMAL SAFARI. What could explain the difference?
+   One difference seemed immediately striking: the apple in FRUIT BOWL
+is surrounded by many different sorts of fake fruit, whereas the tiger in
+ANIMAL SAFARI is surrounded by only one sort of fake animal. Place the real
+apple in a bowl of fake bananas and surround the real tiger by fake giraffes,
+lions, and gazelles, and the intuition-gap begins to fade. But why should
+this matter?
+   Some Agents reasoned as follows. FRUIT BOWL is presented in such a way
+that there are a variety of fake fruits in the bowl: fake oranges, fake peaches, fake
+coconuts, and so on. Upon hearing that story, it seems reasonable to think that
+whoever placed such a wide assortment of fake fruits in the bowl could easily
+have placed fake apples there as well. In ANIMAL SAFARI, by contrast, the
+presence of fake antelopes does not in itself raise the specter that fake tigers
+could easily have been present too. But change the safari story to one in which
+the real tigers are surrounded by fake giraffes, fake lions, fake zebras, and the
+like—and the specter looms large. Change the fruit bowl story to one in which
+the host has simply placed her apple on top of a pile of fake bananas, and the
+gap fades in the opposite direction.
+   Other agents were dissatisfied. They pointed out that this diagnosis depends
+upon appealing to the relevance of the possibility of a non-present fake
+apple producing a percept similar to that produced by the real apple. But,
+
+=== p. 112 ===
+
+they pointed out, if one concedes that this is what prevents knowledge in FRUIT
+BOWL, then its analogue ought to prevent knowledge in NEVER AT NOON.
+After all, in that case too a fake could easily have been present that produces the
+same percept and belief. But only a minority of Agents had conceded that
+knowledge was prevented by Never’s counterfactual presence at the fountain.14
+  A problem had crystallized: How could one consistently maintain that
+knowledge was present in NEVER AT NOON, but absent in FRUIT BOWL?
+Some Agents suggested the following. In FRUIT BOWL, the reasonableness of
+the belief that there is a real apple depends upon certain false beliefs being
+uncorrected: if the observer in FRUIT BOWL were told that his beliefs about
+the apparent oranges, peaches, coconuts, etc. were false, he could no longer
+reasonably believe that the apple was real. By contrast, the reasonableness of
+the belief in NEVER AT NOON does not depend upon certain false beliefs being
+uncorrected.
+  But, pointed out dissenters, this UNCORRECTED-FALSE-BELIEF PRINCIPLE
+runs afoul of the following intuition. Suppose the fruit is arranged in an opaque
+bowl, so when the observer enters the room, all he sees is the apple on top. Were
+he to take one step further, his gaze would fall upon the fake oranges and
+peaches, etc., but from where he stands, all that is visible is the real apple. He
+thus has no uncorrected false beliefs about the other fruits. Still, contended
+these Agents, there is some inclination to say that he does not know in this case.
+After all, they pointed out, suppose that the opaque bowl contained fake apples
+instead. In that case we would surely say that he does not know that he is seeing
+an apple—by straightforward ORIGINAL BARN reasoning. Given this, it seems
+implausible to some to say that he knows he is seeing an apple when he sees
+only the single real apple perched atop the bowl of fake fruit. So, they contended, the difference between FRUIT BOWL and NEVER AT NOON cannot be
+fully explained by appeal to uncorrected actual false beliefs.
+  Agents agreed that it was a matter for further investigation.15
+
+  14
+      [14] Or again: suppose someone buys a rose—call it Sharon—which he is determined to
+surround with either fake roses or real daisies. He tosses a coin and decides to surround it with
+real daisies. Oscar sees the vase and forms the belief of Sharon that it is a rose. But given the setup of the story, there is a close world where a person in Oscar’s situation would form the belief of
+various fake flowers in the vase that they were roses. This hardly seems to prevent Oscar from
+knowing that a rose is present in the actual world. Or consider a variation on ANIMAL SAFARI
+where safari organizers parachute in one real tiger, then flip a coin as to whether to populate the
+remainder of the veldt with (a) fake tigers, or (b) real antelopes. Uncle Milton is lucky enough to
+go on safari (b)—but he only pays attention to the tiger. Does he know that he has seen an
+animal?
+  15
+      [15] Some suggested that the right way to account for the opaque-bowl cases was by
+making appeal to something like the LIVE-DANGER PRINCIPLE in conjunction with the
+UNCORRECTED-FALSE-BELIEF PRINCIPLE, withholding knowledge when there is a live
+danger of the observer holding false beliefs on whose lack of correction the reasonableness of
+the candidate belief lies. Dissenters retorted by pointing out that this would result in
+widespread skepticism.
+
+=== p. 113 ===
+
+7. Time Change
+
+Some months after the initial memo appeared, two further cases came to the
+attention of the CIA, both further destabilizing the apparent reliability of classic
+barn intuitions.
+Exhibit Seven: Watch Out
+  You enter a room and ask someone the time. She replies truthfully and
+  correctly, and she is extremely reliable. But your informant happens to
+  be surrounded by a roomful of compulsive liars. Do you know what time it is?
+
+Field studies by the CIA indicate that—with the exception of small pockets in
+the vicinity of Tucson—there is a tendency to ascribe knowledge in this case.16
+But why should there be any intuitive discrepancy between a case of testimony
+with liars in the area and a case of perception with fake barns in the area? Could
+the difference depend on the intentions of the distracters? It seems not: for
+suppose that instead of being surrounded by compulsive liars, your informant is
+surrounded by well-meaning truth-tellers whose watches have stopped. Intuitions remain stably knowledge-supporting, even though the chance of having
+gotten misinformation remains high.
+   Some agents suggested the following diagnosis, a cousin to the UNCORRECTED-FALSE-BELIEF PRINCIPLE. If I ask someone the time then my inclination to
+trust that person will not be—nor ought it to be—significantly affected by the
+information that certain other people in the area are liars (or have watches that
+have stopped). For the information that certain other people are liars (or have
+broken watches) gives me no especially good reason to think that the person I am
+talking to is a liar (or has a broken watch).17 My conditional credence that
+the person I am talking to is a liar on the information that certain other people
+in the area are liars ought not to be significantly higher than my credence that
+the person I am talking to is a liar. This is because, in general, the information
+that X is a liar does not tell me anything much about whether Y is a liar—and
+
+   16
+      [16] Matters may be different when that very individual is disposed to lie about similar
+subject matter. Agent Brown suggests the following case. “Sherlock Holmes is trying to
+determine the circumstances behind Body’s mysterious death. He knows that Doctor Who,
+Lord How and Private Why witnessed the death. What he doesn’t know, because it has never
+occurred to him to think about it, is that all three are pathological liars. Doctor Who will always
+tell a lie except when asked a ‘Who?’ question, Lord How lies except in answer to a ‘How?’
+question and Private Why lies except in answer to a ‘Why?’ question. Holmes knows none of
+this, but being struck by a whim of fancy given their names, he decides to ask the Doctor who
+killed Body, the Lord how it was done, and Private why it was done. All three answer truthfully,
+and Holmes comes to believe them. Does Holmes know the who, how, and why of Body’s
+murder?” Here many informants were reluctant to classify any of Sherlock’s testimonially
+obtained beliefs as knowledge.
+   17
+      [17] Insofar as one thinks the information suggests a conspiracy or plague, one will be
+correspondingly reluctant to attribute knowledge.
+
+=== p. 114 ===
+
+likewise with the other cases where we are inclined to attribute knowledge. By
+contrast, if you tell me that certain other barn-appearing things in the area are
+not in fact barns, this will give me at least some reason to think that the barn-appearing thing that I am looking at is not in fact a barn. My conditional
+credence that the thing I am looking at is a barn on the information that certain
+other barn-looking things in the area are not barns is significantly lower than my
+credence that the barn-looking thing I am looking at is a barn—and likewise with
+other cases where we are inclined to withhold an attribution of knowledge.
+   Other Agents felt that a less abstract diagnosis was called for. They conjectured that our methods of epistemic evaluation for assessing knowledge based
+on testimony are likely to be structurally different—and perhaps more lenient—
+than our methods for assessing perceptual knowledge: the requirements for
+transmitting knowledge differ from the requirements for acquiring it.18 Consider the following case, they suggested. Henry inspects a barn in fake-barn
+country and tells me: “that’s a barn.” In fact, Henry has done enough to discern
+that it is not a mere barn façade: he has walked around inside, tapped on the
+walls, used a metal-detector to locate the nails, and so on. But all Henry tells me
+is “that’s a barn.” Throughout the area, Henry’s cousins are looking at barn
+façades, and—without performing such inspections—blithely reporting to their
+companions “that’s a barn.” Intuitively, I know on the basis of Henry’s testimony that that’s a barn. But if I were told that there were many others in the area
+who were falsely believing and reporting that they were seeing barns, then my
+conviction that Henry is seeing a real barn would no longer be reasonable. This
+appears to make trouble for the more abstract diagnosis. Further research
+seemed to be called for.
+
+8. Ignorance and Experience
+
+Deep in CIA archives, one final document was found.
+Exhibit Eight: The Ignorance Machine
+
+  Employing factive-stative technological innovations developed in
+  clandestine laboratories in Oxford and New York,19 we have discovered
+  how to prevent individuals from being pleased that p. Here is the new
+  top-secret product.
+    As the curfew tolls the knell of parting day, your epistemic enemy
+  sets off down the garden path to (what he fails to realize is) fake tiger
+
+  18
+     [18] Agent Causation points out the following important asymmetry: “Imputations of
+lying are insulting in ways that considerations of barn props are not. Thus we feel pragmatic
+pressure not to entertain possibilities of lying when we need not, which has no analogue in the
+barns case.”
+  19
+     [19] Cf. Williamson 2000, ch. 1, drawing on ideas put forth in Unger 1975.
+
+=== p. 115 ===
+
+  country. Upon arrival, he is fortunate enough to cast his gaze upon one
+  of the few real tigers, burning brightly in the distance. “I am pleased
+  that there is a tiger in the area,” he remarks.
+    But, of course, he is not! For it turns out that ‘is pleased that p’
+  entails ‘knows that p’ (as do other factive predicates that describe
+  emotional states). Since your enemy doesn’t know that he is seeing a
+  tiger, he isn’t pleased that he’s seeing a tiger—even though, as
+  matter of fact, he is seeing a tiger! What poetic justice!
+
+  Many Agents immediately condemned this product as illegitimate. Two
+possible diagnoses: (a) despite the impressive array of considerations in its
+favor, the fashionable view concerning factive mental predicates is incorrect;
+(b) the concept of knowledge, prior to its being fashioned and molded by
+certain philosophical traditions, never offered any stable negative verdict in
+the original fake barn case.20
+  The CIA hereby requests a grant of $10 million to examine these possibilities
+in greater detail.21
+
+  20
+      [20] An alternative explanation, here and elsewhere, is that the variations in response are
+due to the context-dependency of “know.” Though many stylish Agents have embraced this
+mode of explanation, conservatives have resisted. Those adopting this kind of strategy face the
+additional task of specifying which of the disputes described above represent cases of genuine
+disagreement among Agents, and which represent cases where Agents are merely talking past
+one another.
+  21
+      [unnumbered ] Acknowledgements: For comments and encouragement, we are grateful to
+Stewart Cohen and Alvin Goldman. Special thanks are due to Agent Brown (Brian Weatherson)
+[note added in 2009: when this article was written Weatherson taught at Brown University] and
+Agent Causation ( Jonathan Schaffer) for careful comments on an earlier draft of this memo.
+

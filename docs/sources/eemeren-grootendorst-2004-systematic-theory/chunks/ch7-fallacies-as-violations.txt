@@ -1,0 +1,1004 @@
+=== chunk: eemeren-grootendorst-2004-systematic-theory/ch7-fallacies-as-violations ===
+title: Fallacies as Violations of the Rules for a Critical Discussion
+source_pdf: docs/sources/eemeren-grootendorst-2004-systematic-theory/full.pdf
+pdf_pages: 168-196
+page_scheme: book
+plan_page_start: 158
+plan_page_end: 186
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 158 ===
+
+                               Fallacies
+
+             The state of the art in the study of fallacies
+A standard definition of a fallacy that was accepted until recently is that
+of “an argument that seems to be valid but that is not valid.” During the
+last few decades, however, argumentation theorists have raised several
+important objections to this definition: “Seems” involves an undesirable amount of subjectivity; “validity” is incorrectly presented as an
+absolute and conclusive criterion; the definition ignores the fact that
+some well-known fallacies are valid by the terms of present-day logical
+standards; the definition restricts the scope of the concept of fallacies
+to patterns of reasoning, leading to the exclusion of a large number of
+recognized fallacies. These objections explain why nowadays it is preferred in some quarters to give a broader definition in which a fallacy
+is regarded as a deficient move in an argumentative discourse or text.
+    In De sophisticis elenchis (Sophistical Refutations), Aristotle (1928c)
+puts the fallacies in the dialectical context of a dialogue in which a
+thesis is attacked by one party and defended by the other party. The
+refutation of the opponent’s thesis is one way to win the debate. Seen
+from this perspective, fallacies are incorrect discussion moves in refuting this thesis. Sophistical Refutations deals with refutations that are
+only refutations in appearance (paralogisms) and that Aristotle considers characteristic of the style of argumentation of the Sophists,
+hence “sophisms.” In the Topica (Topics), Aristotle (1928d) discusses
+correct moves attackers can make to refute the thesis defended by their
+
+=== p. 159 ===
+
+opponent as well as incorrect argumentative moves such as petitio
+principii, also known as begging the question or circular reasoning.1
+   In Sophistical Refutations, Aristotle groups the fallacies into thirteen
+different types of incorrect refutations and indicates how the defender
+can parry these incorrect moves. He divides the dialectical fallacies into
+two groups: refutations that depend on language (in dictione) and refutations that are independent of language (extra dictionem). The fallacies
+that depend on language are connected with ambiguities and shifts
+of meaning. The fallacies that are independent of language can also
+occur in an artificial “perfect” language that is unequivocal and in every respect well defined. The distinction between language-dependent
+and language-independent fallacies is not without its problems, and
+was later often misinterpreted or interpreted in a very different way.2
+Nowadays, it has generally been replaced by the distinction between
+ambiguity fallacies and relevance fallacies.3
+   Aristotle’s standard definition of a fallacy as an apparently valid argument that is really invalid set the tone for a long time, but later
+scholars often ignored the dialectical context of the definition. They
+also ignored the differences between a deductively valid argument and
+Aristotle’s view that proper reasoning requires not only that the conclusion of the syllogism in question follow from the premises but also
+be based on these premises and different from them. It was not until
+the Renaissance that scholars such as Petrus Ramus rejected Aristotle’s
+insights – or even denied that fallacies were a field worth studying
+at all.
+   The philosopher Locke, who was critical of syllogistic logic, introduced the first ad fallacies: ad verecundiam (originally the “shame” argument, because one did not dare to attack an authority, nowadays the
+fallacy of a misplaced appeal to an authority); ad ignorantiam (the fallacy of concluding that an assertion is true because the opposite is not
+successfully defended); and ad hominem (originally making use of the
+other party’s concessions, now the general term for direct or indirect
+
+1 Aristotle (1928a) adds a number of comments in the Analytica priora (Prior Analytics).
+
+  In the Rhetorica (On Rhetoric), Aristotle (1991) discusses a selection of the fallacies that
+  he collected in his Sophistical Refutations, including post hoc ergo propter hoc.
+2 See, for example, Cohen and Nagel (1964) and Copi (1972).
+3 See, for example, Copi (1972).
+
+=== p. 160 ===
+
+attacks on the opponent). Locke, by the way, did not condemn these
+types of argumentation as fallacies. Nowadays, they are usually classified as relevance fallacies.
+   Whately’s Elements of Logic (1828) treats the fallacies from a logical point of view, in which the Aristotelian definition is somewhat
+broadened. Whately was exceptionally influential on the later tradition in manuals in Great Britain and the United States. An important
+characteristic of treatments of the fallacies in these later manuals of
+traditional logic is the shift from Aristotle’s dialectical perspective to
+the perspective of a monologue. In this way, the theory of fallacies concentrates exclusively on errors of reasoning rather than on misleading
+maneuvers by someone who is trying to get the better of the other
+party.4
+   Because some fallacies in Aristotle’s list are intrinsically linked to
+the dialogue situation, one of the consequences of abandoning the
+context of debate has been that it is sometimes unclear why a particular
+fallacy is actually fallacious. An example of this is many questions, a
+fallacy that arises when a question is asked that can only be answered
+by simultaneously answering one or more questions that are “hidden”
+in the original question, as in “What did you do with the money you
+stole?” According to the modern interpretation, the answer to the
+original question presupposes a specific answer to other questions. Since
+many questions depends on the dialogue situation, this fallacy can only
+be analyzed adequately by means of a dialectical approach.
+   In Fallacies, a highly influential study of the history of the study of
+fallacies, Hamblin (1970) found such a degree of uniformity in the
+approaches to fallacies in prominent manuals of logic of the time that
+he spoke of a logical standard treatment. His critique of the standard
+treatment is devastating. The shortcomings of the standard approach
+are, in his view, already expressed in the standard definition of a fallacy
+as an argument that seems to be valid but that is actually invalid. Apart
+from formal fallacies such as the denial of the antecedent and the confirmation of the consequence (cases in which there is a confusion of sufficient
+and necessary conditions for logically valid reasoning), most of the fallacies discussed in the standard treatment do not match this definition
+
+4 For a more detailed explanation of fallacies as “derailments” of strategic maneuvering,
+
+  see van Eemeren and Houtlosser (2002b).
+
+=== p. 161 ===
+
+at all. This may be because there is no question of an argument (in many
+questions, for example), because the argument is not at all invalid according to modern interpretations (in petitio principii, for example), or
+because the fallaciousness is not primarily due to the invalidity of an
+argument but connected with the unacceptability of an unexpressed
+premise (in ad verecundiam, ad populum, and ad hominem, for example).
+In the latter cases, an objection will relate to the content rather than
+the form of the argument. An argumentum ad hominem is generally not
+presented as an argument in the form of a series of premises with a
+conclusion, and cannot easily be reconstructed as such either.
+    Hamblin’s critique of the standard treatment, even more than his
+own contribution to the theory of fallacies in the form of a regulatory
+system for formal dialectics, has led to all kinds of reactions.5 The many
+articles and books that the logicians Woods and Walton have published,
+either individually or as co-authors, since the early 1970s, constitute
+the most ambitious post-Hamblin contribution to the study of fallacies.
+Their remedy for the standard treatment is to tackle fallacies with
+a variety of more advanced logical systems than just syllogistic logic,
+propositional logic, and predicate logic.6 Their starting point is that
+fallacies can be analyzed using the structures and theoretical vocabulary of dialectical and other logical systems, and that successful analyses of fallacies will have characteristics that make these analyses formal
+in a very broad sense.7 The informal logicians, on the other hand,
+who very much concentrate on argumentative practice, pay special
+attention to the conditions under which a specific argumentative
+move should be treated as a fallacy.
+    An important theoretical attempt to create a formal dialectical
+framework for the analysis of fallacies as envisaged by Hamblin was
+undertaken by Barth and Krabbe (1982). Their “formal dialectics” is,
+
+5 For a survey of the current state of the art in the theory of fallacies, see Hansen and
+
+  Pinto (eds., 1995), and van Eemeren (ed., 2001, chapter 6).
+6 Their manual, Argument. The Logic of the Fallacies (1982) provides a clear statement of
+
+  Woods and Walton’s approach. See also Fallacies. Selected Papers, 1972–1982(1989),
+  which contains a substantial collection of their joint articles.
+7 Walton’s Informal Fallacies (1987), by the way, marks a turning point in his develop-
+
+  ment. In his later work on analyzing fallacies, such as Walton (1989, 1992, 1995a, b,
+  1996, 1997a, b, 1998, 1999, 2000), he not only subordinates formal logic to dialectics,
+  but also resorts (in a very broad sense) to pragmatics. See also Walton and Krabbe
+
+=== p. 162 ===
+
+as we explained in Chapter 3, among other sources, based on insights
+from the dialogue logic of the Erlangen School. Barth and Krabbe
+view a theory of rational argumentation as a finite collection of
+rules for the generation of rational arguments.8 Fallacies can thus
+be analyzed as argumentative moves that cannot be generated by the
+rules. Instead of the ad hoc declarations that the standard treatment
+usually provides, formal dialectics makes it possible to give systematic
+analyses of the fallacies.9 In the latter respect, the treatment of the fallacies that we offer in our pragma-dialectical approach fits in with the
+formal dialectical approach. We shall now proceed to explain what
+the pragma-dialectical treatment of the fallacies boils down to.
+
+             Fallacies and the concept of a critical discussion
+In Chapter 6, we formulated rules for the resolution of differences of
+opinion. Every violation of any of these rules can make the resolution
+of a difference more difficult, or may even obstruct it. We shall take
+such a violation to be a fallacy. This conception of a fallacy is broader
+than the familiar conception of fallacies as invalid or incorrect arguments, but it is also more specific. Our view is broader because we
+do not link the fallacies exclusively to one particular discussion stage,
+which we call the argumentation stage, in which the reasoning of the
+protagonist is tested for its correctness. It is more specific because it
+links the fallacies specifically and explicitly with the process of resolving
+a difference of opinion. Certain cases that are traditionally regarded
+as fallacies, but whose analysis has always raised problems, can now be
+analyzed adequately by means of our rules. This applies in particular
+to the so-called informal fallacies, which have always been the major
+obstacle to analysis. We shall show that the rules of the discussion procedure we have developed permit a systematic analysis of these informal
+fallacies.
+   Our starting point is that fallacies can occur at every stage of a critical
+discussion and that both the protagonist and the antagonist can be the
+guilty party. We therefore discuss the consequences of violations of the
+
+8 For an account of the rules of such formal-dialectical systems, see Barth and Krabbe
+
+9 See, for example, Barth and Martens (1977) for an analysis of the argumentum ad
+
+  hominem.
+
+=== p. 163 ===
+
+pragma-dialectical discussion rules for each discussion stage and indicate
+by which party the infringements may be committed. For the sake of
+convenience, we assume that the discussant who has put forward the
+initial standpoint in the confrontation stage of a discussion plays the
+role of protagonist in the argumentation stage, and that the discussant
+who has called the initial standpoint into question fulfils the role of
+antagonist. We simply refer to these two discussants at every stage of
+the discussion as the “protagonist” and the “antagonist.”
+    Before entering upon a systematic discussion of the violations at
+each discussion stage, we shall first deal with contraventions that concern the distribution of speech acts in accordance with the model of a
+critical discussion. The model indicates which speech acts may occur
+in the course of the discourse or text and how these speech acts are
+distributed between the parties in the different stages of a critical discussion. The admissible speech acts are all speech acts or complexes of
+speech acts that belong to the categories of the assertives, commissives,
+directives, or usage declaratives.
+    Not every speech act belonging to these four categories may be performed at will by each party at every stage of the discussion. First, the
+possibilities are limited to the kinds of speech acts belonging to the
+categories that are listed in the model. Second, provisions included
+in the model bind the performance of admissible speech acts. This
+means that the only speech acts that may be performed are the ones
+listed in the model that have the specific role indicated in the model,
+at the stage in the discussion indicated in the model, and by the party
+indicated in the model.
+    The provisions laid down in the model can be violated in a number
+of ways. It may happen that an act performed (a) is not a speech act,
+(b) does not belong to the right category of speech acts, (c) is not the
+right member of the category in question, (d) is not performed by the
+right party, (e) is not performed at the right stage of the discussion,
+or (f ) does not fulfill the right role. It will be evident that different
+violations can have considerably divergent consequences.
+
+(a) The performance of an act different from a speech act may entail
+a more or less fundamental violation of the character of a discussion
+aimed at resolving a difference of opinion, but the seriousness of the
+consequence of the violation for the resolution of the difference, of
+
+=== p. 164 ===
+
+course, will not always be the same. Shaking a fist menacingly, for example, is usually a more serious violation than making a gesture to add
+force to a particular assertion. In the first case, the non-verbal act is
+an immediate violation of rule 1 for conducting a critical discussion
+stating that the participants have the unconditional right to put forward or call into question every standpoint. The person responsible is
+guilty of a fallacy that may at times be difficult for outsiders to detect:
+the argumentum ad baculum. In the second case, the consequences are
+less serious. It is even questionable whether one should refer to making a supporting, or otherwise argumentatively relevant, gesture as a
+violation at all.
+
+(b) With the exception of the usage declaratives, declaratives, just as
+expressives, as such, are not a part of a critical discussion. In the case of
+declaratives, this is because they always require some form of authority
+in an extra-linguistic institution. In the case of expressives, it is because
+they presuppose the truth of the proposition concerned, while that is in
+principle precisely what is at issue or ought to be at issue. Declaratives
+can be used in a discourse or text to put pressure (of varying degrees)
+on the other party; expressives can be used to inform the other party
+of one’s feelings with regard to certain aspects of the discussion. In
+the first case, there is again a violation of rule 1, while in the second
+case, the damage might be limited to the occurrence of an irrelevant
+remark that need not necessarily stand in the way of resolving the
+difference, unless the expressive in question takes on the function of
+an argument, as in the case of the argumentum ad misericordiam.
+
+(c) One example of a category that does belong to the admissible
+group of speech acts is that of the directives. However, the only members of this category that are admissible in a critical discussion are
+challenges (the antagonist challenges the protagonist to defend the
+standpoint) and requests (the antagonist requests the protagonist to
+perform argumentation, or either party requests the other party to
+perform a usage declarative). Performing a command (for example,
+the command to retract the initial standpoint) or pronouncing a prohibition (for example, a prohibition on calling a particular standpoint
+into question) are examples of directives that hinder a critical discussion and obstruct the resolution of a difference. An example of
+
+=== p. 165 ===
+
+members of the category of assertives that may not be performed in
+a critical discussion are threats (which may also be seen as primarily
+commissive).
+
+(d), (e), (f ) The performance of a speech act that belongs to an
+admissible category and is also an admissible member of this category
+can still constitute a violation. The wrong party may have performed
+it; the right party may perform the right act at the wrong stage in the
+discussion; or the right party may perform the right act at the right
+stage of the discussion, but the act fulfils the wrong role. Cases in which
+the wrong party performs a speech act that is in principle admissible
+are, for instance, when the antagonist in a discussion about a non-mixed difference of opinion suddenly starts to perform assertives, or
+the protagonist suddenly starts to call standpoints into question. In
+these cases, the effect is that the discussion acquires a mixed (and in the
+latter case, also multiple) character. This need not render the resolution
+of the initial difference impossible, but if it is not taken into account,
+it can make the situation confused. The performance of a speech act
+at the wrong stage of the discussion can also create confusion. It can,
+for instance, be very confusing if the protagonist comes up with new
+arguments in the concluding stage. The performance of a speech act
+that is appropriate to the discussion stage concerned, but fulfills the
+wrong role in it, such as accepting a particular premise instead of
+the defended standpoint in the concluding stage, can also seriously
+complicate the process of resolving a difference of opinion.
+
+Violations of rules for the confrontation stage
+Differences of opinion are externalized in the confrontation stage.
+Rule 1 lays down how this can be done optimally by categorically stating that in principle, standpoints can refer to anything, and that in
+principle, every standpoint can be called into question, that everyone
+can put forward standpoints, and that everyone can call standpoints
+into question. A consequence of this rule is that the participants in
+a discussion may not prevent the other party in any way (verbal or
+non-verbal) from making use of this unconditional right.
+   Violations of rule 1 have as a consequence the situation that differences of opinion are not fully externalized. Whether this is the
+result of excluding a discussant from participating in the discussion,
+
+=== p. 166 ===
+
+prohibiting the expression of a standpoint by declaring it taboo, or
+forbidding the calling into question of a standpoint by declaring it
+sacrosanct, in every case the difference of opinion is not brought fully
+into the open. Violations of rule 1 imply that a necessary condition for
+conducting a critical discussion cannot be satisfied. Such violations
+should therefore be regarded as a serious violation of the dialectical
+procedure.
+   The confrontation stage is also the first discussion stage in which
+usage declaratives may be performed. If it is not clear that the protagonist has put forward a standpoint by means of, say, an assertive, or if it is
+not entirely clear what this standpoint exactly is, it is quite possible that
+a discussion will get under way, but there is also a high likelihood that
+the participants in the discussion will talk at cross-purposes, and even
+that at a certain stage they will claim to have arrived at a resolution of
+their difference, while this is in fact not the case. It is also possible that
+no discussion will get started at all because the antagonist does not
+realize that the standpoint formulated by the protagonist is open to
+criticism. In that case, the discussants claim to be in agreement, while
+this is only appearance. Of course, there can never be a full guarantee that differences of opinion are real instead of apparent, nor that
+resolutions of differences of opinion are real resolutions. Rule 15 is
+intended to create the necessary conditions to achieve clarity on this
+point, but no more than that. These necessary conditions are that each
+party (on his own initiative or at the request of the other party) may
+amplify or explain his own words, and that each party may request the
+other party to amplify or explain his words. The discussant to which
+such a request is addressed is always obliged to comply with it.
+   The lack of clarity or the misunderstanding resulting from a violation of rule 15 may have to do with the communicative force of
+a speech act, but it may also pertain to its propositional content. In
+order to make the communicative force of speech acts clear, the discussants can make use of standard formulations that have been agreed on
+beforehand. For the clarification of the propositional content, there
+are no specific instruments available. This means that it is difficult to
+prevent all kinds of ambiguity fallacies from occurring.
+   It is also possible to rule out that the antagonist attributes a stronger
+communicative force to the protagonist’s speech act than the protagonist actually intended, or that the antagonist attributes a wider scope to
+
+=== p. 167 ===
+
+the propositional content of a speech act by the protagonist than the
+protagonist intended. An example of the former occurs when the protagonist presents a specific standpoint as a conclusion that is plausible
+on the basis of certain facts, while the antagonist (whether deliberately
+or not) regards this conclusion as a necessary conclusion. In other words,
+the protagonist puts forward an inductive probability argument and
+the antagonist acts as though the protagonist has put forward a deductively valid argument. If the protagonist has justified the probability
+claim, but not the (alleged) validity claim, at the end of the discussion
+he has lost the argument to the antagonist, even though from his own
+point of view he has actually won it.
+   The case is similar when the antagonist attributes a wider scope to
+the propositional content of a speech act than the protagonist intended. Suppose that the protagonist wants to defend the standpoint
+that women, generally speaking, have a different logic from men, and the
+antagonist interprets the protagonist’s words in such a way that, according to him, the protagonist is obliged to defend the view that all
+women have a different logic (which can easily happen if the protagonist has said, for example, “I think that women have a different logic
+from men”). If in the course of the discussion a woman is mentioned
+who, in the eyes of both the antagonist and the protagonist, has the
+same logic as men, it is not necessarily the case that the protagonist
+has to abandon his standpoint, but on the antagonist’s interpretation
+he has already lost the discussion.
+
+Violations of rules for the opening stage
+In the opening stage, the protagonist is challenged by the antagonist to defend his standpoint in the argumentation stage according to
+rules agreed upon by both parties. Rules 2 to 5, which bear on this
+stage, must ensure that, after the difference of opinion has been externalized, the parties attempt to join in finding a resolution to the
+difference. Violations of the rules pertaining to this discussion stage
+may have as their consequence the situation that the protagonist and
+the antagonist do not reach the argumentation stage because the protagonist is not challenged by the antagonist (rule 2) or because the
+protagonist does not accept the challenge (rule 3). It is also necessary
+that the discussants’ willingness to debate be externalized (rule 4) and
+that certain discussion rules are agreed upon that are acceptable to
+
+=== p. 168 ===
+
+both parties (rule 5). The regulation of the burden of proof is crucial
+in the first three cases. A protagonist who does not recognize that he
+has been allocated the burden of proof with regard to the standpoint
+that he has voluntarily put forward (and that has been called into
+question by the antagonist) withdraws from a discussion in which this
+standpoint can be critically tested. A protagonist who tries to evade his
+burden of proof by passing it on to the antagonist is guilty of the fallacy
+of shifting the burden of proof. John Locke called this phenomenon the
+argumentum ad ignorantiam, and described it as follows:
+
+[. . . ] another way that men ordinarily use to drive others, and force them to
+submit their judgments, and receive the opinion in debate, is to require the
+adversary to admit what they allege as a proof, or to assign a better. And this I
+call argumentum ad ignorantiam (1961: 278).
+
+If one of the two parties refuses to accept any system of rules for defending and attacking the initial standpoint, a regulated discussion is
+by definition impossible. If one party does not wish to accept certain
+rules, it is impossible for the other party to appeal to these rules. A person who does want to agree upon rules may reach the argumentation
+stage, but no other discussant can be obliged to begin a discussion with
+such an “unattached” discussant. Agreeing on rules for the argumentation stage that are acceptable to both parties is a conditio sine qua non
+for a critical discussion. The situation is only a little different when a
+discussant is first prepared to abide by certain rules, but then calls them
+into question in the argumentation stage (probably because on closer
+inspection the rules in question are not so favorable to him). A person
+who acts in this way disturbs the discussion of the initial standpoint.
+As we explained in Chapter 6, in itself there is nothing objectionable
+about holding a meta-discussion on the adequacy of the rules for the
+argumentation stage, but such a meta-discussion should be conducted
+before or after the original discussion of the initial standpoint: A discussant who confuses a meta-discussion with the original discussion will
+probably (intentionally or not) produce the undesired effect that both
+discussions get into difficulties.
+
+Violations of rules for the argumentation stage
+The rules bearing on the argumentation stage (rules 6 to 13) regulate
+the way in which the initial standpoint may be attacked and defended,
+
+=== p. 169 ===
+
+as well as in which case the attack or defense is conclusive. An important
+role is played here by the intersubjective identification procedure (bearing
+on the propositional content of the argumentation), the intersubjec-tive explicitization procedure, the intersubjective inference procedure, and the
+intersubjective testing procedure (all bearing on the force of justification
+or refutation). These four procedures are all of crucial importance
+for the smooth running of the argumentation stage. We shall discuss
+violations concerning the propositional content of the speech act complex of argumentation committed by the protagonist before passing
+on to violations concerning the force of justification or refutation of
+the argumentation.
+    With regard to the propositional content of the argumentation put
+forward by the protagonist, he may make the mistake of expressing
+propositions that do not (or do not all) occur in the list of accepted
+propositions and that after closer inspection are not automatically accepted by the antagonist (negative result of the intersubjective identification procedure), while the protagonist still maintains the argumentation. The consequence of rule 7 is that the protagonist is obliged to
+retract his argumentation if the outcome of the intersubjective identification procedure is negative and he has not made the propositional
+content of the argumentation in the second instance acceptable to the
+antagonist by means of a sub-discussion. If a protagonist refuses to do
+so, he fails to abide by the rules that are binding by virtue of the
+agreements made with the antagonist. The antagonist can make the
+opposite mistake by refusing to accept the propositional content in
+question despite a positive outcome of the intersubjective identification procedure or a sub-discussion. In this case, he too fails to abide
+by the rules that are binding by virtue of the agreements he has made
+with the protagonist.
+    Whether the protagonist or the antagonist violates rule 7, in both
+cases there is little point in continuing the discussion because a joint
+resolution of the difference of opinion is only possible if both parties
+abide by the rules that determine what counts as a successful defense
+and what counts as a successful attack. Without such rules, it is sometimes possible to win the other party (or a third party consisting of
+listeners or readers) over to one’s own standpoint, but a successful attempt at persuasion of this kind can never be regarded as a successful
+attempt to convince by means of argumentation in a critical discussion.
+
+=== p. 170 ===
+
+    With regard to the force of refutation or justification of a speech act
+complex of argumentation, both the protagonist and the antagonist
+can commit violations of rule 8 that are comparable to the violations
+concerning the propositional content. The literature on fallacies has
+always paid the most attention to possible mistakes bearing on the
+force of justification or refutation of an argumentation. These errors
+are apparently considered so important that the old definition of fallacies was exclusively based on mistakes of this kind. Moreover, as a
+rule, attention is focused only on the outcome of the intersubjective
+inference procedure. The results of the intersubjective testing procedure are generally left out of account. Moreover, attention is usually
+concentrated exclusively on the negative results of the intersubjective
+inference procedure, which makes the protagonist exclusively responsible for all fallacies. The importance of conducting the intersubjective
+explicitization procedure is completely ignored as well.
+    What kinds of violations of the rule for a successful attack and defense of the force of justification or refutation can be distinguished?
+We shall discuss violations bearing on the performance of the inter-subjective explicitization procedure, the intersubjective inference procedure, and the intersubjective testing procedure, in that order.
+    The intersubjective explicitization procedure should be carried out
+if the protagonist has not expressed a full argument, but has left out
+one or more parts of the argumentation. The procedure is intended
+to lead to the reconstruction of the unexpressed parts. A crucial factor
+here is that the reconstruction must be acceptable to both the antagonist and the protagonist. This condition of mutual agreement is open
+to two types of violation – one by the antagonist and one by the protagonist. The former takes place if the antagonist’s intervention means
+that the reconstruction goes further than the unexpressed argument
+to which the protagonist can be held by virtue of his statements or other
+speech acts. In that case, the antagonist is guilty of the fallacy of distorting an unexpressed premise. If the protagonist’s intervention means
+that the reconstruction falls short of the unexpressed argument to
+which the protagonist can be held, the violation is of a different kind,
+and the protagonist is guilty of the fallacy of denying an unexpressed
+premise.
+    The intersubjective explicitization procedure is followed by the
+intersubjective inference procedure. The application of the latter
+
+=== p. 171 ===
+
+procedure is actually only relevant if the protagonist has expressed a
+full argument. If the application of this procedure shows that the protagonist’s (presented) argument does not satisfy the accepted validity
+requirement – for example, because the protagonist has reversed the
+(valid) argument form modus ponens (and is thus guilty of the fallacy
+of denying the antecedent), or the (valid) argument form modus tollens
+(and is thus guilty of the fallacy of affirming the consequent), or because
+the protagonist has committed a logico-semantic mistake by confusing the properties of parts and wholes (and is thus guilty of a fallacy
+of division or composition) – the antagonist has successfully attacked the
+force of justification or refutation of the protagonist’s argumentation
+by virtue of rule 8, and the protagonist is obliged to withdraw his
+argumentation.
+    The application of the intersubjective testing procedure must make
+it clear whether the argumentation makes use of an argument scheme
+that is acceptable to both parties and that is also correctly applied in
+the opinion of both parties. Only if the use of the argument scheme
+meets these two conditions has the protagonist conclusively defended
+the force of justification or refutation of his argumentation and has
+he the right (presupposing that the intersubjective identification procedure has also yielded a positive outcome) to maintain the argumentation against the antagonist. If the testing of the acceptability of the
+chosen argument scheme or of the correctness of its application yields
+a negative result, the antagonist has successfully attacked the force of
+justification or refutation of the protagonist’s argumentation, and the
+protagonist is obliged to retract his argumentation.
+    The protagonist can commit violations of rule 8 that are connected
+with the choice of the argument scheme in one of two ways. The protagonist can put forward argumentation that is based on a scheme
+that is unacceptable to the antagonist. He can also put forward argumentation that does not allow the reconstruction of an argument
+scheme that would establish an argumentative connection between
+the propositional content of the argumentation that is advanced and
+the proposition that is expressed in the standpoint. The latter case
+is one of non-argumentation (there is no argumentation, but the protagonist shows off his own qualities or tries to play on the feelings
+of the antagonist) or of irrelevant argumentation (there is argumentation, but not for or against the standpoint that has been called
+
+=== p. 172 ===
+
+into question, so that the protagonist commits the fallacy of ignoratio
+elenchi).
+    Both the protagonist and the antagonist can commit violations of
+rule 8 connected with the application of the chosen argument scheme.
+The protagonist applies the chosen argument scheme incorrectly if he
+connects a proposition from the argumentation with the proposition
+that is expressed in the standpoint in such a way that links are made
+between matters that are not linked like that in any factual or desirable
+reality or cannot be linked like that. For instance, the protagonist may
+put forward a proposition in the argumentation in which a certain
+event is mentioned, and then derive a proposition causally from it in
+which an event is mentioned that took place at a later moment, but
+is not necessarily caused by the event mentioned in the propositional
+content of the argumentation. Given that the parties are in agreement
+on the admissibility of the use of the causal argument scheme, the protagonist who applies this argument scheme in this way violates rule 8
+by presenting a temporal sequence as a sufficient instead of a necessary condition for a causal connection. He thus commits the fallacy
+known as post hoc ergo propter hoc. Similar violations are secundum quid
+(a hasty generalization in which a universal proposition is based upon
+singular or particular propositions that are not representative or insufficient) and ad consequentiam (a supposed fact is taken to be or not
+to be the case based on the desirable or undesirable consequences
+mentioned in a proposition illustrating the consequences of that fact).
+    Another way in which the protagonist can violate rule 8 is by refusing
+to respond to the critical questions that correspond to the argument
+scheme he has used, or even by preventing these questions from being raised. An example of the latter is the fallacy of the slippery slope.
+The protagonist commits this fallacy if he presents a proposition in
+which a prediction is made, without any further motivation, regarding
+the desirable or undesirable consequences of taking or not taking a
+measure, and derives from that an evaluative proposition in which it
+is claimed that it is necessary to take or not to take the measure. By
+presenting the prediction as uncontroversial, the protagonist makes
+it difficult for the antagonist to raise the critical questions that he is
+invited to rise.
+    The antagonist can also obstruct the correct application of an argument scheme that is deemed acceptable by both parties. He may do
+
+=== p. 173 ===
+
+so by an incorrect handling of the critical questions that correspond
+to the argument scheme in question, or by raising critical questions
+that do not correspond to this argument scheme at all, but to another
+argument scheme. For instance, if the protagonist uses a symptomatic
+argument scheme, the antagonist can request him to demonstrate that
+there really is a causal link between the matters represented in the
+propositional content of the argumentation and in the standpoint,
+while the protagonist only intended to argue that the propositional
+content of the argumentation strongly indicates that the propositional
+content of the standpoint is correct. Such violations are examples of
+the fallacy of misplaced criticism.
+
+Violations of the rule for the concluding stage
+The only rule that applies to the concluding stage (rule 14) lays down
+the consequences for the protagonist of a conclusive attack on the
+initial standpoint by the antagonist, and for the antagonist, of a conclusive defense by the protagonist. In the first case, the consequence
+for the protagonist is that he is bound to retract the initial standpoint;
+in the second case, the consequence for the antagonist is that he is
+bound to retract the calling into question of the initial standpoint. A
+protagonist who refuses to do the former, or an antagonist who refuses
+to do the latter, may have argued entirely in accordance with the rules
+so far, but the resolution of the difference of opinion is prevented at
+the last stage of the discussion by this attitude. Such a reaction is therefore a well-founded reason for the other party to refuse to enter into
+a new discussion with this discussant.
+   These consequences are the only consequences that follow from
+rule 14. The parties may not attach any other consequences to victory or defeat than the retraction of the initial standpoint or the calling into question of that standpoint. If the protagonist has lost the
+discussion, he is bound to retract the initial standpoint by virtue of
+rule 14. However, he is not obliged to admit that the opposite standpoint has been proven – that is, conclusively defended. An antagonist
+who attaches this consequence to the protagonist’s defeat incorrectly
+assumes that the discussion was mixed and that there are always only
+two (opposite) standpoints possible. He thereby commits the fallacy
+that is nowadays (in a usage different from Locke’s) known as the
+argumentum ad ignorantiam.
+
+=== p. 174 ===
+
+           The pragma-dialectical discussion procedure and
+                      the analysis of fallacies
+This survey of the possible violations of the pragma-dialectical discussion procedure for the conduct of a critical discussion shows how the
+resolution of a difference of opinion can be obstructed at each stage
+of the discussion by one or both of the parties.10 Violations of rule 1,
+bearing on the confrontation stage, can be committed by both the protagonist and the antagonist. They imply that the difference of opinion
+has not been fully externalized, which entails the failure to comply
+with a necessary condition for the resolution of the difference. Both
+the protagonist and the antagonist can commit violations of rules 2, 3,
+4, and 5, which bear on the opening stage. Their consequence is that
+the discussants do not reach the argumentation stage in a constructive
+way, and thus do not arrive at a resolution of the difference of opinion
+either.
+   Violations of rules 6–13, bearing on the argumentation stage, can
+be committed by both the protagonist and the antagonist. These violations imply that the argumentation stage, on which the resolution of
+the difference of opinion depends, takes a course that is not beneficial
+to the resolution process. This deficiency may be connected with both
+the propositional content and the force of justification or refutation
+of a complex speech act of argumentation performed in this stage of
+the discussion. What is at stake here is the acceptability of propositions, the validity of arguments, and the overall acceptability of the
+argument schemes that are used.
+   Finally, both the protagonist and the antagonist can commit violations of rule 14, bearing on the concluding stage. These violations
+imply that a discussant refuses to concede that the other party has
+won by not retracting an inconclusively defended standpoint or by
+not accepting a standpoint that has been attacked inconclusively. The
+argumentum ad ignorantiam, which amounts to accepting the opposite
+standpoint when a standpoint is not defended satisfactorily, is a violation that can only be actively committed by the antagonist.
+
+10 For a fuller exposition of the pragma-dialectical approach to the fallacies, see
+
+  van Eemeren and Grootendorst (1984) and in particular, van Eemeren and
+
+=== p. 175 ===
+
+Our analysis shows that the traditional definition of fallacies as invalid
+arguments covers by no means all the various kinds of wrong moves in
+an argumentative discourse or text that are usually called fallacious.
+In the traditional analysis, the fallacies are reduced to violations of
+one part of one particular discussion rule (rule 8), which can only be
+committed by one party (the protagonist).
+   At this stage of the explanation of the pragma-dialectical approach
+to the fallacies, we are in a position to offer a more precise definition
+of what we take to constitute a fallacy:
+
+Every violation of any of the rules of the discussion procedure for conducting a
+critical discussion (by whichever party and at whatever stage in the discussion)
+is a fallacy.
+
+On this view, fallacies are not “absolute” mistakes that can simply be
+attributed to discussants by an analyst who penetrates the “essence”
+of reasonableness, but moves in an argumentative discourse or text
+that can be characterized as less than constructive, or even destructive, because they are violations of a well-defined system of rules for
+the resolution of differences of opinion that the discussants intersub-jectively accept. A fallacy is thus only a fallacy in relation to a particular
+normative model of an argumentative discourse or text, that is, in our
+pragma-dialectical theoretical approach in relation to a critical discussion, and only for discussants who (explicitly or implicitly) agree with
+this conception. A basic advantage of this approach to the analysis of
+fallacies is that the use of subjective and vague expressions such as
+“having the appearance of validity” and “being apparently correct,”
+a feature that Hamblin (1970: 12) took to be characteristic of traditional analyses of fallacies, can be avoided. Starting from a discussion
+procedure that is explicitly formulated, fallacies can now be systematically analyzed as violations of the discussion rules that, according to
+this discussion procedure, apply to the various discussion stages of a
+critical discussion.
+
+        Examples of an analysis of some well-known fallacies
+In order to demonstrate that fallacies that always raise problems in
+the traditional approach can be adequately analyzed by means of the
+
+=== p. 176 ===
+
+analytical apparatus that we have developed, we analyze two well-known problematic fallacies: the informal fallacies of begging the question and argumentum ad hominem.
+    The fallacy of begging the question (also known as circular reasoning
+or petitio principii) is a clear example of a fallacy in which the “fallaciousness” does not lie in the invalidity of the argument that is used.
+The clearest case of this fallacy is an argument of the form “p, therefore
+q,” such as “A, therefore A.” Arguments of this form (according to the
+law of identity) are valid arguments. If the argumentation in which they
+are used is nevertheless considered fallacious, its lack of soundness
+must be the result of something other than invalidity. The literature
+on fallacies in fact contains various examples of attempts to answer the
+question of where the invalidity of circular reasoning lies, but none of
+these attempts has been satisfactory.
+    Using the discussion rules that we have proposed, the fallacy of
+begging the question can be analyzed as follows. In the event of a difference of opinion, one discussant puts forward a standpoint and
+the other discussant calls that standpoint into question. These discussants are therefore not in agreement on the acceptability of this
+standpoint. If any attempt to resolve this difference of opinion by
+means of a regulated discussion is to have any chance of success, it
+is necessary for the discussants to adopt a number of propositions
+accepted by both parties (rule 3) as their starting point. The initial standpoint (in this case represented by “A”) cannot, of course,
+form any part of the list of agreements expressing propositions that
+are acceptable to both parties, otherwise there would be no difference of opinion. When the fallacy of begging the question is committed,
+it is only natural to suppose, just as in other cases, that the discussant who in the discussion fulfills the role of protagonist will in the
+argumentation stage at a certain moment express a proposition that
+he claims can be identified as a common starting point by means of
+the intersubjective identification procedure. In the case of begging the
+question, the error that is made is that the protagonist then (intentionally or unintentionally) makes use of a proposition that, as he
+can know beforehand, is not to be found in the list of propositions
+that are acceptable to both parties, so that the intersubjective identification procedure cannot yield a positive result. If this statement
+were to occur in the list, or if it were to be added to the list, the
+
+=== p. 177 ===
+
+difference of opinion would immediately be resolved, which is not the
+case here.11
+
+The second fallacy to be discussed is the argumentum ad hominem. Three
+variants of this fallacy are usually distinguished in the literature: the
+abusive variant, the circumstantial variant, and the tu quoque variant.
+The abusive variant can best be described as a direct personal attack
+in which the opposite party is represented as stupid, dishonest, unreliable, or negative in some other way. The circumstantial variant is
+an attempt to undermine the position of the opponent by suggesting
+that he is acting purely out of (and motivated by) self-interest, and
+that the argumentation he puts forward is nothing but a (deceptive)
+“rationalization.” The tu quoque variant is aimed at bringing to light a
+contradiction consisting in the fact that the opponent in this discussion
+attacks (or defends) a standpoint that he has previously advanced (or
+attacked). This contradiction may concern a discrepancy that crops
+up within a single discussion, but it may also concern a discrepancy
+between the standpoint adopted in the discussion and a standpoint
+that the opponent has previously adopted in another discussion or on
+another occasion. It is also possible that the standpoint now adopted
+is out of line with (or even in contradiction to) his further actions or
+with certain principles that he may be expected to observe.
+    What these three variants have in common is that the discussant who
+commits one of these variants of the argumentum ad hominem fallacy
+(a) does not tackle the standpoint or the argumentation of the other
+party, (b) tries to obtain or enforce support for his own position instead, (c) does so by trying to discredit the other party to the discussion,
+and (d) does so by representing the other party as unworthy of credibility. The differences between these three variants lie in the different
+means deployed to attain that shared objective. In the abusive variant,
+it is done by calling into question the knowledgeability, intelligence,
+or integrity of the other party in general. In the circumstantial variant,
+an attempt is made to show that personal interests prevent the other
+party from making an impartial judgment in the present case. In the
+
+11 Of course, it is always possible in principle to start a sub-discussion about this state-
+
+   ment, but then it still stands that at the discussion stage we were originally talking
+   about the fallacy of begging the question has been committed.
+
+=== p. 178 ===
+
+tu quoque variant, an attempt is made to undermine the credibility of
+the other party by accusing him of lack of consistency if he adopts this
+standpoint in this question.
+    It should first be pointed out that both the protagonist and the
+antagonist could use any of the three variants of the argumentum ad
+hominem. Second, the first two variants of this fallacy are in practice
+often aimed not at the other party (although they are naturally aimed
+against him), but at a third party consisting of the spectators. We are
+not primarily concerned here with explaining the use of rhetorical
+devices, but it will be clear that all three variants can be used to silence
+the other party in the presence of a third party.12 The question now
+is to what extent the three variants can all be regarded as violations of
+the rules pertaining to discussions aimed at resolving a difference of
+opinion between two parties, and if so, which rules.
+    In the tu quoque variant, a distinction must be made between (real
+or alleged) inconsistencies in the same discussion, on the one hand, and
+inconsistencies by comparison with earlier discussions or with the rest of
+the other party’s behavior, on the other. In the first case, the party accused
+of inconsistency (if the allegation is founded) calls into question a
+proposition that appears on the list of propositions agreed on by both
+parties. The point, however, was that these propositions should serve
+as a starting point for the discussion. In that case, there really is an
+inconsistency.
+    If the (real or alleged) inconsistency relates not to the propositions of the other party expressed in the same discussion, but (also) to
+propositions in statements or other speech acts performed in previous
+discussions or to the rest of the opponent’s behavior, the situation is
+different. According to rule 1, the discussants have the unconditional
+right to put forward any standpoint and to call into question any standpoint. Their only obligation is to retract in specific circumstances either
+the initial standpoint or the calling into question of the initial standpoint, an obligation that follows from rule 14. That obligation applies
+if the antagonist has successfully attacked the initial standpoint or if
+the protagonist has conclusively defended his standpoint. Whoever
+claims, not on these grounds but on the grounds of an inconsistency
+
+12 For the rhetorical use of presentational devices, see van Eemeren and Houtlosser
+
+=== p. 179 ===
+
+with the opponent’s statements in an earlier discussion or in other
+behavior, that the opponent must retract a standpoint or stop calling
+into doubt a standpoint, violates rule 14 and is guilty of the tu quoque
+variant of the argumentum ad hominem. There is at the same time a violation of rule 1, because there is also a breach of the unconditional
+right to put forward this standpoint or to call it into question.
+    The abusive and the circumstantial variants can be regarded as violations of rules 1, 2, and 3. According to these rules, a discussant is
+always entitled to call a standpoint into question and to challenge the
+other discussant to defend his standpoint, and the challenged discussant can only evade the obligation to defend a standpoint against the
+opponent if he has already conclusively defended this standpoint on a
+previous occasion against the same challenger in accordance with exactly the same discussion rules and with exactly the same premises, or
+if the challenger is not prepared to accept rules and premises agreed
+upon by both parties. That the other party is a bad person or has a
+financial interest in winning the discussion is no valid reason for the
+protagonist to refuse to take up that party’s challenge under rules 2
+and 3. No one is obliged to put forward a standpoint against someone
+whom he dislikes for some reason or other, but a person who has voluntarily expressed a standpoint to another person is obliged to defend
+this standpoint against this person when requested to do so. The same
+applies, mutatis mutandis, to the calling into question of a standpoint
+and the challenging of the protagonist by the antagonist.
+    In this brief discussion of the fallacies of begging the question and argumentum ad hominem, we have shown that it is possible to use the rules we
+have formulated to provide an adequate analysis of some of the problematic informal fallacies. Together with the examples we have given
+in the discussion of fallacies as violations of the discussion rules for a
+critical discussion (ad baculum, ad ignorantiam, and so on), the analysis
+should make it clear that fallacies are not exclusively tied to the role of
+the protagonist, nor to (a single aspect of ) the argumentation stage
+of the discussion. The argumentum ad hominem is a good illustration
+of a fallacy whose analysis raises serious problems when this fallacy is
+to be treated as a fallacy exclusively tied to the invalidity of the arguments that are expressed in the argumentation of the protagonist in
+the argumentation stage of the discussion. These problems are solved
+in our analysis, in which the fallacy argumentum ad hominem is brought
+
+=== p. 180 ===
+
+in connection with rules that bear on the confrontation stage and the
+opening stage. The argumentative move of begging the question cannot
+be analyzed, in accordance with the traditional definition of a fallacy, as
+an invalid argument. The problems are solved, however, if this fallacy is
+connected with rule 3 of the pragma-dialectical discussion procedure
+and the application of the intersubjective identification procedure.
+The argumentum ad baculum does relate to the confrontation stage of
+a critical discussion rather than the argumentation stage: It amounts
+to a violation of rule 1 of the discussion procedure. The argumentum
+ad ignorantiam (in the modern interpretation) is a last illustration of a
+fallacy that can only be analyzed properly if the fallacy is brought into
+connection with a discussion procedure such as the one proposed in
+pragma-dialectics, in this particular case with rules that bear on the
+concluding stage and with the role of the antagonist.
+
+                    Fallacies and implicit language use
+In applying the rules of the discussion procedure to ordinary argumentative discourse and texts, it is necessary to take into account the
+fact that ordinary language use is not always unambiguous. Unlike in
+the case of the use of logical symbols, in oral and written communication a lot is left implicit. It must be strongly emphasized that this
+certainly does not mean that there is always something fallacious to
+ordinary language use. In argumentative discourse and texts, this is
+only so if the implicitness obstructs the resolution of a difference of
+opinion.13
+   Let us first consider some ways in which discussants can obstruct
+the resolution of a difference of opinion by implicit language use.
+Lack of clarity, which is sometimes the result of implicitness, can be
+an isolated phenomenon, but the implicitness may also be combined
+with a violation of one or more discussion rules. To start with, take
+the argumentum ad baculum and the argumentum ad hominem. Threats
+and personal attacks are often more effective if they are made in veiled
+terms or indirectly. Sometimes they are so indirect that there is even an
+explicit denial that the intention is to put pressure on the other party
+
+13 To determine when this is and when this is not the case, we need pragmatic insight
+
+  into the way in which people communicate with each other.
+
+=== p. 181 ===
+
+or to attack him personally. The threat or the attack is then presented,
+for instance, as information that the listener or reader is free to use as
+he chooses.
+    In evading the burden of proof, implicitness is a device commonly used
+by the protagonist to pretend that his standpoint requires no defense
+or is not open to criticism. In the first case, the fact that the utterance has the character of a standpoint is played down, while in the
+second case, the standpoint is rendered immune. These effects are,
+for instance, achieved by not presenting the standpoint explicitly or
+by leaving out quantifying qualifications.
+    In the case of the straw man, implicitness may play a role with regard
+to the communicative fore or the propositional content of a standpoint. The former is the case if an exaggeratedly pertinent standpoint
+is attributed to the protagonist; the second, if a standpoint that is
+too general is attributed to the protagonist. As neither the certainty
+nor the scope of the standpoint is always explicitly indicated by the
+protagonist, the antagonist can do this without its immediately being
+recognized.
+    In the case of irrelevant argumentation or non-argumentation, implicitness is crucial for conveying both the communicative force and the
+propositional content of the standpoint. It is, for example, hardly likely
+that the protagonist will concede in so many words that his argumentation concerns a standpoint that is different from the standpoint under
+discussion (ignoratio elenchi) or that the protagonist will state explicitly
+that he, instead of putting forward any arguments, is only concerned
+with playing on the emotions of the people who are to be convinced
+(argumentum ad populum) or with showing off his own qualities (argumentum ad verecundiam).
+    In the case of distorting or denying an unexpressed premise, implicitness
+is a conditio sine qua non. The antagonist can only distort an argument
+if it is not expressed explicitly. The same applies to the denial of an
+unexpressed premise by the protagonist. The antagonist can then always maintain that his interpretation of the words of the protagonist
+is borne out by those words themselves, and the protagonist can always counter by way of protest that he never actually said what the
+antagonist asserts that he said.
+    In the case of begging the question or petitio principii, formulations that
+differ to some extent from one another are generally used, so that it is
+
+=== p. 182 ===
+
+only on closer inspection that they are seen to boil down to the same
+thing. The circularity of the argumentation is not immediately obvious
+because the correspondence between the premise and the standpoint
+remains implicit, and therefore veiled.
+    In the case of denying the antecedent or affirming the consequent and the
+fallacies of division and composition, it is not always obvious from the way
+it is phrased that the reasoning used in the argumentation is invalid. To
+start with, the argumentation has to be translated first from ordinary
+language into the language of a logical system. The formulation of
+the arguments, however, does not usually point unequivocally in the
+direction of a particular translation into a particular logical system.
+In the case of fallacies of composition or division that are invalid on
+logico-semantic grounds, moreover, an additional problem is that the
+transferability of a property cannot be directly read off from the terms
+used.
+    In the case of the argumentum ad consequentiam, slippery slope, post
+hoc ergo propter hoc, and secundum quid, the chosen argument scheme
+is incorrectly applied. The way in which the argument scheme should
+be applied usually depends on the kind of standpoint that is to be
+tested. However, the nature of a standpoint is often unclear because it
+is implicit or its scope has not been explicitly given.
+    The argumentum ad ignorantiam is frequently found in combination with a false dilemma. A false dilemma involves the confusion of
+a contrary and a contradictory opposition, but whether an opposition
+should be conceived as contrary (“warm”/“cold”) or contradictory
+(“open”/“closed”) is once again not always immediately clear from
+the words used.
+    This survey shows that implicitness can play an important role in various fallacies. The implicitness may bear on the communicative force
+of a standpoint (argumentum ad baculum and argumentum ad hominem),
+the content (circular reasoning and invalid reasoning) or both (straw man
+and argumentum ad ignorantiam). Sometimes, implicitness is an acces-sorial phenomenon (argumentum ad baculum); sometimes it is an important condition (straw man) or even a necessary condition (distorting
+an unexpressed premise) for the effect of a fallacy.
+
+Does the important role implicitness plays in fallacies have as its consequence that discussants who want to engage in a critical discussion
+
+=== p. 183 ===
+
+must be required to express themselves explicitly at all times and in
+all places? That is, of course, putting it rather simply. The discussants
+are jointly responsible for the achievement of mutual comprehension.
+Achieving this comprehension does not in most cases mean that the
+speaker or writer needs to be fully explicit. Nor does it mean that being clear is enough: The discussants must also try to understand the
+speech acts of others as well as they can. These requirements follow
+from the general Communication Principle that applies to all forms
+of ordinary communication.
+    The requirement of clarity neither means that a speaker or writer
+must necessarily formulate his intentions explicitly and directly, nor
+that it is enough for the listener or reader to attribute a literal meaning to the words of the speaker or writer. It is completely normal for
+all kinds of things to remain implicit in ordinary language, or for intentions to be conveyed indirectly. Generally speaking, implicit and
+indirect speech acts entail hardly any problems in practice. By making
+use of background knowledge, it is usually easy to ascertain what is intended, or may be regarded to be intended, from the context and the
+situation. In many cases, the speaker or writer will count on this. If the
+speaker or writer manages to convey his intentions, the formulations
+that are used are clear enough for the listener or reader. Of course,
+a speaker or writer can always be mistaken in the use of background
+knowledge, or in his estimate of the extent to which the context and
+situation speak for themselves. The listener or reader may make the
+wrong connection between the context or situation and the words of
+the speaker or writer, and therefore misinterpret his words.
+    In communication, success or failure is not an absolute: A verbal
+utterance that is comprehensible to one listener may be incomprehensible to another. Intelligibility is also gradual, since a formulation
+can be understandable to a greater or lesser degree. Some purposes
+demand a higher level of understanding than others. A surgeon explaining an operation to a colleague will aim at a higher level of understanding than when explaining it to his nephew. There is, one might
+say, a difference in “depth of intended meaning.”14
+    Where clarification is required for the resolution of a difference of
+opinion, the discussants can make use of usage declaratives, the speech
+
+14 See Naess (1966: 33–36).
+
+=== p. 184 ===
+
+acts that explain, render explicit, or specify unclear, indeterminate,
+vague, or ambiguous language use.15 As we have mentioned, a speaker
+or writer always has the right to perform a usage declarative and a
+listener or reader always has the right to request a usage declarative
+from a speaker or writer.
+
+                        The identification of fallacies
+One of the consequences of the frequent occurrence of implicit language use in argumentative discourse and texts is that the identification of a possible fallacy usually has a conditional character. Because
+implicit language use can be interpreted in different ways depending
+on the nature of the case, it is only warranted to speak of a fallacy if
+the interpretation is firmly justified. In some cases, the violation of a
+discussion rule is immediately recognizable as such, but in practice this
+tends to be the exception rather than the rule. Usually it is a “matter
+of interpretation” whether there is a fallacy or not. This means that
+people accused of a fallacy can almost always deny that they have violated a discussion rule. They can say that the interpretation does not
+correspond to their intention and that they have certainly not said
+this. Of course, they may be right. If they are not, the only remedy is
+to point out to them what they can be held to in the given context and
+situation.
+    There is another reason why the identification of fallacies has a conditional character: The rules of discussion that are violated by fallacies
+are only applicable to (parts of ) discourse or texts that are aimed at
+resolving a difference of opinion, and sometimes it is not at all clear
+to what extent the discourse or text is of that kind. An analytic reconstruction of the argumentative discourse or text as a critical discussion
+is required first.16 In case of serious doubt, the strategy of the maximally reasonable reconstruction may offer a way out, which requires
+the discourse or text to be analyzed as if its purpose were to resolve a
+
+15 This sub-category of the declaratives, which is of special importance here, is intro-
+
+  duced in van Eemeren and Grootendorst (1984: 109–110).
+16 For the dialectical transformations that are carried out in such an analytic recon-
+
+  struction, see Chapter 5 of this volume, van Eemeren (1986), and van Eemeren and
+
+=== p. 185 ===
+
+difference of opinion.17 A discourse or text need not be primarily and
+entirely aimed at achieving this goal for the rules of a critical discussion
+to be applicable. In practice, it seldom is.
+   The application of the strategy of maximally reasonable reconstruction gives maximal credit to the protagonist as well as the antagonist.
+Unless this is clearly out of order, all speech acts performed in the discourse or text are regarded as potential contributions to a resolution
+of the difference of opinion. It is assumed that, in principle, this is the
+target of the discussants. If there is no reason not to assume that they
+are trying to resolve a difference of opinion, and they violate a rule,
+such a violation is a fallacy.
+
+In the pragma-dialectical approach to fallacies that has been expounded here, all aspects of argumentative discourse and texts relevant to resolving a difference of opinion are treated. This means that
+the whole range of classical fallacies can be analyzed in a systematic
+way. All moves that are fallacies because of the invalidity of the arguments used are incorporated in this approach, but the approach differs
+from the more traditional approaches in that fallacies are no longer
+automatically taken to be invalid arguments. The pragma-dialectical
+approach therefore offers a more comprehensive alternative to the logical standard treatment of the fallacies.18 Instead of assuming fallacies
+to consist of an inherited and unstructured list of violations of the validity norm, this approach differentiates between a variety of “validity”
+norms, so that different fallacies that were traditionally classified in the
+same nominal categories can now be distinguished from each other,
+and similar fallacies that were traditionally classified in totally different
+ways can now be brought together.
+   To determine exactly which violations of rules for a critical discussion take place in an argumentative discourse or text, it is first necessary
+to examine to what extent such a discourse or text can be reconstructed
+as a critical discussion. It then becomes clear which standpoint is under
+discussion and whether this really pertains to the issue the discussants
+
+17 On the importance of this strategy, see Chapter 5 of this volume and van Eemeren
+
+18 For the logical standard approach of the fallacies, see Hamblin (1970) and Grooten-
+
+  dorst (1987).
+
+=== p. 186 ===
+
+are concerned about, so that it can be determined, for example,
+whether we are dealing with a straw man. It then also becomes clear
+which unexpressed premises play a role in the argumentation, so that
+it will be possible to determine whether these unexpressed premises
+are distorted or denied, and so on. To conclude, in order to determine
+to what extent an argumentative discourse or text may be called reasonable, it is not only necessary to determine whether all the rules of a
+critical discussion are satisfied, but also to ensure first that the discourse
+or text concerned is correctly reconstructed as a critical discussion.
+

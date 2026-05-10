@@ -1,0 +1,261 @@
+=== chunk: martinich-2015-philosophical-writing/ch6-content-constraints ===
+title: Some Constraints on Content
+source_pdf: docs/sources/martinich-2015-philosophical-writing/full.pdf
+pdf_pages: 182-188
+page_scheme: pdf
+plan_page_start: 182
+plan_page_end: 188
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 182 ===
+
+Some Constraints on Content
+In chapter 2 we discovered that validity and truth work together to
+produce sound arguments and that to be persuasive a sound argument
+must be cogent as well, that is, recognizably sound. Most philosophical
+arguments are valid. Many philosophical arguments are sound. Yet
+most are not cogent. Why? The answer is that the evidence presented
+for their premises is either not of the right sort or not presented in
+such a way that the audience recognizes its evidential force. If a person
+cannot see that each individual premise in an argument is true, he will
+not be moved to accept its conclusion.
+It would be wonderful if there were some easy way of explaining what
+constituted good evidence for a philosophical premise or how one
+could go about finding it. Unfortunately, I do not think there is.
+Philosophers often use the techniques described in the last chapter –
+analysis, counterexamples, and reductio ad absurdum – but what the
+correct analysis for some specific concept is, what a counterexample
+for some specific proposition is, how to construct a reductio for some
+specific conclusion, cannot be described in general and belongs to the
+substance of philosophy. When people read about or do philosophy
+themselves, their attention is directed to these matters, and style is not
+supposed to interfere with understanding that substance.
+With that disclaimer out of the way, I want to say something about
+three issues that relate to evidence: the pursuit of truth, the use of
+authority, and the burden of proof.
+
+1 The Pursuit of Truth
+As much as possible, you should try to ensure that what you say is
+true. Do not strain to say something “deep” or say something merely
+because you think it sounds deep. Anyone who can write 1,000 words
+on a philosophical topic, without saying anything false, much less
+outrageously false, has achieved something quite significant. Depth
+
+=== p. 183 ===
+
+will take care of itself.
+You will not always succeed. Sometimes you will make honest
+mistakes. This is something to be concerned about, but not to be
+paralyzed by. Worry only about the dishonest mistakes. I have already
+mentioned the temptation to write something false because it sounds
+deep. Other temptations include the desire to write something false
+because you believe your professor believes it. In the long run, it is
+better to be committed to the truth than to what you think your
+superiors believe is the truth. It is also often better in the short run;
+saying something you do not believe often rings hollow and can be
+detected by a sensitive reader.
+In recent years some philosophers and many students have come to
+say that there is no such thing as truth or the truth. (I don’t really
+think that they believe this; but they say they do and they may think
+that they do. Thinking that you believe something that you do not is
+self-deception.) When they say that there is no such thing as truth,
+don’t they think that it is true that there is no such thing as truth? And
+if they do, then they are committing themselves to the existence of at
+least part of the truth. My claim is quite modest. Compare it with what
+the courts demand: “the truth, the whole truth and nothing but the
+truth.”
+Sometimes they claim only to reject Truth, with a capital “T;” but I
+find their explanations of the difference between truth and Truth
+either inadequate or nonexistent. Denying the existence of truth is one
+of those things that strikes some people as sounding deep. I think it is
+silly.
+
+2 The Use of Authority
+People rely upon authorities for many of the beliefs they have and the
+decisions they make, and often rightly so. It is legitimate to rely upon
+the predictions of weathermen about the weather – sorry, bad example
+– upon the judgments of physicians about one’s health, upon the
+judgments of physicists about the nature of the universe, and so on.
+Yet, what makes this kind of reliance on authority justifiable is the fact
+that the authority has good reasons for his or her views, reasons that
+
+=== p. 184 ===
+
+do not depend upon authority at all. Ultimately, the evidential value of
+any authority is founded upon the quality of the evidence he provides.
+It is a mistake to substitute an appeal to some philosopher’s authority
+for his evidence. For example, consider this essay fragment, which
+includes a misuse of authority:
+  Universals are general objects that cause individual objects to exist.
+  Universals either exist in objects or apart from objects. But, since
+  Plato, the greatest or at least one of the greatest philosophers of all
+  times, held that universals exist apart from objects, this must be
+  true and they cannot exist in objects.
+This fragment contains a misuse of authority because Plato’s greatness
+as a philosopher is irrelevant to the nature of universals. Many other
+great philosophers, e.g. Aristotle, held that universals exist in objects.
+And their beliefs are equally indifferent to the issue. What is relevant
+is the argumentation that either establishes or refutes the view that
+universals exist in things. In textbooks on informal logic, an
+illegitimate appeal to authority is called “the fallacy of authority.”
+There are also legitimate appeals to authority. It is not possible to
+prove everything in an essay or even a book. There are circumstances
+in which an author needs either (1) to presuppose some result that
+someone else has (allegedly) established or (2) to use some premise in
+her argument that she cannot prove herself but which has been proven
+by someone else whom the author can expect the audience to accept as
+an authority. Here is an example of (1):
+  Descartes argues that his existence follows from his thinking. He
+  pursues the same general line of argument to prove that God exists,
+  that he is not identical with his body and many other things. For the
+  purposes of this essay, let’s assume that Descartes is correct. I want
+  to argue that his position can provide a rational foundation for
+  individualism and a democratic form of government.
+In this fragment, the author uses the authority of Descartes to provide
+the assumption she needs to develop the main point of her essay.
+Concerning (2), citing the results of an authority can save you the time
+and effort of providing what requires a proof but is not central to your
+
+=== p. 185 ===
+
+own project. This use of authority motivates the use of such phrases
+as, “As Gödel has shown . . .,” which is simply an abbreviation for the
+argument itself. This use of authority is effective, however, only if what
+your authority “has shown” is both known to and accepted by your
+audience. Referring to an obscure or widely doubted argument is
+unacceptable. Also, when you refer to an author’s argument
+approvingly, do not think that you are relieving yourself of some
+burden and putting it on your authority. Rather, you are taking the
+burden of that argument on yourself. If your authority’s argument is
+defective, then your argument is defective. (If the authority’s argument
+is good, she of course gets the credit since she devised it.)
+While referring to an authority in order to take her argument for your
+own is a way of abbreviating the argument and avoiding quotation,
+sometimes quotation is desirable. An authority can be quoted either to
+express an argument to which the author of an essay subscribes or to
+express an argument the author intends to attack. Authorities can be
+friends or foes. A favored authority should be quoted only if the author
+cannot express the thought any more clearly or briefly than the
+authority has already done. For if the author can present it better in
+her own words, she should. Resorting to such quotation then is in
+effect admitting a kind of failure. An authority can also be quoted if
+her words have a compelling eloquence. Everyone who discusses
+Hobbes’s views about the nature of man in the state of nature feels
+compelled to quote him: “and the state of man is solitary, poor, nasty,
+brutish and short.” A quotation might be compelling yet tautologous:
+“Everything is what it is, and not another thing” (Bishop Butler) or
+silencing, “Whereof we cannot speak, thereof we must be silent”
+(Wittgenstein).
+A disfavored authority should be quoted if it is necessary to prove that
+you have presented her position fairly and accurately. It is very
+important that you present your opponent’s position in its strongest or
+most defensible way, even though you think it ultimately cannot
+withstand the assault of your objections. To state an opponent’s
+position unfairly is to set up a straw man. To refute that unfairly
+stated position is to knock down a straw man. It is easy to knock down
+a straw man; certainly it is not much of an accomplishment.
+
+=== p. 186 ===
+
+Students are especially susceptible to misusing authority because most
+of their essays require extensive use of authorities, usually some
+distinguished and very dead philosopher – Plato, Descartes, Hume,
+Kant – and they do not know what it is about an authority that is
+important. What is important is not his fame, nor his admirable
+character, nor his possibly exciting life, but his arguments. As I have
+indicated above, in most philosophy the Argument is all. And this
+explains why philosophical authorities play such a large role in most
+philosophical essays, those of professional philosophers as much as
+those of students: great philosophers have constructed great
+philosophical arguments that should first be mastered, then criticized,
+revised, and extended. The great philosophers of the past set the terms
+of philosophical debate, not because philosophers have an inordinate
+respect for tradition, but because the tradition consists of the
+arguments that philosophers, made great by their arguments, have
+devised. As the distinguished historian of medieval and modern
+philosophy Etienne Gilson once said, “The only thing that belongs in
+the history of philosophy is philosophy.”
+In addition to their use of the works of great philosophers, students
+often have to research the secondary literature, that is, the books and
+articles that have been written by scholars about the great
+philosophers. Sometimes students are expected to report what these
+scholars have said, sometimes also to evaluate it. In either case, what
+is important is the evidence or reasons they give for their views. The
+secondary literature should be investigated in order to discover
+whether it throws any light on the primary topic.
+
+3 The Burden of Proof
+Connected to the issue of evidence and authority is the issue of who
+bears the burden of proof in an argument. Roughly, the person who
+asserts or otherwise relies upon the truth of a proposition for the
+cogency of his position bears the burden. Recall, however, that it is
+impossible to prove every proposition. In every science, some
+propositions are taken as basic and ground-level. They are simply
+assumed without proof. In geometry, these principles are axioms,
+which traditionally were considered self-evident. Further, there are
+
+=== p. 187 ===
+
+many propositions, which, although they are not self-evident, need not
+be proven every time they are used, since the evidence for them is very
+familiar. For example, it needn’t be proven that the world is round and
+very old, that humans use languages to communicate, and so on. On
+the other hand, in most contexts you should not simply assume that
+only one object exists or that nonhuman animals use languages to
+communicate. These are controversial views and need support. There
+are some propositions, however, that are neither self-evident nor
+supported by evidence presented in the essay itself that might still be
+used. Sometimes propositions are used conditionally or as
+suppositions. That is, someone might try to prove that there is
+empirical knowledge on the assumption that there is mathematical
+knowledge. In this case, the person would be proving the existence of
+empirical knowledge conditionally. He assumes for the sake of the
+argument that there is mathematical knowledge in order to draw an
+interesting consequence of that assumption. Such conditional use of a
+proposition is legitimate so long as the inferred proposition is not
+philosophically outrageous. (If the proposition is philosophically
+outrageous, then the truth of the assumption may be subject to doubt.)
+In one of its forms, philosophical skepticism tries to exploit the
+requirement about the burden of proof. This brand of skepticism
+purports to assert nothing. Rather than trying to assert or prove that
+no one knows anything, the philosophical skeptic merely raises
+problems for any claim that is made, often in the form of a question. If
+someone says that an object looks red, the skeptic asks whether it is
+possible that one has an ocular deficiency that makes white things look
+red. If someone says that a tower viewed in the distance is round, the
+skeptic asks whether it might not actually be rectangular. The skeptic
+in effect maintains that while every philosophical doctrine is
+indefensible because it has to satisfy a burden of proof and cannot,
+skepticism itself is irrefutable because, by asserting nothing, it has no
+burden. In writing an essay or engaging in any discourse, an author
+forgoes skepticism, because she expects her audience to understand
+what she is saying and presupposes that her words have meaning and
+that she knows what they mean.
+One implication of these facts is that an author should write in such a
+
+=== p. 188 ===
+
+way that she can legitimately expect her audience to understand what
+she means. In particular, ordinarily words should be used in their
+usual senses, and technical terms should be explained in terms that
+the audience can be expected to understand.
+Of course, an author always has to presuppose some knowledge on the
+part of the audience. The trick is to be able to discriminate between
+what can be presupposed and what needs to be supported by proof or
+evidence. There is no rule of thumb about how to figure this out other
+than by paying attention to what your professor says in class in order
+to determine what he will and will not allow you to assume. You may
+need to ask explicitly about whether certain things can be assumed.
+You should think about whether your argument needs some
+proposition that is evident or merely supportable by evidence. In order
+to refute skepticism, for example, must there be a proposition that is
+evident, or is it sufficient that there be a true proposition beyond
+reasonable doubt? In ethics, is anything evident? Do any substantive
+moral principles, such as “It is always wrong intentionally to say what
+is false” or “It is always wrong to appropriate the property of another
+person,” need to be evident or is it sufficient that they be more
+reasonable than any competing principle? These continue to be
+controversial philosophical questions, and how you answer them will
+largely determine the type of argument you will need to construct in
+order to support the thesis of your essay.
+

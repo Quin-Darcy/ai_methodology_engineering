@@ -1,0 +1,768 @@
+=== chunk: ricoeur-1981-hermeneutics-human-sciences/ch5-what-is-a-text ===
+title: What is a text? Explanation and understanding
+source_pdf: docs/sources/ricoeur-1981-hermeneutics-human-sciences/full.pdf
+pdf_pages: 158-177
+page_scheme: book
+plan_page_start: 107
+plan_page_end: 126
+extraction: pdftotext -layout, post-processed (ligature-normalize, dehyphenate via hunspell en_US-large, page-markers, header-strip)
+
+=== p. 107 ===
+
+            What is a text? Explanation
+               and understanding
+
+                                  B
+This essay will be devoted primarily to the debate between two fundamental
+attitudes which may be adopted in regard to a text. These two attitudes
+were summed up, in the period of Wilhelm Dilthey at the end of the last
+century, by the two words ‘explanation’ and ‘interpretation’. For Dilthey,
+‘explanation’ referred to the model of intelligibility borrowed from the
+natural sciences and applied to the historical disciplines by positivist schools;
+‘interpretation’, on the other hand, was a derivative form of understanding,
+which Dilthey regarded as the fundamental attitude of the human sciences
+and as that which could alone preserve the fundamental difference between
+these sciences and the sciences of nature. Here I propose to examine the fate
+of this opposition in the light of conflicts between contemporary schools.
+For the notion of explanation has since been displaced, so that it derives
+no longer from the natural sciences but from properly linguistic models. As
+regards the concept of interpretation, it has undergone profound transformations which distance it from the psychological notion of understanding,
+in Dilthey’s sense of the word. It is this new position of the problem, perhaps
+less contradictory and more fecund, which I should like to explore. But before
+unfolding the new concepts of explanation and understanding, I should like
+to pause at a preliminary question which in fact dominates the whole of our
+investigation. The question is this: what is a text?
+
+I.   What is a text?
+Let us say that a text is any discourse fixed by writing. According to this
+definition, fixation by writing is constitutive of the text itself. But what is
+fixed by writing? We have said: any discourse. Is this to say that discourse
+had to be pronounced initially in a physical or mental form? that all
+writing was initially, at least in a potential way, speaking? In short, what
+is the relation of the text to speech?
+   To begin with, we are tempted to say that all writing is added to some
+anterior speech. For if by speech [parole] we understand, with Ferdinand
+
+=== p. 108 ===
+
+de Saussure, the realisation of language [langue] in an event of discourse, the
+production of an individual utterance by an individual speaker, then each
+text is in the same position as speech with respect to language. Moreover,
+writing as an institution is subsequent to speech, and seems merely to fix in
+linear script all the articulations which have already appeared orally. The
+attention given almost exclusively to phonetic writings seems to confirm
+that writing adds nothing to the phenomenon of speech other than the
+fixation which enables it to be conserved. Whence the conviction that
+writing is fixed speech, that inscription, whether it be graphics or recording,
+is inscription of speech – an inscription which, thanks to the subsisting
+character of the engraving, guarantees the persistence of speech.
+   The psychological and sociological priority of speech over writing is
+not in question. It may be asked, however, whether the late appearance
+of writing has not provoked a radical change in our relation to the very
+statements of our discourse. For let us return to our definition: the text is
+a discourse fixed by writing. What is fixed by writing is thus a discourse
+which could be said, of course, but which is written precisely because it is
+not said. Fixation by writing takes the very place of speech, occurring at
+the site where speech could have emerged. This suggests that a text is
+really a text only when it is not restricted to transcribing an anterior
+speech, when instead it inscribes directly in written letters what the
+discourse means.
+   This idea of a direct relation between the meaning of the statement and
+writing can be supported by reflecting on the function of reading in
+relation to writing. Writing calls for reading in a way which will enable
+us shortly to introduce the concept of interpretation. For the moment, let
+us say that the reader takes the place of the interlocutor, just as writing
+takes the place of speaking and the speaker. The writing–reading relation
+is thus not a particular case of the speaking–answering relation. It is not a
+relation of interlocution, not an instance of dialogue. It does not suffice
+to say that reading is a dialogue with the author through his work, for
+the relation of the reader to the book is of a completely different nature.
+Dialogue is an exchange of questions and answers; there is no exchange of
+this sort between the writer and the reader. The writer does not respond to
+the reader. Rather, the book divides the act of writing and the act of
+reading into two sides, between which there is no communication. The
+reader is absent from the act of writing; the writer is absent from the act of
+reading. The text thus produces a double eclipse of the reader and the
+writer. It thereby replaces the relation of dialogue, which directly connects
+the voice of one to the hearing of the other.
+
+=== p. 109 ===
+
+   The substitution of reading for a dialogue which has not occurred is so
+manifest that when we happen to encounter an author and to speak to him
+(about his book, for example), we experience a profound disruption of the
+peculiar relation that we have with the author in and through his work.
+Sometimes I like to say that to read a book is to consider its author as
+already dead and the book as posthumous. For it is when the author is
+dead that the relation to the book becomes complete and, as it were, intact.
+The author can no longer respond; it only remains to read his work.
+   The difference between the act of reading and the act of dialogue confirms our hypothesis that writing is a realisation comparable and parallel
+to speech, a realisation which takes the place of it and, as it were, intercepts it. Hence we could say that what comes to writing is discourse as
+intention-to-say and that writing is a direct inscription of this intention,
+even if, historically and psychologically, writing began with the graphic
+transcription of the signs of speech. This emancipation of writing, which
+places the latter at the site of speech, is the birth of the text.
+   Now, what happens to the statement itself when it is directly inscribed
+instead of being pronounced? The most striking characteristic has always
+been emphasised: writing preserves discourse and makes it an archive
+available for individual and collective memory. It may be added that the
+linearisation of symbols permits an analytic and distinctive translation of
+all the successive and discrete features of language and thereby increases
+its efficacy. Is that all? Preservation and increased efficacy still only char-acterise the transcription of oral language in graphic signs. The emancipation of the text from the oral situation entails a veritable upheaval in
+the relations between language and the world, as well as in the relation
+between language and the various subjectivities concerned (that of the
+author and that of the reader). We glimpsed something of this second
+upheaval in distinguishing reading from dialogue; we shall have to go still
+further, but this time beginning from the upheaval which the referential
+relation of language to the world undergoes when the text takes the place
+of speech.
+   What do we understand by the referential relation or referential function? In addressing himself to another speaker, the subject of discourse says
+something about something; that about which he speaks is the referent of
+his discourse. As is well known, this referential function is supported by
+the sentence, which is the first and the simplest unit of discourse. It is the
+sentence which intends to say something true or something real, at least in
+declarative discourse. The referential function is so important that it compensates, as it were, for another characteristic of language, namely the
+
+=== p. 110 ===
+
+separation of signs from things. By means of the referential function,
+language ‘pours back into the universe’ (according to an expression of
+Gustave Guillaume) those signs which the symbolic function, at its birth,
+divorced from things. All discourse is, to some extent, thereby reconnected
+to the world. For if we did not speak of the world, of what should
+we speak?
+   When the text takes the place of speech, something important occurs.
+In speech, the interlocutors are present not only to one another, but also to
+the situation, the surroundings and the circumstantial milieu of discourse.
+It is in relation to this circumstantial milieu that discourse is fully meaningful; the return to reality is ultimately a return to this reality, which can
+be indicated ‘around’ the speakers, ‘around’, if we may say so, the instance
+of discourse itself. Language is, moreover, well equipped to secure this
+anchorage. Demonstratives, adverbs of time and place, personal pronouns,
+verbal tenses, and in general all the ‘deictic’ and ‘ostensive’ indicators serve
+to anchor discourse in the circumstantial reality which surrounds the
+instance of discourse. Thus, in living speech, the ideal sense of what is said
+turns towards the real reference, towards that ‘about which’ we speak. At
+the limit, this real reference tends to merge with an ostensive designation
+where speech rejoins the gesture of pointing. Sense fades into reference and
+the latter into the act of showing.
+   This is no longer the case when the text takes the place of speech. The
+movement of reference towards the act of showing is intercepted, at the
+same time as dialogue is interrupted by the text. I say intercepted and not
+suppressed; it is in this respect that I shall distance myself from what may
+be called henceforth the ideology of the absolute text. On the basis of the
+sound remarks which we have just made, this ideology proceeds, by an
+unwarranted hypostasis, through a course that is ultimately surreptitious.
+As we shall see, the text is not without reference; the task of reading, qua
+interpretation, will be precisely to fulfil the reference. The suspense which
+defers the reference merely leaves the text, as it were, ‘in the air’, outside or
+without a world. In virtue of this obliteration of the relation to the world,
+each text is free to enter into relation with all the other texts which come to
+take the place of the circumstantial reality referred to by living speech.
+This relation of text to text, within the effacement of the world about
+which we speak, engenders the quasi-world of texts or literature.
+   Such is the upheaval which affects discourse itself, when the movement
+of reference towards the act of showing is intercepted by the text. Words
+cease to efface themselves in front of things; written words become words
+for themselves.
+
+=== p. 111 ===
+
+   The eclipse of the circumstantial world by the quasi-world of texts can
+be so complete that, in a civilisation of writing, the world itself is no longer
+what can be shown in speaking but is reduced to a kind of ‘aura’ which
+written works unfold. Thus we speak of the Greek world or the Byzantine
+world. This world can be called ‘imaginary’, in the sense that it is represented by writing in lieu of the world presented by speech; but this imaginary world is itself a creation of literature.
+   The upheaval in the relation between the text and its world is the key to
+the other upheaval of which we have already spoken, that which affects
+the relation of the text to the subjectivities of the author and the reader.
+We think that we know what the author of a text is because we derive
+the notion of the author from that of the speaker. The subject of speech,
+according to Benveniste, is what designates itself in saying ‘I’. When the
+text takes the place of speech, there is no longer a speaker, at least in the
+sense of an immediate and direct self-designation of the one who speaks in
+the instance of discourse. This proximity of the speaking subject to his own
+speech is replaced by a complex relation of the author to the text, a relation
+which enables us to say that the author is instituted by the text, that he
+stands in the space of meaning traced and inscribed by writing. The text is
+the very place where the author appears. But does the author appear
+otherwise than as first reader? The distancing of the text from its author
+is already a phenomenon of the first reading which, in one move, poses the
+whole series of problems that we are now going to confront concerning
+the relations between explanation and interpretation. These relations arise
+at the time of reading.
+
+II.   Explanation or understanding?
+As we shall see, the two attitudes which we have initially placed under
+the double title of explanation and interpretation will confront one
+another in the act of reading. This duality is first encountered in the
+work of Dilthey. For him, these distinctions constituted an alternative
+wherein one term necessarily excluded the other: either you ‘explain’ in
+the manner of the natural scientist, or you ‘interpret’ in the manner of the
+historian. This exclusive alternative will provide the point of departure
+for the discussion which follows. I propose to show that the concept of
+the text, such as we have formulated it in the first part of this essay,
+demands a renewal of the two notions of explanation and interpretation and, in virtue of this renewal, a less contradictory conception of
+their interrelation. Let us say straightaway that the discussion will be
+
+=== p. 112 ===
+
+deliberately oriented towards the search for a strict complementarity and
+reciprocity between explanation and interpretation.
+   The initial opposition in Dilthey’s work is not exactly between explanation and interpretation, but between explanation and understanding,
+interpretation being a particular province of understanding. We must
+therefore begin from the opposition between explanation and understanding. Now if this opposition is exclusive, it is because, in Dilthey’s work, the
+two terms designate two spheres of reality which they serve to separate.
+These two spheres are those of the natural sciences and the human sciences. Nature is the region of objects offered to scientific observation, a
+region subsumed since Galileo to the enterprise of mathematisation and
+since John Stuart Mill to the canons of inductive logic. Mind is the region
+of psychological individualities, into which each mental life is capable
+of transposing itself. Understanding is such a transference into another
+mental life. To ask whether the human sciences can exist is thus to ask
+whether a scientific knowledge of individuals is possible, whether this
+understanding of the singular can be objective in its own way, whether
+it is susceptible of universal validity. Dilthey answered affirmatively,
+because inner life is given in external signs which can be perceived and
+understood as signs of another mental life: ‘Understanding’, he says in the
+famous article on ‘The development of hermeneutics’, ‘is the process by
+which we come to know something of mental life through the perceptible
+signs which manifest it.’1 This is the understanding of which interpretation
+is a particular province. Among the signs of another mental life, we have
+the ‘manifestations fixed in a durable way’, the ‘human testimonies preserved by writing’, the ‘written monuments’. Interpretation is the art of
+understanding applied to such manifestations, to such testimonies, to such
+monuments, of which writing is the distinctive characteristic. Understanding, as the knowledge through signs of another mental life, thus provides
+the basis in the pair understanding–interpretation; the latter element supplies the degree of objectification, in virtue of the fixation and preservation
+which writing confers upon signs.
+   Although this distinction between explanation and understanding seems
+clear at first, it becomes increasingly obscure as soon as we ask ourselves
+about the conditions of scientificity of interpretation. Explanation has been
+
+1     W. Dilthey, ‘Origine et développement de l’herméneutique’ (1900) in Le Monde de l’Esprit i
+      (Paris: Aubier, 1947), p. 320 [English translation: ‘The development of hermeneutics’ in
+      Selected Writings, edited and translated by H.P. Rickman (Cambridge: Cambridge University Press, 1976), p. 248].†
+
+=== p. 113 ===
+
+expelled from the field of the human sciences; but the conflict reappears at
+the very heart of the concept of interpretation between, on the one hand,
+the intuitive and unverifiable character of the psychologising concept of
+understanding to which interpretation is subordinated, and on the other
+hand the demand for objectivity which belongs to the very notion of
+human science. The splitting of hermeneutics between its psychologising
+tendency and its search for a logic of interpretation ultimately calls into
+question the relation between understanding and interpretation. Is not
+interpretation a species of understanding which explodes the genre? Is
+not the specific difference, namely fixation by writing, more important here
+than the feature common to all signs, that of presenting inner life in an
+external form? What is more important: the inclusion of hermeneutics in
+the sphere of understanding or its difference therefrom? Schleiermacher,
+before Dilthey, had witnessed this internal splitting of the hermeneutical
+project and had overcome it through a happy marriage of romantic genius
+and philological virtuosity. With Dilthey, the epistemological demands are
+more pressing. Several generations separate him from the scholar of
+Romanticism, several generations well versed in epistemological reflection;
+the contradiction now explodes in full daylight. Listen to Dilthey commenting upon Schleiermacher: ‘The ultimate aim of hermeneutics is to understand the author better than he understands himself.’ So much for the
+psychology of understanding. Now for the logic of interpretation: ‘The
+function of hermeneutics is to establish theoretically, against the constant
+intrusion of romantic whim and sceptical subjectivism into the domain of
+history, the universal validity of interpretation, upon which all certitude
+in history rests.’2 Thus hermeneutics fulfils the aim of understanding only
+by extricating itself from the immediacy of understanding others – from,
+let us say, dialogical values. Understanding seeks to coincide with the inner
+life of the author, to liken itself to him (sich gleichsetzen), to reproduce
+(nachbilden) the creative processes which engendered the work. But the
+signs of this intention, of this creation, are to be found nowhere else than
+in what Schleiermacher called the ‘exterior’ and ‘interior form’ of the work,
+or again, the ‘interconnection’ (Zusammenhang) which makes it an organ-ised whole. The last writings of Dilthey (‘The construction of the historical
+world in the human sciences’) further aggravated the tension. On the one
+hand, the objective side of the work was accentuated under the influence
+of Husserl’s Logical Investigations (for Husserl, as we know, the ‘meaning’
+
+2   Ibid., p. 333 [pp. 259–60].†
+
+=== p. 114 ===
+
+of a statement constitutes an ‘ideality’ which exists neither in mundane
+reality nor in psychic reality: it is a pure unity of meaning without a real
+localisation). Hermeneutics similarly proceeds from the objectification of
+the creative energies of life in works which come in between the author
+and us; it is mental life itself, its creative dynamism, which calls for the
+mediation by ‘meanings’, ‘values’ or ‘goals’. The scientific demand thus
+presses towards an ever greater depsychologisation of interpretation, of
+understanding itself and perhaps even of introspection, if it is true that
+memory itself follows the thread of meanings which are not themselves
+mental phenomena. The exteriorisation of life implies a more indirect and
+mediate characterisation of the interpretation of self and others. But it
+is a self and another, posed in psychological terms, that interpretation
+pursues; interpretation always aims at a reproduction, a Nachbildung, of
+lived experiences.
+   This intolerable tension, which the later Dilthey bears witness to, leads
+us to raise two questions which guide the following discussion: Must we
+not abandon once and for all the reference of interpretation to understanding and cease to make the interpretation of written monuments a particular case of understanding the external signs of an inner mental life? But if
+interpretation no longer seeks its norm of intelligibility in understanding
+others, then does not its relation to explanation, which we have set aside
+hitherto, now demand to be reconsidered?
+
+III.   The text and structural explanation
+Let us begin again from our analysis of the text and from the autonomous
+status which we have granted it with respect to speech. What we have
+called the eclipse of the surrounding world by the quasi-world of texts
+engenders two possibilities. We can, as readers, remain in the suspense of
+the text, treating it as a worldless and authorless object; in this case, we
+explain the text in terms of its internal relations, its structure. On the other
+hand, we can lift the suspense and fulfil the text in speech, restoring it
+to living communication; in this case, we interpret the text. These two
+possibilities both belong to reading, and reading is the dialectic of these
+two attitudes.
+   Let us consider them separately, before exploring their articulation. We
+can undertake a first type of reading which formally records, as it were,
+the text’s interception of all the relations to a world that can be pointed out
+and to subjectivities that can converse. This transference into the ‘place’ – a
+place which is a non-place – constitutes a special project with respect to the
+
+=== p. 115 ===
+
+text, that of prolonging the suspense concerning the referential relation to
+the world and to the speaking subject. By means of this special project, the
+reader decides to situate himself in the ‘place of the text’ and in the
+‘closure’ of this place. On the basis of this choice, the text has no outside
+but only an inside; it has no transcendent aim, unlike a speech which is
+addressed to someone about something.
+   This project is not only possible but legitimate. For the constitution of
+the text as text and of the body of texts as literature justifies the interception of the double transcendence of discourse, towards the world and
+towards someone. Thus arises the possibility of an explanatory attitude
+in regard to the text.
+   In contrast to what Dilthey thought, this explanatory attitude is not
+borrowed from a field of knowledge and an epistemological model other
+than that of language itself. It is not a naturalistic model subsequently
+extended to the human sciences. The nature–mind opposition plays no
+role here at all. If there is some form of borrowing, it occurs within the
+same field, that of signs. For it is possible to treat the text according to the
+explanatory rules that linguistics successfully applies to the simple system
+of signs which constitute language [langue] as opposed to speech [parole].
+As is well known, the language–speech distinction is the fundamental
+distinction which gives linguistics an homogenous object; speech belongs
+to physiology, psychology and sociology, whereas language, as rules of
+the game of which speech is the execution, belongs only to linguistics. As
+is equally well known, linguistics considers only systems of units devoid
+of proper meaning, each of which is defined only in terms of its difference
+from all of the others. These units, whether they be purely distinctive like
+those of phonological articulation or significant like those of lexical articulation, are oppositive units. The interplay of oppositions and their combinations within an inventory of discrete units is what defines the notion
+of structure in linguistics. This structural model furnishes the type of
+explanatory attitude which we are now going to see applied to the text.
+   Even before embarking upon this enterprise, it may be objected that the
+laws which are valid only for language as distinct from speech could not
+be applied to the text. Although the text is not speech, is it not, as it were,
+on the same side as speech in relation to language? Must not discourse, as
+a series of statements and ultimately of sentences, be opposed in an overall
+way to language? In comparison to the language–discourse distinction, is
+not the speaking–writing distinction secondary, such that speaking and
+writing occur together on the side of discourse? These remarks are perfectly legitimate and justify us in thinking that the structural model of
+
+=== p. 116 ===
+
+explanation does not exhaust the field of possible attitudes which may be
+adopted in regard to a text. But before specifying the limits of this explanatory model, it is necessary to grasp its fruitfulness. The working hypothesis of any structural analysis of texts is this: in spite of the fact that writing
+is on the same side as speech in relation to language – namely, on the
+side of discourse – the specificity of writing in relation to speech is based
+on structural features which can be treated as analogues of language in
+discourse. This working hypothesis is perfectly legitimate; it amounts to
+saying that under certain conditions the larger units of language [langage],
+that is, the units of a higher order than the sentence, display organisations
+comparable to those of the smaller units of language, that is, the units
+which are of a lower order than the sentence and which belong to the
+domain of linguistics.
+   In Structural Anthropology, Claude Lévi-Strauss formulates this working
+hypothesis for one category of texts, the category of myths:
+   Like every linguistic entity, myth is made up of constitutive units. These
+units imply the presence of those which normally enter into the structure
+of language, namely the phonemes, the morphemes and the semantemes.
+The constituent units of myth are in the same relation to semantemes as
+the latter are to morphemes, and as the latter in turn are to phonemes. Each
+form differs from that which precedes it by a higher degree of complexity.
+For this reason, we shall call the elements which properly pertain to myth
+(and which are the most complex of all): large constitutive units.3
+   By means of this working hypothesis, the large units which are minimally the size of the sentence, and which placed together constitute the
+narrative proper to the myth, can be treated according to the same rules
+that are applied to the smaller units familiar to linguistics. To indicate
+this analogy, Lévi-Strauss speaks of ‘mythemes’ in the same way that one
+speaks of phonemes, morphemes and semantemes. But in order to remain
+within the limits of the analogy between mythemes and the linguistic units
+of a lower level, the analysis of texts will have to proceed to the same sort
+of abstraction as that practised by the phonologist. For the latter, the
+phoneme is not a concrete sound, to be taken absolutely in its sonorous
+substance; it is a function defined by the commutative method and its
+oppositive value is determined by the relation to all other phonemes.
+In this sense it is not, as Saussure would say, a ‘substance’ but a ‘form’,
+
+3     Claude Lévi-Strauss, Anthropologie structurale (Paris: Plon, 1958) p. 233 [English translation: Structural Anthropology, translated by Claire Jacobson and Brooke Grundfest Schoepf
+      (Harmondsworth: Penguin Books, 1968), pp. 210–11].†
+
+=== p. 117 ===
+
+an interplay of relations. Similarly, a mytheme is not one of the sentences
+of the myth but an oppositive value which is shared by several particular
+sentences, constituting, in the language of Lévi-Strauss, a ‘bundle of relations’. ‘Only in the form of combinations of such bundles do the constituent units acquire a signifying function.’4 What is called here the ‘signifying
+function’ is not at all what the myth means, its philosophical or existential
+import, but rather the arrangement or disposition of mythemes, in short,
+the structure of the myth.
+   I should like to recall briefly the analysis which, according to this
+method, Lévi-Strauss offers of the Oedipus myth. He divides the sentences
+of the myth into four columns. In the first column he places all the
+sentences which speak of overrated blood relations (for example, Oedipus
+marries Jocasta, his mother; Antigone buries Polynices, her brother, in
+spite of the order forbidding it). In the second column, we find the same
+relation, but modified by the inverse sign: underrated or devalued blood
+relations (Oedipus kills his father, Laios; Eteocles kills his brother, Poly-nices). The third column concerns monsters and their destruction; the
+fourth groups together all those proper names whose meaning suggests
+a difficulty in walking straight (lame, clumsy, swollen foot). The comparison of the four columns reveals a correlation. Between the first and second
+columns we have blood relations overrated or underrated in turn; between
+the third and fourth we have an affirmation and then a negation of the
+autochtony of man. ‘It follows that the fourth column is related to the third
+column as the first is to the second . . .; the overrating of blood relations is
+to their underrating as the attempt to escape from autochtony is to the
+impossibility of succeeding in it.’ The myth thus appears as a kind of
+logical instrument which brings together contradictions in order to overcome them: ‘the impossibility of connecting the groups of relations is
+overcome (or, more exactly, replaced) by the assertion that two contradictory relations are identical, insofar as each is, like the other, self-contradictory’.5 We shall return shortly to this conclusion; let us restrict ourselves
+here to stating it.
+   We can indeed say that we have thereby explained the myth, but not
+that we have interpreted it. We have brought out, by means of structural
+analysis, the logic of the operations which interconnect the packets of
+relations; this logic constitutes ‘the structural law of the myth concerned’.6
+We shall not fail to notice that this law is, par excellence, the object of
+
+4   Ibid., p. 234 [p. 211].†   5   Ibid., p. 239 [p. 216].†   6   Ibid., p. 241 [p. 217].†
+
+=== p. 118 ===
+
+reading and not at all of speech, in the sense of a recitation whereby the
+power of the myth would be reactivated in a particular situation. Here the
+text is only a text and the reading inhabits it only as such, while its
+meaning for us remains in suspense, together with any realisation in
+present speech.
+   I have just taken an example from the domain of myths; I could take
+another from a nearby domain, that of folklore. This domain has been
+explored by the Russian formalists of the school of Propp and by the
+French specialists in the structural analysis of narratives, Roland Barthes
+and A.J. Greimas. In the work of these authors, we find the same postulates as those employed by Lévi-Strauss: the units above the sentence have
+the same composition as the units below the sentence; the sense of the
+narrative consists in the very arrangement of the elements, in the power of
+the whole to integrate the sub-units; and conversely, the sense of an
+element is its capacity to enter in relation with other elements and with
+the whole of the work. These postulates together define the closure of the
+narrative. The task of structural analysis will be to carry out the segmentation of the work (horizontal aspect), then to establish the various levels
+of integration of the parts in the whole (hierarchical aspect). Thus the
+units of action isolated by the analyst will not be psychological units
+capable of being experienced, nor will they be units of behaviour which
+could be subsumed to a behaviourist psychology. The extremities of these
+sequences are only the switching points of the narrative, such that if one
+element is changed, all the rest is different. Here we recognise the transposition of the method of commutation from the phonological level to the
+level of narrative units. The logic of action thus consists in an interconnected series of action kernels which together constitute the structural
+continuity of the narrative. The application of this technique ends up by
+‘dechronologising’ the narrative, in a way that brings out the logic underlying narrative time. Ultimately the narrative would be reduced to a
+combination [combinatoire] of a few dramatic units (promising, betraying,
+hindering, aiding, etc.) which would be the paradigms of action. A sequence is thus a succession of nodes of action, each closing off an alternative
+opened up by the preceding one. Just as the elementary units are linked
+together, so too they fit into larger units; for example, an encounter is
+comprised of elementary actions like approaching, calling out, greeting,
+etc. To explain a narrative is to grasp this entanglement, this fleeting
+structure of interlaced actions.
+   Corresponding to the nexus of actions are relations of a similar nature
+between the ‘actants’ of the narrative. By that we understand, not at all the
+
+=== p. 119 ===
+
+characters as psychological subjects endowed with their own existence,
+but rather the roles correlated with formalised actions. Actants are defined
+entirely by the predicates of action, by the semantic axes of the sentence
+and the narrative: the actant is the one by whom, to whom, with whom, . . .
+the action is done; it is the one who promises, who receives the promise,
+the giver, the receiver, etc. Structural analysis thus brings out a hierarchy
+of actants correlative to the hierarchy of actions.
+   The narrative remains to be assembled as a whole and put back into
+narrative communication. It is then a discourse which a narrator addresses
+to an audience. For structural analysis, however, the two interlocutors
+must be sought only in the text. The narrator is designated by the signs
+of narrativity, which belong to the very constitution of the narrative.
+Beyond the three levels of actions, actants and narration, there is nothing
+else that falls within the scope of the science of semiology. There is only
+the world of narrative users, which can eventually be dealt with by other
+semiological disciplines (those analysing social, economic and ideological systems); but these disciplines are no longer linguistic in nature.
+This transposition of a linguistic model to the theory of the narrative
+fully confirms our initial remark: today, explanation is no longer a
+concept borrowed from the natural sciences and transferred to the alien
+domain of written artefacts; rather, it stems from the very sphere of
+language, by analogical transference from the small units of language
+(phonemes and lexemes) to the units larger than the sentence, such as
+narratives, folklore and myth. Henceforth, interpretation – if it is still
+possible to give a sense to this notion – will no longer be confronted by a
+model external to the human sciences. It will, instead, be confronted by
+a model of intelligibility which belongs, from birth so to speak, to the
+domain of the human sciences, and indeed to a leading science in this
+domain: linguistics. Thus it will be upon the same terrain, within the
+same sphere of language [langage], that explanation and interpretation
+will enter into debate.
+
+IV.   Towards a new concept of interpretation
+Let us consider now the other attitude that can be adopted in regard to the
+text, the attitude which we have called interpretation. We can introduce
+this attitude by initially opposing it to the preceding one, in a manner still
+close to that of Dilthey. But as we shall see, it will be necessary to proceed
+gradually to a more complementary and reciprocal relation between
+explanation and interpretation.
+
+=== p. 120 ===
+
+   Let us begin once again from reading. Two ways of reading, we said, are
+offered to us. By reading we can prolong and reinforce the suspense which
+affects the text’s reference to a surrounding world and to the audience of
+speaking subjects: that is the explanatory attitude. But we can also lift the
+suspense and fulfil the text in present speech. It is this second attitude which
+is the real aim of reading. For this attitude reveals the true nature of the
+suspense which intercepts the movement of the text towards meaning. The
+other attitude would not even be possible if it were not first apparent that
+the text, as writing, awaits and calls for a reading. If reading is possible, it
+is indeed because the text is not closed in on itself but opens out onto other
+things. To read is, on any hypothesis, to conjoin a new discourse to the
+discourse of the text. This conjunction of discourses reveals, in the very
+constitution of the text, an original capacity for renewal which is its open
+character. Interpretation is the concrete outcome of conjunction and renewal.
+   In the first instance, we shall be led to formulate the concept of interpretation in opposition to that of explanation. This will not distance us
+appreciably from Dilthey’s position, except that the opposing concept of
+explanation has already gained strength by being derived from linguistics
+and semiology rather than being borrowed from the natural sciences.
+   According to this first sense, interpretation retains the feature of appropriation which was recognised by Schleiermacher, Dilthey and Bultmann.
+In fact, this sense will not be abandoned; it will only be mediated by
+explanation, instead of being opposed to it in an immediate and even naive
+way. By ‘appropriation’, I understand this: that the interpretation of a text
+culminates in the self-interpretation of a subject who thenceforth understands himself better, understands himself differently, or simply begins to
+understand himself. This culmination of the understanding of a text in self-understanding is characteristic of the kind of reflective philosophy which,
+on various occasions, I have called ‘concrete reflection’. Here hermeneutics
+and reflective philosophy are correlative and reciprocal. On the one hand,
+self-understanding passes through the detour of understanding the cultural signs in which the self documents and forms itself. On the other hand,
+understanding the text is not an end in itself; it mediates the relation to
+himself of a subject who, in the short circuit of immediate reflection, does
+not find the meaning of his own life. Thus it must be said, with equal force,
+that reflection is nothing without the mediation of signs and works, and
+that explanation is nothing if it is not incorporated as an intermediary stage
+in the process of self-understanding. In short, in hermeneutical reflection –
+or in reflective hermeneutics – the constitution of the self is contemporaneous with the constitution of meaning.
+
+=== p. 121 ===
+
+   The term ‘appropriation’ underlines two additional features. One of the
+aims of all hermeneutics is to struggle against cultural distance. This
+struggle can be understood in purely temporal terms as a struggle against
+secular estrangement, or in more genuinely hermeneutical terms as a
+struggle against the estrangement from meaning itself, that is, from the
+system of values upon which the text is based. In this sense, interpretation
+‘brings together’, ‘equalises’, renders ‘contemporary and similar’, thus
+genuinely making one’s own what was initially alien.
+   Above all, the characterisation of interpretation as appropriation is
+meant to underline the ‘present’ character of interpretation. Reading is
+like the execution of a musical score; it marks the realisation, the enactment, of the semantic possibilities of the text. This final feature is the most
+important because it is the condition of the other two (that is, of overcoming cultural distance and of fusing textual interpretation with self-interpretation). Indeed, the feature of realisation discloses a decisive aspect
+of reading, namely that it fulfils the discourse of the text in a dimension
+similar to that of speech. What is retained here from the notion of speech
+is not the fact that it is uttered but that it is an event, an instance of
+discourse, as Benveniste says. The sentences of a text signify here and
+now. The ‘actualised’ text finds a surrounding and an audience; it resumes
+the referential movement – intercepted and suspended – towards a world
+and towards subjects. This world is that of the reader, this subject is the
+reader himself. In interpretation, we shall say, reading becomes like
+speech. I do not say ‘becomes speech’, for reading is never equivalent to
+a spoken exchange, a dialogue. But reading culminates in a concrete act
+which is related to the text as speech is related to discourse, namely as
+event and instance of discourse. Initially the text had only a sense, that is,
+internal relations or a structure; now it has a meaning, that is, a realisation
+in the discourse of the reading subject. By virtue of its sense, the text had
+only a semiological dimension; now it has, by virtue of its meaning, a
+semantic dimension.
+   Let us pause here. Our discussion has reached a critical point where
+interpretation, understood as appropriation, still remains external to
+explanation in the sense of structural analysis. We continue to oppose
+them as if they were two attitudes between which it is necessary to choose.
+I should like now to go beyond this antithetical opposition and to bring
+out the articulation which would render structural analysis and hermeneutics complementary. For this it is important to show how each of the
+two attitudes which we have juxtaposed refers back, by means of its own
+peculiar features, to the other.
+
+=== p. 122 ===
+
+   Consider again the examples of structural analysis which we have
+borrowed from the theory of myth and narrative. We tried to adhere to a
+notion of sense which would be strictly equivalent to the arrangement of the
+elements of a text, to the integration of the segments of action and the
+actants within the narrative treated as a whole closed in upon itself. In fact,
+no one stops at so formal a conception of sense. For example, what Lévi-Strauss calls a ‘mytheme’ – in his eyes, the constitutive unit of myth – is
+expressed in a sentence which has a specific meaning: Oedipus kills his
+father, Oedipus marries his mother, etc. Can it be said that structural
+explanation neutralises the specific meaning of sentences, retaining only
+their position in the myth? But the bundle of relations to which Lévi-Strauss
+reduces the mytheme is still of the order of the sentence; and the interplay
+of oppositions which is instituted at this very abstract level is equally of
+the order of the sentence and of meaning. If one speaks of ‘overrated’ or
+‘underrated blood relations’, of the ‘autochtony’ or ‘non-autochtony’ of
+man, these relations can still be written in the form of a sentence: the blood
+relation is the highest of all, or the blood relation is not as high as the social
+relation, for example in the prohibition of incest, etc. Finally, the contradiction which the myth attempts to resolve, according to Lévi-Strauss, is itself
+stated in terms of meaningful relations. Lévi-Strauss admits this, in spite of
+himself, when he writes: ‘The reason for these choices becomes clear if we
+recognise that mythical thought proceeds from the consciousness of certain
+oppositions and tends towards their progressive mediation’;7 and again,
+‘the myth is a kind of logical tool intended to effect a mediation between life
+and death’.8 In the background of the myth there is a question which is
+highly significant, a question about life and death: ‘Are we born from one or
+from two?’ Even in its formalised version, ‘Is the same born from the same
+or from the other?’, this question expresses the anguish of origins: whence
+comes man? Is he born from the earth or from his parents? There would be
+no contradiction, nor any attempt to resolve contradiction, if there were not
+significant questions, meaningful propositions about the origin and the end
+of man. It is this function of myth as a narrative of origins that structural
+analysis seeks to place in parentheses. But such analysis does not succeed in
+eluding this function: it merely postpones it. Myth is not a logical operator
+between any propositions whatsoever, but involves propositions which
+point towards limit situations, towards the origin and the end, towards
+death, suffering and sexuality.
+
+7     Ibid., p. 248 [p. 224].†   8   Ibid., p. 243 [p. 220].†
+
+=== p. 123 ===
+
+   Far from dissolving this radical questioning, structural analysis
+reinstates it at a more radical level. Would not the function of structural
+analysis then be to impugn the surface semantics of the recounted myth in
+order to unveil a depth semantics which is, if I may say so, the living
+semantics of the myth? If that were not the function of structural analysis,
+then it would, in my opinion, be reduced to a sterile game, to a derisory
+combination [combinatoire] of elements, and myth would be deprived of
+the function which Lévi-Strauss himself recognises when he asserts that
+mythical thought arises from the awareness of certain oppositions and
+tends towards their progressive mediation. This awareness is a recognition
+of the aporias of human existence around which mythical thought gravitates. To eliminate this meaningful intention would be to reduce the theory
+of myth to a necrology of the meaningless discourses of mankind. If, on
+the contrary, we regard structural analysis as a stage – and a necessary
+one – between a naive and a critical interpretation, between a surface and
+a depth interpretation, then it seems possible to situate explanation and
+interpretation along a unique hermeneutical arc and to integrate the
+opposed attitudes of explanation and understanding within an overall
+conception of reading as the recovery of meaning.
+   We shall take another step in the direction of this reconciliation between
+explanation and interpretation if we now turn towards the second term of
+the initial contradiction. So far we have worked with a concept of interpretation which remains very subjective. To interpret, we said, is to appropriate
+here and now the intention of the text. In saying that, we remain enclosed
+within Dilthey’s concept of understanding. Now what we have just said
+about the depth semantics unveiled by the structural analysis of the text
+invites us to say that the intended meaning of the text is not essentially the
+presumed intention of the author, the lived experience of the writer, but
+rather what the text means for whoever complies with its injunction. The
+text seeks to place us in its meaning, that is – according to another acceptation of the word sens – in the same direction. So if the intention is that of the
+text, and if this intention is the direction which it opens up for thought, then
+depth semantics must be understood in a fundamentally dynamic way.
+I shall therefore say: to explain is to bring out the structure, that is, the
+internal relations of dependence which constitute the statics of the text; to
+interpret is to follow the path of thought opened up by the text, to place
+oneself en route towards the orient of the text. We are invited by this remark
+to correct our initial concept of interpretation and to search – beyond a
+subjective process of interpretation as an act on the text – for an objective
+process of interpretation which would be the act of the text.
+
+=== p. 124 ===
+
+   I shall borrow an example from a recent study which I made of the
+exegesis of the sacerdotal story of creation in Genesis 1–2, 4a.9 This
+exegesis reveals, in the interior of the text, the interplay of two narratives:
+a Tatbericht in which creation is expressed as a narrative of action (‘God
+made . . .’), and a Wortbericht, that is, a narrative of speech (‘God said, and
+there was . . .’). The first narrative could be said to play the role of tradition
+and the second of interpretation. What is interesting here is that interpretation, before being the act of the exegete, is the act of the text. The relation
+between tradition and interpretation is a relation internal to the text; for
+the exegete, to interpret is to place himself in the meaning indicated by the
+relation of interpretation which the text itself supports.
+   This objective and, as it were, intra-textual concept of interpretation is
+by no means unusual. Indeed, it has a long history rivalling that of the
+concept of subjective interpretation which is linked, it will be recalled, to
+the problem of understanding others through the signs that others give of
+their conscious life. I would willingly connect this new concept of interpretation to that referred to in the title of Aristotle’s treatise On Interpretation. Aristotle’s hermenetia, in contrast to the hermeneutical technique of
+seers and oracles, is the very action of language on things. Interpretation,
+for Aristotle, is not what one does in a second language with regard to a
+first; rather, it is what the first language already does, by mediating
+through signs our relation to things. Hence interpretation is, according
+to the commentary of Boethius, the work of the vox significativa per se
+ipsam aliquid significans, sive complexa, sive incomplexa. Thus it is the noun,
+the verb, discourse in general, which interprets in the very process of
+signifying.
+   It is true that interpretation in Aristotle’s sense does not exactly prepare
+the way for understanding the dynamic relation between several layers of
+meaning in the same text. For it presupposes a theory of speech and not a
+theory of the text: ‘The sounds articulated by the voice are symbols of
+states of the soul, and written words are symbols of words uttered in
+speech’ (On Interpretation, para. 1). Hence interpretation is confused with
+the semantic dimension of speech: interpretation is discourse itself, it is
+any discourse. Nevertheless, I retain from Aristotle the idea that interpretation is interpretation by language before being interpretation of language.
+   I would look in the work of Charles Sanders Peirce for a concept of
+interpretation which is closer to that required by an exegesis which relates
+
+9     See Paul Ricoeur, ‘Sur l’exégèse de Genèse 1, 1–2, 4a’ in Roland Barthes et al., Exégèse et
+      herméneutique (Paris: Seuil, 1971), pp. 67–84.
+
+=== p. 125 ===
+
+interpretation to tradition in the very interior of a text. According to Peirce,
+the relation of a ‘sign’ to an ‘object’ is such that another relation, that
+between ‘interpretant’ and ‘sign’, can be grafted onto the first. What is
+important for us is that this relation between interpretant and sign is an
+open relation, in the sense that there is always another interpretant
+capable of mediating the first relation. G.-G. Granger explains this very
+well in his Essai d’une philosophie du style:
+      The interpretant which the sign evokes in the mind could not be the
+      result of a pure and simple deduction which would extract from the sign
+      something already contained therein . . . The interpretant is a commentary, a definition, a gloss on the sign in its relation to the object. The
+      interpretant is itself symbolic expression. The sign–interpretant association, realised by whatever psychological processes, is rendered possible
+      only by the community, more or less imperfect, of an experience between
+      speaker and hearer . . . It is always an experience which can never be
+      perfectly reduced to the idea or object of the sign of which, as we said, it
+      is the structure. Whence the indefinite character of Peirce’s series of
+      interpretants.10
+
+We must, of course, exercise a great deal of care in applying Peirce’s
+concept of interpretant to the interpretation of texts. His interpretant is
+an interpretant of signs, whereas our interpretant is an interpretant of
+statements. But our use of the interpretant, transposed from small to large
+units, is neither more nor less analogical than the structuralist transfer of
+the laws of organisation from units of levels below the sentence to units of
+an order above or equal to the sentence. In the case of structuralism, it is
+the phonological structure of language which serves as the coding model
+of structures of higher articulation. In our case, it is a feature of lexical
+units which is transposed onto the plane of statements and texts. So if we
+are perfectly aware of the analogical character of the transposition, then
+we can say that the open series of interpretants, which is grafted onto the
+relation of a sign to an object, brings to light a triangular relation of object–
+sign–interpretant; and that the latter relation can serve as a model for
+another triangle which is constituted at the level of the text. In the new
+triangle, the object is the text itself; the sign is the depth semantics disclosed by structural analysis; and the series of interpretants is the chain of
+interpretations produced by the interpreting community and incorporated
+
+10 G.-G. Granger, Essai d’une philosophie du style (Paris: A. Colin, 1968), p. 115.
+
+=== p. 126 ===
+
+into the dynamics of the text, as the work of meaning upon itself. Within
+this chain, the first interpretants serve as tradition for the final interpre-tants, which are the interpretation in the true sense of the term.
+   Thus informed by the Aristotelian concept of interpretation and above
+all by Peirce’s concept, we are in a position to ‘depsychologise’ as far as
+possible our notion of interpretation, and to connect it with the process
+which is at work in the text. Henceforth, for the exegete, to interpret is to
+place himself within the sense indicated by the relation of interpretation
+supported by the text.
+   The idea of interpretation as appropriation is not, for all that, eliminated; it is simply postponed until the termination of the process. It lies at
+the extremity of what we called above the hermeneutical arc: it is the final
+brace of the bridge, the anchorage of the arch in the ground of lived
+experience. But the entire theory of hermeneutics consists in mediating
+this interpretation-appropriation by the series of interpretants which
+belong to the work of the text upon itself. Appropriation loses its arbitrariness insofar as it is the recovery of that which is at work, in labour, within
+the text. What the interpreter says is a re-saying which reactivates what is
+said by the text.
+   At the end of our investigation, it seems that reading is the concrete act in
+which the destiny of the text is fulfilled. It is at the very heart of reading that
+explanation and interpretation are indefinitely opposed and reconciled.
+
