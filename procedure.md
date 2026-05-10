@@ -92,11 +92,17 @@ The full workflow is documented in `docs/_manifest/chunking-workflow.md`. In bri
 
 ### 2.3 Helper scripts (in `docs/_manifest/`)
 
-- `subtask1_brief.py <slug>` — emits a self-contained Subtask 1 prompt to stdout. Workflow context inlined; manifest stanzas for this slug grepped in; toc.md inlined. Replaces ~13 redundant file reads per iteration with zero.
-- `commit_source_block.py <slug> --stdin` — accepts the verified block on stdin, inserts/replaces at the correct alphabetical position in `chunking-plan.md`, runs the verifier, ticks the workflow checkbox. Idempotent. Exit codes distinguish input-validation failure (1) from verifier failure (2).
+- `scan_pdf_quality.py` — one-shot pre-flight over all source PDFs. Reports image-only PDFs (need OCR) and reflowable ebooks (need `page_scheme: pdf`). Run once before iteration begins.
+- `subtask1_brief.py <slug>` — emits a self-contained Subtask 1 prompt to stdout. Workflow context inlined; manifest stanzas for this slug grepped in; toc.md inlined; pre-computed chapter page bounds; reflowable-PDF warnings. Replaces ~13 redundant file reads per iteration with zero.
+- `subtask2_brief.py <slug> --block-file <path>` — emits a Subtask 2 prompt to stdout with the draft block inlined plus pre-flight observations: live `pdfinfo` page count, image-only / reflowable detection, suggested book→PDF anchor, and a recommendation to use `peek_pdf_pages.py` for spot-checks.
+- `peek_pdf_pages.py <pdf> <p> [<p>...] [--head N|--tail N|--full] [--layout]` — print `pdftotext` output for individual PDF pages with `=== PDF page N ===` headers between pages. Range-checks against the PDF total. Replaces hand-rolled `for p in ...; do pdftotext -f $p -l $p ...; done` shell loops, which would otherwise generate one permission prompt per shell-loop construction.
+- `commit_source_block.py <slug> --stdin` — accepts the verified block on stdin, validates the slug shape against `^[a-z0-9][a-z0-9-]*$`, inserts/replaces at the correct alphabetical position in `chunking-plan.md`, runs the verifier, restores the prior file content if the verifier fails (so a malformed block does not contaminate the next run), and ticks the workflow checkbox using a line-anchored regex (so a slug like `foo` does not also flip a `foobar` checkbox). Idempotent. Exit codes distinguish input-validation failure (1) from verifier failure (2).
+- `commit_source_block.py <slug> --whole-document --components <list>` — for journal articles and single-essay sources, builds the entire single-chunk block from `pdfinfo` + toc.md and commits it. Replaces both subagent dispatches.
 - `verify_chunking_plan.py` — parses `chunking-plan.md` and runs the checks in 2.6. Standalone; also invoked automatically inside `commit_source_block.py`.
 
 These scripts mechanize the steps that have no LLM judgment in them. Iteration cost drops from five hand-driven steps per source (dispatch ×2 + edit + verify + tick) to three (dispatch ×2 + commit-CLI), with steps 1 and 3 fully deterministic.
+
+**Permission discipline for the helper scripts.** Each script has a narrow allowlist entry in `.claude/settings.json` (e.g., `Bash(python3 docs/_manifest/subtask1_brief.py *)`) so iteration runs without per-invocation permission prompts. The compensating control: each script's SHA1 is pinned in `docs/_manifest/SCRIPT_HASHES`, and the discipline is to run `sha1sum -c docs/_manifest/SCRIPT_HASHES` before each helper-script invocation. If any line reports `FAILED`, halt and surface to the user (a script changed and the pinned hash is stale). After legitimate edits, regenerate the hash file (`sha1sum docs/_manifest/*.py > docs/_manifest/SCRIPT_HASHES`) and commit script + hash together.
 
 ### 2.4 Volume budget
 
@@ -133,11 +139,34 @@ Hard failures halt iteration; warnings accumulate and surface in the summary.
 
 ### 2.7 Pre-extraction integrity check
 
-For each chunk declared in chunking-plan.md: file opens; text is selectable (not scanned image); pagination intact. OCR any scanned material before extraction. The verifier handles structural checks; OCR quality is a manual confirmation.
+For each chunk declared in chunking-plan.md: the underlying PDF must open; its text layer must be selectable (not a pure scanned image); pagination must be intact. The verifier handles structural checks; the absence-of-text and OCR-quality checks are a manual confirmation supported by `scan_pdf_quality.py` (which flags image-only PDFs in the corpus).
 
-### 2.8 Chunk file naming (Stage 3 input)
+For image-only PDFs identified at this stage, run OCR before Stage 3 begins. The standard tooling is `ocrmypdf -l <langs> input.pdf output.pdf` (use `-l deu+eng` for bilingual sources; add `--force-ocr` if some pages have stray text on cover/title pages that triggers `PriorOcrFoundError`). Convention: leave the original at `docs/sources/{slug}/full.pdf` (preserved for auditability) and write the OCR output to `docs/sources/{slug}/full.ocr.pdf`. Update `pdf_path` in chunking-plan.md to point at the OCR'd file for those sources, then re-run the verifier — page counts are preserved by `ocrmypdf`, so chunk page ranges remain valid.
 
-When chunks are physically extracted at Stage 3, name them `{author_last}_{year}_{shortwork}_ch{N}.pdf` (example: `skinner_2002_visions_ch4.pdf`). Extraction is lazy: chunks are carved from `full.pdf` at Stage 3 time using the page ranges in chunking-plan.md, not preemptively at Stage 2.
+Spot-check OCR quality on at least one mid-chunk page per OCR'd source by running `pdftotext -f N -l N <full.ocr.pdf> -` and confirming the output is legible. Minor artifacts (occasional missing spaces, single-character mis-reads on page numbers) are normal and acceptable for downstream extraction; widespread garbled text is not, and indicates a re-OCR is needed (try different language settings or pre-process the PDF).
+
+### 2.8 Chunk text extraction (Stage 3 input)
+
+Extract chunk content to **plain text files**, not to PDF slices. Text is the natural input format for Stage 3 extraction agents: cheaper per token (no per-call PDF parsing overhead), diffable, grep-able, and the extraction agents only need text content. The PDF was the source-of-truth artifact for Stage 2 (chunk selection and page-range verification); for Stage 3, text is the operational unit.
+
+**Output location and naming.** Write each chunk to `docs/sources/{slug}/chunks/{chunk_id}.txt`, where `{chunk_id}` is the path component after the slug in the chunk's `id` field in chunking-plan.md (e.g., chunk `id: bohm-1996-on-dialogue/ch1-on-dialogue` → file `docs/sources/bohm-1996-on-dialogue/chunks/ch1-on-dialogue.txt`). Each chunk's `chunks/` subdirectory already exists per Stage 1.3.
+
+**Extraction tooling.** Standard form: `pdftotext -layout -f <pdf_page_start> -l <pdf_page_end> <pdf_path> -` per chunk, post-processed for the issues below. The `pdf_path` value comes from chunking-plan.md (it points to `full.ocr.pdf` for the three image-only sources whose paths were updated after OCR; `full.pdf` for everything else). Pin `-layout` because:
+
+- It preserves columns, which matters for bilingual en-face layouts (Wittgenstein 1998: German left / English right) and for sources with marginal footnotes.
+- The default flow mode interleaves footnote text mid-paragraph on layouts the heuristic misreads.
+
+**Required post-processing.** Three deterministic transformations applied between `pdftotext` output and the on-disk text file:
+
+1. **Page-number markers.** Insert a `=== p. {N} ===` separator line between pages (where `{N}` is the *book* page number when `page_scheme: book`, or the PDF page number otherwise). Without these markers, citing back to a specific page from extracted directives reduces to guesswork; they are the stable anchors the extraction prompt at Stage 3 cites against.
+2. **End-of-line de-hyphenation.** PDFs often have soft hyphens at line breaks ("philo-\nsophical"). Without de-hyphenation, word search and readability are broken. The transformation is a small regex: `s/(\w)-\n(\w)/$1$2\n/g`. Apply with care to genuine hyphenated compounds (e.g., "self-deception"); a simple heuristic is to keep the hyphen if the word fragment before the hyphen is short and capitalized or matches a known compound prefix list.
+3. **Whitespace normalization.** Collapse runs of three-or-more blank lines to two; strip trailing whitespace per line; normalize tabs to spaces.
+
+**Text-file header.** Each chunk text file opens with a small YAML-ish header block listing the `id`, `title`, `page_scheme`, `page_start`/`page_end` (and `pdf_page_start`/`pdf_page_end` when applicable), `components`, and `rationale` from the chunking-plan entry. The Stage 3 extraction prompt uses this header as the chunk's source-citation block.
+
+**Mechanization.** A helper script `extract_chunk_text.py <slug> [<chunk_id>]` reads chunking-plan.md, runs the per-chunk `pdftotext` invocation, applies the post-processing, and writes the chunk file. Pilot the script against one native-text source (e.g., `bohm-1996-on-dialogue` or `hadot-1995-philosophy-as-a-way-of-life`) and one OCR'd source (e.g., `davidson-1984-inquiries`) before running it across all 29 sources. Add the script to `SCRIPT_HASHES` and to `.claude/settings.json` allowlist when it stabilizes.
+
+**Why this approach over per-chunk PDFs.** A PDF chunk is still a PDF — pdftotext'ing it again at extraction time is wasted work, and the parser-and-render overhead repeats per Stage 3 invocation. Text files solve once. The auditability concern (extraction grounded in source) is preserved: the chunk text file's header contains the slug, page range, and PDF path; an auditor can re-run `pdftotext -f X -l Y full.pdf` to confirm the text matches.
 
 ---
 
@@ -146,6 +175,8 @@ When chunks are physically extracted at Stage 3, name them `{author_last}_{year}
 ### 3.1 Extraction is one Claude pass per chunk
 
 The chunks to extract are exactly those declared in `chunking-plan.md`. Do not extract from sections not declared there; do not merge chunks. Per-chunk extraction is necessary for accurate source attribution and for staying within useful context limits. It also bounds the multi-turn drift documented in Laban et al. 2025: each extraction is a fresh single-turn task with the full source in front of the model.
+
+The input to each extraction pass is the chunk's text file produced at Stage 2.8 (`docs/sources/{slug}/chunks/{chunk_id}.txt`), not the original PDF. The text file already contains the chunk's source-citation header and page-number markers, so the extraction prompt can cite back to specific pages without consulting the PDF.
 
 Each extracted directive carries the chunk's `components` tags from chunking-plan.md (e.g., `[m1, exp]`). These tags drive the deliverable-track split at Stage 6.
 

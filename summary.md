@@ -70,14 +70,25 @@ Build two artifacts for working philosophy as a serious autodidact: (1) a proced
 
 - **Report length norms** — short brief vs. medium vs. long. Probably variable, calibrated to the question, with the procedure suggesting ranges.
 - **Format:** essay-style vs. PRISMA-ScR-style explicit method section vs. hybrid. Probably hybrid: short formal method/scope section, essay-style synthesis, formal weak-claims and further-reading sections.
-- **`procedure.md` restructuring.** Given the platform split (research on claude.ai, discussion on Claude Code) and the slim-core + referenced-document architecture, `procedure.md` needs to (a) reflect the two-artifact extraction (slim core vs. long-form), and (b) extend coverage to discussion-project skills. Recommended structure: shared front matter (acquisition, chunking, extraction framework) + a research-project-specific track + a discussion-project-specific track. Not an immediate decision — flagged for the rewrite.
 - **Trigger and exit phrasings** for the four skills — pure naming convention, settled when authoring.
+
+## Implementation status (as of 2026-05-10)
+
+- **Stage 1** (acquisition, manifests, TOC summarization): complete for 29 sources. Manifests in `docs/_manifest/`; per-source toc.md files with operational maps.
+- **Stage 2** (chunking): **complete — 108 chunks across all 29 sources verified.** Output: `docs/_manifest/chunking-plan.md`. Per-source iteration via `docs/_manifest/chunking-workflow.md` with helper scripts (`scan_pdf_quality.py`, `subtask1_brief.py`, `subtask2_brief.py`, `peek_pdf_pages.py`, `commit_source_block.py`, `verify_chunking_plan.py`). Iteration checklist (all 29 ticked) at the bottom of `chunking-workflow.md`. 14 verifier warnings remain — all non-blocking (11 manifest target gaps for unacquired sources; 3 block-size soft warnings).
+- **OCR**: complete for all 3 image-only PDFs (`davidson-1984-inquiries`, `eemeren-grootendorst-snoeck-henkemans-2002-argumentation-aep`, `wittgenstein-1953-philosophical-investigations`). Originals preserved at `full.pdf`; OCR'd versions at `full.ocr.pdf`; chunking-plan.md `pdf_path` updated to point at the OCR'd versions for those three sources.
+- **Stage 3** (per-chunk directive extraction): about to begin. Pre-Stage 3 design pivot recorded in `procedure.md` 2.8: extract chunk content to `.txt` files (not PDF slices) — text is the natural input for Stage 3 extraction agents. Pilot plan: one native-text source first, then one OCR'd source, then mechanize as a CLI script, then process the rest.
+- **Stages 4–9**: not started. `procedure.md` Stages 1–2 reflect implementation; Stages 3 reflects the design pivot; Stages 4–9 retain the original spec, to be revised when their work begins.
+- **`procedure.md` restructuring** (originally flagged here): done. Stage 6 now splits into research-track (6.1, activation-stage framework) and discussion-track (6.2, exploratory default + four mode-shaped skills).
 
 ## Suggested next steps
 
-1. Refactor `procedure.md` into the shared + research-track + discussion-track structure, reflecting the two-artifact split and the platform split.
-2. Run the cheap empirical test for phase 1 thickness: write a thin phase 1 procedure and try it on three or four representative historical-concept-tracing questions. Document where it fails. Use those failures to decide what philosophy-specific phase 1 procedures are worth writing.
-3. Write the phase 2 procedures fully — these are higher-confidence and don't depend on the phase 1 test.
-4. Author the discussion-project's CLAUDE.md (exploratory default + mode-management meta-rules).
-5. Author the four mode skills, with explicit attention to mode-shaped (not task-shaped) authoring — persistence, dialogical engagement, exit conditions, self-check.
-6. Run Stage 8 testing per `procedure.md` — fixed baseline (lightweight prompt), fixed test queries, structured comparison.
+1. **Stage 3 pilot 1** — pick a native-text source (suggested: `bohm-1996-on-dialogue`, `hadot-1995-philosophy-as-a-way-of-life`, or `gendler-2010-intuition-imagination-philosophical-methodology`). Extract its chunks to text files per `procedure.md` 2.8. Surface text-quality issues (page-number markers, end-of-line hyphenation, footnotes, bilingual columns). Establish baseline format.
+2. **Stage 3 pilot 2** — run the same pipeline against an OCR'd source (suggested: `davidson-1984-inquiries`). Surface OCR-specific issues.
+3. **Mechanize** the deterministic parts of the pilot into `extract_chunk_text.py` in `docs/_manifest/`. Add to `SCRIPT_HASHES` and `.claude/settings.json` allowlist.
+4. **Process the remaining 27 sources** with the script.
+5. **Run Stage 3 extraction** (per-chunk directive extraction) over the chunk text files. Per `procedure.md` Stage 3.
+6. **Run Stages 4–5** (clustering, canonicalization) — common to both tracks.
+7. **Author the research-track outputs** (Stage 6.1 → 7): activation-stage organization → compressed `proc` custom-instructions document for the claude.ai project.
+8. **Author the discussion-track outputs** (Stage 6.2 → 7): CLAUDE.md exploratory default + four mode skills (`/pragma-dialectical`, `/hermeneutic`, `/skinnerian`, `/intuition-pump`).
+9. **Run Stage 8 testing** — fixed baseline (lightweight prompt), fixed test queries, structured comparison.
