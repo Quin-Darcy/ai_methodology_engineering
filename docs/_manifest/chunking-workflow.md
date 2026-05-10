@@ -182,14 +182,18 @@ The script:
 
 **Per-iteration loop.**
 1. Pick the next slug from the checklist below where the box is unchecked.
-2. Generate the Subtask 1 prompt with `python3 docs/_manifest/subtask1_brief.py <slug>` and dispatch a subagent with that prompt. Receive draft block.
-3. Dispatch a subagent for Subtask 2 with the slug + the draft block (Subtask 2 has no helper script — it needs `pdfinfo` / `pdftotext` access). Receive verified block.
-4. Commit the verified block: `echo "$BLOCK" | python3 docs/_manifest/commit_source_block.py <slug> --stdin`. This inserts/replaces the block at the correct alphabetical position, runs the verifier, and ticks the checklist box.
-5. Pause for user inspection if Subtask 3's verifier emitted new hard failures; otherwise continue.
+2. **Whole-document shortcut for articles / single essays.** If the source is a journal article or single essay (manifest annotation `(article — no chunks needed)` or toc.md saying "the article is the unit"), skip Subtasks 1 and 2 and run `python3 docs/_manifest/commit_source_block.py <slug> --whole-document --components <comma-list>`. Done.
+3. Otherwise, generate the Subtask 1 prompt: `python3 docs/_manifest/subtask1_brief.py <slug>` and dispatch a subagent. Receive draft block.
+4. Save the draft to a temp file. Generate the Subtask 2 prompt: `python3 docs/_manifest/subtask2_brief.py <slug> --block-file /tmp/draft.txt`. Dispatch a subagent. Receive verified block.
+5. Commit: `cat /tmp/verified.txt | python3 docs/_manifest/commit_source_block.py <slug> --stdin`. This inserts/replaces the block at the correct alphabetical position, runs the verifier, and ticks the checklist box.
+6. Pause for user inspection if any warnings or hard failures are emitted.
 
 **Helper scripts** (in `docs/_manifest/`):
-- `subtask1_brief.py <slug>` — emits a self-contained Subtask 1 prompt; the agent reads zero additional files.
+- `scan_pdf_quality.py` — pre-flight scan of all source PDFs. Reports image-only PDFs (need OCR) and reflowable ebooks (need `page_scheme: pdf`). Run once before iteration begins.
+- `subtask1_brief.py <slug>` — emits a self-contained Subtask 1 prompt with workflow context, manifest stanzas, **pre-computed page bounds from the toc table** (next-chapter-start − 1 arithmetic), and reflowable-PDF warnings. The agent reads zero additional files.
+- `subtask2_brief.py <slug> --block-file <path>` — emits a Subtask 2 prompt with the draft block inlined, plus pre-flight observations: live `pdfinfo` page count, image-only / reflowable detection, and a suggested book→PDF anchor (the Ch. 1 title from the toc).
 - `commit_source_block.py <slug> --stdin` — append/replace + verify + tick in one CLI call.
+- `commit_source_block.py <slug> --whole-document --components <list> [--rationale "..."]` — for articles / single essays, builds the entire single-chunk block from `pdfinfo` + toc.md and commits it. Replaces both subagent dispatches.
 - `verify_chunking_plan.py` — standalone verifier; runs automatically inside `commit_source_block.py` but can be invoked directly.
 
 **Why fresh contexts per subtask.** Subtask 1 needs ~6 manifests + summary + refs + a toc — substantial reading. Subtask 2 needs the PDF tools and one toc. Carrying Subtask 1's context into Subtask 2 wastes tokens and increases drift risk. The handoff between subtasks is the small draft block, not the agent's working memory.

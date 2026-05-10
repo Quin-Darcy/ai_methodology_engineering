@@ -23,10 +23,14 @@ import sys
 from pathlib import Path
 
 MANIFEST = Path(__file__).resolve().parent
+ROOT = MANIFEST.parent.parent
+SOURCES = ROOT / "docs" / "sources"
 PLAN = MANIFEST / "chunking-plan.md"
 WORKFLOW = MANIFEST / "chunking-workflow.md"
 VERIFIER = MANIFEST / "verify_chunking_plan.py"
 SOURCES_HEADING = "## Sources"
+
+VALID_COMPONENTS = {"exp", "m1", "m2", "m3", "m4", "proc"}
 
 
 def read_block(args) -> str:
@@ -110,16 +114,102 @@ def run_verifier():
     return res.returncode, res.stdout + res.stderr
 
 
+def get_pdf_total_pages(pdf: Path) -> int:
+    out = subprocess.run(
+        ["pdfinfo", str(pdf)], capture_output=True, text=True, check=True
+    )
+    for line in out.stdout.splitlines():
+        if line.startswith("Pages:"):
+            return int(line.split()[1])
+    raise RuntimeError(f"pdfinfo did not report Pages: for {pdf}")
+
+
+def extract_toc_title(toc_text: str, slug: str) -> str:
+    """Pull a short work title from the toc.md's first heading line, e.g.
+        '# Table of Contents — Arksey & O'Malley, "Scoping Studies..."'
+    Returns the part after '—' (or after ':') if present, else a fallback.
+    """
+    for line in toc_text.splitlines():
+        line = line.strip()
+        if line.startswith("# "):
+            head = line[2:].strip()
+            for sep in (" — ", " - ", ": "):
+                if sep in head:
+                    return head.split(sep, 1)[1].strip().rstrip(".")
+            return head
+    return slug
+
+
+def build_whole_document_block(slug: str, components: list[str], rationale: str | None) -> str:
+    """Build a single-chunk whole_document source-block from on-disk metadata.
+    Runs pdfinfo, reads toc.md for a short title, returns the YAML body.
+    """
+    src_dir = SOURCES / slug
+    pdf = src_dir / "full.pdf"
+    toc = src_dir / "toc.md"
+    if not pdf.exists():
+        raise SystemExit(f"ERROR: PDF missing at {pdf}")
+    if not toc.exists():
+        raise SystemExit(f"ERROR: toc.md missing at {toc}")
+    total = get_pdf_total_pages(pdf)
+    title = extract_toc_title(toc.read_text(), slug)
+    if rationale is None:
+        rationale = "Article — whole-document chunk per manifest."
+    comps_str = "[" + ", ".join(components) + "]"
+    return (
+        f"### {slug}\n"
+        f"pdf_total_pages: {total}\n"
+        f"toc_path: docs/sources/{slug}/toc.md\n"
+        f"pdf_path: docs/sources/{slug}/full.pdf\n"
+        f"whole_document: true\n"
+        f"chunks:\n"
+        f"  - id: {slug}/whole\n"
+        f"    title: {title}\n"
+        f"    page_scheme: pdf\n"
+        f"    page_start: 1\n"
+        f"    page_end: {total}\n"
+        f"    components: {comps_str}\n"
+        f"    verified: true\n"
+        f"    rationale: {rationale}\n"
+    )
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("slug")
     g = p.add_mutually_exclusive_group(required=True)
     g.add_argument("--block-file")
     g.add_argument("--stdin", action="store_true")
+    g.add_argument(
+        "--whole-document", action="store_true",
+        help="Build a single-chunk whole_document block from pdfinfo + toc.md "
+             "for journal articles and single-essay sources. Requires --components.",
+    )
+    p.add_argument(
+        "--components",
+        help="Comma-separated component codes (e.g. 'proc' or 'proc,exp'). "
+             "Required with --whole-document.",
+    )
+    p.add_argument(
+        "--rationale",
+        help="Optional rationale string for --whole-document mode "
+             "(default: 'Article — whole-document chunk per manifest.').",
+    )
     p.add_argument("--dry-run", action="store_true")
     args = p.parse_args()
 
-    block_raw = read_block(args)
+    if args.whole_document:
+        if not args.components:
+            print("ERROR: --whole-document requires --components", file=sys.stderr)
+            sys.exit(1)
+        comps = [c.strip() for c in args.components.split(",") if c.strip()]
+        for c in comps:
+            if c not in VALID_COMPONENTS:
+                print(f"ERROR: unknown component '{c}'; valid: {sorted(VALID_COMPONENTS)}", file=sys.stderr)
+                sys.exit(1)
+        block_raw = build_whole_document_block(args.slug, comps, args.rationale)
+    else:
+        block_raw = read_block(args)
     block, err = validate_block(args.slug, block_raw)
     if err:
         print(f"ERROR: {err}", file=sys.stderr)

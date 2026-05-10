@@ -74,6 +74,102 @@ def get_workflow_section(name: str) -> str:
     return "".join(lines[start_idx:end_idx]).rstrip()
 
 
+def parse_chapter_table(toc_text: str) -> list[tuple[str, int]]:
+    """Pull out chapter rows from any markdown table that has at least one
+    integer-only cell (the page number). Returns [(label, page), ...] sorted
+    by page.
+
+    Tolerates several common shapes:
+      | 1 | On Communication | 1 |
+      | I | Criteria and Judgment | 3 |
+      | 26 | Beiser | History of Ideas: A Defense | 505 |
+      | 1 | Differences of Opinion | 3 | 1.1 ... · 1.2 ... |   <- 4-col w/ sub-section text
+      |  | sub-heading | 332 |
+    """
+    rows = []
+    line_re = re.compile(r"^\s*\|\s*(.+?)\s*\|\s*$")
+    for raw in toc_text.splitlines():
+        m = line_re.match(raw)
+        if not m:
+            continue
+        cells = [c.strip() for c in m.group(1).split("|")]
+        if len(cells) < 2:
+            continue
+        # Skip header rows (any cell labeled "page" verbatim)
+        if any(c.lower() == "page" for c in cells):
+            continue
+        # Skip alignment rows (---|---)
+        if all(set(c) <= set("-: ") for c in cells):
+            continue
+        # Find a cell that is purely an integer — preferring the rightmost
+        # in the standard 3-col case but accepting any integer cell so that
+        # "| 1 | Title | 3 | sub-sections... |" still works.
+        page = None
+        page_idx = None
+        for i in range(len(cells) - 1, -1, -1):
+            try:
+                page = int(cells[i])
+                page_idx = i
+                break
+            except ValueError:
+                continue
+        if page is None:
+            continue
+        # Build label from cells other than the page cell, skipping cells
+        # that are themselves bare integers (e.g. chapter numbers) or empty.
+        label_parts = []
+        for i, c in enumerate(cells):
+            if i == page_idx or not c:
+                continue
+            try:
+                int(c)
+                continue  # bare integer column — chapter number, skip
+            except ValueError:
+                pass
+            label_parts.append(c)
+        if not label_parts:
+            continue
+        # Take the first non-integer cell as the title — sub-section text columns
+        # appear in 4-col tables and we only want the chapter title here.
+        label = label_parts[0]
+        if len(label) > 80:
+            label = label[:80] + "…"
+        rows.append((label, page))
+    # Deduplicate (same label and page)
+    seen = set()
+    deduped = []
+    for label, page in rows:
+        key = (label.lower(), page)
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append((label, page))
+    deduped.sort(key=lambda x: x[1])
+    return deduped
+
+
+def compute_page_bounds(rows: list[tuple[str, int]]) -> str:
+    """Render a 'computed page bounds' table from chapter rows. Each chapter's
+    end = next chapter's start - 1. Last chapter is shown as 'to back matter'.
+
+    Returns markdown bullet list, or empty string if rows is empty.
+    """
+    if len(rows) < 2:
+        return ""
+    out = []
+    for i, (label, start) in enumerate(rows):
+        if i + 1 < len(rows):
+            next_start = rows[i + 1][1]
+            end = next_start - 1
+            if end < start:
+                # Same page — likely a sub-section row
+                continue
+            out.append(f"- {label}: book p. {start}–{end}")
+        else:
+            out.append(f"- {label}: book p. {start} → end of chapter / back matter (verify in Subtask 2)")
+    return "\n".join(out)
+
+
 def manifest_stanza(manifest_path: Path, slug: str) -> str:
     """Return the slug's stanza from a manifest: the `- \\`slug\\`` line plus
     its indented sub-bullets, until the next unindented non-blank line.
@@ -124,6 +220,23 @@ def main():
             f"WARN: slug '{slug}' not found in any manifest", file=sys.stderr
         )
 
+    # Pre-compute chapter page bounds from the toc's contents table.
+    # Skipped silently for sources with non-numeric pagination (Aristotle's
+    # Bekker numbers, etc.) where the parser yields nothing usable.
+    toc_text = toc.read_text()
+    chapter_rows = parse_chapter_table(toc_text)
+    page_bounds_section = compute_page_bounds(chapter_rows)
+
+    # Detect reflowable / image-only / unstable-pagination hints
+    notes = []
+    lower = toc_text.lower()
+    if any(h in lower for h in ("reflowable", "epub ebook", "page numbers are not stable", "page numbers not stable")):
+        notes.append(
+            "**Pagination warning** — toc.md flags this PDF as reflowable / unstable. "
+            "Use `page_scheme: pdf` instead of `book`. Subtask 2 will locate sections via "
+            "string search on chapter/part headers, not by book pages."
+        )
+
     parts = [
         f"# Subtask 1 (Selection) — {slug}",
         "",
@@ -151,6 +264,12 @@ def main():
         ("\n\n".join(manifest_blocks) if manifest_blocks
          else "(none — slug absent from all six manifests)"),
         "",
+        "## Pre-computed page bounds (from toc.md contents table)",
+        "",
+        (page_bounds_section if page_bounds_section
+         else "(no parseable chapter table — agent must derive bounds from toc.md directly)"),
+        "",
+        ("\n".join(notes) + "\n" if notes else ""),
         "## Source toc.md",
         "",
         f"Path: `docs/sources/{slug}/toc.md` (full content inlined below)",
