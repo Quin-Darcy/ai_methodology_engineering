@@ -1,0 +1,1425 @@
+component: proc
+clustered_at: "2026-05-11T04:28:05Z"
+model: "claude-opus-4-7[1m]"
+input_count: 430
+cluster_count: 188
+clusters:
+  # ============================================================
+  # SCOPE / QUESTION DEFINITION
+  # ============================================================
+  - id: c001
+    label: "Begin with answerable, scope-bounded research question"
+    note: "variants: same protocol — start a review by stating an explicit, answerable research question and bounding the scope, with framework support"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d04"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d01"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d02"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d03"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d06"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d07"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d08"
+
+  - id: c002
+    label: "Question-framework selection (PICO, SPIDER, CIMO, etc.)"
+    note: "variants: same protocol of structuring the review question via an established framework, with method-appropriate variant selection; recognise framework limits for fully comprehensive reviews"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d18"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d19"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d22"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d23"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d24"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d25"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d07"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d23"
+
+  - id: c003
+    label: "Wide-then-narrow scoping with deferred parameters"
+    note: "variants: keep parameters wide initially, gain feel for the literature, then tighten; include all study designs initially"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d02"
+      - "arksey-omalley-2005-scoping-studies/whole/d03"
+      - "arksey-omalley-2005-scoping-studies/whole/d05"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d09"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d10"
+
+  - id: c004
+    label: "Avoid duplicating existing reviews"
+    note: "variants: check existing reviews and registers before launching"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d11"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d12"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d20"
+
+  - id: c005
+    label: "Audience-driven scope and framing"
+    note: "variants: shape question and presentation to the intended audience(s)"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d15"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d16"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d17"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d26"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d28"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d01"
+
+  - id: c006
+    label: "Concept-mapping and logic-model scoping"
+    note: "variants: use mapping/logic-model/concept-analysis techniques to characterise scope"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d05"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d34"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d37"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d38"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d40"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d41"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d42"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d07"
+
+  - id: c007
+    label: "Manage multi-question / lump-or-split decisions"
+    note: "variants: decide whether to lump or split, narrow when literature too large, prioritise sub-questions"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d29"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d52"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d53"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d54"
+
+  - id: c008
+    label: "Complex-intervention description (TIDieR / process)"
+    note: "variants: describe the intervention precisely; supplement via process evaluations"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d31"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d32"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d33"
+
+  - id: c009
+    label: "Distinguish foreground vs background questions"
+    note: "singleton: keep background concerns from hijacking the review"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d01"
+
+  - id: c010
+    label: "Don't-bias outcomes by anticipating only welcome ones"
+    note: "singleton: include unexpected/negative outcomes during scope definition"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d20"
+
+  - id: c011
+    label: "Match search facets to essential PICOS terms only"
+    note: "singleton: retrieve essential facets, defer the rest to screening"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d21"
+
+  - id: c012
+    label: "Mixed-methods for complex systems"
+    note: "singleton: combine qual and quant for complex systems"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d30"
+
+  - id: c013
+    label: "Don't conflate complexity of intervention with review perspective"
+    note: "singleton: a complex intervention does not require a complex review"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d27"
+
+  - id: c014
+    label: "Systematise selectively when full SR not feasible"
+    note: "singleton: systematise stages where it strengthens credibility"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d35"
+
+  - id: c015
+    label: "Sampling-approach declaration"
+    note: "variants: declare sampling approach (comprehensive / theoretical / pivotal) explicitly; justify non-comprehensive sampling"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d43"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d09"
+
+  # ============================================================
+  # PROTOCOL / PLANNING / DOCUMENTATION
+  # ============================================================
+  - id: c016
+    label: "Write a review protocol up front"
+    note: "variants: same protocol — pre-register the review plan in a structured protocol document"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d04"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d46"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d47"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d48"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d49"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d50"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d08"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d32"
+
+  - id: c017
+    label: "Manage scope changes via a 'changes clause'"
+    note: "variants: track and document protocol amendments"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d45"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d51"
+
+  - id: c018
+    label: "Re-anchor to original scope/question throughout"
+    note: "variants: avoid scope creep; periodically re-align with the original question"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d44"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d55"
+
+  - id: c019
+    label: "Keep a process audit trail"
+    note: "variants: document every step (including search-strategy explanation) so the work can be replicated and defended"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d01"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d07"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d09"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d25"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d58"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d68"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d03"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d11"
+
+  - id: c020
+    label: "CART criteria over comprehensiveness"
+    note: "singleton: hold the review to Clarity/Auditability/Replicability/Transparency"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d06"
+
+  # ============================================================
+  # SEARCH STRATEGY / EXECUTION
+  # ============================================================
+  - id: c021
+    label: "Multi-source / supplementary searching"
+    note: "variants: combine databases with reference lists, hand-search, key authors, grey literature, organisations"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d06"
+      - "arksey-omalley-2005-scoping-studies/whole/d10"
+      - "arksey-omalley-2005-scoping-studies/whole/d11"
+      - "arksey-omalley-2005-scoping-studies/whole/d12"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d10"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d28"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d29"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d50"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d51"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d52"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d53"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d54"
+
+  - id: c022
+    label: "Pilot then expand the search strategy"
+    note: "variants: pilot one database, refine, then propagate"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d08"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d24"
+
+  - id: c023
+    label: "Engage a search/information specialist (or escalate to one)"
+    note: "variants: same protocol — recommend or use an expert when designing sensitive searches"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d09"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d04"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d14"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d15"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d16"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d17"
+
+  - id: c024
+    label: "Recruit subject experts to validate searches"
+    note: "singleton: enlist topic experts when prior knowledge is thin"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d18"
+
+  - id: c025
+    label: "Eight-stage search-process scaffold"
+    note: "singleton: follow the eight stages of search work"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d03"
+
+  - id: c026
+    label: "Define search aims (comprehensive vs sampling)"
+    note: "variants: state up front whether the search is exhaustive or selective and what counts as eligible"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d05"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d06"
+
+  - id: c027
+    label: "Sensitivity vs specificity trade-off"
+    note: "variants: tune search recall vs precision to review type"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d02"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d19"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d23"
+
+  - id: c028
+    label: "Scoping-search before main search"
+    note: "variants: run a scoping/preliminary search to gauge size, find pearls, calibrate scope"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d36"
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d39"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d21"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d22"
+
+  - id: c029
+    label: "Concept/term-list construction"
+    note: "variants: assemble synonym/related-term lists per concept; account for terminology variation"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d26"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d27"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d67"
+
+  - id: c030
+    label: "Boolean / syntax discipline"
+    note: "variants: same family of search-syntax rules — use AND/OR/NOT carefully, escape Boolean words, use proximity, phrases, wildcards, truncation"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d09"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d35"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d36"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d37"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d38"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d42"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d43"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d44"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d45"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d62"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d63"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d64"
+
+  - id: c031
+    label: "Use thesaurus / controlled vocabulary"
+    note: "variants: leverage subject headings and check scope notes; search databases one at a time"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d39"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d40"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d41"
+
+  - id: c032
+    label: "Justify and document search limits (date/language/indexing)"
+    note: "variants: same protocol — apply limits only with rationale, document each, acknowledge bias risk"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d07"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d30"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d31"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d33"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d46"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d47"
+
+  - id: c033
+    label: "Validate search filters"
+    note: "variants: prefer validated filters; conduct an initial search before deciding on filters"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d48"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d66"
+
+  - id: c034
+    label: "Save / record full search strings"
+    note: "variants: keep complete, rerunnable strings with database/platform/date metadata"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d13"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d49"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d59"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d25"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d30"
+
+  - id: c035
+    label: "Iterative search-log keeping"
+    note: "variants: log decisions and counts as the search progresses"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d11"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d12"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d13"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d34"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d60"
+
+  - id: c036
+    label: "Reference-management and de-duplication"
+    note: "variants: export to manager; manual + automated de-dup; account for every reference"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d56"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d57"
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d65"
+
+  - id: c037
+    label: "Do not substitute journal-website search for database search"
+    note: "singleton: hand-searching not a database substitute"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d55"
+
+  - id: c038
+    label: "Iterate and revise search after first runs"
+    note: "singleton: evaluate results, modify, repeat"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d61"
+
+  - id: c039
+    label: "Rapid-review evidence prioritisation"
+    note: "singleton: stepwise — existing SRs first, then high-quality primary"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d13"
+
+  - id: c040
+    label: "Search specialist databases of reviews"
+    note: "singleton: target highest-level evidence first"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d14"
+
+  # ============================================================
+  # STUDY SELECTION / SCREENING
+  # ============================================================
+  - id: c042
+    label: "Develop and apply explicit inclusion/exclusion criteria"
+    note: "variants: same protocol — define criteria (post-hoc for scoping reviews; a priori for SR), apply them transparently"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d14"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d01"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d02"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d44"
+
+  - id: c043
+    label: "Order full text when abstract is ambiguous"
+    note: "variants: do not exclude on abstract alone; screen titles before abstracts"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d16"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d06"
+
+  - id: c044
+    label: "Set a deadline / cutoff for inclusion"
+    note: "singleton: set a stopping point and disclose later-arriving items"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d17"
+
+  - id: c045
+    label: "Document exclusion reasons (per stage)"
+    note: "variants: record one reason at title-abstract; full reasons at full-text; report the latter"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d04"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d05"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d09"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d42"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d27"
+
+  - id: c046
+    label: "Flag uncertain inclusion decisions to user"
+    note: "singleton: surface borderline calls rather than silently deciding"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d41"
+
+  # ============================================================
+  # DATA EXTRACTION / CHARTING
+  # ============================================================
+  - id: c047
+    label: "Pre-specify and pilot the data-extraction form"
+    note: "variants: design and trial extraction templates; iterate before full application"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d18"
+      - "arksey-omalley-2005-scoping-studies/whole/d19"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d12"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d43"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d12"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d14"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d61"
+
+  - id: c048
+    label: "Allow an 'unclassified' bucket in extraction"
+    note: "singleton: keep room for material that doesn't fit current categories"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d13"
+
+  - id: c049
+    label: "Extract context alongside content"
+    note: "variants: keep contextual factors / relationships intact during extraction"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d17"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d22"
+
+  - id: c050
+    label: "Do not over-extract by easy bulk-paste"
+    note: "singleton: keep relevance discipline when extraction is mechanically cheap"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d26"
+
+  # ============================================================
+  # QUALITY ASSESSMENT
+  # ============================================================
+  - id: c051
+    label: "Match QA depth to review type"
+    note: "variants: depth scales with review aims; always do at least preliminary/comprehensive understanding"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d13"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d14"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d24"
+
+  - id: c052
+    label: "Separate intrinsic from extrinsic factors in QA"
+    note: "variants: discard prejudice about author/journal/funder; assess on intrinsic evidence"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d15"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d16"
+
+  - id: c053
+    label: "Diagnose flaws and trace impact"
+    note: "variants: identify each weakness, weigh its impact on the study and on the review"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d17"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d18"
+
+  - id: c054
+    label: "Ask whether the design fits the question"
+    note: "singleton: early QA question — appropriate study design"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d19"
+
+  - id: c055
+    label: "Treat evidence hierarchies with caution"
+    note: "variants: do not impose rigid hierarchies; consider methodological appropriateness instead"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d20"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d23"
+
+  - id: c056
+    label: "Confounder identification check"
+    note: "singleton: ensure confounders are addressed by analysis or stratification"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d21"
+
+  - id: c057
+    label: "Practical vs statistical significance"
+    note: "singleton: separate effect-size meaning from p-value threshold"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d22"
+
+  - id: c058
+    label: "Three QA questions: validity, reliability, generalisability"
+    note: "variants: ask the canonical three for any included study; assess applicability separately"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d23"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d45"
+
+  - id: c059
+    label: "QA reading order: abstract → methods → discussion"
+    note: "singleton: prescribed reading flow during appraisal"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d25"
+
+  - id: c060
+    label: "Use validated QA checklists; don't roll-your-own"
+    note: "variants: prefer validated/widely-used tools; adapt rather than invent; discipline-specific selection"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d26"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d27"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d30"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d31"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d35"
+
+  - id: c061
+    label: "Avoid scoring-based QA / quality labels"
+    note: "variants: don't reduce studies to a quality score or band; if labelling, define criteria explicitly"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d28"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d37"
+
+  - id: c062
+    label: "Treat checklists as guides, report features outside them"
+    note: "singleton: don't let checklists cap reporting"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d29"
+
+  - id: c063
+    label: "Qualitative QA: 'risk to rigour' approach"
+    note: "variants: use rigour-focused qualitative tools; support quality-based exclusions explicitly; sensitivity-analyse poor studies"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d32"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d33"
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d34"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d18"
+
+  - id: c064
+    label: "Sensitivity analysis on study quality"
+    note: "singleton: test whether conclusions change when poor studies omitted"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d38"
+
+  - id: c065
+    label: "Treat AI-side QA judgements as drafts; surface uncertainty"
+    note: "singleton: invite the user / second reviewer to adjudicate uncertain calls"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d39"
+
+  - id: c066
+    label: "Assess only what is reported in the study"
+    note: "singleton: don't infer beyond the report; pursue authors only when needed"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d40"
+
+  - id: c067
+    label: "Discussion: name flaws but also strengths"
+    note: "singleton: balance critique of included studies"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d36"
+
+  # ============================================================
+  # SYNTHESIS
+  # ============================================================
+  - id: c068
+    label: "Don't merely summarise — apply a common analytic frame"
+    note: "variants: descriptive-analytical synthesis; juxtapose findings to make a new whole; don't list summaries"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d20"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d04"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d06"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d28"
+
+  - id: c069
+    label: "Aggregation vs interpretation balance"
+    note: "variants: balance grouping evidence with making sense of it; consider the unit of focus"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d01"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d02"
+
+  - id: c070
+    label: "Include meta-method analysis (method differences explain finding differences)"
+    note: "singleton: track how method choice shapes findings"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d05"
+
+  - id: c071
+    label: "Don't aggregate weight of evidence in scoping studies"
+    note: "singleton: scoping reviews don't weight evidence"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d21"
+
+  - id: c072
+    label: "Plan synthesis but stay flexible"
+    note: "variants: have a plan; switch when patterns emerge; map similarity with exclusive categories"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d19"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d20"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d21"
+
+  - id: c073
+    label: "Re-read original findings during synthesis"
+    note: "variants: continually compare emerging concepts back to the original text"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d15"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d16"
+
+  - id: c074
+    label: "Actively seek disconfirming / divergent cases"
+    note: "variants: same protocol — hunt outliers, negative cases, dissonance, contradictions to guard against premature closure"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d24"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d27"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d32"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d38"
+
+  - id: c075
+    label: "Surface counter-arguments to your line of argument"
+    note: "singleton: make the strongest case against your synthesis explicit"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d28"
+
+  - id: c076
+    label: "Ground theories in the data"
+    note: "variants: keep creativity tethered to evidence; verify themes against primary sources"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d29"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d31"
+
+  - id: c077
+    label: "Revise conclusions as new data lands"
+    note: "singleton: keep conceptual models inclusive of new data"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d30"
+
+  - id: c078
+    label: "Investigate over-/under-representation"
+    note: "variants: probe representativeness, researcher effects, citation patterns, publication bias"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d33"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d34"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d47"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d49"
+
+  - id: c079
+    label: "Don't vote-count; weigh by quality"
+    note: "singleton: rank by quality and look for clusters"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d35"
+
+  - id: c080
+    label: "Surface and explain extreme/unique findings"
+    note: "variants: name outlier sources; propose alternative explanations"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d36"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d52"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d37"
+    related_to:
+      - c074
+
+  - id: c081
+    label: "If-then testing and ruling out spurious relations"
+    note: "variants: probe inferred relationships with conditional tests; consider third-variable explanations"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d39"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d40"
+
+  - id: c082
+    label: "Validate findings on a held-out / adjacent set"
+    note: "singleton: replicate in adjacent literature or split-set test"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d41"
+
+  - id: c083
+    label: "Record underlying theories per study and revisit"
+    note: "singleton: track theoretical underpinnings across the synthesis"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d42"
+
+  - id: c084
+    label: "Stress-test theoretical saturation"
+    note: "singleton: sample from other disciplines/literature types"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d45"
+
+  - id: c085
+    label: "Acknowledge interpretive subjectivity / 'situated, partial, perspectival'"
+    note: "variants: disclose your standpoint; reflexivity statement; explicit limitations of objectivity"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d46"
+      - "arksey-omalley-2005-scoping-studies/whole/d23"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d18"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d19"
+
+  - id: c086
+    label: "Don't equate theme frequency with importance"
+    note: "singleton: themes' citation count is not their weight"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d48"
+
+  - id: c087
+    label: "Avoid attribution to a single variable"
+    note: "singleton: differences may be multi-variable interactions"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d50"
+
+  - id: c088
+    label: "Document and surface synthesis 'hunches'"
+    note: "singleton: make intuitive leaps inspectable"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d53"
+
+  - id: c089
+    label: "Don't auto-defer to disagreement; suggest research to resolve"
+    note: "singleton: stand by reasoning when others disagree without grounds"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d54"
+
+  # ============================================================
+  # REPORTING / WRITE-UP
+  # ============================================================
+  - id: c090
+    label: "Present numerical and thematic mapping"
+    note: "variants: dual-form reporting (counts/maps + themes); consistent template across themes"
+    member_ids:
+      - "arksey-omalley-2005-scoping-studies/whole/d22"
+      - "arksey-omalley-2005-scoping-studies/whole/d24"
+
+  - id: c091
+    label: "Specific, actionable research-gap recommendations"
+    note: "variants: same protocol — never write 'more research is needed'; specify what, where, and how"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d02"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d04"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d39"
+
+  - id: c092
+    label: "Practice/applicability recommendations with context check"
+    note: "singleton: use applicability checklists; consider context"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d03"
+
+  - id: c093
+    label: "State review's contribution type"
+    note: "singleton: name which of theory testing/generation/problem solving/fact finding the review serves"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d05"
+
+  - id: c094
+    label: "Compare to prior reviews — explain differences"
+    note: "singleton: focus on explaining divergence rather than eliminating it"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d08"
+
+  - id: c095
+    label: "Tailor tone to behaviour change goal (start/stop)"
+    note: "singleton: pick narrative tone for desired audience action"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d10"
+
+  - id: c096
+    label: "Test draft against three audience questions"
+    note: "singleton: do I understand it / believe it / care?"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d11"
+
+  - id: c097
+    label: "Audience-specific reporting formats (1:3:25, IMRAD, etc.)"
+    note: "variants: same protocol — pick a layout matched to audience (funders, policy-makers, public, decision-makers)"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d12"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d13"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d14"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d15"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d16"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d17"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d36"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d37"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d38"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d42"
+
+  - id: c098
+    label: "Title with study type"
+    note: "singleton: include study-type subtitle"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d20"
+
+  - id: c099
+    label: "Abstract last; reveal don't tease"
+    note: "variants: write abstract last; state findings briefly"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d21"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d22"
+
+  - id: c100
+    label: "Acknowledge controversy in introduction even-handedly"
+    note: "singleton: characterise both sides fairly"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d24"
+
+  - id: c101
+    label: "PRISMA flow diagram for any review"
+    note: "variants: produce PRISMA-style flow; signal reference→paper→study transitions transparently"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d26"
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d32"
+
+  - id: c102
+    label: "Discussion: locate findings in prior context"
+    note: "singleton: tie back to introduction; frame as Implications-for-Practice/Research"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d29"
+
+  - id: c103
+    label: "Choose a reporting standard via the hierarchy"
+    note: "singleton: walk the reporting-standard decision tree"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d31"
+
+  - id: c104
+    label: "Tables placement and editing discipline"
+    note: "variants: appendices for full extraction; in-body for summaries; edit out filler"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d33"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d57"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d58"
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d59"
+
+  - id: c105
+    label: "Forest-plot orientation/caption checks"
+    note: "singleton: verify direction, caption, point-of-no-effect notation"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d34"
+
+  - id: c106
+    label: "Compile references as you go"
+    note: "singleton: maintain reference list throughout"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d35"
+
+  - id: c107
+    label: "EPICOT+ for research recommendations"
+    note: "singleton: structure future-research recs with EPICOT+"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d40"
+
+  - id: c108
+    label: "Empty-review reporting discipline"
+    note: "singleton: don't smuggle in non-eligible evidence; use the empty review to highlight gaps"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d41"
+
+  - id: c109
+    label: "Limitations: explain consequences, not just list them"
+    note: "singleton: spell out impact of methodological limits on findings"
+    member_ids:
+      - "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d56"
+
+  # ============================================================
+  # PHILOSOPHICAL / HISTORIOGRAPHICAL READING
+  # ============================================================
+  - id: c110
+    label: "Cross-discipline / cross-area methodological transfer"
+    note: "variants: bring tools/considerations from another sub-area when one is stuck"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology/d01"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology/d02"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d04"
+
+  # Hajek's heuristics — many are distinct enough to be singletons or very small clusters
+
+  - id: c111
+    label: "Counterexample search via extreme/edge cases"
+    note: "variants: extreme, near-extreme, self-referential, trial-and-error enumeration"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d01"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d02"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d03"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d05"
+
+  - id: c112
+    label: "Definite/indefinite-description checks"
+    note: "variants: probe uniqueness/existence/indeterminacy under 'the F' / 'a(n) F' / paraphrased forms"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d06"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d07"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d08"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d09"
+
+  - id: c113
+    label: "Arbitrariness as a flaw signal; symmetry-breaking response"
+    note: "variants: arbitrary choice = prima facie problem; respond via symmetry-breaking first"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d10"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d11"
+
+  - id: c114
+    label: "Do the opposite / turn things around"
+    note: "variants: invert quantifiers, dualize, take converse configurations"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d12"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d20"
+
+  - id: c115
+    label: "Continuity reasoning with bidirectional sanity check"
+    note: "variants: small input → small output expected; check the metric; beware unbridled slope"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d13"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d14"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d15"
+
+  - id: c116
+    label: "Outsource philosophy to mathematics, but spell out premises"
+    note: "variants: import maths theorems; identify ancillary philosophical premises in any maths→phil derivation"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d16"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d17"
+
+  - id: c117
+    label: "Degree-mismatch diagnostic for analyses; tollense vs ponens"
+    note: "variants: check analysandum/analysans degree mismatch; consider running argument tollens"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d18"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d19"
+
+  - id: c118
+    label: "Failed analysis as residual heuristic"
+    note: "singleton: a refuted analysis can still guide central cases"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d21"
+
+  - id: c119
+    label: "Replace hard notions with tractable surrogates"
+    note: "variants: probability→frequency; intensional→extensional; hard→easier-to-think-with"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d22"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d23"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d24"
+
+  - id: c120
+    label: "Visualise relationships in diagrams"
+    note: "singleton: render obscure conceptual relationships visually"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d25"
+
+  - id: c121
+    label: "Self-consistency / unwelcome-consequence checks on outputs"
+    note: "singleton: routine consistency audit of philosophical products"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d26"
+
+  - id: c122
+    label: "Prefer middling-generality heuristics"
+    note: "singleton: heuristic-design principle"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d27"
+
+  # ============================================================
+  # HISTORY OF PHILOSOPHY (Normore, Beiser, Skinner)
+  # ============================================================
+  - id: c123
+    label: "Reconstruct the question before paraphrasing the answer"
+    note: "variants: same protocol — recover the problem-context the writer was answering before reconstructing or appraising arguments"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d28"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d01"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d02"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d08"
+
+  - id: c124
+    label: "Internal critique by author's own goals/standards"
+    note: "variants: appraise via internal criteria (validity, evidence sufficiency, achievement of intent)"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d03"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d12"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d13"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d18"
+
+  - id: c125
+    label: "Don't bypass historical scholarship with armchair imagination"
+    note: "variants: required historical context for interpretation; multi-language consultation"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d04"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d05"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d06"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d09"
+
+  - id: c126
+    label: "Charity before critique; intelligibility presumption"
+    note: "variants: same protocol of interpretive charity — seek coherence and unity, accept incoherence only with explanation, presume face-value meaning, prefer making-sense reading; defer criticism until charity has been exhausted; extends Davidsonian charity to historical texts"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d07"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d08"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d04"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d05"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d11"
+      - "davidson-1984-inquiries/conceptual-scheme/d09"
+      - "davidson-1984-inquiries/conceptual-scheme/d10"
+      - "davidson-1984-inquiries/introduction/d04"
+      - "davidson-1984-inquiries/radical-interpretation/d10"
+      - "davidson-1984-inquiries/radical-interpretation/d11"
+      - "davidson-1984-inquiries/radical-interpretation/d12"
+
+  - id: c127
+    label: "Recover author intent and standpoint"
+    note: "variants: identify intentions, illocutionary force, the standpoint of the author"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d10"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d11"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d16"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d27"
+
+  - id: c128
+    label: "Map the text's logical geography"
+    note: "singleton: trace premises, implications, term meanings, sufficiency of evidence, contradictions"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d14"
+
+  - id: c129
+    label: "Synthesis: historical context + internal critique"
+    note: "singleton: combine historical reconstruction with internal appraisal"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d15"
+
+  - id: c130
+    label: "Investigate non-philosophical motives, not just arguments"
+    note: "variants: probe moral/religious/political motives even when reasoning seems intact"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d17"
+
+  - id: c131
+    label: "Specialise rather than attempt the whole"
+    note: "singleton: scope historiographical claims to a figure/period and name the scope"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d12"
+
+  - id: c132
+    label: "Doxology — read past texts with present concerns, marking the move"
+    note: "singleton: contemporary-reading mode of historical texts (forks with c123/c127 strict historicism)"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d13"
+    related_to:
+      - c123
+      - c127
+
+  - id: c133
+    label: "Test understanding by prediction (anthropology of philosophy)"
+    note: "singleton: predict what the figure would say next, then check"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d14"
+
+  - id: c134
+    label: "Exhaust the evidence (regulative ideal)"
+    note: "singleton: actively seek any factor that would change the picture"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d15"
+
+  - id: c135
+    label: "Caution about deliberate-inconsistency reading (Strauss-style)"
+    note: "fork-flagging singleton: usual canons assume coherence; Straussian hermeneutics of suspicion treated as last resort; Stage 5 should mark the fork between trust and suspicion"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d16"
+    related_to:
+      - c126
+
+  - id: c136
+    label: "Test interpretation against all relevant text"
+    note: "singleton: an interpretation incompatible with some of the text is disqualified"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d06"
+
+  - id: c137
+    label: "Explain unfamiliar uses of source's vocabulary"
+    note: "singleton: don't paper over unfamiliar word-use; explicate it"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d07"
+
+  - id: c138
+    label: "Distinguish History of Philosophy from its kin"
+    note: "singleton: don't conflate Doxology, Intellectual History, Anthropology, Cultural History"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d02"
+
+  - id: c139
+    label: "Choose contemporary or contemporaries' questions explicitly"
+    note: "singleton: announce which interpretive register you are operating in"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d03"
+
+  - id: c140
+    label: "Internal-history default for History of Philosophy"
+    note: "singleton: default to philosophical reasons internal to the practice; concede defeasibility"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d01"
+
+  - id: c141
+    label: "Evaluate past reasoning from both perspectives"
+    note: "singleton: compare past reasonableness to present standards"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d09"
+
+  - id: c142
+    label: "Distinguish History of Philosophy from History of Theology by motive"
+    note: "singleton: when grounds for a position were non-philosophical, mark them and pass on"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d10"
+
+  # Skinner's specific historiographical prohibitions
+  - id: c143
+    label: "Discount your own preconceptions when interpreting"
+    note: "singleton: classification through familiar models is unavoidable but must be discounted"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d01"
+
+  - id: c144
+    label: "Mythology of doctrines: don't manufacture a doctrine from fragments"
+    note: "variants: same protocol — don't convert scattered remarks into a doctrine, attribute later doctrines via terminological coincidence, fault writers for not articulating expected doctrines, or extrapolate beliefs they didn't state"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d02"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d03"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d04"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d05"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d09"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d10"
+
+  - id: c145
+    label: "Mythology of unit ideas: don't hypostasise floating doctrines"
+    note: "variants: don't talk of doctrines emerging/persisting independent of agents who used the words; don't stage 'really there' debates"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d06"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d08"
+
+  - id: c146
+    label: "Mythology of prolepsis: don't read history teleologically"
+    note: "variants: don't praise/blame past writers for anticipating us; treat 'awaiting future for meaning' readings as a sign of the prolepsis fallacy"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d07"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d17"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d18"
+
+  - id: c147
+    label: "Mythology of coherence: don't manufacture system where there is none"
+    note: "variants: don't supply a coherence the text lacks; don't reread until coherence appears; don't discount author's intentions to extract a unified message"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d11"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d12"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d13"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d14"
+
+  - id: c148
+    label: "Influence claims: pass three tests before invoking"
+    note: "singleton: B studied A; couldn't have got it elsewhere; couldn't have arrived independently"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d19"
+
+  - id: c149
+    label: "Don't impose familiar paradigm on alien argument"
+    note: "singleton: if it makes the text's features baffling, the paradigm is wrong"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d20"
+
+  - id: c150
+    label: "Don't attribute meanings the agent couldn't have accepted"
+    note: "variants: same family — attribute only what the agent could in principle have intended/recognised; check intention exists before alleging failure"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d21"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d22"
+
+  - id: c151
+    label: "Recognise messiness of thinking; don't over-systematise"
+    note: "singleton: keep room for the actual disorder of thought"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d23"
+
+  - id: c152
+    label: "Check for diachronic semantic change in writer's terms"
+    note: "singleton: a writer's words may have meant different things to them"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d24"
+
+  - id: c153
+    label: "Allow for irony / oblique rhetoric; don't fix on literal sense"
+    note: "singleton: irony, masking, indirection prise apart said and meant"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d25"
+
+  - id: c154
+    label: "Use extra-textual evidence (reception, editorial choices, risks)"
+    note: "singleton: weigh face-value vs sceptical readings using author-context evidence"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d26"
+
+  - id: c155
+    label: "Don't seek essential meaning of an idea across writers"
+    note: "variants: study varying contexts/intentions; don't infer continuity from terminological persistence"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d29"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d30"
+
+  - id: c156
+    label: "Delineate range of conventional possible communications"
+    note: "variants: use the social-linguistic context to bound interpretation; treat context as 'court of appeal' between rival readings"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d31"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d32"
+
+  - id: c157
+    label: "Reject 'perennial problems' justification for studying past texts"
+    note: "variants: justify the history of ideas via revealing variety of viable commitments, not perennial questions"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d33"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d34"
+
+  - id: c158
+    label: "Apparent contradictions: take seriously, don't force resolution"
+    note: "variants: Ockham's razor on contradictions; allow author to have changed mind"
+    member_ids:
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d15"
+      - "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d16"
+
+  # ============================================================
+  # KELLY (DISAGREEMENT EPISTEMOLOGY)
+  # ============================================================
+  - id: c159
+    label: "Empirical-facts-into-disagreement-account procedure"
+    note: "singleton: plug case facts into your account of disagreement to derive a verdict"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d01"
+
+  - id: c160
+    label: "Count peers, weight by independence"
+    note: "variants: same protocol — let numbers count; don't generalise from two-person idealisations; lopsided majorities can license confidence"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d02"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d03"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d06"
+
+  - id: c161
+    label: "Require positive evidence of peerhood, not absence of superiority"
+    note: "singleton: don't treat 'no evidence I'm better' as enough"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d04"
+
+  - id: c162
+    label: "Minimal-reliability proviso for conciliation"
+    note: "singleton: only conciliate where peers are above-chance reliable on the topic"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d05"
+
+  - id: c163
+    label: "Restrict peerhood by surrounding-issue agreement"
+    note: "singleton: someone wrong about surrounding issues isn't a peer on the disputed one"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d07"
+
+  # ============================================================
+  # LIST & VALENTINI (POLITICAL THEORY METHODOLOGY)
+  # ============================================================
+  - id: c164
+    label: "Concept analysis: respect intuitions, justify overrides"
+    note: "singleton: prefer interpretations in line with intuitions; overrule with strong reasons"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d01"
+
+  - id: c165
+    label: "Choose concept interpretation by role-playing fitness"
+    note: "singleton: prefer interpretations that play the intended role"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d02"
+
+  - id: c166
+    label: "Inter-concept relational discipline"
+    note: "singleton: respect entailments and differentiation between connected concepts"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d03"
+
+  - id: c167
+    label: "Defining conditions: not too thick, not too thin"
+    note: "singleton: pick relevant features only"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d04"
+
+  - id: c168
+    label: "Defining conditions: epistemically accessible"
+    note: "singleton: in-principle knowable membership criteria"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d05"
+
+  - id: c169
+    label: "Don't conflate concept with theory or principle"
+    note: "variants: concepts categorise; theories have truth-values; 'true conception' = appropriateness claim"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d06"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d07"
+
+  - id: c170
+    label: "Theory-quality criteria: consistency, closure, axiomatisation, parsimony"
+    note: "variants: foundational requirements on a good theory"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d08"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d09"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d10"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d11"
+
+  - id: c171
+    label: "Reflective equilibrium with cautioned-evidence intuitions"
+    note: "fork-aware variants: iterate theory ↔ judgements; treat strict-evidence method with caution; preserves the contested place of intuitions in political theory"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d12"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d13"
+
+  - id: c172
+    label: "Avoid applied-moral-philosophy method under reasonable pluralism"
+    note: "singleton: don't justify a political theory by deriving it from a comprehensive moral theory"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d14"
+
+  - id: c173
+    label: "Distinguish theory from its supporting arguments/evidence"
+    note: "singleton: don't roll thought experiments / observations into the theory itself"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d15"
+
+  - id: c174
+    label: "Don't downgrade with 'it is only a theory'"
+    note: "singleton: 'theory' is a content-neutral term"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d16"
+
+  - id: c175
+    label: "Idealisations: assess fit-to-purpose, locate by level"
+    note: "variants: don't reject idealisations a priori; distinguish theory/application/justification levels; state assumptions as antecedents"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d17"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d18"
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d19"
+
+  - id: c176
+    label: "Public-justifiability under reasonable pluralism"
+    note: "singleton: principles must be acceptable to reasonable conflicting moral views"
+    member_ids:
+      - "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d20"
+
+  # ============================================================
+  # DAVIDSON (RADICAL INTERPRETATION + CONCEPTUAL SCHEME)
+  # ============================================================
+  - id: c177
+    label: "Reductio: reject premises that strip mind of constitutive features"
+    note: "singleton: argument-form ploy specific to philosophy-of-mind reasoning"
+    member_ids:
+      - "davidson-1984-inquiries/conceptual-scheme/d01"
+
+  - id: c178
+    label: "Don't establish substantive theses by fiat"
+    note: "singleton: derive contested criteria via argument, not stipulation"
+    member_ids:
+      - "davidson-1984-inquiries/conceptual-scheme/d02"
+
+  - id: c179
+    label: "Reject scheme/content dualism and 'organising' talk"
+    note: "variants: don't treat the world as a single thing schemes 'organise'; reject conceptual-relativist 'fits experience' framings"
+    member_ids:
+      - "davidson-1984-inquiries/conceptual-scheme/d03"
+      - "davidson-1984-inquiries/conceptual-scheme/d04"
+      - "davidson-1984-inquiries/introduction/d06"
+
+  - id: c180
+    label: "Joint determination of belief and meaning in interpretation"
+    note: "variants: build belief and meaning together; take 'holding-true' as the basic observable; don't ground interpretation on finely-discriminated attitudes"
+    member_ids:
+      - "davidson-1984-inquiries/conceptual-scheme/d05"
+      - "davidson-1984-inquiries/conceptual-scheme/d06"
+      - "davidson-1984-inquiries/radical-interpretation/d04"
+      - "davidson-1984-inquiries/radical-interpretation/d05"
+
+  - id: c181
+    label: "Reinterpret words rather than attribute implausible beliefs"
+    note: "variants: when face-value reading attributes implausible belief, prefer reinterpretation; first-pass: assign sentence truth-conditions you take to obtain"
+    member_ids:
+      - "davidson-1984-inquiries/conceptual-scheme/d07"
+      - "davidson-1984-inquiries/conceptual-scheme/d08"
+
+  - id: c182
+    label: "Sharpen disagreement by enlarging shared base"
+    note: "singleton: clarify difference-claims by enlarging the translatable/shared region"
+    member_ids:
+      - "davidson-1984-inquiries/conceptual-scheme/d11"
+
+  - id: c183
+    label: "Two joint conditions on a meaning-theory"
+    note: "singleton: must interpret all utterances and be verifiable without prior attitudinal knowledge"
+    member_ids:
+      - "davidson-1984-inquiries/introduction/d01"
+
+  - id: c184
+    label: "Finite-vocabulary compositional constraint"
+    note: "singleton: explain infinite sentence-meaning via finite vocabulary"
+    member_ids:
+      - "davidson-1984-inquiries/introduction/d02"
+
+  - id: c185
+    label: "Truth-theoretic axioms as laws (counterfactual support)"
+    note: "singleton: theorems must support counterfactuals when used empirically"
+    member_ids:
+      - "davidson-1984-inquiries/introduction/d03"
+
+  - id: c186
+    label: "Don't posit metaphorical meanings"
+    note: "singleton: explain metaphor with literal meanings"
+    member_ids:
+      - "davidson-1984-inquiries/introduction/d05"
+
+  - id: c187
+    label: "Distinguish grammatical mood from illocutionary force"
+    note: "singleton: theory of meaning handles mood; force is outside its scope"
+    member_ids:
+      - "davidson-1984-inquiries/introduction/d07"
+
+  - id: c188
+    label: "Cite evidence for interpretation that doesn't presuppose interpretation"
+    note: "singleton: in radical-interpretation, don't appeal to meaning/synonymy as evidence"
+    member_ids:
+      - "davidson-1984-inquiries/radical-interpretation/d03"
+
+  - id: c189
+    label: "Acknowledge belief-meaning indeterminacy when citing single evidence"
+    note: "singleton: cite a T-sentence only with the broader scheme it sits in; flag remaining indeterminacy"
+    member_ids:
+      - "davidson-1984-inquiries/radical-interpretation/d15"
+
