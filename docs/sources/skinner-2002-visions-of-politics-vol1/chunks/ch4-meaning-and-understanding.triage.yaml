@@ -1,0 +1,141 @@
+chunk_id: skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding
+source: skinner-2002-visions-of-politics-vol1
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d01"
+    decision: keep
+    reason: "AI can flag its interpretive preconceptions when reading a text in writing — directly executable as a synthesis-time disclosure."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d02"
+    decision: keep
+    reason: "AI can refrain from inflating scattered remarks into 'doctrines' when summarizing or paraphrasing a writer."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d03"
+    decision: keep
+    reason: "AI can check whether the conceptual vocabulary of an attributed doctrine was available to the writer before crediting them with it."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d04"
+    decision: keep
+    reason: "AI can ground denials of attribution in conceptual unavailability rather than mere textual rereading when writing about attributions."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d05"
+    decision: keep
+    reason: "AI can pose this diagnostic question in writing when evaluating doctrines reconstructed from hints rather than explicit statement."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d06"
+    decision: keep
+    reason: "AI can avoid hypostasising-doctrine language and write in terms of agents using words — a stylistic-and-substantive move executable in prose."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d07"
+    decision: keep
+    reason: "AI can refuse to frame past writers as 'anticipating' later doctrines or to grade them by closeness to present views."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d08"
+    decision: keep
+    reason: "AI can refuse to engage 'really emerged' / 'really there' debates and reframe such questions when raised in conversation."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d09"
+    decision: keep
+    reason: "AI can decline to fault past writers for omissions on themes the interpreter expects but the writer did not address."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d10"
+    decision: keep
+    reason: "AI can refuse counterfactual ascriptions of the form 'X would have thought Y about topic Z they never addressed'."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d11"
+    decision: keep
+    reason: "AI can avoid the a priori assumption that any text constitutes its author's most systematic statement when assessing it."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d12"
+    decision: keep
+    reason: "AI can refrain from imposing coherence on texts that lack it — an editorial discipline executable in writing."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d13"
+    decision: keep
+    reason: "AI can resist iterative-rereading-until-coherent reasoning loops and report apparent incoherence honestly instead."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d14"
+    decision: keep
+    reason: "AI can refuse to discount an author's stated intentions or whole works for the sake of interpretive unity."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d15"
+    decision: keep
+    reason: "AI can apply Ockham's razor and report apparent contradictions as possibly real ones rather than papering over them."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d16"
+    decision: keep
+    reason: "AI can acknowledge author development across works and avoid forced unifying schemes when paraphrasing."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d17"
+    decision: keep
+    reason: "AI can distinguish retrospective significance from agent-meaning when writing about a text's importance."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d18"
+    decision: keep
+    reason: "AI can apply the 'awaits-the-future-for-its-meaning' diagnostic to flag and reject teleological readings."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d19"
+    decision: keep
+    reason: "AI can apply Skinner's three-condition test before invoking 'influence' — a checklist executable in research writing."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d20"
+    decision: keep
+    reason: "AI can treat baffling-fit between a familiar paradigm and a text as evidence the paradigm is wrong, and switch frames."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d21"
+    decision: keep
+    reason: "AI can constrain ascribed meanings to descriptions the agent could in principle have accepted — a writable interpretive constraint."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d22"
+    decision: keep
+    reason: "AI can check intention-availability before claiming a writer 'failed' at any task."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d23"
+    decision: keep
+    reason: "AI can preserve marks of struggle and disorder in a writer's thinking rather than smoothing them into false system."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d24"
+    decision: keep
+    reason: "AI can check term-meaning shifts over time when interpreting historical vocabulary — a research-and-citation move."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d25"
+    decision: keep
+    reason: "AI can flag possible irony or oblique rhetoric and refuse to assume literal sense exhausts meaning."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d26"
+    decision: keep
+    reason: "AI can bring contemporary reception, editorial choices, and authorial risk into interpretive judgments — bibliographic synthesis."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d27"
+    decision: keep
+    reason: "AI can attend to illocutionary force — what a writer is doing in saying something — when paraphrasing or analysing."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d28"
+    decision: keep
+    reason: "AI can reconstruct the question a doctrine answers before critiquing the doctrine — already a listed exemplar KEEP move."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d29"
+    decision: keep
+    reason: "AI can replace 'essential meaning' framing with histories of varying uses and intentions when discussing ideas."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d30"
+    decision: keep
+    reason: "AI can avoid inferring continuity of question from continuity of expression and check questions per context."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d31"
+    decision: keep
+    reason: "AI can sketch the conventional range of communications available on a given occasion before decoding intent — a procedural research move."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d32"
+    decision: keep
+    reason: "AI can use social context as a tiebreaker between rival interpretations in writing — adjudicative move executable in prose."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d33"
+    decision: keep
+    reason: "AI can decline to justify study of a text by appeal to 'perennial problems' and offer a different rationale instead."
+    adapted_directive: null
+  - id: "skinner-2002-visions-of-politics-vol1/ch4-meaning-and-understanding/d34"
+    decision: keep
+    reason: "AI can frame the value of historical ideas as exposing variety and contingency rather than essential sameness."
+    adapted_directive: null

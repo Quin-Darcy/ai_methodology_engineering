@@ -1,0 +1,77 @@
+chunk_id: cavell-1979-claim-of-reason/ch13b-feelings-and-confinement
+source: cavell-1979-claim-of-reason
+title: Feelings, the Outsider, confinement and exposure
+pages: "408-436 (book)"
+components: ["exp"]
+extracted_at: "2026-05-11T00:21:49Z"
+model: "claude-opus-4-7[1m]"
+directives:
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d01"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 412"
+    directive: "Do not try to settle whether something humanlike is a human being by devising ever-subtler tests of its inside or outside; recognize that whatever can be specified as a test of automatonity can be built in to fail."
+    trigger: "When tempted to settle a question of humanity (sentience, soul, mindedness) by specifying a feature whose presence or absence would decide the case."
+    qualification: "Criteria coming to an end is not a counsel of despair: the chunk uses it to reject the opening-up strategy and to redirect the inquiry from criteria to acknowledgment."
+    evidence: "'Whatever test he can impose upon the friend to show its failure of humankindness — the placement of a micro-mechanism; a mismatch of emotional reaction; the fact that it can be starved for forty days without weight loss; its ability to run a four minute mile, mile after mile — any of this can be corrected (or hidden?) by a super-craftsman, perhaps by this craftsman next year, in the normal course of technological progress. Whatever can be specified, as a test of automatonity, can be built in to fail. Criteria come to an end.' (p. 412)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d02"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 413"
+    directive: "Do not adopt the rule 'treat every putative human as a human being' as a way of disposing of the worry about non-humans; standing perpetually prepared for amazement seals out humanity rather than securing it."
+    trigger: "When tempted by Polonius-style advice that one can answer skepticism about other minds by resolving always to project humanity (a 'Sterling Rule')."
+    qualification: "The objection is not that the rule is too demanding ('It isn't that I could not live down to it') but that 'it is the advice I would expect of a perfected automaton'; and that being prepared at all times for amazement is the same as never being prepared for humanity."
+    evidence: "'His advice is: Treat every putative human as a human being. Conquer your preparation for amazement. Get their human aspect to dawn on you, so that you see them as humans. … Why is this advice chilling? It isn't that I could not live down to it. But it is the advice I would expect of a perfected automaton. … If I am prepared, at any and all times, for amazement, then at any and all times I am not prepared for humanity. My attitude toward no one is my attitude toward a soul.' (pp. 413)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d03"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 415"
+    directive: "When diagnosing the unnaturalness of a philosophical position (e.g., the interlocutor's 'But there is something there all the same accompanying my cry of pain'), bring out its comedy as part of bringing out its madness — treat the perception of the comedy as the same act as the detection of the madness."
+    trigger: "When treating an interlocutor's metaphysical insistence in ordinary-language-philosophy style, where the diagnostic aim is to expose unnaturalness."
+    qualification: "The absence of laughter is not by itself a sign of the natural ('the absence may result from a corrupted sensibility'); the natural is rather what laughter at its best is able to perceive and to achieve."
+    evidence: "'My treatment of the interlocutor's \"But there is something there all the same accompanying my cry of pain\" was, I hope evidently, intended to bring out the comedy as well as the madness of it. And thereby to suggest that the perception of the comedy is essential to, is the same as, the detection of the madness. You could say that laughter in these matters is the touchstone of the unnatural, where unnatural is the opposite of that naturalness in language the ordinary language philosopher reckons with. … the natural is what, at best, laughter is able to perceive and to achieve.' (p. 415)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d04"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, pp. 420-426"
+    directive: "When a skepticism about one domain (e.g., other minds) is alleged to be parallel to a skepticism about another (e.g., the external world), construct the second skepticism in the parallel form of the first — incorporating its 'best case', its public confrontation, its singling-out of a generic instance — and let the points where the recitals come apart show what is really at stake."
+    trigger: "When trying to assess whether a putative skepticism is reasonable in the way a paradigm skepticism is, or to locate the structural feature that makes the skepticisms diverge."
+    qualification: "Such a recital may not produce a 'best case'; the inconclusiveness is itself diagnostic ('we have found some structure in its very inconclusiveness')."
+    evidence: "'Let us set up a context for knowing others that has at least the realism of the skeptic's context for knowing material objects, and one that attempts to incorporate at least certain features of the skeptic's \"best case\" for knowing objects, a feature we take to be essential to the skeptical result. … And let us, further, incorporate the feature of the recital in which we confront the object in question, and the feature of our announcing this confrontation publicly.' (p. 420). … 'But now if these are the questions left unsettled by the skeptical recital, then we have found some structure in its very inconclusiveness.' (p. 429)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d05"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 428"
+    directive: "Do not let knowledge of another stand without expression: acknowledgment goes beyond knowledge in the call upon you to express what you know — to recognize it, to do something in the light of it — apart from which the knowledge remains without expression, hence perhaps without possession."
+    trigger: "When you have come to know something about another (her pain, his situation) and the question is whether your relation to that knowledge is complete in the cognitive feat alone."
+    qualification: "Acknowledgment does not go beyond knowledge 'in the order, or as a feat, of cognition'; the call is to expression, not to a further inner act of knowing."
+    evidence: "'In \"Knowing and Acknowledging\" I said that acknowledgment \"goes beyond\" knowledge, not in the order, or as a feat, of cognition, but in the call upon me to express the knowledge at its core, to recognize what I know, to do something in the light of it, apart from which this knowledge remains without expression, hence perhaps without possession. To avoid acknowledgment by refusing this call upon me would create \"the sense of the sense it makes to say that I cannot step outside\" (\"go beyond\") my feat of cognition.' (p. 428)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d06"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 428"
+    directive: "When acknowledging another, recognize the other's specific relation to yourself, and let that recognition entail the revelation of yourself as having denied or distorted that relation."
+    trigger: "When acknowledgment of another (rather than mere knowledge of her) is at stake — paradigmatically in cases like Lear's of Cordelia."
+    qualification: "Refusing this call generates the sense that 'others can[not] step outside their confinement from me' — which Cavell glosses as 'my interpretation of my banishment of them.'"
+    evidence: "'In \"The Avoidance of Love\" I said that acknowledgment of another calls for recognition of the other's specific relation to oneself, and that this entails the revelation of oneself as having denied or distorted that relation. King Lear figures this denial in images of blindness and banishment.' (p. 428)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d07"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 434"
+    directive: "When acknowledging another in a relational role (neighbor, teacher, sibling, countryman, employer, tenant), acknowledge yourself reciprocally in the corresponding role; the acknowledgment does not consist in the role-name alone but in your own occupation of its complement."
+    trigger: "When the relation in question is a station-relation (neighborhood, kinship, tenancy, friendship, employment, citizenship)."
+    qualification: "These role-acknowledgments may be partial or wrongly worded without thereby constituting a failure of humanity ('perhaps they are using the wrong words for their relationship')."
+    evidence: "'If one is to acknowledge another as one's neighbor, one must acknowledge oneself as his or her neighbor. … One acknowledges one's teacher by acknowledging oneself as his or her student … Similarly in the cases of acknowledging another as my sibling or countryman or comrade or friend or employer or tenant. There is room for me in which to acknowledge myself as their sibling or countryman or comrade or friend or employee or landlord.' (p. 434)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d08"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 435"
+    directive: "Do not treat the call to acknowledge another as a duty among duties; acknowledgment is not dischargeable — it is something you will, or will not, see and live with."
+    trigger: "When framing the moral pull of another's existence in terms of duties owed to persons in general."
+    qualification: "The point is not that the language of duty is wrong but that it understates the case: 'that I have such duties is not itself a dischargeable duty; it is something I will, or will not, live with.' Loving and hating others, equally, do not discharge these duties."
+    evidence: "'Duties are dischargeable. The surmise of which I speak is of an acknowledgment that is not dischargeable; it is something I will, or will not, see, and live with. The surmise is not that I ought to see, and live with, others as human beings; it is that I sometimes do so see them, and therefore, mostly do not.' (p. 435)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d09"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 436"
+    directive: "Do not approach a particular other as an exemplar of humanity rather than as an instance of it; using a person to exhibit what humanity is, rather than meeting her as one of its instances, fails to acknowledge her."
+    trigger: "When tempted (as Lear is with Edgar) to take an encountered person as 'my philosopher' — an occasion for inquiry into humanity as such — rather than as someone whose claim on you is in this encounter."
+    qualification: "The exemplar-treatment may prepare one for later acknowledgments (Lear's of Gloucester and Cordelia, 'at least in passing'); the failure is in the present act, not in the long arc."
+    evidence: "'He takes him into the shelter not to shelter him but to philosophize with him, or rather upon him; he sees him as an exemplar of humanity, rather than as an instance of it. In particular, he does not acknowledge him — though this encounter prepares him for his acknowledgment later, in succession, of Gloucester and of Cordelia, at least in passing. He merely knows what the other is, that the creature has humanity.' (p. 436)"
+
+  - id: "cavell-1979-claim-of-reason/ch13b-feelings-and-confinement/d10"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 436"
+    directive: "When acknowledging another as an outcast, acknowledge yourself as one who casts out — recognize that the position from which you encounter the outcast is itself implicated in the casting-out."
+    trigger: "When the other you are confronting is an outcast (someone bare, laid bare, undefined by social station)."
+    qualification: "The alternative — to acknowledge the outcast simply as semblable — would mean casting yourself out; both possibilities are real, and Lear is 'so far prepared for neither action.' The directive registers the structure of the choice, not a mandate of one path."
+    evidence: "'Why is it this creature in whom the King first glimpses the human as such? Such a creature exemplifies the restriction of society, that there is that in the human creature which is undefined by social station, or by any property; he is bare, laid bare. Call him an outcast. Then for the King, as he stood, to have acknowledged him would have meant acknowledging himself as one who casts out. For him to have acknowledged him simply as another, a semblable, would have meant casting himself out. Lear is so far prepared for neither action.' (p. 436)"

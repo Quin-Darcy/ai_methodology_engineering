@@ -1,0 +1,32 @@
+chunk_id: bohm-1996-on-dialogue/ch5-observer-observed
+source: bohm-1996-on-dialogue
+title: The Observer and the Observed
+pages: "69-71 (book)"
+components: ["exp"]
+extracted_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+directives:
+  - id: "bohm-1996-on-dialogue/ch5-observer-observed/d01"
+    source: "Bohm 1996, On Dialogue ch. 5, p. 70"
+    directive: "When introspecting, do not look at yourself inwardly without also looking at the assumptions doing the looking."
+    trigger: "When attempting to observe one's own mind, thoughts, or emotions."
+    qualification: "If you fail to do this the picture will be wrong, because the assumptions are themselves the observer; this is identified as 'a common problem of introspection.'"
+    evidence: "p. 70: 'That is a common problem of introspection. You say, \"I am going to look at myself inwardly,\" but the assumptions are not looked at — the assumptions are looking.'"
+  - id: "bohm-1996-on-dialogue/ch5-observer-observed/d02"
+    source: "Bohm 1996, On Dialogue ch. 5, p. 70"
+    directive: "Put the observer and the observed together — put the assumptions together with the emotions — when looking inwardly."
+    trigger: "When looking at one's own emotions or thoughts (as opposed to looking at an external object like a chair)."
+    qualification: "If you don't put the two together, 'the whole thing will be wrong'; in such cases the observer is the observed, the distinction cannot be maintained."
+    evidence: "p. 70: 'If you don't put the two together, the observer and the observed — if you don't put the assumptions together with the emotions — then the whole thing will be wrong.'"
+  - id: "bohm-1996-on-dialogue/ch5-observer-observed/d03"
+    source: "Bohm 1996, On Dialogue ch. 5, p. 70"
+    directive: "When observing another person or society, treat what you see as depending on your assumptions and account for the emotional reaction the other elicits in you."
+    trigger: "When observing another person or society (as distinct from observing an inert object like a chair across the room)."
+    qualification: "Unlike observing a chair — where what's going on in you is not much affected by it — observing persons or society makes the observer-observed distinction collapse, because their reactions enter you and affect the way you see."
+    evidence: "p. 70: 'Similarly, when looking at society or looking at another person, what you see depends on your assumptions, and you will get an emotional reaction from that person which enters you and affects the way you see.'"
+  - id: "bohm-1996-on-dialogue/ch5-observer-observed/d04"
+    source: "Bohm 1996, On Dialogue ch. 5, p. 71"
+    directive: "When you begin to doubt a belief, check whether the very questions you are asking already contain the presupposition that should be doubted."
+    trigger: "When trying to reason about, doubt, or question a belief."
+    qualification: "Very often the first questions you ask will contain the presupposition that should be doubted; you may question one belief through what amounts to another belief."
+    evidence: "p. 71: 'You may look at this and try to reason and see what is wrong. You begin to doubt, saying, \"Whatever is behind this is doubtful.\" But very often, the first questions you ask will contain the very presupposition that should be doubted. As an example, I may question some belief, but I may question it through what amounts to another belief.'"

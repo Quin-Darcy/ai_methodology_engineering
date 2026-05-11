@@ -1,0 +1,214 @@
+chunk_id: booth-sutton-2022-systematic-approaches/ch10-writing-prisma
+source: booth-sutton-2022-systematic-approaches
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d01"
+    decision: keep
+    reason: "AI can identify the user's primary audience and shape its written synthesis accordingly."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d02"
+    decision: keep
+    reason: "Anti-vagueness writing rule the AI can enforce when producing recommendations."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d03"
+    decision: keep
+    reason: "AI can apply named applicability/transferability checklists when drafting practice recommendations."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d04"
+    decision: keep
+    reason: "Specificity-of-gaps rule applies directly to AI-authored research-gap sections."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d05"
+    decision: keep
+    reason: "AI can label which of the four contribution types its synthesis is making."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d06"
+    decision: keep
+    reason: "AI can hold its own synthesis to the CART criteria when self-checking."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d07"
+    decision: keep
+    reason: "AI can document its own search/selection/interpretation steps as an explicit audit trail."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d08"
+    decision: keep
+    reason: "AI can compare its synthesis with prior reviews and explain differences in writing."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d09"
+    decision: keep
+    reason: "Anti-name-check rule: AI describes procedures actually performed, not just cites the manual."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d10"
+    decision: keep
+    reason: "Tone selection (start-starting etc.) is a writing move the AI can perform."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d11"
+    decision: keep
+    reason: "AI can self-test a draft against the three understand/believe/care questions."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d12"
+    decision: keep
+    reason: "Two-box funder summary structure is directly producible in writing by the AI."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d13"
+    decision: keep
+    reason: "AI can address external-validity limitations explicitly when writing for policy audiences."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d14"
+    decision: keep
+    reason: "Decision-support framing rule the AI can apply when drafting for decision-makers."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d15"
+    decision: keep
+    reason: "Breadth-of-framing choice is a writing-time decision the AI can act on."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d16"
+    decision: keep
+    reason: "AI can structure output as graded-entry / 1:3:25 instead of IMRAD when audience warrants."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d17"
+    decision: keep
+    reason: "Framing rule for public-facing synthesis the AI can apply directly."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d18"
+    decision: keep
+    reason: "AI can author a reflexivity statement of the specified length and placement."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d19"
+    decision: keep
+    reason: "AI can author bias-disclosure that includes non-financial sources rather than financial-only."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d20"
+    decision: keep
+    reason: "Title-formatting rule directly applicable when AI drafts review titles."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d21"
+    decision: keep
+    reason: "AI can defer abstract drafting until the body is finalized."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d22"
+    decision: keep
+    reason: "Anti-tease abstract rule the AI can enforce when writing summaries."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d23"
+    decision: keep
+    reason: "AI can frame review questions in PICOS/SPICE/PICOC form when writing introductions."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d24"
+    decision: keep
+    reason: "Even-handed-controversy rule is a writing move the AI can execute."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d25"
+    decision: keep
+    reason: "AI can document searches in reproducible detail when writing the Methods section."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d26"
+    decision: keep
+    reason: "AI can produce textual or diagrammatic PRISMA flow content for any review type."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d27"
+    decision: keep
+    reason: "AI can list near-miss exclusions with reasons in the Results section."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d28"
+    decision: keep
+    reason: "Comparative-discussion rule the AI executes when authoring Discussion sections."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d29"
+    decision: keep
+    reason: "AI can frame closings as Implications-for-Practice / -Research and tie back to the Introduction."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d30"
+    decision: keep
+    reason: "AI can include full search strings verbatim in an appendix when producing a review."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d31"
+    decision: keep
+    reason: "AI can walk the reporting-standard hierarchy when selecting which checklist to follow."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d32"
+    decision: keep
+    reason: "AI can label transitions between reference/paper/study counts in flow reporting."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d33"
+    decision: keep
+    reason: "AI can place full extraction tables in appendix and summary tables inline by the threshold."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d34"
+    decision: keep
+    reason: "AI can check forest-plot orientation, caption, and null-effect notation when describing or relabelling."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d35"
+    decision: keep
+    reason: "AI can maintain references incrementally as items are introduced in the synthesis."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d36"
+    decision: keep
+    reason: "Visual-focus advice translates to AI's choice of textual examples and described visuals."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d37"
+    decision: keep
+    reason: "Anti-overclaim rule on practical-importance summaries the AI can enforce."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d38"
+    decision: keep
+    reason: "Inverted-pyramid executive-summary structure is a writing move the AI performs directly."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d39"
+    decision: keep
+    reason: "Specific-questions + research-designs framing is a draftable section the AI can produce."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d40"
+    decision: keep
+    reason: "AI can structure research recommendations using the EPICOT+ template when authoring."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d41"
+    decision: keep
+    reason: "Anti-fabrication rule for empty reviews — directly aligned with AI's no-fabrication norm."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch10-writing-prisma/d42"
+    decision: keep
+    reason: "AI can tailor described dissemination formats to the user's stated audience."
+    adapted_directive: null

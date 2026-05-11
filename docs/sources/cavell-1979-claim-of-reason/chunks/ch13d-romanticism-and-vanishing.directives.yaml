@@ -1,0 +1,77 @@
+chunk_id: cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing
+source: cavell-1979-claim-of-reason
+title: Romanticism, narcissism, vanishing of the human
+pages: "463-496 (book)"
+components: ["exp"]
+extracted_at: "2026-05-11T00:21:40Z"
+model: "claude-opus-4-7[1m]"
+directives:
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d01"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, pp. 466-467"
+    directive: "Recognize Rousseau's Essay on the Origin of Languages and the companion Discourse on Inequality as studies of the problem of others — and consider the level of Rousseau's answer (the savage's fright as the basis of the knowledge of the existence of others) as a datum in the problem of other minds."
+    trigger: "When situating texts in the history or philosophy of the problem of other minds, especially when looking for the moment at which 'the other' becomes a problem."
+    qualification: "Cavell does not ask that Rousseau's answer be accepted, only that the level of the answer be considered as a datum; he himself is 'in a position merely to rummage among such texts, not to possess them.'"
+    evidence: "'I ask merely that the level of Rousseau's answer be considered as a datum in the problem of other minds, indeed that the Essay on the Origin of Languages, and the companion Discourse on Inequality, be recognized as studies of the problem of others.' (p. 467)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d02"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, pp. 468-469"
+    directive: "When recounting the history of skepticism with respect to other minds, determine what that history must contain only from within the life or perspective of that skepticism itself — as a discovery of its own problems and of the shapes taken in its solutions to them."
+    trigger: "When attempting a historical or genealogical account of skepticism (active or passive) about other minds."
+    qualification: "This presupposes that skepticism with respect to others 'is lived and has a history'; the directive applies only if that premise is accepted."
+    evidence: "'If it is true, if the idea is sound, that skepticism with respect to others, in both its active and its passive forms, is lived and has a history, then what that history contains, what it must recount, can only be determined from within the life, or perspective, of that skepticism itself, as a discovery of its own problems and of the shapes taken in its solutions to its problems.' (pp. 468-469)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d03"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 476 (citing Nietzsche, Zarathustra)"
+    directive: "If your practices require the separate consent of those who suffer from them, consider that the thing you read as affirmation may itself be produced by the suffering."
+    trigger: "When inferring consent or affirmation from the gestures of someone subject to your practices of judgment, punishment, sacrifice, or comparable infliction."
+    qualification: "Drawn from Nietzsche's gloss on the 'pale criminal'; Cavell endorses it as a comment on Hegel's claim that punishment is the criminal's reconciliation with himself."
+    evidence: "'If your practices require the separate consent of those who suffer from them, then you must consider that the thing you read as affirmation (the nodding) is itself produced by the suffering (perhaps a lowering of the head, which may mean defeat or may signal attack).' (p. 476)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d04"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, pp. 480-481"
+    directive: "Do not gloss over the change in the location of Shylock's pound of flesh — from 'in which part of your body pleaseth me' to 'nearest the merchant's heart' — by presuming the change must have been silently stipulated when the bond was prepared; let the confusion of identities and the horrified wonder remain part of the experience of the play."
+    trigger: "When reading or editing a passage in which an editorial gloss tidies up an inconsistency that itself carries the dramatic or psychological weight of the scene."
+    qualification: "Cavell concedes the ambiguity of 'nearest the merchant's heart' may not require reading 'the merchant' as Shylock; he asks that the spiritual passage be conceived as one in which it is not known — especially in which Shylock does not know — what is being asked."
+    evidence: "'I do not insist that Shylock's proof — his better instruction — that Antonio is his semblable was (and psychically remains) to carve Antonio into a Jew … I insist merely that the question rouses our horrified wonder that a pound, wherever it be cut from, would result in so complete a disfigurement, amounting to metamorphosis; and that this should not, as part of the anxiety in experiencing this revenge satire, be glossed (over) by the presumption that the change of the pound's location must have been \"[stipulated] when the bond was prepared\".' (pp. 480-481)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d05"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 481"
+    directive: "Conceive a spiritual passage in which it is not known — especially in which the protagonist himself does not know — what is being asked of him, what his satisfaction would require; and let that not-knowing measure his invisibility to those who profess to know him."
+    trigger: "When interpreting a character whose announced demand (revenge, restitution, recognition) appears to him incoherent or whose object he cannot specify."
+    qualification: "Cavell does not present this as the correct reading of Shylock's case but asks that such a passage 'be conceived' — i.e., admitted as an interpretive possibility."
+    evidence: "'I do not say that this is the correct reading; I ask that a spiritual passage be conceived in which it is not known, especially in which Shylock does not know, what is being asked, what his satisfaction requires (what would constitute his \"[having] the heart of him\"); hence a passage in which the certainty of the others' professed knowledge of him is a measure of his invisibility to them.' (p. 481)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d06"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 488"
+    directive: "Do not, conventionally but insufferably, assume that you know the female character better than the male protagonist knows her — making him into an exotic, gorgeous, superstitious lunkhead — when reading a play of jealousy or accusation."
+    trigger: "When interpreting Othello, The Winter's Tale, or comparable plays in which a male protagonist's accusation of a woman invites the audience to side flatly against him."
+    qualification: "Cavell concedes that the protagonist may deserve such titles and may believe Iago's tidings; the directive is against the conventional assumption that we, as readers, simply know better."
+    evidence: "'I mean merely to ask that we not, conventionally but insufferably, assume that we know this woman better than this man knows her — making Othello some kind of exotic, gorgeous, superstitious lunkhead; which is about what Iago thinks. However much Othello deserves each of these titles, however far he believes Iago's tidings, he cannot just believe them; somewhere he also knows them to be false.' (p. 488)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d07"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, pp. 494-495"
+    directive: "Test whether an interpretive emphasis (e.g., on the stain on the wedding sheets) is necessary to give sufficient weight to one's experience of the work, or whether the emphasis is imposed."
+    trigger: "When advancing a strong interpretive thesis about a literary text, especially one that locates the meaning in a single underlying motif or image."
+    qualification: "Cavell offers this as the way to test his own emphasis; the test runs through the reader's experience of 'the horror and the darkness of these words and actions', not through external evidence."
+    evidence: "'… meant only to indicate how one might, and why one should, test whether my emphasis on the stain is necessary to give sufficient weight to one's experience of the horror and the darkness of these words and actions, or whether it is imposed.' (pp. 494-495)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d08"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, pp. 495-496"
+    directive: "When introducing a speculative connection (e.g., that witch-trial proceedings underlie Othello), introduce it as a conjecture rather than as a hypothesis — i.e., do not require it for any interpretive alignment of your senses with the world of the work."
+    trigger: "When offering a historical or contextual reading whose textual support is suggestive rather than load-supporting."
+    qualification: "The conjecture is not idle: Cavell holds that the play opens with a public accusation of witchcraft and an abbreviated trial, etc., enough to 'stir the same depths of superstition' without supposing Shakespeare to have used literal subtexts."
+    evidence: "'I introduced the idea of the trial for witchcraft as a conjecture, meaning immediately that it is not meant as a hypothesis: I do not require it for any interpretive alignment of my senses with the world of this play.' (pp. 495-496)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d09"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, pp. 488-489"
+    directive: "Do not ask 'Why does the deceived character believe the deceiver?' as if this were the central question; instead, ask what the deceived character already knows, what requires opposition, and what the deceiver offers him an opportunity to oppose to that knowledge."
+    trigger: "When analyzing a deception plot in which a character (Othello, Leontes) accepts an obviously false story about another."
+    qualification: "Cavell asserts this without depending on a particular account of the relation between Iago and Othello; the reframing is general."
+    evidence: "'I will simply assert what is suggested by what I have just said, that such a question as \"Why does Othello believe Iago?\" is badly formed. It is not conceivable that Othello believes Iago and not Desdemona. Iago, we might say, offers Othello an opportunity to believe something, something to oppose to something else he knows.' (p. 484)"
+
+  - id: "cavell-1979-claim-of-reason/ch13d-romanticism-and-vanishing/d10"
+    source: "Cavell 1979, Claim of Reason, ch. XIII, p. 493"
+    directive: "Cast suspicion on what we take to express skepticism — in particular, cast suspicion on whether we know what it means to know that another exists — before assuming a character's torment is or is not 'really' the skeptical problem."
+    trigger: "When evaluating an objection of the form 'but X certainly knows that Y exists, so X's condition cannot be a case of skepticism about other minds.'"
+    qualification: "The point is that the cause of skepticism is 'the attempt to convert the human condition, the condition of humanity, into an intellectual difficulty, a riddle' — so cases that look unlike epistemic skepticism may still belong to its history."
+    evidence: "'I wish to keep suspicion cast on what it is we take to express skepticism, and here especially by casting suspicion on whether we know what it means to know that another exists.' (pp. 492-493)"

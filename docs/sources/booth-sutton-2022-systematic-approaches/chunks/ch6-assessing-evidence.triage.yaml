@@ -1,0 +1,185 @@
+chunk_id: booth-sutton-2022-systematic-approaches/ch6-assessing-evidence
+source: booth-sutton-2022-systematic-approaches
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d01"
+    decision: keep
+    reason: "AI can apply explicit inclusion/exclusion criteria systematically when triaging sources in a written review."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d02"
+    decision: keep
+    reason: "AI can check each candidate study against criteria in turn and report exclusions in writing."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d03"
+    decision: keep
+    reason: "AI can maintain and report an inclusion/exclusion audit trail with reasons in its written output."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d04"
+    decision: keep
+    reason: "AI can record one PICO-linked exclusion reason per title/abstract decision when documenting screening."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d05"
+    decision: keep
+    reason: "AI can document full-text exclusions, choosing the most apparent reason or a criterion-emphasising one."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d06"
+    decision: keep
+    reason: "AI can stage screening: titles first, abstracts only when title is inconclusive."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d07"
+    decision: drop
+    reason: "Operation requires a multi-person screening team running a calibration pilot; no AI-side analogue."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d08"
+    decision: drop
+    reason: "Requires two human reviewers with conflict resolution; group-scale workflow not portable to person-AI exchange."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d09"
+    decision: keep
+    reason: "AI can record a per-study exclusion reason at the full-text stage in its written output."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d10"
+    decision: drop
+    reason: "Two-reviewer division of labour with team pilot; no single-AI-author analogue."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d11"
+    decision: adapt
+    reason: "Reference-manager tagging is a tool affordance; the operation (preserve a per-study audit trail) ports cleanly."
+    adapted_directive: "Maintain an explicit per-study record of inclusion/exclusion decisions and the screening stage at which each decision was made, so any included or excluded study can be traced back to its decision point in your written review."
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d12"
+    decision: keep
+    reason: "AI can extract meaningful information from each included study before synthesising."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d13"
+    decision: keep
+    reason: "AI can scale assessment depth to the review's stated aim (mapping vs systematic)."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d14"
+    decision: keep
+    reason: "AI can begin assessment by stating what the review aim requires from included studies."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d15"
+    decision: keep
+    reason: "AI can separate applicability/extrinsic/intrinsic factors and base quality judgements on intrinsic factors."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d16"
+    decision: keep
+    reason: "AI can refrain from weighting author/journal/funder reputation when judging methodological quality."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d17"
+    decision: keep
+    reason: "AI can identify per-study flaws and assess both single-study and review-level impact in writing."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d18"
+    decision: keep
+    reason: "AI can calibrate criticism to flaw impact rather than pursuing perfection in its appraisals."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d19"
+    decision: keep
+    reason: "AI can ask the design-fit question early when appraising any included study."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d20"
+    decision: keep
+    reason: "AI can apply hierarchies cautiously and flag practical/ethical/disciplinary limits when citing them."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d21"
+    decision: keep
+    reason: "AI can check whether reported studies identify and address confounders via analysis or stratification."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d22"
+    decision: keep
+    reason: "AI can distinguish statistical from practical significance when interpreting reported effects."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d23"
+    decision: keep
+    reason: "AI can separately judge applicability after assessing validity and reliability."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d24"
+    decision: keep
+    reason: "AI can perform preliminary and comprehensive understanding stages on every included study."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d25"
+    decision: keep
+    reason: "AI can begin with abstract, rely on Methods for quality, and look to Discussion for practical relevance."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d26"
+    decision: keep
+    reason: "AI can survey published reviews to identify discipline-standard checklists and presentation conventions."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d27"
+    decision: keep
+    reason: "AI can prefer validated, discipline-accepted checklists when appraising studies."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d28"
+    decision: keep
+    reason: "AI can refuse to use scoring-system checklists or assign quality scores in its assessments."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d29"
+    decision: keep
+    reason: "AI can treat checklists as guides and report study features the checklist misses."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d30"
+    decision: keep
+    reason: "AI can avoid building checklists from scratch; can adapt or combine and cite contributing checklists."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d31"
+    decision: keep
+    reason: "AI can disclose any checklist adaptation in the methodology section of a written review."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d32"
+    decision: keep
+    reason: "AI can support qualitative-study exclusions with explicit good/bad criteria and reasons in writing."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d33"
+    decision: keep
+    reason: "AI can run and report a qualitative sensitivity analysis comparing review with and without poor-quality studies."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d34"
+    decision: keep
+    reason: "AI can adopt the risk-to-rigour framing for qualitative QA and distinguish quality from risk-of-bias assessment."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d35"
+    decision: keep
+    reason: "AI can select published, validated qualitative-QA tools focused on methodological strengths/limitations."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d36"
+    decision: keep
+    reason: "AI can balance flaws with strengths when writing the Discussion of a review."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d37"
+    decision: keep
+    reason: "AI can avoid coarse high/medium/low labels or, when used, state explicit reproducible criteria."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d38"
+    decision: keep
+    reason: "AI can perform and report a sensitivity analysis omitting poor-quality studies."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d39"
+    decision: adapt
+    reason: "Operation (independent second judgement) ports to inviting user adjudication on AI-generated QA."
+    adapted_directive: "Treat your own quality assessments as subjective drafts; surface the specific judgements you are least confident about and invite the user (or a designated human reviewer) to adjudicate them rather than presenting them as settled."
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d40"
+    decision: keep
+    reason: "AI can confine QA to what study reports contain and flag missing methodological details."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d41"
+    decision: adapt
+    reason: "Operation (seek a second opinion when uncertain) ports to AI flagging uncertainty for the user."
+    adapted_directive: "When you are uncertain whether to include a study, do not silently decide; flag the uncertainty to the user, restate the relevant inclusion/exclusion criteria, and ask the user (or a designated colleague) to apply the criteria as a second opinion."
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d42"
+    decision: keep
+    reason: "AI can record exclusion reasons at every screening stage and report only full-text exclusions in the write-up appendix."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d43"
+    decision: adapt
+    reason: "Pilot-on-a-sample operation ports to applying a draft form/template to a small subset before full use."
+    adapted_directive: "Before applying any data-extraction or appraisal template across all included studies, trial it on a small subset (e.g., 3-5 studies), check whether it captures the needed fields and produces consistent entries, and revise the template before full application."
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d44"
+    decision: keep
+    reason: "AI can transparently apply prior inclusion/exclusion criteria when selecting studies."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch6-assessing-evidence/d45"
+    decision: keep
+    reason: "AI can ask the validity/reliability/generalisability triad when assessing any individual study."
+    adapted_directive: null

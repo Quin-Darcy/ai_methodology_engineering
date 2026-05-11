@@ -1,0 +1,13 @@
+chunk_id: cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology
+source: cappelen-gendler-hawthorne-2016-oxford-handbook
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology/d01"
+    decision: keep
+    reason: "AI can scan a question for cross-subdiscipline relevance during synthesis and surface adjacent considerations in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology/d02"
+    decision: keep
+    reason: "AI can recharacterize a stuck problem in another area's vocabulary and apply that area's resources within a written response."
+    adapted_directive: null

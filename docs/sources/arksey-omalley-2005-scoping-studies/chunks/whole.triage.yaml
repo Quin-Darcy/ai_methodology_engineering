@@ -1,0 +1,109 @@
+chunk_id: arksey-omalley-2005-scoping-studies/whole
+source: arksey-omalley-2005-scoping-studies
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "arksey-omalley-2005-scoping-studies/whole/d01"
+    decision: keep
+    reason: "AI can conduct text-based scoping work rigorously and document its process for replicability."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d02"
+    decision: keep
+    reason: "AI can search for and surface literature without restricting by study design."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d03"
+    decision: keep
+    reason: "AI can iterate search/selection reflexively rather than locking criteria at the outset."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d04"
+    decision: keep
+    reason: "AI can identify the question and decompose it into facets before building a search."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d05"
+    decision: keep
+    reason: "AI can adopt wide initial definitions and tighten parameters after assessing volume."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d06"
+    decision: adapt
+    reason: "Multi-source strategy ports, but hand-searching and conferences are not directly available; recast as the AI-accessible analogues."
+    adapted_directive: "When scoping a literature, draw on multiple source types rather than databases alone: bibliographic databases, the reference lists of retrieved studies, the tables of contents of key journals, and known authoritative organizations or networks in the field; flag source types you cannot access so the user can supplement them."
+  - id: "arksey-omalley-2005-scoping-studies/whole/d07"
+    decision: keep
+    reason: "AI can declare time-span and language coverage upfront and acknowledge missed-paper risk."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d08"
+    decision: keep
+    reason: "AI can pilot a search on one database, refine, then port the strategy elsewhere."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d09"
+    decision: adapt
+    reason: "AI cannot hire a librarian, but can recommend the user engage one and offer to draft search strategies for their review."
+    adapted_directive: "When designing electronic-database searches in a scoping study, recommend that the user engage a qualified information officer or librarian for sensitive searches; if proceeding without one, draft the search strategy explicitly and flag it for expert review."
+  - id: "arksey-omalley-2005-scoping-studies/whole/d10"
+    decision: keep
+    reason: "AI can perform reference-list (snowball) searches from retrieved studies until saturation."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d11"
+    decision: adapt
+    reason: "Physical hand-searching is unavailable; the structural move (covering key journals beyond database hits) does port."
+    adapted_directive: "Identify the key journals in the field and review their tables of contents directly to catch articles missed by database and reference-list searches; note any journals you could not access so the user can supplement."
+  - id: "arksey-omalley-2005-scoping-studies/whole/d12"
+    decision: adapt
+    reason: "AI cannot contact organizations, but can name relevant organizations/networks and surface their public outputs."
+    adapted_directive: "Identify relevant national or local organizations and known expert networks in the field, and surface their publicly available reports, working papers and grey literature; flag where contacting them directly would likely yield further unpublished work the user should pursue."
+  - id: "arksey-omalley-2005-scoping-studies/whole/d13"
+    decision: keep
+    reason: "AI can record per-database search metadata (database name, year coverage, search date) in its report."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d14"
+    decision: keep
+    reason: "AI can derive inclusion/exclusion criteria after gaining familiarity with the corpus, then apply them across citations."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d15"
+    decision: drop
+    reason: "Two-reviewer screening requires a second independent human reviewer; not a single-agent text move."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d16"
+    decision: keep
+    reason: "AI can refuse to decide relevance from abstract alone when ambiguous, requesting full text instead."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d17"
+    decision: keep
+    reason: "AI can set a cut-off and report deferred-but-potentially-relevant items in an appendix."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d18"
+    decision: keep
+    reason: "AI can apply a common analytical framework with standard fields rather than producing freeform per-study summaries."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d19"
+    decision: keep
+    reason: "AI can produce a charting form/table covering the listed general and specific fields."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d20"
+    decision: keep
+    reason: "AI can present an overview of all reviewed material rather than only a selected subset."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d21"
+    decision: keep
+    reason: "AI can refrain from synthesizing or weighing evidence in a scoping context where quality is not appraised."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d22"
+    decision: keep
+    reason: "AI can produce both numerical mapping (tables/charts) and thematic organization in its report."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d23"
+    decision: keep
+    reason: "AI can flag its interpretive position, potential bias, and subjective analytical decisions explicitly."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d24"
+    decision: keep
+    reason: "AI can build and consistently apply a reporting template across thematic groups."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d25"
+    decision: drop
+    reason: "Consultation requires recruiting and engaging multiple human stakeholder groups outside the AI conversation."
+    adapted_directive: null
+  - id: "arksey-omalley-2005-scoping-studies/whole/d26"
+    decision: drop
+    reason: "Targets human funders/commissioners on staffing and budget; not an in-conversation AI behavior."
+    adapted_directive: null

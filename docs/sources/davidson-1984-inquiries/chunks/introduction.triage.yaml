@@ -1,0 +1,33 @@
+chunk_id: davidson-1984-inquiries/introduction
+source: davidson-1984-inquiries
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "davidson-1984-inquiries/introduction/d01"
+    decision: keep
+    reason: "Evaluating theories of meaning against two stated adequacy conditions is a written analytic move the AI performs directly."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/introduction/d02"
+    decision: keep
+    reason: "Demanding finite-vocabulary compositional accounts when assessing semantic theories is a written critique move the AI can apply."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/introduction/d03"
+    decision: keep
+    reason: "Treating truth-theoretic claims as law-like and counterfactual-supporting is a written interpretive stance the AI can adopt in analysis."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/introduction/d04"
+    decision: keep
+    reason: "Applying Charity to maximize understanding (not agreement) when interpreting a speaker is directly executable in text-based interpretation of user utterances."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/introduction/d05"
+    decision: keep
+    reason: "Refusing to posit metaphorical meanings and treating metaphor via literal meaning is a written semantic policy the AI can follow."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/introduction/d06"
+    decision: keep
+    reason: "Rejecting scheme/content dualism and conceptual relativism when evaluating such claims is a written philosophical stance the AI can apply."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/introduction/d07"
+    decision: keep
+    reason: "Distinguishing grammatical mood from illocutionary force when scoping semantic analysis is a written analytic distinction the AI can maintain."
+    adapted_directive: null

@@ -1,0 +1,85 @@
+chunk_id: cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory
+source: cappelen-gendler-hawthorne-2016-oxford-handbook
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d01"
+    decision: keep
+    reason: "AI can weigh a written interpretation of a political concept against intuitive cases and flag misclassifications in its analysis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d02"
+    decision: keep
+    reason: "AI can select among rival interpretations by intended normative or descriptive role and prefer unifying readings in written analysis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d03"
+    decision: keep
+    reason: "AI can audit entailment, inter-definability, and differentiation among concepts when conducting written conceptual analysis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d04"
+    decision: keep
+    reason: "AI can examine a concept's defining conditions in writing and flag irrelevant or missing relevant factors."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d05"
+    decision: keep
+    reason: "AI can assess whether a concept's defining conditions are epistemically checkable and note when they are not."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d06"
+    decision: keep
+    reason: "AI can mark the concept-vs-theory distinction explicitly and refuse to apply truth predicates to concepts in written replies."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d07"
+    decision: keep
+    reason: "AI can detect 'true conception of X' framing and rewrite or annotate it with an explicit appropriateness criterion."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d08"
+    decision: keep
+    reason: "AI can check a presented theory's statement set for logical consistency and surface contradictions in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d09"
+    decision: keep
+    reason: "AI can derive and report logical entailments of stated principles, treating the deductive closure as the theory's content."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d10"
+    decision: keep
+    reason: "AI can present a theory by listing its underlying principles and showing that further claims follow as implications."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d11"
+    decision: keep
+    reason: "AI can compare rival theories on parsimony grounds and prefer the simpler in written assessment."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d12"
+    decision: keep
+    reason: "AI can iterate between a written theory and considered judgements, revising both, and report the resulting equilibrium."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d13"
+    decision: keep
+    reason: "AI can flag bias, framing, tentativeness, and inconsistency risks when intuitive judgements are used as evidence for a theory."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d14"
+    decision: keep
+    reason: "AI can refuse to ground a political theory in a single comprehensive moral view when reasonable pluralism is in play."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d15"
+    decision: keep
+    reason: "AI can separate a theory's content from the arguments and thought experiments offered in its support when analysing it in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d16"
+    decision: keep
+    reason: "AI can avoid 'only a theory' rhetoric and call out the move when it appears in user prompts or sources."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d17"
+    decision: keep
+    reason: "AI can ask, in writing, whether idealizations in a theory are appropriate to its purpose rather than dismissing them outright."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d18"
+    decision: keep
+    reason: "AI can locate idealizations across theory, conditions of application, and justification, and treat each level independently."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d19"
+    decision: keep
+    reason: "AI can rewrite unqualified universal principles as conditionals with explicit antecedents capturing their simplifying assumptions."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch27-list-valentini-methodology-political-theory/d20"
+    decision: keep
+    reason: "AI can test proposed principles in writing for in-principle acceptability across reasonable conflicting moral viewpoints."
+    adapted_directive: null

@@ -1,0 +1,249 @@
+chunk_id: booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis
+source: booth-sutton-2022-systematic-approaches
+triaged_at: "2026-05-10T19:30:00-05:00"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d01"
+    decision: keep
+    reason: "Synthesis-time judgment the AI performs when summarising literature: balance aggregation against interpretation."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d02"
+    decision: keep
+    reason: "Framing choice the AI makes per request: clarify whether focus is the body of work, individual studies, or themes."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d03"
+    decision: drop
+    reason: "Concerns project-level planning across two parallel multi-month reviews; not an AI conversational move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d04"
+    decision: keep
+    reason: "Core synthesis move the AI performs in writing: juxtapose findings to surface patterns the originals did not name."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d05"
+    decision: keep
+    reason: "AI can attribute cross-study disagreement to methodological differences when summarising literature."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d06"
+    decision: keep
+    reason: "Synthesis aim the AI executes when integrating sources: produce a new line of argument rather than an assemblage."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d07"
+    decision: keep
+    reason: "AI structures its reading question to shape what it includes and extracts; directly applicable in writing."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d08"
+    decision: drop
+    reason: "Requires real-world stakeholder engagement across a multi-month review project; not available in text-only AI exchange."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d09"
+    decision: adapt
+    reason: "Surface is search-strategy reporting; structural move (justify and describe non-comprehensive sampling) ports to AI's literature scoping."
+    adapted_directive: "When you draw on less than the full relevant literature on a topic, state which slice you sampled, why, and how that sampling matches the synthesis purpose."
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d10"
+    decision: drop
+    reason: "Concerns database search-engine specificity for retrieval; AI does not run topic-based bibliographic searches with filters."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d11"
+    decision: drop
+    reason: "Requires a second human reviewer for consensus screening; group-scale operation not available in person↔AI exchange."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d12"
+    decision: keep
+    reason: "AI can pre-state which fields it is extracting per study and apply them consistently across heterogeneous sources."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d13"
+    decision: adapt
+    reason: "Surface refers to extraction-form fields; structural move (preserve uncoded material for revisit) ports to AI synthesis notes."
+    adapted_directive: "When summarising studies into a structured synthesis, keep an explicit 'unclassified' bucket for material that does not fit your current categories, and revisit it before concluding."
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d14"
+    decision: keep
+    reason: "AI calibrates the granularity of its summary fields to avoid empty placeholders or over-broad lump categories."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d15"
+    decision: keep
+    reason: "AI rereads source passages to compare its emerging summary against original wording; basic anti-paraphrase-drift move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d16"
+    decision: keep
+    reason: "AI revisits and revises its own categorisation as new material reframes earlier classifications."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d17"
+    decision: keep
+    reason: "AI surfaces contextual factors (setting, population, time) that explain divergence across studies it summarises."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d18"
+    decision: keep
+    reason: "AI judgment when summarising: do not silently exclude a methodologically weak source if it carries a distinctive insight."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d19"
+    decision: keep
+    reason: "AI states an initial synthesis approach and explicitly switches when patterns warrant; conversational planning move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d20"
+    decision: keep
+    reason: "AI defines crisp, non-overlapping concepts when constructing categories; standard summarisation discipline."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d21"
+    decision: keep
+    reason: "AI states whether it is reading exhaustively or sampling; if sampling, it justifies the frame. Applies in writing."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d22"
+    decision: keep
+    reason: "AI preserves each source's context and internal relations when extracting findings into a cross-study summary."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d23"
+    decision: keep
+    reason: "AI evaluates each cited method against the question rather than ranking by a fixed evidence hierarchy."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d24"
+    decision: keep
+    reason: "Core anti-confirmation move the AI performs in writing: actively search for and report disconfirming cases."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d25"
+    decision: drop
+    reason: "Method-selection advice for novice reviewers running a real QES; not a conversational AI move and presupposes a reviewer career."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d26"
+    decision: keep
+    reason: "AI guards against bulk-quoting irrelevant material; revisits the user's question to keep extracted matter relevant."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d27"
+    decision: keep
+    reason: "Anti-narrative-collapse move the AI performs: weight inconsistencies and contradictions equally with the dominant pattern."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d28"
+    decision: adapt
+    reason: "Surface is team dynamics; structural move (challenge persuasive lines of argument) ports as AI self-challenge or inviting user pushback."
+    adapted_directive: "After laying out a persuasive line of argument, explicitly enumerate the strongest objections to it from within the same evidence, and invite the user to push back on any step where the data is being shoehorned."
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d29"
+    decision: keep
+    reason: "AI grounds every theory or hypothesis it offers in cited textual data rather than free-floating speculation."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d30"
+    decision: keep
+    reason: "AI revises its working conclusions when new material is introduced into a conversation; standard updating move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d31"
+    decision: keep
+    reason: "AI checks claimed patterns and themes back against the source quotations to confirm accuracy. Direct quote-checking move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d32"
+    decision: keep
+    reason: "Anti-premature-closure self-check the AI runs when concluding; names a cognitive bias the AI can guard against in writing."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d33"
+    decision: keep
+    reason: "AI asks itself whether populations across cited studies are over- or under-represented before generalising. Standard move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d34"
+    decision: keep
+    reason: "AI flags likely researcher allegiance or identity effects in cited studies when summarising findings."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d35"
+    decision: keep
+    reason: "AI weights evidence by quality rather than by study count; checks whether claims cluster in low-quality sources."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d36"
+    decision: adapt
+    reason: "Surface invokes consulting colleagues; structural move (surface extreme/unique studies and seek alternative explanations) ports to AI."
+    adapted_directive: "When a study reports extreme results or is the unique source of a theme, name it explicitly, propose alternative explanations for why it might differ, and either explore them in the analysis or flag them as open hypotheses."
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d37"
+    decision: adapt
+    reason: "Recording surprises and inviting explanation ports to AI; publication/press release surface drops."
+    adapted_directive: "When a source does not fit where you would have predicted within a pattern, note the surprise explicitly in your analysis (do not let it normalise), and surface it to the user as a finding worth explaining."
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d38"
+    decision: keep
+    reason: "Active disconfirmation: AI deliberately samples adjacent perspectives and challenges its own emerging orthodoxy in writing."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d39"
+    decision: keep
+    reason: "AI can run if-then conditional tests against its synthesised claims as a written reasoning move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d40"
+    decision: keep
+    reason: "After conditional reasoning, AI explicitly considers third-variable explanations before asserting a relationship."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d41"
+    decision: adapt
+    reason: "Splitting a study set for hold-out validation ports to AI; the 'extend sampling frame' surface needs adaptation."
+    adapted_directive: "When validating a finding from a body of literature, either cross-check it against an adjacent literature where the underlying mechanism should also appear, or split your sources into a generation set and a test set and check whether the finding holds in the test set."
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d42"
+    decision: keep
+    reason: "AI records the theoretical commitments underlying each cited study and revisits them when concluding. Direct rival-explanation move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d43"
+    decision: drop
+    reason: "Member-checking with primary-study informants is not available in person↔AI text exchange."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d44"
+    decision: drop
+    reason: "Requires evaluating saturation with a colleague/supervisor/mentor; presupposes a co-located review team."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d45"
+    decision: keep
+    reason: "AI can deliberately probe adjacent disciplines to test whether an apparent saturation is real. Direct move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d46"
+    decision: keep
+    reason: "AI states the standpoint and limits of its own synthesis explicitly to the user; situatedness disclosure."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d47"
+    decision: keep
+    reason: "AI checks for likely missing populations, regions, or disciplines when summarising literature on a topic."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d48"
+    decision: keep
+    reason: "AI does not equate theme frequency across papers with theme importance; a publication-bias-aware reasoning move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d49"
+    decision: keep
+    reason: "AI examines citation gaps between schools of thought and asks whether they reflect ignorance, conflict, or intent."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d50"
+    decision: keep
+    reason: "AI resists single-variable explanations when multi-variable interaction is plausible; reasoning hygiene move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d51"
+    decision: drop
+    reason: "Requires a multi-person team and structured role differentiation to engineer diverse viewpoints; group-scale move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d52"
+    decision: keep
+    reason: "AI explicitly considers whether to fold an outlier study into the main analysis or treat it separately."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d53"
+    decision: adapt
+    reason: "Recording hunches and retracing steps ports to AI; supervisor/mentor/stakeholder consultation surface needs adaptation."
+    adapted_directive: "Document the intuitive leaps and assumptions behind any synthesis step you take so you can retrace them, and surface the load-bearing premises to the user for confirmation rather than burying them in the conclusion."
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d54"
+    decision: keep
+    reason: "AI does not concede an interpretation simply because the user disagrees; can suggest research that would resolve a stalemate."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d55"
+    decision: keep
+    reason: "AI returns to the user's original question throughout an extended synthesis to avoid drift into literature-driven tangents."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d56"
+    decision: keep
+    reason: "AI explains the meaning and downstream impact of identified limitations rather than just listing them. Reporting move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d57"
+    decision: keep
+    reason: "AI orders study lists by a deliberate principle (chronology, region, surname) when presenting tabular summaries to the user."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d58"
+    decision: keep
+    reason: "AI edits tabular summaries it produces: stripping boilerplate, standardising format, avoiding awkward splits."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d59"
+    decision: keep
+    reason: "AI normalises labels across heterogeneous sources where it is safe but preserves distinctions when the wording itself matters."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d60"
+    decision: drop
+    reason: "Selecting a formal QES methodology (thematic, framework, meta-ethnography) is project-design advice for human reviewers, not an AI conversational move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch8-qualitative-synthesis/d61"
+    decision: keep
+    reason: "AI imagines its target output (table, summary, claim shape) before deciding what to extract. Standard prospective-summarisation move."
+    adapted_directive: null

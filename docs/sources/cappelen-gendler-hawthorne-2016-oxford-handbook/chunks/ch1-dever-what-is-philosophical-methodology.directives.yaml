@@ -1,0 +1,20 @@
+chunk_id: cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology
+source: cappelen-gendler-hawthorne-2016-oxford-handbook
+title: Dever, "What is Philosophical Methodology?"
+pages: "3-26 (book)"
+components: ["proc"]
+extracted_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+directives:
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology/d01"
+    source: "Dever 2016, 'What is Philosophical Methodology?', §9 'Eliminatedivism', p. 20"
+    directive: "Be on the lookout for the relevance of considerations from one philosophical sub-discipline (e.g. epistemology) to questions in another (e.g. philosophy of language), rather than allowing your work to reside entirely within one subdiscipline."
+    trigger: "When working on a question within any single philosophical sub-discipline."
+    qualification: "There is no recipe specifying precisely when to invoke considerations from another sub-discipline; this guidance functions only as a loose aphorism, calling for skillful receptiveness rather than rule-following."
+    evidence: "'There are some general guiding aphorisms, and \"be on the lookout for the relevance of epistemology to your questions in philosophy of language\" is one of them. But the guiding aphorisms guide only very loosely — there's no recipe telling you precisely when to invoke epistemological considerations in linguistic theorizing. There's only the skillful receptiveness to possible fruitful interactions.' (p. 20)"
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch1-dever-what-is-philosophical-methodology/d02"
+    source: "Dever 2016, 'What is Philosophical Methodology?', §8 'Interlude: The Puzzle Solved' and §9, pp. 18-20"
+    directive: "When a problem appears intractable within the area in which it was first posed, try recharacterizing it in another area and bringing that other area's resources to bear on it."
+    trigger: "When a question or problem in one philosophical (or analogous theoretical) sub-area resists progress under the methods native to that area."
+    qualification: "The relations between sub-areas do not form a pre-given hierarchy; the redirection is part of an ongoing attempt to do better work, not the tracing of a fixed dependency structure, and there is no rule specifying when such redirection will succeed."
+    evidence: "Of the Springfield-clubs puzzle, recast from combinatorics into linear algebra: 'This is a common pattern in mathematical work. A problem apparently in one area (here, combinatorics) is revealed to be \"really\" a problem in another area (linear algebra), and a powerful and elegant solution of a previously difficult problem is produced by recharacterizing the problem in the new area and bringing to bear the resources of that other area. It's often a recipe for achieving \"deep\" insights in mathematics.' (p. 19); applied to philosophy: 'the movement isn't the tracing of a pre-given hierarchical structuring of the field. It is rather, as in the example of The Puzzle, part of the ongoing attempt to do better work, and achieve more and deeper insights, by thinking about how various components of the field relate to one another' (p. 20)"

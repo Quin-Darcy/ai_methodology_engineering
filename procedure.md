@@ -4,7 +4,7 @@
 
 **Scope.** Source acquisition, per-source TOC summarization, chunking, per-chunk directive extraction, clustering, canonicalization. From Stage 6 onward (organization, compression) the procedure splits into a research-project track and a discussion-project track; testing and iteration (Stages 8–9) recombine. The procedure does not cover the choice of which deliverables to build or which methodological traditions to include — that decision is recorded in `summary.md`.
 
-**Status.** Stages 1–2 reflect implementation as it currently stands and are walked end-to-end against an active corpus of 29 sources in `docs/sources/` and six per-deliverable manifests in `docs/_manifest/`. Stages 3–9 retain the original specification; they are revised when their work begins. Replicability requires that manifests, toc.md files, and `chunking-plan.md` carry the canonical pipeline state — not Claude's working memory across conversations.
+**Status.** Stages 1–4 reflect implementation as it currently stands and are walked end-to-end against an active corpus of 29 sources in `docs/sources/` and six per-deliverable manifests in `docs/_manifest/`. Stages 5–9 retain the original specification; they are revised when their work begins. Replicability requires that manifests, toc.md files, `chunking-plan.md`, the per-chunk `.directives.yaml` and `.triage.yaml` files, and the per-component `<component>-clustering-input.yaml` and `<component>-clusters.yaml` files carry the canonical pipeline state — not Claude's working memory across conversations.
 
 **Note on evidence basis.** The design choices in Stages 3, 5, 7, 8, and 9 are constrained by what is empirically known about LLM instruction-following: prompt-format brittleness (Sclar et al. 2024), the multiplicative drop in joint constraint adherence as the number of constraints grows ("curse of instructions"; Hagiwara et al. 2024), the difficulty of conditional/chained directives (ComplexBench; Wen et al. 2024), the multi-turn performance drop (Laban et al. 2025), the failure of negation (Truong et al. 2023), the limits of self-critique (Huang et al. ICLR 2024), and Claude's documented sycophancy (Sharma et al. ICLR 2024). The procedure does not treat these findings as decisive — most measure verifiable surface constraints, not open-ended philosophical synthesis — but uses them to set defaults and to specify what the test stage must measure.
 
@@ -164,7 +164,23 @@ Extract chunk content to **plain text files**, not to PDF slices. Text is the na
 
 **Text-file header.** Each chunk text file opens with a small YAML-ish header block listing the `id`, `title`, `page_scheme`, `page_start`/`page_end` (and `pdf_page_start`/`pdf_page_end` when applicable), `components`, and `rationale` from the chunking-plan entry. The Stage 3 extraction prompt uses this header as the chunk's source-citation block.
 
-**Mechanization.** A helper script `extract_chunk_text.py <slug> [<chunk_id>]` reads chunking-plan.md, runs the per-chunk `pdftotext` invocation, applies the post-processing, and writes the chunk file. Pilot the script against one native-text source (e.g., `bohm-1996-on-dialogue` or `hadot-1995-philosophy-as-a-way-of-life`) and one OCR'd source (e.g., `davidson-1984-inquiries`) before running it across all 29 sources. Add the script to `SCRIPT_HASHES` and to `.claude/settings.json` allowlist when it stabilizes.
+**Mechanization (complete).** Implemented as `docs/_manifest/extract_chunk_text.py`. CLI: `python3 docs/_manifest/extract_chunk_text.py --slug <slug> [--chunk-id <tail>]`. Imports `verify_chunking_plan.parse_plan` to read chunking-plan.md; honors the plan's `pdf_path` (so OCR'd PDFs are picked up automatically); applies all post-processing in one pass; writes per-chunk `.txt` files to `docs/sources/<slug>/chunks/<chunk-tail>.txt`. Registered in `SCRIPT_HASHES` and in `.claude/settings.json` allowlist.
+
+Status: **complete for all 29 sources / 108 chunks (~7.4 MB total chunk text).**
+
+Implementation choices made during the pilot (revising the three transformations listed in §2.8 1–3 above):
+
+- **Extractor flag:** `pdftotext -layout` (preserves enough structure to detect footnotes, hyphenation, and per-page running headers).
+- **Dehyphenation:** hunspell `en_US-large`. Joined-without-hyphen forms in the dictionary → drop hyphen; not in the dictionary → keep hyphen. Handles chained hyphenations across consecutive line pairs. Residual: a small number of cases where proper nouns or rare compounds aren't in the dictionary (e.g., "Nor-ton", "disconfirm-ing") keep their hyphen — accepted, normalized by the Stage 3 extraction agent when quoting.
+- **Running-header strip:** added beyond the three transformations in §2.8 — auto-detected via digit-normalized repetition counting. Any short line whose digit-collapsed form repeats on ≥ 2 pages is stripped. This handles per-page headers with embedded page numbers (e.g., `126 Radical Interpretation` vs `Radical Interpretation 127`) without per-source configuration.
+- **Page-number strip exemption:** bare-number lines are preserved when followed by `[N]` — those are footnote-body markers, not page numbers.
+- **Ligature normalization:** `ﬁ`/`ﬂ`/`ﬀ` etc. → `fi`/`fl`/`ff`.
+
+Known residuals across the 108 extracted text files:
+
+- OCR character errors in the 3 OCR'd sources (`is`→`1s`/`i1s`, `I`→`|`, footnote `1`→`!`). ~1 per 4 pages. The Stage 3 extraction agent silently normalizes these when quoting (observed in pilot).
+- Figure regions (vector-art letter labels in scientific diagrams) remain as scattered text fragments. Sparse.
+- 4 chunks recorded a trailing-blank-page trim in their header (`extracted_pages` differs from plan range by 1); chunk content is correct.
 
 **Why this approach over per-chunk PDFs.** A PDF chunk is still a PDF — pdftotext'ing it again at extraction time is wasted work, and the parser-and-render overhead repeats per Stage 3 invocation. Text files solve once. The auditability concern (extraction grounded in source) is preserved: the chunk text file's header contains the slug, page range, and PDF path; an auditor can re-run `pdftotext -f X -l Y full.pdf` to confirm the text matches.
 
@@ -194,18 +210,25 @@ Each extracted directive must be a record with the following fields:
 
 ### 3.3 Extraction prompt template
 
-The prompt to Claude for each chunk should:
+Canonical template: `docs/_manifest/extraction_prompt_template.md` (hash-pinned in `SCRIPT_HASHES`).
 
-1. Be wrapped in XML tags by section (`<source_information>`, `<task>`, `<output_format>`, `<rules>`). Claude is trained to recognize XML tags as a prompt-organizing mechanism (Anthropic documentation; HIGH confidence on Claude, MODERATE on cross-model portability).
-2. Specify the source of the chunk being processed.
-3. Instruct that only directives explicitly stated or directly entailed by the text be extracted; nothing imported from general knowledge.
-4. Require imperative phrasing, faithful to the source.
-5. Require the trigger condition to be stated even when the directive is "always-on" — this forces explicit acknowledgement of conditionality.
-6. Require qualifications to be lifted from the text itself, not added from elsewhere.
-7. Forbid synthesis or merging at this stage. Merging happens in Stage 4.
-8. Output as structured records (JSON or a strict markdown table).
-9. Place the source chunk content first and the extraction instructions immediately after it; mirror the most critical instruction (faithfulness to source) at the very end of the prompt. This is the documented mitigation for "lost in the middle" attention bias on long inputs (Liu et al. 2024; OpenAI GPT-4.1 prompting guide).
-10. Explicitly authorize the model to return zero directives for a chunk that contains none. The default failure mode under sycophancy and pattern-completion pressure is over-extraction (finding "directives" because the user appears to want them). Naming this failure mode in the prompt is a practitioner mitigation; it is not empirically validated as a sycophancy fix.
+The template is wrapped in XML tags by section (`<source_information>`, `<chunk_text>`, `<task>`, `<output_format>`, `<rules>`). Claude is trained to recognize XML tags as a prompt-organizing mechanism (Anthropic documentation; HIGH confidence on Claude, MODERATE on cross-model portability). The structural ordering is source-first (chunk text immediately follows `<source_information>`), with the critical instruction ("faithfulness to source is the entire task") mirrored at the very end of `<rules>` — the documented mitigation for "lost in the middle" attention bias on long inputs (Liu et al. 2024; OpenAI GPT-4.1 prompting guide).
+
+The template embeds the following design moves:
+
+1. Only directives explicitly stated or directly entailed by the chunk are extracted; nothing imported from general knowledge.
+2. Imperative phrasing required.
+3. Trigger condition stated explicitly even for "always-on" directives — forces acknowledgement of conditionality.
+4. Qualifications lifted from the chunk, not added from elsewhere.
+5. No synthesis or merging at this stage — merging happens in Stage 4.
+6. **Explicit zero-directives authorization** in `<task>`: "you are explicitly authorized to return zero." Naming the over-extraction failure mode is a practitioner mitigation under sycophancy and pattern-completion pressure; it is not empirically validated as a full fix.
+7. **Three calibration examples** in `<task>` (Skinnerian / Gendler / pragma-dialectical) to show the *shape* of a good directive without leaking content.
+8. **Named NON-directives** in `<task>` ("be clear", "cite sources", "consider multiple perspectives") to defuse the platitude trap: extracting generic methodology platitudes the chunk does not actually argue for.
+9. **A fabrication-detection rule at the prompt tail**: "if your draft directive could have been written without reading this chunk, delete it." Phrased as a test the agent can apply to its own output, not a passive exhortation.
+
+Variables substituted into the template: `{{slug}}`, `{{chunk_id}}`, `{{chunk_title}}`, `{{chunk_pages}}`, `{{components}}`, `{{chunk_text}}`, `{{output_path}}`.
+
+**Prompt-build helper:** `docs/_manifest/build_extraction_prompt.py <slug> <chunk-tail>` reads the template, the chunk text, and chunking-plan.md metadata; performs the substitution; writes the fully-substituted prompt to stdout. Caller redirects to a per-chunk prompt file (typical: `/tmp/extraction_prompts/<slug>--<chunk-tail>.prompt.md`).
 
 ### 3.4 Extraction quality check
 
@@ -219,7 +242,132 @@ The two-sided check matters because sycophancy and pattern-completion produce *o
 
 ### 3.5 Extraction output
 
-Append all extracted directive records into a single file (the "raw extraction file"). This file is the input to Stage 4.
+**Per-chunk YAML file.** Each extraction pass writes its output to `docs/sources/<slug>/chunks/<chunk-tail>.directives.yaml` (alongside the chunk's `.txt` file). This deviates from the original spec, which prescribed a single appended "raw extraction file." Reasons for the deviation:
+
+- **Idempotent re-runs:** a per-chunk file makes "skip if exists" trivial, so failed or revised runs only touch the affected chunks.
+- **Diffable on prompt iteration:** when the prompt template changes, the impact per chunk is visible directly.
+- **Aligns with the chunk-text layout.**
+- **Reconstructable:** the single "raw extraction file" of the original spec is `cat docs/sources/*/chunks/*.directives.yaml` away.
+
+File structure (one per chunk):
+
+```yaml
+chunk_id: <slug>/<chunk-tail>
+source: <slug>
+title: <chunk title>
+pages: "<page range with scheme>"
+components: ["exp", ...]
+extracted_at: <ISO-8601 timestamp>
+model: <model id>
+directives:
+  - id: <slug>/<chunk-tail>/d01
+    source: "<short citation: author year, chapter or section, page>"
+    directive: "<imperative phrasing>"
+    trigger: "<condition under which it applies>"
+    qualification: "<source-stated limit; '' if none>"
+    evidence: "<verbatim quote or tight paraphrase with page>"
+  - id: <slug>/<chunk-tail>/d02
+    ...
+```
+
+If the chunk yields zero directives, `directives: []`.
+
+### 3.6 Execution mechanism
+
+One Task-tool subagent per chunk. Workflow:
+
+1. Caller runs `python3 docs/_manifest/build_extraction_prompt.py <slug> <chunk-tail> > /tmp/extraction_prompts/<slug>--<chunk-tail>.prompt.md`.
+2. Caller spawns a Task subagent (general-purpose) with this short instruction:
+   - "Load the prompt by running: `cat /tmp/extraction_prompts/<slug>--<chunk-tail>.prompt.md`. Follow the protocol exactly. Write the YAML to the path specified in its `<output_format>` block. Return a one-line summary: `extracted: N directives [+ optional note]`."
+3. The subagent's `cat` of the prompt file loads it into the subagent's context as a tool result, preserving the source-first / critical-instruction-at-end structure.
+4. The subagent extracts, writes the YAML, returns the one-line summary.
+
+This pattern gives a fresh context window per chunk (Laban 2025 multi-turn-drift mitigation) and keeps the orchestrator's context clean (subagent loads the ~30–100K-token prompt; orchestrator sees only the one-line summary).
+
+For parallel execution, the caller spawns multiple Task subagents in one message (multiple Agent tool calls in a single message). Pilot timing: ~30–120 s per chunk wall-clock; batches of 5 yield ~2 min per batch; full 108-chunk corpus completes in ~25–50 min total wall-clock at batch-of-5 parallelism.
+
+**Pilot results (4 chunks):**
+
+| Chunk | Type | Directives |
+|---|---|---|
+| booth-sutton-2022/ch4-defining-scope | procedural | 54 |
+| skinner-2002/ch4-meaning-and-understanding | historical-methodological | 34 |
+| bohm-1996/ch2-on-dialogue | interpretive | 34 |
+| davidson-1984/radical-interpretation | theoretical (OCR'd source) | 15 |
+
+Pilot took 57–118 s per chunk, 37–64K tokens per chunk. Quality on the OCR'd chunk: the agent silently normalized OCR character errors (`1s`→`is`, `|`→`I`) when quoting evidence. This is a soft compromise on the verbatim-evidence rule but a defensible one: verbatim quoting of a corrupted source is not really verbatim of the source.
+
+---
+
+## Stage 4.0 — AI-Implementability Triage
+
+### 4.0.1 Purpose
+
+Stage 3 extraction faithfully captures every directive the source states, including directives whose central operation is embodied (Bohm on group dialogue posture; Hadot on bodily exercises) or interpersonal in ways the AI cannot perform (two-reviewer screening; recruiting human stakeholders; physically hand-searching journals). Before clustering, each directive is classified for whether a Claude-based agent can actually execute the behavior in a text-based person↔AI exchange.
+
+The triage is a deliberate insertion between Stage 3 and Stage 4 (clustering). It runs *after* extraction (so source fidelity is preserved on disk) and *before* clustering (so clusters are not polluted by directives that will be filtered out anyway).
+
+### 4.0.2 Decision categories
+
+Each directive receives one of three decisions:
+
+- **KEEP** — the AI agent itself can perform the behavior in writing or conversation. Most synthesis-time research moves (citing sources, marking inferences, reconstructing the question a position is answering, naming the active interpretive branch) are KEEPs.
+- **ADAPT** — the directive's surface phrasing references embodied or in-person settings, but the structural move ports cleanly to text-based person↔AI interaction. The triage agent must produce a concrete adapted phrasing in one sentence; if the AI-side analogue cannot be stated cleanly, the answer is DROP.
+- **DROP** — the directive's central operation requires capacities the AI does not have (real-time observation of body language, group co-regulation, bodily/spiritual exercises) or contexts that don't apply to person↔AI text exchange (multi-reviewer independence; recruiting external participants; addressing funders/commissioners).
+
+Bias toward KEEP when the directive is generic enough to read as a synthesis-time research move. Bias toward DROP when the directive's operation is genuinely embodied or genuinely group-scale. ADAPT is the right call only when the structural move (the operation the directive performs) is well-defined independent of the embodied surface, and the AI can perform that operation in text.
+
+### 4.0.3 Per-source triage with full chunk context
+
+Triage runs as **one Task subagent per chunk**, with the full chunk text *and* the chunk's `.directives.yaml` in the agent's context. The chunk text grounds adapt judgments: knowing what surrounding passages say tells the agent whether a "dialogue" reference is incidental (KEEP) or load-bearing (ADAPT or DROP).
+
+The per-chunk pattern preserves the same fresh-context-per-chunk discipline used at Stage 3 and bounds multi-turn drift (Laban et al. 2025).
+
+### 4.0.4 Output structure
+
+One YAML file per chunk at `docs/sources/{slug}/chunks/{chunk_id}.triage.yaml`:
+
+```yaml
+chunk_id: <slug>/<chunk-tail>
+source: <slug>
+triaged_at: "<ISO-8601 timestamp>"
+model: "<model id>"
+triage:
+  - id: "<original directive id, copied verbatim>"
+    decision: keep | adapt | drop
+    reason: "<one-line justification, ≤25 words>"
+    adapted_directive: "<required when decision=adapt; null otherwise>"
+  - id: "..."
+    ...
+```
+
+Every directive id from the corresponding `.directives.yaml` appears exactly once. The triage record's `id` matches the directive's `id` exactly, so downstream consolidation (Stage 4) can join on id without ambiguity.
+
+### 4.0.5 Tooling
+
+- `docs/_manifest/triage_prompt_template.md` — XML-tagged template (mirrors extraction template structure: source-first, critical instruction at the end). Includes a post-write recount instruction that has the agent re-read its own file and report actual `decision:` counts rather than from memory (a small but meaningful guard against off-by-one summary errors).
+- `docs/_manifest/build_triage_prompt.py <slug> <chunk-tail>` — substitutes slug/chunk metadata + chunk text + directives YAML into the template; emits prompt to stdout.
+- Both hash-pinned in `SCRIPT_HASHES`; CLI allowlisted in `.claude/settings.json`.
+
+### 4.0.6 Execution
+
+Same dispatch pattern as Stage 3:
+
+1. `python3 docs/_manifest/build_triage_prompt.py <slug> <chunk-tail> > /tmp/triage_prompts/<slug>--<chunk-tail>.prompt.md`
+2. Spawn a Task subagent (general-purpose) that runs `cat <prompt-path>` and follows the protocol.
+3. For parallel execution, dispatch in batches of ~5 in a single message. Pause for review between batches.
+
+### 4.0.7 Quality patterns observed
+
+In the proc-deliverable scale-out (16 chunks, 453 directives):
+
+- Pure procedural sources (booth-sutton chapters, arksey-omalley) typically produce 80–100% KEEP, with small numbers of ADAPTs around librarian-engagement / journal-hand-search / organization-contact moves and small numbers of DROPs around two-reviewer screening, focus-group facilitation, and funder-targeted advice.
+- Theoretical philosophy of language (Davidson on radical interpretation) produces a striking split: formal-semantics machinery (Tarskian truth-theory steps) DROPS cleanly; the famous interpretive moves (charity, holding-true as basic evidence, holism) ADAPT cleanly to user-message interpretation. KEEP rate near zero is appropriate when every interpretive move had to be adapted to the user-AI context.
+- Metamethodology and historiography (cappelen handbook chapters, skinner) produce ~95–100% KEEP — the AI does interpretation, so methodology-of-interpretation directives apply directly.
+
+### 4.0.8 Audit trail
+
+DROPped directives are not deleted; they remain in the source `.directives.yaml` and in the `.triage.yaml`. The Stage 4 consolidator (4.1 below) emits them into a `drops:` section of the clustering input, separate from the surviving directive list, so a re-run with a corrected triage prompt can recover them.
 
 ---
 
@@ -229,25 +377,63 @@ Append all extracted directive records into a single file (the "raw extraction f
 
 Many directives across sources will state the same protocol in different words. Cluster before resolving so that resolution operates on grouped equivalents rather than the full flat list.
 
+The clustering input is the union of KEEP and ADAPT directives across all chunks tagged with the deliverable's component. For ADAPT decisions, the *adapted* phrasing is treated as the operative `directive` field; the original phrasing is preserved in `original_directive` for audit.
+
 ### 4.2 Method
 
-Run a Claude pass over the raw extraction file with the instruction to group directives that express the same protocol. The output is a clustered file in which each cluster has:
+Single Claude pass over the consolidated directive list with the instruction to group directives that express the same protocol. The output is a clustered file in which each cluster has:
 
-- A working label (e.g., "principle of charity in interpretation")
-- The full set of source-attributed directive records belonging to the cluster
-- A short note on whether the cluster contains genuine variants (different conditions or scopes) or only paraphrases
+- A working label (e.g., "principle of charity in interpretation"; ≤6 words; names the operation, not the surface words)
+- The list of contributing directive ids (`member_ids`)
+- A `note` field marking whether members are paraphrases (same operation, different words) or genuine variants (same operation, different trigger / scope / qualification)
+- Optionally a `fork:` field when the cluster encodes a genuine methodological disagreement to be preserved as a conditional directive at Stage 5
+- Optionally a `related_to:` field listing other cluster ids when the agent prefers split-with-cross-reference over a forced merge
 
 ### 4.3 Long-input handling
 
-If the raw extraction file is long (rough threshold: more than ~30 pages of records, or whatever begins to fill more than a third of the working context), do not attempt clustering in a single pass. Either (a) split the file into thematic shards by an initial labeling pass and cluster within shards, then merge across shards in a second pass, or (b) run two independent clustering passes and reconcile differences manually. Single long passes are subject to the "lost in the middle" attention pattern documented by Liu et al. 2024 and can silently drop directives located in the middle of the input.
+If the consolidated directive list is long (rough threshold: more than ~30 pages of records, or whatever begins to fill more than a third of the working context), single-pass clustering risks the "lost in the middle" attention pattern documented by Liu et al. 2024 and can silently miss cross-source matches in the middle of the input. Two recovery strategies:
+
+- **(a) Two-pass: label then cluster within label.** Pass 1 assigns each directive a working theme tag from a moderate-sized taxonomy (~30–50 themes). Pass 2 clusters within each theme. Cross-theme merges happen in a third reconciliation pass.
+- **(b) Two independent passes + manual reconcile.** Run clustering twice with the same prompt; compare cluster assignments; reconcile differences by hand or with a third Claude pass.
+
+In the proc-deliverable run, single-pass clustering on 430 surviving directives (~70K tokens of input) produced reasonable cross-source clusters and was accepted without falling back to two-pass. The decision rule: inspect the first 5–10 clusters and 5–10 singletons for obvious missed merges; if the rate of obvious misses exceeds ~10%, fall back to two-pass.
 
 ### 4.4 Clustering caution
 
 Do not collapse clusters that look similar but apply under different conditions. Davidsonian charity (interpretation) and Dennettian Rapoport rules (debate) belong in distinct or sub-clustered groups, not a single cluster, because they trigger differently. The sycophancy literature (Sharma et al. 2024) gives an additional reason for this caution: the model has a documented tendency to merge things that "look agreeable" together. Resist this in cluster review.
 
+The cluster prompt template makes this explicit: when uncertain between merge and split, **prefer split with cross-reference** over forced merge. Stage 5 can merge two related clusters cheaply, but cannot recover what was wrongly merged at Stage 4 without going back to source.
+
 ### 4.5 Singletons
 
-Directives that match no cluster remain as singletons and proceed to Stage 5 unchanged.
+Directives that match no cluster remain as singletons and proceed to Stage 5 unchanged. Singleton density is informative: a high singleton rate (the proc run: 99 of 188 clusters = 54%) reflects genuine diversity in the surviving directive set and signals where Stage 6 organization (combining singletons under shared activation triggers) and Stage 7 compression (curse-of-instructions budget) will do the heavy lifting toward the final ~30–50 directive deliverable target.
+
+### 4.6 Tooling
+
+- `docs/_manifest/consolidate_for_clustering.py <component>` — walks every chunk where the named component appears in `components`, joins each chunk's `.triage.yaml` to its `.directives.yaml`, and emits one flat YAML at `docs/_manifest/<component>-clustering-input.yaml`. Surviving directives (KEEP + ADAPT, with adapted phrasing operative) appear in the `directives:` section; DROPped directives appear in a `drops:` audit section. Deterministic, no LLM judgment.
+- `docs/_manifest/cluster_prompt_template.md` — XML-tagged clustering template; explicit instructions on grouping by protocol (not by source), preferring split-with-cross-reference, preserving genuine forks, sweeping the directive list multiple times to fight lost-in-the-middle attention.
+- `docs/_manifest/build_cluster_prompt.py <component>` — substitutes the consolidated YAML into the template; emits prompt to stdout.
+- All hash-pinned in `SCRIPT_HASHES`; CLIs allowlisted in `.claude/settings.json`.
+
+### 4.7 Execution
+
+```
+python3 docs/_manifest/consolidate_for_clustering.py <component>
+python3 docs/_manifest/build_cluster_prompt.py <component> > /tmp/cluster_prompts/<component>.prompt.md
+# spawn one Task subagent (general-purpose) that runs `cat <prompt-path>` and follows the protocol
+```
+
+Output: `docs/_manifest/<component>-clusters.yaml`. The agent organizes clusters into thematic sections (commented headers between cluster blocks); these sections become a useful starting scaffold for Stage 6 organization but are not load-bearing for downstream parsing.
+
+### 4.8 Re-running with new chunks
+
+Stages 4.0 and 4 are *idempotent re-runs against the full current corpus*, not append operations. When new chunks complete Stage 3 extraction:
+
+1. Triage the new chunks (Stage 4.0); existing `.triage.yaml` files are untouched.
+2. Re-run `consolidate_for_clustering.py <component>` — automatically picks up the new triage files.
+3. Re-run clustering — produces a new `<component>-clusters.yaml`. Cluster ids change (no stable id mapping across runs), and downstream stages 5–7 must also re-run.
+
+The cost of full Stage 4–7 re-execution from current state is ~30–60 min of LLM wall-clock for the proc deliverable. This is the right behavior: new sources should find cross-source clusters with old ones, not be appended as a separate addendum.
 
 ---
 

@@ -1,0 +1,33 @@
+chunk_id: cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy
+source: cappelen-gendler-hawthorne-2016-oxford-handbook
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d01"
+    decision: keep
+    reason: "Synthesis-time procedure: pick a general account of disagreement and apply it to the case with the empirical facts; AI can do this in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d02"
+    decision: keep
+    reason: "Methodological move: when reporting on disagreement, count peers on each side rather than stopping at 'someone disagrees' — directly applicable to written analysis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d03"
+    decision: keep
+    reason: "Generic caution against over-generalizing from idealized two-person cases to real distributions; AI can flag this in synthesis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d04"
+    decision: keep
+    reason: "Evidential standard the AI can apply in writing: require positive evidence of approximate parity before treating disagreement as undermining."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d05"
+    decision: keep
+    reason: "Domain-precondition check (Minimal Reliability Proviso) the AI can apply when invoking conciliationist reasoning in written analysis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d06"
+    decision: keep
+    reason: "Conceptual distinction (moderating-views vs moderate-opinions) the AI can preserve when reporting on lopsided versus evenly-divided opinion."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch20-kelly-disagreement-in-philosophy/d07"
+    decision: keep
+    reason: "Peer-status qualification the AI can apply in written analysis of messy controversies whose resolution interacts with other disputed claims."
+    adapted_directive: null

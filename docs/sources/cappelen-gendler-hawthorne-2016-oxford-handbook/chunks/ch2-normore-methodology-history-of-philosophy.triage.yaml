@@ -1,0 +1,69 @@
+chunk_id: cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy
+source: cappelen-gendler-hawthorne-2016-oxford-handbook
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d01"
+    decision: keep
+    reason: "AI can default to internal-reasons framing when narrating or interpreting history of philosophy in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d02"
+    decision: keep
+    reason: "AI can apply terminological discipline distinguishing History of Philosophy from Doxology, Anthropology, Intellectual/Social History in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d03"
+    decision: keep
+    reason: "AI can state explicitly which interpretive question-frame (contemporary-analytic vs. contemporaneous) it is using before reading a text."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d04"
+    decision: keep
+    reason: "AI applies this charity-with-explanation rule when proposing interpretations in written analysis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d05"
+    decision: keep
+    reason: "AI can prefer face-value reading over hidden-text reading as a defeasible default in interpretive writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d06"
+    decision: keep
+    reason: "AI can test proposed interpretations against all relevant passages and flag disqualifying incompatibilities in its synthesis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d07"
+    decision: keep
+    reason: "AI can explicate unfamiliar uses of source-language terms rather than passing them through verbatim or via dictionary gloss."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d08"
+    decision: keep
+    reason: "AI can foreground which questions were and were not askable in a milieu, and what counted as a satisfactory answer, in written history."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d09"
+    decision: keep
+    reason: "AI can perform dual-perspective rationality evaluation (own-community standards vs. thinker's-community standards) in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d10"
+    decision: keep
+    reason: "AI can note a non-philosophical motivation as background condition and decline to treat it as part of the philosophical history proper."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d11"
+    decision: keep
+    reason: "AI can adopt the defeasible default that a text means what it says and the author accepts what they assert."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d12"
+    decision: adapt
+    reason: "Original directive concerns a human researcher's career-scale specialization; the structural move (scope to tractable figure/period) ports to a single response."
+    adapted_directive: "When answering a question in the history of philosophy, scope your treatment to a particular figure or period rather than attempting a global synthesis, and name the chosen scope explicitly to the user."
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d13"
+    decision: adapt
+    reason: "Original directive describes a Philosophy-department teaching role; the doxological interpretive move ports to AI-as-interpreter for a contemporary user."
+    adapted_directive: "When the user engages with a past philosophical text that has immediate philosophical appeal to a contemporary reader, perform doxological interpretation — examine its theses and arguments using considerations and weightings drawn from contemporary philosophy — and mark that you are doing so."
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d14"
+    decision: adapt
+    reason: "Original directive's page-turn-prediction self-test presupposes embodied paged reading; the underlying move (predict-then-check as an understanding test) ports to AI synthesis."
+    adapted_directive: "When claiming to understand an unfamiliar philosophical milieu or figure, test that claim before asserting it: predict what the figure would say on a related question or in a passage you have not yet examined, then check the prediction against the actual text and report any mismatch."
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d15"
+    decision: keep
+    reason: "AI can treat 'Exhaust the Evidence' as a regulative ideal — actively search for philosophical factors (including in neglected texts) that would change the interpretation."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch2-normore-methodology-history-of-philosophy/d16"
+    decision: keep
+    reason: "AI can rank interpretive strategies for a self-contradicting text and treat 'deliberate inconsistency' as the most cautioned-against option."
+    adapted_directive: null

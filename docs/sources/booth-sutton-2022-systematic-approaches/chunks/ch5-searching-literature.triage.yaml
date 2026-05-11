@@ -1,0 +1,344 @@
+chunk_id: booth-sutton-2022-systematic-approaches/ch5-searching-literature
+source: booth-sutton-2022-systematic-approaches
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d01"
+    decision: keep
+    reason: "AI can mark the foreground review question and quarantine background questions when planning a search with the user."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d02"
+    decision: keep
+    reason: "AI can reason about the sensitivity/specificity trade-off when proposing search strategies in writing."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d03"
+    decision: keep
+    reason: "Eight-stage procedural framework the AI can follow and surface when assisting a literature review."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d04"
+    decision: keep
+    reason: "AI can advise the user to engage an information specialist as part of search-team planning."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d05"
+    decision: keep
+    reason: "AI can ask the user to commit to comprehensive vs selective scope and to state eligibility criteria up front."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d06"
+    decision: keep
+    reason: "AI can require an a-priori plan for handling emerging sub-topics in iterative reviews."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d07"
+    decision: keep
+    reason: "AI can produce concept maps and propose scoping searches in text."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d08"
+    decision: keep
+    reason: "AI can draft the protocol section recording sources, timing, and supplementary methods."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d09"
+    decision: keep
+    reason: "AI constructs database search strings and can prefer advanced-syntax features (field tags, controlled vocabulary, proximity)."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d10"
+    decision: keep
+    reason: "AI can plan and propose author, reference-list, citation, and grey-literature supplementary searches."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d11"
+    decision: keep
+    reason: "AI can advise the user to route results through reference-management software for de-duplication and screening."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d12"
+    decision: keep
+    reason: "AI can maintain and present a search log of sources, terms, and combinations in its written outputs."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d13"
+    decision: keep
+    reason: "AI can apply PRISMA-S reporting structure when writing up the search section of a systematic review."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d14"
+    decision: keep
+    reason: "AI can recommend involving search expertise from project outset during planning conversations."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d15"
+    decision: keep
+    reason: "AI can advise the user on appropriate co-authorship and grant-credit practices for the search expert as part of methodology guidance."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d16"
+    decision: keep
+    reason: "AI can recommend the PRESS checklist and apply its criteria when reviewing a user's draft search strategy."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d17"
+    decision: keep
+    reason: "AI can suggest recruiting expert advisors for starter papers and term verification on unfamiliar topics."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d18"
+    decision: keep
+    reason: "AI can adopt a sensitivity-prioritising posture when designing searches for effectiveness reviews."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d19"
+    decision: keep
+    reason: "AI can redirect search effort toward purposive/under-represented sources once theoretical saturation is reached in QES."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d20"
+    decision: keep
+    reason: "AI can structure a scoping search around the three named objectives and report against them."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d21"
+    decision: keep
+    reason: "AI can propose both database and grey-literature sources when scoping."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d22"
+    decision: keep
+    reason: "AI can plan purposive cross-disciplinary sampling for a multidisciplinary scoping search."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d23"
+    decision: keep
+    reason: "AI can select specificity-prioritising terms when constructing a scoping search."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d24"
+    decision: keep
+    reason: "AI can perform pearl-growing — extract terms and authors from known key papers' titles, abstracts, and references."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d25"
+    decision: keep
+    reason: "AI can produce the methods-section narrative explaining conceptualisation, sources, and supplementary methods plus an example string."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d26"
+    decision: keep
+    reason: "AI can decide which PICOS concepts to include in the search vs leave to screening."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d27"
+    decision: keep
+    reason: "AI can build synonym and related-term subgroups for each concept when assembling term lists."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d28"
+    decision: keep
+    reason: "AI can recommend broad multidisciplinary databases alongside topic-specific ones when planning sources."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d29"
+    decision: keep
+    reason: "AI can prioritise high-yield/high-risk supplementary sources when budgeting search effort with the user."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d30"
+    decision: keep
+    reason: "AI can require methodological/policy/practice justification for any date limit it proposes or accepts."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d31"
+    decision: keep
+    reason: "AI can reason explicitly about meta-analysis impact and contextual staleness when discussing date restrictions."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d32"
+    decision: keep
+    reason: "AI can record scoping-stage decisions a priori in the protocol it drafts."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d33"
+    decision: keep
+    reason: "AI can document each search-limitation decision with its rationale for the Discussion section."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d34"
+    decision: keep
+    reason: "AI can keep a search summary table recording iterative decisions and per-method result counts."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d35"
+    decision: keep
+    reason: "AI should not assume databases hold full text and should design strategies for title/abstract/index field searching."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d36"
+    decision: keep
+    reason: "AI can apply truncation in constructed search strings while flagging over-truncation risks."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d37"
+    decision: keep
+    reason: "AI can apply platform-appropriate wildcards for spelling variants in the middle of words."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d38"
+    decision: keep
+    reason: "AI can encase phrases in quotation marks and generate hyphen variants combined with OR when building strings."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d39"
+    decision: keep
+    reason: "AI can incorporate controlled-vocabulary subject headings (e.g. MeSH) into search strategies it builds."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d40"
+    decision: keep
+    reason: "AI can construct database-specific strategies one database at a time rather than reusing a single string."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d41"
+    decision: keep
+    reason: "AI can flag uncertainty about a subject heading and consult/quote scope notes before using it."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d42"
+    decision: keep
+    reason: "AI applies Boolean OR/AND/NOT correctly when assembling search strings."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d43"
+    decision: keep
+    reason: "AI can use NOT cautiously and propose sampling excluded records to verify the operator's effect."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d44"
+    decision: keep
+    reason: "AI can quote phrases that contain literal AND/OR/NOT words so the database does not parse them as Boolean."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d45"
+    decision: keep
+    reason: "AI can choose proximity operators for variable-phrasing concepts and consult per-database help-page conventions."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d46"
+    decision: keep
+    reason: "AI can flag the bias risk of language limits when proposing them to the user."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d47"
+    decision: keep
+    reason: "AI can restrict indexing-based limits to specificity-maximising searches and avoid them where sensitivity is critical."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d48"
+    decision: keep
+    reason: "AI can prefer validated published filters over ad-hoc ones when applying study-design or population filters."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d49"
+    decision: adapt
+    reason: "Surface 'save in the database platform' presupposes the AI is operating a database UI; the structural move ports to recording the strategy in writing."
+    adapted_directive: "When designing or running a database search, record each constructed search string in full (including database, platform, syntax, and date) so the user can rerun it later to correct errors, add omitted terms, or refresh against newly-published papers."
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d50"
+    decision: keep
+    reason: "AI can craft a targeted grey-literature strategy by type that balances practicality and rigour."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d51"
+    decision: keep
+    reason: "AI can recommend organisational-website visits and require records of grey-literature searches."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d52"
+    decision: keep
+    reason: "AI can scan reference lists of included papers and diagnose why missed papers were missed."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d53"
+    decision: keep
+    reason: "AI can search by named author and recommend the user contact authors for unpublished work, with the uncommon-name caveat."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d54"
+    decision: keep
+    reason: "AI can specify citation-searching tools (Scopus, Web of Science, Google Scholar) and the age/discipline conditions where it pays off."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d55"
+    decision: keep
+    reason: "AI can advise against using full-text journal search as a database-search substitute and confine it to highly specific terms."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d56"
+    decision: keep
+    reason: "AI can require account-for-every-reference reporting in the methods writeup."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d57"
+    decision: keep
+    reason: "AI can recommend established SR-management software (Covidence, DistillerSR, Rayyan, EPPI-Reviewer) and warn against learning new tools mid-rapid-review."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d58"
+    decision: keep
+    reason: "AI can produce thorough search documentation as part of its standard output."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d59"
+    decision: keep
+    reason: "AI can produce the named minimum documentation elements (databases, platform, dates, filters, per-stage counts, full example string) in its writeup."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d60"
+    decision: keep
+    reason: "AI can apply a consistent reporting template across all searches in one review."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d61"
+    decision: keep
+    reason: "AI can omit outcomes terms from PICO(S) effectiveness-review searches to preserve sensitivity."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d62"
+    decision: keep
+    reason: "AI can assemble searches concept-by-concept with the named OR/AND escalation order and stop-at-manageable heuristic."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d63"
+    decision: keep
+    reason: "AI can construct the '#new NOT #old' delta-search pattern when adding a missed term post-hoc."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d64"
+    decision: keep
+    reason: "AI can disambiguate abbreviations and reject those with multiple-context meanings before placing them in a search."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d65"
+    decision: keep
+    reason: "AI can prescribe the manual-after-automated de-dup workflow and the pre/post counts for the PRISMA flowchart."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d66"
+    decision: keep
+    reason: "AI can apply the 'try unfiltered first, add filter only if unmanageable' heuristic and pick study-design or geographic filters accordingly."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d67"
+    decision: keep
+    reason: "AI can extract alternative terms from known key papers and account for inconsistent indexing when building term lists."
+    adapted_directive: null
+
+  - id: "booth-sutton-2022-systematic-approaches/ch5-searching-literature/d68"
+    decision: keep
+    reason: "AI can iterate on search strategies based on result evaluation and produce the documentation needed for the writeup."
+    adapted_directive: null

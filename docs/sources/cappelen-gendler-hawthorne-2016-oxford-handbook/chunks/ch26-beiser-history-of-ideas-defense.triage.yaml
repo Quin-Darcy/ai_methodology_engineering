@@ -1,0 +1,77 @@
+chunk_id: cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense
+source: cappelen-gendler-hawthorne-2016-oxford-handbook
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d01"
+    decision: keep
+    reason: "Identifying the question a passage answers is a core text-based interpretive move the AI performs in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d02"
+    decision: keep
+    reason: "Reconstructing arguments into premises and conclusions is a written analytical operation directly executable by the AI."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d03"
+    decision: keep
+    reason: "Appraising formal validity and evidence quality is a textual reasoning task the AI performs natively."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d04"
+    decision: keep
+    reason: "Refusing to reconstruct without historical context is a synthesis-time discipline the AI applies in research writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d05"
+    decision: keep
+    reason: "Refusing to substitute speculation for sourced research is a discipline the AI enforces in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d06"
+    decision: adapt
+    reason: "Surface phrase 'learn the language' does not fit AI; operation — engage original-language sources, not a single translation — does port."
+    adapted_directive: "When interpreting a philosophical text written in a language other than the conversation's working language, consult the original-language text and compare multiple translations rather than relying on a single translator's rendering; flag where translation choices materially affect interpretation."
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d07"
+    decision: keep
+    reason: "Interpretive charity — seeking coherence before criticizing — is a written interpretive discipline directly executable by the AI."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d08"
+    decision: keep
+    reason: "Withholding criticism until charitable reconstruction is complete is a writing-time discipline the AI can enforce."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d09"
+    decision: keep
+    reason: "Identifying intellectual and social-political context of a text is standard textual research the AI performs."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d10"
+    decision: keep
+    reason: "Recovering authorial intention from text and context is a research-writing operation the AI executes."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d11"
+    decision: keep
+    reason: "Standpoint reconstruction — interpreting from the author's vantage — is a written hermeneutic move the AI performs."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d12"
+    decision: keep
+    reason: "Internal critique by the author's own goals and standards is a textual evaluative move the AI executes directly."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d13"
+    decision: keep
+    reason: "Checking goal-attainment, evidence sufficiency, entailment, and ambiguity is core written critical analysis the AI performs."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d14"
+    decision: keep
+    reason: "Mapping a text's logical geography (premises, implications, term-meanings, evidence, contradictions) is exactly what the AI does in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d15"
+    decision: keep
+    reason: "Synthesizing historical reconstruction with internal critique is a composition-time research discipline the AI applies."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d16"
+    decision: keep
+    reason: "Inquiring into authorial purpose alongside argument validity is a textual research move the AI performs in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d17"
+    decision: keep
+    reason: "Constantly investigating moral, religious, political motives is a research-writing discipline the AI can apply."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch26-beiser-history-of-ideas-defense/d18"
+    decision: keep
+    reason: "Asking whether an argument achieves the author's stated purpose is a written critical operation the AI performs."
+    adapted_directive: null

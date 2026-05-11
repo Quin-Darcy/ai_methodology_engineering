@@ -1,0 +1,221 @@
+chunk_id: booth-sutton-2022-systematic-approaches/ch4-defining-scope
+source: booth-sutton-2022-systematic-approaches
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d01"
+    decision: keep
+    reason: "AI can press the user for an answerable question and propose a framework in writing — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d02"
+    decision: keep
+    reason: "AI can require explicit aim-statements at the outset of a research task — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d03"
+    decision: keep
+    reason: "AI can articulate scope inclusions and exclusions in writing — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d04"
+    decision: keep
+    reason: "AI can draft and prompt for a written review protocol during scope definition — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d05"
+    decision: keep
+    reason: "AI can perform descriptive/concept mapping in text and recommend method selection — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d06"
+    decision: keep
+    reason: "AI can elicit and record the three scoping decisions explicitly — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d07"
+    decision: keep
+    reason: "AI can rewrite vague objectives into SMART form and flag non-SMART aims — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d08"
+    decision: keep
+    reason: "AI can include explicit coverage and omission statements in written outputs — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d09"
+    decision: keep
+    reason: "AI can recommend and help conduct a scoping search before fixing scope — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d10"
+    decision: keep
+    reason: "AI can survey existing reviews and identify a niche in writing before protocol drafting — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d11"
+    decision: keep
+    reason: "AI can query and cite PROSPERO and other registers for existing/ongoing reviews — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d12"
+    decision: adapt
+    reason: "Contacting other groups is a user action; the structural move (flag overlap, recommend coordination or topic shift) is AI-adaptable."
+    adapted_directive: "When a scoping check surfaces another group working on a closely related review, surface this overlap to the user and recommend either reaching out for collaboration or pivoting to a unique but related sub-topic."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d13"
+    decision: keep
+    reason: "AI can apply a stepwise evidence hierarchy when assembling sources for a rapid review — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d14"
+    decision: keep
+    reason: "AI can apply review-type filters and target review databases when searching — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d15"
+    decision: adapt
+    reason: "Consulting key people is a user action; the structural move (surface audience needs explicitly in scoping) is AI-adaptable."
+    adapted_directive: "When defining a review scope, prompt the user to name the intended audience and surface what that audience would most need answered, then test the candidate question against those needs."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d16"
+    decision: adapt
+    reason: "Contacting experts is a user action; the structural move (recommend expert input when stakes are high) ports to a written prompt."
+    adapted_directive: "When a review's findings will likely inform professional practice or policy, flag the need for expert consultation to the user and recommend specific expert categories whose input would strengthen the question."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d17"
+    decision: adapt
+    reason: "Stakeholder co-design is a user action; the structural move (jointly devise the question with stakeholder framing) is AI-adaptable."
+    adapted_directive: "Where commercial, community or professional interest in the findings is identified, recommend stakeholder involvement to the user and help draft the review question to incorporate stakeholder concerns without letting any single party dictate findings."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d18"
+    decision: keep
+    reason: "AI can decompose a topic into PICOS facets in writing — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d19"
+    decision: keep
+    reason: "AI can substitute Exposure for Intervention in PICOS for non-intervention topics — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d20"
+    decision: keep
+    reason: "AI can include negative and unexpected outcomes in search and reporting — directly applicable bias-control move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d21"
+    decision: keep
+    reason: "AI can identify essential facets and restrict search-strategy terms accordingly — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d22"
+    decision: keep
+    reason: "AI can select SPIDER or SPICE rather than PICOS for qualitative questions — directly applicable framework choice."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d23"
+    decision: keep
+    reason: "AI can apply CIMO for management/realist synthesis questions — directly applicable framework choice."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d24"
+    decision: keep
+    reason: "AI can prune a framework to 2–3 key facets when designing a search strategy — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d25"
+    decision: keep
+    reason: "AI can apply PerSPE(c)TiF when scoping a complex-intervention review — directly applicable framework choice."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d26"
+    decision: adapt
+    reason: "Discussing widely with colleagues is a user action; the structural move (test the question against multiple perspectives in writing) is AI-adaptable."
+    adapted_directive: "When framing a review question, generate stakeholder- and colleague-style critiques of the candidate question (clinician, policy-maker, methodologist, target user) and test the question against each before fixing it."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d27"
+    decision: keep
+    reason: "AI can choose a straightforward effectiveness lens while documenting acknowledged complexity — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d28"
+    decision: adapt
+    reason: "Stakeholder prioritisation is a user action; the structural move (telescope outcomes against practice/policy relevance) is AI-adaptable."
+    adapted_directive: "For a rapid review aimed at practice and policy, propose a telescoped outcome list ordered by relevance to professionals, policy-makers and the public, and prompt the user to confirm priorities (or to consult stakeholders for confirmation)."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d29"
+    decision: keep
+    reason: "AI can make and justify a lump-or-split decision in writing given resource constraints — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d30"
+    decision: keep
+    reason: "AI can recommend and structure a mixed-methods synthesis for complex systems — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d31"
+    decision: keep
+    reason: "AI can write precise intervention descriptions and run scoping searches on terminology — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d32"
+    decision: keep
+    reason: "AI can apply TIDieR or TIDieR-Lite to describe intervention components — directly applicable template use."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d33"
+    decision: adapt
+    reason: "Contacting authors is a user action; the structural move (target process evaluations and recommend author contact) is AI-adaptable."
+    adapted_directive: "When studies provide insufficient detail about a complex intervention, redirect scoping searches toward secondary study types such as process evaluations, and flag to the user which authors would be worth contacting for the missing detail."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d34"
+    decision: keep
+    reason: "AI can draft text-based logic models to clarify and prioritise review questions — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d35"
+    decision: keep
+    reason: "AI can recommend partial systematisation when a full systematic review is infeasible — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d36"
+    decision: keep
+    reason: "AI can run initial database searches and identify gaps in writing — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d37"
+    decision: keep
+    reason: "AI can apply mapping techniques after a scoping search to refine question scope — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d38"
+    decision: keep
+    reason: "AI can assign keywords to studies and present a descriptive map or table in writing — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d39"
+    decision: keep
+    reason: "AI can recommend and explain text-mining/ML screening tools when citation volume is high — directly applicable tool recommendation."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d40"
+    decision: keep
+    reason: "AI can produce text-based or structured concept maps to support scope definition — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d41"
+    decision: keep
+    reason: "AI can perform a written concept analysis when key terminology lacks clarity — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d42"
+    decision: keep
+    reason: "AI can flag selection-bias risk when sampling literature for concept analysis — directly applicable bias-control move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d43"
+    decision: keep
+    reason: "AI can name the sampling approach explicitly and document selection criteria in the methods — directly applicable transparency move."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d44"
+    decision: keep
+    reason: "AI can re-anchor each search/screening step to the original scope and flag drift — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d45"
+    decision: keep
+    reason: "AI can draft and append a changes clause to a written protocol when scope shifts — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d46"
+    decision: keep
+    reason: "AI can draft a written review protocol that lays out each step in advance — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d47"
+    decision: keep
+    reason: "AI can structure a protocol to PRISMA-P components (admin, intro, methods, synthesis, evaluation, timeline) — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d48"
+    decision: keep
+    reason: "AI can specify data-extraction variables and reference or design extraction forms in the protocol — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d49"
+    decision: keep
+    reason: "AI can document the sift process and disagreement-resolution rules in the protocol — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d50"
+    decision: adapt
+    reason: "Submission and registration are user actions; the structural move (precede the rapid review with a registrable, agreed protocol) is AI-adaptable."
+    adapted_directive: "Before any rapid review, draft a complete protocol suitable for commissioner sign-off and registry deposit (e.g., PROSPERO or OSF), and prompt the user to confirm both have been completed before search begins."
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d51"
+    decision: keep
+    reason: "AI can record post hoc protocol changes (eligibility, etc.) iteratively in writing — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d52"
+    decision: keep
+    reason: "AI can narrow focus or apply evidence-type restrictions and document the rationale — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d53"
+    decision: keep
+    reason: "AI can prune a multi-question topic to a manageable set and use a logic model to prioritise — directly applicable."
+    adapted_directive: null
+  - id: "booth-sutton-2022-systematic-approaches/ch4-defining-scope/d54"
+    decision: keep
+    reason: "AI can iteratively expand concepts one at a time and report retrieval impact — directly applicable iterative move."
+    adapted_directive: null

@@ -1,0 +1,113 @@
+chunk_id: cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics
+source: cappelen-gendler-hawthorne-2016-oxford-handbook
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d01"
+    decision: keep
+    reason: "Searching extreme/near-extreme cases for counterexamples is a textual reasoning move the AI performs directly."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d02"
+    decision: keep
+    reason: "Constructing self-referential / diagonal cases is a written reasoning move available to the AI."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d03"
+    decision: keep
+    reason: "Checking whether a self-applicable thesis treats itself consistently is a textual analytic move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d04"
+    decision: keep
+    reason: "Transferring arguments across analogous domains is a synthesis move the AI executes in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d05"
+    decision: keep
+    reason: "Systematic enumeration of relevant cases is a tractable text-side procedure for the AI."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d06"
+    decision: keep
+    reason: "Running uniqueness/existence checks on definite descriptions is a clean diagnostic move in text."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d07"
+    decision: keep
+    reason: "Checking existence presupposition of indefinite descriptions is a textual diagnostic the AI can perform."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d08"
+    decision: keep
+    reason: "Paraphrasing to expose hidden definite/indefinite descriptions is a written analytic operation."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d09"
+    decision: keep
+    reason: "Checking for indeterminacy in count or referent is a textual diagnostic move the AI can apply."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d10"
+    decision: keep
+    reason: "Treating arbitrary choice as prima facie flaw is an evaluative move the AI performs in analysis."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d11"
+    decision: keep
+    reason: "Ordering symmetry-breaking before symmetry-preserving responses is a written procedural choice."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d12"
+    decision: keep
+    reason: "Generating dual/complementary approaches to a problem is a written reasoning move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d13"
+    decision: keep
+    reason: "Continuity reasoning about input/output sensitivity is a textual analytic move the AI can execute."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d14"
+    decision: keep
+    reason: "Checking reversibility of slippery-slope arguments is a written critique the AI can apply."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d15"
+    decision: keep
+    reason: "Making the similarity metric explicit and questioning its arbitrariness is a textual analytic move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d16"
+    decision: keep
+    reason: "Importing mathematical theorems to do philosophical work is a written synthesis move the AI performs."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d17"
+    decision: keep
+    reason: "Spelling out ancillary philosophical premises behind math-to-philosophy moves is a textual analytic move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d18"
+    decision: keep
+    reason: "Diagnosing degree/vagueness mismatch between analysandum and analysans is a textual analytic move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d19"
+    decision: keep
+    reason: "Considering modus tollens on a premise rather than modus ponens to a conclusion is a written reasoning move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d20"
+    decision: keep
+    reason: "Examining the converse configuration of a problem is a written reasoning move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d21"
+    decision: keep
+    reason: "Recovering heuristic value from a failed analysis is an evaluative move the AI can perform in writing."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d22"
+    decision: keep
+    reason: "Translating probability problems into frequency form is a textual reasoning aid the AI can execute."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d23"
+    decision: keep
+    reason: "Replacing non-extensional notions with extensional surrogates in reasoning is a written analytic move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d24"
+    decision: keep
+    reason: "Substituting easier surrogate concepts during reasoning is a written analytic move."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d25"
+    decision: adapt
+    reason: "AI cannot render bitmap diagrams in chat; can produce ASCII/text diagrams or describe the diagram's structure verbally."
+    adapted_directive: "When conceptual relationships are obscure, render them in a text-representable visual form (ASCII Venn/causal/Kripke diagrams, structured tables, or step-by-step verbal descriptions of the diagram's regions and relations) rather than relying solely on prose; pair with the extensional-surrogate move when applicable."
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d26"
+    decision: keep
+    reason: "Checking one's own outputs for consistency and unwelcome consequences is a textual self-check the AI performs."
+    adapted_directive: null
+  - id: "cappelen-gendler-hawthorne-2016-oxford-handbook/ch19-hajek-philosophical-heuristics/d27"
+    decision: keep
+    reason: "Selecting middling-generality heuristics governs the AI's own formulation of guidance in writing."
+    adapted_directive: null

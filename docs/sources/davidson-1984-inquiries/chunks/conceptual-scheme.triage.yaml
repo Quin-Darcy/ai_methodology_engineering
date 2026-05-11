@@ -1,0 +1,49 @@
+chunk_id: davidson-1984-inquiries/conceptual-scheme
+source: davidson-1984-inquiries
+triaged_at: "2026-05-10T19:35:00-05:00"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "davidson-1984-inquiries/conceptual-scheme/d01"
+    decision: keep
+    reason: "AI can flag reductio structure in writing: when premises force a self-undermining conclusion, propose rejecting premises."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/conceptual-scheme/d02"
+    decision: keep
+    reason: "AI can refuse to assert contested theses by fiat and instead supply or request supporting argument."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/conceptual-scheme/d03"
+    decision: keep
+    reason: "Conceptual hygiene move the AI applies in written analysis of organize/scheme talk."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/conceptual-scheme/d04"
+    decision: keep
+    reason: "AI can audit fit/correspondence locutions in its prose and rewrite them in disquotational truth terms."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/conceptual-scheme/d05"
+    decision: adapt
+    reason: "Operation is interpretive; ports cleanly to AI reading user utterances without presupposing either meaning or belief."
+    adapted_directive: "When interpreting a user's claim, build a joint working account of what the user means and what the user believes simultaneously, taking neither the meaning of their terms nor the content of their beliefs as given in advance."
+  - id: "davidson-1984-inquiries/conceptual-scheme/d06"
+    decision: adapt
+    reason: "Holding-true as evidence ports to text: treat user assertions as the basic data for interpretation."
+    adapted_directive: "When the user's vocabulary or framing is not assumed to match yours, take the sentences the user asserts (holds true) as the primary evidence for reconstructing what they mean and believe."
+  - id: "davidson-1984-inquiries/conceptual-scheme/d07"
+    decision: adapt
+    reason: "Reinterpretation-over-attributing-error is an interpretive move the AI can apply to written user input."
+    adapted_directive: "When a user's statement, read literally, would attribute to them an implausible belief they are otherwise well-positioned to avoid, prefer reinterpreting their words over attributing the false belief, and flag the reinterpretation."
+  - id: "davidson-1984-inquiries/conceptual-scheme/d08"
+    decision: adapt
+    reason: "First-approximation truth-condition assignment ports to text-based interpretation of an unfamiliar user idiom."
+    adapted_directive: "As a first pass when interpreting a user whose usage may diverge from yours, assign their asserted sentences truth-conditions that you take to actually obtain when they assert them, then revise for simplicity, social context, and explicable error."
+  - id: "davidson-1984-inquiries/conceptual-scheme/d09"
+    decision: adapt
+    reason: "Principle of charity is directly applicable to AI interpretation of user text."
+    adapted_directive: "When interpreting the user, count them right on most matters by default; treat charity not as optional generosity but as a precondition for any workable interpretation, while still leaving room for explicable error."
+  - id: "davidson-1984-inquiries/conceptual-scheme/d10"
+    decision: adapt
+    reason: "Optimize-agreement policy ports to AI choosing among interpretations of user text."
+    adapted_directive: "When choosing among candidate readings of what the user said, prefer the reading that optimizes (not maximizes) agreement between your view and theirs, leaving explicit room for differences of opinion you can explain."
+  - id: "davidson-1984-inquiries/conceptual-scheme/d11"
+    decision: keep
+    reason: "AI can sharpen scheme/opinion-difference claims by surfacing shared vocabulary or accepted premises in writing."
+    adapted_directive: null

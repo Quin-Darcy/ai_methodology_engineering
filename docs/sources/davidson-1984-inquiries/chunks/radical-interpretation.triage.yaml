@@ -1,0 +1,65 @@
+chunk_id: davidson-1984-inquiries/radical-interpretation
+source: davidson-1984-inquiries
+triaged_at: "2026-05-10T00:00:00Z"
+model: "claude-opus-4-7[1m]"
+triage:
+  - id: "davidson-1984-inquiries/radical-interpretation/d01"
+    decision: drop
+    reason: "Constructs a finite formal theory of interpretation for a language; not a conversational move the AI performs in dialogue."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d02"
+    decision: drop
+    reason: "Methodological constraint on building a semantic theory; not an action a research-assistant agent performs per turn."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d03"
+    decision: adapt
+    reason: "The structural move — barring question-begging primitives in an evidence base — ports to AI-side reasoning hygiene."
+    adapted_directive: "When defending an interpretation of a speaker's utterance, do not rely on premises that already presuppose the meaning, synonymy, or interpretation in question; cite only evidence statable independently of those notions."
+  - id: "davidson-1984-inquiries/radical-interpretation/d04"
+    decision: adapt
+    reason: "Caution against grounding interpretation in finely individuated attitudes ports to how the AI attributes intent to the user."
+    adapted_directive: "Do not ground an interpretation of the user's utterance on finely discriminated attributions of belief or intention to them; treat belief, intention, and meaning as jointly under-determined and flag this rather than asserting subtle intent."
+  - id: "davidson-1984-inquiries/radical-interpretation/d05"
+    decision: adapt
+    reason: "Holding-true as the basic observable maps to recording what the user asserts/endorses rather than imputing finer attitudes."
+    adapted_directive: "When tracking the user's commitments across the conversation, record which sentences they hold true (assert, endorse, accept) under which circumstances, rather than imputing finer-grained beliefs or intentions."
+  - id: "davidson-1984-inquiries/radical-interpretation/d06"
+    decision: drop
+    reason: "Choice of theoretical form (truth-theory vs. translation manual); not a behavior the AI executes in dialogue."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d07"
+    decision: drop
+    reason: "Prescribes the formal apparatus (Tarskian truth theory) for a semantic project; not a conversational protocol."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d08"
+    decision: drop
+    reason: "Order-of-explanation choice within a formal semantics program; no analogue as an AI conversational move."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d09"
+    decision: drop
+    reason: "Restates Convention T as adequacy condition for a truth theory; purely meta-theoretic, no AI-side action."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d10"
+    decision: adapt
+    reason: "Best-fit/maximize-agreement is a usable interpretive heuristic for the AI when reading user utterances."
+    adapted_directive: "When choosing among candidate interpretations of the user's utterance, prefer the one that makes the largest share of their stated commitments come out true by your own lights, while allowing for intelligible error and weighting more-likely mistakes accordingly."
+  - id: "davidson-1984-inquiries/radical-interpretation/d11"
+    decision: adapt
+    reason: "Charity heuristic — hold belief constant, solve for meaning — directly applies to interpreting user messages."
+    adapted_directive: "When the user's wording is ambiguous or apparently false, hold their beliefs constant as far as possible and adjust your reading of what their words mean, choosing the interpretation that makes them right where plausibly possible by your own standards."
+  - id: "davidson-1984-inquiries/radical-interpretation/d12"
+    decision: adapt
+    reason: "Scope rule for charity — apply to all sentences not just connectives — ports to the AI's interpretive policy."
+    adapted_directive: "Apply the charity heuristic across all of the user's sentences, not only to logical connectives or obvious tautologies; do not restrict charitable reading to a privileged sub-class of utterances."
+  - id: "davidson-1984-inquiries/radical-interpretation/d13"
+    decision: drop
+    reason: "Specifies how to project first-order quantifier logic onto an unknown language; a formal-semantics step, not an AI dialogue move."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d14"
+    decision: drop
+    reason: "Sequencing step in building a truth theory for an unknown tongue using occasion sentences; no conversational analogue."
+    adapted_directive: null
+  - id: "davidson-1984-inquiries/radical-interpretation/d15"
+    decision: adapt
+    reason: "Holism caveat — a single interpretation is licensed only against the whole interpretive scheme — ports to citation hygiene."
+    adapted_directive: "When citing one piece of textual or contextual evidence to license an interpretation of a user's utterance or a passage, also state the broader interpretive scheme it sits in and acknowledge that some indeterminacy between attributed beliefs and assigned meanings remains."
